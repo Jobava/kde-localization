@@ -58,9 +58,9 @@ msgid ""
 "&kdeprint; sections via <quote>virtual folders</quote>. These folders "
 "provide some information about and quick access to your print subsystem."
 msgstr ""
-"Dispozitivul de I/E <acronym>print</acronym> vă permite să răsfoiţi rapid "
-"diferitele secţiuni ale &kdeprint; prin intermediul <quote>folderelor "
-"virtuale</quote>. Aceste foldere vă afişează informaţii despre subsistemul "
+"Dispozitivul de I/E <acronym>print</acronym> vă permite să răsfoiți rapid "
+"diferitele secțiuni ale &kdeprint; prin intermediul <quote>folderelor "
+"virtuale</quote>. Aceste foldere vă afișează informații despre subsistemul "
 "de tipărire."
 
 #. Tag: para
@@ -75,11 +75,11 @@ msgid ""
 "of your print system and lets you create new printers and classes."
 msgstr ""
 "<command>print:/</command> reprezintă unul din multele dispozitive utile "
-"implementate de &kde;. Pentru a-l accesa nu trebuie decît să scrieţi "
+"implementate de &kde;. Pentru a-l accesa nu trebuie decît să scrieți "
 "<userinput>print:/</userinput> în cîmpul de adresă al &konqueror;. "
 "<userinput>print:/</userinput> nu oferă numai un acces <quote>în mod citire</"
-"quote> la subsistemul de tipărire, ci vă permite să modificaţi setările "
-"imprimantelor şi de asemenea să adăugaţi noi imprimante şi clase."
+"quote> la subsistemul de tipărire, ci vă permite să modificați setările "
+"imprimantelor și de asemenea să adăugați noi imprimante și clase."
 
 #. Tag: para
 #: index.docbook:34
@@ -88,7 +88,7 @@ msgid ""
 "You are asked for the Administrator or root password, if you are not allowed "
 "a view or an operation as a normal user."
 msgstr ""
-"Dacă o anumită operaţie sau anumite informaţii nu sînt accesibile unui "
+"Dacă o anumită operație sau anumite informații nu sînt accesibile unui "
 "utilizator normal, vi se va cere parola de \"administrator\" sau \"root\"."
 
 #. Tag: para
@@ -98,7 +98,7 @@ msgid ""
 "You can bookmark frequently used shortcuts like <command>print:/manager</"
 "command>"
 msgstr ""
-"Puteţi să salvaţi semnele de carte utilizate frecvent, precum "
+"Puteți să salvați semnele de carte utilizate frecvent, precum "
 "<command>print:/manager</command>"
 
 #. Tag: para
@@ -124,14 +124,14 @@ msgid ""
 "LPD is not capable of using the same amount of print settings as are "
 "possible in CUPS)."
 msgstr ""
-"Observaţie: Unele vizualizări şi acţiuni depind puternic de subsistemul de "
-"tipărire care este instalat pe calculatorul dumneavoastră şi activat pentru "
-"&kde;. Paginile cu informaţii despre imprimante afişează numai acele părţi "
+"Observație: Unele vizualizări și acțiuni depind puternic de subsistemul de "
+"tipărire care este instalat pe calculatorul dumneavoastră și activat pentru "
+"&kde;. Paginile cu informații despre imprimante afișează numai acele părți "
 "care sînt valide pentru subsistemul de tipărire &kde; selectat. Dacă în mod "
-"normal rulaţi <acronym>CUPS</acronym>, dar aţi comutat temporar la "
-"<quote>Tipărire LPD UNIX generică</quote> -- ceea ce este posibil -- veţi "
-"vedea mult mai puţine informaţii deoarece LPD nu este capabil să utilizeze "
-"acelaşi volum de setări ca în CUPS."
+"normal rulați <acronym>CUPS</acronym>, dar ați comutat temporar la "
+"<quote>Tipărire LPD UNIX generică</quote> -- ceea ce este posibil -- veți "
+"vedea mult mai puține informații deoarece LPD nu este capabil să utilizeze "
+"același volum de setări ca în CUPS."
 
 #. Tag: para
 #: index.docbook:55
@@ -140,8 +140,8 @@ msgid ""
 "Valid syntax to access different virtual folders and a short explanation of "
 "what they represent:"
 msgstr ""
-"Sintaxa corectă pentru a accesa diferite foldere virtuale şi o scurtă "
-"explicaţie despre ceea ce reprezintă:"
+"Sintaxa corectă pentru a accesa diferite foldere virtuale și o scurtă "
+"explicație despre ceea ce reprezintă:"
 
 #. Tag: title
 #: index.docbook:59
@@ -164,9 +164,9 @@ msgid ""
 "<quote>Classes</quote>, <quote>Jobs</quote>, <quote>Manager</quote>, "
 "<quote>Printers</quote>, and <quote>Specials</quote>"
 msgstr ""
-"rădăcina virtuală pentru răsfoirea subsistemului de tipărire. Afişează "
+"rădăcina virtuală pentru răsfoirea subsistemului de tipărire. Afișează "
 "subfolderele <quote>Clase</quote>, <quote>Lucrări</quote>, <quote>Manager</"
-"quote>, <quote>Imprimante</quote> şi <quote>Speciale</quote>"
+"quote>, <quote>Imprimante</quote> și <quote>Speciale</quote>"
 
 #. Tag: term
 #: index.docbook:74
@@ -182,7 +182,7 @@ msgstr ""
 #: index.docbook:77
 #, no-c-format
 msgid "view your printer classes (supported by and useful for CUPS only)"
-msgstr "afişează clasele de imprimante (suportat şi util numai pentru CUPS)"
+msgstr "afișează clasele de imprimante (suportat și util numai pentru CUPS)"
 
 #. Tag: term
 #: index.docbook:85
@@ -201,7 +201,7 @@ msgid ""
 "view all members of the named printer class (supported by and useful only "
 "for CUPS)"
 msgstr ""
-"afişează toţi membrii clasei de imprimante (suportat şi util numai pentru "
+"afișează toți membrii clasei de imprimante (suportat și util numai pentru "
 "CUPS)"
 
 #. Tag: term
@@ -216,7 +216,7 @@ msgstr ""
 #: index.docbook:98
 #, no-c-format
 msgid "lists the current and pending jobs."
-msgstr "listează lucrările curente şi în aşteptare"
+msgstr "listează lucrările curente și în așteptare"
 
 #. Tag: term
 #: index.docbook:103
@@ -235,8 +235,8 @@ msgid ""
 "lists all your printers. Clicking on a printer name shows more info about "
 "that printer."
 msgstr ""
-"listează toate imprimantele dumneavoastră. Dacă daţi clic pe numele unei "
-"imprimante, veţi vedea mai multe informaţii despre acea imprimantă."
+"listează toate imprimantele dumneavoastră. Dacă dați clic pe numele unei "
+"imprimante, veți vedea mai multe informații despre acea imprimantă."
 
 #. Tag: term
 #: index.docbook:113
@@ -252,7 +252,7 @@ msgstr ""
 #: index.docbook:116
 #, no-c-format
 msgid "displays useful info about the named printer"
-msgstr "afişează informaţii utile despre imprimantă"
+msgstr "afișează informații utile despre imprimantă"
 
 #. Tag: term
 #: index.docbook:122
@@ -273,15 +273,15 @@ msgid ""
 "administrative task."
 msgstr ""
 "deschide o pagină foarte similară cu modulul Manager &kdeprint; din Centrul "
-"de Control &kde;. Aici puteţi comuta un sistem de tipărire diferit sau să "
-"executaţi orice altă acţiune administrativă."
+"de Control &kde;. Aici puteți comuta un sistem de tipărire diferit sau să "
+"executați orice altă acțiune administrativă."
 
 #. Tag: para
 #: index.docbook:129
 #, no-c-format
 msgid "This is the most important of access points to your printing system."
 msgstr ""
-"Acesta este una dintre cele mai importante părţi ale sistemului "
+"Acesta este una dintre cele mai importante părți ale sistemului "
 "dumneavoastră de tipărire."
 
 #. Tag: term
@@ -302,7 +302,7 @@ msgid ""
 "see:"
 msgstr ""
 "listează toate <quote>imprimantele speciale</quote> disponibile. Este "
-"posibil să vedeţi:"
+"posibil să vedeți:"
 
 #. Tag: para
 #: index.docbook:142
@@ -342,7 +342,7 @@ msgid ""
 "\"simul\">&Alt;<keycap>F2</keycap></keycombo>)"
 msgstr ""
 "Puteți introduce <command>print:/manager</command> sau similar ca și comandă "
-"în mini-linia de comandă (activată cu combinaţia de taste <keycombo action="
+"în mini-linia de comandă (activată cu combinația de taste <keycombo action="
 "\"simul\">&Alt;<keycap>F2</keycap></keycombo>)"
 
 #. Tag: para
@@ -358,11 +358,11 @@ msgid ""
 "printing.kde.org/faq/\">FAQs</ulink> and Tips and Tricks related to printing "
 "in general."
 msgstr ""
-"Puteţi afla mai multe despre tipărire şi funcţiile puternice ale &kdeprint; "
-"dacă citiţi <ulink url=\"help:/kdeprint/index.html\">Manualul &kdeprint;</"
+"Puteți afla mai multe despre tipărire și funcțiile puternice ale &kdeprint; "
+"dacă citiți <ulink url=\"help:/kdeprint/index.html\">Manualul &kdeprint;</"
 "ulink> local sau <ulink url=\"http://printing.kde.org/\">site-ul de web "
 "&kdeprint;</ulink> unde există documentele publice (<acronym>HTML</acronym> "
-"şi <acronym>PDF</acronym>), conţinînd <ulink url=\"http://printing.kde.org/"
+"și <acronym>PDF</acronym>), conținînd <ulink url=\"http://printing.kde.org/"
 "documentation/tutorials/\">Tutoriale</ulink>, <ulink url=\"http://printing."
-"kde.org/faq/\">Răspunsuri la întrebări frecvente</ulink> şi sfaturi generale "
+"kde.org/faq/\">Răspunsuri la întrebări frecvente</ulink> și sfaturi generale "
 "cu privire la procesul de tipărire."

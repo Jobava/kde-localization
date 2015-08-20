@@ -43,7 +43,7 @@ msgid ""
 "Using &konqueror; you can start up an <command>rlogin</command> session with "
 "a server hosting the rlogin service."
 msgstr ""
-"Cu ajutorul &konqueror; puteţi iniţia o sesine <command>rlogin</command> pe "
+"Cu ajutorul &konqueror; puteți iniția o sesine <command>rlogin</command> pe "
 "un server ce oferă acest tip de serviciu."
 
 #. Tag: para
@@ -54,7 +54,7 @@ msgid ""
 "type <userinput>rlogin:/host_to_connect_to</userinput>"
 msgstr ""
 "Pentru a utiliza acest dispozitiv din bara de <acronym>URL</acronym>-"
-"uri&konqueror;, scrieţi <userinput>rlogin:/nume_maşină</userinput>"
+"uri&konqueror;, scrieți <userinput>rlogin:/nume_mașină</userinput>"
 
 #. Tag: para
 #: index.docbook:23
@@ -63,7 +63,7 @@ msgid ""
 "This will initialize &konsole; with an <command>rlogin</command> session, "
 "prompting you for your password."
 msgstr ""
-"Aceasta va iniţializa &konsole; cu o sesiune <command>rlogin</command>  ce "
+"Aceasta va inițializa &konsole; cu o sesiune <command>rlogin</command>  ce "
 "vă cere parola pentru logare."
 
 #. Tag: para
@@ -74,7 +74,7 @@ msgid ""
 "are currently using in &kde;."
 msgstr ""
 "Dispozitivul de I/E <command>rlogin</command> utilizează numele de "
-"utilizator al contului sub care rulaţi în mod curent &kde;."
+"utilizator al contului sub care rulați în mod curent &kde;."
 
 #. Tag: para
 #: index.docbook:29
@@ -82,10 +82,10 @@ msgstr ""
 msgid ""
 "After you have successfully entered your password, you can begin your remote "
 "session."
-msgstr "După ce aţi introdus corect parola, puteţi începe sesiunea distantă.."
+msgstr "După ce ați introdus corect parola, puteți începe sesiunea distantă.."
 
 #. Tag: para
 #: index.docbook:32
 #, no-c-format
 msgid "See the manual: <ulink url=\"man:/rlogin\">rlogin</ulink>."
-msgstr "Citiţi pagina de manual: <ulink url=\"man:/rlogin\">rlogin</ulink>."
+msgstr "Citiți pagina de manual: <ulink url=\"man:/rlogin\">rlogin</ulink>."
