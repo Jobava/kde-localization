@@ -56,9 +56,9 @@ msgid ""
 "http servers, that is, web servers. The most common usage is to view web "
 "pages in the &konqueror; web browser."
 msgstr ""
-"Dispozitivul de I/E http este utilizat de toate aplicaţiile &kde; pentru a "
+"Dispozitivul de I/E http este utilizat de toate aplicațiile &kde; pentru a "
 "controla conexiunile către serverele HTTP, adică web. Cea mai utilizată "
-"funcţie este cea de vizualizare a paginilor HTML în navigatorul web "
+"funcție este cea de vizualizare a paginilor HTML în navigatorul web "
 "&konqueror;."
 
 #. Tag: para
@@ -69,7 +69,7 @@ msgid ""
 "acronym>. <userinput>http://<replaceable>www.kde.org</replaceable></"
 "userinput>."
 msgstr ""
-"Îl puteţi utiliza în &konqueror; introducînd un  <acronym>URL</acronym> de "
+"Îl puteți utiliza în &konqueror; introducînd un  <acronym>URL</acronym> de "
 "genul <userinput>http://<replaceable>www.kde.org</replaceable></userinput>."
 
 #. Tag: para
@@ -95,7 +95,7 @@ msgid "TLS stands for Transport Layer Security."
 msgstr ""
 
 #~ msgid "See the manual: <ulink url=\"man:/http\">http</ulink>."
-#~ msgstr "Citiţi pagina de manual: <ulink url=\"man:/http\">http</ulink>."
+#~ msgstr "Citiți pagina de manual: <ulink url=\"man:/http\">http</ulink>."
 
 #~ msgid "http"
 #~ msgstr "http"

@@ -22,7 +22,7 @@ msgstr ""
 #: index.docbook:11 index.docbook:41
 #, no-c-format
 msgid "The &infocenter;"
-msgstr "Centrul de Informaţii &kde;"
+msgstr "Centrul de Informații &kde;"
 
 #. Tag: author
 #: index.docbook:14
@@ -60,7 +60,7 @@ msgstr ""
 #, fuzzy, no-c-format
 #| msgid "This documentation describes &kde;'s information center."
 msgid "This documentation describes &kde;’s information center."
-msgstr "Acest document descrie Centrul de Informaţii &kde;"
+msgstr "Acest document descrie Centrul de Informații &kde;"
 
 #. Tag: keyword
 #: index.docbook:31
@@ -84,7 +84,7 @@ msgstr "sistem"
 #: index.docbook:34
 #, no-c-format
 msgid "information"
-msgstr "informaţii"
+msgstr "informații"
 
 #. Tag: keyword
 #: index.docbook:35
@@ -103,9 +103,9 @@ msgid ""
 "The &infocenter; provides you with a centralized and convenient overview of "
 "your system and desktop environment."
 msgstr ""
-"Centrul de Informaţii &kde; (referit în continuare <quote>centrul de "
-"informaţii</quote>) vă oferă o imagine de ansamblu convenabilă şi "
-"centralizată a setărilor &kde; şi ale sistemului dumneavoastră."
+"Centrul de Informații &kde; (referit în continuare <quote>centrul de "
+"informații</quote>) vă oferă o imagine de ansamblu convenabilă și "
+"centralizată a setărilor &kde; și ale sistemului dumneavoastră."
 
 #. Tag: para
 #: index.docbook:48
@@ -115,9 +115,9 @@ msgid ""
 "separate application, but the information center organizes all of these "
 "programs into a convenient location."
 msgstr ""
-"Centrul de informaţii este alcătuit dintr-o combinaţie de module. Fiecare "
-"din acestea este o aplicaţie separată, dar centrul de informaţii organizează "
-"toate aceste programe într-un loc uşor de accesat."
+"Centrul de informații este alcătuit dintr-o combinație de module. Fiecare "
+"din acestea este o aplicație separată, dar centrul de informații organizează "
+"toate aceste programe într-un loc ușor de accesat."
 
 #. Tag: para
 #: index.docbook:54
@@ -131,22 +131,22 @@ msgid ""
 "information on individual modules, please see <link linkend=\"module"
 "\">Default KInfo Center Modules</link>."
 msgstr ""
-"În continuare veţi afla modul în care poate fi utilizat centrul de "
-"informaţii ca atare. Pentru informaţii despre modulele individuale citiţi "
-"<link linkend=\"module\">Modulele Centrului de Informaţii &kde;</link>"
+"În continuare veți afla modul în care poate fi utilizat centrul de "
+"informații ca atare. Pentru informații despre modulele individuale citiți "
+"<link linkend=\"module\">Modulele Centrului de Informații &kde;</link>"
 
 #. Tag: title
 #: index.docbook:61
 #, no-c-format
 msgid "Starting the &infocenter;"
-msgstr "Pornirea Centrului de Informaţii &kde;"
+msgstr "Pornirea Centrului de Informații &kde;"
 
 #. Tag: para
 #: index.docbook:63
 #, fuzzy, no-c-format
 #| msgid "The &infocenter; can be started 3 ways:"
 msgid "The &infocenter; can be started in three ways:"
-msgstr "Centrul de Informaţii &kde; poate fi pornit în trei moduri:"
+msgstr "Centrul de Informații &kde; poate fi pornit în trei moduri:"
 
 #. Tag: para
 #: index.docbook:69
@@ -161,7 +161,7 @@ msgid ""
 "application launcher in the panel."
 msgstr ""
 "Selectînd <menuchoice><guimenu>Butonul K</guimenu> <guisubmenu>Sistem</"
-"guisubmenu> <guimenuitem>Centrul de Informaţii</guimenuitem></menuchoice> "
+"guisubmenu> <guimenuitem>Centrul de Informații</guimenuitem></menuchoice> "
 "din panoul &kde;."
 
 #. Tag: para
@@ -177,9 +177,9 @@ msgid ""
 "will bring up &krunner;. Type <userinput><command>kinfocenter</command></"
 "userinput>, and press &Enter;."
 msgstr ""
-"Va fi deschisă o căsuţă de dialog. Scrieţi <userinput><command>kinfocenter</"
-"command></userinput> şi daţi clic pe butonul <guibutton>Execută</guibutton> "
-"sau apăsaţi <keycap>Enter</keycap>."
+"Va fi deschisă o căsuță de dialog. Scrieți <userinput><command>kinfocenter</"
+"command></userinput> și dați clic pe butonul <guibutton>Execută</guibutton> "
+"sau apăsați <keycap>Enter</keycap>."
 
 #. Tag: para
 #: index.docbook:87
@@ -187,20 +187,20 @@ msgstr ""
 msgid ""
 "You can type <command>kinfocenter &amp;</command> at any command prompt."
 msgstr ""
-"Puteţi scrie <command>kinfocenter &amp;</command> la orice prompt de consolă."
+"Puteți scrie <command>kinfocenter &amp;</command> la orice prompt de consolă."
 
 #. Tag: para
 #: index.docbook:93
 #, no-c-format
 msgid "All three of these methods are equivalent, and produce the same result."
-msgstr "Toate aceste trei metode sînt echivalente şi produc acelaşi rezultat."
+msgstr "Toate aceste trei metode sînt echivalente și produc același rezultat."
 
 #. Tag: title
 #: index.docbook:100
 #, fuzzy, no-c-format
 #| msgid "The &infocenter; Screen"
 msgid "<title>The &infocenter; Screen</title>"
-msgstr "Fereastra Centrului de Informaţii &kde;"
+msgstr "Fereastra Centrului de Informații &kde;"
 
 #. Tag: para
 #: index.docbook:102
@@ -212,22 +212,22 @@ msgid ""
 "When you start the information center, you are presented with a window, "
 "which can be divided into three functional parts."
 msgstr ""
-"Cînd porniţi centrul de informaţii, veţi vedea o fereastră ce poate fi "
-"împărţită funcţional în trei părţi."
+"Cînd porniți centrul de informații, veți vedea o fereastră ce poate fi "
+"împărțită funcțional în trei părți."
 
 #. Tag: screeninfo
 #: index.docbook:108
 #, fuzzy, no-c-format
 #| msgid "The &infocenter; Screen"
 msgid "The &infocenter; Screen."
-msgstr "Fereastra Centrului de Informaţii &kde;"
+msgstr "Fereastra Centrului de Informații &kde;"
 
 #. Tag: phrase
 #: index.docbook:114
 #, fuzzy, no-c-format
 #| msgid "The &infocenter; Screen"
 msgid "<phrase>The &infocenter; Screen</phrase>"
-msgstr "Fereastra Centrului de Informaţii &kde;"
+msgstr "Fereastra Centrului de Informații &kde;"
 
 #. Tag: para
 #: index.docbook:119
@@ -242,9 +242,9 @@ msgid ""
 "help menu."
 msgstr ""
 "În partea de sus este bara de meniu. Aceasta vă oferă un acces rapid la cele "
-"mai multe din funcţiile Centrului de Informaţii &kde;. Meniurile sînt "
-"descrise în secţiunea <link linkend=\"info-center-menus\" >Meniurile "
-"Centrului de Informaţii &kde;</link>."
+"mai multe din funcțiile Centrului de Informații &kde;. Meniurile sînt "
+"descrise în secțiunea <link linkend=\"info-center-menus\" >Meniurile "
+"Centrului de Informații &kde;</link>."
 
 #. Tag: para
 #: index.docbook:125
@@ -292,14 +292,14 @@ msgstr ""
 #| msgid "The main panel shows you some system information."
 msgid ""
 "The main panel shows you the system information about the selected module."
-msgstr "Panoul principal vă arată unele informaţii despre sistem."
+msgstr "Panoul principal vă arată unele informații despre sistem."
 
 #. Tag: title
 #: index.docbook:149
 #, fuzzy, no-c-format
 #| msgid "The &infocenter;"
 msgid "The &infocenter; Toolbar"
-msgstr "Centrul de Informaţii &kde;"
+msgstr "Centrul de Informații &kde;"
 
 #. Tag: para
 #: index.docbook:151
@@ -311,7 +311,7 @@ msgid ""
 "This next section gives you a brief description of what each toolbar item "
 "does."
 msgstr ""
-"Secţiunea următoare vă prezintă o descriere scurtă a funcţiei fiecărui item "
+"Secțiunea următoare vă prezintă o descriere scurtă a funcției fiecărui item "
 "de meniu."
 
 #. Tag: title
@@ -350,14 +350,14 @@ msgstr ""
 #, fuzzy, no-c-format
 #| msgid "Exiting The &kde; Information Center"
 msgid "Exiting The &kde; Information Center"
-msgstr "Ieşirea din Centrul de Informaţii &kde;"
+msgstr "Ieșirea din Centrul de Informații &kde;"
 
 #. Tag: para
 #: index.docbook:176
 #, fuzzy, no-c-format
 #| msgid "You can exit the info center one of three ways:"
 msgid "You can exit the info center one of two ways:"
-msgstr "Puteţi ieşi din centrul de informaţii în trei moduri:"
+msgstr "Puteți ieși din centrul de informații în trei moduri:"
 
 #. Tag: para
 #: index.docbook:179
@@ -366,7 +366,7 @@ msgid ""
 "Type <keycombo action=\"simul\">&Ctrl;<keycap>Q</keycap></keycombo> on the "
 "keyboard."
 msgstr ""
-"Apăsaţi combinaţia de taste <keycombo action=\"simul\">&Ctrl;<keycap>Q</"
+"Apăsați combinația de taste <keycombo action=\"simul\">&Ctrl;<keycap>Q</"
 "keycap></keycombo>."
 
 #. Tag: para
@@ -379,22 +379,22 @@ msgid ""
 "Click on the <guiicon>Close</guiicon> button on the frame surrounding the "
 "info center."
 msgstr ""
-"Daţi clic pe butonul <guiicon>Închide</guiicon> din bara de titlu a "
-"ferestrei centrului de informaţii."
+"Dați clic pe butonul <guiicon>Închide</guiicon> din bara de titlu a "
+"ferestrei centrului de informații."
 
 #. Tag: title
 #: index.docbook:194
 #, fuzzy, no-c-format
 #| msgid "The &infocenter; Modules"
 msgid "The Default &infocenter; Modules"
-msgstr "Modulele Centrului de Informaţii &kde;"
+msgstr "Modulele Centrului de Informații &kde;"
 
 #. Tag: title
 #: index.docbook:199
 #, fuzzy, no-c-format
 #| msgid "information"
 msgid "System Information Module"
-msgstr "informaţii"
+msgstr "informații"
 
 #. Tag: para
 #: index.docbook:201
@@ -421,7 +421,7 @@ msgstr ""
 #, fuzzy, no-c-format
 #| msgid "information"
 msgid "Memory Information Module"
-msgstr "informaţii"
+msgstr "informații"
 
 #. Tag: para
 #: index.docbook:215
@@ -431,9 +431,9 @@ msgid ""
 "can be very useful for pinpointing bottlenecks when certain applications are "
 "executed."
 msgstr ""
-"Acest modul afişează starea curentă a utilizării memoriei. Este actualizată "
-"constant şi poate fi foarte util pentru a determina gîtuirile care apar la "
-"execuţia anumitor aplicaţii."
+"Acest modul afișează starea curentă a utilizării memoriei. Este actualizată "
+"constant și poate fi foarte util pentru a determina gîtuirile care apar la "
+"execuția anumitor aplicații."
 
 #. Tag: title
 #: index.docbook:220
@@ -450,8 +450,8 @@ msgid ""
 "<quote>memory</quote>, available to the operating system and the programs "
 "that run within it."
 msgstr ""
-"Primul lucru pe care trebuie să-l înţelegeţi este că există două tipuri de "
-"<quote>memorie</quote>, disponibilă sistemului de operare şi programelor ce "
+"Primul lucru pe care trebuie să-l înțelegeți este că există două tipuri de "
+"<quote>memorie</quote>, disponibilă sistemului de operare și programelor ce "
 "rulează în el."
 
 #. Tag: para
@@ -462,10 +462,10 @@ msgid ""
 "the memory chips, within your computer. This is the <acronym>RAM</acronym> "
 "(for Random Access Memory) you bought when you purchased your computer."
 msgstr ""
-"Primul tip se numeşte memorie fizică. Ea este memoria pe care sub formă de "
+"Primul tip se numește memorie fizică. Ea este memoria pe care sub formă de "
 "cipuri de memorie din calculatorul dumneavoastră. Aceasta este memoria "
 "<acronym>RAM</acronym> (Random Access Memory - memorie cu acces aleator) pe "
-"care aţi primit-o odată cu cumpărarea calculatorului."
+"care ați primit-o odată cu cumpărarea calculatorului."
 
 #. Tag: para
 #: index.docbook:231
@@ -483,17 +483,17 @@ msgid ""
 "is not as fast as physical memory, so operating systems try to keep data "
 "(especially often used data), in the physical memory."
 msgstr ""
-"Cel de-al doilea tip de memorie se numeşte virtuală sau \"swap\". Acest bloc "
-"de memorie este de fapt spaţiu alocat pe hard disk. Sistemul de operare "
-"rezervă spaţiu pe disc pentru <quote>spaţiul de swap</quote>. El poate "
+"Cel de-al doilea tip de memorie se numește virtuală sau \"swap\". Acest bloc "
+"de memorie este de fapt spațiu alocat pe hard disk. Sistemul de operare "
+"rezervă spațiu pe disc pentru <quote>spațiul de swap</quote>. El poate "
 "utiliza această memorie virtuală dacă nu mai are memorie fizică de alocat. "
-"Motivul pentru care se numeşte memorie <quote>swap</quote> (interschimb), "
+"Motivul pentru care se numește memorie <quote>swap</quote> (interschimb), "
 "este că sistemul de operare ia unele date despre care crede că nu mai sînt "
-"necesare şi le salvează în acest spaţiu rezervat. Apoi încarcă în memoria "
-"fizică eliberată datele de care aveţi nevoie în acel moment. El "
-"a<quote>interschimbat</quote> datele inutile momentan cu cele de care aveţi "
+"necesare și le salvează în acest spațiu rezervat. Apoi încarcă în memoria "
+"fizică eliberată datele de care aveți nevoie în acel moment. El "
+"a<quote>interschimbat</quote> datele inutile momentan cu cele de care aveți "
 "nevoie acum. Memoria virtuală sau \"swap\" nu este la fel de rapidă ca cea "
-"fizică şi de aceea sistemul de operare încearcă să ţină datele (în special "
+"fizică și de aceea sistemul de operare încearcă să țină datele (în special "
 "datele utilizate mai des) în memoria fizică."
 
 #. Tag: para
@@ -502,14 +502,14 @@ msgstr ""
 msgid ""
 "The total memory, is the combined total of physical memory and virtual "
 "memory."
-msgstr "Memoria totală este suma dintre memoria fizică totală şi cea virtuală."
+msgstr "Memoria totală este suma dintre memoria fizică totală și cea virtuală."
 
 #. Tag: para
 #: index.docbook:252
 #, no-c-format
 msgid "This window is divided into a top and bottom section"
 msgstr ""
-"Această fereastră este împărţită în două secţiuni: cea de sus şi cea de jos."
+"Această fereastră este împărțită în două secțiuni: cea de sus și cea de jos."
 
 #. Tag: para
 #: index.docbook:254
@@ -518,8 +518,8 @@ msgid ""
 "The top section shows you the total physical memory, total free physical "
 "memory, shared memory, and buffered memory."
 msgstr ""
-"Secţiunea de sus afişează memoria fizică totală, memoria fizică totală "
-"liberă, memoria partajată şi tampoanele de memorie."
+"Secțiunea de sus afișează memoria fizică totală, memoria fizică totală "
+"liberă, memoria partajată și tampoanele de memorie."
 
 #. Tag: para
 #: index.docbook:257
@@ -528,14 +528,14 @@ msgid ""
 "All four values are represented as the total number of bytes, and as the "
 "number of megabytes (1 megabyte = slightly more than 1,000,000 bytes)"
 msgstr ""
-"Toate cele patru valori sînt reprezentate ca număr total de octeţi şi ca "
-"megaocteţi (1 megaoctet = puţin mai mult de 1.000.000 octeţi)"
+"Toate cele patru valori sînt reprezentate ca număr total de octeți și ca "
+"megaocteți (1 megaoctet = puțin mai mult de 1.000.000 octeți)"
 
 #. Tag: para
 #: index.docbook:261
 #, no-c-format
 msgid "The bottom section shows you three graphs:"
-msgstr "Secţiunea de jos înfăţişează trei grafice:"
+msgstr "Secțiunea de jos înfățișează trei grafice:"
 
 #. Tag: para
 #: index.docbook:264
@@ -544,8 +544,8 @@ msgid ""
 "<guilabel>Total Memory</guilabel> (this is the combination of physical and "
 "virtual memory)."
 msgstr ""
-"<guilabel>Memoria totală</guilabel> (aceasta este combinaţia dintre memoria "
-"fizică şi cea virtuală)."
+"<guilabel>Memoria totală</guilabel> (aceasta este combinația dintre memoria "
+"fizică și cea virtuală)."
 
 #. Tag: guilabel
 #: index.docbook:265
@@ -557,14 +557,14 @@ msgstr "Memoria fizică"
 #: index.docbook:266
 #, no-c-format
 msgid "Virtual memory, or <guilabel>Swap Space</guilabel>."
-msgstr "Memoria virtuală sau <guilabel>Spaţiu swap</guilabel>."
+msgstr "Memoria virtuală sau <guilabel>Spațiu swap</guilabel>."
 
 #. Tag: para
 #: index.docbook:269
 #, fuzzy, no-c-format
 #| msgid "The green areas are free, and the red areas are used."
 msgid "The grey areas are free, and the blue and green areas are used."
-msgstr "Zonele verzi reprezintă cît e liber, iar cele roşii cît este utilizat."
+msgstr "Zonele verzi reprezintă cît e liber, iar cele roșii cît este utilizat."
 
 #. Tag: para
 #: index.docbook:270
@@ -573,8 +573,8 @@ msgid ""
 "The exact values of each type of memory are not critical, and they change "
 "regularly. When you evaluate this page, look at trends."
 msgstr ""
-"Valorile exacte ale fiecărui tip de memorie nu sînt critice şi se modifică "
-"mereu. Cînd evaluaţi valorile uitaţi-vă la evoluţia consumului de memorie."
+"Valorile exacte ale fiecărui tip de memorie nu sînt critice și se modifică "
+"mereu. Cînd evaluați valorile uitați-vă la evoluția consumului de memorie."
 
 #. Tag: para
 #: index.docbook:274
@@ -586,8 +586,8 @@ msgid ""
 "Does your computer have plenty of free space (grey areas)? If not, you can "
 "increase the swap size or increase the physical memory."
 msgstr ""
-"Are calculatorului dumneavoastră suficient spaţiu liber (zonele verzi)? Dacă "
-"nu, atunci creşteţi mărimea memoriei virtuale sau a celei fizice."
+"Are calculatorului dumneavoastră suficient spațiu liber (zonele verzi)? Dacă "
+"nu, atunci creșteți mărimea memoriei virtuale sau a celei fizice."
 
 #. Tag: para
 #: index.docbook:278
@@ -599,18 +599,18 @@ msgid ""
 "virtual memory for commonly used data. Increasing your physical memory will "
 "improve the responsiveness of your computer."
 msgstr ""
-"Dacă sistemul dumneavoastră se mişcă lent: este ocupată aproape în întregime "
+"Dacă sistemul dumneavoastră se mișcă lent: este ocupată aproape în întregime "
 "memoria fizică, iar hard diskul pare să lucreze tot timpul? Acest lucru "
-"sugerează ca nu aveţi suficientă memorie fizică şi calculatorul se bazează "
-"pe memoria virtuală lentă pentru datele utilizate frecvent. Dacă adăugaţi "
-"memorie fizică, atunci viteza calculatorului se va îmbunătăţi considerabil."
+"sugerează ca nu aveți suficientă memorie fizică și calculatorul se bazează "
+"pe memoria virtuală lentă pentru datele utilizate frecvent. Dacă adăugați "
+"memorie fizică, atunci viteza calculatorului se va îmbunătăți considerabil."
 
 #. Tag: title
 #: index.docbook:291
 #, fuzzy, no-c-format
 #| msgid "information"
 msgid "Device Information Module"
-msgstr "informaţii"
+msgstr "informații"
 
 #. Tag: para
 #: index.docbook:293
@@ -796,7 +796,7 @@ msgstr ""
 #, fuzzy, no-c-format
 #| msgid "information"
 msgid "Information Panel"
-msgstr "informaţii"
+msgstr "informații"
 
 #. Tag: para
 #: index.docbook:331
@@ -874,7 +874,7 @@ msgid ""
 "This page displays information about the Interrupt Request Lines in use, and "
 "the devices that use them."
 msgstr ""
-"Această pagină afişează informaţii despre liniile de întrerupere folosite şi "
+"Această pagină afișează informații despre liniile de întrerupere folosite și "
 "dispozitivele care le utilizează."
 
 #. Tag: para
@@ -907,8 +907,8 @@ msgid ""
 "device is actually configured for."
 msgstr ""
 "Multe probleme hardware sînt rezultatul conflictelor de <acronym>IRQ</"
-"acronym>, cînd două dispozitive încearcă să utilizeze acelaşi <acronym>IRQ</"
-"acronym> sau software-ul este greşit configurat să utilizeze un "
+"acronym>, cînd două dispozitive încearcă să utilizeze același <acronym>IRQ</"
+"acronym> sau software-ul este greșit configurat să utilizeze un "
 "<acronym>IRQ</acronym> diferit de cel pentru care este de fapt configurat "
 "dispozitivul."
 
@@ -919,8 +919,8 @@ msgid ""
 "The exact information displayed is system-dependent. On some systems, "
 "<acronym>IRQ</acronym> information cannot be displayed yet."
 msgstr ""
-"Datele efective afişate sînt dependente de sistem. Pe anumite sisteme "
-"informaţiile despre <acronym>IRQ</acronym> nu pot fi afişate încă."
+"Datele efective afișate sînt dependente de sistem. Pe anumite sisteme "
+"informațiile despre <acronym>IRQ</acronym> nu pot fi afișate încă."
 
 #. Tag: para
 #: index.docbook:377
@@ -930,10 +930,10 @@ msgid ""
 "proc/interrupts</filename>, which is only available if the <filename class="
 "\"directory\">/proc</filename> pseudo-filesystem is compiled into the kernel."
 msgstr ""
-"În &Linux;, aceste informaţii sînt citite din <filename class=\"devicefile"
-"\">/proc/devices</filename> şi <filename class=\"devicefile\">/proc/"
+"În &Linux;, aceste informații sînt citite din <filename class=\"devicefile"
+"\">/proc/devices</filename> și <filename class=\"devicefile\">/proc/"
 "interrupts</filename>, care sînt disponibile numai dacă pseudo-sistemul de "
-"fişiere <filename class=\"directory\">/proc</filename> a fost compilat în "
+"fișiere <filename class=\"directory\">/proc</filename> a fost compilat în "
 "kernel."
 
 #. Tag: para
@@ -945,9 +945,9 @@ msgid ""
 "The third column shows the type of interrupt. The fourth, identifies the "
 "device assigned to that interrupt."
 msgstr ""
-"În prima coloană este afişat numărul <acronym>IRQ</acronym>. În cea de-a "
+"În prima coloană este afișat numărul <acronym>IRQ</acronym>. În cea de-a "
 "doua coloană este numărul de întreruperi generate de la pornirea "
-"calculatorului. În cea de-a treia puteţi vedea tipul de întrerupere, iar cea "
+"calculatorului. În cea de-a treia puteți vedea tipul de întrerupere, iar cea "
 "de-a patra coloană identifică dispozitivul pentru care este atribuită acea "
 "linie de întrerupere."
 
@@ -974,9 +974,9 @@ msgid ""
 "going through the processor. Typically, i386-architecture systems "
 "(<acronym>PC</acronym>'s) have eight <acronym>DMA</acronym> channels (0-7)."
 msgstr ""
-"Această pagină afişează informaţii despre canalele <acronym>DMA</acronym> "
+"Această pagină afișează informații despre canalele <acronym>DMA</acronym> "
 "(Direct Memory Access). Un canal <acronym>DMA</acronym> este o conexiune "
-"directă ce permite unui dispozitiv să transfere date din şi către memorie, "
+"directă ce permite unui dispozitiv să transfere date din și către memorie, "
 "fără a utiliza microprocesorul. De obicei sistemele cu arhitectură i386 "
 "(<acronym>PC</acronym>-urile) au 8 canale <acronym>DMA</acronym>(de la 0 la "
 "7)."
@@ -988,8 +988,8 @@ msgid ""
 "The exact information displayed is system-dependent. On some systems, "
 "<acronym>DMA</acronym> Channel information cannot be displayed yet."
 msgstr ""
-"Informaţiile efective afişate depind de sistem. Pe anumite sisteme "
-"informaţiile despre canalele <acronym>DMA</acronym> nu pot fi încă afişate."
+"Informațiile efective afișate depind de sistem. Pe anumite sisteme "
+"informațiile despre canalele <acronym>DMA</acronym> nu pot fi încă afișate."
 
 #. Tag: para
 #: index.docbook:406
@@ -999,9 +999,9 @@ msgid ""
 "proc/dma</filename>, which is only available if the <filename class="
 "\"directory\">/proc</filename> pseudo-filesystem is compiled into the kernel."
 msgstr ""
-"În &Linux;, aceste informaţii sînt citite din <filename class=\"devicefile"
+"În &Linux;, aceste informații sînt citite din <filename class=\"devicefile"
 "\">/proc/dma</filename>, care este disponibil numai dacă pseudo-sistemul de "
-"fişiere <filename class=\"directory\">/proc</filename> a fost compilat în "
+"fișiere <filename class=\"directory\">/proc</filename> a fost compilat în "
 "kernel."
 
 #. Tag: para
@@ -1013,8 +1013,8 @@ msgid ""
 "shows the <acronym>DMA</acronym> channel, and the second column shows the "
 "device which uses that channel."
 msgstr ""
-"Este afişată o listă a tuturor canalelor <acronym>DMA</acronym> înregistrate "
-"în acest momemnt (magistrala <acronym>ISA</acronym>). Prima coloană afişează "
+"Este afișată o listă a tuturor canalelor <acronym>DMA</acronym> înregistrate "
+"în acest momemnt (magistrala <acronym>ISA</acronym>). Prima coloană afișează "
 "canalul <acronym>DMA</acronym>, iar a doua coloană dispozitivul care "
 "utilizează acel canal."
 
@@ -1029,7 +1029,7 @@ msgstr "Canalele <acronym>DMA</acronym> neutilizate nu sînt listate."
 #, fuzzy, no-c-format
 #| msgid "information"
 msgid "IEEE 1394 Device Information Module"
-msgstr "informaţii"
+msgstr "informații"
 
 #. Tag: para
 #: index.docbook:430
@@ -1147,8 +1147,8 @@ msgid ""
 "installed <acronym>PCI</acronym> cards, and other devices that use the "
 "Peripheral Component Interconnect (<acronym>PCI</acronym>) bus."
 msgstr ""
-"Această pagină afişează informaţii despre magistrala <acronym>PCI</acronym> "
-"şi cardurile <acronym>PCI</acronym> instalate şi alte dispozitive care "
+"Această pagină afișează informații despre magistrala <acronym>PCI</acronym> "
+"și cardurile <acronym>PCI</acronym> instalate și alte dispozitive care "
 "utilizează magistrala \"Peripheral Component Interconnect\" (<acronym>PCI</"
 "acronym>)."
 
@@ -1159,8 +1159,8 @@ msgid ""
 "The exact information displayed is system-dependent. On some systems, "
 "<acronym>PCI</acronym>-information can not yet be displayed."
 msgstr ""
-"Informaţiile efective afişate depind de sistem. Pe anumite sisteme "
-"informaţiile despre magistrala <acronym>PCI</acronym> nu pot fi încă afişate."
+"Informațiile efective afișate depind de sistem. Pe anumite sisteme "
+"informațiile despre magistrala <acronym>PCI</acronym> nu pot fi încă afișate."
 
 #. Tag: para
 #: index.docbook:468
@@ -1172,11 +1172,11 @@ msgid ""
 "kernel. A listing of all <acronym>PCI</acronym> devices found during kernel "
 "initialization, and their configuration, is shown."
 msgstr ""
-"În &Linux;, aceste informaţii sînt citite din fişierul <filename class="
+"În &Linux;, aceste informații sînt citite din fișierul <filename class="
 "\"devicefile\">/proc/pci</filename>, care este disponibil dacă pseudo-"
-"sistemul de fişiere <filename class=\"directory\">/proc</filename> este "
-"compilat în kernel. Este afişată o listă a tuturor dispozitivelor "
-"<acronym>PCI</acronym> detectate la iniţializarea kernelului şi configuraţia "
+"sistemul de fișiere <filename class=\"directory\">/proc</filename> este "
+"compilat în kernel. Este afișată o listă a tuturor dispozitivelor "
+"<acronym>PCI</acronym> detectate la inițializarea kernelului și configurația "
 "lor."
 
 #. Tag: para
@@ -1184,7 +1184,7 @@ msgstr ""
 #, no-c-format
 msgid "Each entry begins with a bus, device and function number."
 msgstr ""
-"Fiecare înregistrare începe cu numărul de magistrală, dispozitiv şi funcţie."
+"Fiecare înregistrare începe cu numărul de magistrală, dispozitiv și funcție."
 
 #. Tag: title
 #: index.docbook:482
@@ -1196,7 +1196,7 @@ msgstr ""
 #: index.docbook:484
 #, no-c-format
 msgid "This page displays information about the I/O ports."
-msgstr "Această pagină afişează informaţii despre porturile de I/E."
+msgstr "Această pagină afișează informații despre porturile de I/E."
 
 #. Tag: para
 #: index.docbook:486
@@ -1207,7 +1207,7 @@ msgid ""
 "processor."
 msgstr ""
 "Porturile de I/E sînt adrese de memorie utilizate de microprocesor pentru "
-"comunicaţia directă cu un dispozitiv care i-a trimis un semnal de "
+"comunicația directă cu un dispozitiv care i-a trimis un semnal de "
 "întrerupere."
 
 #. Tag: para
@@ -1220,10 +1220,10 @@ msgid ""
 "multiple I/O port addresses, which are expressed as a range of hexadecimal "
 "numbers."
 msgstr ""
-"Schimbul de comenzi sau date între procesor şi dispozitiv are loc prin "
+"Schimbul de comenzi sau date între procesor și dispozitiv are loc prin "
 "intermediul adresei portului de I/E al dispozitivului, care este un număr "
 "scris de obicei în format hexazecimal. Două dispozitive nu pot partaja "
-"acelaşi port de I/E. Multe dispozitive utilizează mai multe adrese de port "
+"același port de I/E. Multe dispozitive utilizează mai multe adrese de port "
 "de I/E, care sînt exprimante ca domeniu de numere hexazecimale."
 
 #. Tag: para
@@ -1233,8 +1233,8 @@ msgid ""
 "The exact information displayed is system-dependent. On some systems, I/O "
 "port information can not yet be displayed."
 msgstr ""
-"Datele propriu-zise afişate sînt dependente de sistem. Pe anumite sisteme "
-"informaţiile despre porturile de I/E nu pot fi afişate încă."
+"Datele propriu-zise afișate sînt dependente de sistem. Pe anumite sisteme "
+"informațiile despre porturile de I/E nu pot fi afișate încă."
 
 #. Tag: para
 #: index.docbook:501
@@ -1246,10 +1246,10 @@ msgid ""
 "kernel. A list of all currently-registered I/O port regions that are in use "
 "is shown."
 msgstr ""
-"În &Linux;, aceste informaţii sînt citite din <filename class=\"devicefile"
+"În &Linux;, aceste informații sînt citite din <filename class=\"devicefile"
 "\">/proc/ioports</filename>, care este disponibil numai dacă pseudo-sistemul "
-"de fişiere <filename class=\"directory\">/proc</filename> a fost compilat în "
-"kernel. Aici este afişată o listă a tuturor regiunilor de porturi de I/E "
+"de fișiere <filename class=\"directory\">/proc</filename> a fost compilat în "
+"kernel. Aici este afișată o listă a tuturor regiunilor de porturi de I/E "
 "care sînt utilizate. "
 
 #. Tag: para
@@ -1276,9 +1276,9 @@ msgid ""
 "(<acronym>SCSI</acronym>) Interfaces and the attached <acronym>SCSI</"
 "acronym> devices."
 msgstr ""
-"Această pagină afişează informaţii despre interfeţele Small Computer Systems "
-"Interface (<acronym>SCSI</acronym>) şi dispozitivele <acronym>SCSI</acronym> "
-"ataşate."
+"Această pagină afișează informații despre interfețele Small Computer Systems "
+"Interface (<acronym>SCSI</acronym>) și dispozitivele <acronym>SCSI</acronym> "
+"atașate."
 
 #. Tag: para
 #: index.docbook:522
@@ -1287,8 +1287,8 @@ msgid ""
 "The exact information displayed is system-dependent. On some systems "
 "<acronym>SCSI</acronym> information cannot be displayed yet."
 msgstr ""
-"Informaţiile propriu-zise afişate sînt dependente de sistem. Pe anumite "
-"sisteme informaţiile despre <acronym>SCSI</acronym> nu pot fi încă afişate."
+"Informațiile propriu-zise afișate sînt dependente de sistem. Pe anumite "
+"sisteme informațiile despre <acronym>SCSI</acronym> nu pot fi încă afișate."
 
 #. Tag: para
 #: index.docbook:526
@@ -1300,10 +1300,10 @@ msgid ""
 "kernel. A listing of all <acronym>SCSI</acronym> devices known to the kernel "
 "is shown."
 msgstr ""
-"În &Linux;, aceste informaţii sînt citite din fişierul <filename class="
+"În &Linux;, aceste informații sînt citite din fișierul <filename class="
 "\"devicefile\">/proc/scsi/scsi</filename>, care este disponibil dacă pseudo-"
-"sistemul de fişiere <filename class=\"directory\">/proc</filename> este "
-"compilat în kernel. Este afişată o listă a tuturor dispozitivelor "
+"sistemul de fișiere <filename class=\"directory\">/proc</filename> este "
+"compilat în kernel. Este afișată o listă a tuturor dispozitivelor "
 "<acronym>SCSI</acronym> detectate de kernel."
 
 #. Tag: para
@@ -1313,7 +1313,7 @@ msgid ""
 "The devices are sorted numerically by their host, channel, and <acronym>ID</"
 "acronym> numbers."
 msgstr ""
-"Dispozitivele sînt sortate numeric după numărul de gazdă, canal şi "
+"Dispozitivele sînt sortate numeric după numărul de gazdă, canal și "
 "identificator."
 
 #. Tag: title
@@ -1331,7 +1331,7 @@ msgid ""
 "This module allows you to see the devices attached to your <acronym>USB</"
 "acronym> bus(es)."
 msgstr ""
-"Acest modul vă permite să vedeţi dispozitivele ataşate la magistralele "
+"Acest modul vă permite să vedeți dispozitivele atașate la magistralele "
 "<acronym>USB</acronym> ale calculatorului dumnevoastră."
 
 #. Tag: para
@@ -1341,15 +1341,15 @@ msgid ""
 "This module is for information only, you cannot edit any information you see "
 "here."
 msgstr ""
-"Acest modul oferă numai informaţii. Nu puteţi edita nici un fel de "
-"informaţii afişate aici."
+"Acest modul oferă numai informații. Nu puteți edita nici un fel de "
+"informații afișate aici."
 
 #. Tag: title
 #: index.docbook:553
 #, fuzzy, no-c-format
 #| msgid "Samba Status Information"
 msgid "Samba Status Information Module"
-msgstr "Informaţii de stare SAMBA"
+msgstr "Informații de stare SAMBA"
 
 #. Tag: para
 #: index.docbook:555
@@ -1361,12 +1361,12 @@ msgid ""
 "Samba tools, which implements the <acronym>SMB</acronym> (Session Message "
 "Block) protocol, also called the NetBIOS or LanManager protocol."
 msgstr ""
-"Monitorul de Stare Samba şi <acronym>NFS</acronym> este o interfaţă grafică "
-"pentru programele <command>smbstatus</command> şi <command>showmount</"
-"command>. Smbstatus raportează informaţii despre conexiunile Samba curente "
-"şi face parte din suita de utilitare Samba care implementează protocolul "
+"Monitorul de Stare Samba și <acronym>NFS</acronym> este o interfață grafică "
+"pentru programele <command>smbstatus</command> și <command>showmount</"
+"command>. Smbstatus raportează informații despre conexiunile Samba curente "
+"și face parte din suita de utilitare Samba care implementează protocolul "
 "<acronym>SMB</acronym> (Session Message Block). Acest protocol mai este "
-"cunoscut şi sub numele de NetBIOS sau LanManager."
+"cunoscut și sub numele de NetBIOS sau LanManager."
 
 #. Tag: para
 #: index.docbook:562
@@ -1376,8 +1376,8 @@ msgid ""
 "services on a network including machines running the various flavors of "
 "&Microsoft; &Windows;."
 msgstr ""
-"El poate fi utilizat pentru a asigura partajarea imprimantelor şi a "
-"spaţiului de disc într-o reţea formată din maşini ce rulează diferite "
+"El poate fi utilizat pentru a asigura partajarea imprimantelor și a "
+"spațiului de disc într-o rețea formată din mașini ce rulează diferite "
 "versiuni de &Microsoft; &Windows;."
 
 #. Tag: para
@@ -1392,12 +1392,12 @@ msgid ""
 "sbin</filename>, check if you have showmount in your <envar>PATH</envar>."
 msgstr ""
 "<command>showmount</command> este parte a pachetului software <acronym>NFS</"
-"acronym>. <acronym>NFS</acronym> înseamnă Network File System şi reprezintă "
-"modul tradiţional &UNIX; de a partaja foldere în reţea. În cadrul acestei "
-"aplicaţii este analizat rezultatul comnezii <command>showmount</command> "
+"acronym>. <acronym>NFS</acronym> înseamnă Network File System și reprezintă "
+"modul tradițional &UNIX; de a partaja foldere în rețea. În cadrul acestei "
+"aplicații este analizat rezultatul comnezii <command>showmount</command> "
 "<option>-a localhost</option>. Pe unele sisteme <command>showmount</command> "
 "este în directorul <filename class=\"directory\">/usr/sbin</filename>. "
-"Verificaţi că această comandă este accesibilă prin intermediul variabilei de "
+"Verificați că această comandă este accesibilă prin intermediul variabilei de "
 "mediu <envar>PATH</envar>."
 
 #. Tag: title
@@ -1418,12 +1418,12 @@ msgid ""
 "remote host, which accesses this share. The remaining columns have only a "
 "meaning for Samba-shares."
 msgstr ""
-"În această pagină puteţi vedea o listă largă ce afişează conexiunile curente "
-"active la partajările Samba şi exportările <acronym>NFS</acronym> ale "
-"maşinii dumneavoastră. Prima coloană precizează dacă resursa este o "
+"În această pagină puteți vedea o listă largă ce afișează conexiunile curente "
+"active la partajările Samba și exportările <acronym>NFS</acronym> ale "
+"mașinii dumneavoastră. Prima coloană precizează dacă resursa este o "
 "partajare Samba (<acronym>SMB</acronym>) sau o exportare <acronym>NFS</"
-"acronym>. Cea de-a doua coloană conţine numele partajării, iar cea de-a "
-"treia numele maşinii distante ce accesează acea partajare. Coloanele rămase "
+"acronym>. Cea de-a doua coloană conține numele partajării, iar cea de-a "
+"treia numele mașinii distante ce accesează acea partajare. Coloanele rămase "
 "au sens numai pentru partajările Samba."
 
 #. Tag: para
@@ -1435,10 +1435,10 @@ msgid ""
 "user <abbrev>ID</abbrev> of this user. The same applies for the next column, "
 "which displays the group <abbrev>ID</abbrev> of the user."
 msgstr ""
-"Cea de-a patra coloană conţine identificatorul de utilizator care accesează "
+"Cea de-a patra coloană conține identificatorul de utilizator care accesează "
 "partajarea. Nu este obligatoriu să se potrivească cu identificatorul de "
-"utilizator &UNIX; al acelui utilizator. Aceleaşi lucru se aplică pentru "
-"coloana următoare ce afişează grupul asociat utilizatorului."
+"utilizator &UNIX; al acelui utilizator. Aceleași lucru se aplică pentru "
+"coloana următoare ce afișează grupul asociat utilizatorului."
 
 #. Tag: para
 #: index.docbook:591
@@ -1452,9 +1452,9 @@ msgid ""
 "be created, so he will almost not notice it."
 msgstr ""
 "Fiecare conexiune la una din partajările dumneavoastră este controlată de un "
-"singur proces (<command>smbd</command>). Coloana următoare afişează "
+"singur proces (<command>smbd</command>). Coloana următoare afișează "
 "identificatorul de proces (<acronym>pid</acronym>-ul) al acelui "
-"<command>smbd</command>. Dacă \"omorîţi\" acel proces, utilizatorul va fi "
+"<command>smbd</command>. Dacă \"omorîți\" acel proces, utilizatorul va fi "
 "deconectat. Dacă utilizatorul distant lucrează din &Windows;, imediat ce "
 "acel proces este terminat, va fi creat unul nou, astfel încît nici nu va "
 "observa acest lucru."
@@ -1467,9 +1467,9 @@ msgid ""
 "see only, how many files he has <emphasis>open</emphasis> just now, you "
 "don't see how many he copied or formerly opened &etc;"
 msgstr ""
-"Ultima coloană specifică numărul de fişiere deschise de acel utilizator. "
-"Aici vedeţi numai cîte fişiere are <emphasis>deschise</emphasis> în acel "
-"moment, nu şi cîte fişiere a copiat sau deschis &etc;"
+"Ultima coloană specifică numărul de fișiere deschise de acel utilizator. "
+"Aici vedeți numai cîte fișiere are <emphasis>deschise</emphasis> în acel "
+"moment, nu și cîte fișiere a copiat sau deschis &etc;"
 
 #. Tag: title
 #: index.docbook:606
@@ -1492,8 +1492,8 @@ msgid ""
 "Samba- or <acronym>NFS</acronym>-share, the second column displays the name "
 "of the share, and the third shows where it is mounted."
 msgstr ""
-"Aici vedeţi ce partajări Samba şi <acronym>NFS</acronym> de pe alte maşini "
-"sînt montate în sistemul de fişiere local. Prima coloană afişează dacă este "
+"Aici vedeți ce partajări Samba și <acronym>NFS</acronym> de pe alte mașini "
+"sînt montate în sistemul de fișiere local. Prima coloană afișează dacă este "
 "de tip Samba sau <acronym>NFS</acronym>, cea de-a doua indică numele "
 "partajării, iar cea de-a treia punctul de montare local."
 
@@ -1505,8 +1505,8 @@ msgid ""
 "has been tested), and it should also work on &Solaris; (this has not been "
 "tested)."
 msgstr ""
-"Partajările <acronym>NFS</acronym> pe care ar trebui să le vedeţi în &Linux; "
-"(funcţionalitatea a fost testată), ar trebui să meargă şi din &Solaris; (nu "
+"Partajările <acronym>NFS</acronym> pe care ar trebui să le vedeți în &Linux; "
+"(funcționalitatea a fost testată), ar trebui să meargă și din &Solaris; (nu "
 "a fost testat încă)."
 
 #. Tag: title
@@ -1527,13 +1527,13 @@ msgid ""
 "else or if it has another name, correct it. After changing the file name you "
 "have to press <guibutton>Update</guibutton> again."
 msgstr ""
-"Această pagină prezintă într-un mod mai atractiv conţinutul fişierului "
-"jurnal samba local. Dacă deschideţi această pagină, lista va fi goală. "
-"Trebuie să apăsaţi butonul <guibutton>Actualizează</guibutton>, iar apoi "
-"fişierul jurnal samba va fi citit şi rezultatele afişate. Verificaţi că "
-"fişierul jurnal de pe sistemul dumneavoastră este într-adevăr la locaţia "
+"Această pagină prezintă într-un mod mai atractiv conținutul fișierului "
+"jurnal samba local. Dacă deschideți această pagină, lista va fi goală. "
+"Trebuie să apăsați butonul <guibutton>Actualizează</guibutton>, iar apoi "
+"fișierul jurnal samba va fi citit și rezultatele afișate. Verificați că "
+"fișierul jurnal de pe sistemul dumneavoastră este într-adevăr la locația "
 "specificată în linia de editare. Dacă este în altă parte sau are alt nume, "
-"corectaţi calea. După actualizarea numelui de fişier trebuie să apăsaţi din "
+"corectați calea. După actualizarea numelui de fișier trebuie să apăsați din "
 "nou <guibutton>Actualizează</guibutton>."
 
 #. Tag: para
@@ -1546,12 +1546,12 @@ msgid ""
 "also if somebody opens a file and if he closes the file again. If the log "
 "level is higher than 2, yet more stuff is logged."
 msgstr ""
-"Samba auditează acţiunile sale în concordanţă cu nivelul de jurnalizare "
-"(vedeţi fişierul <filename>smb.conf</filename>). Dacă loglevel = 1, samba "
-"auditează numai cînd cineva se conectează la maşina dumneavoastră şi cînd "
+"Samba auditează acțiunile sale în concordanță cu nivelul de jurnalizare "
+"(vedeți fișierul <filename>smb.conf</filename>). Dacă loglevel = 1, samba "
+"auditează numai cînd cineva se conectează la mașina dumneavoastră și cînd "
 "conexiunea este închisă. Daca loglevel = 2, înregistrează dacă cineva "
-"deschide un fişier şi îl închide. Pentru nivele de jurnalizare mai mari de 2 "
-"informaţiile generate sînt semnificativ de mari. Utilizaţi cu grijă această "
+"deschide un fișier și îl închide. Pentru nivele de jurnalizare mai mari de 2 "
+"informațiile generate sînt semnificativ de mari. Utilizați cu grijă această "
 "variabilă de configurare."
 
 #. Tag: para
@@ -1564,11 +1564,11 @@ msgid ""
 "your current samba log file into another folder or something like that). "
 "Otherwise your samba log file may become very big."
 msgstr ""
-"Dacă sînteţi interesat să aflaţi cine accesează maşina dumneavoastră şi ce "
-"fişiere sînt deschise, setaţi nivelul de jurnalizare la 2 şi creaţi regulat "
-"un fişier jurnal samba nou (de exemplu setaţi un proces <command>cron</"
-"command> care o dată pe săptămînă mută fişierul jurnal curent în alt folder "
-"sau ceva de genul acesta). Altfel fişierul jurnal samba va deveni imens."
+"Dacă sînteți interesat să aflați cine accesează mașina dumneavoastră și ce "
+"fișiere sînt deschise, setați nivelul de jurnalizare la 2 și creați regulat "
+"un fișier jurnal samba nou (de exemplu setați un proces <command>cron</"
+"command> care o dată pe săptămînă mută fișierul jurnal curent în alt folder "
+"sau ceva de genul acesta). Altfel fișierul jurnal samba va deveni imens."
 
 #. Tag: para
 #: index.docbook:646
@@ -1579,10 +1579,10 @@ msgid ""
 "see the results. If the log level of your samba is too low, you won't see "
 "everything."
 msgstr ""
-"Cu cele patru căsuţe de opţiune de sub lista mare puteţi decide ce "
-"evenimente să fie afişate în listă. Trebuie să apăsaţi butonul "
+"Cu cele patru căsuțe de opțiune de sub lista mare puteți decide ce "
+"evenimente să fie afișate în listă. Trebuie să apăsați butonul "
 "<guibutton>Actualizează</guibutton> pentru a vedea rezultatele. Dacă nivelul "
-"de jurnalizare este prea mic, nu veţi vedea chiar tot ce doriţi."
+"de jurnalizare este prea mic, nu veți vedea chiar tot ce doriți."
 
 #. Tag: para
 #: index.docbook:651
@@ -1590,7 +1590,7 @@ msgstr ""
 msgid ""
 "By clicking on the header of one column you can sort the list by this column."
 msgstr ""
-"Dacă daţi clic pe antetul unei coloane, puteţi sorta lista după conţinutul "
+"Dacă dați clic pe antetul unei coloane, puteți sorta lista după conținutul "
 "acelei coloane."
 
 #. Tag: title
@@ -1598,7 +1598,7 @@ msgstr ""
 #, fuzzy, no-c-format
 #| msgid "Partitions"
 msgid "Statistics"
-msgstr "Partiţii"
+msgstr "Partiții"
 
 #. Tag: para
 #: index.docbook:658
@@ -1607,8 +1607,8 @@ msgid ""
 "On this page you can filter the contents of the third page for certain "
 "contents."
 msgstr ""
-"În această pagină puteţi filtra rezultatele din cea de-a treia pagină după "
-"un anumit conţinut."
+"În această pagină puteți filtra rezultatele din cea de-a treia pagină după "
+"un anumit conținut."
 
 #. Tag: para
 #: index.docbook:661
@@ -1621,10 +1621,10 @@ msgid ""
 "disabled and <guilabel>Show expanded host info</guilabel> is disabled."
 msgstr ""
 "Să presupunem că în cîmpul <guilabel>Eveniment</guilabel> (nu cel din listă) "
-"este selectat <userinput>Conexiune</userinput>, <guilabel>Serviciu/Fişier</"
+"este selectat <userinput>Conexiune</userinput>, <guilabel>Serviciu/Fișier</"
 "guilabel> este setat la <userinput>*</userinput>, <guilabel>Gazdă/"
-"Utilizator</guilabel> la <userinput>*</userinput>, <guilabel>Afişează "
-"informaţii de serviciu extinse</guilabel> şi <guilabel>Afişează informaţii "
+"Utilizator</guilabel> la <userinput>*</userinput>, <guilabel>Afișează "
+"informații de serviciu extinse</guilabel> și <guilabel>Afișează informații "
 "de gazdă extinse</guilabel> sînt dezactivate."
 
 #. Tag: para
@@ -1638,19 +1638,19 @@ msgid ""
 "Now you will see for every host which matches the wildcard <literal>*</"
 "literal>, how many connections were opened by him."
 msgstr ""
-"Dacă acum apăsaţi <guibutton>Caută</guibutton>, veţi vedea cît de des a fost "
+"Dacă acum apăsați <guibutton>Caută</guibutton>, veți vedea cît de des a fost "
 "accesată o partajare <literal>*</literal> (adică orice partajare) de la "
-"maşina <literal>*</literal> (adică orice calculator). Acum activaţi opţiunea "
-"<guilabel>Afişează informaţii de gazdă extinse</guilabel> şi apăsaţi din nou "
-"<guibutton>Caută</guibutton>. Acum ar trebui să vedeţi pentru fiecare maşină "
-"care se potriveşte cu expresia de globalizare <literal>*</literal>, cîte "
+"mașina <literal>*</literal> (adică orice calculator). Acum activați opțiunea "
+"<guilabel>Afișează informații de gazdă extinse</guilabel> și apăsați din nou "
+"<guibutton>Caută</guibutton>. Acum ar trebui să vedeți pentru fiecare mașină "
+"care se potrivește cu expresia de globalizare <literal>*</literal>, cîte "
 "conexiuni au fost deschise în mod individual."
 
 #. Tag: para
 #: index.docbook:676
 #, no-c-format
 msgid "Now press <guibutton>clear</guibutton>."
-msgstr "Apăsaţi butonul <guibutton>Şterge rezultatele</guibutton>."
+msgstr "Apăsați butonul <guibutton>Șterge rezultatele</guibutton>."
 
 #. Tag: para
 #: index.docbook:678
@@ -1660,9 +1660,9 @@ msgid ""
 "<guilabel>Show expanded service info</guilabel> and press <guibutton>Update</"
 "guibutton> again."
 msgstr ""
-"Acum setaţi cîmpul <guilabel>Eveniment</guilabel> la <userinput>Acces "
-"fişier</userinput>, activaţi opţiunea <guilabel>Afişează informaţii de "
-"serviciu extinse</guilabel> şi apăsaţi din nou <guibutton>Caută</guibutton>."
+"Acum setați cîmpul <guilabel>Eveniment</guilabel> la <userinput>Acces "
+"fișier</userinput>, activați opțiunea <guilabel>Afișează informații de "
+"serviciu extinse</guilabel> și apăsați din nou <guibutton>Caută</guibutton>."
 
 #. Tag: para
 #: index.docbook:682
@@ -1672,9 +1672,9 @@ msgid ""
 "<guilabel>Show expanded host info</guilabel> too, you will see how often "
 "every single user opened each file."
 msgstr ""
-"În acest mod puteţi vedea cît de des a fost accesat un fişier. Dacă activaţi "
-"şi opţiunea <guilabel>Afişează informaţii de gazdă extinse</guilabel>, veţi "
-"observa şi cît de des a fost deschis fiecare fişier de către fiecare "
+"În acest mod puteți vedea cît de des a fost accesat un fișier. Dacă activați "
+"și opțiunea <guilabel>Afișează informații de gazdă extinse</guilabel>, veți "
+"observa și cît de des a fost deschis fiecare fișier de către fiecare "
 "utilizator."
 
 #. Tag: para
@@ -1686,10 +1686,10 @@ msgid ""
 "</literal> in the same way you use them at the command line. Regular "
 "expressions are not recognized."
 msgstr ""
-"În liniile de editare <guilabel>Serviciu/Fişier</guilabel> şi "
-"<guilabel>Gazdă/Utilizator</guilabel> puteţi utiliza caracterele de "
-"globalizare <literal>*</literal> şi <literal>?</literal> în acelaşi mod în "
-"care le utilizaţi şi la linia de comandă. Expresiile regulate nu sînt "
+"În liniile de editare <guilabel>Serviciu/Fișier</guilabel> și "
+"<guilabel>Gazdă/Utilizator</guilabel> puteți utiliza caracterele de "
+"globalizare <literal>*</literal> și <literal>?</literal> în același mod în "
+"care le utilizați și la linia de comandă. Expresiile regulate nu sînt "
 "recunoscute."
 
 #. Tag: para
@@ -1700,15 +1700,15 @@ msgid ""
 "This way you can check out which file was opened most often, or which user "
 "opened the most files or whatever."
 msgstr ""
-"Dacă daţi clic pe antetul unei coloane, puteţi sorta lista după acea "
-"coloană. În acest mod puteţi verifica care fişier a fost deschis mai des sau "
-"ce utilizator a deschis cele mai multe fişiere şi aşa mai departe."
+"Dacă dați clic pe antetul unei coloane, puteți sorta lista după acea "
+"coloană. În acest mod puteți verifica care fișier a fost deschis mai des sau "
+"ce utilizator a deschis cele mai multe fișiere și așa mai departe."
 
 #. Tag: title
 #: index.docbook:700
 #, no-c-format
 msgid "Section Author"
-msgstr "Autor secţiune"
+msgstr "Autor secțiune"
 
 #. Tag: para
 #: index.docbook:702
@@ -1717,7 +1717,7 @@ msgid ""
 "Module copyright 2000: Michael Glauche and &Alexander.Neundorf; &Alexander."
 "Neundorf.mail;"
 msgstr ""
-"Copyright 2000: Michael Glauche şi &Alexander.Neundorf; &Alexander.Neundorf."
+"Copyright 2000: Michael Glauche și &Alexander.Neundorf; &Alexander.Neundorf."
 "mail;"
 
 #. Tag: para
@@ -1759,7 +1759,7 @@ msgid ""
 "Use of <classname>K3Process</classname> instead of popen, and more error "
 "checking:"
 msgstr ""
-"Utilizarea <classname>KProcess</classname> în loc de popen şi verificări "
+"Utilizarea <classname>KProcess</classname> în loc de popen și verificări "
 "extensive de erori:"
 
 #. Tag: para
@@ -1773,7 +1773,7 @@ msgstr "&David.Faure; &David.Faure.mail;"
 #, no-c-format
 msgid "Conversion to kcmodule, added tab pages 2,3,4, bug fixed:"
 msgstr ""
-"Conversia la kcmodule; a adăugat subferestrele 2,3,4; corecţii de erori:"
+"Conversia la kcmodule; a adăugat subferestrele 2,3,4; corecții de erori:"
 
 #. Tag: para
 #: index.docbook:716
@@ -1787,7 +1787,7 @@ msgstr "&Alexander.Neundorf; &Alexander.Neundorf.mail;"
 msgid ""
 "Documentation copyright 2000 &Alexander.Neundorf; &Alexander.Neundorf.mail;"
 msgstr ""
-"Documentaţia copyright 2000 &Alexander.Neundorf; &Alexander.Neundorf.mail;"
+"Documentația copyright 2000 &Alexander.Neundorf; &Alexander.Neundorf.mail;"
 
 #. Tag: para
 #: index.docbook:721
@@ -1798,7 +1798,7 @@ msgstr ""
 msgid ""
 "Documentation translated to docbook by &Mike.McBride; &Mike.McBride.mail;"
 msgstr ""
-"Documentaţia <trademark class=\"copyright\">copyright 2000 Michael McBride</"
+"Documentația <trademark class=\"copyright\">copyright 2000 Michael McBride</"
 "trademark> <email>mpmcbride7@yahoo.com</email>"
 
 #. Tag: trans_comment
@@ -1812,7 +1812,7 @@ msgstr "<para>Traducere de &Claudiu.Costin; &Claudiu.Costin.mail;.</para>"
 #, fuzzy, no-c-format
 #| msgid "Network Interfaces"
 msgid "Network Interfaces Information Module"
-msgstr "Interfeţe de reţea"
+msgstr "Interfețe de rețea"
 
 #. Tag: para
 #: index.docbook:733
@@ -1835,7 +1835,7 @@ msgstr ""
 #, fuzzy, no-c-format
 #| msgid "information"
 msgid "OpenGL Information Module"
-msgstr "informaţii"
+msgstr "informații"
 
 #. Tag: para
 #: index.docbook:749
@@ -1845,9 +1845,9 @@ msgid ""
 "implementation. OpenGL (for \"Open Graphics Library\") is a cross-platform, "
 "hardware independent interface for 3D graphics."
 msgstr ""
-"Această pagină afişează informaţii despre implementarea <acronym>OpenGL</"
+"Această pagină afișează informații despre implementarea <acronym>OpenGL</"
 "acronym> instalată. OpenGL (prescurtare de la \"Open Graphics Library\") "
-"este o interfaţă multiplatformă, independentă de hardware, pentru grafică 3D."
+"este o interfață multiplatformă, independentă de hardware, pentru grafică 3D."
 
 #. Tag: para
 #: index.docbook:753
@@ -1864,8 +1864,8 @@ msgid ""
 "properly installed driver for this."
 msgstr ""
 "<acronym>DRI</acronym> (Direct Rendering Infrastucture - Infrastructură de "
-"Randare Directă) oferă accelerare hardware pentru OpenGL. Trebuie să aveţi o "
-"placă video cu accelerator 3D  şi un driver instalat corespunzător."
+"Randare Directă) oferă accelerare hardware pentru OpenGL. Trebuie să aveți o "
+"placă video cu accelerator 3D  și un driver instalat corespunzător."
 
 #. Tag: para
 #: index.docbook:759
@@ -1874,7 +1874,7 @@ msgid ""
 "Read more at the official OpenGL site <ulink url=\"http://www.opengl.org"
 "\">http://www.opengl.org</ulink>"
 msgstr ""
-"Citiţi mai multe pe site-ul oficial OpenGL <ulink url=\"http://www.opengl.org"
+"Citiți mai multe pe site-ul oficial OpenGL <ulink url=\"http://www.opengl.org"
 "\">http://www.opengl.org</ulink>"
 
 #. Tag: title
@@ -1882,7 +1882,7 @@ msgstr ""
 #, fuzzy, no-c-format
 #| msgid "information"
 msgid "X Server Information Module"
-msgstr "informaţii"
+msgstr "informații"
 
 #. Tag: para
 #: index.docbook:767
@@ -1891,8 +1891,8 @@ msgid ""
 "This screen is useful for getting specific information about your X server "
 "and the current session of X."
 msgstr ""
-"Acest modul este util pentru a afla informaţii specifice despre serverul X "
-"şi sesiunea dumneavoastră curentă de X."
+"Acest modul este util pentru a afla informații specifice despre serverul X "
+"și sesiunea dumneavoastră curentă de X."
 
 #. Tag: para
 #: index.docbook:770
@@ -1905,9 +1905,9 @@ msgid ""
 "front of a label hides the submenu."
 msgstr ""
 "Partea din stînga a ferestrei este organizată ca un arbore. Unele elemente "
-"au semnul \"+\" (plus) în faţa etichetei. Dacă daţi clic pe acel semn, se va "
-"deschide un <quote>submeniu</quote> asociat acelei etichete. Dacă daţi clic "
-"pe semnul \"-\" (minus) din faţa etichetei, al submeniu va fi ascuns."
+"au semnul \"+\" (plus) în fața etichetei. Dacă dați clic pe acel semn, se va "
+"deschide un <quote>submeniu</quote> asociat acelei etichete. Dacă dați clic "
+"pe semnul \"-\" (minus) din fața etichetei, al submeniu va fi ascuns."
 
 #. Tag: para
 #: index.docbook:777
@@ -1917,22 +1917,22 @@ msgid ""
 "the parameters on the left."
 msgstr ""
 "Partea din dreapta a ferestrei prezintă valorile individuale pentru fiecare "
-"din parametrii afişaţi în stînga."
+"din parametrii afișați în stînga."
 
 #. Tag: para
 #: index.docbook:780
 #, no-c-format
 msgid "The information presented will vary depending on your setup."
 msgstr ""
-"Informaţia prezentată variază în funcţie de setarea sistemului dumneavoastră."
+"Informația prezentată variază în funcție de setarea sistemului dumneavoastră."
 
 #. Tag: para
 #: index.docbook:783
 #, no-c-format
 msgid "Some setups may not be able to determine some or all of the parameters."
 msgstr ""
-"În unele configuraţii de X este posibil ca nu toţi parametrii să poată fi "
-"determinaţi."
+"În unele configurații de X este posibil ca nu toți parametrii să poată fi "
+"determinați."
 
 #. Tag: para
 #: index.docbook:786
@@ -1940,27 +1940,27 @@ msgstr ""
 msgid ""
 "You can not change any values from this menu. It is for information only."
 msgstr ""
-"Acest modul oferă numai informaţii. Nu puteţi edita nici un fel de "
-"informaţii afişate aici."
+"Acest modul oferă numai informații. Nu puteți edita nici un fel de "
+"informații afișate aici."
 
 #. Tag: title
 #: index.docbook:797
 #, no-c-format
 msgid "Credits and License"
-msgstr "Mulţumiri şi licenţa"
+msgstr "Mulțumiri și licența"
 
 #. Tag: para
 #: index.docbook:799
 #, no-c-format
 msgid "&infocenter;"
-msgstr "Centrul de Informaţii &kde;"
+msgstr "Centrul de Informații &kde;"
 
 #. Tag: para
 #: index.docbook:800
 #, no-c-format
 msgid "Program copyright 1997-2001 The &infocenter; Developers"
 msgstr ""
-"Program copyright 1997-2001 Dezvoltatorii Centrului de Informaţii &kde;"
+"Program copyright 1997-2001 Dezvoltatorii Centrului de Informații &kde;"
 
 #. Tag: para
 #: index.docbook:801 index.docbook:812
@@ -1992,7 +1992,7 @@ msgid ""
 "Documentation <trademark class=\"copyright\">copyright 2000 Michael McBride</"
 "trademark> &Mike.McBride.mail;"
 msgstr ""
-"Documentaţia <trademark class=\"copyright\">copyright 2000 Michael McBride</"
+"Documentația <trademark class=\"copyright\">copyright 2000 Michael McBride</"
 "trademark> <email>mpmcbride7@yahoo.com</email>"
 
 #. Tag: para
@@ -2084,7 +2084,7 @@ msgstr "&underFDL; &underGPL;"
 #, fuzzy
 #~| msgid "Samba Status Information"
 #~ msgid "Summary Information Module"
-#~ msgstr "Informaţii de stare SAMBA"
+#~ msgstr "Informații de stare SAMBA"
 
 #, fuzzy
 #~| msgid "<guimenu>Help</guimenu> Menu"
@@ -2105,9 +2105,9 @@ msgstr "&underFDL; &underGPL;"
 #~ "This is a where you choose which module to investigate. You can learn how "
 #~ "to navigate through the modules in the section called Navigating Modules."
 #~ msgstr ""
-#~ "În partea stîngă este o coloană. Aici este locul unde alegeţi modulul de "
-#~ "vizualizat. În secţiunea <link linkend=\"module-intro\">Navigarea prin "
-#~ "module</link> aflaţi cum să parcurgeţi lista de module."
+#~ "În partea stîngă este o coloană. Aici este locul unde alegeți modulul de "
+#~ "vizualizat. În secțiunea <link linkend=\"module-intro\">Navigarea prin "
+#~ "module</link> aflați cum să parcurgeți lista de module."
 
 #~ msgid "Navigating Modules"
 #~ msgstr "Navigarea prin module"
@@ -2127,8 +2127,8 @@ msgstr "&underFDL; &underGPL;"
 #~ "Aceasta este o listă a modulelor de configurare <emphasis>standard</"
 #~ "emphasis> (sortate după categorie) disponibile în pachetul <application "
 #~ "role=\"package\">&kde; de bază</application>. Este posibil ca în sistemul "
-#~ "dumneavoastră să fie mai multe module dacă aţi instalat programe "
-#~ "adiţionale."
+#~ "dumneavoastră să fie mai multe module dacă ați instalat programe "
+#~ "adiționale."
 
 #~ msgid "Interrupts"
 #~ msgstr "Întreruperi"
@@ -2160,39 +2160,39 @@ msgstr "&underFDL; &underGPL;"
 #~ msgstr "Sunet"
 
 #~ msgid "Using The &infocenter;"
-#~ msgstr "Utilizarea Centrului de Informaţii &kde;"
+#~ msgstr "Utilizarea Centrului de Informații &kde;"
 
 #~ msgid ""
 #~ "By pressing <keycombo action=\"simul\">&Alt;<keycap>F2</keycap></"
 #~ "keycombo>."
 #~ msgstr ""
-#~ "Apăsînd combinaţia de taste <keycombo action=\"simul\">&Alt;<keycap>F2</"
+#~ "Apăsînd combinația de taste <keycombo action=\"simul\">&Alt;<keycap>F2</"
 #~ "keycap></keycombo>."
 
 #~ msgid "The &infocenter; Menus"
-#~ msgstr "Meniurile Centrului de Informaţii &kde;"
+#~ msgstr "Meniurile Centrului de Informații &kde;"
 
 #~ msgid "<guimenu>File</guimenu> Menu"
-#~ msgstr "Meniul <guimenu>Fişier</guimenu>"
+#~ msgstr "Meniul <guimenu>Fișier</guimenu>"
 
 #~ msgid "The <guimenu>File</guimenu> menu has a single entry."
-#~ msgstr "Meniul <guimenu>Fişier</guimenu> are un singur item."
+#~ msgstr "Meniul <guimenu>Fișier</guimenu> are un singur item."
 
 #~ msgid ""
 #~ "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>Q</keycap></keycombo> "
 #~ "</shortcut> <guimenu>File</guimenu> <guimenuitem>Quit</guimenuitem>"
 #~ msgstr ""
 #~ "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>Q</keycap></keycombo> "
-#~ "</shortcut> <guimenu>Fişier</guimenu> <guimenuitem>Termină</guimenuitem>"
+#~ "</shortcut> <guimenu>Fișier</guimenu> <guimenuitem>Termină</guimenuitem>"
 
 #~ msgid "Closes the info center."
-#~ msgstr "Închide centrul de informaţii"
+#~ msgstr "Închide centrul de informații"
 
 #~ msgid ""
 #~ "Select <menuchoice><guimenu>File</guimenu> <guimenuitem>Quit</"
 #~ "guimenuitem></menuchoice> from the menu bar."
 #~ msgstr ""
-#~ "Selectaţi itemul <menuchoice><guimenu>Fişier</guimenu> "
+#~ "Selectați itemul <menuchoice><guimenu>Fișier</guimenu> "
 #~ "<guimenuitem>Termină</guimenuitem></menuchoice> din bara de meniu."
 
 #~ msgid "PCMCIA"

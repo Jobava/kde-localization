@@ -57,10 +57,10 @@ msgid ""
 msgstr ""
 "<acronym>WebDAV</acronym> (<emphasis>D</emphasis>istributed <emphasis>A</"
 "emphasis>uthoring and <emphasis>V</emphasis>ersioning) este protocolul "
-"pentru web. El permite manipularea uşoară a documentelor şi scripturilor de "
-"pe un server <ulink url=\"help:/kioslave/webdav.html\">http</ulink> şi are "
-"funcţii adiţionale pentru a simplifica controlul versiunilor pentru mai "
-"mulţi autori."
+"pentru web. El permite manipularea ușoară a documentelor și scripturilor de "
+"pe un server <ulink url=\"help:/kioslave/webdav.html\">http</ulink> și are "
+"funcții adiționale pentru a simplifica controlul versiunilor pentru mai "
+"mulți autori."
 
 #. Tag: para
 #: index.docbook:26
@@ -73,13 +73,13 @@ msgid ""
 "a list of files and folders will be displayed, and you can manipulate these "
 "folders and files just as you would with any other filesystem."
 msgstr ""
-"Utilizarea acestui protocol este simplă. Introduceţi locaţia pe care doriţi "
-"să o vizualizaţi la fel ca pe  un URL <acronym>http</acronym> cu excepţia "
+"Utilizarea acestui protocol este simplă. Introduceți locația pe care doriți "
+"să o vizualizați la fel ca pe  un URL <acronym>http</acronym> cu excepția "
 "faptului că începutul lui trebuie să fie webdav://. Un exemplu ar putea fi "
 "<userinput>webdav://<replaceable>www.server.com/cale/</replaceable></"
-"userinput>. Dacă specificaţi un nume de folder, va fi afişată o listă de "
-"fişiere şi foldere pe care le puteţi administra în acelaşi mod în care "
-"lucraţi cu fişierele şi folderele oricărui alt sistem de fişiere."
+"userinput>. Dacă specificați un nume de folder, va fi afișată o listă de "
+"fișiere și foldere pe care le puteți administra în același mod în care "
+"lucrați cu fișierele și folderele oricărui alt sistem de fișiere."
 
 #. Tag: title
 #: index.docbook:35
@@ -102,16 +102,16 @@ msgid ""
 "that the changes may be overwritten by another person who is also editing "
 "the same document."
 msgstr ""
-"Interblocarea fişierelor permite utilizatorilor să blocheze un fişier, "
-"informîndu-i pe ceilalţi că lucrează în acel moment la el. În acest mod "
+"Interblocarea fișierelor permite utilizatorilor să blocheze un fișier, "
+"informîndu-i pe ceilalți că lucrează în acel moment la el. În acest mod "
 "editarea poate fi făcută fără teama că modificările vor fi suprascrise de o "
-"altă persoană care lucrează la acelaşi document."
+"altă persoană care lucrează la același document."
 
 #. Tag: term
 #: index.docbook:49
 #, no-c-format
 msgid "Source file access"
-msgstr "Acces la fişierul sursă"
+msgstr "Acces la fișierul sursă"
 
 #. Tag: para
 #: index.docbook:51
@@ -128,7 +128,7 @@ msgstr ""
 #: index.docbook:57
 #, no-c-format
 msgid "Per-document property support"
-msgstr "Suport proprietăţi per-document"
+msgstr "Suport proprietăți per-document"
 
 #. Tag: para
 #: index.docbook:59
@@ -137,7 +137,7 @@ msgid ""
 "Arbitrary properties may be set to assist identification of a document, such "
 "as the author."
 msgstr ""
-"Pot fi setate proprietăţi arbitrare pentru a ajuta la identificarea unui "
+"Pot fi setate proprietăți arbitrare pentru a ajuta la identificarea unui "
 "document, de exemplu autorul lui."
 
 #. Tag: para
@@ -148,8 +148,8 @@ msgid ""
 "application which supports them. No application currently supports them "
 "through this kioslave."
 msgstr ""
-"Pentru a profita de funcţionalităţile suplimentare, aveţi nevoie de "
-"aplicaţii care să le suporte. Deocamdată nu există aplicaţii care să le "
+"Pentru a profita de funcționalitățile suplimentare, aveți nevoie de "
+"aplicații care să le suporte. Deocamdată nu există aplicații care să le "
 "suporte utilizînd acest subsistem de I/E."
 
 #. Tag: para

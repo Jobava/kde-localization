@@ -47,14 +47,14 @@ msgid ""
 "key authentication and compression."
 msgstr ""
 "<acronym>SFTP</acronym> este un protocol de transfer securizat al "
-"fişierelor. <command>sftp</command> este un program de transfer interactiv "
-"al fişierelor similar cu ftp, dar care execută toate operaţiile printr-un "
+"fișierelor. <command>sftp</command> este un program de transfer interactiv "
+"al fișierelor similar cu ftp, dar care execută toate operațiile printr-un "
 "canal de transport <command>ssh</command> criptat. El poate utiliza multe "
 "din caracteristicile <command>ssh</command>, inclusiv autentificarea cu "
-"cheie publică şi compresia datelor."
+"cheie publică și compresia datelor."
 
 #. Tag: para
 #: index.docbook:23
 #, no-c-format
 msgid "See the manual: <ulink url=\"man:/sftp\">sftp</ulink>."
-msgstr "Citiţi pagina de manual: <ulink url=\"man:/sftp\">sftp</ulink>."
+msgstr "Citiți pagina de manual: <ulink url=\"man:/sftp\">sftp</ulink>."
