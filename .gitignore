@@ -1,0 +1,12 @@
+*~
+.svn
+.git
+*#
+kdelibs4/apps
+kdelibs4/doc
+stable-kdelibs4/apps
+stable-kdelibs4/doc
+kf5/apps
+kf5/doc
+stable-kf5/apps
+stable-kf5/doc
