@@ -1,0 +1,3294 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2011, 2012, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-12-14 01:52+0000\n"
+"PO-Revision-Date: 2014-03-25 01:33+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: adblock/adblockmanager.cpp:353
+#, fuzzy
+#| msgid "Plugin Settings"
+msgctxt "@title:window"
+msgid "Ad Block Settings"
+msgstr "Configurări module"
+
+#: adblock/adblocksettingwidget.cpp:52
+msgid ""
+"<qt>Filter expression (e.g. <tt>http://www.example.com/ad/*</tt>, <a href="
+"\"filterhelp\">more information</a>):"
+msgstr ""
+"<qt>Expresie filtru (de ex. <tt>http://www.exemplu.com/ad/*</tt>, <a href="
+"\"filterhelp\">informații suplimentare</a>):"
+
+#: adblock/adblocksettingwidget.cpp:67
+#, fuzzy
+msgid " day"
+msgid_plural " days"
+msgstr[0] " zi"
+msgstr[1] " zile"
+msgstr[2] " de zile"
+
+#: adblock/adblocksettingwidget.cpp:82
+msgid ""
+"<qt><p>Enter an expression to filter. Filters can be defined as either:"
+"<ul><li>a shell-style wildcard, e.g. <tt>http://www.example.com/ads*</tt>, "
+"the wildcards <tt>*?[]</tt> may be used</li><li>a full regular expression by "
+"surrounding the string with '<tt>/</tt>', e.g. <tt>/\\/(ad|banner)\\./</tt></"
+"li></ul><p>Any filter string can be preceded by '<tt>@@</tt>' to whitelist "
+"(allow) any matching URL, which takes priority over any blacklist (blocking) "
+"filter."
+msgstr ""
+"<qt><p>Introduceți o expresie pentru filtrare. Filtrele pot fi definite ca "
+"unul din:<ul><li>un metacaracter în stilul interpretorului, de ex. "
+"<tt>http://www.example.com/ads*</tt>, pot fi folosite metacaracterele <tt>*?"
+"[]</tt></li><li>o expresie regulară completă plasînd șirul între „<tt>/</"
+"tt>”, de ex. <tt>/\\/(ad|banner)\\./</tt></li></ul><p>Orice șir de filtrare "
+"poate fi precedat de „<tt>@@</tt>” pentru a pune în lista albă (permise) "
+"orice URL care se potrivește și care au prioritate fața de oricare filtru "
+"din lista neagră (blocate)."
+
+#. i18n: ectx: property (text), widget (QLabel, BlockedLabel)
+#: adblock/blocked_elements.ui:17
+msgid ""
+"<html><head/><body><p><span style=\" font-weight:600;\">Blocked elements</"
+"span></p></body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, HidedLabel)
+#: adblock/blocked_elements.ui:101
+msgid "<b>Hidden elements</b>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, syncLabel)
+#. i18n: ectx: property (text), widget (QLabel, hostLabel)
+#. i18n: ectx: property (text), widget (QLabel, certInfoLabel)
+#. i18n: ectx: property (text), widget (QLabel, subjectCN)
+#. i18n: ectx: property (text), widget (QLabel, subjectO)
+#. i18n: ectx: property (text), widget (QLabel, subjectOU)
+#. i18n: ectx: property (text), widget (QLabel, subjectSN)
+#. i18n: ectx: property (text), widget (QLabel, issuerCN)
+#. i18n: ectx: property (text), widget (QLabel, issuerOU)
+#. i18n: ectx: property (text), widget (QLabel, issuerO)
+#. i18n: ectx: property (text), widget (QLabel, issuedOn)
+#. i18n: ectx: property (text), widget (QLabel, expiresOn)
+#. i18n: ectx: property (text), widget (QLabel, md5)
+#. i18n: ectx: property (text), widget (QLabel, sha1)
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: adblock/blocked_elements.ui:108 sync/sync_check.ui:30 sync/sync_check.ui:44
+#: webtab/sslinfo.ui:77 webtab/sslinfo.ui:131 webtab/sslinfo.ui:145
+#: webtab/sslinfo.ui:159 webtab/sslinfo.ui:173 webtab/sslinfo.ui:223
+#: webtab/sslinfo.ui:244 webtab/sslinfo.ui:251 webtab/sslinfo.ui:301
+#: webtab/sslinfo.ui:315 webtab/sslinfo.ui:365 webtab/sslinfo.ui:379
+#, fuzzy
+msgid "TextLabel"
+msgstr "EtichetăTextuală"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkEnableAdblock)
+#: adblock/settings_adblock.ui:17
+msgid "&Enable Ad Block"
+msgstr "Activ&ează AdBlock"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkHideAds)
+#: adblock/settings_adblock.ui:24
+msgid "&Hide filtered elements"
+msgstr "A&scunde elementele filtrate"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: adblock/settings_adblock.ui:38
+msgid "Automatic Filters"
+msgstr "Filtre automate"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: adblock/settings_adblock.ui:49
+msgid "Update enabled automatic filters every:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: adblock/settings_adblock.ui:88
+msgid "Manual Filters"
+msgstr "Filtre manuale"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: adblock/settings_adblock.ui:96
+msgid "Search:"
+msgstr "Caută:"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, insertButton)
+#: adblock/settings_adblock.ui:130
+msgid "Add filter expression"
+msgstr "Adaugă expresie de filtrare"
+
+#. i18n: ectx: property (text), widget (QToolButton, insertButton)
+#. i18n: ectx: property (text), widget (QToolButton, removeButton)
+#: adblock/settings_adblock.ui:133 adblock/settings_adblock.ui:143
+msgid "..."
+msgstr "..."
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, removeButton)
+#: adblock/settings_adblock.ui:140
+msgid "Remove filter expression"
+msgstr "Elimină expresie de filtrare"
+
+#: application.cpp:156 application.cpp:162
+msgid "Error"
+msgstr "Eroare"
+
+#: application.cpp:156
+msgid "Cannot launch webapp mode without an URL to load"
+msgstr ""
+
+#: application.cpp:162
+msgid "Cannot load more than one URL in webapp mode"
+msgstr ""
+
+#: application.cpp:557
+#, kde-format
+msgid ""
+"Malformed URL:\n"
+"%1"
+msgstr ""
+"URL eronat:\n"
+"%1"
+
+#: application.cpp:725
+msgid "Do you want to close the window or the whole application?"
+msgstr "Doriți să închideți fereastra sau întreaga aplicație?"
+
+#: application.cpp:726
+msgid "Application/Window closing..."
+msgstr ""
+
+#: application.cpp:727
+msgid "C&lose Current Window"
+msgstr "Închide f&ereastra curentă"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ClearDataWidget)
+#: application.cpp:756 cleardata.ui:17
+#, fuzzy
+#| msgid "Clear Private Data"
+msgctxt "@title:window"
+msgid "Clear Private Data"
+msgstr "Curățare date private..."
+
+#: application.cpp:760
+msgid "Clear"
+msgstr "Curăță"
+
+#: application.cpp:844
+msgctxt "@title:window"
+msgid "Create Application Shortcut"
+msgstr "Creează scurtătură de aplicație"
+
+#: application.cpp:846
+msgid "Create"
+msgstr "Creează"
+
+#: bookmarks/bookmarkmanager.cpp:326
+msgid "&Bookmarks"
+msgstr "&Semne de carte"
+
+#: bookmarks/bookmarkowner.cpp:74 panels/historypanel.cpp:71
+msgid "Open"
+msgstr "Deschide"
+
+#: bookmarks/bookmarkowner.cpp:75
+msgid "Open bookmark in current tab"
+msgstr "Deschide semn de carte în fila curentă"
+
+#: bookmarks/bookmarkowner.cpp:77 panels/historypanel.cpp:75
+msgid "Open in New Tab"
+msgstr "Deschide în filă nouă"
+
+#: bookmarks/bookmarkowner.cpp:78
+msgid "Open bookmark in new tab"
+msgstr "Deschide semn de carte în filă nouă"
+
+#: bookmarks/bookmarkowner.cpp:80 panels/historypanel.cpp:79
+msgid "Open in New Window"
+msgstr "Deschide în fereastră nouă"
+
+#: bookmarks/bookmarkowner.cpp:81
+msgid "Open bookmark in new window"
+msgstr "Deschide semn de carte în fereastră nouă"
+
+#: bookmarks/bookmarkowner.cpp:83 panels/historypanel.cpp:104
+msgid "Open Folder in Tabs"
+msgstr "Deschide dosarul în file"
+
+#: bookmarks/bookmarkowner.cpp:84
+msgid "Open all the bookmarks in folder in tabs"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:86 urlbar/urlbar.cpp:825
+msgid "Add Bookmark"
+msgstr "Adaugă semn de carte"
+
+#: bookmarks/bookmarkowner.cpp:87
+msgid "Bookmark current page"
+msgstr "Pune semn de carte la pagina curentă"
+
+#: bookmarks/bookmarkowner.cpp:89
+msgid "New Folder"
+msgstr "Dosar nou"
+
+#: bookmarks/bookmarkowner.cpp:90
+msgid "Create a new bookmark folder"
+msgstr "Creează dosar nou cu semne de carte"
+
+#: bookmarks/bookmarkowner.cpp:92
+msgid "New Separator"
+msgstr "Separator nou"
+
+#: bookmarks/bookmarkowner.cpp:93
+msgid "Create a new bookmark separator"
+msgstr "Creează separator pentru semne de carte"
+
+#: bookmarks/bookmarkowner.cpp:95
+msgid "Copy Link"
+msgstr "Copiază legătura"
+
+#: bookmarks/bookmarkowner.cpp:96
+msgid "Copy the bookmark's link address"
+msgstr "Copiază adresa legăturii semnului de carte"
+
+#: bookmarks/bookmarkowner.cpp:98
+#, fuzzy
+msgid "Edit"
+msgstr "Editează"
+
+#: bookmarks/bookmarkowner.cpp:99
+msgid "Edit the bookmark"
+msgstr "Modifică semnul de carte"
+
+#: bookmarks/bookmarkowner.cpp:102
+#, fuzzy
+#| msgid "Bookmarks"
+msgid "Fancy Bookmark"
+msgstr "Semne de carte"
+
+#: bookmarks/bookmarkowner.cpp:103
+msgid "Link Nepomuk resources"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, deleteButton)
+#: bookmarks/bookmarkowner.cpp:106 session.ui:33 urlbar/urlbar.cpp:497
+#: useragent/useragentsettings.ui:39
+#, fuzzy
+msgid "Delete"
+msgstr "Șterge"
+
+#: bookmarks/bookmarkowner.cpp:107
+msgid "Delete the bookmark"
+msgstr "Șterge semnul de carte"
+
+#: bookmarks/bookmarkowner.cpp:109
+#, fuzzy
+#| msgid "Create a new bookmark folder"
+msgid "Set as toolbar folder"
+msgstr "Stabilire ca d&osar pe bara de instrumente"
+
+#: bookmarks/bookmarkowner.cpp:112
+msgid "Unset this folder as the toolbar folder"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:171 panels/historypanel.cpp:136
+#, kde-format
+msgctxt "%1=Number of tabs. Value is always >=8"
+msgid ""
+"You are about to open %1 tabs.\n"
+"Are you sure?"
+msgid_plural ""
+"You are about to open %1 tabs.\n"
+"Are you sure?"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: bookmarks/bookmarkowner.cpp:248
+msgid "New folder"
+msgstr "Dosar nou"
+
+#: bookmarks/bookmarkowner.cpp:350
+msgid "Bookmark Folder Deletion"
+msgstr "Ștergere dosar semne de carte"
+
+#: bookmarks/bookmarkowner.cpp:351
+#, kde-format
+msgid ""
+"Are you sure you wish to remove the bookmark folder\n"
+"\"%1\"?"
+msgstr ""
+"Sigur doriți să ștergeți dosarul de semne de carte \n"
+"„%1”?"
+
+#: bookmarks/bookmarkowner.cpp:355
+msgid "Separator Deletion"
+msgstr "Ștergere separator"
+
+#: bookmarks/bookmarkowner.cpp:356
+msgid "Are you sure you wish to remove this separator?"
+msgstr "Sigur doriți să eliminați acest separator?"
+
+#: bookmarks/bookmarkowner.cpp:360
+msgid "Bookmark Deletion"
+msgstr "Ștergere semn de carte"
+
+#: bookmarks/bookmarkowner.cpp:361
+#, kde-format
+msgid ""
+"Are you sure you wish to remove the bookmark\n"
+"\"%1\"?"
+msgstr ""
+"Sigur ștergeți semnul de carte\n"
+"„%1”?"
+
+#: bookmarks/bookmarkstreemodel.cpp:86
+#, fuzzy, kde-format
+msgctxt "%1=Number of items in bookmark folder"
+msgid " (1 item)"
+msgid_plural " (%1 items)"
+msgstr[0] "1 element"
+msgstr[1] "%1 elemente"
+msgstr[2] "%1 de elemente"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_syncBookmarks)
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#: bookmarks/bookmarkstreemodel.cpp:262 rekonqpage/newtabpage.cpp:313
+#: rekonqpage/newtabpage.cpp:347 settings/settings_tabs.ui:125
+#: sync/sync_check.ui:60 sync/sync_data.ui:32
+msgid "Bookmarks"
+msgstr "Semne de carte"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: cleardata.ui:29
+msgid "<h3>Clear the following items:</h3>"
+msgstr "<h3>Curăță următoarele elemente:</h3>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearHistory)
+#: cleardata.ui:52
+msgid "Visited pages history"
+msgstr "Istoricul paginilor vizitate"
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearDownloads)
+#: cleardata.ui:62
+msgid "Downloads history"
+msgstr "Istoricul descărcărilor"
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearCookies)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: cleardata.ui:72 settings/settings_privacy.ui:91
+msgid "Cookies"
+msgstr "Cookie-uri"
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearCachedPages)
+#: cleardata.ui:82
+msgid "Cached web pages"
+msgstr "Pagini web prestocate"
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearWebIcons)
+#: cleardata.ui:92
+msgid "Website icons"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, homePageThumbs)
+#: cleardata.ui:102
+msgid "Home page thumbs"
+msgstr ""
+
+#: history/historymodels.cpp:93
+#, fuzzy
+msgid "Title"
+msgstr "Titlu"
+
+#: history/historymodels.cpp:94
+msgid "Address"
+msgstr "Adresă"
+
+#: history/historymodels.cpp:158
+#, fuzzy, kde-format
+#| msgid "First Visit: "
+msgid "First Visit: %1"
+msgstr "Prima vizită: "
+
+#: history/historymodels.cpp:159
+#, fuzzy, kde-format
+#| msgid "Last Visit: "
+msgid "Last Visit: %1"
+msgstr "Ultima vizită: "
+
+#: history/historymodels.cpp:160
+#, fuzzy, kde-format
+#| msgid "Number of Visits: "
+msgid "Number of Visits: %1"
+msgstr "Număr de vizite: "
+
+#: history/historymodels.cpp:455
+msgid "Earlier Today"
+msgstr "Azi, mai devreme"
+
+#: history/historymodels.cpp:460
+#, fuzzy, kde-format
+msgid "1 item"
+msgid_plural "%1 items"
+msgstr[0] "1 element"
+msgstr[1] "%1 elemente"
+msgstr[2] "%1 de elemente"
+
+#: main.cpp:48
+msgid "A lightweight Web Browser for KDE based on WebKit"
+msgstr "Un navigator de Internet ușor pentru KDE, bazat pe WebKit"
+
+#: main.cpp:55 webtab/webtab.cpp:493
+msgid "rekonq"
+msgstr "rekonq"
+
+#: main.cpp:59
+#, fuzzy
+#| msgid "(C) 2008-2012 Andrea Diamantini"
+msgid "(C) 2008-2013 Andrea Diamantini"
+msgstr "(C) 2008-2012 Andrea Diamantini"
+
+#: main.cpp:66
+msgid "Andrea Diamantini"
+msgstr "Andrea Diamantini"
+
+#: main.cpp:67
+msgid "Project Lead, Developer, Maintainer"
+msgstr "Conducătorul proiectului, responsabil"
+
+#: main.cpp:71
+msgid "Johannes Tröscher"
+msgstr "Johannes Tröscher"
+
+#: main.cpp:72
+msgid "QGraphicsEffect expert. Tabbar highlight animation"
+msgstr ""
+
+#: main.cpp:76
+msgid "Furkan Uzumcu"
+msgstr "Furkan Uzumcu"
+
+#: main.cpp:77
+msgid "A lot of improvements, especially on usability"
+msgstr ""
+
+#: main.cpp:81
+msgid "Yoann Laissus"
+msgstr "Yoann Laissus"
+
+#: main.cpp:82
+msgid "Developer, History & Bookmarks Improvements"
+msgstr ""
+
+#: main.cpp:86
+msgid "Cédric Bellegarde"
+msgstr "Cédric Bellegarde"
+
+#: main.cpp:87
+msgid "Patched code quite everywhere :)"
+msgstr ""
+
+#: main.cpp:91
+msgid "Jon Ander Peñalba"
+msgstr "Jon Ander Peñalba"
+
+#: main.cpp:92
+msgid "Bookmarks code peer reviewer. A fantastic help"
+msgstr ""
+
+#: main.cpp:96
+msgid "Pierre Rossi"
+msgstr "Pierre Rossi"
+
+#: main.cpp:97
+msgid "Urlbar, tests, new tab page, bars... and more"
+msgstr ""
+
+#: main.cpp:101
+msgid "Lionel Chauvin"
+msgstr "Lionel Chauvin"
+
+#: main.cpp:102
+msgid "Development, Ideas, Mockups, rekonq Icon"
+msgstr ""
+
+#: main.cpp:106
+msgid "Siteshwar Vashisht"
+msgstr ""
+
+#: main.cpp:107
+msgid "Code, Ideas, sync... and IRC chats!"
+msgstr ""
+
+#: main.cpp:111
+msgid "Tirtha Chatterjee"
+msgstr ""
+
+#: main.cpp:112
+msgid "A lot of nice work, here and there in the code :)"
+msgstr ""
+
+#: main.cpp:116
+msgid "Lindsay Mathieson"
+msgstr "Lindsay Mathieson"
+
+#: main.cpp:117
+msgid "Implemented inline spellcheck, provided hints, discovered bugs"
+msgstr ""
+
+#: main.cpp:123
+msgid "Dawit Alemayehu"
+msgstr "Dawit Alemayehu"
+
+#: main.cpp:124
+msgid "KDEWebKit (main) developer. And KIO. And KUriFilter. And more.."
+msgstr ""
+
+#: main.cpp:128
+msgid "Jekyll Wu"
+msgstr "Jekyll Wu"
+
+#: main.cpp:129
+msgid "Bug triaging. Impressive job about..."
+msgstr ""
+
+#: main.cpp:133
+msgid "Dimitrios Christidis"
+msgstr ""
+
+#: main.cpp:134
+msgid "Provides patches, fixes and good testing"
+msgstr ""
+
+#: main.cpp:138
+msgid "Panagiotis Papadopoulos"
+msgstr "Panagiotis Papadopoulos"
+
+#: main.cpp:139
+msgid "Quite everything but code"
+msgstr "Practit tot, în afară de cod"
+
+#: main.cpp:143
+msgid "Phaneendra Hedge"
+msgstr ""
+
+#: main.cpp:144
+#, fuzzy
+#| msgid "You have no bookmarks"
+msgid "Nepomuk fancy bookmarking"
+msgstr "NU aveți semne de carte"
+
+#: main.cpp:148
+msgid "Jonathan Raphael Joachim Kolberg"
+msgstr "Jonathan Raphael Joachim Kolberg"
+
+#: main.cpp:149
+msgid "Handbook, Maintains a Kubuntu PPA with rekonq git packages"
+msgstr ""
+
+#: main.cpp:153
+msgid "Benjamin Poulain"
+msgstr "Benjamin Poulain"
+
+#: main.cpp:154
+msgid ""
+"The \"QtWebKit guy\". Adblock (new) implementation. Code quality improvements"
+msgstr ""
+
+#: main.cpp:158
+msgid "Rohan Garg"
+msgstr "Rohan Garg"
+
+#: main.cpp:159
+msgid "Handbook, Maintains a Kubuntu PPA with rekonq git packages."
+msgstr ""
+
+#: main.cpp:163
+msgid "Anton Kreuzkamp"
+msgstr "Anton Kreuzkamp"
+
+#: main.cpp:164
+msgid "Session Management, patches"
+msgstr ""
+
+#: main.cpp:168
+msgid "David E. Narváez"
+msgstr "David E. Narváez"
+
+#: main.cpp:169
+msgid "Implemented User Session Management and cleaned up SessionManager code"
+msgstr ""
+
+#: main.cpp:173
+msgid "Marc Deop"
+msgstr "Marc Deop"
+
+#: main.cpp:174
+msgid "Access Keys Navigation"
+msgstr ""
+
+#: main.cpp:178
+#, fuzzy
+msgid "Yuri Chornoivan"
+msgstr "Yuri Chornoivan"
+
+#: main.cpp:179 main.cpp:184
+msgid "Checking rekonq strings, helping with docs"
+msgstr ""
+
+#: main.cpp:183
+msgid "Burkhard Lück"
+msgstr ""
+
+#: main.cpp:188
+msgid "Andrius da Costa Ribas"
+msgstr ""
+
+#: main.cpp:189
+msgid "Helped letting rekonq compile on Windows/MSVC and Mac OS X"
+msgstr ""
+
+#: main.cpp:193
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+#: main.cpp:194
+msgid "fixuifiles ;)"
+msgstr ""
+
+#: main.cpp:206
+msgid "Open in incognito mode"
+msgstr ""
+
+#: main.cpp:207
+msgid "Open URL as web app (in a simple window)"
+msgstr ""
+
+#: main.cpp:208
+msgid "Location to open"
+msgstr "Locația de deschis"
+
+#: nepomuk/utils/resourcemodel.cpp:149
+msgctxt ""
+"@title KCategorizedSortFilterProxyModel grouping all Nepomuk resources whose "
+"type is rdfs:Resource"
+msgid "Miscellaneous"
+msgstr ""
+
+#: nepomuk/utils/resourcemodel.cpp:175
+#, fuzzy
+#| msgid "Open Web Resource"
+msgctxt "@title:column The Nepomuk resource label and icon"
+msgid "Resource"
+msgstr "Deschide resursă web"
+
+#: nepomuk/utils/resourcemodel.cpp:177
+#, fuzzy
+#| msgid "* Resource Name:"
+msgctxt "@title:column The Nepomuk resource's RDF type"
+msgid "Resource Type"
+msgstr "* Denumire resursă:"
+
+#: panels/historypanel.cpp:83
+#, fuzzy
+#| msgid "Copy Link"
+msgid "Copy Link Address"
+msgstr "Copiază legătura"
+
+#: panels/historypanel.cpp:87
+#, fuzzy
+#| msgid "New Folder"
+msgid "Remove Entry"
+msgstr "Dosar nou"
+
+#: panels/historypanel.cpp:91
+#, fuzzy
+#| msgid "Remove all"
+msgid "Remove all occurrences"
+msgstr "Elimină tot"
+
+#: panels/historypanel.cpp:108
+#, fuzzy
+#| msgid "New Folder"
+msgid "Remove Folder"
+msgstr "Dosar nou"
+
+#: panels/urlpanel.cpp:74
+msgid "&Search:"
+msgstr "&Caută:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#: rekonqpage/newtabpage.cpp:298 rekonqpage/newtabpage.cpp:341
+#: settings/settings_tabs.ui:120
+msgid "Favorites"
+msgstr "Favorite"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_syncHistory)
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rekonqpage/newtabpage.cpp:307 rekonqpage/newtabpage.cpp:353
+#: settings/settings_privacy.ui:199 settings/settings_tabs.ui:130
+#: sync/sync_check.ui:77 sync/sync_data.ui:42
+msgid "History"
+msgstr "Istoric"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#: rekonqpage/newtabpage.cpp:319 rekonqpage/newtabpage.cpp:359
+#: settings/settings_tabs.ui:135
+msgid "Downloads"
+msgstr "Descărcări"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#: rekonqpage/newtabpage.cpp:325 rekonqpage/newtabpage.cpp:365
+#: settings/settings_tabs.ui:140
+msgid "Closed Tabs"
+msgstr "File închise"
+
+#: rekonqpage/newtabpage.cpp:388
+msgid "Add Favorite"
+msgstr "Adaugă favorit"
+
+#: rekonqpage/newtabpage.cpp:401
+msgid ""
+"You can add a favorite by clicking the \"Add Favorite\" button in the top-"
+"right corner of this page"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:422
+#, fuzzy
+#| msgid "History"
+msgid "Search History"
+msgstr "Istoric"
+
+#: rekonqpage/newtabpage.cpp:427
+#, fuzzy
+#| msgid "History"
+msgid "Clear History"
+msgstr "Curăță istoricul"
+
+#: rekonqpage/newtabpage.cpp:448
+msgid "Your browsing history is empty"
+msgstr "Istoricul navigării este gol"
+
+#: rekonqpage/newtabpage.cpp:453
+#, kde-format
+msgid "No matches for string %1 in history"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:515
+#, fuzzy
+#| msgid "History"
+msgid "Show full History"
+msgstr "Istoric"
+
+#: rekonqpage/newtabpage.cpp:529
+msgid "Edit Bookmarks"
+msgstr "Editează semne de carte"
+
+#: rekonqpage/newtabpage.cpp:540
+msgid "You have no bookmarks"
+msgstr "NU aveți semne de carte"
+
+#: rekonqpage/newtabpage.cpp:552
+msgid "Unsorted"
+msgstr "Nesortat"
+
+#: rekonqpage/newtabpage.cpp:574
+msgid "There are no recently closed tabs"
+msgstr "Nu sînt file închise recent"
+
+#: rekonqpage/newtabpage.cpp:603
+#, fuzzy
+#| msgid "Downloads"
+msgid "Search Downloads"
+msgstr "Descărcări"
+
+#: rekonqpage/newtabpage.cpp:607
+msgid "Clear Downloads"
+msgstr "Curăță descărcările"
+
+#: rekonqpage/newtabpage.cpp:621
+msgid "There are no recently downloaded files to show"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:666
+msgid ""
+"This download is managed by KGet. Check it to grab information about its "
+"state"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:670
+msgid "Suspended"
+msgstr "Suspendat"
+
+#: rekonqpage/newtabpage.cpp:674
+#, fuzzy
+#| msgid "Loading..."
+msgid "Downloading now..."
+msgstr "Se încarcă..."
+
+#: rekonqpage/newtabpage.cpp:678
+#, kde-format
+msgctxt "%1 = Error description"
+msgid "Error: %1"
+msgstr "Eroare: %1"
+
+#: rekonqpage/newtabpage.cpp:688
+msgid "Open directory"
+msgstr "Deschide dosar"
+
+#: rekonqpage/newtabpage.cpp:695
+msgid "Open file"
+msgstr "Deschide fișier"
+
+#: rekonqpage/newtabpage.cpp:699
+msgid "Removed"
+msgstr "Eliminat"
+
+#: rekonqpage/newtabpage.cpp:707
+msgid "Remove from list"
+msgstr "Elimină din listă"
+
+#: rekonqpage/newtabpage.cpp:718
+#, kde-format
+msgid "No matches for string %1 in downloads"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:770
+msgid "Set a Preview..."
+msgstr "Stabilește o previzualizare..."
+
+#: rekonqpage/newtabpage.cpp:861
+#, fuzzy
+#| msgid "New Folder"
+msgid "Remove favorite"
+msgstr "Elimină favorit"
+
+#: rekonqpage/newtabpage.cpp:866
+#, fuzzy
+#| msgid "Reload the current page"
+msgid "Reload thumbnail"
+msgstr "Reîncarcă pagina curentă"
+
+#: rekonqpage/thumbupdater.cpp:57
+msgid "Loading Preview..."
+msgstr "Se încarcă previzualizarea..."
+
+#. i18n: ectx: property (text), widget (QPushButton, saveButton)
+#: session.ui:26
+#, fuzzy
+msgid "Save"
+msgstr "Salvare legătură..."
+
+#: sessionmanager.cpp:488
+#, fuzzy
+#| msgid "Manage Exceptions"
+msgctxt "@title:window"
+msgid "Manage Session"
+msgstr "Gestionează excepțiile"
+
+#: sessionmanager.cpp:492
+msgid "Load"
+msgstr ""
+
+#: sessionwidget.cpp:93
+#, fuzzy
+#| msgid "(Untitled)"
+msgid "untitled"
+msgstr "(Neintitulat)"
+
+#: settings/appearancewidget.cpp:113
+msgid ""
+"Select the default encoding to be used; normally, you will be fine with 'Use "
+"language encoding' and should not have to change this."
+msgstr ""
+"Selectează codarea implicită de utilizat. În mod normal este suficientă "
+"„Utilizează codarea limbii” și nu ar trebui schimbată."
+
+#: settings/generalwidget.cpp:107
+msgid "Install KGet to enable rekonq to use it as download manager"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PassExceptions)
+#: settings/password_exceptions.ui:14
+msgid "Password Exceptions"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, removeOneButton)
+#: settings/password_exceptions.ui:38
+#, fuzzy
+#| msgid "New Folder"
+msgid "Remove one"
+msgstr "Dosar nou"
+
+#. i18n: ectx: property (text), widget (QPushButton, removeAllButton)
+#: settings/password_exceptions.ui:45
+msgid "Remove all"
+msgstr "Elimină tot"
+
+#: settings/privacywidget.cpp:86
+msgid "If enabled, JavaScript programs are allowed to open new windows."
+msgstr ""
+
+#: settings/privacywidget.cpp:87
+msgid ""
+"If enabled, JavaScript programs are allowed to read from and to write to the "
+"clipboard."
+msgstr ""
+
+#: settings/privacywidget.cpp:91
+msgid "Javascript is not enabled, cannot change these settings"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: settings/settings_advanced.ui:17
+msgid "Proxy"
+msgstr "Proxy"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_advanced.ui:35
+msgid "Rekonq is using system proxy settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, proxyButton)
+#: settings/settings_advanced.ui:51
+msgid "Change proxy settings"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: settings/settings_advanced.ui:66
+msgid "Custom Style Sheet"
+msgstr "Foaie de stil personalizată"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: settings/settings_advanced.ui:84
+msgid "Path to custom CSS file:"
+msgstr "Calea către fișier CSS personalizat:"
+
+#. i18n: ectx: property (filter), widget (KUrlRequester, kcfg_userCSS)
+#: settings/settings_advanced.ui:106
+msgid "*.css"
+msgstr "*.css"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_advanced.ui:116
+msgid "Misc"
+msgstr "Diverse"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_hScrollWheelHistory)
+#: settings/settings_advanced.ui:122
+msgid "Use horizontal scroll wheel to go through web history"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_useFavicon)
+#: settings/settings_advanced.ui:129
+msgid "Use favicon of the current website as window icon"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_smoothScrolling)
+#: settings/settings_advanced.ui:136
+msgid "Scroll pages with an eye candy effect"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_smoothScrolling)
+#: settings/settings_advanced.ui:139
+msgid "Enable smooth scrolling"
+msgstr "Activează derularea lină"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_enableViShortcuts)
+#: settings/settings_advanced.ui:149
+msgid "Enable Vi-like navigation shortcuts"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_accessKeysEnabled)
+#: settings/settings_advanced.ui:156
+msgid "Enable keyboard navigation using the Ctrl key"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_automaticSpellChecking)
+#: settings/settings_advanced.ui:163
+#, fuzzy
+#| msgid "Automatic Filters"
+msgid "Enable automatic spell checking"
+msgstr "Filtre automate"
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: settings/settings_advanced.ui:178
+msgid "Middle click should:"
+msgstr "Clic din mijloc ar trebui:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_middleClickAction)
+#: settings/settings_advanced.ui:201
+msgid "Auto-scroll"
+msgstr "Derulare automată"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_middleClickAction)
+#: settings/settings_advanced.ui:206
+msgid "Load Clipboard URL"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_middleClickAction)
+#: settings/settings_advanced.ui:211
+#, fuzzy
+msgid "Do Nothing"
+msgstr "Nu fă nimic"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, appearance)
+#: settings/settings_appearance.ui:14 settings/settingsdialog.cpp:95
+msgid "Appearance"
+msgstr "Aspect"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_appearance.ui:20
+msgid "Fonts"
+msgstr "Fonturi"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_appearance.ui:38
+msgid "Standard font:"
+msgstr "Font standard:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings/settings_appearance.ui:76
+msgid "Fixed font:"
+msgstr "Font fix:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: settings/settings_appearance.ui:114
+msgid "Serif font:"
+msgstr "Font serif:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: settings/settings_appearance.ui:152
+msgid "Sans Serif font:"
+msgstr "Font sans serif:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: settings/settings_appearance.ui:190
+msgid "Cursive font:"
+msgstr "Font cursiv:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: settings/settings_appearance.ui:228
+msgid "Fantasy font:"
+msgstr "Font fantasy:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: settings/settings_appearance.ui:257
+msgid "Font size"
+msgstr "Dimensiune font"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: settings/settings_appearance.ui:275
+#, fuzzy
+msgid "Default font size:"
+msgstr "Mărime implicită font (100%)"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: settings/settings_appearance.ui:297
+msgid "Minimal font size:"
+msgstr "Dimensiune minimă a fontului:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
+#: settings/settings_appearance.ui:330
+msgid "Zoom"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: settings/settings_appearance.ui:348
+#, fuzzy
+#| msgctxt "Default website encoding"
+#| msgid "Default"
+msgid "Default page zoom:"
+msgstr "Factor de mărire implicit"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_appearance.ui:377
+#, fuzzy
+#| msgid "Set Encoding"
+msgid "Character Encoding"
+msgstr "Codare &caractere:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: settings/settings_appearance.ui:395
+msgid "Default character encoding:"
+msgstr "Codarea implicită a caracterelor:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, general)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_general.ui:14 settings/settings_webkit.ui:17
+#: settings/settingsdialog.cpp:83
+msgid "General"
+msgstr "General"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_general.ui:20
+#, fuzzy
+#| msgid "WebKit Settings"
+msgid "First settings"
+msgstr "Configurări WebKit"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_general.ui:41
+msgid "When starting rekonq:"
+msgstr "La pornirea rekonq:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings/settings_general.ui:63
+msgid "Home page URL:"
+msgstr "URL pagină de pornire:"
+
+#. i18n: ectx: property (text), widget (QPushButton, setHomeToCurrentPageButton)
+#: settings/settings_general.ui:94
+msgid "Set to Current Page"
+msgstr "Stabilește la pagina curentă"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_startupBehaviour)
+#: settings/settings_general.ui:129
+msgid "Open the Home Page"
+msgstr "Deschide pagina de pornire"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_startupBehaviour)
+#: settings/settings_general.ui:134
+msgid "Open the New Tab Page"
+msgstr "Deschide pagina de filă nouă"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_startupBehaviour)
+#: settings/settings_general.ui:139
+msgid "Restore the Last Opened Tabs"
+msgstr "Restabilește filele deschise ultima dată"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_startupBehaviour)
+#: settings/settings_general.ui:144
+msgid "Show session dialog"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_general.ui:155
+#, fuzzy
+#| msgid "Downloads"
+msgid "Downloads Management"
+msgstr "Descărcări"
+
+#. i18n: ectx: property (text), widget (QRadioButton, askDownloadNo)
+#: settings/settings_general.ui:175
+msgid "Save files to:"
+msgstr "Salvează fișierele în:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, askDownloadYes)
+#: settings/settings_general.ui:200
+msgid "Always ask me where to save files"
+msgstr "Întreabă întotdeauna unde să se salveze fișierele"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_kgetDownload)
+#: settings/settings_general.ui:223
+msgid "Use KGet for downloading files"
+msgstr "Folosește KGet pentru descărcarea fișierelor"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_kgetList)
+#: settings/settings_general.ui:230
+msgid ""
+"If enabled, rekonq will display an additional context menu entry, which, "
+"when selected, lists all available links of the current website in KGet."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_kgetList)
+#: settings/settings_general.ui:233
+msgid "List links with KGet"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_privacy.ui:17
+#, fuzzy
+#| msgid "JavaScript support"
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_javascriptCanOpenWindows)
+#: settings/settings_privacy.ui:23
+#, fuzzy
+#| msgid "JavaScript can open windows"
+msgid "Let JavaScript open new windows"
+msgstr "JavaScript poate deschide ferestre"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_javascriptCanAccessClipboard)
+#: settings/settings_privacy.ui:30
+msgid "Let JavaScript access clipboard"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_privacy.ui:40
+msgid "Tracking"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, doNotTrackCheckBox)
+#: settings/settings_privacy.ui:46
+msgid "Tell websites you do not want to be tracked"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_syncPasswords)
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
+#: settings/settings_privacy.ui:56 sync/sync_check.ui:101 sync/sync_data.ui:52
+msgid "Passwords"
+msgstr "Parole"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_passwordSavingEnabled)
+#: settings/settings_privacy.ui:68
+msgid "Remember passwords for sites"
+msgstr "Memorează parolele pentru saituri"
+
+#. i18n: ectx: property (text), widget (QPushButton, managePassExceptionsButton)
+#: settings/settings_privacy.ui:81
+msgid "Manage Exceptions"
+msgstr "Gestionează excepțiile"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings/settings_privacy.ui:97
+msgid "Rekonq is sharing cookies settings with all other KDE applications"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, cookiesButton)
+#: settings/settings_privacy.ui:115
+msgid "Manage Cookies"
+msgstr "Gestionează cookie-uri"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_6)
+#: settings/settings_privacy.ui:145
+msgid "Cache"
+msgstr "Cache"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: settings/settings_privacy.ui:151
+msgid "Rekonq is sharing cache settings with all other KDE applications"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, cacheButton)
+#: settings/settings_privacy.ui:169
+msgid "Manage Cache"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_privacy.ui:211
+msgid "Remove history items:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:234
+#, fuzzy
+#| msgid "never"
+msgid "Never"
+msgstr "niciodată"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:239
+#, fuzzy
+#| msgid "every 3 months"
+msgid "Every 3 months"
+msgstr "la fiecare 3 luni"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:244
+#, fuzzy
+#| msgid "every month"
+msgid "Every month"
+msgstr "în fiecare lună"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:249
+#, fuzzy
+#| msgid "every day"
+msgid "Every day"
+msgstr "în fiecare zi"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:254
+#, fuzzy
+#| msgid "at application exit"
+msgid "At application exit"
+msgstr "la închiderea aplicației"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:259
+#, fuzzy
+#| msgid "don't even store them"
+msgid "Do not even store them"
+msgstr "nici nu le stoca"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, tabs)
+#: settings/settings_tabs.ui:14 settings/settingsdialog.cpp:89
+msgid "Tabs"
+msgstr "File"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: settings/settings_tabs.ui:20
+msgid "New Tab Behavior"
+msgstr "Comportament filă nouă"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: settings/settings_tabs.ui:38
+msgid "New tab opens:"
+msgstr "Fila nouă deschide:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabsBehaviour)
+#: settings/settings_tabs.ui:64
+msgid "New Tab Page"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabsBehaviour)
+#: settings/settings_tabs.ui:69
+msgid "Blank Page"
+msgstr "Pagină goală"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabsBehaviour)
+#: settings/settings_tabs.ui:74
+msgctxt "@item:inlistbox"
+msgid "Home Page"
+msgstr "Pagina de pornire"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: settings/settings_tabs.ui:94
+msgid "New Tab Page starts with:"
+msgstr "Pagina de filă nouă pornește cu:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_tabs.ui:151
+msgid "Tabbed Browsing"
+msgstr "Navigare cu file"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: settings/settings_tabs.ui:171
+msgid "When hovering a tab show:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_hoveringTabOption)
+#: settings/settings_tabs.ui:197
+msgid "Tab Preview"
+msgstr "Previzualizare filă"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_hoveringTabOption)
+#: settings/settings_tabs.ui:202
+msgid "Tab's Title in a Tooltip"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_hoveringTabOption)
+#: settings/settings_tabs.ui:207
+msgid "Tab's URL in a Tooltip"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_hoveringTabOption)
+#: settings/settings_tabs.ui:212
+msgctxt "@item:inlistbox"
+msgid "Nothing"
+msgstr "Nimic"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openExternalLinksInNewWindow)
+#: settings/settings_tabs.ui:235
+msgid "Open as new window when URL is called externally"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_lastTabClosesWindow)
+#: settings/settings_tabs.ui:242
+msgid "Closing last tab closes window"
+msgstr "Închiderea ultimei file închide fereastra"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_closeTabSelectPrevious)
+#: settings/settings_tabs.ui:249
+msgid "Activate previously used tab when closing the current one"
+msgstr "Activează fila utilizată anterior atunci cînd închideți fila curentă"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openNewTabsNextToCurrent)
+#: settings/settings_tabs.ui:259
+#, fuzzy
+#| msgid "Open new tabs after currently active one"
+msgid "Open new tabs next to current tab"
+msgstr "Deschide file noi după cea activă la moment"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openNewTabsInForeground)
+#: settings/settings_tabs.ui:266
+#, fuzzy
+#| msgid "Open new tabs in the background"
+msgid "Open new tabs in the foreground"
+msgstr "Deschide file noi în fundal"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_javascriptEnabled)
+#: settings/settings_webkit.ui:29
+msgid "Enable JavaScript"
+msgstr "Activează JavaScript"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_javaEnabled)
+#: settings/settings_webkit.ui:36
+msgid "Load Java applets"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_webGL)
+#: settings/settings_webkit.ui:43
+msgid "WebGL"
+msgstr "WebGL"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_spatialNavigation)
+#: settings/settings_webkit.ui:50
+msgid "Spatial Navigation"
+msgstr "Navigare spațială"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_frameFlattening)
+#: settings/settings_webkit.ui:57
+msgid "Frame Flattening"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_dnsPrefetch)
+#: settings/settings_webkit.ui:64
+msgid "Prefetch DNS entries"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_printElementBackgrounds)
+#: settings/settings_webkit.ui:71
+msgid "Print element backgrounds"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_zoomTextOnly)
+#: settings/settings_webkit.ui:78
+#, fuzzy
+#| msgid "Zoom text only"
+msgid "Zoom Text only"
+msgstr "Apropie numai textul"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: settings/settings_webkit.ui:97
+msgid "Plugins"
+msgstr "Extensii"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings/settings_webkit.ui:118
+msgid "When loading web pages:"
+msgstr "La încărcarea paginilor:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_pluginsEnabled)
+#: settings/settings_webkit.ui:141
+msgid "Autoload Plugins"
+msgstr "Încarcă module automat"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_pluginsEnabled)
+#: settings/settings_webkit.ui:146
+msgid "Manually Load Plugins"
+msgstr "Încarcă module manual"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_pluginsEnabled)
+#: settings/settings_webkit.ui:151
+msgid "Never Load Plugins"
+msgstr "Nu încărca module"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_webkit.ui:162
+#, fuzzy
+msgid "HTML 5"
+msgstr "HTML"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_offlineStorageDatabaseEnabled)
+#: settings/settings_webkit.ui:168
+msgid "Offline storage database"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_offlineWebApplicationCacheEnabled)
+#: settings/settings_webkit.ui:175
+msgid "Offline web application cache"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_localStorageEnabled)
+#: settings/settings_webkit.ui:182
+msgid "Local Storage"
+msgstr "Stocare locală"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_webkit.ui:197
+msgid "Offline web application quota:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (KIntNumInput, kcfg_offlineWebApplicationCacheQuota)
+#: settings/settings_webkit.ui:216
+msgid " Kb"
+msgstr ""
+
+#: settings/settingsdialog.cpp:101
+msgid "WebKit"
+msgstr "WebKit"
+
+#: settings/settingsdialog.cpp:109
+msgid "Privacy"
+msgstr "Intimitate"
+
+#: settings/settingsdialog.cpp:115
+#, fuzzy
+msgid "Advanced"
+msgstr "Avansat"
+
+#: settings/settingsdialog.cpp:121
+msgid "Search Engines"
+msgstr "Motoare de căutare"
+
+#: settings/settingsdialog.cpp:144
+msgctxt "Window title of the settings dialog"
+msgid "Configure – rekonq"
+msgstr "Configurare - rekonq"
+
+#: settings/webkitwidget.cpp:61
+msgid "Enables WebGL technology"
+msgstr "Activează tehnologia WebGL"
+
+#: settings/webkitwidget.cpp:62
+msgid "Lets you navigating between focusable elements using arrow keys."
+msgstr ""
+
+#: settings/webkitwidget.cpp:63
+msgid "Flatten all the frames to become one scrollable page."
+msgstr ""
+
+#: settings/webkitwidget.cpp:64
+msgid ""
+"Specifies whether WebKit will try to prefetch DNS entries to speed up "
+"browsing."
+msgstr ""
+
+#: settings/webkitwidget.cpp:65
+msgid ""
+"If enabled, background colors and images are also drawn when the page is "
+"printed."
+msgstr ""
+
+#: settings/webkitwidget.cpp:66
+msgid "Enables the execution of JavaScript programs."
+msgstr "Activează execuția programelor JavaScript."
+
+#: settings/webkitwidget.cpp:67
+msgid "Enables support for Java applets."
+msgstr "Activează suportul pentru miniaplicații Java."
+
+#: settings/webkitwidget.cpp:68
+msgid "Enables support for the HTML 5 offline storage feature."
+msgstr ""
+
+#: settings/webkitwidget.cpp:69
+msgid "Enables support for the HTML 5 web application cache feature."
+msgstr ""
+
+#: settings/webkitwidget.cpp:70
+msgid "Enables support for the HTML 5 local storage feature."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:148 sync/sshsynchandler.cpp:149
+msgid "Remote bookmarks file does not exists. Exporting local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:161 sync/sshsynchandler.cpp:162
+msgid "Remote bookmarks file exists. Syncing local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:204 sync/sshsynchandler.cpp:205
+msgid "Remote history file does not exists. Exporting local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:217 sync/sshsynchandler.cpp:218
+msgid "Remote history file exists. Syncing local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:260 sync/sshsynchandler.cpp:261
+msgid "Remote passwords file does not exists. Exporting local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:273 sync/sshsynchandler.cpp:274
+msgid "Remote passwords file exists. Syncing local copy..."
+msgstr ""
+
+#: sync/googlesynchandler.cpp:86 sync/googlesynchandler.cpp:91
+#: sync/operasynchandler.cpp:89 sync/operasynchandler.cpp:94
+#, fuzzy
+#| msgid "Java support"
+msgid "Not supported"
+msgstr "Nu este suportat"
+
+#: sync/googlesynchandler.cpp:114 sync/operasynchandler.cpp:117
+msgid "Syncing history not supported"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:122 sync/operasynchandler.cpp:125
+msgid "Syncing passwords not supported"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:144 sync/operasynchandler.cpp:147
+msgid "No username or password"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:164 sync/operasynchandler.cpp:202
+#, fuzzy, kde-format
+#| msgctxt "%1 = Error description"
+#| msgid "Error: %1"
+msgid "Error loading: %1"
+msgstr "Eroare: %1"
+
+#: sync/googlesynchandler.cpp:187 sync/operasynchandler.cpp:232
+msgid "Signing in..."
+msgstr ""
+
+#: sync/googlesynchandler.cpp:199 sync/operasynchandler.cpp:286
+msgid "Fetching bookmarks from server..."
+msgstr ""
+
+#: sync/googlesynchandler.cpp:204 sync/operasynchandler.cpp:271
+#, fuzzy
+msgid "Login failed"
+msgstr "Autentificare eșuată"
+
+#: sync/googlesynchandler.cpp:233
+msgid "Adding bookmarks on server..."
+msgstr ""
+
+#: sync/googlesynchandler.cpp:263 sync/operasynchandler.cpp:348
+#: sync/operasynchandler.cpp:913 urlbar/resourcelinkdialog.cpp:112
+msgid "Done"
+msgstr "Gata"
+
+#: sync/googlesynchandler.cpp:284
+#, fuzzy
+#| msgid "Edit Bookmarks"
+msgid "Reading bookmarks..."
+msgstr "Editează semne de carte"
+
+#: sync/googlesynchandler.cpp:302
+#, fuzzy
+#| msgid "Add Bookmark"
+msgid "Adding bookmark"
+msgstr "Adaugă semn de carte"
+
+#: sync/googlesynchandler.cpp:320 sync/googlesynchandler.cpp:336
+#: sync/googlesynchandler.cpp:429
+msgid "Signing out..."
+msgstr ""
+
+#: sync/operasynchandler.cpp:172
+msgid "OAuth: Error fetching request token"
+msgstr ""
+
+#: sync/operasynchandler.cpp:245
+msgid "OAuth: Sending verification code"
+msgstr ""
+
+#: sync/operasynchandler.cpp:252
+msgid "OAuth: Error fetching access token"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: sync/sync_check.ui:17
+#, fuzzy
+msgid "Data"
+msgstr "Date"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: sync/sync_check.ui:23
+msgid "Sync Handler"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. i18n: ectx: property (text), widget (QTreeWidget, sitePolicyTreeWidget)
+#: sync/sync_check.ui:37 useragent/useragentsettings.ui:24
+#, fuzzy
+msgid "Host"
+msgstr "Gazdă"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: sync/sync_check.ui:54
+#, fuzzy
+msgid "Check"
+msgstr "Verifică"
+
+#. i18n: ectx: property (title), widget (QGroupBox, syncGroupBox)
+#: sync/sync_data.ui:23 webwindow/webwindow.cpp:370
+msgid "Sync"
+msgstr "Sincronizare"
+
+#. i18n: ectx: property (title), widget (QGroupBox, ftpGroupBox)
+#: sync/sync_ftp_settings.ui:17
+msgid "Remote FTP Host Settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sync/sync_ftp_settings.ui:23 sync/sync_ssh_settings.ui:26
+msgid "Server:"
+msgstr "Server:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: sync/sync_ftp_settings.ui:33 sync/sync_google_settings.ui:26
+#: sync/sync_opera_settings.ui:26 sync/sync_ssh_settings.ui:36
+#, fuzzy
+msgid "Username:"
+msgstr "Utilizator:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: sync/sync_ftp_settings.ui:43 sync/sync_google_settings.ui:36
+#: sync/sync_opera_settings.ui:36 sync/sync_ssh_settings.ui:46
+#, fuzzy
+msgid "Password:"
+msgstr "Parolă:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: sync/sync_ftp_settings.ui:56 sync/sync_ssh_settings.ui:63
+msgid "Path:"
+msgstr "Cale:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: sync/sync_ftp_settings.ui:66 sync/sync_ssh_settings.ui:73
+msgid "Port:"
+msgstr "Port:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, googleGroupBox)
+#: sync/sync_google_settings.ui:17
+#, fuzzy
+#| msgid "WebKit Settings"
+msgid "Google Account Settings"
+msgstr "Configurări WebKit"
+
+#. i18n: ectx: property (text), widget (QLabel, infoLabel)
+#: sync/sync_google_settings.ui:52 sync/sync_opera_settings.ui:52
+msgid "Only bookmarks will be synchronized."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_syncEnabled)
+#: sync/sync_host_type.ui:17
+msgid "Activate sync"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, hostGroupBox)
+#: sync/sync_host_type.ui:24
+msgid "Sync Host Type"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, ftpRadioButton)
+#: sync/sync_host_type.ui:30 sync/synccheckwidget.cpp:58
+msgid "FTP"
+msgstr "FTP"
+
+#. i18n: ectx: property (text), widget (QRadioButton, sshRadioButton)
+#: sync/sync_host_type.ui:37 sync/synccheckwidget.cpp:73
+#, fuzzy
+#| msgctxt "Secure Sockets Layer"
+#| msgid "SSL"
+msgid "SSH"
+msgstr "SSL"
+
+#. i18n: ectx: property (text), widget (QRadioButton, googleRadioButton)
+#: sync/sync_host_type.ui:44
+msgid "Google Sync"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, operaRadioButton)
+#: sync/sync_host_type.ui:51
+msgid "Opera Sync"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, nullRadioButton)
+#: sync/sync_host_type.ui:58
+msgid "/dev/null"
+msgstr "/dev/null"
+
+#. i18n: ectx: property (title), widget (QGroupBox, operaGroupBox)
+#: sync/sync_opera_settings.ui:17
+#, fuzzy
+#| msgid "WebKit Settings"
+msgid "Opera Account Settings"
+msgstr "Configurări WebKit"
+
+#. i18n: ectx: property (title), widget (QGroupBox, sshGroupBox)
+#: sync/sync_ssh_settings.ui:17
+#, fuzzy
+#| msgid "Plugin Settings"
+msgid "SSH Host Settings"
+msgstr "Configurări module"
+
+#. i18n: ectx: property (text), widget (QCheckBox, syncWithSSHKeys)
+#: sync/sync_ssh_settings.ui:56
+msgid "Use system ssh keys to login"
+msgstr ""
+
+#: sync/syncassistant.cpp:45
+msgid "Sync Assistant"
+msgstr ""
+
+#: sync/synccheckwidget.cpp:63
+msgid "Google"
+msgstr "Google"
+
+#: sync/synccheckwidget.cpp:68 useragent/useragentmanager.cpp:117
+#, fuzzy
+msgid "Opera"
+msgstr "Operă"
+
+#: sync/synccheckwidget.cpp:78
+msgid "No sync"
+msgstr "Fără sincronizare"
+
+#: sync/synccheckwidget.cpp:79
+msgctxt "no host"
+msgid "None"
+msgstr ""
+
+#: sync/syncoperasettingswidget.cpp:62
+msgid "Rekonq has been compiled without support for Opera Sync"
+msgstr ""
+
+#: tabwindow/rekonqwindow.cpp:170 tabwindow/tabwidget.cpp:199
+#, fuzzy
+#| msgid "Bookmarks Panel"
+msgid "Bookmarks Panel"
+msgstr "Panoul cu semne de carte"
+
+#: tabwindow/rekonqwindow.cpp:194 tabwindow/tabwidget.cpp:206
+#, fuzzy
+#| msgid "History Panel"
+msgid "History Panel"
+msgstr "Panoul cu istoric"
+
+#: tabwindow/tabbar.cpp:203
+msgid "Clone"
+msgstr "Clonă"
+
+#: tabwindow/tabbar.cpp:208 webwindow/webwindow.cpp:284
+#: webwindow/webwindow.cpp:455
+msgid "Reload"
+msgstr "Reîncarcă"
+
+#: tabwindow/tabbar.cpp:213
+#, fuzzy
+#| msgid "Reload All Tabs"
+msgid "Reload All"
+msgstr "Reîncarcă toate filele"
+
+#: tabwindow/tabbar.cpp:219
+msgid "Detach"
+msgstr "Detașează"
+
+#: tabwindow/tabbar.cpp:227
+msgid "Unpin Tab"
+msgstr ""
+
+#: tabwindow/tabbar.cpp:234
+#, fuzzy
+#| msgid "Clone Tab"
+msgid "Pin Tab"
+msgstr "Clonează fila"
+
+#: tabwindow/tabbar.cpp:241
+#, fuzzy
+#| msgid "&Close Tab"
+msgid "&Close"
+msgstr "În&chide"
+
+#: tabwindow/tabbar.cpp:248
+msgid "Close &Other Tabs"
+msgstr "Închide c&elelalte file"
+
+#: tabwindow/tabwidget.cpp:92 tabwindow/tabwidget.cpp:109
+#: tabwindow/tabwidget.cpp:302 tabwindow/tabwidget.cpp:355
+#: tabwindow/tabwidget.cpp:364 tabwindow/tabwidget.cpp:370
+#: tabwindow/tabwidget.cpp:400
+#, fuzzy
+msgid "new tab"
+msgstr "&Filă nouă"
+
+#: tabwindow/tabwidget.cpp:149
+msgid "New &Tab"
+msgstr "&Filă nouă"
+
+#: tabwindow/tabwidget.cpp:154
+msgid "Open Last Closed Tab"
+msgstr "Deschide ultima filă închisă"
+
+#: tabwindow/tabwidget.cpp:159
+msgid "&Close Tab"
+msgstr "În&chide fila"
+
+#: tabwindow/tabwidget.cpp:164
+msgid "Show Next Tab"
+msgstr "Arată fila următoare"
+
+#: tabwindow/tabwidget.cpp:169
+msgid "Show Previous Tab"
+msgstr "Arată fila precedentă"
+
+#: tabwindow/tabwidget.cpp:179
+#, fuzzy
+#| msgid "Bookmarks"
+msgid "Bookmark all tabs"
+msgstr "Semne de carte"
+
+#: tabwindow/tabwidget.cpp:217
+#, kde-format
+msgid "Switch to Tab %1"
+msgstr "Comută la fila %1"
+
+#: tabwindow/tabwidget.cpp:229
+#, fuzzy, kde-format
+#| msgid "Switch to Tab %1"
+msgid "Switch to Favorite Page %1"
+msgstr "Comută la fila %1"
+
+#: tabwindow/tabwidget.cpp:563
+msgid "Loading..."
+msgstr "Se încarcă..."
+
+#: tabwindow/tabwidget.cpp:782
+#, fuzzy, kde-format
+#| msgid "Bookmarks"
+msgid "Bookmarked tabs: %1"
+msgstr "Semne de carte"
+
+#: tabwindow/tabwidget.cpp:820 tabwindow/tabwidget.cpp:822
+msgid "restored tab"
+msgstr ""
+
+#: urlbar/adblockwidget.cpp:61
+msgid " AdBlock"
+msgstr " AdBlock"
+
+#: urlbar/adblockwidget.cpp:78
+#, fuzzy
+#| msgid "Enable adblock for this site"
+msgid "Enable AdBlock for this site"
+msgstr "Activează AdBlock pentru acest sait"
+
+#: urlbar/bookmarkwidget.cpp:85
+msgid " Bookmark"
+msgstr " Semn de carte"
+
+#: urlbar/bookmarkwidget.cpp:92
+msgid "<a href='Remove'>Remove</a>"
+msgstr "<a href='Remove'>Elimină</a>"
+
+#: urlbar/bookmarkwidget.cpp:102
+msgid "Folder:"
+msgstr "Dosar:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: urlbar/bookmarkwidget.cpp:110 webappcreation.ui:19
+msgid "Name:"
+msgstr "Denumire:"
+
+#: urlbar/bookmarkwidget.cpp:128
+msgid "Rate:"
+msgstr "Rată:"
+
+#: urlbar/bookmarkwidget.cpp:135
+msgid "Rate this page"
+msgstr "Evaluează această pagină"
+
+#: urlbar/bookmarkwidget.cpp:140
+msgid "Describe:"
+msgstr "Descriere:"
+
+#: urlbar/bookmarkwidget.cpp:151
+msgid "Tags:"
+msgstr "Marcaje:"
+
+#: urlbar/bookmarkwidget.cpp:153
+msgid "add tags (comma separated)"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:169
+#, fuzzy
+#| msgid "Open Web Resource"
+msgid "Link Resources"
+msgstr "Deschide resursă web"
+
+#: urlbar/bookmarkwidget.cpp:179
+msgid "Nepomuk is actually disabled."
+msgstr ""
+
+#. i18n: ectx: ToolBar (bookmarkToolBar)
+#: urlbar/bookmarkwidget.cpp:242 webwindow/rekonqui.rc:178
+msgid "Bookmark Toolbar"
+msgstr "Bara cu semne de carte"
+
+#: urlbar/bookmarkwidget.cpp:259
+msgid "Root folder"
+msgstr "Dosar rădăcină"
+
+#: urlbar/listitem.cpp:272
+#, fuzzy, kde-format
+msgctxt "%1=search engine, e.g. Google, Wikipedia %2=text to search for"
+msgid "Search %1 for <b>%2</b>"
+msgstr "Caută după:"
+
+#: urlbar/listitem.cpp:329
+#, fuzzy
+#| msgid "Engines: "
+msgid "Engines:"
+msgstr "Motoare: "
+
+#: urlbar/newresourcedialog.cpp:63
+#, fuzzy
+#| msgid "Open Web Resource"
+msgid "Link to new Resource"
+msgstr "Deschide resursă web"
+
+#: urlbar/newresourcedialog.cpp:64 urlbar/resourcelinkdialog.cpp:113
+msgid "Link"
+msgstr "Legătură"
+
+#: urlbar/newresourcedialog.cpp:70
+msgid "* Resource Name:"
+msgstr "* Denumire resursă:"
+
+#: urlbar/newresourcedialog.cpp:75
+msgid "Description (Optional)"
+msgstr "Descriere (opțională)"
+
+#: urlbar/resourcelinkdialog.cpp:107
+msgid "Resource Linker"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:114
+msgid "Unlink"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:127
+msgid "Search resources"
+msgstr "Caută resurse"
+
+#: urlbar/resourcelinkdialog.cpp:131
+#, fuzzy
+#| msgid "Open Web Resource"
+msgid "Double click to link resource"
+msgstr "Deschide resursă web"
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Any resource"
+msgstr "Orice resursă"
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Persons"
+msgstr "Persoane"
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Projects"
+msgstr "Proiecte"
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Tasks"
+msgstr "Sarcini"
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Places"
+msgstr "Locuri"
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Notes"
+msgstr "Note"
+
+#: urlbar/resourcelinkdialog.cpp:146
+msgid "Matching resources:"
+msgstr "Resurse potrivite:"
+
+#: urlbar/resourcelinkdialog.cpp:147
+msgid "Linked Resources:"
+msgstr "Resurse legate:"
+
+#: urlbar/resourcelinkdialog.cpp:151
+msgid "Create New Resource"
+msgstr "Creează resursă nouă"
+
+#: urlbar/resourcelinkdialog.cpp:228
+msgid "&Unlink"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:59
+msgid "Subscribe to RSS Feeds"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:67
+msgid "Aggregator:"
+msgstr "Agregator:"
+
+#: urlbar/rsswidget.cpp:79
+msgid "Feed:"
+msgstr "Flux:"
+
+#: urlbar/rsswidget.cpp:94
+msgid "Add Feed"
+msgstr "Adaugă flux"
+
+#: urlbar/rsswidget.cpp:140 urlbar/rsswidget.cpp:152
+msgid "Imported Feeds"
+msgstr "Fluxuri importate"
+
+#: urlbar/rsswidget.cpp:144
+msgid "Could not add feed to Akregator. Please add it manually:"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:156
+msgid ""
+"There was an error. Please verify Akregator is installed on your system."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:78
+msgid "Identity"
+msgstr "Identitate"
+
+#: urlbar/sslwidget.cpp:88
+msgid "Warning: this site is not carrying a certificate."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:96
+#, kde-format
+msgid ""
+"The certificate for this site is valid and has been verified by:\n"
+"%1."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:110
+#, kde-format
+msgid ""
+"The certificate for this site is not valid, for the following reasons:\n"
+"%1."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:119
+msgid "Certificate Information"
+msgstr "Informație certificat"
+
+#: urlbar/sslwidget.cpp:127
+msgid "Encryption"
+msgstr "Criptare"
+
+#: urlbar/sslwidget.cpp:141
+#, kde-format
+msgid "Your connection to %1 is not encrypted.\n"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:150
+#, kde-format
+msgid "Your connection to \"%1\" is encrypted.\n"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:182
+#, fuzzy
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#: urlbar/sslwidget.cpp:188
+#, kde-format
+msgid "It uses protocol: %1.\n"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:195
+#, kde-format
+msgid ""
+"It is encrypted using %1 at %2 bits, with %3 for message authentication and "
+"%4 with Auth %5 as key exchange mechanism.\n"
+"\n"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:212
+msgid "Site Information"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:229
+msgid "It is your first time visiting this site."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:233
+#, kde-format
+msgid ""
+"You just visited this site.\n"
+"Your first visit was on %1.\n"
+msgstr ""
+
+#: urlbar/urlbar.cpp:142 urlbar/urlbar.cpp:305
+msgid "Type here to search your bookmarks, history and the web..."
+msgstr ""
+
+#: urlbar/urlbar.cpp:485
+msgid "Paste && Go"
+msgstr ""
+
+#: urlbar/urlbar.cpp:490
+#, fuzzy
+#| msgid "&Search:"
+msgid "Paste && Search"
+msgstr "&Caută:"
+
+#: urlbar/urlbar.cpp:542
+msgid "List all links with KGet"
+msgstr ""
+
+#: urlbar/urlbar.cpp:546
+msgid "List all available RSS feeds"
+msgstr ""
+
+#: urlbar/urlbar.cpp:567
+msgid "Add search engine"
+msgstr "Adaugă motor de căutare"
+
+#: urlbar/urlbar.cpp:576
+msgid "AdBlock is enabled on this site"
+msgstr "AdBlock este activat pe acest sait"
+
+#: urlbar/urlbar.cpp:581
+#, fuzzy
+#| msgid "AdBlock is enabled on this site"
+msgid "AdBlock is not enabled on this site"
+msgstr "AdBlock este activat pe acest sait"
+
+#: urlbar/urlbar.cpp:810
+msgid "This site does not contain SSL information."
+msgstr "Acest sait nu conține informații SSL."
+
+#: urlbar/urlbar.cpp:811
+msgctxt "Secure Sockets Layer"
+msgid "SSL"
+msgstr "SSL"
+
+#: urlbar/urlbar.cpp:830
+#, fuzzy
+#| msgid "Edit Bookmarks"
+msgid "Edit Bookmark"
+msgstr "Editează semne de carte"
+
+#: urlbar/urlbar.cpp:838
+#, fuzzy
+#| msgid "Remove from favorite"
+msgid "Remove from Favorites"
+msgstr "Elimină din favorite"
+
+#: urlbar/urlbar.cpp:843
+#, fuzzy
+#| msgid "Add to favorites"
+msgid "Add to Favorites"
+msgstr "Adaugă la favorite"
+
+#: urlbar/urlsuggester.cpp:300
+msgctxt "Browse a website"
+msgid "Browse"
+msgstr "Navighează"
+
+#: useragent/useragentinfo.cpp:135
+#, kde-format
+msgctxt "describe UA platform, eg: firefox 3.1 \"on Windows XP\""
+msgid " on %1 %2"
+msgstr " pe %1 %2"
+
+#: useragent/useragentmanager.cpp:64 webwindow/webwindow.cpp:347
+msgid "Browser Identification"
+msgstr "Identificare navigator web"
+
+#: useragent/useragentmanager.cpp:72
+#, fuzzy
+#| msgid "WebKit Settings"
+msgctxt "@title:window"
+msgid "User Agent Settings"
+msgstr "Configurări WebKit"
+
+#: useragent/useragentmanager.cpp:99
+msgctxt "Default rekonq user agent"
+msgid "Default"
+msgstr "Implicit"
+
+#: useragent/useragentmanager.cpp:108
+msgid "Firefox"
+msgstr "Firefox"
+
+#: useragent/useragentmanager.cpp:111
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#: useragent/useragentmanager.cpp:114
+msgid "Netscape"
+msgstr "Netscape"
+
+#: useragent/useragentmanager.cpp:120
+msgid "Safari"
+msgstr "Safari"
+
+#: useragent/useragentmanager.cpp:123
+msgid "Other"
+msgstr "Alta"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, sitePolicyTreeWidget)
+#: useragent/useragentsettings.ui:29
+msgid "Identification"
+msgstr "Identificare"
+
+#. i18n: ectx: property (text), widget (QPushButton, deleteAllButton)
+#: useragent/useragentsettings.ui:46
+msgid "Delete All"
+msgstr "Șterge toate"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: webappcreation.ui:29
+msgid "Description:"
+msgstr "Descriere:"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, descriptionLineEdit)
+#: webappcreation.ui:39
+msgid "(optional)"
+msgstr "(opțional)"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: webappcreation.ui:61
+msgid "Create Application shortcuts in:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_createDesktopAppShortcut)
+#: webappcreation.ui:68
+msgid "Desktop"
+msgstr "Birou"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_createMenuAppShortcut)
+#: webappcreation.ui:75
+msgid "Application Menu"
+msgstr "Meniu aplicație"
+
+#: webtab/clicktoflash.cpp:54
+msgid "Load Plugin"
+msgstr "Încarcă modul"
+
+#: webtab/crashmessagebar.cpp:57
+msgid "Yes"
+msgstr "Da"
+
+#: webtab/crashmessagebar.cpp:61
+msgid "No"
+msgstr "Nu"
+
+#: webtab/networkaccessmanager.cpp:60
+msgid "Blocked by ad filter"
+msgstr "Blocat de filtrul de reclame"
+
+#: webtab/previewselectorbar.cpp:61
+msgid "Please open up the webpage you want to add as favorite"
+msgstr ""
+
+#: webtab/previewselectorbar.cpp:63
+msgid "Set to This Page"
+msgstr "Stabilește la această pagină"
+
+#: webtab/previewselectorbar.cpp:80
+msgid "You cannot add this webpage as favorite"
+msgstr "Nu puteți adăuga această pagină ca favorită"
+
+#: webtab/previewselectorbar.cpp:88
+msgid "Page is loading..."
+msgstr "Pagina se încarcă..."
+
+#: webtab/protocolhandler.cpp:222
+#, kde-format
+msgctxt "@info"
+msgid "rekonq does not know how to handle this protocol: %1"
+msgstr ""
+
+#: webtab/protocolhandler.cpp:342
+#, kde-format
+msgctxt "%1=an URL"
+msgid "<h2>Index of %1</h2>"
+msgstr "<h2>Indexul %1</h2>"
+
+#: webtab/protocolhandler.cpp:350
+msgid "Up to higher level directory"
+msgstr "Spre dosarul de nivel superior"
+
+#: webtab/protocolhandler.cpp:355
+msgid "Name"
+msgstr "Denumire"
+
+#: webtab/protocolhandler.cpp:356
+msgid "Size"
+msgstr "Dimensiune"
+
+#: webtab/protocolhandler.cpp:357
+msgid "Last Modified"
+msgstr "Ultima modificare"
+
+#: webtab/searchenginebar.cpp:61
+msgid ""
+"You do not have a default search engine set. Without it, rekonq will not "
+"show proper URL suggestions."
+msgstr ""
+
+#: webtab/searchenginebar.cpp:63
+msgid "Set it"
+msgstr "Stabilește"
+
+#: webtab/searchenginebar.cpp:67 webtab/webview.cpp:255
+msgid "Ignore"
+msgstr "Ignoră"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: webtab/sslinfo.ui:23
+msgid "<h2>Certificate Information</h2>"
+msgstr "<h2>Informații certificat</h2>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: webtab/sslinfo.ui:45
+msgid "Certificate Chain:"
+msgstr "Lanț de certificate:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_20)
+#: webtab/sslinfo.ui:103
+msgid "<h4>Issued To:</h4>"
+msgstr "<h4>Emis către:</h4>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: webtab/sslinfo.ui:124 webtab/sslinfo.ui:216
+msgid "Common Name (CN):"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: webtab/sslinfo.ui:138 webtab/sslinfo.ui:230
+msgid "Organization (O):"
+msgstr "Organizație (O):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, label_16)
+#: webtab/sslinfo.ui:152 webtab/sslinfo.ui:237
+msgid "Organizational Unit (OU):"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: webtab/sslinfo.ui:166
+msgid "Serial Number:"
+msgstr "Număr de serie:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_21)
+#: webtab/sslinfo.ui:195
+msgid "<h4>Issued By:</h4>"
+msgstr "<h4>Emis de:</h4>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_22)
+#: webtab/sslinfo.ui:273
+msgid "<h4>Validity Period:</h4>"
+msgstr "<h4>Perioadă de valabilitate:</h4>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_14)
+#: webtab/sslinfo.ui:294
+msgid "Issued on:"
+msgstr "Emis pe:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_18)
+#: webtab/sslinfo.ui:308
+msgid "Expires on:"
+msgstr "Expiră la:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_23)
+#: webtab/sslinfo.ui:337
+msgid "<h4>Digests:</h4>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_36)
+#: webtab/sslinfo.ui:358
+msgid "MD5:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_38)
+#: webtab/sslinfo.ui:372
+#, fuzzy
+msgid "SHA-1:"
+msgstr "Sha"
+
+#: webtab/sslinfodialog.cpp:53
+msgid "Rekonq SSL Information"
+msgstr ""
+
+#: webtab/sslinfodialog.cpp:60
+#, fuzzy
+msgid "Export"
+msgstr "Exportă"
+
+#: webtab/sslinfodialog.cpp:122
+#, fuzzy
+msgid "The certificate is valid"
+msgstr "Certificatul este valid."
+
+#: webtab/sslinfodialog.cpp:127
+msgid "The certificate for this site is not valid for the following reasons:"
+msgstr ""
+
+#: webtab/walletbar.cpp:53
+msgid "Remember"
+msgstr "Ține minte"
+
+#: webtab/walletbar.cpp:57
+msgid "Never for This Site"
+msgstr "Niciodată pentru acest sait"
+
+#: webtab/walletbar.cpp:61
+msgid "Not Now"
+msgstr "Nu acum"
+
+#: webtab/walletbar.cpp:99
+#, kde-format
+msgid "Do you want rekonq to remember the password on %1?"
+msgstr "Doriți ca rekonq să țină minte parola pentru %1?"
+
+#: webtab/webpage.cpp:281
+msgid "Are you sure you want to send your data again?"
+msgstr "Sigur doriți să retrimiteți datele?"
+
+#: webtab/webpage.cpp:282
+msgid "Resend form data"
+msgstr "Retrimite date formular"
+
+#: webtab/webpage.cpp:456
+msgid "No service can handle this file."
+msgstr "Niciun serviciu nu poate manipula fișierul."
+
+#: webtab/webpage.cpp:477
+msgid "rekonq cannot properly handle this, sorry"
+msgstr ""
+
+#: webtab/webpage.cpp:702
+msgid "There was a problem while loading the page"
+msgstr "A intervenit o problemă la încărcarea paginii"
+
+#: webtab/webpage.cpp:709
+#, fuzzy
+#| msgid "Network Analyzer"
+msgid "Network is not available"
+msgstr "Analizator de rețea"
+
+#: webtab/webpage.cpp:719
+#, kde-format
+msgid ""
+"Maybe you are having problems with your network settings.<br />Try checking "
+"your <a href=\"%1\">network connections</a>, your <a href=\"%2\">proxy "
+"settings</a> and your <a href=\"%3\">firewall</a>.<br /><br />Then <a href="
+"\"%4\">try again</a>.<br />"
+msgstr ""
+
+#: webtab/webpage.cpp:739
+msgid "Oops... Proxy problems!"
+msgstr ""
+
+#: webtab/webpage.cpp:751
+#, kde-format
+msgid ""
+"It seems you are having problems with your <a href=\"%1\">proxy settings</"
+"a>. Try checking them, <br /><br />then <a href=\"%2\">try again</a>.<br />"
+msgstr ""
+
+#: webtab/webpage.cpp:769
+#, kde-format
+msgid "Oops! Cannot load <em>%1</em>"
+msgstr ""
+
+#: webtab/webpage.cpp:785
+#, kde-format
+msgid ""
+"Ask your default search engine about: <a href=\"%1\">search with %2</a>.<br /"
+">"
+msgstr ""
+
+#: webtab/webpage.cpp:792
+msgid ""
+"You do not have a default search engine set. We will not suggest you one."
+msgstr ""
+
+#: webtab/webpage.cpp:797
+#, kde-format
+msgid ""
+"Consult a cached snapshot of the site: try checking the <a href="
+"\"%1\">Wayback Machine</a> or the <a href=\"%2\">Google Cache</a>."
+msgstr ""
+
+#: webtab/webpage.cpp:803
+#, kde-format
+msgid "<a href='%1'>Try Again</a>"
+msgstr ""
+
+#: webtab/webtab.cpp:354
+msgid ""
+"It seems rekonq was not closed properly. Do you want to restore the last "
+"saved session?"
+msgstr ""
+
+#: webtab/webtab.cpp:429
+#, kde-format
+msgid "Maximum zoom reached: %1%"
+msgstr ""
+
+#: webtab/webtab.cpp:448
+#, kde-format
+msgid "Minimum zoom reached: %1%"
+msgstr ""
+
+#: webtab/webtab.cpp:484
+#, fuzzy, kde-format
+#| msgctxt "Default website encoding"
+#| msgid "Default"
+msgid "Default zoom: %1%"
+msgstr "Factor de mărire implicit"
+
+#: webtab/webtab.cpp:486
+#, fuzzy, kde-format
+#| msgid "Zoom:"
+msgid "Zooming: %1%"
+msgstr "Panoramare:"
+
+#: webtab/webview.cpp:239
+#, kde-format
+msgid "No suggestions for %1"
+msgstr "Nicio sugestie pentru %1"
+
+#: webtab/webview.cpp:256
+msgid "Add to Dictionary"
+msgstr "Adaugă la dicționar"
+
+#: webtab/webview.cpp:342
+#, fuzzy
+#| msgid "Home page URL:"
+msgid "Share page URL"
+msgstr "URL pagină de pornire:"
+
+#: webtab/webview.cpp:361
+msgid "Current Frame"
+msgstr "Cadrul curent"
+
+#: webtab/webview.cpp:364
+msgid "Print Frame"
+msgstr "Tipărește cadru"
+
+#: webtab/webview.cpp:380
+msgid "List All Links"
+msgstr "Afișează toate legăturile"
+
+#: webtab/webview.cpp:397
+msgid "Share link"
+msgstr ""
+
+#: webtab/webview.cpp:399
+msgid "Open in New &Tab"
+msgstr "Deschide în filă &nouă"
+
+#: webtab/webview.cpp:404
+msgid "Open in New &Window"
+msgstr "Deschide în &fereastră nouă"
+
+#: webtab/webview.cpp:411
+#, fuzzy
+#| msgid "Open in New &Window"
+msgid "Open in Private &Window"
+msgstr "Deschide în &fereastră nouă"
+
+#: webtab/webview.cpp:419
+#, fuzzy
+#| msgid "Open file"
+msgid "Open &Here"
+msgstr "Deschide fișier"
+
+#: webtab/webview.cpp:430
+msgid "Save Link..."
+msgstr "Salvare legătură..."
+
+#: webtab/webview.cpp:432
+#, fuzzy
+msgid "Save Link"
+msgstr "Salvare legătură..."
+
+#: webtab/webview.cpp:442
+msgid "Share image link"
+msgstr ""
+
+#: webtab/webview.cpp:446
+msgid "&View Image"
+msgstr "&Vezi imaginea"
+
+#: webtab/webview.cpp:452
+#, fuzzy
+msgid "Save image as..."
+msgstr "Salvează imaginea ca..."
+
+#: webtab/webview.cpp:457
+msgid "&Copy Image Location"
+msgstr "&Copiază locația imaginii"
+
+#: webtab/webview.cpp:464
+#, fuzzy
+#| msgid "Autoload images"
+msgid "Block image"
+msgstr "Blochează imaginea..."
+
+#: webtab/webview.cpp:476
+msgid "Share selected text"
+msgstr ""
+
+#: webtab/webview.cpp:486
+msgid "Copy Text"
+msgstr "Copiază textul"
+
+#: webtab/webview.cpp:488
+msgid "Copy"
+msgstr "Copiază"
+
+#: webtab/webview.cpp:512
+#, kde-format
+msgid "Open '%1' in New Tab"
+msgstr "Deschide „%1” în filă nouă"
+
+#: webtab/webview.cpp:519
+#, kde-format
+msgid "Open '%1' in New Window"
+msgstr "Deschide „%1” în fereastră nouă"
+
+#: webtab/webview.cpp:531
+#, fuzzy, kde-format
+#| msgid "Search with"
+msgctxt "Search selected text with the default search engine"
+msgid "Search with %1"
+msgstr "Caută cu"
+
+#: webtab/webview.cpp:540
+#, fuzzy
+#| msgid "Search:"
+msgctxt "@title:menu"
+msgid "Search"
+msgstr "Caută"
+
+#: webtab/webview.cpp:544
+#, fuzzy, kde-format
+msgctxt "@item:inmenu Search, %1 = search engine"
+msgid "With %1"
+msgstr "Cu:"
+
+#: webtab/webview.cpp:553
+#, fuzzy
+#| msgid "Set to Current Page"
+msgid "On Current Page"
+msgstr "Stabilește la pagina curentă"
+
+#: webtab/webview.cpp:570
+#, fuzzy
+#| msgid "&Bookmarks"
+msgid "&Bookmark link"
+msgstr "&Semne de carte"
+
+#: webtab/webview.cpp:600
+msgid "Exit FullScreen Mode"
+msgstr ""
+
+#: webwindow/findbar.cpp:57
+msgid "&Match case"
+msgstr "&Sensibil la registru"
+
+#: webwindow/findbar.cpp:58
+msgid "&Highlight all"
+msgstr "&Evidențiază tot"
+
+#: webwindow/findbar.cpp:74
+msgid "Find:"
+msgstr "Caută:"
+
+#: webwindow/findbar.cpp:87
+msgid "&Next"
+msgstr "Î&nainte"
+
+#: webwindow/findbar.cpp:88
+msgid "&Previous"
+msgstr "Îna&poi"
+
+#. i18n: ectx: Menu (openMenu)
+#: webwindow/rekonqui.rc:8
+#, fuzzy
+#| msgid "Open"
+msgid "&Open"
+msgstr "Deschide"
+
+#. i18n: ectx: Menu (zoomMenu)
+#: webwindow/rekonqui.rc:21
+msgid "&Zoom"
+msgstr ""
+
+#. i18n: ectx: Menu (toolsMenu)
+#. i18n: ectx: Menu (tools)
+#: webwindow/rekonqui.rc:30 webwindow/rekonqui.rc:136
+#: webwindow/webwindow.cpp:386
+msgid "&Tools"
+msgstr "&Unelte"
+
+#. i18n: ectx: Menu (panelsMenu)
+#: webwindow/rekonqui.rc:51
+msgid "&Panels"
+msgstr ""
+
+#. i18n: ectx: Menu (help)
+#: webwindow/rekonqui.rc:61
+msgid "&Help"
+msgstr "&Ajutor"
+
+#. i18n: ectx: Menu (file)
+#: webwindow/rekonqui.rc:84
+msgid "&File"
+msgstr "&Fișier"
+
+#. i18n: ectx: Menu (edit)
+#: webwindow/rekonqui.rc:99
+msgid "&Edit"
+msgstr "&Editare"
+
+#. i18n: ectx: Menu (view)
+#: webwindow/rekonqui.rc:112
+msgid "&View"
+msgstr "&Vizualizare"
+
+#. i18n: ectx: Menu (go)
+#: webwindow/rekonqui.rc:124
+#, fuzzy
+msgid "&Go"
+msgstr "Du-te"
+
+#. i18n: ectx: Menu (settings)
+#: webwindow/rekonqui.rc:151
+msgid "&Settings"
+msgstr "&Configurări"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: webwindow/rekonqui.rc:168
+#, fuzzy
+#| msgid "Main Toolbar"
+msgid "Main Toolbar"
+msgstr "Bara de unelte principală"
+
+#: webwindow/webwindow.cpp:198
+msgid "Location Bar"
+msgstr "Bara de amplasare"
+
+#: webwindow/webwindow.cpp:202
+msgid "Clear Urlbar"
+msgstr ""
+
+#: webwindow/webwindow.cpp:213
+msgid "&New Window"
+msgstr "Fereastră &nouă"
+
+#: webwindow/webwindow.cpp:241
+#, fuzzy
+#| msgid "Main Toolbar"
+msgid "Configure Main ToolBar"
+msgstr "Bara de unelte principală"
+
+#: webwindow/webwindow.cpp:246
+msgid "Bookmarks Toolbar"
+msgstr "Bara cu semne de carte"
+
+#: webwindow/webwindow.cpp:257
+#, fuzzy
+#| msgid "Downloads"
+msgid "Downloads page"
+msgstr "Descărcări"
+
+#: webwindow/webwindow.cpp:263
+#, fuzzy
+#| msgid "History Panel"
+msgid "History page"
+msgstr "Panoul cu istoric"
+
+#: webwindow/webwindow.cpp:269
+#, fuzzy
+#| msgid "Bookmarks Panel"
+msgid "Bookmarks page"
+msgstr "Panoul cu semne de carte"
+
+#: webwindow/webwindow.cpp:289
+msgid "&Stop"
+msgstr "&Oprește"
+
+#: webwindow/webwindow.cpp:295
+msgid "Open Location"
+msgstr "Deschide amplasarea"
+
+#: webwindow/webwindow.cpp:303
+#, fuzzy
+#| msgid "Manage Exceptions"
+msgid "&Manage Sessions"
+msgstr "Gestionează excepțiile"
+
+#: webwindow/webwindow.cpp:308
+msgid "View Page S&ource"
+msgstr "Vezi s&ursa paginii"
+
+#: webwindow/webwindow.cpp:314
+#, fuzzy
+#| msgid "&New Window"
+msgid "New Private Window"
+msgstr "Fereastră &nouă"
+
+#: webwindow/webwindow.cpp:319
+msgid "Clear Private Data..."
+msgstr "Curățare date private..."
+
+#: webwindow/webwindow.cpp:354
+msgid "Set Editable"
+msgstr ""
+
+#: webwindow/webwindow.cpp:360
+msgid "Ad Block"
+msgstr ""
+
+#: webwindow/webwindow.cpp:365
+msgid "Create application shortcut"
+msgstr ""
+
+#: webwindow/webwindow.cpp:375
+#, fuzzy
+#| msgid "Web &Inspector"
+msgid "&Inspect"
+msgstr "Inspectare..."
+
+#: webwindow/webwindow.cpp:435
+msgid "Stop loading the current page"
+msgstr "Oprește încărcarea paginii curente"
+
+#: webwindow/webwindow.cpp:436
+msgid "Stop"
+msgstr "Oprește"
+
+#: webwindow/webwindow.cpp:454
+msgid "Reload the current page"
+msgstr "Reîncarcă pagina curentă"
+
+#: webwindow/webwindow.cpp:466 webwindow/webwindow.cpp:467
+#, fuzzy
+msgid "Go"
+msgstr "Du-te"
+
+#: webwindow/webwindow.cpp:750
+msgid ""
+"*.html *.htm *.svg *.png *.gif *.svgz|Web Resources (*.html *.htm *.svg *."
+"png *.gif *.svgz)\n"
+"*.*|All files (*.*)"
+msgstr ""
+"*.html *.htm *.svg *.png *.gif *.svgz|Resurse web (*.html *.htm *.svg *.png "
+"*.gif *.svgz)\n"
+"*.*|Toate fișierele (*.*)"
+
+#: webwindow/webwindow.cpp:753
+msgid "Open Web Resource"
+msgstr "Deschide resursă web"
+
+#: webwindow/webwindow.cpp:1021
+#, fuzzy
+#| msgid "&New Window"
+msgid "web window"
+msgstr "Fereastră &nouă"
+
+#: webwindow/webwindow.cpp:1025
+#, fuzzy
+#| msgid "&New Window"
+msgid "tab window"
+msgstr "Fereastră &nouă"
+
+#~ msgid "Google Reader"
+#~ msgstr "Cititor Google"
+
+#, fuzzy
+#~ msgid "none"
+#~ msgstr "niciunul"
+
+#, fuzzy
+#~ msgid "Md5:"
+#~ msgstr "MD5"
+
+#~ msgid "Done!"
+#~ msgstr "Gata!"
+
+#~ msgid "AdBlock is NOT enabled on this site"
+#~ msgstr "AdBlock NU este activat pe acest sait"
+
+#, fuzzy
+#~| msgid "Search with"
+#~ msgid "search with %1"
+#~ msgstr "Caută cu"
+
+#~ msgid "Hi&story"
+#~ msgstr "I&storic"
+
+#~ msgid "Name: %1"
+#~ msgstr "Denumire: %1"
+
+#~ msgid "URL: %1"
+#~ msgstr "URL: %1"
+
+#, fuzzy
+#~ msgid "Bookmark this page"
+#~ msgstr "În&semnează această pagină"
+
+#~ msgid "Edit this bookmark"
+#~ msgstr "Modifică acest semn de carte"
+
+#~ msgid "Startup"
+#~ msgstr "Pornire"
+
+#~ msgid "Home Page"
+#~ msgstr "Pagina de pornire"
+
+#, fuzzy
+#~ msgctxt "@title:window"
+#~ msgid "Configure Shortcuts"
+#~ msgstr "Configurează acceleratorii"
+
+#, fuzzy
+#~| msgid "Bookmarks"
+#~ msgid "bookmarks"
+#~ msgstr "Semne de carte"
+
+#, fuzzy
+#~| msgid "History"
+#~ msgid "history"
+#~ msgstr "Istoric"
+
+#~ msgid "Method"
+#~ msgstr "Metodă"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Response"
+#~ msgstr "Răspuns"
+
+#~ msgid "Length"
+#~ msgstr "Durată"
+
+#~ msgid "Content Type"
+#~ msgstr "Tip conținut"
+
+#~ msgid "Info"
+#~ msgstr "Informații"
+
+#, fuzzy
+#~| msgid "Copy Link"
+#~ msgid "Copy URL"
+#~ msgstr "Copiază legătura"
+
+#~ msgid "Pending"
+#~ msgstr "În așteptare"
+
+#~ msgid "%1 %2"
+#~ msgstr "%1 %2"
+
+#~ msgid "<h3>Request Details</h3>"
+#~ msgstr "<h3>Detalii cerere</h3>"
+
+#~ msgid "<h3>Response Details</h3>"
+#~ msgstr "<h3>Detalii răspuns</h3>"
+
+#~ msgid "Private &Browsing"
+#~ msgstr "Na&vigare privată"
+
+#~ msgid "Are you sure you want to turn on private browsing?"
+#~ msgstr "Sigur doriți să activați navigarea privată?"
+
+#~ msgid "Closing Modified Tab"
+#~ msgstr "Se închide filă modificată"
+
+#~ msgid "Close &Tab"
+#~ msgstr "Î&nchide fila"
+
+#~ msgid "Reload Tab"
+#~ msgstr "Reîncarcă fila"
+
+#~ msgid "Web Inspector"
+#~ msgstr "Inspector web"
+
+#~ msgctxt "Window title when private browsing is activated"
+#~ msgid "rekonq (Private Browsing)"
+#~ msgstr "rekonq (navigare privată)"
+
+#~ msgctxt "window title, %1 = title of the active website"
+#~ msgid "%1 – rekonq (Private Browsing)"
+#~ msgstr "%1 – rekonq (navigare privată)"
+
+#~ msgctxt "window title, %1 = title of the active website"
+#~ msgid "%1 – rekonq"
+#~ msgstr "%1 – rekonq"
+
+#~ msgid "Always show tab bar"
+#~ msgstr "Arată bara de file întotdeauna"
+
+#, fuzzy
+#~| msgid "Open bookmark in new window"
+#~ msgid "Don't use tabs: open links in new windows"
+#~ msgstr "Deschide semn de carte în fereastră nouă"
+
+#, fuzzy
+#~| msgid "There are no recently closed tabs"
+#~ msgid "There are elements blocked by AdBlock"
+#~ msgstr "Nu sînt file închise recent"
+
+#, fuzzy
+#~| msgid ""
+#~| "Check the address for errors such as <b>ww</b>.kde.org instead of "
+#~| "<b>www</b>.kde.org"
+#~ msgid ""
+#~ "Check your address for errors like <em>ww.kde.org</em> instead of <em>www."
+#~ "kde.org</em>.<br />"
+#~ msgstr ""
+#~ "Verificați adresa pentru erori ca <b>ww</b>.kde.org în loc de <b>www</b>."
+#~ "kde.org"
+
+#~ msgid "Inspect Element"
+#~ msgstr "Inspectează element"
+
+#, fuzzy
+#~| msgid "%1 %2"
+#~ msgctxt "percentage of the website zoom"
+#~ msgid "%1%"
+#~ msgstr "%1 %2"
+
+#, fuzzy
+#~| msgid "Add Favorite"
+#~ msgid "Set new favorite"
+#~ msgstr "Adaugă favorit"
+
+#, fuzzy
+#~| msgid "Bookmarks"
+#~ msgid "Google Bookmarks"
+#~ msgstr "Semne de carte"
+
+#, fuzzy
+#~| msgid "Edit Bookmarks"
+#~ msgid "Edit this Bookmark"
+#~ msgstr "Editează semne de carte"
+
+#~ msgctxt "%1=an URL, e.g.'kde.org'"
+#~ msgid "When connecting to: <b>%1</b>"
+#~ msgstr "La conectarea la: <b>%1</b>"
+
+#~ msgid "If the address is correct, try to check the network connection."
+#~ msgstr ""
+#~ "Dacă adresa este corectă, încercați să verificați conexiunea la rețea."
+
+#~ msgid ""
+#~ "Of course, if rekonq does not work properly, you can always say it is a "
+#~ "programmer error ;)"
+#~ msgstr ""
+#~ "Desigur, dacă rekonq nu lucrează corect, puteți spune oricînd că este o "
+#~ "eroare de programare ;)"
+
+#~ msgid "Try Again"
+#~ msgstr "Reîncearcă"
+
+#~ msgid ""
+#~ "\n"
+#~ " %1,\n"
+#~ " %2 (required by %3)\n"
+#~ msgstr ""
+#~ "\n"
+#~ " %1,\n"
+#~ " %2 (cerut de %3)\n"
+
+#~ msgid "Add automatic subscription to the adblock"
+#~ msgstr "Adaugă abonare automată la AdBlock"
+
+#~ msgid "Add"
+#~ msgstr "Adaugă"
+
+#~ msgid "Discard"
+#~ msgstr "Aruncă"
+
+#~ msgid "Open links in new tab instead of in new window"
+#~ msgstr "Deschide legăturile în filă nouă în loc de fereastră nouă"
+
+#~ msgid "Johannes Zellner"
+#~ msgstr "Johannes Zellner"
+
+#~ msgid "Matthieu Gicquel"
+#~ msgstr "Matthieu Gicquel"
+
+#~ msgid "Ronny Scholz"
+#~ msgstr "Ronny Scholz"
+
+#~ msgid "Nikhil Marathe"
+#~ msgstr "Nikhil Marathe"
+
+#~ msgid "Ivan Čukić"
+#~ msgstr "Ivan Čukić"
+
+#~ msgid "Pawel Prazak"
+#~ msgstr "Pawel Prazak"
+
+#~ msgid "Dario Freddi"
+#~ msgstr "Dario Freddi"
+
+#~ msgid "Overwrite File?"
+#~ msgstr "Suprascrieți fișierul?"
+
+#~ msgid "Clear Private Data"
+#~ msgstr "Curăță datele private"
+
+#~ msgid "Search with"
+#~ msgstr "Caută cu"
+
+#~ msgid "Plugin Settings"
+#~ msgstr "Configurări module"
+
+#~ msgid "Are you sure you want to close the window?"
+#~ msgstr "Sigur doriți să închideți fereastra?"
+
+#, fuzzy
+#~| msgid "&Tools"
+#~ msgid "Tools"
+#~ msgstr "&Unelte"
+
+#~ msgid "Development"
+#~ msgstr "Dezvoltare"
+
+#, fuzzy
+#~| msgid "Edit Bookmarks"
+#~ msgid "<h4>Edit this Bookmark</h4>"
+#~ msgstr "Editează semne de carte"
+
+#, fuzzy
+#~| msgctxt "%1=an URL, e.g.'kde.org'"
+#~| msgid "When connecting to: <b>%1</b>"
+#~ msgid "The connection uses %1.\n"
+#~ msgstr "La conectarea la: <b>%1</b>"
+
+#~ msgid "The SSL information for this site appears to be corrupt."
+#~ msgstr "Informațiile SSL pentru acest sait par să fie deteriorate."
+
+#, fuzzy
+#~| msgid "Content Type"
+#~ msgid "Continue"
+#~ msgstr "Tip conținut"
+
+#, fuzzy
+#~| msgid "Set Encoding"
+#~ msgid "Encodings"
+#~ msgstr "Stabilește codarea"
+
+#~ msgctxt "Default website encoding"
+#~ msgid "Default"
+#~ msgstr "Implicită"
+
+#~ msgid "Show preview when hovering tab"
+#~ msgstr "Arată previzualizare la planarea deasupra filei"

@@ -1,0 +1,281 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:22+0000\n"
+"PO-Revision-Date: 2014-04-09 11:22+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, username)
+#: src/account.ui:69
+msgid "John"
+msgstr "Ion"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/account.ui:86
+msgid "Real Name:"
+msgstr "Nume real:"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, realName)
+#: src/account.ui:111
+msgid "John Doe"
+msgstr "Ion Popescu"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/account.ui:128
+msgid "Email Address:"
+msgstr "Adresă de e-mail:"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, email)
+#: src/account.ui:150
+msgid "john.doe@example.com"
+msgstr "ion.popescu@example.com"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/account.ui:167 src/password.ui:33
+msgid "Password:"
+msgstr "Parolă:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/account.ui:174
+msgid "Administrator:"
+msgstr "Administrator:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: src/account.ui:188
+msgid "Automatic Login:"
+msgstr "Autentificare automată:"
+
+#. i18n: ectx: property (text), widget (QLineEdit, passwordEdit)
+#: src/account.ui:208
+msgid "MyPassword"
+msgstr "ParolaMea"
+
+#: src/accountinfo.cpp:67
+msgid "Load from file..."
+msgstr "Încarcă din fișier..."
+
+#: src/accountinfo.cpp:71
+msgid "Clear Avatar"
+msgstr "Curăță avatarul"
+
+#: src/accountinfo.cpp:286
+msgid "This username is already used"
+msgstr "Acest nume de utilizator este folosit deja"
+
+#: src/accountinfo.cpp:296
+msgid "The username must start with a letter"
+msgstr "Numele de utilizator trebuie să înceapă cu o literă"
+
+#: src/accountinfo.cpp:314
+msgid ""
+"The username can contain only letters, numbers, score, underscore and dot"
+msgstr ""
+"Numele de utilizator poate să conțină numai litere, numere, cratimă, "
+"subliniere și punct"
+
+#: src/accountinfo.cpp:328
+msgid "The username is too long"
+msgstr "Numele de utilizator e prea lung"
+
+#: src/accountinfo.cpp:366
+msgid "This e-mail address is incorrect"
+msgstr "Această adresă de email e greșită"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, addBtn)
+#: src/kcm.ui:69
+msgid "Add user account"
+msgstr "Adaugă cont de utilizator"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, removeBtn)
+#: src/kcm.ui:86
+msgid "Remove user account"
+msgstr "Elimină contul de utilizator"
+
+#: src/lib/accountmodel.cpp:239
+msgid "New User"
+msgstr "Utilizator nou"
+
+#: src/lib/accountmodel.cpp:356
+msgid "Users"
+msgstr "Utilizatori"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/password.ui:54
+msgid "Verify:"
+msgstr "Verificare:"
+
+#: src/passworddialog.cpp:34
+msgctxt "Title for change password dialog"
+msgid "New Password"
+msgstr "Parola nouă"
+
+#: src/passworddialog.cpp:93
+msgid "Passwords do not match"
+msgstr "Parolele nu se potrivesc"
+
+#: src/passworddialog.cpp:117
+msgid "This password is weak"
+msgstr "Această parolă e slabă"
+
+#: src/passworddialog.cpp:120
+msgid "This password is good"
+msgstr "Această parolă e bună"
+
+#: src/passworddialog.cpp:123
+msgid "This password is very good"
+msgstr "Această parolă e foarte bună"
+
+#: src/passworddialog.cpp:126
+msgid "This password is excellent"
+msgstr "Această parolă e excelentă"
+
+#: src/passworddialog.cpp:142
+#, kde-format
+msgctxt "Error returned when the password is invalid"
+msgid "The password should be at least %1 character"
+msgid_plural "The password should be at least %1 characters"
+msgstr[0] "Parola trebuie să conțină cel puțin %1 caracter"
+msgstr[1] "Parola trebuie să conțină cel puțin %1 caractere"
+msgstr[2] "Parola trebuie să conțină cel puțin %1 de caractere"
+
+#: src/passworddialog.cpp:150
+#, kde-format
+msgctxt "Error returned when the password is invalid"
+msgid "The password should contain at least %1 uppercase letter"
+msgid_plural "The password should contain at least %1 uppercase letters"
+msgstr[0] "Parola trebuie să conțină cel puțin %1 literă majusculă"
+msgstr[1] "Parola trebuie să conțină cel puțin %1 litere majuscule"
+msgstr[2] "Parola trebuie să conțină cel puțin %1 de litere majuscule"
+
+#: src/passworddialog.cpp:158
+#, kde-format
+msgctxt "Error returned when the password is invalid"
+msgid "The password should contain at least %1 lowercase letter"
+msgid_plural "The password should contain at least %1 lowercase letters"
+msgstr[0] "Parola trebuie să conțină cel puțin %1 literă minusculă"
+msgstr[1] "Parola trebuie să conțină cel puțin %1 litere minuscule"
+msgstr[2] "Parola trebuie să conțină cel puțin %1 de litere minuscule"
+
+#: src/passworddialog.cpp:162
+msgctxt "Error returned when the password is invalid"
+msgid "Your username should not be part of your password"
+msgstr "Numele de utilizator nu trebuie să facă parte din parolă"
+
+#: src/passworddialog.cpp:164
+msgctxt "Error returned when the password is invalid"
+msgid "Your name should not be part of your password"
+msgstr "Numele nu trebuie să facă parte din parolă"
+
+#: src/passworddialog.cpp:170
+#, kde-format
+msgctxt "Error returned when the password is invalid"
+msgid "The password should contain at least %1 number"
+msgid_plural "The password should contain at least %1 numbers"
+msgstr[0] "Parola trebuie să conțină cel puțin %1 cifră"
+msgstr[1] "Parola trebuie să conțină cel puțin %1 cifre"
+msgstr[2] "Parola trebuie să conțină cel puțin %1 de cifre"
+
+#: src/passworddialog.cpp:178
+#, kde-format
+msgctxt "Error returned when the password is invalid"
+msgid ""
+"The password should contain at least %1 special character (like punctuation)"
+msgid_plural ""
+"The password should contain at least %1 special characters (like punctuation)"
+msgstr[0] ""
+"Parola trebuie să conțină cel puțin %1 caracter special (ca punctuația)"
+msgstr[1] ""
+"Parola trebuie să conțină cel puțin %1 caractere speciale (ca punctuația)"
+msgstr[2] ""
+"Parola trebuie să conțină cel puțin %1 de caractere speciale (ca punctuația)"
+
+#: src/passworddialog.cpp:182
+msgctxt "Error returned when the password is invalid"
+msgid ""
+"The password should contain a mixture of letters, numbers, spaces and "
+"punctuation"
+msgstr ""
+"Parola trebuie să conțină un amestec de litere, cifre, spații și punctuație"
+
+#: src/passworddialog.cpp:184
+msgctxt "Error returned when the password is invalid"
+msgid "The password should not contain too many repeated characters"
+msgstr "Parola nu trebuie să conțină prea multe caractere repetate"
+
+#: src/passworddialog.cpp:186
+msgctxt "Error returned when the password is invalid"
+msgid "The password should be more varied in letters, numbers and punctuation"
+msgstr ""
+"Parola trebuie să aibă un conținut mai variat de litere, cifre și punctuație"
+
+#: src/passworddialog.cpp:188
+msgctxt "Error returned when the password is invalid"
+msgid "The password should not contain sequences like 1234 or abcd"
+msgstr "Parola nu trebuie să conțină secvențe ca 1234 sau abcd"
+
+#: src/passworddialog.cpp:190
+msgctxt "Error returned when the password is invalid"
+msgid "This password can't be used, it is too simple"
+msgstr "Această parolă nu poate fi folosită, este prea simplă"
+
+#: src/passworddialog.cpp:194
+msgctxt "Returned when a more specific error message has not been found"
+msgid "Please choose another password"
+msgstr "Alegeți altă parolă"
+
+#: src/usermanager.cpp:121
+msgid "Keep files"
+msgstr "Păstrează fișierele"
+
+#: src/usermanager.cpp:123
+msgid "Delete files"
+msgstr "Șterge fișierele"
+
+#: src/usermanager.cpp:125
+#, kde-format
+msgid "What do you want to do after deleting %1 ?"
+msgstr "Ce doriți să faceți după ștergerea utilizatorului %1?"
+
+#: src/usermanager.cpp:128
+msgid ""
+"This user is using the system right now, removing it will cause problems"
+msgstr ""
+"Acest utilizator folosește sistemul în acest moment. Eliminarea sa va crea "
+"probleme"
+
+#: src/usermanager.cpp:131
+msgid "Delete User"
+msgstr "Șterge utilizatorul"
+
+#~ msgctxt "@title:window"
+#~ msgid "Choose Image"
+#~ msgstr "Alege imaginea"
+
+#~ msgid "Change Password"
+#~ msgstr "Modifică parola"
+
+#~ msgid "Removing a logged user may cause inconsistencies"
+#~ msgstr "Eliminarea unui utilizator autentificat poate crea inconsistențe"
+
+#~ msgid "Are you should you want to "
+#~ msgstr "Sigur doriți să "
+
+#~ msgid "AAA"
+#~ msgstr "AAA"
+
+#~ msgid "jhon@doe.es"
+#~ msgstr "ion@popescu.md"

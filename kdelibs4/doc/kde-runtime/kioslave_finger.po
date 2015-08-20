@@ -1,0 +1,108 @@
+# translation of kioslave_finger.po to 
+# translation of kioslave_finger.po to
+# translation of kioslave_finger.po to Romanian
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Claudiu Costin <claudiuc@kde.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kioslave_finger\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-04-28 02:12+0000\n"
+"PO-Revision-Date: 2004-10-30 19:05+0300\n"
+"Last-Translator: Claudiu Costin <claudiuc@kde.org>\n"
+"Language-Team:  <en@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#. Tag: title
+#: index.docbook:9
+#, no-c-format
+msgid "finger"
+msgstr "finger"
+
+#. Tag: author
+#: index.docbook:12
+#, no-c-format
+msgid "&Lauri.Watts;&Lauri.Watts.mail;"
+msgstr "&Lauri.Watts;&Lauri.Watts.mail;"
+
+#. Tag: trans_comment
+#: index.docbook:13
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr "&tradClaudiuCostin;"
+
+#. Tag: para
+#: index.docbook:17
+#, no-c-format
+msgid "Finger is a program to display information about users."
+msgstr "Finger este un program ce afişează informaţii despre utilizatori."
+
+#. Tag: para
+#: index.docbook:19
+#, no-c-format
+msgid ""
+"If finger is enabled on the remote machine, you may be given information on "
+"the user's real name, if they are currently logged in, if they have mail and "
+"the text of their <filename>.plan</filename> file in their home folder."
+msgstr ""
+"Dacă este activat pe maşina distantă, puteţi afla numele real al "
+"utilizatorului, dacă este logat în acel moment, dacă are mesaje necitite şi "
+"conţinutul fişierului <filename>.plan</filename> din folderul personal."
+
+#. Tag: para
+#: index.docbook:24
+#, no-c-format
+msgid ""
+"Finger is normally associated with a user@hostname address, which may or may "
+"not be the same as a users email address."
+msgstr ""
+"Finger este în mod normal asociat cu o adresă  utilizator@numeserver, care "
+"poate fi sau nu identică cu adresa reală de e-mail a utilizatorului."
+
+#. Tag: para
+#: index.docbook:27
+#, no-c-format
+msgid ""
+"Most Internet Service Providers no longer allow finger access, so, you may "
+"find that you get no useful answer for most people."
+msgstr ""
+"Aproape toţi furnizorii de servicii Internet nu mai permit demult acces "
+"finger. Din această cauză nu veţi obţine informaţii utile pentru cei mai "
+"mulţi dintre utilizatori."
+
+#. Tag: para
+#: index.docbook:30
+#, no-c-format
+msgid ""
+"Other people use their local <filename>.plan</filename> file to hold such "
+"information as <acronym>PGP</acronym> keys, the fact they are on vacation, "
+"and all sorts of information."
+msgstr ""
+"Unele persoane utilizează fişierul <filename>.plan</filename> local pentru a "
+"stoca cheile <acronym>PGP</acronym>, să comunice că sînt în vacanţă şi multe "
+"alte felurite informaţii."
+
+#. Tag: para
+#: index.docbook:34
+#, no-c-format
+msgid ""
+"Use the finger kioslave like this: <userinput>finger://"
+"<replaceable>username</replaceable>@<replaceable>hostname</replaceable></"
+"userinput>"
+msgstr ""
+"Utilizaţi dispozitivul de I/E finger în acest fel: <userinput>finger://"
+"<replaceable>utilizator</replaceable>@<replaceable>numeserver</replaceable></"
+"userinput>"
+
+#. Tag: para
+#: index.docbook:37
+#, no-c-format
+msgid "See the manual: <ulink url=\"man:/finger\">finger</ulink>."
+msgstr "Citiţi pagina de manual: <ulink url=\"man:/finger\">finger</ulink>."

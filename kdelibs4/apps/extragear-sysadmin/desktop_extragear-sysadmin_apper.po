@@ -1,0 +1,427 @@
+# translation of desktop_playground-sysadmin to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_playground-sysadmin package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_playground-sysadmin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-05-13 02:37+0000\n"
+"PO-Revision-Date: 2014-04-14 12:06+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: Apper/apper.desktop:8 apperd/apperd.notifyrc:3
+msgctxt "Name"
+msgid "Apper"
+msgstr "Apper"
+
+#: Apper/apper.desktop:49 Apper/apper_installer.desktop:47
+#: Apper/apper_settings.desktop:48 Apper/apper_updates.desktop:48
+msgctxt "GenericName"
+msgid "Software Management"
+msgstr "Gestiune programe"
+
+#: Apper/apper.desktop:91 Apper/apper_installer.desktop:89
+#: Apper/apper_settings.desktop:90 Apper/apper_updates.desktop:90
+msgctxt "Comment"
+msgid "Application to get and manage software"
+msgstr "Aplicație pentru obținerea și gestionarea programelor"
+
+#: Apper/apper_installer.desktop:8
+msgctxt "Name"
+msgid "Apper Installer"
+msgstr "Instalator Apper"
+
+#: Apper/apper_settings.desktop:9
+msgctxt "Name"
+msgid "Apper Settings"
+msgstr "Configurări Apper"
+
+#: Apper/apper_updates.desktop:9
+msgctxt "Name"
+msgid "Apper Updates"
+msgstr "Actualizări Apper"
+
+#: apperd/apperd.desktop:9
+msgctxt "Name"
+msgid "Apper Monitor"
+msgstr "Monitor Apper"
+
+#: apperd/apperd.desktop:47
+msgctxt "Comment"
+msgid "Watch transactions and Notify about Software Updates"
+msgstr "Urmărește tranzacții și notifică despre actualizări de programe"
+
+#: apperd/apperd.notifyrc:44
+msgctxt "Comment"
+msgid "Apper Notification"
+msgstr "Notificare Apper"
+
+#: apperd/apperd.notifyrc:83
+msgctxt "Name"
+msgid "New updates available"
+msgstr "Sînt disponibile actualizări"
+
+#: apperd/apperd.notifyrc:125
+msgctxt "Name"
+msgid "Updates are being installed"
+msgstr "Actualizările se instalează"
+
+#: apperd/apperd.notifyrc:170
+msgctxt "Name"
+msgid "Updates are being downloaded"
+msgstr "Se descarcă actualizările"
+
+#: apperd/apperd.notifyrc:210
+msgctxt "Name"
+msgid "A System Restart is Required"
+msgstr "Este necesară o repornire a sistemului"
+
+#: apperd/apperd.notifyrc:254
+msgctxt "Name"
+msgid "A transaction failed to complete successfully"
+msgstr "Încheierea cu succes a unei tranzacții a eșuat"
+
+#: apperd/apperd.notifyrc:298
+msgctxt "Name"
+msgid "Updates finished installing"
+msgstr "Instalarea actualizărilor s-a încheiat"
+
+#: apperd/apperd.notifyrc:342
+msgctxt "Name"
+msgid "Message from the software manager"
+msgstr "Mesaj de la gestionarul de aplicații"
+
+#: apperd/apperd.notifyrc:381
+msgctxt "Name"
+msgid "A transaction error occurred"
+msgstr "A intervenit o eroare la tranzacție"
+
+#: apperd/apperd.notifyrc:424
+msgctxt "Name"
+msgid "A distribution upgrade is available"
+msgstr "Este disponibilă o actualizare a distribuției"
+
+#: apperd/apperd.notifyrc:467
+msgctxt "Name"
+msgid "The distribution upgrade completed"
+msgstr "Actualizarea distribuției s-a încheiat"
+
+#: apperd/apperd.notifyrc:510
+msgctxt "Name"
+msgid "The distribution upgrade completed with an error"
+msgstr "Actualizarea distribuției s-a încheiat cu o eroare"
+
+#: ApperKCM/kcm_apper.desktop:13
+msgctxt "Name"
+msgid "Software Management"
+msgstr "Gestiune programe"
+
+#: ApperKCM/kcm_apper.desktop:56
+msgctxt "Comment"
+msgid "Get, Remove and Update Software"
+msgstr "Obțineți, eliminați și actualizați aplicațiile"
+
+#: ApperKCM/kcm_apper.desktop:96
+msgctxt "X-KDE-Keywords"
+msgid ""
+"install,uninstall,remove,software,applications,management,packages,"
+"packagekit,purge"
+msgstr ""
+
+#: AppSetup/apper_appsetup.desktop:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Listaller Package Installer"
+msgctxt "Name"
+msgid "Limba Package Installer"
+msgstr "Instalator de pachete Linstaller"
+
+#: AppSetup/apper_appsetup.desktop:30
+msgctxt "GenericName"
+msgid "3rd-party software installer"
+msgstr "Instalator de aplicații de la părți terțe"
+
+#: AppSetup/apper_appsetup.desktop:67
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Tool to install new 3rd-party software"
+msgctxt "Comment"
+msgid "Tool to install software from 3rd-party sources"
+msgstr "Unealtă pentru instalarea de noi aplicații terțe"
+
+#: plasmoid/package/metadata.desktop:3
+msgctxt "Name"
+msgid "Software Updater"
+msgstr "Actualizator de programe"
+
+#: plasmoid/package/metadata.desktop:41
+msgctxt "Comment"
+msgid "Displays and updates software"
+msgstr "Afișează și actualizează programe"
+
+#~ msgctxt "Name"
+#~ msgid "Software Updater (QML)"
+#~ msgstr "Actualizator de programe (QML)"
+
+#~ msgctxt "Comment"
+#~ msgid "KPackageKit"
+#~ msgstr "KPackageKit"
+
+#~ msgctxt "Name"
+#~ msgid "KPackageKit Service"
+#~ msgstr "Serviciu KPackageKit"
+
+#~ msgctxt "Name"
+#~ msgid "KPackageKit"
+#~ msgstr "KPackageKit"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Add and Remove Software"
+#~ msgctxt "Name"
+#~ msgid "Get and Remove Software"
+#~ msgstr "Adaugă și elimină programe"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Software Management"
+#~ msgctxt "Comment"
+#~ msgid "Software Management Settings"
+#~ msgstr "Gestiune programe"
+
+#~ msgctxt "GenericName"
+#~ msgid "System Update Wizard"
+#~ msgstr "Expert de actualizare a sistemului"
+
+#~ msgctxt "Name"
+#~ msgid "Add/Remove Programs"
+#~ msgstr "Adăugare/eliminare programe"
+
+#~ msgctxt "Comment"
+#~ msgid "Adept Installer: install and remove software packages"
+#~ msgstr "Instalator Adept: instalează și elimină pachete software"
+
+#~ msgctxt "Name"
+#~ msgid "Adept Manager"
+#~ msgstr "Gestionar Adept"
+
+#~ msgctxt "GenericName"
+#~ msgid "Manage Packages"
+#~ msgstr "Gestionează pachetele"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage installed and available software"
+#~ msgstr "Gestionează programele instalate și disponibile"
+
+#~ msgctxt "Name"
+#~ msgid "Adept Notifier"
+#~ msgstr "Notificator Adept"
+
+#~ msgctxt "GenericName"
+#~ msgid "Update Reminder"
+#~ msgstr "Notificare actualizări"
+
+#~ msgctxt "Comment"
+#~ msgid "Watch for updates"
+#~ msgstr "Veghează după actualizări"
+
+#~ msgctxt "Name"
+#~ msgid "Arboretum"
+#~ msgstr "Arboretum"
+
+#~ msgctxt "GenericName"
+#~ msgid "LDAP Directory Manager"
+#~ msgstr "Gestionar Director LDAP"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Alternatives Configuration"
+#~ msgctxt "Name"
+#~ msgid "Alternatives Configuration"
+#~ msgstr "Configurarea alternativelor"
+
+#~ msgctxt "Name"
+#~ msgid "kamion"
+#~ msgstr "kamion"
+
+#~ msgctxt "Comment"
+#~ msgid "A simple KDE Application"
+#~ msgstr "O aplicație KDE simplă"
+
+#~ msgctxt "Name"
+#~ msgid "Keep"
+#~ msgstr "Keep"
+
+#~ msgctxt "Comment"
+#~ msgid "Backup System"
+#~ msgstr "Sistem pentru copii de siguranță"
+
+#~ msgctxt "Name"
+#~ msgid "Keep daemon"
+#~ msgstr "Demonul Keep"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "ProcessQueue"
+#~ msgctxt "Name"
+#~ msgid "Process package queue"
+#~ msgstr "CoadăProces"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Update Reminder"
+#~ msgctxt "Name"
+#~ msgid "Update package index"
+#~ msgstr "Notificare actualizări"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Update Reminder"
+#~ msgctxt "Description"
+#~ msgid "Update package index"
+#~ msgstr "Notificare actualizări"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "The distribution upgrade completed"
+#~ msgctxt "Name"
+#~ msgid "Distribution upgrade"
+#~ msgstr "Actualizarea distribuției s-a încheiat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Update Database Configuration"
+#~ msgctxt "Name"
+#~ msgid "Aqpm global configuration"
+#~ msgstr "Actualizează configurația bazei de date"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Update Database Configuration"
+#~ msgctxt "Name"
+#~ msgid "Aqpm Databases configuration"
+#~ msgstr "Actualizează configurația bazei de date"
+
+#~ msgctxt "Name"
+#~ msgid "Shaman Plugin"
+#~ msgstr "Modul Shaman"
+
+#~ msgctxt "Name"
+#~ msgid "ABS Backend (Arch Linux)"
+#~ msgstr "Platformă ABS (Arch Linux)"
+
+#~ msgctxt "Name"
+#~ msgid "AUR Backend (Arch Linux)"
+#~ msgstr "Platformă AUR (Arch Linux)"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Alternatives Configuration"
+#~ msgctxt "Name"
+#~ msgid "Transaction Logger configuration"
+#~ msgstr "Configurarea alternativelor"
+
+#~ msgctxt "Name"
+#~ msgid "Package Detail"
+#~ msgstr "Detalii pachet"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows package's details."
+#~ msgstr "Arată detaliile pachetului."
+
+#~ msgctxt "Name"
+#~ msgid "Packages View"
+#~ msgstr "Vizualizare pachete"
+
+#~ msgctxt "Comment"
+#~ msgid "Show a list of Packages"
+#~ msgstr "Arată o listă cu pachete"
+
+#~ msgctxt "Name"
+#~ msgid "RSS-Reader"
+#~ msgstr "Cititor RSS"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Alternatives Configuration"
+#~ msgctxt "Name"
+#~ msgid "Shaman configuration"
+#~ msgstr "Configurarea alternativelor"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Shaman Plugin"
+#~ msgctxt "Name"
+#~ msgid "Shaman"
+#~ msgstr "Modul Shaman"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Adept Manager"
+#~ msgctxt "GenericName"
+#~ msgid "Package Manager"
+#~ msgstr "Gestionar Adept"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Alternatives Configuration"
+#~ msgctxt "Name"
+#~ msgid "Transaction question"
+#~ msgstr "Configurarea alternativelor"
+
+#~ msgctxt "Comment"
+#~ msgid "PackageKit interface for KDE"
+#~ msgstr "Interfață PackageKit pentru KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "KPackageKit Settings"
+#~ msgstr "Configurări KPackageKit"
+
+#~ msgctxt "Comment"
+#~ msgid "Check and Install Updates"
+#~ msgstr "Verifică și instalează actualizări"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A simple KDE Application"
+#~ msgctxt "GenericName"
+#~ msgid "A KDE4 Application"
+#~ msgstr "O aplicație KDE simplă"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Alternatives Configuration"
+#~ msgctxt "Description"
+#~ msgid "User has finished package configuration"
+#~ msgstr "Configurarea alternativelor"
+
+#~ msgctxt "Name"
+#~ msgid "PackageKit-Backend"
+#~ msgstr "Platformă PackageKit"
+
+#~ msgctxt "Name"
+#~ msgid "Alpm Backend (Arch Linux)"
+#~ msgstr "Platformă Alpm (Arch Linux)"
+
+#~ msgctxt "Name"
+#~ msgid "Update Database"
+#~ msgstr "Actualizează baza de date"
+
+#~ msgctxt "Comment"
+#~ msgid "Update the Package-Database"
+#~ msgstr "Actualizează BD cu pachete"
+
+#~ msgctxt "Name"
+#~ msgid "Kalternatives"
+#~ msgstr "Kalternative"

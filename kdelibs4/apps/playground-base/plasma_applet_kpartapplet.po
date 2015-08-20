@@ -1,0 +1,38 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 06:01+0200\n"
+"PO-Revision-Date: 2012-12-22 10:33+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: kpartapplet.cpp:129
+#, kde-format
+msgid "The library '%1' could not be loaded."
+msgstr "Biblioteca „%1” nu a putut fi încărcată."
+
+#: kpartapplet.cpp:200
+msgid "General"
+msgstr "General"
+
+#. i18n: ectx: property (title), widget (QGroupBox, main)
+#: kpartapplet_config.ui:18
+msgid "KPart Applet Config"
+msgstr "Configurare miniaplicație KPart"
+
+#. i18n: ectx: property (text), widget (QLabel, label_parts)
+#: kpartapplet_config.ui:26
+msgid "Choose Part:"
+msgstr "Alegeți componenta:"

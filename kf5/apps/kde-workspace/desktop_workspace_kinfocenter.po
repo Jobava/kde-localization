@@ -1,0 +1,338 @@
+# Traducerea desktop_kdebase.po în Română
+# Claudiu Costin <claudiuc@kde.org>, 2002,2003, 2004, 2005.
+# Laurentiu Buzdugan <lbuz@rolix.org>, 2007,2009.
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009, 2011.
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2009, 2010, 2012, 2013, 2014.
+# Cristian Oneț <onet.cristian@gmail.com>, 2011, 2012.
+# Cristian Buzduga <cristianbzdg@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-07-10 08:57+0000\n"
+"PO-Revision-Date: 2014-03-25 01:34+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: Categories/deviceinfocategory.desktop:7
+msgctxt "Name"
+msgid "Lost And Found"
+msgstr "Pierdute și regăsite"
+
+#: Categories/graphicalinfocategory.desktop:7
+msgctxt "Name"
+msgid "Graphical Information"
+msgstr "Informații despre grafică"
+
+#: Categories/kinfocentercategory.desktop:4
+msgctxt "Name"
+msgid "KInfoCenter Category"
+msgstr "Categorie Centru de informații KDE"
+
+#: Categories/lostfoundcategory.desktop:7
+msgctxt "Name"
+msgid "Device Information"
+msgstr "Informații dispozitiv"
+
+#: Categories/networkinfocategory.desktop:7
+msgctxt "Name"
+msgid "Network Information"
+msgstr "Informații despre rețea"
+
+#: kcontrol/menus/kinfocenter.directory:4
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "PCI information"
+msgctxt "Name"
+msgid "Information"
+msgstr "Informații despre magistrala PCI"
+
+#: Modules/about-distro/src/about-distro.desktop:11
+msgctxt "X-KDE-Keywords"
+msgid "information,distribution,distro,system,kernel,qt,kde"
+msgstr ""
+
+#: Modules/about-distro/src/about-distro.desktop:44
+msgctxt "Name"
+msgid "About System"
+msgstr ""
+
+#: Modules/about-distro/src/about-distro.desktop:76
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Information about files and directories."
+msgctxt "Comment"
+msgid "Information About This System"
+msgstr "Informații despre fișiere și dosare."
+
+#: Modules/devinfo/devinfo.desktop:13
+msgctxt "Name"
+msgid "Device Viewer"
+msgstr "Vizualizator de dispozitive"
+
+#: Modules/devinfo/devinfo.desktop:77
+msgctxt "Comment"
+msgid "Device Viewer"
+msgstr "Vizualizator de dispozitive"
+
+#: Modules/devinfo/devinfo.desktop:141
+msgctxt "X-KDE-Keywords"
+msgid "device,devices"
+msgstr "dispozitiv,dispozitive"
+
+#: Modules/energy/kcm_energyinfo.desktop:9
+#: Modules/energy/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Memory information"
+msgctxt "Name"
+msgid "Energy Information"
+msgstr "Informații despre memorie"
+
+#: Modules/energy/kcm_energyinfo.desktop:41
+msgctxt "Comment"
+msgid "Energy Consumption Statistics"
+msgstr ""
+
+#: Modules/energy/kcm_energyinfo.desktop:74
+msgctxt "X-KDE-Keywords"
+msgid "Battery,Energy,Statistics,History,Power"
+msgstr ""
+
+#: Modules/energy/package/metadata.desktop:34
+msgctxt "Comment"
+msgid "Statistics about energy consumption"
+msgstr ""
+
+#: Modules/info/dma.desktop:14
+msgctxt "Name"
+msgid "DMA-Channels"
+msgstr "Canale DMA"
+
+#: Modules/info/dma.desktop:107
+msgctxt "Comment"
+msgid "DMA information"
+msgstr "Informații despre canalele DMA"
+
+#: Modules/info/dma.desktop:200
+msgctxt "X-KDE-Keywords"
+msgid "dma,DMA-Channels,System Information"
+msgstr "dma,canale DMA, informații sistem"
+
+#: Modules/info/interrupts.desktop:14
+msgctxt "Name"
+msgid "Interrupts"
+msgstr "Întreruperi"
+
+#: Modules/info/interrupts.desktop:107
+msgctxt "Comment"
+msgid "Interrupt information"
+msgstr "Informații despre întreruperi"
+
+#: Modules/info/interrupts.desktop:200
+msgctxt "X-KDE-Keywords"
+msgid "Interrupts,IRQ,System Information"
+msgstr "întreruperi;IRQ;informații;sistem"
+
+#: Modules/info/ioports.desktop:14
+msgctxt "Name"
+msgid "IO-Ports"
+msgstr "Porturi I/E"
+
+#: Modules/info/ioports.desktop:107
+msgctxt "Comment"
+msgid "IO-port information"
+msgstr "Informații despre porturile I/E"
+
+#: Modules/info/ioports.desktop:200
+msgctxt "X-KDE-Keywords"
+msgid "IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System Information"
+msgstr ""
+"IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,informații sistem,IE,I/E,"
+"porturi IE,porturi I/E,porturi,interval IE,interval I/E"
+
+#: Modules/info/scsi.desktop:13
+msgctxt "Name"
+msgid "SCSI"
+msgstr "SCSI"
+
+#: Modules/info/scsi.desktop:107
+msgctxt "Comment"
+msgid "SCSI information"
+msgstr "Informații despre SCSI"
+
+#: Modules/info/scsi.desktop:200
+msgctxt "X-KDE-Keywords"
+msgid "SCSI,SCSI-Bus,System Information"
+msgstr "SCSI,magistrala SCSI,informații sistem"
+
+#: Modules/info/wayland.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Thailand"
+msgctxt "Name"
+msgid "Wayland"
+msgstr "Tailanda"
+
+#: Modules/info/wayland.desktop:55
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Information about files and directories."
+msgctxt "Comment"
+msgid "Information about the Wayland Compositor"
+msgstr "Informații despre fișiere și dosare."
+
+#: Modules/info/wayland.desktop:98
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid "SMB,SAMBA,Windows network,LAN,System Information"
+msgctxt "X-KDE-Keywords"
+msgid "Wayland,Compositor,Display,System Information"
+msgstr "SMB,SAMBA,rețea Windows,LAN,informații sistem,rețea locală"
+
+#: Modules/info/xserver.desktop:13
+msgctxt "Name"
+msgid "X-Server"
+msgstr "Server X"
+
+#: Modules/info/xserver.desktop:106
+msgctxt "Comment"
+msgid "X-Server information"
+msgstr "Informații despre serverul X"
+
+#: Modules/info/xserver.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid "X,X-Server,XServer,XFree86,Display,VideoCard,System Information"
+msgstr ""
+"X,X-Server,XServer,XFree86,Display,VideoCard,informații sistem,server X,"
+"ecran,placă video"
+
+#: Modules/memory/kcm_memory.desktop:12
+msgctxt "Name"
+msgid "Memory"
+msgstr "Memorie"
+
+#: Modules/memory/kcm_memory.desktop:106
+msgctxt "Comment"
+msgid "Memory information"
+msgstr "Informații despre memorie"
+
+#: Modules/memory/kcm_memory.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
+"Information"
+msgstr ""
+
+#: Modules/nics/nic.desktop:12
+msgctxt "Name"
+msgid "Network Interfaces"
+msgstr "Interfețe de rețea"
+
+#: Modules/nics/nic.desktop:105
+msgctxt "Comment"
+msgid "Network interface information"
+msgstr "Afișează informații despre interfețele de rețea"
+
+#: Modules/opengl/opengl.desktop:12
+msgctxt "Name"
+msgid "OpenGL"
+msgstr "OpenGL"
+
+#: Modules/opengl/opengl.desktop:103
+msgctxt "Comment"
+msgid "OpenGL information"
+msgstr "Informații OpenGL"
+
+#: Modules/opengl/opengl.desktop:195
+msgctxt "X-KDE-Keywords"
+msgid ""
+"OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-"
+"Server,XFree86,Display"
+msgstr ""
+
+#: Modules/pci/kcm_pci.desktop:12
+msgctxt "Name"
+msgid "PCI"
+msgstr "Magistrala PCI"
+
+#: Modules/pci/kcm_pci.desktop:105
+msgctxt "Comment"
+msgid "PCI information"
+msgstr "Informații despre magistrala PCI"
+
+#: Modules/pci/kcm_pci.desktop:198
+msgctxt "X-KDE-Keywords"
+msgid "PCI,PCI-Devices,PCI-Bus,System Information"
+msgstr ""
+
+#: Modules/samba/smbstatus.desktop:12
+msgctxt "Name"
+msgid "Samba Status"
+msgstr "Stare Samba"
+
+#: Modules/samba/smbstatus.desktop:105
+msgctxt "Comment"
+msgid "Samba status monitor"
+msgstr "Monitorizează starea serverului Samba"
+
+#: Modules/samba/smbstatus.desktop:198
+msgctxt "X-KDE-Keywords"
+msgid "SMB,SAMBA,Windows network,LAN,System Information"
+msgstr "SMB,SAMBA,rețea Windows,LAN,informații sistem,rețea locală"
+
+#: Modules/usbview/kcmusb.desktop:12
+msgctxt "Name"
+msgid "USB Devices"
+msgstr "Dispozitive USB"
+
+#: Modules/usbview/kcmusb.desktop:105
+msgctxt "Comment"
+msgid "USB devices attached to this computer"
+msgstr "Dispozitive USB conectate la acest calculator"
+
+#: Modules/usbview/kcmusb.desktop:189
+msgctxt "X-KDE-Keywords"
+msgid "USB,devices,viewer,control"
+msgstr "USB,dispozitive,vizualizator,control"
+
+#: Modules/view1394/kcmview1394.desktop:12
+msgctxt "Name"
+msgid "IEEE 1394 Devices"
+msgstr "Dispozitive IEEE 1394"
+
+#: Modules/view1394/kcmview1394.desktop:104
+msgctxt "Comment"
+msgid "Attached IEEE 1394 devices"
+msgstr "Dispozitive IEEE 1394 atașate"
+
+#: Modules/view1394/kcmview1394.desktop:189
+msgctxt "X-KDE-Keywords"
+msgid "1394,Firewire,devices,viewer,control"
+msgstr "1394,Firewire,dispozitive,vizualizator,control"
+
+#: org.kde.kinfocenter.desktop:9
+msgctxt "Name"
+msgid "KInfoCenter"
+msgstr "Centrul de informații KDE"
+
+#: org.kde.kinfocenter.desktop:99
+msgctxt "GenericName"
+msgid "Info Center"
+msgstr "Centru de informații"
+
+#~ msgctxt "Name"
+#~ msgid "Summary"
+#~ msgstr "Sumar"
+
+#~ msgctxt "Comment"
+#~ msgid "Hardware Information Summary"
+#~ msgstr "Sumar informații echipament"

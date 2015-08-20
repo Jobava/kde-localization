@@ -1,0 +1,45 @@
+# Traducerea kcm_phonongst.po în Română
+# translation of kcm_phonongst to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kcm_phonongst package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_phonongst\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 07:00+0200\n"
+"PO-Revision-Date: 2008-03-14 16:35+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu-bivol@mail.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, m_ossCheckbox)
+#: gstoptions.ui:23
+msgid ""
+"in the list of available devices show OSS devices even if ALSA is available"
+msgstr ""
+"în lista dispozitivelor disponibile afișează dispozitive OSS chiar dacă ALSA "
+"este disponibilă"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_ossCheckbox)
+#: gstoptions.ui:26
+msgid "show OSS devices"
+msgstr "afișare dispozitive OSS"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: gstoptions.ui:39
+msgid "Debugging options"
+msgstr "Opțiuni de depanare"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_viewPipelineCheckbox)
+#: gstoptions.ui:51
+msgid "View a graphical representation of the Phonon GStreamer Pipeline"
+msgstr "Vedeți o reprezentare grafică a ansamblului GStreamer Phonon"

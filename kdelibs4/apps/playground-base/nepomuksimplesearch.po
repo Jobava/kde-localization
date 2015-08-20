@@ -1,0 +1,176 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: nepomuksimplesearch\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 06:00+0200\n"
+"PO-Revision-Date: 2009-04-30 12:31+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton)
+#: ClosedItemWidget.ui:30 ExpandedItemWidget.ui:38
+msgid "||"
+msgstr "||"
+
+#. i18n: ectx: property (text), widget (QLabel, m_fileName)
+#: ClosedItemWidget.ui:37 ExpandedItemWidget.ui:45
+msgid "search-strigi.pdf"
+msgstr "search-strigi.pdf"
+
+#. i18n: ectx: property (text), widget (QLabel, m_date)
+#: ClosedItemWidget.ui:60
+msgid "18/01/2007"
+msgstr "18/01/2007"
+
+#. i18n: ectx: property (text), widget (QLabel, m_switch)
+#: ExpandedItemWidget.ui:65
+msgid "Close"
+msgstr "Închide"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_preview)
+#: ExpandedItemWidget.ui:85
+msgid "Preview"
+msgstr "Previzualizează"
+
+#. i18n: ectx: property (text), widget (QLabel, m_where)
+#: ExpandedItemWidget.ui:108
+msgid "/home/kdedev/search-strigi.pdf"
+msgstr "/home/kdedev/search-strigi.pdf"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: ExpandedItemWidget.ui:115
+msgid "Where"
+msgstr "Unde"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: ExpandedItemWidget.ui:122
+msgid "Modified"
+msgstr "Modificat"
+
+#. i18n: ectx: property (text), widget (QLabel, m_mimeType)
+#: ExpandedItemWidget.ui:129
+msgid "text/plain"
+msgstr "text/simplu"
+
+#. i18n: ectx: property (text), widget (QLabel, label_1)
+#: ExpandedItemWidget.ui:136
+msgid "Size"
+msgstr "Dimensiune"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: ExpandedItemWidget.ui:143
+msgid "Mimetype"
+msgstr "Tip MIME"
+
+#. i18n: ectx: property (text), widget (QLabel, m_modified)
+#: ExpandedItemWidget.ui:150
+msgid "18/1/2007"
+msgstr "18/1/2007"
+
+#. i18n: ectx: property (text), widget (QLabel, m_size)
+#: ExpandedItemWidget.ui:157
+msgid "635442K"
+msgstr "635442K"
+
+#. i18n: ectx: property (text), widget (QLabel, label_1)
+#: FilterBar.ui:65
+msgid "Group by:"
+msgstr "Grupează după:"
+
+#. i18n: ectx: property (text), widget (KUrlLabel, groupKind)
+#. i18n: ectx: property (text), widget (KUrlLabel, sortKind)
+#: FilterBar.ui:78 FilterBar.ui:224
+msgid "Kind"
+msgstr "Gen"
+
+#. i18n: ectx: property (url), widget (KUrlLabel, groupKind)
+#. i18n: ectx: property (url), widget (KUrlLabel, sortKind)
+#: FilterBar.ui:81 FilterBar.ui:227
+msgid "kind"
+msgstr "gen"
+
+#. i18n: ectx: property (text), widget (KUrlLabel, groupDate)
+#. i18n: ectx: property (text), widget (KUrlLabel, sortDate)
+#: FilterBar.ui:103 FilterBar.ui:199
+msgid "Date"
+msgstr "Dată"
+
+#. i18n: ectx: property (url), widget (KUrlLabel, groupDate)
+#. i18n: ectx: property (url), widget (KUrlLabel, sortDate)
+#: FilterBar.ui:106 FilterBar.ui:202
+msgid "date"
+msgstr "dată"
+
+#. i18n: ectx: property (text), widget (KUrlLabel, groupFlat)
+#: FilterBar.ui:128
+msgid "Flat"
+msgstr "Plat"
+
+#. i18n: ectx: property (url), widget (KUrlLabel, groupFlat)
+#: FilterBar.ui:131
+msgid "flat"
+msgstr "plat"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: FilterBar.ui:161
+msgid "Sort withing Group by:"
+msgstr "Sortează în grup după:"
+
+#. i18n: ectx: property (text), widget (KUrlLabel, sortName)
+#: FilterBar.ui:174
+msgid "Name"
+msgstr "Denumire"
+
+#. i18n: ectx: property (url), widget (KUrlLabel, sortName)
+#. i18n: ectx: property (tipText), widget (KUrlLabel, sortName)
+#: FilterBar.ui:177 FilterBar.ui:180
+msgid "name"
+msgstr "denumire"
+
+#: main.cpp:35
+msgid "Search With Strigi"
+msgstr "Caută cu Strigi"
+
+#: main.cpp:37
+msgid "Search With Strigi based on KDE4"
+msgstr "Căutare cu Strigi bazată pe KDE4"
+
+#: main.cpp:39
+msgid "(c) 2007, Daniele Galdi"
+msgstr "(c) 2007, Daniele Galdi"
+
+#: main.cpp:42
+msgid "Daniele Galdi"
+msgstr "Daniele Galdi"
+
+#: main.cpp:42
+msgid "Maintainer"
+msgstr "Responsabil"
+
+#. i18n: ectx: property (text), widget (QLabel, count)
+#: SearchBar.ui:43
+msgid "3188 results"
+msgstr "3188 rezultate"
+
+#: SearchMainWindow.cpp:33 SearchMainWindow.cpp:121
+msgid "Strigi"
+msgstr "Strigi"

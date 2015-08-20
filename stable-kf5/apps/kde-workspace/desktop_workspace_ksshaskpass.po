@@ -1,0 +1,31 @@
+# Sergiu Bivol <sergiu@cip.md>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:30+0000\n"
+"PO-Revision-Date: 2015-04-20 14:43+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: src/org.kde.ksshaskpass.desktop:3
+msgctxt "Name"
+msgid "SSH AskPass"
+msgstr "SSH AskPass"
+
+#: src/org.kde.ksshaskpass.desktop:37
+msgctxt "GenericName"
+msgid "ssh-add"
+msgstr "ssh-add"
+
+#: src/org.kde.ksshaskpass.desktop:71
+msgctxt "Comment"
+msgid "Enter passphrase to authenticate to the ssh agent"
+msgstr "Introduceți parola pentru autentificare cu agentul SSH"

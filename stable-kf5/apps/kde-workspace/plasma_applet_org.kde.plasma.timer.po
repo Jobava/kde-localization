@@ -1,0 +1,151 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2009, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_timer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:19+0000\n"
+"PO-Revision-Date: 2014-10-05 19:32+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: package/contents/config/config.qml:25
+msgid "Appearance"
+msgstr "Aspect"
+
+#: package/contents/config/config.qml:31
+msgid "Advanced"
+msgstr ""
+
+#: package/contents/ui/configAdvanced.qml:31
+#, fuzzy
+#| msgid "Run a command:"
+msgid "Run command"
+msgstr "Execută o comandă:"
+
+#: package/contents/ui/configAdvanced.qml:43
+#, fuzzy
+#| msgid "Run a command:"
+msgid "Execute command"
+msgstr "Execută o comandă:"
+
+#: package/contents/ui/configAdvanced.qml:48
+msgid "Command:"
+msgstr "Comandă:"
+
+#: package/contents/ui/configAppearance.qml:36
+msgid "Display"
+msgstr ""
+
+#: package/contents/ui/configAppearance.qml:47
+#, fuzzy
+#| msgid "Show title:"
+msgid "Show title"
+msgstr "Arată titlul:"
+
+#: package/contents/ui/configAppearance.qml:51
+msgid "Title:"
+msgstr ""
+
+#: package/contents/ui/configAppearance.qml:62
+#, fuzzy
+#| msgid "Hide seconds"
+msgid "Show seconds"
+msgstr "Ascunde secundele"
+
+#: package/contents/ui/configAppearance.qml:69
+msgid "Notifications"
+msgstr ""
+
+#: package/contents/ui/configAppearance.qml:80
+msgid "Show notification"
+msgstr ""
+
+#: package/contents/ui/configAppearance.qml:84
+msgid "Text:"
+msgstr ""
+
+#: package/contents/ui/timer.qml:61 package/contents/ui/timer.qml:230
+msgid "Timer"
+msgstr "Cronometru"
+
+#: package/contents/ui/timer.qml:66
+#, kde-format
+msgid "%1 is running"
+msgstr ""
+
+#: package/contents/ui/timer.qml:68
+#, kde-format
+msgid "%1 not running"
+msgstr ""
+
+#: package/contents/ui/timer.qml:72
+#, kde-format
+msgid "Remaining time left: %1 second"
+msgid_plural "Remaining time left: %1 seconds"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: package/contents/ui/timer.qml:203
+msgid "Timer is running"
+msgstr ""
+
+#: package/contents/ui/timer.qml:203
+msgid ""
+"Use mouse wheel to change digits or choose from predefined timers in the "
+"context menu"
+msgstr ""
+
+#: package/contents/ui/timer.qml:208
+msgid "&Start"
+msgstr "&Pornește"
+
+#: package/contents/ui/timer.qml:209
+msgid "S&top"
+msgstr "Opreș&te"
+
+#: package/contents/ui/timer.qml:210
+msgid "&Reset"
+msgstr "&Reinițializează"
+
+#: package/contents/ui/timer.qml:232
+msgid "Timer finished"
+msgstr ""
+
+#~ msgctxt "separator of hours:minutes:seconds in timer strings"
+#~ msgid ":"
+#~ msgstr ":"
+
+#~ msgid "Timer Configuration"
+#~ msgstr "Configurare cronometru"
+
+#~ msgid "Stop"
+#~ msgstr "Oprește"
+
+#~ msgid "Timer Timeout"
+#~ msgstr "Expirare cronometru"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "Predefined Timers"
+#~ msgstr "Cronometre predefinite"
+
+#~ msgid "Actions on Timeout"
+#~ msgstr "Acțiuni la expirare"
+
+#~ msgid "Show a message:"
+#~ msgstr "Arată un mesaj:"
+
+#~ msgid "Message:"
+#~ msgstr "Mesaj:"

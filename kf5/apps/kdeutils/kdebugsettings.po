@@ -1,0 +1,166 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@cip.md>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-07-30 08:57+0000\n"
+"PO-Revision-Date: 2015-04-26 12:41+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: src/categorytypecombobox.cpp:27
+msgid "All"
+msgstr "Toate"
+
+#: src/categorytypecombobox.cpp:28
+msgid "Debug"
+msgstr "Depanare"
+
+#: src/categorytypecombobox.cpp:29
+msgid "Warning"
+msgstr "Avertizare"
+
+#: src/categorytypecombobox.cpp:30
+msgid "Critical"
+msgstr "Critic"
+
+#: src/categorywarning.cpp:29
+msgid ""
+"You have a rule as '*=true' or '*=false' which will override all your "
+"specific rule. Better to remove it."
+msgstr ""
+
+#: src/configurecustomsettingdialog.cpp:34
+msgid "Add custom rule"
+msgstr "Adaugă regulă personalizată"
+
+#: src/configurecustomsettingdialog.cpp:58
+msgid "Edit custom rule"
+msgstr "Modifică regula personalizată"
+
+#: src/configurecustomsettingwidget.cpp:38
+msgid "Category:"
+msgstr "Categorie:"
+
+#: src/configurecustomsettingwidget.cpp:50
+msgid "Type:"
+msgstr "Tip:"
+
+#: src/configurecustomsettingwidget.cpp:58
+msgid "Enable"
+msgstr "Activează"
+
+#: src/customdebugsettingspage.cpp:42 src/environmentsettingsrulespage.cpp:32
+msgid "Rules:"
+msgstr "Reguli:"
+
+#: src/customdebugsettingspage.cpp:55
+msgid "Add..."
+msgstr "Adaugă..."
+
+#: src/customdebugsettingspage.cpp:60
+msgid "Edit..."
+msgstr "Modifică..."
+
+#: src/customdebugsettingspage.cpp:65
+msgid "Remove..."
+msgstr "Elimină..."
+
+#: src/customdebugsettingspage.cpp:117
+#, kde-format
+msgid "Do you want to remove this rule \"%1\"?"
+msgstr "Doriți să eliminați această regulă „%1”?"
+
+#: src/environmentplaintextedit.cpp:59
+msgid ""
+"No rules have been defined in the environment variable \"QT_LOGGING_RULES\"."
+msgstr ""
+
+#: src/environmentsettingsrulespage.cpp:48
+msgid ""
+"These rules cannot be edited with this application. You need to set them in "
+"QT_LOGGING_RULES variable directly."
+msgstr ""
+
+#: src/kdeapplicationdebugsettingpage.cpp:40
+msgid "Search..."
+msgstr "Caută..."
+
+#: src/kdeapplicationdebugsettingpage.cpp:49
+msgid "Select All"
+msgstr "Selectează tot"
+
+#: src/kdeapplicationdebugsettingpage.cpp:54
+msgid "Deselect All"
+msgstr "Deselectează tot"
+
+#: src/kdebugsettingsdialog.cpp:64
+msgid "KDE Application"
+msgstr "Aplicație KDE"
+
+#: src/kdebugsettingsdialog.cpp:65
+msgid "Custom Rules"
+msgstr "Reguli personalizate"
+
+#: src/kdebugsettingsdialog.cpp:66
+msgid "Rules Settings With Environment Variable"
+msgstr ""
+
+#: src/kdebugsettingsdialog.cpp:71
+msgid "Save As..."
+msgstr "Salvează ca..."
+
+#: src/kdebugsettingsdialog.cpp:76
+msgid "Load..."
+msgstr "Încarcă..."
+
+#: src/kdebugsettingsdialog.cpp:81
+msgid "Insert..."
+msgstr ""
+
+#: src/kdebugsettingsdialog.cpp:195
+#, kde-format
+msgid "'%1' cannot be opened. Please verify it."
+msgstr "„%1” nu poate fi deschis. Verificați-l."
+
+#: src/kdebugsettingsdialog.cpp:248
+msgid "Insert Categories"
+msgstr ""
+
+#: src/kdebugsettingsdialog.cpp:257
+msgid "Save As"
+msgstr "Salvează ca"
+
+#: src/kdebugsettingsdialog.cpp:265
+msgid "Load"
+msgstr "Încarcă"
+
+#: src/main.cpp:40
+msgid "kdebugssettings"
+msgstr "kdebugssettings"
+
+#: src/main.cpp:41
+msgid "Configure debug settings"
+msgstr "Configurează opțiuni de depanare"
+
+#: src/main.cpp:42
+msgid "(c) 2015 kdebugsettings authors"
+msgstr "(c) 2015 Autorii kdebugsettings"
+
+#: src/main.cpp:43
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: src/main.cpp:43
+msgid "Maintainer"
+msgstr "Responsabil"

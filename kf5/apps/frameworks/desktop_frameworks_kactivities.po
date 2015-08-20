@@ -1,0 +1,164 @@
+# Cristian Oneț <onet.cristian@gmail.com>, 2011, 2012, 2013.
+# Sergiu Bivol <sergiu@ase.md>, 2012, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-06-03 09:00+0000\n"
+"PO-Revision-Date: 2014-08-16 14:35+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: src/service/files/kactivitymanagerd.desktop:9
+msgctxt "Name"
+msgid "Activity Manager"
+msgstr "Gestionar de activități"
+
+#: src/service/files/kactivitymanagerd.desktop:63
+msgctxt "Comment"
+msgid "The activity management backend"
+msgstr "Suport pentru administrare activități"
+
+#: src/service/files/kactivitymanagerd-plugin.desktop:5
+msgctxt "Comment"
+msgid "Activity manager plugin"
+msgstr "Extensie pentru gestionarul de activități"
+
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:2
+msgctxt "Name"
+msgid "Activity Templates"
+msgstr "Șabloane de activități"
+
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:45
+msgctxt "Comment"
+msgid "Support for creating templated activities"
+msgstr "Suport pentru crearea activităților cu șablon"
+
+#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.desktop:2
+msgctxt "Name"
+msgid "Event Spy"
+msgstr ""
+
+#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.desktop:33
+msgctxt "Comment"
+msgid ""
+"Collects events from applications that support recent documents specification"
+msgstr ""
+
+#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:2
+msgctxt "Name"
+msgid "Global Shortcuts"
+msgstr "Acceleratori globali"
+
+#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:53
+msgctxt "Comment"
+msgid "Adds global keyboard shortcuts for activity switching"
+msgstr ""
+"Adaugă acceleratori de tastatură globali pentru comutarea activităților"
+
+#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.desktop:2
+msgctxt "Name"
+msgid "Share-Like-Connect"
+msgstr "Partajează-Place-Conectează"
+
+#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.desktop:51
+msgctxt "Comment"
+msgid "Provides data to Share-Like-Connect applet"
+msgstr "Furnizează date pentru miniaplicația Partajează-Place-Conectează"
+
+#: src/service/plugins/sqlite/kactivitymanagerd-plugin-sqlite.desktop:2
+msgctxt "Name"
+msgid "Sqlite Feeder"
+msgstr "Alimentare Sqlite"
+
+#: src/service/plugins/sqlite/kactivitymanagerd-plugin-sqlite.desktop:52
+msgctxt "Comment"
+msgid "Plugin to store and score events in Sqlite"
+msgstr "Extensie pentru stocarea și notarea evenimentelor în Sqlite"
+
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.desktop:2
+msgctxt "Name"
+msgid "Virtual desktop switcher"
+msgstr "Comutator virtual de birouri"
+
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.desktop:53
+msgctxt "Comment"
+msgid ""
+"When switching to an activity, opens the virtual desktop last used with that "
+"activity"
+msgstr ""
+"La cumutarea către o activitate, deschide ultimul birou virtual folosit cu "
+"acea activitate"
+
+#: src/workspace/fileitemplugin/kactivitymanagerd_fileitem_linking_plugin.desktop:4
+msgctxt "Name"
+msgid "File to activity linking plugin"
+msgstr "Extensie pentru legarea fișierelor la activități"
+
+#: src/workspace/settings/kcm_activities.desktop:13
+msgctxt "Name"
+msgid "Activities"
+msgstr "Activități"
+
+#: src/workspace/settings/kcm_activities.desktop:64
+msgctxt "Comment"
+msgid "Configure the activities system"
+msgstr "Configurează sistemul de activități"
+
+#: tests/imports/org.kde.listactivitiestest/metadata.desktop:3
+msgctxt "Name"
+msgid "Activities testing"
+msgstr "Testare activități"
+
+#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the activities system"
+msgctxt "Name"
+msgid "List activities test"
+msgstr "Configurează sistemul de activități"
+
+#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:44
+msgctxt "Comment"
+msgid "Strange, but not a Clock"
+msgstr "Straniu, dar nu e ceas"
+
+#~ msgctxt "Name"
+#~ msgid "Activity ranking"
+#~ msgstr "Evaluarea activităților"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to rank activities based on usage"
+#~ msgstr ""
+#~ "Extensie pentru evaluarea activităților în funcție de utilizarea acestora"
+
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Feeder"
+#~ msgstr "Alimentare Nepomuk"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to synchronize data with Nepomuk"
+#~ msgstr "Modul pentru sincronizarea datelor cu Nepomuk"
+
+#~ msgctxt "Name"
+#~ msgid "Activity manager UI handler"
+#~ msgstr "Manipulant grafic pentru gestionarul de activități"
+
+#~ msgctxt "Name"
+#~ msgid "Dummy plugin"
+#~ msgstr "Modul fictiv"
+
+#~ msgctxt "Comment"
+#~ msgid "Just testing"
+#~ msgstr "Doar pentru testare"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to provide data to the SLC system"
+#~ msgstr "Modul pentru a furniza date sistemului SLC"

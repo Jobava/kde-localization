@@ -1,0 +1,1572 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: kaffeine\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-17 02:02+0000\n"
+"PO-Revision-Date: 2012-12-22 11:56+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Marius Petrescu,Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "silvatica2975@gmail.com,sergiu@ase.md"
+
+#: backend-mplayer/mplayermediawidget.cpp:259
+msgid "Cannot start mplayer process."
+msgstr ""
+
+#: configurationdialog.cpp:37
+#, fuzzy
+#| msgctxt "dialog"
+#| msgid "Configure Kaffeine"
+msgctxt "@title:window"
+msgid "Configure Kaffeine"
+msgstr "Configurează Kaffeine"
+
+#: configurationdialog.cpp:44
+msgctxt "@item:inlistbox 'Startup display mode:'"
+msgid "Normal Mode"
+msgstr ""
+
+#: configurationdialog.cpp:46
+msgctxt "@item:inlistbox 'Startup display mode:'"
+msgid "Minimal Mode"
+msgstr ""
+
+#: configurationdialog.cpp:48
+#, fuzzy
+#| msgid "Full Screen Mode"
+msgctxt "@item:inlistbox 'Startup display mode:'"
+msgid "Full Screen Mode"
+msgstr "Mod pe tot ecranul"
+
+#: configurationdialog.cpp:50
+msgctxt "@item:inlistbox 'Startup display mode:'"
+msgid "Remember Last Setting"
+msgstr ""
+
+#: configurationdialog.cpp:54
+msgctxt "@label:listbox"
+msgid "Startup display mode:"
+msgstr ""
+
+#: configurationdialog.cpp:63
+#, fuzzy
+#| msgctxt "'Configure Kaffeine' dialog"
+#| msgid "Short skip duration:"
+msgctxt "@label:spinbox"
+msgid "Short skip duration:"
+msgstr "Durată pășire scurtă:"
+
+#: configurationdialog.cpp:72
+#, fuzzy
+#| msgctxt "'Configure Kaffeine' dialog"
+#| msgid "Long skip duration:"
+msgctxt "@label:spinbox"
+msgid "Long skip duration:"
+msgstr "Durată pășire lungă:"
+
+#: configurationdialog.cpp:77
+#, fuzzy
+#| msgid "General Options"
+msgctxt "@title:group"
+msgid "General"
+msgstr "Opțiuni generale"
+
+#: configurationdialog.cpp:84
+msgctxt "@label:textbox"
+msgid "Log messages:"
+msgstr ""
+
+#: configurationdialog.cpp:87
+msgctxt "@action:button"
+msgid "Show dmesg"
+msgstr ""
+
+#: configurationdialog.cpp:98
+msgctxt "@title:group"
+msgid "Diagnostics"
+msgstr ""
+
+#: configurationdialog.cpp:127
+msgctxt "@title:window"
+msgid "dmesg"
+msgstr ""
+
+#: dvb/dvbchanneldialog.cpp:106 dvb/dvbepgdialog.cpp:255
+#: dvb/dvbepgdialog.cpp:364 dvb/dvbrecordingdialog.cpp:242
+#: dvb/dvbscandialog.cpp:207
+#, fuzzy
+#| msgid "Channel"
+msgctxt "@title:column tv show"
+msgid "Channel"
+msgstr "Canal"
+
+#: dvb/dvbchanneldialog.cpp:108
+#, fuzzy
+#| msgid "Number"
+msgctxt "@title:column tv channel"
+msgid "Number"
+msgstr "Număr"
+
+#: dvb/dvbchanneldialog.cpp:290 dvb/dvbrecordingdialog.cpp:64
+#, fuzzy
+#| msgid "Edit"
+msgctxt "@action"
+msgid "Edit"
+msgstr "Editează"
+
+#: dvb/dvbchanneldialog.cpp:298 dvb/dvbconfigdialog.cpp:543
+#: dvb/dvbrecordingdialog.cpp:71 playlist/playlisttab.cpp:411
+#: playlist/playlisttab.cpp:431
+#, fuzzy
+#| msgid "Remove"
+msgctxt "@action"
+msgid "Remove"
+msgstr "Elimină"
+
+#: dvb/dvbchanneldialog.cpp:315
+msgctxt "@info"
+msgid ""
+"The channels will be sorted by number to allow drag and drop.\n"
+"Do you want to continue?"
+msgstr ""
+
+#: dvb/dvbchanneldialog.cpp:406
+msgid "Horizontal"
+msgstr "Orizontal"
+
+#: dvb/dvbchanneldialog.cpp:407
+msgid "Vertical"
+msgstr "Vertical"
+
+#: dvb/dvbchanneldialog.cpp:408
+msgid "Circular left"
+msgstr "Circular stînga"
+
+#: dvb/dvbchanneldialog.cpp:409
+msgid "Circular right"
+msgstr "Circular dreapta"
+
+#: dvb/dvbchanneldialog.cpp:534
+#, fuzzy
+#| msgid "Edit channel"
+msgctxt "@title:window"
+msgid "Edit Channel"
+msgstr "Editare canale"
+
+#: dvb/dvbchanneldialog.cpp:544
+#, fuzzy
+#| msgid "Name:"
+msgctxt "@label tv channel"
+msgid "Name:"
+msgstr "Nume:"
+
+#: dvb/dvbchanneldialog.cpp:553
+#, fuzzy
+#| msgid "Number:"
+msgctxt "@label tv channel"
+msgid "Number:"
+msgstr "Număr:"
+
+#: dvb/dvbchanneldialog.cpp:562
+#, fuzzy
+#| msgid "Source:"
+msgctxt "@label tv channel"
+msgid "Source:"
+msgstr "Sursă:"
+
+#: dvb/dvbchanneldialog.cpp:570 dvb/dvbchanneldialog.cpp:592
+#: dvb/dvbchanneldialog.cpp:610 dvb/dvbchanneldialog.cpp:631
+msgid "Frequency (MHz):"
+msgstr "Frecvență (MHz):"
+
+#: dvb/dvbchanneldialog.cpp:573 dvb/dvbchanneldialog.cpp:594
+msgid "Symbol rate (kS/s):"
+msgstr "Rata de simboluri (kS/s):"
+
+#: dvb/dvbchanneldialog.cpp:575 dvb/dvbchanneldialog.cpp:600
+#: dvb/dvbchanneldialog.cpp:615 dvb/dvbchanneldialog.cpp:634
+msgid "Modulation:"
+msgstr "Modulare:"
+
+#: dvb/dvbchanneldialog.cpp:577 dvb/dvbchanneldialog.cpp:596
+#: dvb/dvbchanneldialog.cpp:617
+msgid "FEC rate:"
+msgstr "Rata FEC:"
+
+#: dvb/dvbchanneldialog.cpp:590
+msgid "Polarization:"
+msgstr "Polarizare:"
+
+#: dvb/dvbchanneldialog.cpp:602
+msgid "Roll-off:"
+msgstr ""
+
+#: dvb/dvbchanneldialog.cpp:613
+msgid "Bandwidth:"
+msgstr "Lățime de bandă:"
+
+#: dvb/dvbchanneldialog.cpp:619
+msgid "FEC rate LP:"
+msgstr ""
+
+#: dvb/dvbchanneldialog.cpp:621
+msgid "Transmission mode:"
+msgstr "Regim de transmisie:"
+
+#: dvb/dvbchanneldialog.cpp:623
+msgid "Guard interval:"
+msgstr ""
+
+#: dvb/dvbchanneldialog.cpp:625
+msgid "Hierarchy:"
+msgstr "Ierarhie:"
+
+#: dvb/dvbchanneldialog.cpp:642
+msgid "PMT PID:"
+msgstr ""
+
+#: dvb/dvbchanneldialog.cpp:650
+#, fuzzy
+#| msgid "Play Video CD"
+msgid "Video PID:"
+msgstr "Redare Video CD"
+
+#: dvb/dvbchanneldialog.cpp:655
+#, fuzzy
+#| msgid "Play Video CD"
+msgid "Subtitle PID:"
+msgstr "Redare Video CD"
+
+#: dvb/dvbchanneldialog.cpp:665
+msgid "Teletext PID:"
+msgstr ""
+
+#: dvb/dvbchanneldialog.cpp:676
+msgid "Network ID:"
+msgstr "Id. rețea:"
+
+#: dvb/dvbchanneldialog.cpp:683
+msgid "Transport stream ID:"
+msgstr ""
+
+#: dvb/dvbchanneldialog.cpp:690
+msgid "Service ID:"
+msgstr "Id. serviciu:"
+
+#: dvb/dvbchanneldialog.cpp:697
+msgid "Audio channel:"
+msgstr "Canal audio:"
+
+#: dvb/dvbchanneldialog.cpp:721
+msgid "Scrambled:"
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:50
+#, fuzzy
+#| msgid "Configure Television"
+msgctxt "@title:window"
+msgid "Configure Television"
+msgstr "Configurează televiziunea"
+
+#: dvb/dvbconfigdialog.cpp:59
+msgid "Recording folder:"
+msgstr "Dosar înregistrare:"
+
+#: dvb/dvbconfigdialog.cpp:67 dvb/dvbconfigdialog.cpp:79
+msgid "Select Folder"
+msgstr "Alege dosarul"
+
+#: dvb/dvbconfigdialog.cpp:71
+msgid "Time shift folder:"
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:85
+msgid "Begin margin (minutes):"
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:92
+msgid "End margin (minutes):"
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:100
+msgid "Naming style for recordings:"
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:104
+msgid ""
+"The following substitutions work: \"%year\" for year (YYYY) and the "
+"following: %month, %day, %hour, %min, %sec, %channel and %title"
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:117
+msgid "Regex for automatic recording:"
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:121
+msgid "Automatically schedules recordings for matching titles."
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:124
+msgid "Action after recording finishes."
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:128
+msgid "Leave empty for no command."
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:134
+msgid "Use ISO 8859-1 charset instead of ISO 6937:"
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:141
+msgid "Create info files to accompany EPG recordings."
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:153 dvb/dvbscandialog.cpp:280
+#, kde-format
+msgid "Scan data last updated on %1"
+msgstr "Date de scanare actualizate la %1"
+
+#: dvb/dvbconfigdialog.cpp:156
+msgid "Update scan data over Internet"
+msgstr "Actualizează date scanare prin Internet"
+
+#: dvb/dvbconfigdialog.cpp:160
+#, fuzzy
+#| msgid "Edit channel"
+msgid "Edit scanfile"
+msgstr "Editare canale"
+
+#: dvb/dvbconfigdialog.cpp:163
+msgid "You can add channels manually to this file before scanning for them."
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:169
+msgid "Your position (only needed for USALS rotor)"
+msgstr "Poziția mea (necesară numai pentru rotor USALS)"
+
+#: dvb/dvbconfigdialog.cpp:172
+msgid "Latitude:"
+msgstr "Latitudine:"
+
+#: dvb/dvbconfigdialog.cpp:173
+msgid "[S -90 ... 90 N]"
+msgstr "[S -90 ... 90 N]"
+
+#: dvb/dvbconfigdialog.cpp:187
+msgid "Longitude:"
+msgstr "Longitudine:"
+
+#: dvb/dvbconfigdialog.cpp:188
+msgid "[W -180 ... 180 E]"
+msgstr "[V -180 ... 180 E]"
+
+#: dvb/dvbconfigdialog.cpp:205
+msgid "General Options"
+msgstr "Opțiuni generale"
+
+#: dvb/dvbconfigdialog.cpp:217 dvb/dvbconfigdialog.cpp:332
+#: dvb/dvbconfigdialog.cpp:333 dvb/dvbconfigdialog.cpp:359
+#: dvb/dvbconfigdialog.cpp:360 dvb/dvbconfigdialog.cpp:384
+#, kde-format
+msgid "Device %1"
+msgstr "Dispozitiv %1"
+
+#: dvb/dvbconfigdialog.cpp:459
+#, fuzzy
+#| msgid "Update scan data over Internet"
+msgid "Update Scan Data"
+msgstr "Actualizează date scanare prin Internet"
+
+#: dvb/dvbconfigdialog.cpp:466
+msgid "Downloading scan data"
+msgstr "Se descarcă datele de scanare"
+
+#: dvb/dvbconfigdialog.cpp:509 dvb/dvbconfigdialog.cpp:521
+#, fuzzy
+#| msgid "Scan file last updated<br>on %1"
+msgid "Scan data update failed."
+msgstr "Scanează ultimul fișier actualizat<br>în %1"
+
+#: dvb/dvbconfigdialog.cpp:518
+msgid ""
+"Scan data successfully updated. Changes take\n"
+"effect after you have closed the configuration dialog."
+msgstr ""
+
+#: dvb/dvbconfigdialog.cpp:530
+#, kde-format
+msgid "Name: %1"
+msgstr "Nume: %1"
+
+#: dvb/dvbconfigdialog.cpp:533
+msgid "Move Left"
+msgstr "Mută la stînga"
+
+#: dvb/dvbconfigdialog.cpp:538
+msgid "Reset"
+msgstr "Reinițializează"
+
+#: dvb/dvbconfigdialog.cpp:548
+msgid "Move Right"
+msgstr "Mută la dreapta"
+
+#: dvb/dvbconfigdialog.cpp:554
+msgid "Device not connected."
+msgstr "Dispozitiv neconectat."
+
+#: dvb/dvbconfigdialog.cpp:586
+msgid "DVB-C"
+msgstr "DVB-C"
+
+#: dvb/dvbconfigdialog.cpp:602
+msgid "DVB-S2"
+msgstr "DVB-S2"
+
+#: dvb/dvbconfigdialog.cpp:604
+msgid "DVB-S"
+msgstr "DVB-S"
+
+#: dvb/dvbconfigdialog.cpp:611
+msgid "DVB-T"
+msgstr "DVB-T"
+
+#: dvb/dvbconfigdialog.cpp:624
+msgid "ATSC"
+msgstr "ATSC"
+
+#: dvb/dvbconfigdialog.cpp:707
+msgid "Cable"
+msgstr "Cablu"
+
+#: dvb/dvbconfigdialog.cpp:715
+msgid "Terrestrial"
+msgstr "Terestru"
+
+#: dvb/dvbconfigdialog.cpp:723
+msgid "Autoscan"
+msgstr "Scanare automată"
+
+#: dvb/dvbconfigdialog.cpp:724
+msgid "Autoscan with 167 kHz Offsets"
+msgstr "Scanare automată cu decalaje de 167KHz"
+
+#: dvb/dvbconfigdialog.cpp:725
+msgid "Autoscan Australia"
+msgstr "Scanare automată Australia"
+
+#: dvb/dvbconfigdialog.cpp:726
+msgid "Autoscan Italy"
+msgstr "Scanare automată Italia"
+
+#: dvb/dvbconfigdialog.cpp:727
+msgid "Autoscan Taiwan"
+msgstr "Scanare automată Taiwan"
+
+#: dvb/dvbconfigdialog.cpp:730
+msgid "Atsc"
+msgstr "Atsc"
+
+#: dvb/dvbconfigdialog.cpp:739 dvb/dvbconfigdialog.cpp:848
+msgid "Tuner timeout (ms):"
+msgstr "Temporizare reglaj (ms):"
+
+#: dvb/dvbconfigdialog.cpp:748 dvb/dvbscandialog.cpp:270
+msgid "Source:"
+msgstr "Sursă:"
+
+#: dvb/dvbconfigdialog.cpp:751 dvb/dvbconfigdialog.cpp:884
+msgid "No Source"
+msgstr "Fără sursă"
+
+#: dvb/dvbconfigdialog.cpp:757
+msgid "Name:"
+msgstr "Nume:"
+
+#: dvb/dvbconfigdialog.cpp:856
+msgid "Configuration:"
+msgstr "Configurare:"
+
+#: dvb/dvbconfigdialog.cpp:859
+msgid "DiSEqC Switch"
+msgstr "Comutator DiSEqC"
+
+#: dvb/dvbconfigdialog.cpp:860
+msgid "USALS Rotor"
+msgstr "Rotor USALS"
+
+#: dvb/dvbconfigdialog.cpp:861
+msgid "Positions Rotor"
+msgstr "Rotor de poziție"
+
+#: dvb/dvbconfigdialog.cpp:878
+#, kde-format
+msgid "LNB %1 Settings"
+msgstr "Configurări LNB %1"
+
+#: dvb/dvbconfigdialog.cpp:897 dvb/dvbconfigdialog.cpp:1144
+msgid "LNB Settings"
+msgstr "Configurări LNB"
+
+#: dvb/dvbconfigdialog.cpp:912 dvb/dvbconfigdialog.cpp:924
+msgid "Add Satellite"
+msgstr "Adaugă satelit"
+
+#: dvb/dvbconfigdialog.cpp:932
+msgid "Satellite"
+msgstr "Satelit"
+
+#: dvb/dvbconfigdialog.cpp:932
+msgid "Position"
+msgstr "Poziție"
+
+#: dvb/dvbconfigdialog.cpp:949
+msgid "Remove Satellite"
+msgstr "Elimină satelit"
+
+#: dvb/dvbconfigdialog.cpp:1153
+msgid "Universal LNB"
+msgstr "LNB Universal"
+
+#: dvb/dvbconfigdialog.cpp:1157
+msgid "C-band LNB"
+msgstr "C-band LNB"
+
+#: dvb/dvbconfigdialog.cpp:1161
+msgid "C-band Multipoint LNB"
+msgstr "C-band Multipoint LNB"
+
+#: dvb/dvbconfigdialog.cpp:1165
+msgid "Custom LNB"
+msgstr "LNB personalizat"
+
+#: dvb/dvbconfigdialog.cpp:1176
+msgid "Switch frequency (MHz)"
+msgstr "Comută frecvența (MHz)"
+
+#: dvb/dvbconfigdialog.cpp:1249
+msgid "Low band LOF (MHz)"
+msgstr "Low band LOF (MHz)"
+
+#: dvb/dvbconfigdialog.cpp:1254
+msgid "High band LOF (MHz)"
+msgstr "High band LOF (MHz)"
+
+#: dvb/dvbconfigdialog.cpp:1260
+msgid "Horizontal LOF (MHz)"
+msgstr "LOF orizontal (MHz)"
+
+#: dvb/dvbconfigdialog.cpp:1265
+msgid "Vertical LOF (MHz)"
+msgstr "LOF vertical (MHz)"
+
+#: dvb/dvbconfigdialog.cpp:1271
+msgid "LOF (MHz)"
+msgstr "LOF (MHz)"
+
+#: dvb/dvbepgdialog.cpp:40
+#, fuzzy
+#| msgid "Program Guide"
+msgctxt "@title:window"
+msgid "Program Guide"
+msgstr "Ghid de programe"
+
+#: dvb/dvbepgdialog.cpp:60
+#, fuzzy
+#| msgctxt "dialog"
+#| msgid "Recording Schedule"
+msgctxt "@action:inmenu tv show"
+msgid "Record Show"
+msgstr "Program de înregistrare"
+
+#: dvb/dvbepgdialog.cpp:68
+#, fuzzy
+#| msgid "Search:"
+msgctxt "@label:textbox"
+msgid "Search:"
+msgstr "Caută:"
+
+#: dvb/dvbepgdialog.cpp:137
+#, fuzzy, kde-format
+#| msgid "<font color=#008000 size=\"+1\">%1</font><br>"
+msgctxt "@info tv show title"
+msgid "<font color=#008000 size=\"+1\">%1</font><br>"
+msgstr "<font color=#008000 size=\"+1\">%1</font><br>"
+
+#: dvb/dvbepgdialog.cpp:140
+#, fuzzy, kde-format
+#| msgid "<font color=#808000>%1</font><br>"
+msgctxt "@info tv show subheading"
+msgid "<font color=#808000>%1</font><br>"
+msgstr "<font color=#808000>%1</font><br>"
+
+#: dvb/dvbepgdialog.cpp:146
+#, fuzzy, kde-format
+#| msgid "<font color=#800000>%1 - %2</font><br><br>"
+msgctxt "@info tv show start, end"
+msgid "<font color=#800000>%1 - %2</font><br><br>"
+msgstr "<font color=#800000>%1 - %2</font><br><br>"
+
+#: dvb/dvbepgdialog.cpp:358 dvb/dvbrecordingdialog.cpp:244
+#, fuzzy
+#| msgid "Start"
+msgctxt "@title:column tv show"
+msgid "Start"
+msgstr "Start"
+
+#: dvb/dvbepgdialog.cpp:360 dvb/dvbrecordingdialog.cpp:246
+#, fuzzy
+#| msgid "Duration"
+msgctxt "@title:column tv show"
+msgid "Duration"
+msgstr "Durată"
+
+#: dvb/dvbepgdialog.cpp:362
+#, fuzzy
+#| msgid "Title"
+msgctxt "@title:column tv show"
+msgid "Title"
+msgstr "Titlu"
+
+#: dvb/dvbliveview.cpp:211
+msgctxt "@info"
+msgid "All devices are used for recordings."
+msgstr ""
+
+#: dvb/dvbliveview.cpp:214
+#, fuzzy
+#| msgctxt "message box"
+#| msgid "No available device found."
+msgctxt "@info"
+msgid "No device found."
+msgstr "Nici un dispozitiv disponibil găsit."
+
+#: dvb/dvbliveview.cpp:365 dvb/dvbscandialog.cpp:429
+msgctxt "message box"
+msgid "No available device found."
+msgstr "Nici un dispozitiv disponibil găsit."
+
+#: dvb/dvbrecordingdialog.cpp:42
+#, fuzzy
+#| msgctxt "dialog"
+#| msgid "Recording Schedule"
+msgctxt "@title:window"
+msgid "Recording Schedule"
+msgstr "Program de înregistrare"
+
+#: dvb/dvbrecordingdialog.cpp:57 playlist/playlisttab.cpp:421
+#, fuzzy
+#| msgctxt "add a new item to a list"
+#| msgid "New"
+msgctxt "@action"
+msgid "New"
+msgstr "Nou"
+
+#: dvb/dvbrecordingdialog.cpp:240
+#, fuzzy
+#| msgid "Name"
+msgctxt "@title:column recording"
+msgid "Name"
+msgstr "Denumire"
+
+#: dvb/dvbrecordingdialog.cpp:363
+#, fuzzy
+#| msgctxt "subdialog of 'Recording Schedule'"
+#| msgid "Edit Schedule Entry"
+msgctxt "@title:window recording"
+msgid "Edit Schedule Entry"
+msgstr "Redactează înregistrarea planificată"
+
+#: dvb/dvbrecordingdialog.cpp:371
+#, fuzzy
+#| msgid "Name:"
+msgctxt "@label recording"
+msgid "Name:"
+msgstr "Nume:"
+
+#: dvb/dvbrecordingdialog.cpp:384
+#, fuzzy
+#| msgid "Channel:"
+msgctxt "@label tv show"
+msgid "Channel:"
+msgstr "Canal:"
+
+#: dvb/dvbrecordingdialog.cpp:394
+#, fuzzy
+#| msgid "Start"
+msgctxt "@label tv show"
+msgid "Start:"
+msgstr "Start"
+
+#: dvb/dvbrecordingdialog.cpp:402
+#, fuzzy
+#| msgid "Duration:"
+msgctxt "@label tv show"
+msgid "Duration:"
+msgstr "Durată:"
+
+#: dvb/dvbrecordingdialog.cpp:411
+#, fuzzy
+#| msgid "End:"
+msgctxt "@label tv show"
+msgid "End:"
+msgstr "Sfîrșit:"
+
+#: dvb/dvbrecordingdialog.cpp:415
+#, fuzzy
+#| msgid "Repeat:"
+msgctxt "@label recording"
+msgid "Repeat:"
+msgstr "Repetare:"
+
+#: dvb/dvbrecordingdialog.cpp:419
+#, fuzzy
+#| msgctxt "button next to the 'Repeat:' label"
+#| msgid "Never"
+msgctxt "@action next to 'Repeat:'"
+msgid "Never"
+msgstr "Niciodată"
+
+#: dvb/dvbrecordingdialog.cpp:423
+#, fuzzy
+#| msgctxt "button next to the 'Repeat:' label"
+#| msgid "Daily"
+msgctxt "@action next to 'Repeat:'"
+msgid "Daily"
+msgstr "Zilnic"
+
+#: dvb/dvbscandialog.cpp:46
+msgid "0%"
+msgstr "0%"
+
+#: dvb/dvbscandialog.cpp:62
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: dvb/dvbscandialog.cpp:209
+msgid "Provider"
+msgstr "Furnizor"
+
+#: dvb/dvbscandialog.cpp:211
+msgid "SNR"
+msgstr "SNR"
+
+#: dvb/dvbscandialog.cpp:220 dvb/dvbscandialog.cpp:225 dvb/dvbtab.cpp:86
+msgid "Channels"
+msgstr "Canale"
+
+#: dvb/dvbscandialog.cpp:257 playlist/playlisttab.cpp:415
+msgctxt "remove all items from a list"
+msgid "Clear"
+msgstr "Curăță"
+
+#: dvb/dvbscandialog.cpp:267
+msgid "Channel Scan"
+msgstr "Scanare canale"
+
+#: dvb/dvbscandialog.cpp:275 dvb/dvbscandialog.cpp:388
+msgid "Start Scan"
+msgstr "Pornește scanare"
+
+#: dvb/dvbscandialog.cpp:287
+msgid "Signal:"
+msgstr "Semnal:"
+
+#: dvb/dvbscandialog.cpp:292
+msgid "SNR:"
+msgstr "SNR:"
+
+#: dvb/dvbscandialog.cpp:297
+msgid "Tuned:"
+msgstr "Reglat:"
+
+#: dvb/dvbscandialog.cpp:310
+msgid "Filter"
+msgstr "Filtru"
+
+#: dvb/dvbscandialog.cpp:313
+msgid "Free to air"
+msgstr "Liber în aer"
+
+#: dvb/dvbscandialog.cpp:316
+msgid "Radio"
+msgstr "Radio"
+
+#: dvb/dvbscandialog.cpp:319
+msgid "TV"
+msgstr "TV"
+
+#: dvb/dvbscandialog.cpp:322
+msgid "Provider:"
+msgstr "Furnizor:"
+
+#: dvb/dvbscandialog.cpp:330
+msgid "Add Filtered"
+msgstr "Adaugă filtrate"
+
+#: dvb/dvbscandialog.cpp:334
+msgid "Add Selected"
+msgstr "Adaugă alese"
+
+#: dvb/dvbscandialog.cpp:340
+msgid "Scan Results"
+msgstr "Rezultate scanare"
+
+#: dvb/dvbscandialog.cpp:356
+msgid "Current Transponder"
+msgstr "Transpondor curent"
+
+#: dvb/dvbscandialog.cpp:434
+msgid "Stop Scan"
+msgstr "Oprește scanarea"
+
+#: dvb/dvbtab.cpp:91
+msgid "Program Guide"
+msgstr "Ghid de programe"
+
+#: dvb/dvbtab.cpp:96
+msgid "OSD"
+msgstr "OSD"
+
+#: dvb/dvbtab.cpp:102
+msgctxt "dialog"
+msgid "Recording Schedule"
+msgstr "Program de înregistrare"
+
+#: dvb/dvbtab.cpp:109
+msgid "Instant Record"
+msgstr "Înregistrare instantanee"
+
+#: dvb/dvbtab.cpp:117
+#, fuzzy
+#| msgid "Configure Television"
+msgctxt "@action:inmenu"
+msgid "Configure Television..."
+msgstr "Configurează televiziunea"
+
+#: dvb/dvbtab.cpp:137
+msgid "Search:"
+msgstr "Caută:"
+
+#: dvb/dvbtab.cpp:278
+#, kde-format
+msgctxt "osd"
+msgid "Channel: %1_"
+msgstr "Canal: %1_"
+
+#: dvb/dvbtab.cpp:290
+msgctxt "message box"
+msgid ""
+"Kaffeine is currently recording programs.\n"
+"Do you really want to close the application?"
+msgstr ""
+
+#: dvb/dvbtab.cpp:300
+msgctxt "message box"
+msgid ""
+"Kaffeine has scheduled recordings.\n"
+"Do you really want to close the application?"
+msgstr ""
+
+#: dvb/dvbtab.cpp:366
+msgctxt "osd"
+msgid "Instant Record Started"
+msgstr "Înregistrare instantanee pornită"
+
+#: dvb/dvbtab.cpp:370 dvb/dvbtab.cpp:380
+msgctxt "osd"
+msgid "Instant Record Stopped"
+msgstr "Înregistrare instantanee oprită"
+
+#: main.cpp:66 mainwindow.cpp:305
+msgid "Kaffeine"
+msgstr "Kaffeine"
+
+#: main.cpp:67
+msgid "A media player for KDE with digital TV support."
+msgstr ""
+"Program KDE pentru redare multimedia cu suport pentru televiziune digitală."
+
+#: main.cpp:68
+#, fuzzy
+#| msgid "(C) 2007-2009 The Kaffeine Authors"
+msgid "(C) 2007-2011 The Kaffeine Authors"
+msgstr "(C) 2007-2009 Autorii Kaffeine"
+
+#: main.cpp:71
+msgid "Christoph Pfister"
+msgstr "Christoph Pfister"
+
+#: main.cpp:71
+msgid "Maintainer"
+msgstr "Responsabil"
+
+#: mainwindow.cpp:85
+msgid "&1 Play File"
+msgstr "&1 Redare fișier"
+
+#: mainwindow.cpp:90
+msgid "&2 Play Audio CD"
+msgstr "&2 Redare CD audio"
+
+#: mainwindow.cpp:95
+msgid "&3 Play Video CD"
+msgstr "&3 Redare CD Video"
+
+#: mainwindow.cpp:100
+msgid "&4 Play DVD"
+msgstr "&4 Redare DVD"
+
+#: mainwindow.cpp:106
+msgid "&5 Digital TV"
+msgstr "&5 TV Digital"
+
+#: mainwindow.cpp:155
+msgid "&File"
+msgstr "&Fișier"
+
+#: mainwindow.cpp:162
+#, fuzzy
+#| msgid "Open URL"
+msgctxt "@action:inmenu"
+msgid "Open URL..."
+msgstr "Deschide URL"
+
+#: mainwindow.cpp:173 mainwindow.cpp:382
+msgid "Play Audio CD"
+msgstr "Redare  Audio CD"
+
+#: mainwindow.cpp:177 mainwindow.cpp:383
+msgid "Play Video CD"
+msgstr "Redare Video CD"
+
+#: mainwindow.cpp:181 mainwindow.cpp:384
+msgid "Play DVD"
+msgstr "Redare DVD"
+
+#: mainwindow.cpp:185
+#, fuzzy
+#| msgid "Play DVD"
+msgctxt "@action:inmenu"
+msgid "Play DVD Folder"
+msgstr "Redare DVD"
+
+#: mainwindow.cpp:195
+msgid "&Playback"
+msgstr "&Redare"
+
+#: mainwindow.cpp:198
+msgctxt "menu bar"
+msgid "Play&list"
+msgstr "&Listă de redare"
+
+#: mainwindow.cpp:202
+msgid "&Television"
+msgstr "&Televiziune"
+
+#: mainwindow.cpp:206
+msgid "&Settings"
+msgstr "&Configurări"
+
+#: mainwindow.cpp:225
+msgid "Start"
+msgstr "Start"
+
+#: mainwindow.cpp:226
+msgid "Playback"
+msgstr "Redare"
+
+#: mainwindow.cpp:227
+msgid "Playlist"
+msgstr "Listă de redare"
+
+#: mainwindow.cpp:229
+msgid "Television"
+msgstr "Televiziune"
+
+#: mainwindow.cpp:381
+msgid "Start in full screen mode"
+msgstr "Pornește în regimul de ecran complet"
+
+#: mainwindow.cpp:385
+msgctxt "command line option"
+msgid "(deprecated option)"
+msgstr "(opțiune învechită)"
+
+#: mainwindow.cpp:386
+msgctxt "command line option"
+msgid "Play TV channel"
+msgstr "Redă canal TV"
+
+#: mainwindow.cpp:387
+msgctxt "command line option"
+msgid "Play last tuned TV channel"
+msgstr "Redă ultimul canal reglat"
+
+#: mainwindow.cpp:388
+msgctxt "command line option"
+msgid "Dump dvb data (debug option)"
+msgstr ""
+
+#: mainwindow.cpp:389
+msgid "Files or URLs to play"
+msgstr "Fișiere sau URL-uri de redat"
+
+#: mainwindow.cpp:548
+#, fuzzy
+#| msgid "Open URL"
+msgctxt "@title:window"
+msgid "Open URL"
+msgstr "Deschide URL"
+
+#: mainwindow.cpp:548
+msgid "Enter a URL:"
+msgstr "Introduceți un URL:"
+
+#: mediawidget.cpp:76
+msgid "Previous"
+msgstr "Anterior"
+
+#: mediawidget.cpp:84
+msgid "Play"
+msgstr "Redare"
+
+#: mediawidget.cpp:85
+msgid "Pause"
+msgstr "Pauză"
+
+#: mediawidget.cpp:92
+msgid "Stop"
+msgstr "Stop"
+
+#: mediawidget.cpp:98
+msgid "Next"
+msgstr "Următor"
+
+#: mediawidget.cpp:106 mediawidget.cpp:401
+#, fuzzy
+#| msgid "Full Screen Mode"
+msgctxt "'Playback' menu"
+msgid "Full Screen Mode"
+msgstr "Mod pe tot ecranul"
+
+#: mediawidget.cpp:112 mediawidget.cpp:416
+msgctxt "'Playback' menu"
+msgid "Minimal Mode"
+msgstr ""
+
+#: mediawidget.cpp:126
+msgctxt "subtitle selection entry"
+msgid "off"
+msgstr "dezactivat"
+
+#: mediawidget.cpp:134
+#, fuzzy
+#| msgid "Audio"
+msgctxt "'Playback' menu"
+msgid "Audio"
+msgstr "Audio"
+
+#: mediawidget.cpp:137
+#, fuzzy
+#| msgid "Increase Volume"
+msgctxt "'Audio' menu"
+msgid "Increase Volume"
+msgstr "Mărește volumul"
+
+#: mediawidget.cpp:143
+#, fuzzy
+#| msgid "Decrease Volume"
+msgctxt "'Audio' menu"
+msgid "Decrease Volume"
+msgstr "Micșorează volumul"
+
+#: mediawidget.cpp:148
+#, fuzzy
+#| msgid "Mute Volume"
+msgctxt "'Audio' menu"
+msgid "Mute Volume"
+msgstr "Muțește volumul"
+
+#: mediawidget.cpp:158
+#, fuzzy
+#| msgid "Play Video CD"
+msgctxt "'Playback' menu"
+msgid "Video"
+msgstr "Redare Video CD"
+
+#: mediawidget.cpp:163
+msgctxt "'Video' menu"
+msgid "Deinterlace"
+msgstr ""
+
+#: mediawidget.cpp:172
+#, fuzzy
+#| msgid "Aspect Ratio"
+msgctxt "'Video' menu"
+msgid "Aspect Ratio"
+msgstr "Raport de aspect"
+
+#: mediawidget.cpp:177
+#, fuzzy
+#| msgctxt "aspect ratio"
+#| msgid "Automatic"
+msgctxt "'Aspect Ratio' menu"
+msgid "Automatic"
+msgstr "Automat"
+
+#: mediawidget.cpp:183
+#, fuzzy
+#| msgctxt "aspect ratio"
+#| msgid "Fit to Window"
+msgctxt "'Aspect Ratio' menu"
+msgid "Fit to Window"
+msgstr "Potrivește la fereastră"
+
+#: mediawidget.cpp:188
+#, fuzzy
+#| msgctxt "aspect ratio"
+#| msgid "4:3"
+msgctxt "'Aspect Ratio' menu"
+msgid "4:3"
+msgstr "4:3"
+
+#: mediawidget.cpp:193
+#, fuzzy
+#| msgctxt "aspect ratio"
+#| msgid "16:9"
+msgctxt "'Aspect Ratio' menu"
+msgid "16:9"
+msgstr "16:9"
+
+#: mediawidget.cpp:199
+msgid "Automatic Resize"
+msgstr "Redimensionare automată"
+
+#: mediawidget.cpp:206
+msgctxt "automatic resize"
+msgid "Off"
+msgstr "Dezactivat"
+
+#: mediawidget.cpp:211
+msgctxt "automatic resize"
+msgid "Original Size"
+msgstr "Dimensiune originală"
+
+#: mediawidget.cpp:216
+msgctxt "automatic resize"
+msgid "Double Size"
+msgstr "Dimensiune dublă"
+
+#: mediawidget.cpp:241
+msgid "Volume Slider"
+msgstr "Glisorul volumului"
+
+#: mediawidget.cpp:255
+#, fuzzy
+#| msgid "Jump to Position"
+msgctxt "@action:inmenu"
+msgid "Jump to Position..."
+msgstr "Salt la poziție"
+
+#: mediawidget.cpp:260
+msgctxt "playback menu"
+msgid "Skip"
+msgstr "Sari"
+
+#: mediawidget.cpp:272 mediawidget.cpp:279 mediawidget.cpp:880
+#: mediawidget.cpp:888
+#, no-c-format, kde-format
+msgctxt "submenu of 'Skip'"
+msgid "Skip %1s Backward"
+msgstr "Derulează %1s înapoi"
+
+#: mediawidget.cpp:286 mediawidget.cpp:293 mediawidget.cpp:882
+#: mediawidget.cpp:890
+#, no-c-format, kde-format
+msgctxt "submenu of 'Skip'"
+msgid "Skip %1s Forward"
+msgstr "Derulează %1s înainte"
+
+#: mediawidget.cpp:299 mediawidget.cpp:301
+#, fuzzy
+#| msgid "Volume Slider"
+msgid "Seek Slider"
+msgstr "Glisorul volumului"
+
+#: mediawidget.cpp:311
+msgctxt "dvd navigation"
+msgid "DVD Menu"
+msgstr ""
+
+#: mediawidget.cpp:315
+#, fuzzy
+#| msgid "Title"
+msgctxt "dvd navigation"
+msgid "Title"
+msgstr "Titlu"
+
+#: mediawidget.cpp:321
+#, fuzzy
+#| msgid "Chapter"
+msgctxt "dvd navigation"
+msgid "Chapter"
+msgstr "Capitol"
+
+#: mediawidget.cpp:327
+#, fuzzy
+#| msgid "Angle"
+msgctxt "dvd navigation"
+msgid "Angle"
+msgstr "Unghi"
+
+#: mediawidget.cpp:333
+msgid "Switch between elapsed and remaining time display"
+msgstr "Comută între afișarea timpului scurs și rămas"
+
+#: mediawidget.cpp:383
+msgctxt "file filter"
+msgid "Supported Media Files"
+msgstr "Fișiere multimedia susținute"
+
+#: mediawidget.cpp:384
+msgctxt "file filter"
+msgid "All Files"
+msgstr "Toate fișierele"
+
+#: mediawidget.cpp:407
+#, fuzzy
+#| msgid "Exit Full Screen Mode"
+msgctxt "'Playback' menu"
+msgid "Exit Full Screen Mode"
+msgstr "Ieși din regimul de ecran complet"
+
+#: mediawidget.cpp:420
+msgctxt "'Playback' menu"
+msgid "Exit Minimal Mode"
+msgstr ""
+
+#: mediawidget.cpp:588
+msgctxt "osd"
+msgid "Stopped"
+msgstr "Oprit"
+
+#: mediawidget.cpp:646
+msgctxt "osd"
+msgid "Mute On"
+msgstr "Muțire activată"
+
+#: mediawidget.cpp:649
+msgctxt "osd"
+msgid "Mute Off"
+msgstr "Muțire dezactivată"
+
+#: mediawidget.cpp:656
+#, kde-format
+msgctxt "osd"
+msgid "Volume: %1%"
+msgstr "Volum: %1%"
+
+#: mediawidget.cpp:705
+msgctxt "osd message"
+msgid "Deinterlacing On"
+msgstr ""
+
+#: mediawidget.cpp:707
+msgctxt "osd message"
+msgid "Deinterlacing Off"
+msgstr ""
+
+#: mediawidget.cpp:1069
+msgctxt "osd"
+msgid "Playing"
+msgstr "În redare"
+
+#: mediawidget.cpp:1074
+msgctxt "osd"
+msgid "Paused"
+msgstr "Întrerupt"
+
+#: mediawidget.cpp:1245
+#, fuzzy
+#| msgid "Jump to Position"
+msgctxt "@title:window"
+msgid "Jump to Position"
+msgstr "Salt la poziție"
+
+#: mediawidget.cpp:1250
+msgid "Enter a position:"
+msgstr "Introduceți o poziție:"
+
+#: playlist/playlistmodel.cpp:786
+msgctxt "playlist track"
+msgid "Title"
+msgstr "Titlu"
+
+#: playlist/playlistmodel.cpp:788
+msgctxt "playlist track"
+msgid "Artist"
+msgstr "Interpret"
+
+#: playlist/playlistmodel.cpp:790
+msgctxt "playlist track"
+msgid "Album"
+msgstr "Album"
+
+#: playlist/playlistmodel.cpp:792
+msgctxt "playlist track"
+msgid "Track Number"
+msgstr "Număr pistă"
+
+#: playlist/playlistmodel.cpp:794
+msgctxt "playlist track"
+msgid "Length"
+msgstr "Durată"
+
+#: playlist/playlisttab.cpp:372
+msgctxt "playlist browser"
+msgid "Temporary Playlist"
+msgstr "Listă de redare temporară"
+
+#: playlist/playlisttab.cpp:397
+msgctxt "playlist menu"
+msgid "Repeat"
+msgstr "Repetă"
+
+#: playlist/playlisttab.cpp:402
+msgctxt "playlist menu"
+msgid "Random"
+msgstr "Aleator"
+
+#: playlist/playlisttab.cpp:407
+#, fuzzy
+#| msgid "Add Satellite"
+msgid "Add Subtitle"
+msgstr "Adaugă satelit"
+
+#: playlist/playlisttab.cpp:426
+msgctxt "rename an entry in a list"
+msgid "Rename"
+msgstr "Redenumește"
+
+#: playlist/playlisttab.cpp:635
+msgctxt "playlist browser"
+msgid "Unnamed Playlist"
+msgstr "Listă de redare nedenumită"
+
+#: playlist/playlisttab.cpp:839
+#, fuzzy
+#| msgid "Play Video CD"
+msgctxt "file filter"
+msgid "Subtitle Files"
+msgstr "Redare Video CD"
+
+#: playlist/playlisttab.cpp:856
+msgctxt "file filter"
+msgid ""
+"*.xspf|XSPF Playlist\n"
+"*.m3u|M3U Playlist\n"
+"*.pls|PLS Playlist"
+msgstr ""
+"*.xspf|Listă XSPF\n"
+"*.m3u|Listă M3U\n"
+"*.pls|Listă PLS"
+
+#: sqlhelper.cpp:49
+msgctxt "message box"
+msgid "Please install the Qt SQLite plugin."
+msgstr "Instalați modulul Qt SQLite."
+
+#: sqlhelper.cpp:64
+msgctxt "message box"
+msgid "Cannot open the SQLite database."
+msgstr "Baza de date SQLite nu poate fi deschisă."
+
+#~ msgid "Channel Settings"
+#~ msgstr "Configurări canal"
+
+#~ msgid "Name"
+#~ msgstr "Denumire"
+
+#~ msgid "Edit"
+#~ msgstr "Editează"
+
+#~ msgctxt "remove an item from a list"
+#~ msgid "Remove"
+#~ msgstr "Elimină"
+
+#~ msgid "Remove"
+#~ msgstr "Elimină"
+
+#, fuzzy
+#~| msgid "Begin"
+#~ msgctxt "@title:column tv show"
+#~ msgid "Begin"
+#~ msgstr "Început"
+
+#, fuzzy
+#~| msgid "Begin:"
+#~ msgctxt "@label tv show"
+#~ msgid "Begin:"
+#~ msgstr "Început:"
+
+#~ msgctxt "add a new item to a list"
+#~ msgid "New"
+#~ msgstr "Nou"
+
+#~ msgid "Channel"
+#~ msgstr "Canal"
+
+#~ msgid "Duration"
+#~ msgstr "Durată"
+
+#~ msgctxt "program guide"
+#~ msgid "Schedule Program"
+#~ msgstr "Planificare program"
+
+#, fuzzy
+#~| msgid "Name"
+#~ msgctxt "@title:column tv channel name"
+#~ msgid "Name"
+#~ msgstr "Denumire"
+
+#~ msgctxt "epg"
+#~ msgid "Refresh"
+#~ msgstr "Reîmprospătează"
+
+#~ msgctxt "program guide"
+#~ msgid "Program successfully scheduled."
+#~ msgstr "Program planificat cu succes."
+
+#, fuzzy
+#~| msgid "Can't open %1."
+#~ msgid "Cannot open %1."
+#~ msgstr "Nu se poate deschide %1."
+
+#~ msgid "Unknown playlist format."
+#~ msgstr "Format de listă necunoscut."
+
+#~ msgctxt "playlist menu"
+#~ msgid "Shuffle"
+#~ msgstr "Amestecat"
+
+#~ msgctxt "submenu of skip"
+#~ msgid "Skip 1min Backward"
+#~ msgstr "Derulează 1min înapoi"
+
+#~ msgctxt "submenu of skip"
+#~ msgid "Skip 1min Forward"
+#~ msgstr "Derulează 1min înainte"
+
+#, fuzzy
+#~| msgid "Scan file last updated<br>on %1"
+#~ msgid "Scan data last updated<br>on %1"
+#~ msgstr "Scanează ultimul fișier actualizat<br>în %1"
+
+#, fuzzy
+#~| msgid "Remove"
+#~ msgid "Remove All"
+#~ msgstr "Elimină"
+
+#~ msgid ""
+#~ "<center><font size=\"+4\"><b>[Kaffeine Player]</b><br>caffeine for your "
+#~ "desktop!</font></center>"
+#~ msgstr ""
+#~ "<center><font size=\"+4\"><b>[Kaffeine Player]</b><br>cofeină pentru "
+#~ "biroul tău!</font></center>"
+
+#, fuzzy
+#~| msgid "Position"
+#~ msgid "Navigation"
+#~ msgstr "Poziție"
+
+#, fuzzy
+#~| msgid "New"
+#~ msgctxt "playlist menu"
+#~ msgid "New"
+#~ msgstr "Nou"
+
+#~ msgid "Start scan"
+#~ msgstr "Pornește scanare"
+
+#~ msgid "No source"
+#~ msgstr "Fără sursă"
+
+#~ msgid "&View"
+#~ msgstr "&Vizualizare"
+
+#~ msgid "&Player"
+#~ msgstr "&Program de redare"
+
+#~ msgid "&DVB"
+#~ msgstr "&DVB"
+
+#, fuzzy
+#~| msgid "Delete channel"
+#~ msgid "Tune to the selected channel"
+#~ msgstr "Șterge canal"
+
+#~ msgid "Open file"
+#~ msgstr "Deschide fișier"
+
+#~ msgid "Use right click to edit/delete"
+#~ msgstr "Folosiți clic dreapta pentru a edita/șterge"
+
+#~ msgid "Channel search"
+#~ msgstr "Caută canal"
+
+#~ msgid "Change icon"
+#~ msgstr "Schimbă pictograma"
+
+#~ msgid "DVB Settings"
+#~ msgstr "Setări DVB"
+
+#~ msgid "Configure DVB"
+#~ msgstr "Configurează DVB"
+
+#~ msgid "Switch to Start Tab"
+#~ msgstr "Comută la fila de pornire"
+
+#~ msgid "Switch to Player Tab"
+#~ msgstr "Comută la fila de redare"
+
+#~ msgid "Switch to Playlist Tab"
+#~ msgstr "Comută la fila listei de redare"
+
+#~ msgid "Switch to DVB Tab"
+#~ msgstr "Comută la fila DVB"
+
+#~ msgid "Player"
+#~ msgstr "Program de redare"
+
+#~ msgctxt "View|Full Screen Mode"
+#~ msgid "F"
+#~ msgstr "F"
+
+#~ msgid "Main Controls"
+#~ msgstr "Comenzi principale"
+
+#~ msgid "Position Slider"
+#~ msgstr "Glisor de poziție"
+
+#~ msgid "Tab Manager"
+#~ msgstr "Administrare sarcini"

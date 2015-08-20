@@ -1,0 +1,65 @@
+# Sergiu Bivol <sergiu@ase.md>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"PO-Revision-Date: 2013-02-01 00:53+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: devices/kmdevices.desktop:2
+msgctxt "Name"
+msgid "Devices"
+msgstr "Dispozitive"
+
+#: devices/kmdevices.desktop:42
+msgctxt "Comment"
+msgid "Device settings for Color Management"
+msgstr "Configurări de dispozitive pentru gestiunea culorilor"
+
+#: information/kminfo.desktop:2
+msgctxt "Name"
+msgid "Profile Information"
+msgstr "Informații despre profil"
+
+#: information/kminfo.desktop:39
+msgctxt "Comment"
+msgid "Display ICC-specific Profile Information"
+msgstr "Afișează informații despre profil specifice ICC"
+
+#: kolor-server/kolorserver.desktop:7
+msgctxt "Name"
+msgid "Color Management Server"
+msgstr "Server de gestiune a culorilor"
+
+#: kolor-server/kolorserver.desktop:43
+msgctxt "Comment"
+msgid ""
+"Allows applications to communicate with the color management system and "
+"implements the X Color Management specification"
+msgstr ""
+"Permite aplicațiilor să comunice cu sistemul de gestiune a culorilor și "
+"implementează specificația X de gestiune a culorilor"
+
+#: settings/kmsettings.desktop:2
+msgctxt "Name"
+msgid "Settings"
+msgstr "Configurări"
+
+#: settings/kmsettings.desktop:41
+msgctxt "Comment"
+msgid "Color Management Settings"
+msgstr "Configurări de gestiune a culorilor"
+
+#: settings-kolor-management.desktop:8
+msgctxt "Name"
+msgid "Color Management"
+msgstr "Gestiunea culorilor"

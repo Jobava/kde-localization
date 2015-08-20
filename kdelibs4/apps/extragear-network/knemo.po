@@ -1,0 +1,928 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-20 01:58+0000\n"
+"PO-Revision-Date: 2010-01-18 15:49+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.0\n"
+
+#, fuzzy
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+#, fuzzy
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: backends/bsdbackend.cpp:209
+msgid " anycast"
+msgstr ""
+
+#: backends/bsdbackend.cpp:211 backends/netlinkbackend.cpp:153
+#, fuzzy
+msgid " tentative"
+msgstr "Tentativă"
+
+#: backends/bsdbackend.cpp:213
+#, fuzzy
+msgid " duplicate"
+msgstr "Duplică"
+
+#: backends/bsdbackend.cpp:215
+msgid " detached"
+msgstr ""
+
+#: backends/bsdbackend.cpp:217 backends/netlinkbackend.cpp:151
+msgid " deprecated"
+msgstr ""
+
+#: backends/bsdbackend.cpp:219 backends/netlinkbackend.cpp:145
+msgid " nodad"
+msgstr ""
+
+#: backends/bsdbackend.cpp:221
+msgid " autoconf"
+msgstr ""
+
+#: backends/bsdbackend.cpp:223
+msgid " tempory"
+msgstr ""
+
+#: backends/bsdbackend.cpp:387
+#, kde-format
+msgid "%1 GHz"
+msgstr ""
+
+#: backends/bsdbackend.cpp:390
+#, kde-format
+msgid "%1 MHz"
+msgstr "%1 MHz"
+
+#: backends/bsdbackend.cpp:433
+msgid "Ad-Hoc Demo"
+msgstr ""
+
+#: backends/bsdbackend.cpp:436
+#, fuzzy
+msgid "Ad-Hoc"
+msgstr "Ad-hoc"
+
+#: backends/bsdbackend.cpp:439
+msgid "Host AP"
+msgstr ""
+
+#: backends/bsdbackend.cpp:442
+msgid "Monitor"
+msgstr "Monitor"
+
+#: backends/bsdbackend.cpp:445
+msgid "Mesh"
+msgstr "Meșă"
+
+#: backends/bsdbackend.cpp:448
+msgid "Managed"
+msgstr "Gestionat"
+
+#: backends/bsdbackend.cpp:493
+#, kde-format
+msgid "%1 Mbps"
+msgstr ""
+
+#: backends/netlinkbackend.cpp:143
+#, fuzzy
+msgid " secondary"
+msgstr "Secundară"
+
+#: backends/netlinkbackend.cpp:147
+msgid " optimistic"
+msgstr ""
+
+#: backends/netlinkbackend.cpp:149
+#, fuzzy
+#| msgid "MAC Address"
+msgctxt "mobile ipv6 home address flag"
+msgid " homeaddress"
+msgstr "Adresă MAC"
+
+#: backends/netlinkbackend.cpp:155
+#, fuzzy
+msgid " dynamic"
+msgstr "Dinamică"
+
+#: global.cpp:30
+msgid "/s"
+msgstr "/s"
+
+#: interface.cpp:252
+#, kde-format
+msgid "%1 is connected to %2"
+msgstr ""
+
+#: interface.cpp:254
+#, kde-format
+msgid "%1 is connected"
+msgstr "%1 este conectată"
+
+#: interface.cpp:263
+#, kde-format
+msgid "%1 has disconnected"
+msgstr ""
+
+#: interface.cpp:271
+#, kde-format
+msgid "%1 is available"
+msgstr ""
+
+#: interface.cpp:277
+#, fuzzy, kde-format
+msgid "%1 is unavailable"
+msgstr "nu este disponibilă"
+
+#: interface.cpp:354
+#, fuzzy, kde-format
+msgid "1 day, "
+msgid_plural "%1 days, "
+msgstr[0] "zi"
+msgstr[1] "zile"
+msgstr[2] "de zile"
+
+#: interface.cpp:399
+#, kde-format
+msgid ""
+"<table><tr><td style='padding-right:0.2em;'>%1:</td><td>Exceeded traffic "
+"limit of %2\n"
+"(currently %3)</td></tr></table>"
+msgstr ""
+
+#: interfaceicon.cpp:58
+msgid "Show &Status Dialog"
+msgstr ""
+
+#: interfaceicon.cpp:60
+msgid "Show &Traffic Plotter"
+msgstr ""
+
+#: interfaceicon.cpp:62
+#, fuzzy
+msgid "Show St&atistics"
+msgstr "Arată statisticile."
+
+#: interfaceicon.cpp:64
+msgid "&Configure KNemo..."
+msgstr ""
+
+#: interfaceicon.cpp:358
+#, fuzzy, kde-format
+msgid "%1k"
+msgstr "KB"
+
+#: interfaceicon.cpp:360
+#, fuzzy, kde-format
+msgid "%1K"
+msgstr "KB"
+
+#: interfaceicon.cpp:368
+#, kde-format
+msgid "%1M"
+msgstr "%1L"
+
+#: interfaceicon.cpp:375
+#, fuzzy, no-c-format, kde-format
+msgid "%1G"
+msgstr "g"
+
+#: interfaceicon.cpp:532 interfacetray.cpp:65
+#, fuzzy, kde-format
+msgid "KNemo - %1"
+msgstr "KNemo"
+
+#: interfaceplotterdialog.cpp:162
+#, kde-format
+msgctxt "interface name"
+msgid "%1 Traffic"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:166
+#, fuzzy, kde-format
+#| msgid "/s"
+msgid "%1 B/s"
+msgstr "/s"
+
+#: interfaceplotterdialog.cpp:166
+#, kde-format
+msgid "%1 KiB/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:166
+#, kde-format
+msgid "%1 MiB/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:166
+#, kde-format
+msgid "%1 GiB/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:167
+#, kde-format
+msgid "%1 bit/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:167
+#, kde-format
+msgid "%1 kbit/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:167
+#, kde-format
+msgid "%1 Mbit/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:167
+#, kde-format
+msgid "%1 Gbit/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:179 interfaceplotterdialog.cpp:453
+msgctxt "Largest axis title"
+msgid "99999 XXXX"
+msgstr "99999 XXXX"
+
+#: interfaceplotterdialog.cpp:294
+msgid "&Properties"
+msgstr "&Proprietăți"
+
+#: interfaceplotterdialog.cpp:475
+msgctxt "network traffic"
+msgid "Sending"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:476
+#, fuzzy
+#| msgid "Received"
+msgctxt "network traffic"
+msgid "Receiving"
+msgstr "Primit"
+
+#: interfacestatisticsdialog.cpp:41
+#, fuzzy, kde-format
+msgid "%1 Statistics"
+msgstr "Statistici"
+
+#: interfacestatisticsdialog.cpp:144
+msgid "Billing Periods"
+msgstr ""
+
+#: interfacestatisticsdialog.cpp:198
+msgid "Do you want to reset all statistics?"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, hourly)
+#: interfacestatisticsdlg.ui:24
+msgid "24 Hours"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, daily)
+#: interfacestatisticsdlg.ui:44
+#, fuzzy
+msgid "Days"
+msgstr "Zile"
+
+#. i18n: ectx: attribute (title), widget (QWidget, weekly)
+#: interfacestatisticsdlg.ui:67
+msgid "Weeks"
+msgstr "Săptămîni"
+
+#. i18n: ectx: attribute (title), widget (QWidget, monthly)
+#: interfacestatisticsdlg.ui:90
+msgid "Months"
+msgstr "Luni"
+
+#. i18n: ectx: attribute (title), widget (QWidget, yearly)
+#: interfacestatisticsdlg.ui:113
+msgid "Years"
+msgstr "Ani"
+
+#: interfacestatusdialog.cpp:44
+#, fuzzy, kde-format
+#| msgid "%1 Interface Status"
+msgctxt "interface name"
+msgid "%1 Interface Status"
+msgstr "Stare interfață %1"
+
+#: interfacestatusdialog.cpp:142 interfacetray.cpp:122
+msgid "Connected"
+msgstr "Conectată"
+
+#: interfacestatusdialog.cpp:144 interfacetray.cpp:124
+msgid "Disconnected"
+msgstr "Deconectată"
+
+#: interfacestatusdialog.cpp:146 interfacetray.cpp:126
+msgid "Down"
+msgstr "Oprită"
+
+#: interfacestatusdialog.cpp:148 interfacetray.cpp:128
+msgid "Unavailable"
+msgstr "Indisponibil"
+
+#: interfacestatusdialog.cpp:214 interfacetray.cpp:229
+msgid "active"
+msgstr "activă"
+
+#: interfacestatusdialog.cpp:218 interfacetray.cpp:233
+msgid "off"
+msgstr "dezactivată"
+
+#: interfacestatusdialog.cpp:269 interfacetray.cpp:249
+#, fuzzy
+#| msgid "global"
+msgctxt "ipv6 address scope"
+msgid "global"
+msgstr "globală"
+
+#: interfacestatusdialog.cpp:272 interfacetray.cpp:248
+#, fuzzy
+msgctxt "ipv6 address scope"
+msgid "site"
+msgstr "Site:"
+
+#: interfacestatusdialog.cpp:275 interfacetray.cpp:247
+#, fuzzy
+#| msgid "link"
+msgctxt "ipv6 address scope"
+msgid "link"
+msgstr "legătură"
+
+#: interfacestatusdialog.cpp:278 interfacetray.cpp:246
+#, fuzzy
+#| msgid "host"
+msgctxt "ipv6 address scope"
+msgid "host"
+msgstr "gazdă"
+
+#: interfacestatusdialog.cpp:281 interfacetray.cpp:245
+#, fuzzy
+msgctxt "ipv6 address scope"
+msgid "none"
+msgstr "niciunul"
+
+#. i18n: ectx: property (text), widget (QLabel, broadcastLabel)
+#: interfacestatusdialog.cpp:305 interfacestatusdlg.ui:120
+msgid "Broadcast Address:"
+msgstr "Adresă de difuzare"
+
+#: interfacestatusdialog.cpp:310
+msgid "PtP Address:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, connection)
+#: interfacestatusdlg.ui:16
+msgid "Connection"
+msgstr "Conexiune"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBoxIP)
+#: interfacestatusdlg.ui:41
+msgid "IP"
+msgstr "IP"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: interfacestatusdlg.ui:90
+#, fuzzy
+msgid "IP Address/prefix:"
+msgstr "Adresă MAC"
+
+#. i18n: ectx: property (text), widget (QLabel, addrLabel)
+#: interfacestatusdlg.ui:100
+#, fuzzy
+msgid "Address Label:"
+msgstr "Adresă MAC"
+
+#. i18n: ectx: property (text), widget (QLabel, scopeLabel)
+#: interfacestatusdlg.ui:110
+msgid "Scope & Flags:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, gatewayLabel)
+#: interfacestatusdlg.ui:130
+#, fuzzy
+msgid "Default Gateway:"
+msgstr "Gateway implicit"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel24)
+#: interfacestatusdlg.ui:195
+msgid "Interface:"
+msgstr "Interfață:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel14)
+#: interfacestatusdlg.ui:205
+msgid "Alias:"
+msgstr "Alias:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: interfacestatusdlg.ui:215
+msgid "Status:"
+msgstr "Stare:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: interfacestatusdlg.ui:225
+#, fuzzy
+#| msgid "Connection"
+msgid "Connection Time:"
+msgstr "Conexiune"
+
+#. i18n: ectx: property (text), widget (QLabel, macLabel)
+#: interfacestatusdlg.ui:235
+#, fuzzy
+msgid "MAC Address:"
+msgstr "Adresă MAC"
+
+#. i18n: ectx: attribute (title), widget (QWidget, traffic)
+#: interfacestatusdlg.ui:256
+msgid "Traffic"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBoxCurrentConnection)
+#: interfacestatusdlg.ui:265
+#, fuzzy
+#| msgid "Interface"
+msgid "Interface Traffic"
+msgstr "Interfață"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2_3)
+#: interfacestatusdlg.ui:271 interfacestatusdlg.ui:428 statisticsmodel.cpp:32
+msgid "Received"
+msgstr "Primit"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel7)
+#. i18n: ectx: property (text), widget (QLabel, textLabel7_2_2)
+#: interfacestatusdlg.ui:284 interfacestatusdlg.ui:527 statisticsmodel.cpp:32
+#, fuzzy
+msgid "Sent"
+msgstr "Trimis"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9)
+#: interfacestatusdlg.ui:317
+#, fuzzy
+msgid "Packets:"
+msgstr "Pachete"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10)
+#: interfacestatusdlg.ui:327
+#, fuzzy
+msgid "Bytes:"
+msgstr "de octeți"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10_2)
+#: interfacestatusdlg.ui:340
+msgid "Speed:"
+msgstr "Viteză:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBoxStatistics)
+#: interfacestatusdlg.ui:399
+msgid "Statistics"
+msgstr "Statistici"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9_2_2)
+#: interfacestatusdlg.ui:405
+#, fuzzy
+msgid "Today:"
+msgstr "astăzi"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10_2_2_2)
+#: interfacestatusdlg.ui:415
+#, fuzzy
+msgid "This year:"
+msgstr "Anul acesta"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2_2_2)
+#: interfacestatusdlg.ui:441 statisticsmodel.cpp:32
+msgid "Total"
+msgstr "Total"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10_3_2)
+#: interfacestatusdlg.ui:454
+#, fuzzy
+msgid "This month:"
+msgstr "Luna aceasta"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabelBill)
+#: interfacestatusdlg.ui:570
+#, fuzzy
+#| msgid "Pixels per time period:"
+msgid "This bill period:"
+msgstr "Pixeli per perioadă de timp:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, wireless)
+#: interfacestatusdlg.ui:627
+msgid "Wireless"
+msgstr "Fără fir"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: interfacestatusdlg.ui:633
+#, fuzzy
+msgid "Connected to:"
+msgstr "Conectat la %1"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2_2)
+#: interfacestatusdlg.ui:656
+msgid "Access point:"
+msgstr "Punct de acces:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_4)
+#: interfacestatusdlg.ui:679
+#, fuzzy
+msgid "Bit Rate:"
+msgstr "Rată de biți:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabelFC)
+#: interfacestatusdlg.ui:689
+#, fuzzy
+msgid "Frequency [Channel]:"
+msgstr "Frecvență"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: interfacestatusdlg.ui:699
+msgid "Mode:"
+msgstr "Regim:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabelNickNameL)
+#: interfacestatusdlg.ui:752
+msgid "Nickname:"
+msgstr "Poreclă:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_6)
+#: interfacestatusdlg.ui:778
+#, fuzzy
+msgid "Link Quality:"
+msgstr "Calitatea legăturii"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: interfacestatusdlg.ui:788
+msgid "Encryption:"
+msgstr "Criptare:"
+
+#: interfacetray.cpp:75
+msgid "Should KNemo start automatically when you login?"
+msgstr ""
+
+#: interfacetray.cpp:76
+msgid "Automatically Start KNemo?"
+msgstr ""
+
+#: interfacetray.cpp:76
+#, fuzzy
+msgid "Start"
+msgstr "Început"
+
+#: interfacetray.cpp:77
+msgid "Do Not Start"
+msgstr "Nu porni"
+
+#: interfacetray.cpp:116
+msgid "Interface"
+msgstr "Interfață"
+
+#: interfacetray.cpp:120
+#, fuzzy
+msgid "Status"
+msgstr "Stare"
+
+#: interfacetray.cpp:135
+msgid "Connection time"
+msgstr ""
+
+#: interfacetray.cpp:143
+msgid "PtP Address"
+msgstr ""
+
+#: interfacetray.cpp:144
+msgid "Scope & Flags"
+msgstr ""
+
+#: interfacetray.cpp:152
+msgid "IPv4 Address"
+msgstr ""
+
+#: interfacetray.cpp:156
+msgid "Broadcast Address"
+msgstr "Adresă de difuzare"
+
+#: interfacetray.cpp:163
+msgid "IPv6 Address"
+msgstr ""
+
+#: interfacetray.cpp:177
+msgid "IPv4 Default Gateway"
+msgstr ""
+
+#: interfacetray.cpp:179
+msgid "IPv6 Default Gateway"
+msgstr ""
+
+#: interfacetray.cpp:187
+msgid "MAC Address"
+msgstr "Adresă MAC"
+
+#: interfacetray.cpp:189
+msgid "Packets Received"
+msgstr "Pachete primite"
+
+#: interfacetray.cpp:191
+msgid "Packets Sent"
+msgstr "Pachete trimise"
+
+#: interfacetray.cpp:193
+msgid "Bytes Received"
+msgstr "Octeți primiți"
+
+#: interfacetray.cpp:195
+msgid "Bytes Sent"
+msgstr "Octeți trimiși"
+
+#: interfacetray.cpp:201
+msgid "Download Speed"
+msgstr "Viteza de descărcare"
+
+#: interfacetray.cpp:203
+msgid "Upload Speed"
+msgstr "Viteza de încărcare"
+
+#: interfacetray.cpp:209
+msgid "ESSID"
+msgstr "ESSID"
+
+#: interfacetray.cpp:211
+#, fuzzy
+msgid "Mode"
+msgstr "Regim"
+
+#: interfacetray.cpp:213
+#, fuzzy
+msgid "Frequency"
+msgstr "Frecvență"
+
+#: interfacetray.cpp:215
+#, fuzzy
+msgid "Bit Rate"
+msgstr "Rată de biți:"
+
+#: interfacetray.cpp:217
+#, fuzzy
+msgid "Access Point"
+msgstr "Punct de acces:"
+
+#: interfacetray.cpp:219
+#, fuzzy
+msgid "Link Quality"
+msgstr "Calitatea legăturii"
+
+#: interfacetray.cpp:222
+msgid "Nickname"
+msgstr "Poreclă"
+
+#: interfacetray.cpp:226
+msgid "Encryption"
+msgstr "Criptare"
+
+#: knemodaemon.cpp:57
+msgid "Toggle Traffic Plotters"
+msgstr ""
+
+#: knemodaemon.cpp:172
+msgid ""
+"The Qt4 SQLite database plugin is not available.\n"
+"Please install it to store traffic statistics."
+msgstr ""
+
+#: knemodaemon.cpp:218
+msgid "The KDE Network Monitor"
+msgstr ""
+
+#: knemodaemon.cpp:222
+msgid "KNemo"
+msgstr "KNemo"
+
+#: knemodaemon.cpp:226
+msgid ""
+"Copyright (C) 2004, 2005, 2006 Percy Leonhardt\n"
+"Copyright (C) 2009, 2010 John Stamp\n"
+"\n"
+"Signal plotter taken from KSysGuard\n"
+"Copyright (C) 2006 - 2009 John Tapsell"
+msgstr ""
+
+#: knemodaemon.cpp:229
+msgid "Percy Leonhardt"
+msgstr "Percy Leonhardt"
+
+#: knemodaemon.cpp:229
+#, fuzzy
+msgid "Original Author"
+msgstr "Autor original"
+
+#: knemodaemon.cpp:231
+msgid "John Stamp"
+msgstr ""
+
+#: knemodaemon.cpp:231
+#, fuzzy
+msgid "Current maintainer"
+msgstr "Responsabil curent"
+
+#: knemodaemon.cpp:233
+msgid "Michael Olbrich"
+msgstr ""
+
+#: knemodaemon.cpp:233
+msgid "Threshold support"
+msgstr ""
+
+#: knemodaemon.cpp:235
+msgid "Chris Schlaeger"
+msgstr "Chris Schlaeger"
+
+#: knemodaemon.cpp:235 knemodaemon.cpp:237
+msgid "Signal plotter"
+msgstr ""
+
+#: knemodaemon.cpp:237
+msgid "John Tapsell"
+msgstr "John Tapsell"
+
+#: plotterconfigdialog.cpp:35
+msgid " kbit/s"
+msgstr ""
+
+#: plotterconfigdialog.cpp:39
+#, fuzzy
+#| msgid "/s"
+msgid " KiB/s"
+msgstr "/s"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#: plotterconfigdlg.ui:16
+msgid "Scales"
+msgstr "Scalări"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: plotterconfigdlg.ui:22
+msgid "Vertical Scale"
+msgstr "Scalare pe verticală"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxAutoDetection)
+#: plotterconfigdlg.ui:28
+msgid "Specify graph range:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9_3)
+#: plotterconfigdlg.ui:38
+msgid "Minimum value:"
+msgstr "Valoarea minimă:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9_2_2)
+#: plotterconfigdlg.ui:70
+msgid "Maximum value:"
+msgstr "Valoarea maximă:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: plotterconfigdlg.ui:105
+msgid "Horizontal Scale"
+msgstr "Scalare pe orizontală"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2)
+#: plotterconfigdlg.ui:111
+msgid "Pixels per time period:"
+msgstr "Pixeli per perioadă de timp:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_5)
+#: plotterconfigdlg.ui:170
+msgid "Grid"
+msgstr "Grilă"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox8)
+#: plotterconfigdlg.ui:176
+msgid "Lines"
+msgstr "Linii"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxVLines)
+#: plotterconfigdlg.ui:184
+msgid "Vertical lines"
+msgstr "Linii verticale"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: plotterconfigdlg.ui:207
+#, fuzzy
+msgid "Distance:"
+msgstr "Distanță:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxVLinesScroll)
+#: plotterconfigdlg.ui:247
+msgid "Vertical lines scroll"
+msgstr "Liniile verticale defilează"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxHLines)
+#: plotterconfigdlg.ui:254
+msgid "Horizontal lines"
+msgstr "Linii orizontale"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox9)
+#: plotterconfigdlg.ui:264
+msgid "Text"
+msgstr "Text"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxLabels)
+#: plotterconfigdlg.ui:270
+msgid "Show axis labels"
+msgstr "Arată etichetele axelor"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: plotterconfigdlg.ui:279
+#, fuzzy
+msgid "Font size:"
+msgstr "Mărime font:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: plotterconfigdlg.ui:330
+msgid "Sensors"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxIncoming)
+#: plotterconfigdlg.ui:338
+#, fuzzy
+msgid "Show incoming traffic"
+msgstr "Trafic de intrare"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxOutgoing)
+#: plotterconfigdlg.ui:359
+#, fuzzy
+msgid "Show outgoing traffic"
+msgstr "Trafic de ieșire"
+
+#: statisticsmodel.cpp:32
+#, fuzzy
+#| msgid "active"
+msgid "Date"
+msgstr "activă"
+
+#: statisticsview.cpp:182
+#, fuzzy
+msgid "Peak:"
+msgstr "Pachete"
+
+#: statisticsview.cpp:183
+msgid "Off-Peak:"
+msgstr ""
+
+#: statisticsview.cpp:184
+#, fuzzy
+#| msgid "Total"
+msgid "Total:"
+msgstr "Total"
+
+#: storage/sqlstorage.cpp:205
+#, kde-format
+msgid ""
+"The statistics database for interface \"%1\" is incompatible with this "
+"version of KNemo.\n"
+"\n"
+"Please upgrade to a more recent KNemo release."
+msgstr ""
+
+#, fuzzy
+#~| msgid "Received"
+#~ msgctxt "interface name"
+#~ msgid "%1 Received Data"
+#~ msgstr "Primit"
+
+#~ msgid "Automatic range detection"
+#~ msgstr "Detectează automat domeniul"
+
+#~ msgid "Colors"
+#~ msgstr "Culori"
+
+#, fuzzy
+#~ msgid "Vertical lines:"
+#~ msgstr "Linii verticale"
+
+#, fuzzy
+#~ msgid "Horizontal lines:"
+#~ msgstr "Linii orizontale"
+
+#~ msgid "Background:"
+#~ msgstr "Fundal:"

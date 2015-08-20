@@ -1,0 +1,322 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@cip.md>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-11 08:59+0000\n"
+"PO-Revision-Date: 2015-04-26 12:38+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@cip.md"
+
+#. i18n: ectx: label, entry (firstPointColor), group (Board)
+#. i18n: ectx: label, entry (firstFillStyle), group (Board)
+#: kdots.kcfg:11 kdots.kcfg:19
+msgid "First player territory fill style"
+msgstr "Stilul de umplere a teritoriului primului jucător"
+
+#. i18n: ectx: label, entry (secondPointColor), group (Board)
+#. i18n: ectx: label, entry (secondFillStyle), group (Board)
+#: kdots.kcfg:15 kdots.kcfg:23
+msgid "Second player territory fill style"
+msgstr "Stilul de umplere a teritoriului celui de-al doilea jucător"
+
+#: kdotslib/boardmodel.cpp:78
+msgid "The first player win!"
+msgstr "Primul jucător a cîștigat!"
+
+#: kdotslib/boardmodel.cpp:81
+msgid "The second player win!"
+msgstr "Al doilea jucător a cîștigat!"
+
+#: kdotslib/boardmodel.cpp:83
+msgid "Dead heat!"
+msgstr ""
+
+#: kdotslib/boardmodel.cpp:111
+#, kde-format
+msgid "First:\t%1\tSecond:\t%2"
+msgstr "Primul:\t%1\tAl doilea:\t%2"
+
+#. i18n: ectx: Menu (File)
+#: kdotsui.rc:11
+msgid "File"
+msgstr "Fișier"
+
+#. i18n: ectx: Menu (Game)
+#: kdotsui.rc:18
+msgid "Game"
+msgstr "Joc"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kdotsui.rc:24
+msgid "Main Toolbar"
+msgstr "Bara de unelte principală"
+
+#: main.cpp:42
+msgid "Architecture. Project Management"
+msgstr "Arhitectură. Gestiunea proiectului"
+
+#: main.cpp:47
+msgid "Game engine tester"
+msgstr "Testarea motorului jocului"
+
+#: main.cpp:51
+msgid "Arch Linux package maintainer"
+msgstr "Responsabil de pachete Arch Linux"
+
+#: main.cpp:59
+msgid "A prototype of the game of dots."
+msgstr "Prototip pentru jocul de puncte"
+
+#: mainwindow.cpp:77
+msgid "&New game"
+msgstr "Joc &nou"
+
+#: mainwindow.cpp:86
+msgid "&End game"
+msgstr "T&ermină jocul"
+
+#: mainwindow.cpp:92
+msgid "&Quit"
+msgstr "I&eșire"
+
+#: mainwindow.cpp:97
+msgid "&Undo"
+msgstr "&Desfă"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, BoardConfigWidget)
+#: mainwindow.cpp:118 ui/boardconfigwidget.ui:17
+msgid "Preferences"
+msgstr "Preferințe"
+
+#: mainwindow.cpp:125
+msgid "Board"
+msgstr "Tablă"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ConfigurationWidget)
+#: plugins/ipconnect/configurationwidget.ui:20
+msgid "Game configuration"
+msgstr "Configurare joc"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabWidgetPage1)
+#: plugins/ipconnect/configurationwidget.ui:30
+msgid "Create Game"
+msgstr "Creează joc"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: plugins/ipconnect/configurationwidget.ui:49
+msgid "Connecting port:"
+msgstr "Port conexiune:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, FirstMoving)
+#. i18n: ectx: property (text), item, widget (KComboBox, user)
+#: plugins/ipconnect/configurationwidget.ui:60 ui/newgamewidget.ui:123
+msgid "First Player"
+msgstr "Primul jucător"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, FirstMoving)
+#. i18n: ectx: property (text), item, widget (KComboBox, user)
+#: plugins/ipconnect/configurationwidget.ui:65 ui/newgamewidget.ui:128
+msgid "Second Player"
+msgstr "Al doilea jucător"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: plugins/ipconnect/configurationwidget.ui:73
+msgid "You are:"
+msgstr "Sînteți:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabWidgetPage2)
+#: plugins/ipconnect/configurationwidget.ui:133
+msgid "Join Game"
+msgstr "Alăturare la joc"
+
+#. i18n: ectx: property (inputMask), widget (KLineEdit, host)
+#: plugins/ipconnect/configurationwidget.ui:152
+msgid "000.000.000.000; "
+msgstr "000.000.000.000; "
+
+#. i18n: ectx: property (text), widget (KLineEdit, host)
+#: plugins/ipconnect/configurationwidget.ui:155
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: plugins/ipconnect/configurationwidget.ui:162
+msgid "Port:"
+msgstr "Port:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: plugins/ipconnect/configurationwidget.ui:182
+msgid "IP:"
+msgstr "IP:"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, ConnectDialog)
+#: plugins/ipconnect/connectdialog.ui:14
+msgid "Waiting..."
+msgstr "Se așteaptă..."
+
+#. i18n: ectx: property (html), widget (QTextBrowser, textBrowser)
+#: plugins/ipconnect/connectdialog.ui:40
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:8pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"size:12pt;\">Waiting for connection...</span></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:8pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"size:12pt;\">Se așteaptă conectarea...</span></p></body></html>"
+
+#: plugins/ipconnect/plugin.cpp:53
+msgid "Playing by internet connection"
+msgstr "Se joacă prin conexiune de Internet"
+
+#: plugins/ipconnect/rival.cpp:77
+msgid "Client has been disconnected. Please recreate a game"
+msgstr "Clientul a fost deconectat. Creați jocul din nou"
+
+#: plugins/ipconnect/rival.cpp:78
+msgid "Client has been disconnected"
+msgstr "Clientul a fost deconectat"
+
+#: plugins/ipconnect/rival.cpp:130
+msgid "Connected"
+msgstr "Conectat"
+
+#: plugins/ipconnect/rival.cpp:131
+msgid "Good luck have fun"
+msgstr "Succes și distracție plăcută"
+
+#: plugins/ipconnect/rival.cpp:139
+msgid "Warning!"
+msgstr "Avertizare!"
+
+#: plugins/ipconnect/rival.cpp:140
+#, kde-format
+msgid "Cannot connect to the server: %1"
+msgstr "Nu se poate conecta la server: %1"
+
+#: plugins/simpleai/plugin.cpp:52
+msgid "Playing with the simple AI"
+msgstr "Se joacă cu IA simplă"
+
+#: plugins/singlepc/plugin.cpp:72
+msgid "Playing in the single PC"
+msgstr "Se joacă într-un singur calculator"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: ui/boardconfigwidget.ui:23
+msgid "View"
+msgstr "Vizualizare"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: ui/boardconfigwidget.ui:29
+msgid "First player point color:"
+msgstr "Culoarea punctelor primului jucător:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: ui/boardconfigwidget.ui:54
+msgid "Second player point color:"
+msgstr "Culoarea punctelor celui de-al doilea jucător:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: ui/boardconfigwidget.ui:79
+msgid "First player territory fill style:"
+msgstr "Stilul de umplere a teritoriului primului jucător:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: ui/boardconfigwidget.ui:86
+msgid "Second player territory fill style:"
+msgstr "Stilul de umplere a teritoriului celui de-al doilea jucător:"
+
+#. i18n: ectx: property (windowTitle), widget (KMainWindow, MainWindow)
+#: ui/mainwindow.ui:20
+msgid "KDots"
+msgstr "KDots"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, NewGameWidget)
+#. i18n: ectx: property (windowTitle), widget (QDialog, NewGameDialog)
+#: ui/newgamedialog.ui:14 ui/newgamewidget.ui:14
+msgid "New Game"
+msgstr "Joc nou"
+
+#. i18n: ectx: property (text), widget (QPushButton, OKButton)
+#: ui/newgamedialog.ui:23
+msgid "OK"
+msgstr "OK"
+
+#. i18n: ectx: property (text), widget (QPushButton, NextButton)
+#: ui/newgamedialog.ui:35
+msgid "Next"
+msgstr "Următor"
+
+#. i18n: ectx: property (text), widget (QPushButton, CancelButton)
+#: ui/newgamedialog.ui:47
+msgid "Cancel"
+msgstr "Renunță"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: ui/newgamewidget.ui:20
+msgid "Configuring the game board"
+msgstr "Se configurează tabla de joc"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, GameMode)
+#: ui/newgamewidget.ui:30
+msgid "Default Mode"
+msgstr "Regim implicit"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, GameMode)
+#: ui/newgamewidget.ui:35
+msgid "Extra Turn"
+msgstr "Mutare suplimentară"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: ui/newgamewidget.ui:82
+msgid "First Moving:"
+msgstr "Primul mută:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: ui/newgamewidget.ui:92
+msgid "Game Mode:"
+msgstr "Regim de joc:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: ui/newgamewidget.ui:136
+msgid "Width:"
+msgstr "Lățime:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: ui/newgamewidget.ui:146
+msgid "Height:"
+msgstr "Înălțime:"

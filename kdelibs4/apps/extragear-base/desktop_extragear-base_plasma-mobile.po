@@ -1,0 +1,413 @@
+# Sergiu Bivol <sergiu@ase.md>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-07-31 02:29+0000\n"
+"PO-Revision-Date: 2012-12-22 11:03+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: activeshellpackage/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "About Plasma Active"
+msgctxt "Comment"
+msgid "Plasma Active shell"
+msgstr "Despre Plasma Active"
+
+#: activeshellpackage/package/metadata.desktop:21
+msgctxt "Name"
+msgid "Desktop"
+msgstr ""
+
+#: activetoolbox/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "About Plasma Active"
+msgctxt "Name"
+msgid "Plasma Active Toolbox"
+msgstr "Despre Plasma Active"
+
+#: applets/alarms/active-alarms.desktop:2
+#: applets/alarms/plasmoid/metadata.desktop:3
+#: dataengines/alarms/plasma-engine-alarms.desktop:2
+msgctxt "Name"
+msgid "Alarms"
+msgstr "Alarme"
+
+#: applets/alarms/active-alarms.desktop:40
+msgctxt "Comment"
+msgid "A tool to setup visual and audio alarms for tablets"
+msgstr ""
+"Unealtă pentru configurarea alarmelor sonore și vizuale pentru planșete"
+
+#: applets/alarms/plasmoid/metadata.desktop:41
+msgctxt "Comment"
+msgid "Alarms setup tool"
+msgstr "Unealtă de configurare a alarmelor"
+
+#: applets/digital-clock/metadata.desktop:3
+msgctxt "Name"
+msgid "Digital clock"
+msgstr "Ceas digital"
+
+#: applets/digital-clock/metadata.desktop:39
+msgctxt "Comment"
+msgid "Time displayed in a digital format"
+msgstr "Ora afișată în format numeric"
+
+#: applications/filebrowser/active-books.desktop:2
+msgctxt "Name"
+msgid "Books"
+msgstr "Cărți"
+
+#: applications/filebrowser/active-books.desktop:39
+msgctxt "GenericName"
+msgid "Book collection"
+msgstr "Colecție de cărți"
+
+#: applications/filebrowser/active-books.desktop:74
+msgctxt "Comment"
+msgid "All books installed on the device"
+msgstr "Toate cărțile instalate pe dispozitiv"
+
+#: applications/filebrowser/active-filebrowser.desktop:2
+msgctxt "Name"
+msgid "Files"
+msgstr "Fișiere"
+
+#: applications/filebrowser/active-filebrowser.desktop:42
+msgctxt "GenericName"
+msgid "File browser"
+msgstr "Navigator de fișiere"
+
+#: applications/filebrowser/active-filebrowser.desktop:81
+msgctxt "Comment"
+msgid "A simple file browser/manager"
+msgstr "Un navigator și gestionar simplu de fișiere"
+
+#: applications/filebrowser/active-imageviewer.desktop:2
+msgctxt "Name"
+msgid "Images"
+msgstr "Imagini"
+
+#: applications/filebrowser/active-imageviewer.desktop:42
+msgctxt "GenericName"
+msgid "Image viewer"
+msgstr "Vizualizor de imagini"
+
+#: applications/filebrowser/active-imageviewer.desktop:80
+msgctxt "Comment"
+msgid "An image viewer for touch tablets"
+msgstr "Vizualizor de imagini pentru planșete tactile"
+
+#: applications/filebrowser/browse-files.desktop:10
+msgctxt "Name"
+msgid "Browse files"
+msgstr "Răsfoiește fișiere"
+
+#: applications/filebrowser/filebrowserparts/audiopart/metadata.desktop:2
+msgctxt "Name"
+msgid "Audio metadata browser"
+msgstr ""
+
+#: applications/filebrowser/filebrowserparts/audiopart/metadata.desktop:29
+msgctxt "Comment"
+msgid "A browser for audio files metadata"
+msgstr ""
+
+#: applications/filebrowser/filebrowserparts/imageviewerpart/metadata.desktop:2
+msgctxt "Name"
+msgid "Image Viewer"
+msgstr "Vizualizor de imagini"
+
+#: applications/filebrowser/filebrowserparts/imageviewerpart/metadata.desktop:39
+msgctxt "Comment"
+msgid "Touchscreen friendly simple image viewer"
+msgstr ""
+
+#: applications/filebrowser/package/metadata.desktop:2
+msgctxt "Name"
+msgid "File browser"
+msgstr "Navigator de fișiere"
+
+#: applications/filebrowser/plasma-filebrowserpart.desktop:5
+msgctxt "Comment"
+msgid ""
+"Plasma package to load a particular mimetype directly in the file browser"
+msgstr ""
+
+#: containments/activecontainment/metadata.desktop:2
+msgctxt "Name"
+msgid "Active Containment"
+msgstr ""
+
+#: containments/activepanel/metadata.desktop:3
+msgctxt "Name"
+msgid "Mobile Panel"
+msgstr ""
+
+#: containments/activepanel/metadata.desktop:19
+msgctxt "Comment"
+msgid "A system tray applet for mobile shell"
+msgstr ""
+
+#: containments/activityscreen/metadata.desktop:2
+msgctxt "Name"
+msgid "Contour activity screen"
+msgstr ""
+
+#: containments/activityscreen/metadata.desktop:34
+msgctxt "Comment"
+msgid "Categorized resources and widgets"
+msgstr ""
+
+#: containments/appletstrip/metadata.desktop:3
+msgctxt "Name"
+msgid "Applets strip"
+msgstr ""
+
+#: containments/webdashboard/metadata.desktop:3
+msgctxt "Name"
+msgid "Web Dashboard"
+msgstr ""
+
+#: dataengines/alarms/plasma-engine-alarms.desktop:40
+msgctxt "Comment"
+msgid "List and set Akonadi Alarms"
+msgstr ""
+
+#: dataengines/apps/plasma-dataengine-org.kde.active.apps.desktop:2
+msgctxt "Name"
+msgid "Application Information"
+msgstr "Informații despre aplicații"
+
+#: dataengines/apps/plasma-dataengine-org.kde.active.apps.desktop:41
+msgctxt "Comment"
+msgid "Information and launching of all applications in the app menu."
+msgstr "Informații și lansare de aplicații în meniul aplicațiilor."
+
+#: dataengines/preview/plasma-engine-preview.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: dataengines/preview/plasma-engine-preview.desktop:40
+msgctxt "Comment"
+msgid "Shows previews for webpages"
+msgstr ""
+
+#: dataengines/recommendations/plasma-dataengine-recommendations.desktop:2
+msgctxt "Name"
+msgid "Recommendations"
+msgstr ""
+
+#: dataengines/recommendations/plasma-dataengine-recommendations.desktop:32
+msgctxt "Comment"
+msgid "Contour Recommendations dataengine"
+msgstr ""
+
+#: runners/apps/plasma-runner-org.kde.active.apps.desktop:2
+msgctxt "Name"
+msgid "Plasma Active App Lister"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Location"
+#~ msgstr "Amplasare"
+
+#~ msgctxt "Comment"
+#~ msgid "Applet to tell the system where you are"
+#~ msgstr "Miniaplicație care îi spune sistemului unde vă aflați"
+
+#~ msgctxt "Comment"
+#~ msgid "Location chooser"
+#~ msgstr "Selector de amplasare"
+
+#~ msgctxt "Name"
+#~ msgid "Power Button"
+#~ msgstr "Buton de alimentare"
+
+#~ msgctxt "Comment"
+#~ msgid "Suspends the device"
+#~ msgstr "Suspendă dispozitivul"
+
+#~ msgctxt "Keywords"
+#~ msgid "Power Management, Battery, System, Energy"
+#~ msgstr "gestiunea alimentării, acumulator, sistem, energie"
+
+#~ msgctxt "Keywords"
+#~ msgid "Online Services, Web"
+#~ msgstr "Servicii online, Web"
+
+#~ msgctxt "Name"
+#~ msgid "Resources List"
+#~ msgstr "Listă de resurse"
+
+#~ msgctxt "Name"
+#~ msgid "About"
+#~ msgstr "Despre"
+
+#~ msgctxt "GenericName"
+#~ msgid "About Plasma Active"
+#~ msgstr "Despre Plasma Active"
+
+#~ msgctxt "Comment"
+#~ msgid "Information about Plasma Active"
+#~ msgstr "Informații despre Plasma Active"
+
+#~ msgctxt "Name"
+#~ msgid "Settings"
+#~ msgstr "Configurări"
+
+#~ msgctxt "GenericName"
+#~ msgid "Settings"
+#~ msgstr "Configurări"
+
+#~ msgctxt "Comment"
+#~ msgid "Settings for Plasma Active"
+#~ msgstr "Configurări pentru Plasma Active"
+
+#~ msgctxt "Name"
+#~ msgid "SSH Remote Access"
+#~ msgstr "Acces distant SSH"
+
+#~ msgctxt "Name"
+#~ msgid "Activate sshd"
+#~ msgstr "Activează sshd"
+
+#~ msgctxt "Description"
+#~ msgid "Starts sshd on device"
+#~ msgstr "Pornește sshd pe dispozitiv"
+
+#~ msgctxt "Name"
+#~ msgid "Deactivate sshd"
+#~ msgstr "Dezactivează sshd"
+
+#~ msgctxt "Description"
+#~ msgid "Stops sshd on device"
+#~ msgstr "Oprește sshd pe dispozitiv"
+
+#~ msgctxt "Name"
+#~ msgid "Development"
+#~ msgstr "Dezvoltare"
+
+#~ msgctxt "Comment"
+#~ msgid "Settings for developers"
+#~ msgstr "Configurări pentru dezvoltatori"
+
+#~ msgctxt "Name"
+#~ msgid "Language"
+#~ msgstr "Limbă"
+
+#~ msgctxt "Comment"
+#~ msgid "Locale settings"
+#~ msgstr "Configurări de limbă"
+
+#~ msgctxt "Name"
+#~ msgid "Screen"
+#~ msgstr "Ecran"
+
+#~ msgctxt "Name"
+#~ msgid "Date and Time Control Module"
+#~ msgstr "Modul de control dată și oră"
+
+#~ msgctxt "Name"
+#~ msgid "Save the date/time settings"
+#~ msgstr "Salvează configurările datei și orei"
+
+#~ msgctxt "Description"
+#~ msgid "System policies prevent you from saving the date/time settings."
+#~ msgstr ""
+#~ "Politicile sistemului vă interzic salvarea configurărilor de dată și oră."
+
+#~ msgctxt "Name"
+#~ msgid "Time and Date"
+#~ msgstr "Oră și dată"
+
+#~ msgctxt "Name"
+#~ msgid "Web and Browser"
+#~ msgstr "Web și navigator"
+
+#~ msgctxt "Name"
+#~ msgid "Browser"
+#~ msgstr "Navigator"
+
+#~ msgctxt "GenericName"
+#~ msgid "Web Browser"
+#~ msgstr "Navigator web"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Web Browser"
+#~ msgctxt "Name"
+#~ msgid "Angelfish Web Browser"
+#~ msgstr "Navigator web"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File browser"
+#~ msgctxt "Comment"
+#~ msgid "Mobile web browser"
+#~ msgstr "Navigator de fișiere"
+
+#~ msgctxt "Name"
+#~ msgid "Air for Mobile"
+#~ msgstr "Aer pentru mobil"
+
+#~ msgctxt "Comment"
+#~ msgid "A breath of fresh air"
+#~ msgstr "O gură de aer proaspăt"
+
+#~ msgctxt "Name"
+#~ msgid "Oxygen for Mobile"
+#~ msgstr "Oxygen pentru mobil"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Suspends the device"
+#~ msgctxt "Name"
+#~ msgid "Pauses the media"
+#~ msgstr "Suspendă dispozitivul"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "activities"
+#~ msgstr "Activități"
+
+#~ msgctxt "Name"
+#~ msgid "Launcher"
+#~ msgstr "Lansator"
+
+#~ msgctxt "Name"
+#~ msgid "Welcome"
+#~ msgstr "Bun venit"
+
+#~ msgctxt "Name"
+#~ msgid "Notifications"
+#~ msgstr "Notificări"
+
+#~ msgctxt "Comment"
+#~ msgid "Notifications"
+#~ msgstr "Notificări"
+
+#~ msgctxt "Name"
+#~ msgid "Videos"
+#~ msgstr "Videoclipuri"
+
+#~ msgctxt "GenericName"
+#~ msgid "Video player"
+#~ msgstr "Program de redare video"
+
+#~ msgctxt "Name"
+#~ msgid "Video Player"
+#~ msgstr "Program de redare video"

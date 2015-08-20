@@ -1,0 +1,2299 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2002,2003, 2004, 2005.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009, 2011, 2012, 2013, 2014.
+# Florin Cătălin RUSSEN <cfrussen@yahoo.co.uk>, 2011.
+# Cristian Oneț <onet.cristian@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-06-09 12:16+0000\n"
+"PO-Revision-Date: 2014-07-04 14:14+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Claudiu Costin,Bogdan Daniel Vatră, Sergiu Bivol,Florin Cătălin Russen"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"claudiuc@kde.org,taipanromania@xnet.ro,sergiu@ase.md,cfrussen@yahoo.co.uk"
+
+#. i18n: ectx: Menu (file)
+#: data/kateui.rc:6
+msgid "&File"
+msgstr "&Fișier"
+
+#. i18n: ectx: Menu (edit)
+#: data/kateui.rc:32
+msgid "&Edit"
+msgstr "&Editare"
+
+#. i18n: ectx: Menu (view)
+#: data/kateui.rc:43
+msgid "&View"
+msgstr "&Vizualizare"
+
+#. i18n: ectx: Menu (view-split)
+#: data/kateui.rc:54
+msgid "Split View"
+msgstr "Desparte vizualizarea"
+
+#. i18n: ectx: Menu (tools)
+#: data/kateui.rc:81
+msgid "&Tools"
+msgstr "&Unelte"
+
+#. i18n: ectx: Menu (sessions)
+#: data/kateui.rc:89
+msgid "Sess&ions"
+msgstr "Ses&iuni"
+
+#. i18n: ectx: Menu (settings)
+#: data/kateui.rc:100
+msgid "&Settings"
+msgstr "&Configurări"
+
+#. i18n: ectx: Menu (help)
+#: data/kateui.rc:105
+msgid "&Help"
+msgstr "&Ajutor"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: data/kateui.rc:110
+msgid "Main Toolbar"
+msgstr "Bara de unelte principală"
+
+#. i18n: ectx: Menu (viewspace_popup_statusbar)
+#: data/kateui.rc:141
+msgid "&Status Bar Items"
+msgstr "Elemente ale barei de &stare"
+
+#: src/kateapp.cpp:196 src/kateapp.cpp:308
+#, kde-format
+msgid ""
+"The file '%1' could not be opened: it is not a normal file, it is a folder."
+msgstr ""
+"Fișierul „%1” nu poate fi deschis. Nu este un fișier normal, ci un dosar."
+
+#: src/kateconfigdialog.cpp:56
+msgid "Configure"
+msgstr "Configurează"
+
+#: src/kateconfigdialog.cpp:65
+msgid "Application"
+msgstr "Aplicație"
+
+#: src/kateconfigdialog.cpp:67
+msgid "Application Options"
+msgstr "Opțiunile aplicației"
+
+#: src/kateconfigdialog.cpp:72
+msgid "General"
+msgstr "General"
+
+#: src/kateconfigdialog.cpp:73
+msgid "General Options"
+msgstr "Opțiuni generale"
+
+#: src/kateconfigdialog.cpp:81
+msgid "&Behavior"
+msgstr "&Comportament"
+
+#: src/kateconfigdialog.cpp:87
+msgid "Wa&rn about files modified by foreign processes"
+msgstr "&Avertizează despre fișierele modificate de alte aplicații"
+
+#: src/kateconfigdialog.cpp:90
+msgid ""
+"If enabled, when Kate receives focus you will be asked what to do with files "
+"that have been modified on the hard disk. If not enabled, you will be asked "
+"what to do with a file that has been modified on the hard disk only when "
+"that file is tried to be saved."
+msgstr ""
+"Dacă este activată, cînd Kate primește focusul veți fi întrebat ce trebuie "
+"făcut cu fișierele care au fost modificate pe disc. Dacă nu este activată, "
+"atunci veți fi întrebat numai cînd se va încerca salvarea fișierului "
+"modificat."
+
+#: src/kateconfigdialog.cpp:100
+msgid "Meta-Information"
+msgstr "Metainformații"
+
+#: src/kateconfigdialog.cpp:106
+msgid "Keep &meta-information past sessions"
+msgstr "Păstrează &metainformațiile din sesiunile trecute"
+
+#: src/kateconfigdialog.cpp:109
+msgid ""
+"Check this if you want document configuration like for example bookmarks to "
+"be saved past editor sessions. The configuration will be restored if the "
+"document has not changed when reopened."
+msgstr ""
+"Selectați opțiunea dacă doriți ca informațiile de configurare specifice "
+"documentului, precum semnele de carte să fie salvate pentru sesiunile "
+"ulterioare de editare. Configurația va fi refăcută dacă între timp "
+"documentul nu a fost modificat atunci cînd este redeschis."
+
+#: src/kateconfigdialog.cpp:121
+msgid "&Delete unused meta-information after:"
+msgstr "Ș&terge metainformațiile neutilizate după:"
+
+#: src/kateconfigdialog.cpp:125
+#, fuzzy
+#| msgid "(never)"
+msgctxt "The special case of 'Delete unused meta-information after'"
+msgid "(never)"
+msgstr "(niciodată)"
+
+#: src/kateconfigdialog.cpp:126
+msgctxt "The suffix of 'Delete unused meta-information after'"
+msgid " day"
+msgid_plural " days"
+msgstr[0] " zi"
+msgstr[1] " zi"
+msgstr[2] " de zile"
+
+#: src/kateconfigdialog.cpp:141
+msgid "Sessions"
+msgstr "Sesiuni"
+
+#: src/kateconfigdialog.cpp:142
+msgid "Session Management"
+msgstr "Gestionare sesiuni"
+
+#: src/kateconfigdialog.cpp:178
+msgid "Plugins"
+msgstr "Extensii"
+
+#: src/kateconfigdialog.cpp:179
+msgid "Plugin Manager"
+msgstr "Gestionar de extensii"
+
+#: src/kateconfigdialog.cpp:191
+msgid "Editor Component"
+msgstr "Componentă de editare"
+
+#: src/kateconfigdialog.cpp:193
+msgid "Editor Component Options"
+msgstr "Opțiunile componentei de editare"
+
+#: src/kateconfigplugindialogpage.cpp:78
+msgid "Name"
+msgstr "Denumire"
+
+#: src/kateconfigplugindialogpage.cpp:78
+#, fuzzy
+#| msgid "Description:"
+msgid "Description"
+msgstr "Descriere:"
+
+#: src/kateconfigplugindialogpage.cpp:80
+msgid ""
+"Here you can see all available Kate plugins. Those with a check mark are "
+"loaded, and will be loaded again the next time Kate is started."
+msgstr ""
+"Aici puteți vedea toate extensiile disponibile pentru Kate. Cele care au un "
+"marcaj sînt deja încărcate și vor fi încărcate din nou la următoarea pornire "
+"a lui Kate."
+
+#: src/katedocmanager.cpp:226
+#, kde-format
+msgid ""
+"The supposedly temporary file %1 has been modified. Do you want to delete it "
+"anyway?"
+msgstr ""
+"Fișierul %1 presupus temporar a fost modificat. Doriți să-l ștergeți oricum?"
+
+#: src/katedocmanager.cpp:228
+msgid "Delete File?"
+msgstr "Ștergeți fișierul?"
+
+#: src/katedocmanager.cpp:333
+#, kde-format
+msgid ""
+"<p>The document '%1' has been modified, but not saved.</p><p>Do you want to "
+"save your changes or discard them?</p>"
+msgstr ""
+"<p>Documentul „%1” a fost modificat, dar nu și salvat.</p><p>Doriți să "
+"salvați sau să eliminați modificările?</p>"
+
+#: src/katedocmanager.cpp:335 src/katetabbutton.cpp:43
+msgid "Close Document"
+msgstr "Închide documentul"
+
+#: src/katedocmanager.cpp:342
+msgid "Save As"
+msgstr "Salvează ca"
+
+#: src/katedocmanager.cpp:361 src/katemainwindow.cpp:460
+msgid "New file opened while trying to close Kate, closing aborted."
+msgstr ""
+"A fost deschis un fișier nou în tip ce Kate se termina. Închidere anulată."
+
+#: src/katedocmanager.cpp:362 src/katemainwindow.cpp:461
+msgid "Closing Aborted"
+msgstr "Terminare anulată"
+
+#: src/katedocmanager.cpp:437
+msgid "Starting Up"
+msgstr "Pornire"
+
+#: src/katedocmanager.cpp:438
+msgid "Reopening files from the last session..."
+msgstr "Se redeschid fișierele din ultima sesiune..."
+
+#: src/katedocmanager.cpp:600
+msgid "Errors/Warnings while opening documents"
+msgstr "Erori/avertizări la deschiderea documentelor"
+
+#: src/katemainwindow.cpp:219
+msgid "Use this command to show or hide the view's statusbar"
+msgstr "Utilizați această comandă pentru a afișa sau ascunde bara de stare"
+
+#: src/katemainwindow.cpp:222
+#, fuzzy
+#| msgid "Show Side&bars"
+msgid "Show &Tabs"
+msgstr "Arată &bare laterale"
+
+#: src/katemainwindow.cpp:225
+#, fuzzy
+#| msgid "Use this command to show or hide the view's statusbar"
+msgid "Use this command to show or hide the tabs for the views"
+msgstr "Utilizați această comandă pentru a afișa sau ascunde bara de stare"
+
+#: src/katemainwindow.cpp:227
+msgid "Sho&w Path in Titlebar"
+msgstr "Arată &calea în bara de titlu"
+
+#: src/katemainwindow.cpp:230
+msgid "Show the complete document path in the window caption"
+msgstr "Arată calea completă a documentului în bara de titlu a ferestrei"
+
+#: src/katemainwindow.cpp:233
+#, fuzzy
+#| msgid "Previous Document"
+msgid "&Previous Tab"
+msgstr "Documentul precedent"
+
+#: src/katemainwindow.cpp:234
+msgid "Focus the previous tab."
+msgstr ""
+
+#: src/katemainwindow.cpp:238
+msgid "&Next Tab"
+msgstr ""
+
+#: src/katemainwindow.cpp:239
+msgid "Focus the next tab."
+msgstr ""
+
+#: src/katemainwindow.cpp:245
+msgid "&Quick Open"
+msgstr "&Deschide rapid"
+
+#: src/katemainwindow.cpp:248
+msgid "Open a form to quick open documents."
+msgstr "Deschide un formular pentru deschiderea rapidă a documentelor."
+
+#: src/katemainwindow.cpp:281
+msgid "Create a new document"
+msgstr "Creează un document nou"
+
+#: src/katemainwindow.cpp:283
+msgid "Open an existing document for editing"
+msgstr "Deschide un document existent pentru editare"
+
+#: src/katemainwindow.cpp:288
+msgid ""
+"This lists files which you have opened recently, and allows you to easily "
+"open them again."
+msgstr ""
+"Listează fișierele pe care le-ați deschis recent și vă permite cu ușurință "
+"să le deschideți din nou."
+
+#: src/katemainwindow.cpp:292
+msgid "Save A&ll"
+msgstr "Salvează t&ot"
+
+#: src/katemainwindow.cpp:295
+msgid "Save all open, modified documents to disk."
+msgstr "Salvează toate documentele deschise și modificate."
+
+#: src/katemainwindow.cpp:298
+msgid "&Reload All"
+msgstr "&Reîncarcă toate"
+
+#: src/katemainwindow.cpp:300
+msgid "Reload all open documents."
+msgstr "Reîncarcă toate documentele deschise."
+
+#: src/katemainwindow.cpp:303
+msgid "Close Orphaned"
+msgstr "Închide cele orfane"
+
+#: src/katemainwindow.cpp:305
+msgid ""
+"Close all documents in the file list that could not be reopened, because "
+"they are not accessible anymore."
+msgstr ""
+"Închide toate documentele din lista de fișiere care nu au putut fi "
+"redeschise, pentru că nu mai sînt accesibile."
+
+#: src/katemainwindow.cpp:308
+msgid "Close the current document."
+msgstr "Închide documentul curent."
+
+#: src/katemainwindow.cpp:311
+msgid "Close Other"
+msgstr "Închide celelalte"
+
+#: src/katemainwindow.cpp:313
+msgid "Close other open documents."
+msgstr "Închide celelalte documente deschise."
+
+#: src/katemainwindow.cpp:316
+msgid "Clos&e All"
+msgstr "În&chide tot"
+
+#: src/katemainwindow.cpp:318
+msgid "Close all open documents."
+msgstr "Închide toate documentele deschise."
+
+#: src/katemainwindow.cpp:323
+msgid "Close this window"
+msgstr "Închide această fereastră"
+
+#: src/katemainwindow.cpp:327
+msgid "&New Window"
+msgstr "Fereastră &nouă"
+
+#: src/katemainwindow.cpp:329
+msgid "Create a new Kate view (a new window with the same document list)."
+msgstr ""
+"Creează o nouă vizualizare Kate (o fereastră nouă cu aceeași listă de "
+"documente)."
+
+#: src/katemainwindow.cpp:335
+msgid "Open W&ith"
+msgstr "&Deschide cu"
+
+#: src/katemainwindow.cpp:337
+msgid ""
+"Open the current document using another application registered for its file "
+"type, or an application of your choice."
+msgstr ""
+"Deschide documentul curent utilizînd altă aplicație înregistrată cu tipul de "
+"fișier sau cu o aplicație la alegerea dumneavoastră."
+
+#: src/katemainwindow.cpp:342
+msgid "Configure the application's keyboard shortcut assignments."
+msgstr "Configurează asocierile de acceleratori de tastatură ale aplicației."
+
+#: src/katemainwindow.cpp:345
+msgid "Configure which items should appear in the toolbar(s)."
+msgstr "Configurează ce elemnte trebuie să apară în barele de unelte."
+
+#: src/katemainwindow.cpp:348
+msgid ""
+"Configure various aspects of this application and the editing component."
+msgstr ""
+"Configurează diferite aspecte ale acestei aplicații și ale componentei de "
+"editare."
+
+#: src/katemainwindow.cpp:352
+msgid "&Plugins Handbook"
+msgstr "Manualul &modulelor"
+
+#: src/katemainwindow.cpp:354
+msgid "This shows help files for various available plugins."
+msgstr "Afișează documentația de ajutor pentru modulele disponibile."
+
+#: src/katemainwindow.cpp:358
+msgid "&About Editor Component"
+msgstr "&Despre componenta de editare"
+
+#: src/katemainwindow.cpp:375
+msgctxt "Menu entry Session->New"
+msgid "&New"
+msgstr "&Nouă"
+
+#: src/katemainwindow.cpp:380
+msgid "&Open Session"
+msgstr "&Deschide sesiune"
+
+#: src/katemainwindow.cpp:385
+msgid "&Save Session"
+msgstr "&Salvează sesiunea"
+
+#: src/katemainwindow.cpp:389
+msgid "Save Session &As..."
+msgstr "Salvează sesiunea c&a..."
+
+#: src/katemainwindow.cpp:393
+msgid "&Manage Sessions..."
+msgstr "&Gestionare sesiuni..."
+
+#: src/katemainwindow.cpp:398
+msgid "&Quick Open Session"
+msgstr "Deschide rapid sesiunea"
+
+#: src/katemainwindow.cpp:405
+msgid "This will close all open documents. Are you sure you want to continue?"
+msgstr ""
+"Această operație va închide toate documentele deschise. Sigur doriți să "
+"continuați?"
+
+#: src/katemainwindow.cpp:406
+msgid "Close all documents"
+msgstr "Închide toate documentele"
+
+#: src/katemainwindow.cpp:577
+#, kde-format
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"Aceasta va ascunde complet bara meniului. O puteți afișa din nou tastînd %1."
+
+#: src/katemainwindow.cpp:579
+msgid "Hide menu bar"
+msgstr "Ascunde bara meniului"
+
+#: src/katemainwindow.cpp:822
+msgid "&Other..."
+msgstr "&Altele..."
+
+#: src/katemainwindow.cpp:845
+#, kde-format
+msgid "Application '%1' not found."
+msgstr "Aplicația „%1” nu a fost gasită."
+
+#: src/katemainwindow.cpp:845
+msgid "Application not found"
+msgstr "Aplicația nu a fost gasită"
+
+#: src/katemainwindow.cpp:952
+msgid " [read only]"
+msgstr " [numai citire]"
+
+#: src/katemdi.cpp:112
+msgid "Tool &Views"
+msgstr "&Vizualizări de unelte"
+
+#: src/katemdi.cpp:114
+msgid "Show Side&bars"
+msgstr "Arată &bare laterale"
+
+#: src/katemdi.cpp:157
+#, kde-format
+msgid "Show %1"
+msgstr "Arată %1"
+
+#: src/katemdi.cpp:486
+msgid "Configure ..."
+msgstr "Configurare..."
+
+#: src/katemdi.cpp:490
+msgid "Behavior"
+msgstr "Comportament"
+
+#: src/katemdi.cpp:493
+msgid "Make Non-Persistent"
+msgstr "Fă nepersistent"
+
+#: src/katemdi.cpp:493
+msgid "Make Persistent"
+msgstr "Fă persistent"
+
+#: src/katemdi.cpp:495
+msgid "Move To"
+msgstr "Mută la"
+
+#: src/katemdi.cpp:498
+msgid "Left Sidebar"
+msgstr "Bara laterală stîngă"
+
+#: src/katemdi.cpp:502
+msgid "Right Sidebar"
+msgstr "Bara laterală dreaptă"
+
+#: src/katemdi.cpp:506
+msgid "Top Sidebar"
+msgstr "Bara laterală superioară"
+
+#: src/katemdi.cpp:510
+msgid "Bottom Sidebar"
+msgstr "Bara laterală inferioară"
+
+#: src/katemdi.cpp:850
+msgid ""
+"<qt>You are about to hide the sidebars. With hidden sidebars it is not "
+"possible to directly access the tool views with the mouse anymore, so if you "
+"need to access the sidebars again invoke <b>View &gt; Tool Views &gt; Show "
+"Sidebars</b> in the menu. It is still possible to show/hide the tool views "
+"with the assigned shortcuts.</qt>"
+msgstr ""
+"<qt>Sînteți pe cale să ascundeți barele laterale. Cu barele laterale ascunse "
+"nu se mai pot accesa vederile uneltelor direct cu mausul, deci dacă doriți "
+"să accesați din nou barele laterale invocați <b>Fereastră &gt; Vederi unelte "
+"&gt; Afișează barele laterale</b> din meniu. Vederile uneltelor se mai pot "
+"afișa/ascunde și cu tastele rapide desemnate.</qt>"
+
+#: src/katemwmodonhddialog.cpp:66
+msgid "Documents Modified on Disk"
+msgstr "Documente modificate pe disc"
+
+#: src/katemwmodonhddialog.cpp:83
+msgid ""
+"<qt>The documents listed below have changed on disk.<p>Select one or more at "
+"once, and press an action button until the list is empty.</p></qt>"
+msgstr ""
+"<qt>Documentele listate mai jos au fost modificate pe disc.<p>Selectați unul "
+"sau mai multe deodată și apăsați un buton de acțiune pînă cînd lista va "
+"deveni goală.</p></qt>"
+
+#: src/katemwmodonhddialog.cpp:92
+msgid "Filename"
+msgstr "Nume fișier"
+
+#: src/katemwmodonhddialog.cpp:92
+msgid "Status on Disk"
+msgstr "Stare pe disc"
+
+#: src/katemwmodonhddialog.cpp:97
+msgid "Modified"
+msgstr "Modificat"
+
+#: src/katemwmodonhddialog.cpp:97
+msgid "Created"
+msgstr "Creat"
+
+#: src/katemwmodonhddialog.cpp:97
+msgid "Deleted"
+msgstr "Șters"
+
+#: src/katemwmodonhddialog.cpp:111
+msgid "&View Difference"
+msgstr "&Vizualizează diferența"
+
+#: src/katemwmodonhddialog.cpp:113
+msgid ""
+"Calculates the difference between the editor contents and the disk file for "
+"the selected document, and shows the difference with the default "
+"application. Requires diff(1)."
+msgstr ""
+"Pentru documentul selectat calculează diferența între conținutul editorului "
+"și fișierul de pe disc și afișează diferențele cu aplicația implicită "
+"asociată. Este nevoie de utilitarul diff(1)."
+
+#: src/katemwmodonhddialog.cpp:123
+msgid "&Ignore Changes"
+msgstr "&Ignoră modificările"
+
+#: src/katemwmodonhddialog.cpp:124
+msgid "Remove modified flag from selected documents"
+msgstr "Elimină fanionul de modificare de pe documentele alese"
+
+#: src/katemwmodonhddialog.cpp:130
+msgid "Overwrite selected documents, discarding disk changes"
+msgstr "Suprascrie documentele alese, eliminînd modificările existente pe disc"
+
+#: src/katemwmodonhddialog.cpp:134
+msgid "&Reload"
+msgstr "&Reîncarcă"
+
+#: src/katemwmodonhddialog.cpp:136
+msgid "Reload selected documents from disk"
+msgstr "Reîncarcă de pe disc documentele alese"
+
+#: src/katemwmodonhddialog.cpp:189
+#, kde-format
+msgid ""
+"Could not save the document \n"
+"'%1'"
+msgstr ""
+"Nu s-a putut salva documentul \n"
+"„%1”"
+
+#: src/katemwmodonhddialog.cpp:295
+msgid ""
+"The diff command failed. Please make sure that diff(1) is installed and in "
+"your PATH."
+msgstr ""
+"Comanda „diff” eșuat. Asigurați-vă că diff(1) este instalat și este "
+"accesibil prin intermediul variabilei de mediu PATH."
+
+#: src/katemwmodonhddialog.cpp:297
+msgid "Error Creating Diff"
+msgstr "Eroare la crearea diferențelor"
+
+#: src/katemwmodonhddialog.cpp:305
+msgid "Ignoring amount of white space changed, the files are identical."
+msgstr "Ignorînd modificările de spațiu alb, fișierele sînt identice."
+
+#: src/katemwmodonhddialog.cpp:306
+msgid "Diff Output"
+msgstr "Ieșire Diff"
+
+#: src/katequickopen.cpp:64
+msgid "Quick Open Search"
+msgstr "Deschide rapid căutarea"
+
+#: src/katesavemodifieddialog.cpp:81
+#, kde-format
+msgid "Save As (%1)"
+msgstr "Salvează ca (%1)"
+
+#: src/katesavemodifieddialog.cpp:88
+#, kde-format
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"Există deja un fișier cu denumirea „%1”. Sigur doriți să îl suprascrieți?"
+
+#: src/katesavemodifieddialog.cpp:90
+msgid "Overwrite File?"
+msgstr "Suprascrieți fișierul?"
+
+#: src/katesavemodifieddialog.cpp:147
+msgid "Save Documents"
+msgstr "Salvează documentele"
+
+#: src/katesavemodifieddialog.cpp:155
+msgid ""
+"<qt>The following documents have been modified. Do you want to save them "
+"before closing?</qt>"
+msgstr ""
+"<qt>Documentele următoare au fost modificate. Doriți să le salvați înainte "
+"de a închide aplicația?</qt>"
+
+#: src/katesavemodifieddialog.cpp:162
+msgid "Documents"
+msgstr "Documente"
+
+#: src/katesavemodifieddialog.cpp:162
+msgid "Location"
+msgstr "Amplasare"
+
+#: src/katesavemodifieddialog.cpp:172
+msgid "Se&lect All"
+msgstr "Selectează t&ot"
+
+#: src/katesavemodifieddialog.cpp:244
+msgid ""
+"Data you requested to be saved could not be written. Please choose how you "
+"want to proceed."
+msgstr ""
+"Datele pe care ați cerut să le salvați nu pot fi scrie. Alegeți ce doriți să "
+"faceți în continuare."
+
+#: src/kateviewmanager.cpp:126
+msgid "Split Ve&rtical"
+msgstr "Desparte pe &verticală"
+
+#: src/kateviewmanager.cpp:130
+msgid "Split the currently active view vertically into two views."
+msgstr ""
+"Desparte vizualizarea curentă activă, pe verticală, în două vizualizări."
+
+#: src/kateviewmanager.cpp:134
+msgid "Split &Horizontal"
+msgstr "Desparte pe &orizontală"
+
+#: src/kateviewmanager.cpp:138
+msgid "Split the currently active view horizontally into two views."
+msgstr ""
+"Desparte vizualizarea curentă activă, pe orizontală, în două vizualizări."
+
+#: src/kateviewmanager.cpp:142
+msgid "Cl&ose Current View"
+msgstr "Închide vizualizarea &curentă"
+
+#: src/kateviewmanager.cpp:146
+msgid "Close the currently active split view"
+msgstr "Închide vizualizarea împărțită activă"
+
+#: src/kateviewmanager.cpp:150
+msgid "Close Inactive Views"
+msgstr "Închide vizualizările inactive"
+
+#: src/kateviewmanager.cpp:153
+msgid "Close every view but the active one"
+msgstr "Închide toate vizualizările în afară de cea activă"
+
+#: src/kateviewmanager.cpp:157
+#, fuzzy
+#| msgid "Close Inactive Views"
+msgid "Hide Inactive Views"
+msgstr "Închide vizualizările inactive"
+
+#: src/kateviewmanager.cpp:161
+#, fuzzy
+#| msgid "Close every view but the active one"
+msgid "Hide every view but the active one"
+msgstr "Închide toate vizualizările în afară de cea activă"
+
+#: src/kateviewmanager.cpp:164
+msgid "Toggle Orientation"
+msgstr ""
+
+#: src/kateviewmanager.cpp:167
+#, fuzzy
+#| msgid "Move the splitter of the current view up"
+msgid "Toggles the orientation of the current split view"
+msgstr "Mută separatorul vizualizării curente în sus"
+
+#: src/kateviewmanager.cpp:170
+msgid "Next Split View"
+msgstr "Următoarea vizualizare împărțită"
+
+#: src/kateviewmanager.cpp:174
+msgid "Make the next split view the active one."
+msgstr "Activează următoarea vizualizare împărțită."
+
+#: src/kateviewmanager.cpp:177
+msgid "Previous Split View"
+msgstr "Precedenta vizualizare împărțită"
+
+#: src/kateviewmanager.cpp:181
+msgid "Make the previous split view the active one."
+msgstr "Activează vizualizarea împărțită precendentă."
+
+#: src/kateviewmanager.cpp:184
+msgid "Move Splitter Right"
+msgstr "Mută separatorul la dreapta"
+
+#: src/kateviewmanager.cpp:187
+msgid "Move the splitter of the current view to the right"
+msgstr "Mută separatorul vizualizării curente la dreapta"
+
+#: src/kateviewmanager.cpp:190
+msgid "Move Splitter Left"
+msgstr "Mută separatorul la stînga"
+
+#: src/kateviewmanager.cpp:193
+msgid "Move the splitter of the current view to the left"
+msgstr "Mută separatorul vizualizării curente la stînga"
+
+#: src/kateviewmanager.cpp:196
+msgid "Move Splitter Up"
+msgstr "Mută separatorul în sus"
+
+#: src/kateviewmanager.cpp:199
+msgid "Move the splitter of the current view up"
+msgstr "Mută separatorul vizualizării curente în sus"
+
+#: src/kateviewmanager.cpp:202
+msgid "Move Splitter Down"
+msgstr "Mută separatorul în jos"
+
+#: src/kateviewmanager.cpp:205
+msgid "Move the splitter of the current view down"
+msgstr "Mută separatorul vizualizării curente în jos"
+
+#: src/kateviewmanager.cpp:234
+msgid "Open File"
+msgstr "Deschide fișier"
+
+#: src/kateviewmanager.cpp:244
+#, kde-format
+msgid ""
+"<p>You are attempting to open one or more large files:</p><ul>%1</ul><p>Do "
+"you want to proceed?</p><p><strong>Beware that kate may stop responding for "
+"some time when opening large files.</strong></p>"
+msgstr ""
+
+#: src/kateviewmanager.cpp:246
+msgid "Opening Large File"
+msgstr "Deschiderea unui fișier mare"
+
+#: src/kateviewspace.cpp:80 src/kateviewspace.cpp:532
+#, kde-format
+msgctxt "indicator for more documents"
+msgid "+%1"
+msgstr ""
+
+#: src/kateviewspace.cpp:85 src/kateviewspace.cpp:145
+msgid "Click here to switch to the Quick Open view."
+msgstr ""
+
+#: src/kateviewspace.cpp:98
+msgid "Control view space splitting"
+msgstr ""
+
+#: src/kateviewspace.cpp:146
+#, kde-format
+msgid ""
+"Currently, there is one more document open. To see all open documents, "
+"switch to the Quick Open view by clicking here."
+msgid_plural ""
+"Currently, there are %1 more documents open. To see all open documents, "
+"switch to the Quick Open view by clicking here."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: src/kateviewspace.cpp:568
+#, fuzzy
+#| msgid "Close Document"
+msgid "&Close Document"
+msgstr "Închide documentul"
+
+#: src/kateviewspace.cpp:569
+#, fuzzy
+#| msgid "Close Document"
+msgid "&Close Other Documents"
+msgstr "Închide documentul"
+
+#: src/main.cpp:62
+msgid "Kate"
+msgstr "Kate"
+
+#: src/main.cpp:63
+msgid "Kate - Advanced Text Editor"
+msgstr "Kate - Un editor de text avansat"
+
+#: src/main.cpp:64
+#, fuzzy
+#| msgid "(c) 2000-2013 The Kate Authors"
+msgid "(c) 2000-2014 The Kate Authors"
+msgstr "(c) 2000-2013 Autorii Kate"
+
+#: src/main.cpp:71
+msgid "Christoph Cullmann"
+msgstr "Christoph Cullmann"
+
+#: src/main.cpp:71
+msgid "Maintainer"
+msgstr "Responsabil"
+
+#: src/main.cpp:72
+msgid "Anders Lund"
+msgstr "Anders Lund"
+
+#: src/main.cpp:72 src/main.cpp:73 src/main.cpp:74 src/main.cpp:81
+msgid "Core Developer"
+msgstr "Dezvoltator principal"
+
+#: src/main.cpp:73
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: src/main.cpp:74
+msgid "Hamish Rodda"
+msgstr "Hamish Rodda"
+
+#: src/main.cpp:75
+msgid "Dominik Haumann"
+msgstr "Dominik Haumann"
+
+#: src/main.cpp:75
+msgid "Developer & Highlight wizard"
+msgstr "Expert dezvoltare și evidențiere sintaxă"
+
+#: src/main.cpp:76
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+#: src/main.cpp:76
+msgid "Developer"
+msgstr "Dezvoltator"
+
+#: src/main.cpp:77
+msgid "Waldo Bastian"
+msgstr "Waldo Bastian"
+
+#: src/main.cpp:77
+msgid "The cool buffersystem"
+msgstr "Sistem deștept de tampoane"
+
+#: src/main.cpp:78
+msgid "Charles Samuels"
+msgstr "Charles Samuels"
+
+#: src/main.cpp:78
+msgid "The Editing Commands"
+msgstr "Comenzi de editare"
+
+#: src/main.cpp:79
+msgid "Matt Newell"
+msgstr "Matt Newell"
+
+#: src/main.cpp:79
+msgid "Testing, ..."
+msgstr "Testare, ..."
+
+#: src/main.cpp:80
+msgid "Michael Bartl"
+msgstr "Michael Bartl"
+
+#: src/main.cpp:80
+msgid "Former Core Developer"
+msgstr "Fostul dezvoltator principal"
+
+#: src/main.cpp:81
+msgid "Michael McCallum"
+msgstr "Michael McCallum"
+
+#: src/main.cpp:82
+msgid "Jochen Wilhemly"
+msgstr "Jochen Wilhemly"
+
+#: src/main.cpp:82
+msgid "KWrite Author"
+msgstr "Autor KWrite"
+
+#: src/main.cpp:83
+msgid "Michael Koch"
+msgstr "Michael Koch"
+
+#: src/main.cpp:83
+msgid "KWrite port to KParts"
+msgstr "Portare KWrite la KParts"
+
+#: src/main.cpp:84
+msgid "Christian Gebauer"
+msgstr "Christian Gebauer"
+
+#: src/main.cpp:85
+msgid "Simon Hausmann"
+msgstr "Simon Hausmann"
+
+#: src/main.cpp:86
+msgid "Glen Parker"
+msgstr "Glen Parker"
+
+#: src/main.cpp:86
+msgid "KWrite Undo History, Kspell integration"
+msgstr "Istoric desfacere KWrite, integrare KSpell"
+
+#: src/main.cpp:87
+msgid "Scott Manson"
+msgstr "Scott Manson"
+
+#: src/main.cpp:87
+msgid "KWrite XML Syntax highlighting support"
+msgstr "Suport XML KWrite pentru evidențierea sintaxei"
+
+#: src/main.cpp:88
+msgid "John Firebaugh"
+msgstr "John Firebaugh"
+
+#: src/main.cpp:88
+msgid "Patches and more"
+msgstr "Petice și altele"
+
+#: src/main.cpp:89
+msgid "Pablo Martín"
+msgstr "Pablo Martín"
+
+#: src/main.cpp:89
+msgid "Python Plugin Developer"
+msgstr "Dezvoltatorul extensiei Python"
+
+#: src/main.cpp:90
+msgid "Gerald Senarclens de Grancy"
+msgstr "Gerald Senarclens de Grancy"
+
+#: src/main.cpp:90
+msgid "QA and Scripting"
+msgstr "Asigurarea calității și scripting"
+
+#: src/main.cpp:92
+msgid "Matteo Merli"
+msgstr "Matteo Merli"
+
+#: src/main.cpp:92
+msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
+msgstr "Evidențiere pentru fișiere Spec RPM, Perl, Diff și altele"
+
+#: src/main.cpp:93
+msgid "Rocky Scaletta"
+msgstr "Rocky Scaletta"
+
+#: src/main.cpp:93
+msgid "Highlighting for VHDL"
+msgstr "Evidențiere pentru VHDL"
+
+#: src/main.cpp:94
+msgid "Yury Lebedev"
+msgstr "Yury Lebedev"
+
+#: src/main.cpp:94
+msgid "Highlighting for SQL"
+msgstr "Evidențiere pentru SQL"
+
+#: src/main.cpp:95
+msgid "Chris Ross"
+msgstr "Chris Ross"
+
+#: src/main.cpp:95
+msgid "Highlighting for Ferite"
+msgstr "Evidențiere pentru Ferite"
+
+#: src/main.cpp:96
+msgid "Nick Roux"
+msgstr "Nick Roux"
+
+#: src/main.cpp:96
+msgid "Highlighting for ILERPG"
+msgstr "Evidențiere pentru ILERPG"
+
+#: src/main.cpp:97
+msgid "Carsten Niehaus"
+msgstr "Carsten Niehaus"
+
+#: src/main.cpp:97
+msgid "Highlighting for LaTeX"
+msgstr "Evidențiere pentru LaTeX"
+
+#: src/main.cpp:98
+msgid "Per Wigren"
+msgstr "Per Wigren"
+
+#: src/main.cpp:98
+msgid "Highlighting for Makefiles, Python"
+msgstr "Evidențiere pentru Makefile, Python"
+
+#: src/main.cpp:99
+msgid "Jan Fritz"
+msgstr "Jan Fritz"
+
+#: src/main.cpp:99
+msgid "Highlighting for Python"
+msgstr "Evidențiere pentru Python"
+
+#: src/main.cpp:100
+msgid "Daniel Naber"
+msgstr "Daniel Naber"
+
+#: src/main.cpp:101
+msgid "Roland Pabel"
+msgstr "Roland Pabel"
+
+#: src/main.cpp:101
+msgid "Highlighting for Scheme"
+msgstr "Evidențiere pentru Scheme"
+
+#: src/main.cpp:102
+msgid "Cristi Dumitrescu"
+msgstr "Cristi Dumitrescu"
+
+#: src/main.cpp:102
+msgid "PHP Keyword/Datatype list"
+msgstr "Listă de cuvinte cheie/tipuri de dată PHP"
+
+#: src/main.cpp:103
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+#: src/main.cpp:103
+msgid "Very nice help"
+msgstr "Mesaje de ajutor foarte bune"
+
+#: src/main.cpp:104
+msgid "All people who have contributed and I have forgotten to mention"
+msgstr ""
+"Toate persoanele care au contribuit și pe care am uitat să le menționez"
+
+#: src/main.cpp:140
+#, fuzzy
+#| msgid "Start Kate with a given session"
+msgid "Start Kate with a given session."
+msgstr "Pornește Kate cu o sesiune dată"
+
+#: src/main.cpp:144
+#, fuzzy
+#| msgid "Start Kate with a new anonymous session, implies '-n'"
+msgid "Start Kate with a new anonymous session, implies '-n'."
+msgstr "Pornește Kate cu o nouă sesiune anonimă, implică „-n”"
+
+#: src/main.cpp:148
+#, fuzzy
+#| msgid ""
+#| "Force start of a new kate instance (is ignored if start is used and "
+#| "another kate instance already has the given session opened), forced if no "
+#| "parameters and no URLs are given at all"
+msgid ""
+"Force start of a new kate instance (is ignored if start is used and another "
+"kate instance already has the given session opened), forced if no parameters "
+"and no URLs are given at all."
+msgstr ""
+"Forțează lansarea unei noi instanțe Kate (se ignoră lansarea instanței dacă "
+"Kate are deja deschisă sesiunea dată), forțată dacă nu se specifică nici un "
+"parametru sau adrese URL"
+
+#: src/main.cpp:152
+#, fuzzy
+#| msgid ""
+#| "If using an already running kate instance, block until it exits, if URLs "
+#| "given to open"
+msgid ""
+"If using an already running kate instance, block until it exits, if URLs "
+"given to open."
+msgstr ""
+"Dacă utilizați o instanță Kate în curs de utilizare, se blochează pînă la "
+"terminare, dacă s-au indicat adrese URL pentru deschidere"
+
+#: src/main.cpp:156
+#, fuzzy
+#| msgid ""
+#| "Only try to reuse kate instance with this pid (is ignored if start is "
+#| "used and another kate instance already has the given session opened)"
+msgid ""
+"Only try to reuse kate instance with this pid (is ignored if start is used "
+"and another kate instance already has the given session opened)."
+msgstr ""
+"Încearcă numai reutilizarea instanței Kate cu acest pid (se ignoră lansarea "
+"instanței dacă Kate are deja deschisă sesiunea dată)"
+
+#: src/main.cpp:160
+#, fuzzy
+#| msgid "Set encoding for the file to open"
+msgid "Set encoding for the file to open."
+msgstr "Stabilește codarea pentru fișierul de deschis"
+
+#: src/main.cpp:164
+#, fuzzy
+#| msgid "Navigate to this line"
+msgid "Navigate to this line."
+msgstr "Sare la această linie"
+
+#: src/main.cpp:168
+#, fuzzy
+#| msgid "Navigate to this column"
+msgid "Navigate to this column."
+msgstr "Sare la această coloană"
+
+#: src/main.cpp:172
+#, fuzzy
+#| msgid "Read the contents of stdin"
+msgid "Read the contents of stdin."
+msgstr "Citește conținutul de la STDIN"
+
+#: src/main.cpp:176
+msgid "The files/URLs opened by the application will be deleted after use"
+msgstr ""
+
+#: src/main.cpp:180
+#, fuzzy
+#| msgid "Document to open"
+msgid "Documents to open."
+msgstr "Document de deschis"
+
+#: src/session/katesessionchooser.cpp:43
+msgid "Session Chooser"
+msgstr "Selector de sesiuni"
+
+#: src/session/katesessionchooser.cpp:50
+#: src/session/katesessionmanagedialog.cpp:55
+#: src/session/katesessionopendialog.cpp:49
+msgid "Session Name"
+msgstr "Numele sesiunii"
+
+#: src/session/katesessionchooser.cpp:51
+#: src/session/katesessionmanagedialog.cpp:56
+#: src/session/katesessionopendialog.cpp:50
+msgctxt "The number of open documents"
+msgid "Open Documents"
+msgstr "Documente deschise"
+
+#: src/session/katesessionchooser.cpp:74
+#, fuzzy
+#| msgid "No session selected to open."
+msgid "Clone session settings"
+msgstr "Nicio sesiune aleasă de deschis."
+
+#: src/session/katesessionchooser.cpp:77
+#, fuzzy
+#| msgid "Elements of Sessions"
+msgid "Delete this session"
+msgstr "Elementele sesiunilor"
+
+#: src/session/katesessionchooser.cpp:96
+msgid "&Always use this choice"
+msgstr "Utilizează mereu &această alegere"
+
+#: src/session/katesessionchooser.cpp:108
+#: src/session/katesessionopendialog.cpp:39
+msgid "Open Session"
+msgstr "Deschide sesiunea"
+
+#: src/session/katesessionchooser.cpp:115
+msgid "New Session"
+msgstr "Sesiune nouă"
+
+#: src/session/katesessionmanagedialog.cpp:42
+msgid "Manage Sessions"
+msgstr "Gestionați sesiunile"
+
+#: src/session/katesessionmanagedialog.cpp:74
+msgid "&Rename..."
+msgstr "&Redenumire..."
+
+#: src/session/katesessionmanagedialog.cpp:93
+#: src/session/katesessionopendialog.cpp:79
+msgid "&Open"
+msgstr "&Deschide"
+
+#: src/session/katesessionmanagedialog.cpp:128
+msgid "Specify New Name for Session"
+msgstr "Specificați un nume nou pentru sesiune"
+
+#: src/session/katesessionmanagedialog.cpp:128
+#: src/session/katesessionmanager.cpp:455
+msgid "Session name:"
+msgstr "Numele sesiunii:"
+
+#: src/session/katesessionmanagedialog.cpp:136
+#: src/session/katesessionmanager.cpp:463
+msgid "To save a session, you must specify a name."
+msgstr "Pentru a salva o sesiune, trebuie să specificați un nume."
+
+#: src/session/katesessionmanagedialog.cpp:136
+#: src/session/katesessionmanager.cpp:463
+msgid "Missing Session Name"
+msgstr "Lipsește numele sesiunii"
+
+#: src/session/katesessionmanager.cpp:124
+msgid ""
+"Internal error: there is more than one instance open for a given session."
+msgstr ""
+"Eroare internă: există mai multe instanțe deschise pentru o sesiune dată."
+
+#: src/session/katesessionmanager.cpp:129
+#, kde-format
+msgid ""
+"Session '%1' is already opened in another kate instance, change there "
+"instead of reopening?"
+msgstr ""
+"Sesiunea „%1” este deja deschisă de o altă instanță Kate. Schimbați acest "
+"parametru în loc să redeschideți?"
+
+#: src/session/katesessionmanager.cpp:267
+#, kde-format
+msgid ""
+"The session could not be renamed to \"%1\", there already exists another "
+"session with the same name"
+msgstr ""
+"Sesiunea nu poate fi redenumită în „%1” deoarece mai există deja o sesiune "
+"cu același nume"
+
+#: src/session/katesessionmanager.cpp:268
+#: src/session/katesessionmanager.cpp:281
+msgid "Session Renaming"
+msgstr "Redenumire sesiune"
+
+#: src/session/katesessionmanager.cpp:280
+#, fuzzy, kde-format
+#| msgid ""
+#| "The session could not be renamed to \"%1\", there already exists another "
+#| "session with the same name"
+msgid "The session could not be renamed to \"%1\". Failed to write to \"%2\""
+msgstr ""
+"Sesiunea nu poate fi redenumită în „%1” deoarece mai există deja o sesiune "
+"cu același nume"
+
+#: src/session/katesessionmanager.cpp:454
+msgid "Specify New Name for Current Session"
+msgstr "Specifică denumire nouă pentru sesiunea curentă"
+
+#: src/session/katesessionmanager.cpp:455
+msgid ""
+"There is already an existing session with your chosen name.\n"
+"Please choose a different one\n"
+"Session name:"
+msgstr ""
+"Există deja o sesiune cu numele pe care l-ați ales.\n"
+"Alegeți vă rog unul diferit\n"
+"Numele sesiunii:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbElements)
+#: src/ui/sessionconfigwidget.ui:29
+#, fuzzy
+#| msgid "Session Management"
+msgid "Session elements"
+msgstr "Gestionare sesiuni"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/ui/sessionconfigwidget.ui:35
+msgid ""
+"The session contains the list of open documents, recently opened files list, "
+"bookmarks, cursor position etc. When the session is loaded all elements are "
+"restored."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/ui/sessionconfigwidget.ui:47
+msgid "Maximum number of entries in recent file list:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, restoreVC)
+#: src/ui/sessionconfigwidget.ui:75
+#, fuzzy
+#| msgid ""
+#| "Check this if you want all your views and frames restored each time you "
+#| "open Kate"
+msgid ""
+"Check this if you want all your views and frames restored each time you open "
+"Kate."
+msgstr ""
+"Marcați această opțiune dacă doriți ca toate vizualizările și cadrele să fie "
+"refăcute la fiecare deschidere a lui Kate."
+
+#. i18n: ectx: property (text), widget (QCheckBox, restoreVC)
+#: src/ui/sessionconfigwidget.ui:78
+msgid "Include &window configuration"
+msgstr "Include configurația &ferestrei"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbAppStartup)
+#: src/ui/sessionconfigwidget.ui:88
+#, fuzzy
+#| msgid "Behavior on Application Startup"
+msgid "Behaviour on Application Startup"
+msgstr "Comportament la pornirea aplicației"
+
+#. i18n: ectx: property (text), widget (QRadioButton, startNewSessionRadioButton)
+#: src/ui/sessionconfigwidget.ui:94
+msgid "&Start new session"
+msgstr "Începe o &sesiune nouă"
+
+#. i18n: ectx: property (text), widget (QRadioButton, loadLastUserSessionRadioButton)
+#: src/ui/sessionconfigwidget.ui:101
+#, fuzzy
+#| msgid "&Load last-used session"
+msgid "&Load last used session"
+msgstr "Încarcă u&ltima sesiune utilizată"
+
+#. i18n: ectx: property (text), widget (QRadioButton, manuallyChooseSessionRadioButton)
+#: src/ui/sessionconfigwidget.ui:108
+msgid "&Manually choose a session"
+msgstr "Încarcă &manual o sesiune"
+
+#~ msgid "Comment"
+#~ msgstr "Comentariu"
+
+#, fuzzy
+#~| msgid "Highlight Matches"
+#~ msgid "&Highlight Tab"
+#~ msgstr "Evidențiază potrivirile"
+
+#~ msgid "All documents written to disk"
+#~ msgstr "Toate documentele scrise pe disc"
+
+#~ msgid "Document written to disk"
+#~ msgstr "Document scris pe disc"
+
+#~ msgid ""
+#~ "<p><b>w/wa &mdash; write document(s) to disk</b></p><p>Usage: <tt><b>w[a]"
+#~ "</b></tt></p><p>Writes the current document(s) to disk. It can be called "
+#~ "in two ways:<br /> <tt>w</tt> &mdash; writes the current document to "
+#~ "disk<br /> <tt>wa</tt> &mdash; writes all documents to disk.</p><p>If no "
+#~ "file name is associated with the document, a file dialog will be shown.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p><b>w/wa &mdash; scrie documentele pe disc</b></p><p>Utilizare: <tt><b>w"
+#~ "[a]</b></tt></p><p>Scrie  documentele curente pe disc. Poate fi apelat în "
+#~ "două feluri:<br /> <tt>w</tt> &mdash; scrie documentul curent pe disc<br /"
+#~ "> <tt>wa</tt> &mdash; scrie toate documentele pe disc.</p><p>Dacă nu este "
+#~ "asociat nici un fișier cu documentul curent, se va afișa o căsuță de "
+#~ "dialog de tip fișier.</p>"
+
+#~ msgid ""
+#~ "<p><b>q/qa/wq/wqa &mdash; [write and] quit</b></p><p>Usage: <tt><b>[w]q[a]"
+#~ "</b></tt></p><p>Quits the application. If <tt>w</tt> is prepended, it "
+#~ "also writes the document(s) to disk. This command can be called in "
+#~ "several ways:<br /> <tt>q</tt> &mdash; closes the current view.<br /> "
+#~ "<tt>qa</tt> &mdash; closes all views, effectively quitting the "
+#~ "application.<br /> <tt>wq</tt> &mdash; writes the current document to "
+#~ "disk and closes its view.<br /> <tt>wqa</tt> &mdash; writes all documents "
+#~ "to disk and quits.</p><p>In all cases, if the view being closed is the "
+#~ "last view, the application quits. If no file name is associated with the "
+#~ "document and it should be written to disk, a file dialog will be shown.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p><b>q/qa/wq/wqa &mdash; [scrie și] termină</b></p><p>Utilizare: <tt><b>"
+#~ "[w]q[a]</b></tt></p><p>Termină aplicația. Dacă <tt>w</tt> este adăugat la "
+#~ "început, scrie și documentele pe disc. Această comandă poate fi apelată "
+#~ "în mai multe feluri:<br /> <tt>q</tt> &mdash; închide fereastra curentă."
+#~ "<br /> <tt>qa</tt> &mdash; închide toate ferestrele, terminînd efectiv "
+#~ "aplicația.<br /> <tt>wq</tt> &mdash; scrie documentul curent pe disc și-i "
+#~ "închide fereastra.<br /> <tt>wqa</tt> &mdash; scrie toate documentele pe "
+#~ "disc și termină aplicația.</p><p>În toate cazurile, dacă fereastra ce se "
+#~ "închide este ultima, se termină aplicația. Dacă nu este asociat nici un "
+#~ "fișier cu documentul curent și trebuie scris pe disc, se va afișa o "
+#~ "căsuță de dialog de tip fișier.</p>"
+
+#~ msgid ""
+#~ "<p><b>x/xa &mdash; write and quit</b></p><p>Usage: <tt><b>x[a]</b></tt></"
+#~ "p><p>Saves document(s) and quits (e<b>x</b>its). This command can be "
+#~ "called in two ways:<br /> <tt>x</tt> &mdash; closes the current view.<br /"
+#~ "> <tt>xa</tt> &mdash; closes all views, effectively quitting the "
+#~ "application.</p><p>In all cases, if the view being closed is the last "
+#~ "view, the application quits. If no file name is associated with the "
+#~ "document and it should be written to disk, a file dialog will be shown.</"
+#~ "p><p>Unlike the 'w' commands, this command only writes the document if it "
+#~ "is modified.</p>"
+#~ msgstr ""
+#~ "<p><b>x/xa &mdash; scrie și termină</b></p><p>Utilizare: <tt><b>x[a]</b></"
+#~ "tt></p><p>Salvează documentele și termină (e<b>x</b>its). Această comandă "
+#~ "poate fi apelată în două feluri:<br /> <tt>x</tt> &mdash; închide "
+#~ "fereastra curentă.<br /> <tt>xa</tt> &mdash; închide toate ferestrele, "
+#~ "efectiv terminînd aplicația.</p><p>In all cases, if the view being closed "
+#~ "is the last view, the application quits. If no file name is associated "
+#~ "with the document and it should be written to disk, a file dialog will be "
+#~ "shown.</p><p>Unlike the 'w' commands, this command only writes the "
+#~ "document if it is modified.</p>"
+
+#~ msgid ""
+#~ "<p><b>sp,split&mdash; Split horizontally the current view into two</b></"
+#~ "p><p>Usage: <tt><b>sp[lit]</b></tt></p><p>The result is two views on the "
+#~ "same document.</p>"
+#~ msgstr ""
+#~ "<p><b>sp,split&mdash; Desparte orizontal vizualizarea curentă în două</"
+#~ "b></p><p>Utilizare: <tt><b>sp[lit]</b></tt></p><p>Vor rezulta două "
+#~ "vizualizări ale aceluiași document.</p>"
+
+#~ msgid ""
+#~ "<p><b>vs,vsplit&mdash; Split vertically the current view into two</b></"
+#~ "p><p>Usage: <tt><b>vs[plit]</b></tt></p><p>The result is two views on the "
+#~ "same document.</p>"
+#~ msgstr ""
+#~ "<p><b>vs,vsplit&mdash; Desparte vertical vizualizarea curentă în două</"
+#~ "b></p><p>Utilizare: <tt><b>vs[plit]</b></tt></p><p>Vor rezulta două "
+#~ "vizualizări ale aceluiași document.</p>"
+
+#~ msgid ""
+#~ "<p><b>[v]new &mdash; split view and create new document</b></p><p>Usage: "
+#~ "<tt><b>[v]new</b></tt></p><p>Splits the current view and opens a new "
+#~ "document in the new view. This command can be called in two ways:<br /> "
+#~ "<tt>new</tt> &mdash; splits the view horizontally and opens a new "
+#~ "document.<br /> <tt>vnew</tt> &mdash; splits the view vertically and "
+#~ "opens a new document.<br /></p>"
+#~ msgstr ""
+#~ "<p><b>[v]new &mdash; desparte fereastra și creează un document nou</b></"
+#~ "p><p>Utilizare: <tt><b>[v]new</b></tt></p><p>Desparte fereastra curentă "
+#~ "și deschide un nou document în fereastra nouă. Această comandă poate fi "
+#~ "apelată în două feluri:<br /> <tt>new</tt> &mdash; desparte fereastra "
+#~ "orizontal și deschide un nou document.<br /> <tt>vnew</tt> &mdash; "
+#~ "desparte fereastra vertical și deschide un nou document.<br /></p>"
+
+#~ msgid ""
+#~ "<p><b>e[dit] &mdash; reload current document</b></p><p>Usage: <tt><b>e"
+#~ "[dit]</b></tt></p><p>Starts <b>e</b>diting the current document again. "
+#~ "This is useful to re-edit the current file, when it has been changed by "
+#~ "another program.</p>"
+#~ msgstr ""
+#~ "<p><b>e[dit] &mdash; reîncarcă documentul curent</b></p><p>Utilizare: "
+#~ "<tt><b>e[dit]</b></tt></p><p>Reîncepe <b>e</b>ditarea documentului "
+#~ "curent. Re-editarea fișierului curent este necesară cînd a fost modificat "
+#~ "de un alt program.</p>"
+
+#~ msgid ""
+#~ "A KDE text-editor component could not be found.\n"
+#~ "Please check your KDE installation."
+#~ msgstr ""
+#~ "Nu a putut fi găsită o componentă KDE pentru editarea textului.\n"
+#~ "Verificați instalarea KDE."
+
+#~ msgid "Reuse existing Kate instance; default, only for compatibility"
+#~ msgstr ""
+#~ "Reutilizează instanța Kate existentă; implicit, numai pentru "
+#~ "compatibilitate"
+
+#~ msgid "This shows useful tips on the use of this application."
+#~ msgstr ""
+#~ "Afișează sfaturi utile despre modul de utilizare al acestei aplicații."
+
+#~ msgid "No Session Selected"
+#~ msgstr "Nicio sesiune aleasă"
+
+#~ msgid "No session selected to copy."
+#~ msgstr "Nicio sesiune aleasă de copiat."
+
+#~ msgid "Use selected session as template"
+#~ msgstr "Utilizează sesiunea alesă ca șablon"
+
+#~ msgid "Show Cursor Position"
+#~ msgstr "Arată poziția cursorului"
+
+#~ msgid "Show Characters Count"
+#~ msgstr "Arată contorul de caractere"
+
+#~ msgid "Show Insertion Mode"
+#~ msgstr "Arată regimul de inserție"
+
+#~ msgid "Show Selection Mode"
+#~ msgstr "Arată regimul de selecție"
+
+#~ msgid "Show Encoding"
+#~ msgstr "Arată codarea"
+
+#~ msgid "Show Document Name"
+#~ msgstr "Arată denumirea documentului"
+
+#~ msgid " Line: %1 Col: %2 "
+#~ msgstr " Linia: %1 Col: %2 "
+
+#~ msgid " Characters: %1 "
+#~ msgstr " Caractere: %1 "
+
+#~ msgid " LINE "
+#~ msgstr " LINIE "
+
+#~ msgid " INS "
+#~ msgstr " INS "
+
+#~ msgid " Line: %1 of %2 Col: %3 "
+#~ msgstr " Linie: %1 din %2 Col: %3 "
+
+#~ msgid " BLOCK "
+#~ msgstr " BLOC "
+
+#~ msgid "Close"
+#~ msgstr "Închide"
+
+#~ msgid "Copy Filename"
+#~ msgstr "Copiază denumirea fișierului"
+
+#~ msgid "Copy the filename of the file."
+#~ msgstr "Copiază denumirea fișierului."
+
+#~ msgid "Tree Mode"
+#~ msgstr "Mod arborescent"
+
+#~ msgid "Set view style to Tree Mode"
+#~ msgstr "Stabilește stilul afișării în mod arborescent"
+
+#~ msgid "List Mode"
+#~ msgstr "Mod listă"
+
+#~ msgid "Set view style to List Mode"
+#~ msgstr "Stabilește stilul afișării în mod listă"
+
+#~ msgid "Document Name"
+#~ msgstr "Numele documentului"
+
+#~ msgid "Sort by Document Name"
+#~ msgstr "Sortează după denumirea documentului"
+
+#~ msgid "Document Path"
+#~ msgstr "Calea documentului"
+
+#~ msgid "Sort by Document Path"
+#~ msgstr "Sortează după calea documentului"
+
+#~ msgid "Opening Order"
+#~ msgstr "Ordinea de deschidere"
+
+#~ msgid "Sort by Opening Order"
+#~ msgstr "Sortează în ordinea deschiderii"
+
+#~ msgid "Open With"
+#~ msgstr "Deschide cu"
+
+#~ msgid "View Mode"
+#~ msgstr "Regim de vizualizare"
+
+#~ msgid "Sort By"
+#~ msgstr "Sortează după"
+
+#~ msgid "Background Shading"
+#~ msgstr "Nuanțe de fundal"
+
+#~ msgid "&Viewed documents' shade:"
+#~ msgstr "Fundalul documentelor &vizualizate:"
+
+#~ msgid "&Modified documents' shade:"
+#~ msgstr "Fundalul documentelor &modificate:"
+
+#~ msgid "&Sort by:"
+#~ msgstr "&Sortare după:"
+
+#~ msgid "Url"
+#~ msgstr "Url"
+
+#~ msgid "&View Mode:"
+#~ msgstr "Regim de &vizualizare:"
+
+#~ msgid "Tree View"
+#~ msgstr "Vizualizare arborescentă"
+
+#~ msgid "List View"
+#~ msgstr "Vizualizare listă"
+
+#~ msgid "&Show Full Path"
+#~ msgstr "&Arată calea completă"
+
+#~ msgid ""
+#~ "When background shading is enabled, documents that have been viewed or "
+#~ "edited within the current session will have a shaded background. The most "
+#~ "recent documents have the strongest shade."
+#~ msgstr ""
+#~ "Cînd sînt activate nuanțele de fundal, documentele care au fost "
+#~ "vizualizate sau editate în sesiunea curentă vor avea un fundal colorat. "
+#~ "Documentele recente au nuanța cea mai intensă."
+
+#~ msgid "Set the color for shading viewed documents."
+#~ msgstr "Definește culoarea pentru fundalul documentelor vizualizate."
+
+#~ msgid ""
+#~ "Set the color for modified documents. This color is blended into the "
+#~ "color for viewed files. The most recently edited documents get most of "
+#~ "this color."
+#~ msgstr ""
+#~ "Definește culoarea pentru fundalul documentelor modificate. Această "
+#~ "culoare este amestecată cu culoarea fișierelor vizualizate. Cele mai "
+#~ "recente documente editate au această culoare într-o nuanță mult mai "
+#~ "intensă."
+
+#~ msgid ""
+#~ "When enabled, in tree mode, top level folders will show up with their "
+#~ "full path rather than just the last folder name."
+#~ msgstr ""
+#~ "Cînd este activat, în mod arborescent, dosarele primului nivel vor fi "
+#~ "afișate cu calea completă în loc doar de numele ultimului dosar."
+
+#~ msgctxt "%1 is the full path"
+#~ msgid ""
+#~ "<p><b>%1</b></p><p>The document has been modified by another application."
+#~ "</p>"
+#~ msgstr ""
+#~ "<p><b>%1</b></p><p>Documentul a fost modificat de către o altă aplicație."
+#~ "</p>"
+
+#~ msgid "Document Tree"
+#~ msgstr "Arborescență documente"
+
+#~ msgid "Show open documents in a tree"
+#~ msgstr "Arată documentele deschise în arborescență"
+
+#~ msgid "Configure Documents"
+#~ msgstr "Configurare documente"
+
+#~ msgid "&Show Active"
+#~ msgstr "&Afișează documentul activ"
+
+#~ msgid "Next Document"
+#~ msgstr "Documentul următor"
+
+#~ msgid ""
+#~ "<p><b>b,buffer &mdash; Edit document N from the document list</b></"
+#~ "p><p>Usage: <tt><b>b[uffer] [N]</b></tt></p>"
+#~ msgstr ""
+#~ "<p><b>b,buffer &mdash; Editează documentul al N-lea din lista de "
+#~ "documente</b></p><p>Utilizare: <tt><b>b[uffer] [N]</b></tt></p>"
+
+#~ msgid ""
+#~ "<p><b>bp,bprev &mdash; previous buffer</b></p><p>Usage: <tt><b>bp"
+#~ "[revious] [N]</b></tt></p><p>Goes to <b>[N]</b>th previous document "
+#~ "(\"<b>b</b>uffer\") in document list. </p><p> <b>[N]</b> defaults to one. "
+#~ "</p><p>Wraps around the start of the document list.</p>"
+#~ msgstr ""
+#~ "<p><b>bp,bprev &mdash; comută la documentul precedent</b></"
+#~ "p><p>Utilizare: <tt><b>bp[ext] [N]</b></tt></p><p>Comută la al <b>[N]</b>-"
+#~ "lea document precedent (\"<b>t</b>ampon\") din lista de documente.<b>[N]</"
+#~ "b> este implicit unu. </p><p>Odată ajuns la începutul listei se reia "
+#~ "lista de la capăt.</p>"
+
+#~ msgid ""
+#~ "<p><b>bn,bnext &mdash; switch to next document</b></p><p>Usage: <tt><b>bn"
+#~ "[ext] [N]</b></tt></p><p>Goes to <b>[N]</b>th next document (\"<b>b</"
+#~ "b>uffer\") in document list.<b>[N]</b> defaults to one. </p><p>Wraps "
+#~ "around the end of the document list.</p>"
+#~ msgstr ""
+#~ "<p><b>bn,bnext &mdash; comută la documentul următor</b></p><p>Utilizare: "
+#~ "<tt><b>bn[ext] [N]</b></tt></p><p>Comută la al <b>[N]</b>-lea document "
+#~ "următor (\"<b>t</b>ampon\") din lista de documente.<b>[N]</b> este "
+#~ "implicit unu. </p><p>Odată ajuns la capătul listei se reia lista de la "
+#~ "început.</p>"
+
+#~ msgid ""
+#~ "<p><b>bf,bfirst &mdash; first document</b></p><p>Usage: <tt><b>bf[irst]</"
+#~ "b></tt></p><p>Goes to the <b>f</b>irst document (\"<b>b</b>uffer\") in "
+#~ "document list.</p>"
+#~ msgstr ""
+#~ "<p><b>bf,bfirst &mdash; primul document</b></p><p>Utilizare: <tt><b>bf"
+#~ "[irst]</b></tt></p><p>Comută la <b>p</b>rimul document (\"<b>t</b>ampon"
+#~ "\") din lista de documente.</p>"
+
+#~ msgid ""
+#~ "<p><b>bl,blast &mdash; last document</b></p><p>Usage: <tt><b>bl[ast]</b></"
+#~ "tt></p><p>Goes to the <b>l</b>ast document (\"<b>b</b>uffer\") in "
+#~ "document list.</p>"
+#~ msgstr ""
+#~ "<p><b>bl,blast &mdash; ultimul document</b></p><p>Utilizare: <tt><b>bl"
+#~ "[ast]</b></tt></p><p>Comută la <b>u</b>ltimul document (\"<b>t</b>ampon"
+#~ "\") din lista de documente.</p>"
+
+#~ msgid ""
+#~ "<p>Kate comes with a nice set of plugins, providing simple\n"
+#~ "and advanced features of all sorts.</p>\n"
+#~ "<p>You can enable/disable plugins to suit your needs in the configuration "
+#~ "dialog,\n"
+#~ "choose <strong>Settings -&gt;configure</strong> to launch that.</p>\n"
+#~ msgstr ""
+#~ "<p>Kate vine cu un set interesant de extensii, oferind o pleiadă\n"
+#~ "de funcționalități simple și avansate.</p>\n"
+#~ "<p>Le puteți activa/dezactiva corespunzător nevoilor dumneavoastră în "
+#~ "dialogul de configurare,alegînd <strong>Parametri -&gt; Configurează</"
+#~ "strong>.</p>\n"
+
+#~ msgid ""
+#~ "<p>You can swap the characters on each side of the cursor just by "
+#~ "pressing\n"
+#~ "<strong>Ctrl+T</strong></p>\n"
+#~ msgstr ""
+#~ "<p>Puteți inversa caracterele de-o parte și de alta a cursorului prin "
+#~ "apăsarea\n"
+#~ "combinației de taste <strong>Ctrl+T</strong></p>\n"
+
+#~ msgid ""
+#~ "<p>You can export the current document as a HTML file, including\n"
+#~ "syntax highlighting.</p>\n"
+#~ "<p>Just choose <strong>File -&gt; Export -&gt; HTML...</strong></p>\n"
+#~ msgstr ""
+#~ "<p>Puteți exporta documentul curent ca fișier HTML, incluzînd\n"
+#~ "evidențierea de sintaxă.</p>\n"
+#~ "<p>Alegeți <strong>Fișier -&gt; Exportă -&gt; HTML...</strong></p>\n"
+
+#~ msgid ""
+#~ "<p>You can split the Kate editor as many times as you like and\n"
+#~ "in either direction. Each frame has its own status bar and\n"
+#~ "can display any open document.</p>\n"
+#~ "<p>Just choose <br><strong>View -&gt; Split View -&gt; Split [ Horizontal "
+#~ "| Vertical ]</strong></p>\n"
+#~ msgstr ""
+#~ "<p>Puteți despărți editorul Kate de cîte ori doriți și în orice\n"
+#~ "direcție. Fiecare cadru își menține propria bară de stare și\n"
+#~ "poate afișa orice document deschis.</p>\n"
+#~ "<p>Alegeți <br><strong>Vizualizare -&gt; Desparte vizualizarea -&gt; "
+#~ "Desparte pe [ orizontală | verticală ]</strong></p>\n"
+
+#~ msgid ""
+#~ "<p>You can move the Tool views to any side of the main window through "
+#~ "the\n"
+#~ "context menu.</p>\n"
+#~ msgstr ""
+#~ "<p>Puteți muta vizualizările de unelte către orice parte a ferestrei "
+#~ "principale prin\n"
+#~ "meniul contextual</p>\n"
+
+#~ msgid ""
+#~ "<p>Kate has a built-in terminal emulator, just click on <strong>\"Terminal"
+#~ "\"</strong> at\n"
+#~ "the bottom to show or hide it as you desire.</p>\n"
+#~ msgstr ""
+#~ "<p>Kate are un emulator de terminal încorporat. Apăsați pe "
+#~ "<strong>Terminal</strong> în\n"
+#~ "partea de jos pentru a-l afișa sau ascunde după dorință.</p>\n"
+
+#~ msgid ""
+#~ "<p>Kate can highlight the current line with a\n"
+#~ "<table bgcolor=\"yellow\" border=\"0\" cellspacing=\"0\" cellpadding="
+#~ "\"0\" width=\"100%\"><tr><td>different\n"
+#~ "background color.<strong>|</strong></td></tr></table></p>\n"
+#~ "<p>You can set the color in the <em>Colors</em> page of the "
+#~ "configuration\n"
+#~ "dialog.</p>\n"
+#~ msgstr ""
+#~ "<p>Kate poate evidenția linia curentă cu \n"
+#~ "<table bgcolor=\"yellow\" border=\"0\" cellspacing=\"0\" cellpadding="
+#~ "\"0\" width=\"100%\"><tr><td>o culoare\n"
+#~ "de fundal diferită.<strong>|</strong></td> </tr></table></p>\n"
+#~ "<p>Puteți defini această culoare în subfereastra <em>Culori</em> a "
+#~ "dialogului\n"
+#~ "de configurare.</p>\n"
+
+#~ msgid ""
+#~ "<p>You can open the currently edited file in any other application from "
+#~ "within\n"
+#~ "Kate.</p>\n"
+#~ "<p>Choose <strong>File -&gt; Open With</strong> for the list of programs\n"
+#~ "configured\n"
+#~ "for the document type. There is also an option <strong>Other...</strong> "
+#~ "to\n"
+#~ "choose any application on your system.</p>\n"
+#~ msgstr ""
+#~ "<p>Puteți deschide fișierul curent editat în orice altă aplicație direct "
+#~ "din Kate.</p>\n"
+#~ "<p>Alegeți <strong>Fișier -&gt; Deschide cu</strong> \n"
+#~ "pentru o listă de programe configurate pentru \n"
+#~ "tipul de document. Există și opțiunea <strong>Altul...</strong> \n"
+#~ "pentru a alege orice altă aplicație din sistemul \n"
+#~ "dumneavoastră.</p>\n"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>You can configure the editor to always display the line numbers and/"
+#~| "or\n"
+#~| "bookmark panes when started from the <strong>View Defaults</strong> page "
+#~| "of the\n"
+#~| "configuration dialog.</p>\n"
+#~ msgid ""
+#~ "<p>You can configure the editor to always display the line numbers and/"
+#~ "or\n"
+#~ "bookmark panes when started from the <strong>Appearance</strong> page of "
+#~ "the\n"
+#~ "configuration dialog.</p>\n"
+#~ msgstr ""
+#~ "<p>În dialogul <strong>Vizualizări implicite</strong> \n"
+#~ "puteți configura editorul ca la pornire să afișeze \n"
+#~ "întotdeauna numerele de linie și/sau panoul cu semne de carte.</p>\n"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>You can download new or updated <em>Syntax highlight definitions</em> "
+#~| "from\n"
+#~| "the <strong>Highlighting</strong> page in the configuration dialog.</p>\n"
+#~| "<p>Just click the <em>Download...</em> button on the <em>Open/Save -&gt; "
+#~| "Modes & Filetypes</em>\n"
+#~| "tab (You have to be online, of course...).</p>\n"
+#~ msgid ""
+#~ "<p>You can download new or updated <em>Syntax highlight definitions</em> "
+#~ "from\n"
+#~ "the <strong>Open/Save</strong> page in the configuration dialog.</p>\n"
+#~ "<p>Just click the <em>Download...</em> button on the <em>Open/Save -&gt; "
+#~ "Modes &amp; Filetypes</em>\n"
+#~ "tab (You have to be online, of course...).</p>\n"
+#~ msgstr ""
+#~ "<p>Puteți transfera <em>definiții de evidențiere de sintaxă</em> noi sau "
+#~ "actualizate din \n"
+#~ "secțiunea <strong>Evidențiere</strong> a dialogului \n"
+#~ "de configurare.</p>\n"
+#~ "<p>Apăsați pe butonul <em>Descarcă...</em> din fila <em>Deschide/Salvează "
+#~ "-&gt; Regimuri și tipuri de fișiere</em>\n"
+#~ " (Bineînțeles trebuie să fiți conectat la Internet).</p>\n"
+
+#~ msgid ""
+#~ "<p>You can cycle through all open documents by pressing <strong>Alt+Left</"
+#~ "strong>\n"
+#~ "or <strong>Alt+Right</strong>. The next/previous document will "
+#~ "immediately be displayed\n"
+#~ "in the active frame.</p>\n"
+#~ msgstr ""
+#~ "<p>Puteți comuta printre toate documentele deschise folosind combinația "
+#~ "de taste <strong>Alt+Stînga</strong>\n"
+#~ "sau <strong>Alt+Dreapta</strong>. Documentul\n"
+#~ "următor/precedent va fi imediat afișat în\n"
+#~ "cadrul activ.</p>\n"
+
+#~ msgid ""
+#~ "<p>You can do cool sed-like regular expression replacements using "
+#~ "<em>Command Line</em>.</p>\n"
+#~ "<p>For example, press <strong>F7</strong> and enter <code>s /oldtext/"
+#~ "newtext/g</code>\n"
+#~ "to replace &quot;oldtext&quot; with &quot;newtext&quot; throughout the "
+#~ "current\n"
+#~ "line.</p>\n"
+#~ msgstr ""
+#~ "<p>Puteți face înlocuiri de expresii regulate în genul <em>sed</em> \n"
+#~ "utilizînd <em>Linia de comandă</em>.</p>\n"
+#~ "<p>De exemplu, apăsați <strong>F7</strong> și \n"
+#~ "introduceți <code>s/textvechi/textnou/g</code> \n"
+#~ "pentru a înlocui &quot;textvechi&quot; cu &quot;textnou&quot; în toată "
+#~ "linia curentă.</p>\n"
+
+#~ msgid ""
+#~ "<p>You can repeat your last search by just pressing <strong>F3</strong>, "
+#~ "or\n"
+#~ "<strong>Shift+F3</strong> if you want to search backwards.</p>\n"
+#~ msgstr ""
+#~ "<p>Puteți repeta ultima căutare executată apăsînd <strong>F3</"
+#~ "strong>sau  \n"
+#~ "<strong>Shift+F3</strong> dacă doriți să căutați în sens invers.</p>\n"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>You can filter the files displayed in the <em>File Selector</em> tool "
+#~| "view.\n"
+#~| "</p>\n"
+#~| "<p>Simply enter your filter in the filter entry at the bottom, for "
+#~| "example:\n"
+#~| "<code>*.html *.php</code> if you only want to see HTML and PHP files in "
+#~| "the\n"
+#~| "current folder.</p>\n"
+#~| "<p>The File Selector will even remember your filters for you.</strong></"
+#~| "p>\n"
+#~ msgid ""
+#~ "<p>You can filter the files displayed in the <em>Filesystem Browser</em> "
+#~ "tool view.\n"
+#~ "</p>\n"
+#~ "<p>Simply enter your filter in the filter entry at the bottom, for "
+#~ "example:\n"
+#~ "<code>*.html *.php</code> if you only want to see HTML and PHP files in "
+#~ "the\n"
+#~ "current folder.</p>\n"
+#~ "<p>The Filesystem Browser will even remember your filters for you.</p>\n"
+#~ msgstr ""
+#~ "<p>Puteți filtra fișierele afișate în vizualizarea de unelte <em>Selector "
+#~ "de fișiere</em>. \n"
+#~ "</p>\n"
+#~ "<p>Pur și simplu introduceți filtrul dorit în linia de editare din partea "
+#~ "de jos. De exemplu:\n"
+#~ "<code>*.html *.php</code> dacă doriți să vedeți numai fișierele HTML și "
+#~ "PHP din \n"
+#~ "directorul curent.</p>\n"
+#~ "<p>În plus, selectorul de fișiere va ține minte filtrele pe care le-ați "
+#~ "utilizat.</p>\n"
+
+#~ msgid ""
+#~ "<p>You can have two views - or even more - of the same document in Kate. "
+#~ "Editing\n"
+#~ "in either will be reflected in both.</p>\n"
+#~ "<p>So if you find yourself scrolling up and down to look at text at the "
+#~ "other\n"
+#~ "end of a document, just press <strong>Ctrl+Shift+T</strong> to split\n"
+#~ "horizontally.</p>\n"
+#~ msgstr ""
+#~ "<p>În Kate puteți avea două vizualizări - sau chiar mai multe - ale "
+#~ "aceluiași document. \n"
+#~ "Editările făcute în oricare din ele vor fi reflectate în ambele.</p>\n"
+#~ "<p>Astfel, dacă vă găsiți în situația să defilați în sus și în jos pentru "
+#~ "a vă uita după un text la capătul documentului, \n"
+#~ "apăsați <strong>Ctrl+Shift+T</strong> pentru a face o \n"
+#~ "împărțire pe orizontală a vizualizării.</p>\n"
+
+#~ msgid ""
+#~ "<p>Press <strong>F8</strong> or <strong>Shift+F8</strong> to switch to "
+#~ "the\n"
+#~ "next/previous frame.</p>\n"
+#~ msgstr ""
+#~ "<p>Apăsați <strong>F8</strong> sau <strong>Shift+F8</strong> pentru a \n"
+#~ "comuta la cadrul următor, respectiv precedent.</p>\n"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "C++ Source File (GPL)"
+#~ msgstr "Fișier sursă C++ (GPL)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Source Code"
+#~ msgstr "Cod sursă"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid "A very simple GPL C++ source file"
+#~ msgstr "Un fișier sursă C++ GPL foarte simplu"
+
+#~ msgctxt "@info:credit"
+#~ msgid "Anders Lund <anders@alweb.dk>"
+#~ msgstr "Anders Lund <anders@alweb.dk>"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "C++ Header (GPL)"
+#~ msgstr "Antet C++ (GPL)"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid "A very simple GPL C++ header file"
+#~ msgstr "Un fișier antet C++ GPL foarte simplu"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "C++ Source File (LGPL)"
+#~ msgstr "Fișier sursă C++ (LGPL)"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid "A very simple LGPL C++ source file"
+#~ msgstr "Un fișier sursă C++ LGPL foarte simplu"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "C++ Header (LGPL)"
+#~ msgstr "Antet C++ (LGPL)"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid "A very simple LGPL C++ header file"
+#~ msgstr "Un fișier antet C++ LGPL foarte simplu"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Kate Plugin Docbook Chapter"
+#~ msgstr "Capitol Docbook pentru o extensie Kate"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Documentation"
+#~ msgstr "Documentație"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid ""
+#~ "This creates a suitable beginning of a docbook chapter for a Kate plugin."
+#~ msgstr ""
+#~ "Acest model creează începutul corect al unui capitol Docbook pentru o "
+#~ "extensie Kate. "
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "HTML 4.01 Strict Document"
+#~ msgstr "Document HTML 4.01 Strict"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid ""
+#~ "This will create a very basic HTML file with the HTML 4.01 strict DTD."
+#~ msgstr ""
+#~ "Acest model va crea un fișier HTML foarte simplu cu DTD 4.01 scrtict."
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Kate Highlight Definition"
+#~ msgstr "Evidențiere definiții Kate"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid ""
+#~ "This template will create the basics of a kate highlight definition file."
+#~ msgstr ""
+#~ "Acest șablon va crea elementele de bază ale unui fișier kate cu "
+#~ "definițiile evidențierii de sintaxă"
+
+#~ msgctxt "@info:credit"
+#~ msgid "Dominik Haumann <dhdev@gmx.de>"
+#~ msgstr "Dominik Haumann <dhdev@gmx.de>"
+
+#~ msgid "Hidden"
+#~ msgstr "Ascuns"
+
+#~ msgid "Missing plugin file %1"
+#~ msgstr "Lipsește fișierul extensiei %1"
+
+#~ msgid "Loaded"
+#~ msgstr "Încărcat"
+
+#~ msgid "Not Loaded: %1"
+#~ msgstr "Neîncărcat: %1"
+
+#~ msgid "Actions"
+#~ msgstr "Acțiuni"
+
+#~ msgid "Menu Item:"
+#~ msgstr "Element de meniu:"
+
+#~ msgid "Shortcut:"
+#~ msgstr "Accelerator:"
+
+#~ msgid "Menu:"
+#~ msgstr "Meniu:"
+
+#~ msgid "Icon:"
+#~ msgstr "Pictogramă:"
+
+#~ msgid "Action:"
+#~ msgstr "Acțiune:"
+
+#~ msgid "Configuration Pages"
+#~ msgstr "Pagini de configurare"
+
+#~ msgid "Title:"
+#~ msgstr "Titlu:"
+
+#~ msgid "Name:"
+#~ msgstr "Denumire:"
+
+#~ msgid "Page:"
+#~ msgstr "Pagină"
+
+#~ msgid "Select a Plugin or Built-in Module"
+#~ msgstr "Alegeți o extensie sau modul încorporat"
+
+#~ msgid "ERROR: The Python engine could not be initialised!"
+#~ msgstr "EROARE: Motorul Python nu a putut fi inițializat!"
+
+#~ msgid "Manager"
+#~ msgstr "Administrator"
+
+#~ msgid "Reload Plugins"
+#~ msgstr "Reîncarcă extensiile"
+
+#~ msgid "Pate engine could not be initialised"
+#~ msgstr "Motorul Pate nu a putut fi inițializat"
+
+#~ msgid "Python Plugins"
+#~ msgstr "Extensii Python"
+
+#~ msgid "Pâté host for Python plugins"
+#~ msgstr "Gazdă Pâté pentru extensii Python"
+
+#~ msgid "Documentation"
+#~ msgstr "Documentație"
+
+#, fuzzy
+#~| msgid "Matteo Merli"
+#~ msgid "Pattern Model"
+#~ msgstr "Matteo Merli"
+
+#~ msgid ""
+#~ "ID\n"
+#~ "*|All Files"
+#~ msgstr ""
+#~ "ID\n"
+#~ "*|Toate fișierele"
+
+#~ msgid "Complete tokens after:"
+#~ msgstr "Completează jetoanele după:"
+
+#~ msgid "Minimum length of token before completions will be shown."
+#~ msgstr "Lungimea minimă a jetonului înainte de afișarea completărilor."
+
+#~ msgid "Transform Filenames"
+#~ msgstr "Transformă denumirile de fișier"
+
+#~ msgid "With this file prefix:"
+#~ msgstr "Cu acest prefix de fișier:"
+
+#, fuzzy
+#~| msgctxt "@item:inmenu"
+#~| msgid "Kate Highlight Definition"
+#~ msgid "Highlight definitions using etags(1):"
+#~ msgstr "Evidențiere definiții Kate"
+
+#~ msgid "Enabled"
+#~ msgstr "Activat"
+
+#~ msgid "Settings..."
+#~ msgstr "Configurări..."
+
+#~ msgid "Token:"
+#~ msgstr "Jeton:"
+
+#~ msgid "Filter:"
+#~ msgstr "Filtru:"
+
+#, fuzzy
+#~| msgid "Show Encoding"
+#~ msgid "JSON encoding"
+#~ msgstr "Arată codarea"
+
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgid ">>>"
+#~ msgstr ">>>"
+
+#, fuzzy
+#~| msgid "Configure"
+#~ msgid "Continuation Prompt:"
+#~ msgstr "Configurează"
+
+#~ msgid "Main display font"
+#~ msgstr "Fontul principal de afișare"
+
+#~ msgid "Highlighting"
+#~ msgstr "Evidențiere"
+
+#~ msgid "String:"
+#~ msgstr "Șir:"
+
+#~ msgid "Integer:"
+#~ msgstr "Întreg:"
+
+#~ msgid "Float:"
+#~ msgstr "Virgulă mobilă:"
+
+#~ msgid "Help:"
+#~ msgstr "Ajutor:"
+
+#~ msgid "Exception:"
+#~ msgstr "Excepție:"
+
+#, fuzzy
+#~| msgid "&New Window"
+#~ msgid "New Line"
+#~ msgstr "Fereastră &nouă"
+
+#, fuzzy
+#~| msgid "Configure"
+#~ msgid "ConfigWidget"
+#~ msgstr "Configurează"
+
+#~ msgid "tool"
+#~ msgstr "unealtă"
+
+#, fuzzy
+#~| msgid "&View Difference"
+#~ msgid "Reference"
+#~ msgstr "&Vizualizează diferența"
+
+#, fuzzy
+#~| msgid "Name"
+#~ msgid "Full Name:"
+#~ msgstr "Denumire"
+
+#, fuzzy
+#~| msgid "&Reload"
+#~ msgid "Reload"
+#~ msgstr "&Reîncarcă"
+
+#~ msgid ""
+#~ "<p>You can drag the Tool views (<em>File List</em> and <em>File Selector</"
+#~ "em>)\n"
+#~ "to any side that you want them in Kate, or stack them, or even tear them "
+#~ "off the\n"
+#~ "main window.</p>\n"
+#~ msgstr ""
+#~ "<p>Puteți trage de vederile de unelte (<em>Lista de fișiere</em> și\n"
+#~ "<em>Selectorul de fișiere</em>) în orice parte doriți, le puteți stivui\n"
+#~ "sau chiar să le scoateți în afara ferestrei principale.</p>\n"
+
+#~ msgid "&Save Selected"
+#~ msgstr "&Salvează selectate"
+
+#~ msgid "Do &Not Close"
+#~ msgstr "&Nu închide"
+
+#~ msgid ""
+#~ "Removes the modified flag from the selected documents and closes the "
+#~ "dialog if there are no more unhandled documents."
+#~ msgstr ""
+#~ "Elimină marcajul de modificare pentru documentele selectate și închide "
+#~ "dialogul dacă nu mai sînt și alte documente de procesat."
+
+#~ msgid ""
+#~ "Reloads the selected documents from disk and closes the dialog if there "
+#~ "are no more unhandled documents."
+#~ msgstr ""
+#~ "Reîncarcă documentele selectate de pe disc și închide dialogul dacă nu "
+#~ "mai sînt și alte documente de procesat."
+
+#~ msgid "Cannot go to the document"
+#~ msgstr "Nu s-a putut merge la document"
+
+#~ msgid "Configure Tree View"
+#~ msgstr "Configurează vederea arborescentă"
+
+#~ msgctxt "'document name [*]', [*] means modified"
+#~ msgid "%1 [*]"
+#~ msgstr "%1 [*]"
+
+#~ msgid ""
+#~ "<p><b>bp/bn &mdash; switch to previous/next document</b></p><p>Usage: "
+#~ "<tt><b>bp/bn</b></tt></p><p>Goes to <b>p</b>revious or <b>n</b>ext "
+#~ "document (\"<b>b</b>uffer\"). The two commands are:<br /> <tt>bp</tt> "
+#~ "&mdash; goes to the document before the current one in the document list."
+#~ "<br /> <tt>bn</tt> &mdash; goes to the document after the current one in "
+#~ "the document list.<br /><p>Both commands wrap around, i.e., if you go "
+#~ "past the last document you end up at the first and vice versa.</p>"
+#~ msgstr ""
+#~ "<p><b>bp/bn &mdash; schimbă pe următorul/precedentul document</b></"
+#~ "p><p>Utilizare: <tt><b>bp/bn</b></tt></p><p>Merge la documentul <b>p</"
+#~ "b>recedent sau <b>u</b>rmător („<b>b</b>uffer”). Cele două comenzi sînt:"
+#~ "<br /> <tt>bp</tt> &mdash; merge la documentul dinaintea celui curent din "
+#~ "lista de documente.<br /> <tt>bn</tt> &mdash; merge la documentul de după "
+#~ "cel curent din lista de documente.<br /><p>Ambele comenzi buclează, ex: "
+#~ "dacă mergeți dincolo de ultimul document reveniți la primul și invers.</p>"
+
+#~ msgid "Projects"
+#~ msgstr "Proiecte"
+
+#~ msgid "&Go"
+#~ msgstr "&Mergi"
+
+#~ msgid "Kate File Tree"
+#~ msgstr "Arborescența fișierelor Kate"

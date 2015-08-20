@@ -1,0 +1,73 @@
+# Sergiu Bivol <sergiu@ase.md>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-01-20 10:12+0000\n"
+"PO-Revision-Date: 2014-08-18 09:36+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. (itstool) path: component/name
+#: kaddressbook.appdata.xml:6
+msgid "KAddressBook"
+msgstr "KAddressBook"
+
+#. (itstool) path: description/p
+#: kaddressbook.appdata.xml:8
+msgid ""
+"KAddressBook stores all the personal details of your family, friends and "
+"other contacts."
+msgstr ""
+"KAddressBook păstrează toate datele personale ale familiei, prietenilor și "
+"altor contacte ale dumneavoastră."
+
+#. (itstool) path: description/p
+#: kaddressbook.appdata.xml:9
+msgid "Features:"
+msgstr "Caracteristici:"
+
+#. (itstool) path: ul/li
+#: kaddressbook.appdata.xml:11
+msgid "Imports and exports to nearly every address book standard"
+msgstr "Importă și exportă în aproape toate standardele de cărți de adrese"
+
+#. (itstool) path: ul/li
+#: kaddressbook.appdata.xml:12
+msgid ""
+"Reads .vcf format files, and can import and export vCards and csv format "
+"files"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: kaddressbook.appdata.xml:13
+msgid "Can use multiple LDAP servers"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: kaddressbook.appdata.xml:14
+msgid "Configurable filters and powerful search capabilities"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: kaddressbook.appdata.xml:15
+msgid ""
+"Integrates with other Kontact components, e.g. exporting Birthday reminders "
+"to KOrganizer"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: kaddressbook.appdata.xml:16
+msgid "Capable of groupware integration"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: kaddressbook.appdata.xml:17
+msgid "Powered by Akonadi"
+msgstr ""

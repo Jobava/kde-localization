@@ -1,0 +1,64 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: resourceinspector\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 06:00+0200\n"
+"PO-Revision-Date: 2009-04-30 12:48+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: infopanel.cpp:53
+msgid "Rating"
+msgstr "Evaluare"
+
+#: infopanel.cpp:65
+msgid "Tags"
+msgstr "Marcaje"
+
+#: main.cpp:14
+msgid "Nepomuk resource inspector"
+msgstr "Inspector de resurse Nepomuk"
+
+#: main.cpp:16
+msgid "Browse and run Nepomuk resources"
+msgstr "Răsfoiți și rulați resurse Nepomuk"
+
+#: main.cpp:18
+msgid "Adrien Bustany"
+msgstr "Adrien Bustany"
+
+#: main.cpp:24
+msgid "The resource to inspect"
+msgstr "Resursa de inspectat"
+
+#: resourceinspector.cpp:73
+msgid "Show all"
+msgstr "Arată tot"
+
+#: resourceinspector.cpp:88
+msgid "Search"
+msgstr "Caută"
+
+#: resourceinspector.cpp:373
+#, kde-format
+msgid "Show only items of type \"%1\""
+msgstr "Arată numai elementele de tipul „%1”"

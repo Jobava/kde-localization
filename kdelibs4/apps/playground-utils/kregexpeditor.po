@@ -1,0 +1,893 @@
+# Traducerea kregexpeditor.po în Română
+# translation of kregexpeditor.po to Romanian
+# Copyright (C) 2003, 2004, 2008 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2003, 2004.
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kregexpeditor\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-11-28 02:14+0000\n"
+"PO-Revision-Date: 2009-01-14 13:08+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Claudiu Costin"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "claudiuc@kde.org"
+
+#: altnwidget.cpp:37 altnwidget.cpp:47 regexpbuttons.cpp:95
+msgid "Alternatives"
+msgstr "Alternative"
+
+#: altnwidget.cpp:225
+msgid "Selecting several alternatives is currently not supported."
+msgstr "Selectarea mai multor alternative nu este deocamdată suportată."
+
+#: altnwidget.cpp:227
+msgid "Selection Invalid"
+msgstr "Selecție eronată"
+
+#: auxbuttons.cpp:37
+msgid "Undo"
+msgstr "Desfă"
+
+#: auxbuttons.cpp:43
+msgid "Redo"
+msgstr "Refă"
+
+#: auxbuttons.cpp:49 KMultiFormListBox/ccp.cpp:65
+msgid "Cut"
+msgstr "Decupare"
+
+#: auxbuttons.cpp:55 KMultiFormListBox/ccp.cpp:66
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:66
+msgid "Copy"
+msgstr "Copiere"
+
+#: auxbuttons.cpp:61 KMultiFormListBox/ccp.cpp:67
+msgid "Paste"
+msgstr "Lipire"
+
+#: auxbuttons.cpp:67
+msgid "Save"
+msgstr "Salvare"
+
+#: characterswidget.cpp:117
+msgid "- A word character\n"
+msgstr "- Un caracter de cuvînt\n"
+
+#: characterswidget.cpp:121
+msgid "- A non-word character\n"
+msgstr "- Un caracter de non-cuvînt\n"
+
+#: characterswidget.cpp:125
+msgid "- A digit character\n"
+msgstr "- Un caracter cifră\n"
+
+#: characterswidget.cpp:129
+msgid "- A non-digit character\n"
+msgstr "- Un caracter non-cifră\n"
+
+#: characterswidget.cpp:133
+msgid "- A space character\n"
+msgstr "- Un caracter spațiu\n"
+
+#: characterswidget.cpp:137
+msgid "- A non-space character\n"
+msgstr "- Un caracter non-spațiu\n"
+
+#: characterswidget.cpp:152
+#, kde-format
+msgctxt "a range of characters"
+msgid "- from %1 to %2\n"
+msgstr ""
+
+#: characterswidget.cpp:161
+msgid "Any Character Except"
+msgstr "Orice caracter cu excepția"
+
+#: characterswidget.cpp:163
+msgid "One of Following Characters"
+msgstr "Unul din caracterele următoare"
+
+#: characterswidget.cpp:286
+msgid "Specify Characters"
+msgstr "Specificați caracterele"
+
+#: characterswidget.cpp:294
+msgid "Do not match the characters specified here"
+msgstr "Nu se potrivește cu caracterele specificate aici"
+
+#: characterswidget.cpp:298
+msgid "Predefined Character Ranges"
+msgstr "Domeniu predefinit de caractere"
+
+#: characterswidget.cpp:302
+msgid "A word character"
+msgstr "Un caracter de cuvînt"
+
+#: characterswidget.cpp:304
+msgid "A digit character"
+msgstr "Un caracter cifră"
+
+#: characterswidget.cpp:306
+msgid "A space character"
+msgstr "Un caracter spațiu"
+
+#: characterswidget.cpp:309
+msgid "A non-word character"
+msgstr "Un caracter non-cuvînt"
+
+#: characterswidget.cpp:311
+msgid "A non-digit character"
+msgstr "Un caracter non-cifră"
+
+#: characterswidget.cpp:313
+msgid "A non-space character"
+msgstr "Un caracter non-spațiu"
+
+#: characterswidget.cpp:317
+msgid "Single Characters"
+msgstr "Caractere singulare"
+
+#: characterswidget.cpp:327 characterswidget.cpp:346
+msgid "More Entries"
+msgstr "Mai multe înregistrări"
+
+#: characterswidget.cpp:335
+msgid "Character Ranges"
+msgstr "Domenii de caractere"
+
+#: characterswidget.cpp:422
+msgid "From:"
+msgstr "De la:"
+
+#: characterswidget.cpp:429
+msgctxt "end of range"
+msgid "To:"
+msgstr "La:"
+
+#: charselector.cpp:59
+msgid "Normal Character"
+msgstr "Caracter normal"
+
+#: charselector.cpp:60
+msgid "Unicode Char in Hex."
+msgstr "Caracter Unicod în hex."
+
+#: charselector.cpp:61
+msgid "Unicode Char in Oct."
+msgstr "Caracter Unicod în octal"
+
+#: charselector.cpp:63
+msgid "The Bell Character (\\a)"
+msgstr "Caracterul „Clopoțel” (\\a)"
+
+#: charselector.cpp:64
+msgid "The Form Feed Character (\\f)"
+msgstr "Caracterul \"Form Feed\" (\\f)"
+
+#: charselector.cpp:65
+msgid "The Line Feed Character (\\n)"
+msgstr "Caracterul \"Line Feed\" (\\n)"
+
+#: charselector.cpp:66
+msgid "The Carriage Return Character (\\r)"
+msgstr "Caracterul „Retur de car” (\\r)"
+
+#: charselector.cpp:67
+msgid "The Horizontal Tab Character (\\t)"
+msgstr "Caracterul TAB orizontal (\\t)"
+
+#: charselector.cpp:68
+msgid "The Vertical Tab Character (\\v)"
+msgstr "Caracterul TAB vertical (\\v)"
+
+#: compoundwidget.cpp:43
+msgid "&Title:"
+msgstr "&Titlu:"
+
+#: compoundwidget.cpp:49
+msgid "&Description:"
+msgstr "&Descriere:"
+
+#: compoundwidget.cpp:55
+msgid "&Automatically replace using this item"
+msgstr "Î&nlocuire automată folosind acest element"
+
+#: compoundwidget.cpp:57
+msgid ""
+"When the content of this box is typed in to the ASCII line,<br />this box "
+"will automatically be added around it,<br />if this check box is selected."
+msgstr ""
+
+#: compoundwidget.cpp:124
+msgid "Configure Compound"
+msgstr "Configurează compusul"
+
+#: emacsregexpconverter.cpp:80
+msgid "Look ahead regular expressions not supported in Emacs style"
+msgstr ""
+
+#: emacsregexpconverter.cpp:187
+msgid "Word boundary and non word boundary is not supported in Emacs syntax"
+msgstr ""
+
+#: errormap.cpp:45
+msgid ""
+"Your regular expression is invalid, due to something preceding a 'line "
+"start'."
+msgstr ""
+
+#: errormap.cpp:46 errormap.cpp:55 errormap.cpp:65
+msgid "Regular Expression Error"
+msgstr "Eroare expresie regulată"
+
+#: errormap.cpp:54
+msgid ""
+"Your regular expression is invalid, due to something following a 'line end'."
+msgstr ""
+
+#: errormap.cpp:64
+msgid ""
+"Your regular expression is invalid. 'Look Ahead' regular expression must be "
+"the last sub expression."
+msgstr ""
+
+#: infopage.cpp:32
+msgctxt ""
+"Translators, feel free to add yourself in the text below, asking for a "
+"postcard ;-), also feel free to add a section saying <h2>Translators</h2>. "
+"Kind regards, and thanks for your work - Jesper."
+msgid ""
+"<h1>Regular Expression Editor</h1><p>What you are currently looking at is an "
+"editor for <i>Regular Expressions</i>.</p><p>The upper part in the middle is "
+"the editing area, the lower part is a verification window where you can try "
+"your regular expressions right away. The row of buttons is the editing "
+"actions. This is actually very similar to common drawing programs. Select an "
+"editing tool to start editing your regular expression, and press the mouse "
+"button in the editing area where you want this item inserted.</p><p>For a "
+"more detailed description of this editor see the <a href=\"doc://\">info "
+"pages</a></p><h2>What is a regular expression?</h2>If you do not know what a "
+"regular expression is, then it might be a good idea to read <a href=\"doc://"
+"whatIsARegExp\">the introduction to regular expressions</a>.<br />"
+msgstr ""
+
+#: infopage.cpp:50
+msgid ""
+"<h2>Send the author an electronic postcard</h2>I don't get any money for "
+"working on KRegExpEditor, I therefore appreciate it very much when users "
+"tell me what they think about my work. I would therefore be very happy if "
+"you <a href=\"mailto:blackie@kde.org?subject=KRegExpEditor\">sent me a short "
+"mail</a>, telling me that you use my regular expression editor.<h2>Author</"
+"h2><a href=\"http://www.blackie.dk/\">Jesper K. Pedersen</a> &lt;<a href="
+"\"mailto:blackie@kde.org\">blackie@kde.org</a>&gt;"
+msgstr ""
+
+#: KMultiFormListBox/ccp.cpp:68
+msgid "Insert Blank"
+msgstr "Inserează spațiu"
+
+#: KMultiFormListBox/kmultiformlistbox-multivisible.cpp:269
+msgid "Due to a bug, it is not possible to remove the last element."
+msgstr "Din cauza unei erori, nu este posibilă ștergerea ultimului element."
+
+#: KMultiFormListBox/kmultiformlistbox-multivisible.cpp:269
+msgid "Internal Error"
+msgstr "Eroare internă"
+
+#: KMultiFormListBox/kmultiformlistbox-multivisible.cpp:292
+msgid "There is no element on the clipboard to paste in."
+msgstr "Nu există în clipboard nici un element pe care să-l lipesc."
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:53
+msgid "Edit"
+msgstr "Editează"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:60
+#: userdefinedregexps.cpp:155
+msgid "Delete"
+msgstr "Șterge"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:73
+msgid "Up"
+msgstr "Sus"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:79
+msgid "Down"
+msgstr "Jos"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:161
+#, kde-format
+msgid "Delete item \"%1\"?"
+msgstr "Ștergeți elementul „%1”?"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:161
+msgid "Delete Item"
+msgstr "Șterge elementul"
+
+#: KMultiFormListBox/kmultiformlistbox.h:71
+msgid "Add"
+msgstr "Adaugă"
+
+#: KMultiFormListBox/widgetwindow.cpp:33 KMultiFormListBox/widgetwindow.cpp:42
+msgid "Widget Configuration"
+msgstr "Configurare control grafic"
+
+#: kregexpeditorguidialog.cpp:33
+msgid "Regular Expression Editor"
+msgstr "Editor expresii regulate"
+
+#: kregexpeditorprivate.cpp:63
+msgid "Compound regular expression:"
+msgstr "Expresie regulată compusă:"
+
+#: kregexpeditorprivate.cpp:64
+msgid ""
+"In this window you will find predefined regular expressions. Both regular "
+"expressions you have developed and saved, and regular expressions shipped "
+"with the system."
+msgstr ""
+
+#: kregexpeditorprivate.cpp:73
+msgid ""
+"In this window you will develop your regular expressions. Select one of the "
+"actions from the action buttons above, and click the mouse in this window to "
+"insert the given action."
+msgstr ""
+
+#: kregexpeditorprivate.cpp:81
+msgid ""
+"<p>Type in some text in this window, and see what the regular expression you "
+"have developed matches.</p><p>Each second match will be colored in red and "
+"each other match will be colored blue, simply so you can distinguish them "
+"from each other.</p><p>If you select part of the regular expression in the "
+"editor window, then this part will be highlighted - This allows you to "
+"<i>debug</i> your regular expressions</p>"
+msgstr ""
+
+#: kregexpeditorprivate.cpp:155
+#, fuzzy
+#| msgid "ASCII synta&x:"
+msgid "ASCII syntax:"
+msgstr "Sinta&xă ASCII:"
+
+#: kregexpeditorprivate.cpp:169
+msgid "Clear expression"
+msgstr "Curăță expresia"
+
+#: kregexpeditorprivate.cpp:174
+msgid ""
+"<p>This is the regular expression in ASCII syntax. You are likely only to be "
+"interested in this if you are a programmer, and need to develop a regular "
+"expression using QRegExp.</p><p>You may develop your regular expression both "
+"by using the graphical editor, and by typing the regular expression in this "
+"line edit.</p>"
+msgstr ""
+
+#: kregexpeditorprivate.cpp:387
+#, kde-format
+msgid "Could not open file '%1' for reading"
+msgstr "Nu am putut să citesc din fișierul \"%1\""
+
+#: lookaheadwidget.cpp:50
+msgid "Pos. Look Ahead"
+msgstr ""
+
+#: lookaheadwidget.cpp:52
+msgid "Neg. Look Ahead"
+msgstr ""
+
+#: main.cpp:30
+msgid "RegExp Editor"
+msgstr "Editor expresii regulate"
+
+#: main.cpp:31
+msgid "Editor for Regular Expressions"
+msgstr "Editor pentru expresii regulate"
+
+#: main.cpp:33
+msgid "(c) 2002-2003 Jesper K. Pedersen"
+msgstr ""
+
+#: predefined/General/anything.regexp:5
+msgid "anything"
+msgstr "orice"
+
+#: predefined/General/anything.regexp:6
+msgid "This regular expression matches anything."
+msgstr "Această expresie regulată se potrivește cu orice."
+
+#: predefined/General/spaces.regexp:5
+msgid "spaces"
+msgstr ""
+
+#: predefined/General/spaces.regexp:6
+msgid "Matches an arbitrary amount of whitespace."
+msgstr ""
+
+#: qregexpparser.y:205
+#, kde-format
+msgid ""
+"<p>Back reference regular expressions are not supported.</p><p><tt>\\1</tt>, "
+"<tt>\\2</tt>, ... are <i>back references</i>, meaning they refer to previous "
+"matches. Unfortunately this is not supported in the current version of this "
+"editor.</p><p>In the graphical area the text <b>%1</b> has been inserted. "
+"This is however just a workaround to ensure that the application handles the "
+"regexp at all. Therefore, as soon as you edit the regular expression in the "
+"graphical area, the back reference will be replaced by matching the text <b>"
+"%2</b> literally.</p>"
+msgstr ""
+
+#: qregexpparser.y:214
+msgid "Back reference regular expressions not supported"
+msgstr ""
+
+#: regexpbuttons.cpp:53
+msgid "Selection tool"
+msgstr "Unealtă de selecție"
+
+#: regexpbuttons.cpp:54
+msgid ""
+"<p>This will change the state of the editor to <i>selection state</i>.</"
+"p><p>In this state you will not be inserting <i>regexp items</i>, but "
+"instead select them. To select a number of items, press down the left mouse "
+"button and drag it over the items.</p><p>When you have selected a number of "
+"items, you may use cut/copy/paste. These functions are found in the right "
+"mouse button menu.</p>"
+msgstr ""
+
+#: regexpbuttons.cpp:63
+msgid "Text"
+msgstr "Text"
+
+#: regexpbuttons.cpp:64
+msgid ""
+"<qt>This will insert a text field, where you may write text. The text you "
+"write will be matched literally. (i.e. you do not need to escape any "
+"characters)</qt>"
+msgstr ""
+
+#: regexpbuttons.cpp:69
+msgid "A single character specified in a range"
+msgstr "Un singur caracter în domeniul specificat"
+
+#: regexpbuttons.cpp:70
+msgid ""
+"<p>This will match a single character from a predefined range.</p><p>When "
+"you insert this widget a dialog box will appear, which lets you specify "
+"which characters this <i>regexp item</i> will match.</p>"
+msgstr ""
+
+#: regexpbuttons.cpp:76
+msgid "Any character"
+msgstr "Orice caracter"
+
+#: regexpbuttons.cpp:77
+msgid "<qt>This will match any single character</qt>"
+msgstr ""
+
+#: regexpbuttons.cpp:81
+msgid "Repeated content"
+msgstr "Conținut repetat"
+
+#: regexpbuttons.cpp:82
+msgid ""
+"<qt>This <i>regexp item</i> will repeat the <i>regexp items</i> it surrounds "
+"a specified number of times.<br />The number of times to repeat may be "
+"specified using ranges; e.g. it could be specified that it should match from "
+"2 to 4 times, that it should match exactly 5 times, or that it should match "
+"at least one time.<br />Examples:<br />If you specify that it should match "
+"<i>any</i> time, and the content it surrounds is <tt>abc</tt>, then this "
+"<i>regexp item</i> will match the empty string, the string <tt>abc</tt>, the "
+"string <tt>abcabc</tt>, the string <tt>abcabcabcabc</tt>, etc.</qt>"
+msgstr ""
+
+#: regexpbuttons.cpp:96
+msgid ""
+"<p>This <i>regexp item</i> will match any of its alternatives.</"
+"p><p>Alternatives are specified by placing <i>regexp items</i> on top of "
+"each other inside this widget.</p>"
+msgstr ""
+
+#: regexpbuttons.cpp:102
+msgid "Compound regexp"
+msgstr "Expresie regulată compusă"
+
+#: regexpbuttons.cpp:103
+msgid ""
+"<qt>This <i>regexp item</i> serves two purposes:<ul><li>It makes it possible "
+"for you to collapse a huge <i>regexp item</i> into a small box. This makes "
+"it easier for you to get an overview of large <i>regexp items</i>. This is "
+"especially useful if you load a predefined <i>regexp item</i> that you "
+"perhaps do not care about the inner workings of.</qt>"
+msgstr ""
+
+#: regexpbuttons.cpp:111
+msgid "Beginning of line"
+msgstr "Începutul liniei"
+
+#: regexpbuttons.cpp:112
+msgid "<qt>This will match the beginning of a line.</qt>"
+msgstr "<qt>Aceasta se va potrivi cu începutul liniei.</qt>"
+
+#: regexpbuttons.cpp:116
+msgid "End of line"
+msgstr "Sfîrșitul liniei"
+
+#: regexpbuttons.cpp:117
+msgid "<qt>This will match the end of a line.</qt>"
+msgstr "<qt>Aceasta se va potrivi cu sfîrșitul liniei.</qt>"
+
+#: regexpbuttons.cpp:121
+msgid "Word boundary"
+msgstr "Capăt de cuvînt"
+
+#: regexpbuttons.cpp:122
+msgid ""
+"<qt>This asserts a word boundary (This part does not actually match any "
+"characters)</qt>"
+msgstr ""
+
+#: regexpbuttons.cpp:125
+msgid "Non Word boundary"
+msgstr ""
+
+#: regexpbuttons.cpp:126
+msgid ""
+"<qt>This asserts a non-word boundary (This part does not actually match any "
+"characters)</qt>"
+msgstr ""
+
+#: regexpbuttons.cpp:130
+msgid "Positive Look Ahead"
+msgstr ""
+
+#: regexpbuttons.cpp:131
+msgid ""
+"<qt>This asserts a regular expression (This part does not actually match any "
+"characters). You can only use this at the end of a regular expression.</qt>"
+msgstr ""
+
+#: regexpbuttons.cpp:135
+msgid "Negative Look Ahead"
+msgstr ""
+
+#: regexpbuttons.cpp:136
+msgid ""
+"<qt>This asserts a regular expression that must not match (This part does "
+"not actually match any characters). You can only use this at the end of a "
+"regular expression.</qt>"
+msgstr ""
+
+#: regexpeditorwindow.cpp:216
+msgid "There is no selection."
+msgstr "Nu există nici o selecție."
+
+#: regexpeditorwindow.cpp:216
+msgid "Missing Selection"
+msgstr "Selecția lipsește"
+
+#: regexpeditorwindow.cpp:283
+msgid "There is no widget under cursor."
+msgstr "Nu sînt controale sub cursor."
+
+#: regexpeditorwindow.cpp:283
+msgid "Invalid Operation"
+msgstr "Operație eronată"
+
+#: regexpeditorwindow.cpp:333
+msgid "C&ut"
+msgstr "Dec&upare"
+
+#: regexpeditorwindow.cpp:337
+msgid "&Copy"
+msgstr "&Copiere"
+
+#: regexpeditorwindow.cpp:341
+msgid "&Paste"
+msgstr "&Lipire"
+
+#: regexpeditorwindow.cpp:347
+msgid "&Edit"
+msgstr "&Editare"
+
+#: regexpeditorwindow.cpp:351
+msgid "&Save Regular Expression..."
+msgstr "&Salvează expresia regulată..."
+
+#: regexpeditorwindow.cpp:390
+msgid "Name for Regular Expression"
+msgstr "Nume pentru expresia regulată"
+
+#: regexpeditorwindow.cpp:390
+msgid "Enter name:"
+msgstr "Introduceți numele:"
+
+#: regexpeditorwindow.cpp:399
+#, kde-format
+msgid "<p>Overwrite named regular expression <b>%1</b></p>"
+msgstr "<p>Suprascrie expresia regulată cu numele <b>%1</b></p>"
+
+#: regexpeditorwindow.cpp:407
+#, kde-format
+msgid "Could not open file for writing: %1"
+msgstr "Nu am putut să scriu în fișierul: %1"
+
+#: repeatregexp.cpp:57 repeatregexp.cpp:65
+#, kde-format
+msgid ""
+"<p>Value for attribute <b>%1</b> was not an integer for element <b>%2</b></"
+"p><p>It contained the value <b>%3</b></p>"
+msgstr ""
+
+#: repeatregexp.cpp:60 repeatregexp.cpp:68 textrangeregexp.cpp:141
+#: textregexp.cpp:55 widgetfactory.cpp:165 widgetfactory.cpp:198
+#: widgetfactory.cpp:205
+msgid "Error While Loading From XML File"
+msgstr "Eroare la încărcarea din fișierul XML"
+
+#: repeatwidget.cpp:77
+msgid "Number of Times to Repeat Content"
+msgstr "Numărul de ori de repetat conținutul"
+
+#: repeatwidget.cpp:177
+msgid "Times to Match"
+msgstr "Numărul de potriviri"
+
+#: repeatwidget.cpp:184
+msgid "Any number of times (including zero times)"
+msgstr "De ori cîte ori (inclusiv niciodată)"
+
+#: repeatwidget.cpp:191
+msgid "At least"
+msgstr "Cel puțin"
+
+#: repeatwidget.cpp:192
+msgid "At most"
+msgstr "Cel mult"
+
+#: repeatwidget.cpp:193
+msgid "Exactly"
+msgstr "Exact"
+
+#: repeatwidget.cpp:196
+msgid "From"
+msgstr "De la"
+
+#: repeatwidget.cpp:208
+msgid "to"
+msgstr "pînă la"
+
+#: repeatwidget.cpp:216 repeatwidget.cpp:243
+msgid "time(s)"
+msgstr "ori"
+
+#: repeatwidget.cpp:285
+msgid "Repeated Any Number of Times"
+msgstr "Repetat de ori cîte ori"
+
+#: repeatwidget.cpp:286
+#, kde-format
+msgid "Repeated at Least 1 Time"
+msgid_plural "Repeated at Least %1 Times"
+msgstr[0] "Repetat cel puțin 1 dată"
+msgstr[1] "Repetat de cel puțin %1 ori"
+msgstr[2] "Repetat de cel puțin %1 de ori"
+
+#: repeatwidget.cpp:287
+#, kde-format
+msgid "Repeated at Most 1 Time"
+msgid_plural "Repeated at Most %1 Times"
+msgstr[0] "Repetat cel mult 1 dată"
+msgstr[1] "Repetat de cel mult %1 ori"
+msgstr[2] "Repetat de cel mult %1 de ori"
+
+#: repeatwidget.cpp:288
+#, kde-format
+msgid "Repeated Exactly 1 Time"
+msgid_plural "Repeated Exactly %1 Times"
+msgstr[0] "Repetat exact 1 dată"
+msgstr[1] "Repetat de exact %1 ori"
+msgstr[2] "Repetat de exact %1 de ori"
+
+#: repeatwidget.cpp:289
+#, kde-format
+msgid "Repeated From %1 to %2 Times"
+msgstr "Repetat de la %1 pînă la %2 ori"
+
+#: textrangeregexp.cpp:140
+#, kde-format
+msgid ""
+"<p>Invalid sub element to element <b>TextRange</b>. Tag was <b>%1</b></p>"
+msgstr ""
+
+#: textregexp.cpp:54
+msgid "<p>Element <b>Text</b> did not contain any textual data.</p>"
+msgstr "<p>Elementul <b>Text</b> nu conține nici un fel de date textuale.</p>"
+
+#: userdefinedregexps.cpp:67
+msgid "User Defined"
+msgstr "Definită de utilizator"
+
+#: userdefinedregexps.cpp:88
+msgid "general"
+msgstr "general"
+
+#: userdefinedregexps.cpp:102
+#, kde-format
+msgid "Could not open file for reading: %1"
+msgstr "Nu am putut să deschid fișierul pentru citire: %1"
+
+#: userdefinedregexps.cpp:112
+#, kde-format
+msgid "File %1 containing user defined regular expression contained an error"
+msgstr ""
+
+#: userdefinedregexps.cpp:156
+#, fuzzy
+#| msgid "Rename..."
+msgid "Rename"
+msgstr "Redenumire..."
+
+#: userdefinedregexps.cpp:199
+msgid "Rename Item"
+msgstr "Redenumește element"
+
+#: userdefinedregexps.cpp:199
+msgid "New name:"
+msgstr "Nume nou:"
+
+#: userdefinedregexps.cpp:205
+#, kde-format
+msgid "<p>Overwrite named regular expression <b>%1</b>?</p>"
+msgstr "<p>Suprascrie expresia regulată cu numele <b>%1</b>?</p>"
+
+#: userdefinedregexps.cpp:205
+msgid "Do Not Overwrite"
+msgstr "Nu suprascrie"
+
+#: verifybuttons.cpp:37
+msgid "Verify regular expression"
+msgstr "Verifică expresia regulată"
+
+#: verifybuttons.cpp:38
+msgid ""
+"Shows what part of the regular expression is being matched in the "
+"<i>verifier window</i>.(The window below the graphical editor window)."
+msgstr ""
+
+#: verifybuttons.cpp:47
+msgid "Load text in the verifier window"
+msgstr "Încarcă text în fereastra de verificare"
+
+#: verifybuttons.cpp:52
+msgid "Verification Settings"
+msgstr "Configurări cerificare"
+
+#: verifybuttons.cpp:105
+msgid "Verify on the Fly"
+msgstr "Verifică din mers"
+
+#: verifybuttons.cpp:111
+msgid "Toggle on-the-fly verification of regular expression"
+msgstr "Comută activ/inactiv verificarea din mers a expresiei regulate"
+
+#: verifybuttons.cpp:112
+msgid ""
+"Enabling this option will make the verifier update for each edit. If the "
+"verify window contains much text, or if the regular expression is either "
+"complex or matches a lot of time, this may be very slow."
+msgstr ""
+
+#: verifybuttons.cpp:116
+msgid "Match Greedy"
+msgstr ""
+
+#: verifybuttons.cpp:121
+msgid "Toggle greedy matching when verifying the regular expression."
+msgstr "Comută verificarea din mers a expresiei regulate."
+
+#: verifybuttons.cpp:122
+msgid ""
+"When this option is enabled, the regular expression will be evaluated on a "
+"so-called greedy way."
+msgstr ""
+
+#: verifybuttons.cpp:125
+msgid "RegExp Language"
+msgstr "Limbaj expresie regulată"
+
+#: widgetfactory.cpp:164
+#, kde-format
+msgid "<p>Unknown tag while reading XML. Tag was <b>%1</b></p>"
+msgstr "<p>Tag necunoscut la citirea XML. Tagul a fost <b>%1</b></p>"
+
+#: widgetfactory.cpp:189
+#, fuzzy
+#| msgid "Error While Loading Regular Expression From XML"
+msgid "Error while loading regular expression from XML."
+msgstr "Eroare la încărcarea expresiei regulate din XML"
+
+#: widgetfactory.cpp:190
+msgid "Error While Loading Regular Expression From XML"
+msgstr "Eroare la încărcarea expresiei regulate din XML"
+
+#: widgetfactory.cpp:197
+#, kde-format
+msgid "<p>XML file did not contain a <b>%1</b> tag.</p>"
+msgstr "<p>Fișierul XML nu conține un tag <b>%1</b>.</p>"
+
+#: widgetfactory.cpp:203
+#, kde-format
+msgid ""
+"<p>Error while reading XML file. The element just below the tag <b>%1</b> "
+"was not an element.</p>"
+msgstr ""
+"<p>Eroare la citirea fișierului XML. Elementul imediat de sub tagul <b>%1</"
+"b> nu este un element.</p>"
+
+#: zerowidgets.cpp:74
+msgid ""
+"Any\n"
+"Character"
+msgstr ""
+"Orice\n"
+"caracter"
+
+#: zerowidgets.cpp:88
+msgid ""
+"Line\n"
+"Start"
+msgstr ""
+"Început\n"
+"Linie"
+
+#: zerowidgets.cpp:102
+msgid ""
+"Line\n"
+"End"
+msgstr ""
+"Sfîrșit\n"
+"Linie"
+
+#: zerowidgets.cpp:115
+msgid ""
+"Word\n"
+"Boundary"
+msgstr ""
+"Capăt\n"
+"cuvînt"
+
+#: zerowidgets.cpp:128
+msgid ""
+"Non-word\n"
+"Boundary"
+msgstr ""
+
+#~ msgid "from "
+#~ msgstr "de la "
+
+#~ msgid " to "
+#~ msgstr " la "
+
+#, fuzzy
+#~| msgid "Error While Loading Regular Expression From XML"
+#~ msgid ""
+#~ "Error while loading regular expression from XML. Most probably the "
+#~ "regular expression had unmatched tags."
+#~ msgstr "Eroare la încărcarea expresiei regulate din XML"

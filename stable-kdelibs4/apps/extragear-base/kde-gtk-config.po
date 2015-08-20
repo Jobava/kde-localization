@@ -1,0 +1,363 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-03-21 10:07+0100\n"
+"PO-Revision-Date: 2013-02-09 00:40+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: src/dialog_installer.cpp:89 src/dialog_installer.cpp:103
+#, kde-format
+msgid "Could not install the %1 theme."
+msgstr "Tema %1 nu a putut fi instalată."
+
+#: src/dialog_installer.cpp:89 src/dialog_installer.cpp:103
+msgid "Cannot install theme"
+msgstr "Tema nu poate fi instalată"
+
+#: src/dialog_installer.cpp:113 src/dialog_installer.cpp:139
+msgid "Parsing theme..."
+msgstr "Se parcurge tema..."
+
+#: src/dialog_installer.cpp:128
+msgid "This GTK theme can be installed"
+msgstr "Această temă GTK poate fi instalată"
+
+#: src/dialog_installer.cpp:131
+msgid "This GTK theme cannot be installed"
+msgstr "Această temă GTK nu poate fi instalată"
+
+#: src/dialog_installer.cpp:154
+msgid "This icons theme can be installed"
+msgstr "Această temă de pictograme poate fi instalată"
+
+#: src/dialog_installer.cpp:157
+msgid "This icons theme cannot be installed"
+msgstr "Această temă de pictograme nu poate fi instalată"
+
+#: src/dialog_installer.cpp:177
+msgid "Installing GTK theme..."
+msgstr "Se instalează tema GTK..."
+
+#: src/dialog_installer.cpp:183
+msgid "Installing icons..."
+msgstr "Se instalează pictogramele..."
+
+#: src/dialog_installer.cpp:192
+msgid "Icons Successfully Installed"
+msgstr "Pictograme instalate cu succes"
+
+#: src/dialog_installer.cpp:196
+msgid "The icons theme cannot be installed"
+msgstr "Tema de pictograme nu poate fi instalată"
+
+#: src/dialog_installer.cpp:205
+msgid "GTK Theme Successfully Installed"
+msgstr "Temă GTK instalată cu succes"
+
+#: src/dialog_installer.cpp:208
+msgid "The GTK theme cannot be installed"
+msgstr "Tema GTK nu poate fi instalată"
+
+#: src/dialog_uninstaller.cpp:87
+msgid "Uninstalling GTK theme..."
+msgstr "Se dezinstalează tema Gtk..."
+
+#: src/dialog_uninstaller.cpp:107
+msgid "Uninstalling icons..."
+msgstr "Se dezinstalează pictogramele..."
+
+#: src/dialog_uninstaller.cpp:118
+msgid "GTK theme successfully uninstalled."
+msgstr "Temă Gtk dezinstalată cu succes."
+
+#: src/dialog_uninstaller.cpp:121
+msgid "Could not uninstall the GTK theme."
+msgstr "Tema Gtk nu a putut fi dezinstalată."
+
+#: src/dialog_uninstaller.cpp:133
+msgid "Icons successfully uninstalled."
+msgstr "Pictograme dezinstalate cu succes."
+
+#: src/dialog_uninstaller.cpp:136
+msgid "Could not uninstall the icons theme."
+msgstr "Tema de pictograme nu a putut fi instalată."
+
+#: src/gtkconfigkcmodule.cpp:61
+msgid "KDE GTK Config"
+msgstr "Configurare KDE pentru GTK"
+
+#: src/gtkconfigkcmodule.cpp:62
+msgid "Configure your GTK Applications"
+msgstr "Configurează aplicațiile GTK"
+
+#: src/gtkconfigkcmodule.cpp:64
+msgid "Copyright 2011 José Antonio Sánchez Reynaga"
+msgstr "Drept de autor 2011 José Antonio Sánchez Reynaga"
+
+#: src/gtkconfigkcmodule.cpp:65
+msgid "José Antonio Sánchez Reynaga (antonioJASR)"
+msgstr "José Antonio Sánchez Reynaga (antonioJASR)"
+
+#: src/gtkconfigkcmodule.cpp:65
+msgid "Main Developer"
+msgstr "Dezvoltator principal"
+
+#: src/gtkconfigkcmodule.cpp:66
+msgid "Aleix Pol i Gonzalez"
+msgstr "Aleix Pol i Gonzalez"
+
+#: src/gtkconfigkcmodule.cpp:66
+msgid "Feature development. Previews, code refactoring."
+msgstr "Dezvoltarea posibilităților. Previzualizări, remodelarea codului."
+
+#: src/gtkconfigkcmodule.cpp:67
+msgid "Manuel Tortosa (manutortosa)"
+msgstr "Manuel Tortosa (manutortosa)"
+
+#: src/gtkconfigkcmodule.cpp:67
+msgid "Ideas, tester, internationalization"
+msgstr "Idei, teste, traduceri"
+
+#: src/gtkconfigkcmodule.cpp:68
+msgid "Adrián Chaves Fernández (Gallaecio)"
+msgstr "Adrián Chaves Fernández (Gallaecio)"
+
+#: src/gtkconfigkcmodule.cpp:68
+msgid "Internationalization"
+msgstr "Internaționalizare"
+
+#: src/gtkconfigkcmodule.cpp:121
+msgid "Download GTK2 themes..."
+msgstr "Descarcă teme GTK2..."
+
+#: src/gtkconfigkcmodule.cpp:122
+msgid "Download GTK3 themes..."
+msgstr "Descarcă teme GTK3..."
+
+#: src/gtkconfigkcmodule.cpp:123
+msgid "Install a local theme..."
+msgstr "Instalează o temă locală..."
+
+#: src/gtkconfigkcmodule.cpp:124
+msgid "Uninstall a local theme..."
+msgstr "Dezinstalează o temă locală..."
+
+#: src/gtkconfigkcmodule.cpp:319
+msgid "It was not possible to save the config"
+msgstr "Configurarea nu a putut fi salvată"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, dialog_installer)
+#: src/ui/dialog_installer.ui:20
+msgid "Installer"
+msgstr "Instalator"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabWidgetPage1)
+#: src/ui/dialog_installer.ui:54
+msgid "Add GTK Theme"
+msgstr "Adaugă temă GTK"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/ui/dialog_installer.ui:69 src/ui/dialog_installer.ui:224
+msgid "<b>Step 2</b>"
+msgstr "<b>Pasul 2</b>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/ui/dialog_installer.ui:82 src/ui/dialog_installer.ui:198
+msgid "Select the theme file you want to install:"
+msgstr "Alegeți fișierul cu tema care să fie instalată:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: src/ui/dialog_installer.ui:120 src/ui/dialog_installer.ui:244
+msgid "Click the next button in order to install the theme in your system."
+msgstr ""
+"Apăsați butonul următor pentru a instala tema în sistemul dumneavoastră."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/ui/dialog_installer.ui:133 src/ui/dialog_installer.ui:211
+msgid "<b>Step 1</b>"
+msgstr "<b>Pasul 1</b>"
+
+#. i18n: ectx: property (text), widget (QPushButton, but_theme_install)
+#: src/ui/dialog_installer.ui:143
+msgid "Install GTK Theme"
+msgstr "Instalează temă GTK"
+
+#. i18n: ectx: property (filter), widget (KUrlRequester, theme_file)
+#. i18n: ectx: property (filter), widget (KUrlRequester, icon_file)
+#: src/ui/dialog_installer.ui:153 src/ui/dialog_installer.ui:261
+msgid "*.tar.gz *.tar|Compressed file"
+msgstr "*.tar.gz *.tar|Fișier comprimat"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: src/ui/dialog_installer.ui:177
+msgid "Add New Icons Theme"
+msgstr "Adaugă temă de pictograme nouă"
+
+#. i18n: ectx: property (text), widget (QPushButton, but_icon_install)
+#: src/ui/dialog_installer.ui:254
+msgid "Install Icons"
+msgstr "Instalează pictograme"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, dialog_uninstaller)
+#: src/ui/dialog_uninstaller.ui:14
+msgid "Remove Themes"
+msgstr "Elimină teme"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/ui/dialog_uninstaller.ui:38
+msgid "Select a GTK theme to uninstall"
+msgstr "Alegeți tema GTK de dezinstalat"
+
+#. i18n: ectx: property (text), widget (QPushButton, but_uninstall_theme)
+#. i18n: ectx: property (text), widget (QPushButton, but_uninstall_icon)
+#: src/ui/dialog_uninstaller.ui:55 src/ui/dialog_uninstaller.ui:91
+msgid "Uninstall"
+msgstr "Dezinstalează"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: src/ui/dialog_uninstaller.ui:78
+msgid "Remove GTK Theme"
+msgstr "Elimină tema GTK"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/ui/dialog_uninstaller.ui:98
+msgid "Select an icon theme to uninstall"
+msgstr "Alegeți o temă de pictograme de dezinstalat"
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: src/ui/dialog_uninstaller.ui:121
+msgid "Remove Icon Theme"
+msgstr "Elimină tema de pictograme"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: src/ui/gui.ui:17
+msgid "GTK Themes"
+msgstr "Teme GTK"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: src/ui/gui.ui:23
+msgid "Select a GTK2 Theme:"
+msgstr "Alegeți o temă GTK2:"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, gtk2Preview)
+#. i18n: ectx: property (toolTip), widget (QToolButton, gtk3Preview)
+#: src/ui/gui.ui:45 src/ui/gui.ui:79
+msgid "Preview theme"
+msgstr "Previzualizează tema"
+
+#. i18n: ectx: property (text), widget (QLabel, label_21)
+#: src/ui/gui.ui:57
+msgid "Select a GTK3 Theme:"
+msgstr "Alegeți o temă GTK3:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/ui/gui.ui:91
+msgid "Font:"
+msgstr "Font:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: src/ui/gui.ui:104
+msgid "Behaviour"
+msgstr "Comportament"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/ui/gui.ui:113
+msgid "GTK style toolbar:"
+msgstr "Bară de unelte în stil GTK:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
+#: src/ui/gui.ui:121
+msgid "Icons Only"
+msgstr "Numai pictograme"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
+#: src/ui/gui.ui:126
+msgid "Text Only"
+msgstr "Numai text"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
+#: src/ui/gui.ui:131
+msgid "Text Under Icons"
+msgstr "Text sub pictograme"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cb_toolbar_icons)
+#: src/ui/gui.ui:136
+msgid "Text After Icons"
+msgstr "Text după pictograme"
+
+#. i18n: ectx: property (text), widget (QLabel, label_22)
+#: src/ui/gui.ui:144
+msgid "Show icons in GTK buttons:"
+msgstr "Arată pictograme în butoanele GTK:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_23)
+#: src/ui/gui.ui:158
+msgid "Show icons in GTK menus:"
+msgstr "Arată pictograme în meniurile GTK:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_6)
+#: src/ui/gui.ui:193
+msgid "Icon Themes"
+msgstr "Teme de pictograme"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: src/ui/gui.ui:199
+msgid "Icon theme:"
+msgstr "Temă de pictograme:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/ui/gui.ui:219
+msgid "Fallback theme:"
+msgstr "Temă de rezervă:"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, newThemes)
+#: src/ui/gui.ui:456
+msgid ""
+"<html><head/><body><p>Here you can find more GTK themes to try. You can "
+"either download them from the following websites.</p><p>Also you can "
+"download it from the opendesktop facilities as suggested below</p><p align="
+"\"center\"><a href=\"http://gnome-look.org\"><span style=\" text-decoration: "
+"underline; color:#0000ff;\">gnome-look.org</span></a><br/><a href=\"art."
+"gnome.org\"><span style=\" text-decoration: underline; color:#0000ff;\">art."
+"gnome.org</span></a></p></body></html>"
+msgstr ""
+"<html><head/><body><p>Aici puteți găsi mai multe teme GTK pentru a le "
+"încerca. Le puteți descărca de pe următoarele saituri.</p><p>De asemenea, le "
+"puteți descărca de la resursele OpenDesktop, așa cum e sugerat mai jos</p><p "
+"align=\"center\"><a href=\"http://gnome-look.org\"><span style=\" text-"
+"decoration: underline; color:#0000ff;\">gnome-look.org</span></a><br/><a "
+"href=\"art.gnome.org\"><span style=\" text-decoration: underline; color:"
+"#0000ff;\">art.gnome.org</span></a></p></body></html>"
+
+#. i18n: ectx: property (text), widget (QToolButton, newThemes)
+#: src/ui/gui.ui:459
+msgid "Get New Themes"
+msgstr "Obține teme noi"
+
+#~ msgid "Installing Gtk theme..."
+#~ msgstr "Se instalează tema Gtk..."

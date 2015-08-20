@@ -1,0 +1,195 @@
+# Ovidiu-Florin BOGDAN <ovidiu.b13@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-04-20 08:07+0000\n"
+"PO-Revision-Date: 2015-08-13 23:15+0200\n"
+"Last-Translator: Ovidiu-Florin BOGDAN <ovidiu.b13@gmail.com>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Language: ro_RO\n"
+"X-Source-Language: en\n"
+"X-Generator: Lokalize 2.0\n"
+
+# (utstool) path: application/id
+#. (itstool) path: application/id
+#: gcompris.appdata.xml:3
+msgid "gcompris.desktop"
+msgstr "gcompris.desktop"
+
+#. (itstool) path: application/metadata_license
+#: gcompris.appdata.xml:4
+msgid "CC0-1.0"
+msgstr "CC0-1.0"
+
+#. (itstool) path: application/project_license
+#: gcompris.appdata.xml:5
+msgid "GPL-3.0+"
+msgstr "GPL-3.0+"
+
+#. (itstool) path: application/name
+#: gcompris.appdata.xml:6
+msgid "GCompris Educational Game"
+msgstr "Joc educațional GCompris"
+
+#. (itstool) path: application/summary
+#: gcompris.appdata.xml:7
+msgid "Multi-Activity Educational game for children 2 to 10"
+msgstr "Joc educațional cu activități multiple pentru copii între 2 și 10 ani"
+
+#. (itstool) path: description/p
+#: gcompris.appdata.xml:9
+msgid ""
+"GCompris is an educational software suite comprising of numerous activities "
+"for children aged 2 to 10."
+msgstr ""
+"GCompris este un pachet de software educațional compus din numeroase "
+"activități pentru copii între 2 și 10 ani."
+
+#. (itstool) path: description/p
+#: gcompris.appdata.xml:11
+msgid ""
+"Some of the activities are game orientated, but nonetheless still "
+"educational."
+msgstr "Unele activități sunt orientate pe joacă, dar totuși educative."
+
+#. (itstool) path: description/p
+#: gcompris.appdata.xml:13
+msgid ""
+"Below you can find a list of categories with some of the activities "
+"available in that category."
+msgstr ""
+"Dedesubt puteți găsi o listă de categorii cu unele din activitățile "
+"disponibile în acea categorie."
+
+#. (itstool) path: ul/li
+#: gcompris.appdata.xml:16
+msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
+msgstr ""
+"descoperirea calculatorului: tastatura, mausul, diferite gesturi cu "
+"mausul, ..."
+
+#. (itstool) path: ul/li
+#: gcompris.appdata.xml:17
+msgid ""
+"arithmetic: table memory, enumeration, mirror image, balance the scale, "
+"change giving, ..."
+msgstr ""
+"aritmetică: tabla înmulțirii, enumerări, imagini în oglindă, echilibrează "
+"balanța, darea restului, ..."
+
+#. (itstool) path: ul/li
+#: gcompris.appdata.xml:19
+msgid "science: the canal lock, color mixing, gravity concept, ..."
+msgstr "științe: podul mobil, combinarea culorilor, gravitația, ..."
+
+#. (itstool) path: ul/li
+#: gcompris.appdata.xml:20
+msgid "games: memory, connect 4, tic tac toe, sudoku, hanoi tower, ..."
+msgstr "jocuri: memorie, leagă 4, X și 0, sudoku, turnul hanoi, ..."
+
+#. (itstool) path: ul/li
+#: gcompris.appdata.xml:21
+msgid "reading: reading practice, ..."
+msgstr "citire: exerciții de citire, ..."
+
+#. (itstool) path: ul/li
+#: gcompris.appdata.xml:22
+msgid ""
+"other: learn to tell time, the braille system, maze, music instruments, ..."
+msgstr ""
+"altele: învață să citești ceasul, sistemul braille, labirint, instrumente "
+"muzicale, ..."
+
+#. (itstool) path: description/p
+#: gcompris.appdata.xml:25
+msgid ""
+"Currently GCompris offers in excess of 100 activities and more are being "
+"developed. GCompris is free software, that means that you can adapt it to "
+"your own needs, improve it and, most importantly, share it with children "
+"everywhere."
+msgstr ""
+"Momentan GCompris oferă peste 100 de activități și multe altele sunt în "
+"lucru. GCompris este software liber, ceea ce înseamnă că poate fi adaptat "
+"nevoilor dumneavoastră, îmbunătățit, dar mai ales, partajat cu copii de "
+"pretutindeni."
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:31
+msgid "http://gcompris.net/screenshots-qt/middle/canal_lock.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/canal_lock.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:32
+msgid "http://gcompris.net/screenshots-qt/middle/"
+msgstr "http://gcompris.net/screenshots-qt/middle/"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:33
+msgid "http://gcompris.net/screenshots-qt/middle/click_on_letter_up.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/click_on_letter_up.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:34
+msgid "http://gcompris.net/screenshots-qt/middle/clockgame.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/clockgame.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:35
+msgid "http://gcompris.net/screenshots-qt/middle/color_mix.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/color_mix.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:36
+msgid "http://gcompris.net/screenshots-qt/middle/colors.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/colors.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:37
+msgid "http://gcompris.net/screenshots-qt/middle/enumerate.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/enumerate.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:38
+msgid "http://gcompris.net/screenshots-qt/middle/fifteen.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/fifteen.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:39
+msgid "http://gcompris.net/screenshots-qt/middle/hexagon.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/hexagon.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:40
+msgid "http://gcompris.net/screenshots-qt/middle/redraw_symmetrical.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/redraw_symmetrical.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:41
+msgid "http://gcompris.net/screenshots-qt/middle/scalesboard.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/scalesboard.png"
+
+#. (itstool) path: screenshots/screenshot
+#: gcompris.appdata.xml:42
+msgid "http://gcompris.net/screenshots-qt/middle/traffic.png"
+msgstr "http://gcompris.net/screenshots-qt/middle/traffic.png"
+
+#. (itstool) path: application/url
+#: gcompris.appdata.xml:44
+msgid "http://gcompris.net/"
+msgstr "http://gcompris.net/"
+
+#. (itstool) path: application/url
+#: gcompris.appdata.xml:45
+msgid "https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=gcompris"
+msgstr "https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=gcompris"
+
+#. (itstool) path: application/updatecontact
+#: gcompris.appdata.xml:46
+msgid "bruno.coudoin@gcompris.net"
+msgstr "bruno.coudoin@gcompris.net"

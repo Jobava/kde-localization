@@ -1,0 +1,216 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2009, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_systemloadviewer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:19+0000\n"
+"PO-Revision-Date: 2011-05-01 16:31+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: package/contents/config/config.qml:27
+#, fuzzy
+#| msgid "General Config"
+msgid "General"
+msgstr "Configurare generală"
+
+#: package/contents/config/config.qml:32
+msgid "Colors"
+msgstr "Culori"
+
+#: package/contents/ui/ColorSettings.qml:40
+msgid "Set colors manually"
+msgstr ""
+
+#: package/contents/ui/ColorSettings.qml:53
+#: package/contents/ui/SystemLoadViewer.qml:260
+msgid "CPU"
+msgstr "Procesor"
+
+#: package/contents/ui/ColorSettings.qml:59
+msgid "User:"
+msgstr "Utilizator:"
+
+#: package/contents/ui/ColorSettings.qml:68
+msgid "IOWait:"
+msgstr "Așteptare I/E:"
+
+#: package/contents/ui/ColorSettings.qml:77
+msgid "Sys:"
+msgstr ""
+
+#: package/contents/ui/ColorSettings.qml:86
+msgid "Nice:"
+msgstr "Nice:"
+
+#: package/contents/ui/ColorSettings.qml:95
+#: package/contents/ui/SystemLoadViewer.qml:276
+msgid "Memory"
+msgstr "Memorie"
+
+#: package/contents/ui/ColorSettings.qml:102
+msgid "Application:"
+msgstr ""
+
+#: package/contents/ui/ColorSettings.qml:111
+msgid "Buffers:"
+msgstr "Tampoane:"
+
+#: package/contents/ui/ColorSettings.qml:120
+msgid "Cached:"
+msgstr "În cache:"
+
+#: package/contents/ui/ColorSettings.qml:129
+#: package/contents/ui/SystemLoadViewer.qml:292
+msgid "Swap"
+msgstr "Swap"
+
+#: package/contents/ui/ColorSettings.qml:136
+#, fuzzy
+#| msgid "Used:"
+msgid "Used swap:"
+msgstr "Utilizat:"
+
+#: package/contents/ui/GeneralSettings.qml:55
+msgid "Show:"
+msgstr ""
+
+#: package/contents/ui/GeneralSettings.qml:63
+msgid "CPU monitor"
+msgstr ""
+
+#: package/contents/ui/GeneralSettings.qml:68
+#, fuzzy
+#| msgid "Memory"
+msgid "Memory monitor"
+msgstr "Memorie"
+
+#: package/contents/ui/GeneralSettings.qml:73
+msgid "Swap monitor"
+msgstr ""
+
+#: package/contents/ui/GeneralSettings.qml:77
+msgid "Monitor type:"
+msgstr ""
+
+#: package/contents/ui/GeneralSettings.qml:86
+msgid "Bar"
+msgstr ""
+
+#: package/contents/ui/GeneralSettings.qml:93
+msgid "Circular"
+msgstr ""
+
+#: package/contents/ui/GeneralSettings.qml:100
+msgid "Compact Bar"
+msgstr ""
+
+#: package/contents/ui/GeneralSettings.qml:105
+msgid "Update interval:"
+msgstr "Interval de actualizare:"
+
+#: package/contents/ui/GeneralSettings.qml:114
+msgctxt "Abbreviation for seconds"
+msgid "s"
+msgstr ""
+
+#: package/contents/ui/SystemLoadViewer.qml:156
+#, kde-format
+msgid "CPU: %1%"
+msgstr ""
+
+#: package/contents/ui/SystemLoadViewer.qml:157
+#, kde-format
+msgid "Average clock: %1 MHz"
+msgstr ""
+
+#: package/contents/ui/SystemLoadViewer.qml:162
+#, kde-format
+msgid "Memory: %1/%2 MiB"
+msgstr ""
+
+#: package/contents/ui/SystemLoadViewer.qml:167
+#, fuzzy, kde-format
+#| msgid "Swap Usage: %1% of %2 MiB"
+msgid "Swap: %1/%2 MiB"
+msgstr "Utilizare swap: %1% din %2 MiO"
+
+#: package/contents/ui/SystemLoadViewer.qml:230
+#, fuzzy
+#| msgid "System Load Viewer"
+msgid "System load"
+msgstr "Vizualizator încărcare sistem"
+
+#~ msgid "Background"
+#~ msgstr "Fundal"
+
+#~ msgid "Color:"
+#~ msgstr "Culoare:"
+
+#~ msgid "Translucency:"
+#~ msgstr "Transluciditate:"
+
+#~ msgid "System:"
+#~ msgstr "Sistem:"
+
+#~ msgid "General Config"
+#~ msgstr "Configurare generală"
+
+#~ msgid "Show vertically in panel:"
+#~ msgstr "Arată vertical în panou:"
+
+#~ msgid "Show usage of all processors:"
+#~ msgstr "Arată utilizarea tuturor procesoarelor:"
+
+#~ msgid " ms"
+#~ msgstr " ms"
+
+#, fuzzy
+#~| msgid "Colors"
+#~ msgctxt "@title:group"
+#~ msgid "Colors"
+#~ msgstr "Culori"
+
+#~ msgid "CPU %1 Usage: %2% at %3 MHz<br />"
+#~ msgstr "CPU %1 Utilizare: %2% la %3 MHz<br />"
+
+#~ msgid "CPU %1 Usage: %2%<br />"
+#~ msgstr "CPU %1 Utilizare: %2%<br />"
+
+#~ msgid "CPU Usage: %1% at %2 MHz/CPU<br />"
+#~ msgstr "Utilizare CPU: %1% la %2 MHz/CPU<br />"
+
+#~ msgid "CPU Usage: %1% at %2 MHz<br />"
+#~ msgstr "Utilizare CPU: %1% la %2 MHz<br />"
+
+#~ msgid "CPU Usage: %1%<br />"
+#~ msgstr "Utilizare CPU: %1%<br />"
+
+#~ msgid "Ram Usage: %1% of %2 MiB<br />"
+#~ msgstr "Utilizare memorie: %1% din %2 MiO<br />"
+
+#~ msgctxt "not available means the system does not have swap"
+#~ msgid "Swap: not available"
+#~ msgstr "Swap: indisponibil"
+
+#~ msgid "Apperance"
+#~ msgstr "Aspect"
+
+#~ msgid "CPU Usage: %1%<br />Ram Usage: %2%<br />Swap Usage: %3%"
+#~ msgstr ""
+#~ "Utilizare procesor: %1%<br />Utilizare RAM: %2%<br />Utilizare Swap: %3%"
+
+#~ msgctxt "not available means the system does not have swap"
+#~ msgid "CPU Usage: %1%<br />Ram Usage: %2%<br />Swap: not available"
+#~ msgstr ""
+#~ "Utilizare procesor: %1%<br />Utilizare RAM: %2%<br />Swap: indisponibil"

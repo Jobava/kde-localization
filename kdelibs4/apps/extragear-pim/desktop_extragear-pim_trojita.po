@@ -1,0 +1,32 @@
+# Sergiu Bivol <sergiu@ase.md>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-01 02:27+0000\n"
+"PO-Revision-Date: 2013-05-25 08:55+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: src/Gui/trojita.desktop:2 src/Harmattan/trojita-tp.desktop:5
+#: src/Harmattan/trojita-tp_harmattan.desktop:6
+msgctxt "Name"
+msgid "Trojitá"
+msgstr "Trojitá"
+
+#: src/Gui/trojita.desktop:38
+msgctxt "GenericName"
+msgid "IMAP E-mail Client"
+msgstr "Client de poștă IMAP"
+
+#: src/Gui/trojita.desktop:79
+msgctxt "Keywords"
+msgid "mail;e-mail;IMAP;SMTP;eml;MUA;"
+msgstr ""

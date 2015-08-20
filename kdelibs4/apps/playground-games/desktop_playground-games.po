@@ -1,0 +1,472 @@
+# translation of desktop_playground-games to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_playground-games package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu@ase.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_playground-games\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-06-15 02:23+0000\n"
+"PO-Revision-Date: 2008-12-20 22:08+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 0.3\n"
+
+#: backgammon/backgammon.desktop:3
+msgctxt "Name"
+msgid "Backgammon"
+msgstr ""
+
+#: backgammon/backgammon.desktop:34 kbackgammon/kbackgammon.desktop:42
+msgctxt "GenericName"
+msgid "Backgammon Game"
+msgstr ""
+
+#: kbackgammon/kbackgammon.desktop:4
+msgctxt "Name"
+msgid "KBackgammon"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:3
+msgctxt "Comment"
+msgid "KBackgammon"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:41
+msgctxt "Name"
+msgid "Game over, you won"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:74
+msgctxt "Comment"
+msgid "You have won the current game of backgammon"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:107
+msgctxt "Name"
+msgid "Game over, you lost"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:140
+msgctxt "Comment"
+msgid "You have lost the current game of backgammon"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:173
+msgctxt "Name"
+msgid "Roll or double"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:202
+msgctxt "Comment"
+msgid "It is your turn to roll the dice or double the cube"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:231
+msgctxt "Name"
+msgid "Roll the dice"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:262
+msgctxt "Comment"
+msgid "It is your turn to roll the dice"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:290
+msgctxt "Name"
+msgid "Move checkers"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:318
+msgctxt "Comment"
+msgid "The dice have been rolled and it is your turn to move checkers"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:346
+msgctxt "Name"
+msgid "Game invitation"
+msgstr ""
+
+#: kbackgammon/kbackgammon.notifyrc:376
+msgctxt "Comment"
+msgid "Somebody has invited you to a match"
+msgstr ""
+
+#: kolf-ng/kolf-ng.desktop:3
+msgctxt "Name"
+msgid "Kolf-NG"
+msgstr ""
+
+#: kolf-ng/kolf-ng.desktop:32
+msgctxt "GenericName"
+msgid "Miniature Golf"
+msgstr ""
+
+#: kombination/data/graphics/default.desktop:2
+#: krosswordpuzzle/themes/default.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr ""
+
+#: kombination/data/graphics/default.desktop:42
+msgctxt "Description"
+msgid "Kombination default theme for KDE 4"
+msgstr ""
+
+#: krosswordpuzzle/src/krosswordpuzzle.desktop:2
+msgctxt "Name"
+msgid "KrossWordPuzzle"
+msgstr ""
+
+#: krosswordpuzzle/src/krosswordpuzzle.desktop:31
+msgctxt "GenericName"
+msgid "Crossword puzzle game"
+msgstr ""
+
+#: krosswordpuzzle/themes/default.desktop:45
+msgctxt "Description"
+msgid "Default theme for KrossWordPuzzle."
+msgstr ""
+
+#: krosswordpuzzle/themes/egyptian.desktop:2 kspiral/maps/egyptian.desktop:2
+msgctxt "Name"
+msgid "Egyptian"
+msgstr ""
+
+#: krosswordpuzzle/themes/egyptian.desktop:36
+msgctxt "Description"
+msgid "KrossWordPuzzle, Egyptian style."
+msgstr ""
+
+#: krosswordpuzzle/themes/scribble.desktop:2
+msgctxt "Name"
+msgid "Scribble"
+msgstr ""
+
+#: krosswordpuzzle/themes/scribble.desktop:36
+msgctxt "Description"
+msgid "Scribble theme for KrossWordPuzzle."
+msgstr ""
+
+#: kspiral/maps/egyptian.desktop:36
+msgctxt "Description"
+msgid "First map for testing created by programer"
+msgstr ""
+
+#: kspiral/src/kspiral.desktop:3
+msgctxt "Name"
+msgid "KSpiral"
+msgstr ""
+
+#: kspiral/src/kspiral.desktop:36
+msgctxt "GenericName"
+msgid "A spiral puzzle game"
+msgstr ""
+
+#: kttt/src/kttt.desktop:2
+msgctxt "Name"
+msgid "KTic-Tac-Toe"
+msgstr "KTic-Tac-Toe"
+
+#: kttt/src/kttt.desktop:38
+msgctxt "Comment"
+msgid "A Tic-Tac-Toe game for KDE"
+msgstr ""
+
+#: kttt/src/kttt.notifyrc:3
+msgctxt "Comment"
+msgid "KTic-Tac-Toe"
+msgstr "KTic-Tac-Toe"
+
+#: kttt/src/kttt.notifyrc:38
+msgctxt "Name"
+msgid "Player moves"
+msgstr "Jucătorul mută"
+
+#: kttt/src/kttt.notifyrc:68
+msgctxt "Comment"
+msgid "A player moves a piece"
+msgstr "Un jucător mută o piesă"
+
+#: kttt/src/kttt.notifyrc:100
+msgctxt "Name"
+msgid "Player selects"
+msgstr "Jucătorul alege"
+
+#: kttt/src/kttt.notifyrc:130
+msgctxt "Comment"
+msgid "A player selects a piece"
+msgstr "Un jucător alege o piesă"
+
+#: kttt/src/kttt.notifyrc:162
+msgctxt "Name"
+msgid "Player unselects"
+msgstr "Jucătorul dezalege"
+
+#: kttt/src/kttt.notifyrc:192
+msgctxt "Comment"
+msgid "A player unselects a piece"
+msgstr "Un jucător dezalege o piesă"
+
+#: kttt/src/kttt.notifyrc:224
+msgctxt "Name"
+msgid "Player wins"
+msgstr "Jucătorul învinge"
+
+#: kttt/src/kttt.notifyrc:254
+msgctxt "Comment"
+msgid "A human player beats another human player"
+msgstr ""
+
+#: kttt/src/kttt.notifyrc:285
+msgctxt "Name"
+msgid "Computer wins"
+msgstr "Calculatorul învinge"
+
+#: kttt/src/kttt.notifyrc:315
+msgctxt "Comment"
+msgid "Computer beats the computer"
+msgstr "Calculatorul bate calculatorul"
+
+#: kttt/src/kttt.notifyrc:347
+msgctxt "Name"
+msgid "Human wins"
+msgstr "Omul învinge"
+
+#: kttt/src/kttt.notifyrc:377
+msgctxt "Comment"
+msgid "A human player beats the computer"
+msgstr "Un om bate calculatorul"
+
+#: kttt/src/kttt.notifyrc:409
+msgctxt "Name"
+msgid "Human loses"
+msgstr "Omul pierde"
+
+#: kttt/src/kttt.notifyrc:439
+msgctxt "Comment"
+msgid "The computer beats the human player"
+msgstr "Calculatorul bate omul"
+
+#: kttt/src/kttt.notifyrc:471
+msgctxt "Name"
+msgid "Game draw"
+msgstr "Remiză"
+
+#: kttt/src/kttt.notifyrc:502
+msgctxt "Comment"
+msgid "The game ends in a draw"
+msgstr "Jocul se încheie cu o remiză"
+
+#: magazynier/themes/ants.desktop:2
+msgctxt "Name"
+msgid "Ants"
+msgstr ""
+
+#: magazynier/themes/ants.desktop:25
+msgctxt "Description"
+msgid "The anthill theme"
+msgstr ""
+
+#: magazynier/themes/geometric.desktop:2
+msgctxt "Name"
+msgid "Geometric"
+msgstr ""
+
+#: magazynier/themes/geometric.desktop:31
+msgctxt "Description"
+msgid "Abstract high contrast theme."
+msgstr ""
+
+#: mancala/mancala.desktop:3
+msgctxt "Name"
+msgid "Mancala"
+msgstr ""
+
+#: parsek/src/parsek.desktop:3
+msgctxt "Name"
+msgid "Parsek"
+msgstr ""
+
+#: parsek/src/parsek.desktop:37
+msgctxt "GenericName"
+msgid "Galactic Strategy Game"
+msgstr ""
+
+#: parsek/src/parsek.desktop:70
+msgctxt "Comment"
+msgid "Play 4X strategy games where you build a space empire"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Fruit Wars"
+#~ msgstr "Războiul fructelor"
+
+#~ msgctxt "Name"
+#~ msgid "Collection"
+#~ msgstr "Colecție"
+
+#~ msgctxt "Comment"
+#~ msgid "Here you can configure Gamefu collection."
+#~ msgstr "Aici puteți configura colecția Gamefu."
+
+#~ msgctxt "Name"
+#~ msgid "Emulator"
+#~ msgstr "Emulator"
+
+#~ msgctxt "Comment"
+#~ msgid "Here you can configure the emulator for each system."
+#~ msgstr "Aici puteți configura emulatorul pentru fiecare sistem."
+
+#~ msgctxt "Name"
+#~ msgid "Plugins"
+#~ msgstr "Module"
+
+#~ msgctxt "Comment"
+#~ msgid "Here you can configure generic plugins."
+#~ msgstr "Aici puteți configura modulele generice."
+
+#~ msgctxt "Name"
+#~ msgid "gamefu"
+#~ msgstr "gamefu"
+
+#~ msgctxt "Name"
+#~ msgid "kfileGBA Information"
+#~ msgstr "Informații kfileGBA"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Game draw"
+#~ msgctxt "Name"
+#~ msgid "Game"
+#~ msgstr "Remiză"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Piece glued"
+#~ msgctxt "Name"
+#~ msgid "Pieces removed"
+#~ msgstr "Piesă lipită"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Game over"
+#~ msgctxt "Name"
+#~ msgid "Game over"
+#~ msgstr "Joc terminat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Game draw"
+#~ msgctxt "Name"
+#~ msgid "SameGame"
+#~ msgstr "Remiză"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "SnaKe"
+#~ msgctxt "Name"
+#~ msgid "KSame"
+#~ msgstr "Șarpe"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "SnaKe"
+#~ msgctxt "Name"
+#~ msgid "KSame Old"
+#~ msgstr "Șarpe"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plugins"
+#~ msgctxt "Name"
+#~ msgid "Plain"
+#~ msgstr "Module"
+
+#~ msgctxt "Name"
+#~ msgid "Game Over"
+#~ msgstr "Jocul s-a încheiat"
+
+#~ msgctxt "Comment"
+#~ msgid "Piece glued"
+#~ msgstr "Piesă lipită"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Palapeli"
+#~ msgctxt "Name"
+#~ msgid "Palapeli puzzles"
+#~ msgstr "Palapeli"
+
+#~ msgctxt "Name"
+#~ msgid "Palapeli"
+#~ msgstr "Palapeli"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Palapeli"
+#~ msgctxt "Comment"
+#~ msgid "Palapeli"
+#~ msgstr "Palapeli"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Player wins"
+#~ msgctxt "Name"
+#~ msgid "Player1"
+#~ msgstr "Jucătorul învinge"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Player wins"
+#~ msgctxt "Name"
+#~ msgid "Player2"
+#~ msgstr "Jucătorul învinge"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Player wins"
+#~ msgctxt "Name"
+#~ msgid "Player3"
+#~ msgstr "Jucătorul învinge"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Player wins"
+#~ msgctxt "Name"
+#~ msgid "Player4"
+#~ msgstr "Jucătorul învinge"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Player wins"
+#~ msgctxt "Name"
+#~ msgid "Player5"
+#~ msgstr "Jucătorul învinge"
+
+#~ msgctxt "Name"
+#~ msgid "ktank"
+#~ msgstr "ktank"
+
+#~ msgctxt "Comment"
+#~ msgid "the tank opengl Game"
+#~ msgstr "jocul OpenGL cu tancuri"
+
+#~ msgctxt "Name"
+#~ msgid "KTron"
+#~ msgstr "KTron"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KTron"
+#~ msgctxt "Name"
+#~ msgid "Neon K Tron"
+#~ msgstr "KTron"

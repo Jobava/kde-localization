@@ -1,0 +1,172 @@
+# Traducerea desktop_playground-edu.po în Română
+# translation of desktop_playground-edu to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_playground-edu package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_playground-edu\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: 2008-03-17 13:50+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu-bivol@mail.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: src/kard.desktop:2
+msgctxt "Name"
+msgid "Kard"
+msgstr "Kard"
+
+#: src/kard.desktop:43
+msgctxt "GenericName"
+msgid "Memory-like game"
+msgstr ""
+
+#: src/kard.desktop:77
+msgctxt "Comment"
+msgid "Memory-like game for KDE"
+msgstr ""
+
+#: themes/default.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr ""
+
+#: themes/default.desktop:33
+msgctxt "Description"
+msgid "Default theme."
+msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Kalcul"
+#~ msgctxt "Name"
+#~ msgid "Qalculate"
+#~ msgstr "Kalcul"
+
+#~ msgctxt "Name"
+#~ msgid "Kalcul"
+#~ msgstr "Kalcul"
+
+#~ msgctxt "Comment"
+#~ msgid "A KDE KPart Application"
+#~ msgstr "O aplicație KPart KDE"
+
+#~ msgctxt "GenericName"
+#~ msgid "Tests & Exams Editor"
+#~ msgstr "Editor de teste și examene"
+
+#~ msgctxt "Name"
+#~ msgid "KEduca-Editor"
+#~ msgstr "KEduca-Editor"
+
+#~ msgctxt "GenericName"
+#~ msgid "Tests & Exams"
+#~ msgstr "Teste și examene"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Tests & Exams Program"
+#~ msgstr "Program KDE de teste și examene"
+
+#~ msgctxt "Name"
+#~ msgid "KEduca"
+#~ msgstr "KEduca"
+
+#~ msgctxt "Comment"
+#~ msgid "Edu Document"
+#~ msgstr "Document Edu"
+
+#~ msgctxt "Comment"
+#~ msgid "Edu Gallery Document"
+#~ msgstr "Document galerie Edu"
+
+#~ msgctxt "Name"
+#~ msgid "KEduLaunch"
+#~ msgstr "KEduLaunch"
+
+#~ msgctxt "GenericName"
+#~ msgid "A launcher for KDE-Edu applications"
+#~ msgstr "Un lansator pentru aplicații KDE-Edu"
+
+#~ msgctxt "Name"
+#~ msgid "KMathtool"
+#~ msgstr "KMathtool"
+
+#~ msgctxt "Name"
+#~ msgid "KMathtoolPart"
+#~ msgstr "KMathtoolPart"
+
+#~ msgctxt "Name"
+#~ msgid "KMathAreaPerimeterPart"
+#~ msgstr "KMathAreaPerimeterPart"
+
+#~ msgctxt "Comment"
+#~ msgid "Area and Perimeter"
+#~ msgstr "Arie și perimetru"
+
+#~ msgctxt "Name"
+#~ msgid "KMathBasePart"
+#~ msgstr "KMathBasePart"
+
+#~ msgctxt "Name"
+#~ msgid "KMathHyperbolaPart"
+#~ msgstr "KMathHyperbolaPart"
+
+#~ msgctxt "Comment"
+#~ msgid "Hyperbola"
+#~ msgstr "Hiperbolă"
+
+#~ msgctxt "Name"
+#~ msgid "KMathLinePart"
+#~ msgstr "KMathLinePart"
+
+#~ msgctxt "Comment"
+#~ msgid "Lines"
+#~ msgstr "Linii"
+
+#~ msgctxt "Name"
+#~ msgid "KMathParabolaPart"
+#~ msgstr "KMathParabolaPart"
+
+#~ msgctxt "Comment"
+#~ msgid "Parabolas"
+#~ msgstr "Parabole"
+
+#~ msgctxt "Name"
+#~ msgid "KMathTrigGraphPart"
+#~ msgstr "KMathTrigGraphPart"
+
+#~ msgctxt "Name"
+#~ msgid "KMathVisTrigPart"
+#~ msgstr "KMathVisTrigPart"
+
+#~ msgctxt "Name"
+#~ msgid "KVerbos"
+#~ msgstr "KVerbos"
+
+#~ msgctxt "Name"
+#~ msgid "Kuriculum"
+#~ msgstr "Kuriculum"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KMathBasePart"
+#~ msgctxt "Name"
+#~ msgid "MathematiK"
+#~ msgstr "KMathBasePart"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KMathtoolPart"
+#~ msgctxt "Name"
+#~ msgid "MathematiKPart"
+#~ msgstr "KMathtoolPart"

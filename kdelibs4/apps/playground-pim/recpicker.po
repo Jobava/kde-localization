@@ -1,0 +1,138 @@
+# Traducerea recpicker.po în Română
+# translation of recpicker to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the recpicker package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: recpicker\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 07:03+0200\n"
+"PO-Revision-Date: 2008-12-29 20:27+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 0.3\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: main.cpp:30
+msgid "Recipients Picker Demo"
+msgstr "Demonstrație Alegere destinatari"
+
+#: main.cpp:31
+msgid "(c) 2007"
+msgstr "(c) 2007"
+
+#: mainwindow.cpp:74
+msgid "Select recipient"
+msgstr "Alegeți destinatarul"
+
+#: mainwindow.cpp:79 mainwindow.cpp:221
+msgid "Advanced Interface"
+msgstr "Interfață avansată"
+
+#: mainwindow.cpp:80
+msgid ""
+"Toggles between a simple interface to add one or more persons as recipient "
+"or an advanced interface with more possibilities which are not required so "
+"often."
+msgstr ""
+"Comută între o interfață simplă, pentru a adăuga una sau mai multe persoane "
+"ca destinatar, și una avansată, cu mai multe posibilități ce sînt utilizate "
+"mai rar."
+
+#: mainwindow.cpp:93
+msgid "This list displays persons who are filtered with the settings above."
+msgstr "Această listă afișează persoanele filtrate cu setările de mai sus."
+
+#: mainwindow.cpp:106
+msgid "Marked persons only "
+msgstr "Numai persoanele marcate"
+
+#: mainwindow.cpp:107
+msgid "Show only persons who are marked with a status"
+msgstr "Afișează numai persoanele marcate cu o stare"
+
+#: mainwindow.cpp:113
+msgid "Search"
+msgstr "Căutare"
+
+#: mainwindow.cpp:114
+#, fuzzy
+#| msgid ""
+#| "Enter a text to filter the persons in the list. You can also enter "
+#| "informations which are not visible in the list like addresses or phone "
+#| "numbers"
+msgid ""
+"Enter some text to filter the list of persons. You can also enter "
+"information that is not visible in the list, such as addresses or phone "
+"numbers."
+msgstr ""
+"Introduceți un text pentru a filtra persoanele din listă. Puteți de asemenea "
+"introduce informații care nu sînt vizibile în listă, cum ar fi adrese sau "
+"numere de telefon."
+
+#: mainwindow.cpp:119
+msgid " Address book:"
+msgstr "Carte de adrese:"
+
+#: mainwindow.cpp:124 mainwindow.cpp:245
+msgid "All"
+msgstr "Toate"
+
+#: mainwindow.cpp:125 mainwindow.cpp:246
+msgid "Distribution Lists"
+msgstr "Liste distribuție"
+
+#: mainwindow.cpp:126
+#, fuzzy
+#| msgid "Select a address book or a category to display those persons only"
+msgid "Select a address book or a category to display those persons only."
+msgstr "Alegeți o carte de adrese pentru a afișa numai acele persoane"
+
+#: mainwindow.cpp:163
+#, fuzzy
+#| msgid "Do not show every recipient to the other ones"
+msgid "Do not show recipients' names to each other."
+msgstr "Nu arăta fiecare destinatar celorlalți"
+
+#: mainwindow.cpp:164
+#, fuzzy
+#| msgid "Display all recipients to each one"
+msgid "Display all recipients' names to each other."
+msgstr "Arată fiecare destinatar celorlalți"
+
+#: mainwindow.cpp:223
+msgid "Basic Interface"
+msgstr "Interfață simplă"
+
+#: mainwindow.cpp:247
+msgid "Category"
+msgstr "Categorie"
+
+#: persontreeview.cpp:198
+#, fuzzy
+#| msgid ""
+#| "You do not have any persons in your addressbook. You can insert persons "
+#| "with the programm kadressbook which is also part of the kdepim package."
+msgid ""
+"You do not have any persons in your address book. You can insert persons "
+"with the program kaddressbook, which is also part of the kdepim package."
+msgstr ""
+"Nu aveți nici o persoană în cartea de adrese. Puteți introduce persoane cu "
+"programul kadressbook, care este și el o componentă a pachetului kdepim."

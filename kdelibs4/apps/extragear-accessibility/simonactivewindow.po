@@ -1,0 +1,80 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-11-05 01:49+0100\n"
+"PO-Revision-Date: 2012-06-16 01:06+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: activewindow.cpp:64
+#, fuzzy, kde-format
+#| msgctxt "%1 is process name, %2 is window name"
+#| msgid "'%1' has the active window with title '%2'"
+msgctxt "%1 is window name"
+msgid "The active window title is not '%1'"
+msgstr "„%1” are fereastra activă cu titlul „%2”"
+
+#: activewindow.cpp:66
+#, fuzzy, kde-format
+#| msgctxt "%1 is process name, %2 is window name"
+#| msgid "'%1' has the active window with title '%2'"
+msgctxt "%1 is window name"
+msgid "The active window title is '%1'"
+msgstr "„%1” are fereastra activă cu titlul „%2”"
+
+#: createactivewindowwidget.cpp:32
+msgid "Active Window Condition"
+msgstr "Condiție fereastră activă"
+
+#: createactivewindowwidget.cpp:47
+#, fuzzy
+#| msgid "Regular Expression is Valid"
+msgid "Regular expression is valid"
+msgstr "Expresia regulată este validă"
+
+#: createactivewindowwidget.cpp:47
+#, fuzzy
+#| msgid "Regular Expression is Invalid!"
+msgid "Regular expression is invalid"
+msgstr "Expresia regulată nu este validă!"
+
+#. i18n: ectx: property (text), widget (QLabel, lbWindowTitle)
+#: createactivewindowwidget.ui:17
+msgid "Window Title:"
+msgstr "Titlu fereastră:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbRegExp)
+#: createactivewindowwidget.ui:33
+msgid "Regular Expression"
+msgstr "Expresie regulată"
+
+#~ msgctxt "%1 is process name, %2 is window name"
+#~ msgid "'%1' does not have the active window with title '%2'"
+#~ msgstr "„%1” nu are fereastra activă cu titlul „%2”"
+
+#~ msgid "Program Name:"
+#~ msgstr "Denumire program:"
+
+#~ msgid "Locate Program"
+#~ msgstr "Localizează programul"
+
+#~ msgid ""
+#~ "An inverted condition is satisfied when its specified details are NOT true"
+#~ msgstr ""
+#~ "O condiție inversată este satisfăcută atunci cînd detaliile ei NU sînt "
+#~ "adevărate"
+
+#~ msgid "Invert Condition"
+#~ msgstr "Inversează condiția"

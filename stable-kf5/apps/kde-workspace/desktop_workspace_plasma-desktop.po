@@ -1,0 +1,1636 @@
+# Traducerea desktop_kdebase.po în Română
+# Claudiu Costin <claudiuc@kde.org>, 2002,2003, 2004, 2005.
+# Laurentiu Buzdugan <lbuz@rolix.org>, 2007,2009.
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009, 2011.
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2009, 2010, 2012, 2013, 2014.
+# Cristian Oneț <onet.cristian@gmail.com>, 2011, 2012.
+# Cristian Buzduga <cristianbzdg@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:30+0000\n"
+"PO-Revision-Date: 2014-03-25 01:34+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: applets/icontasks/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Task Manager"
+msgctxt "Name"
+msgid "Icons-only Task Manager"
+msgstr "Gestionar de sarcini"
+
+#: applets/icontasks/metadata.desktop:41
+#: applets/taskmanager/package/metadata.desktop:82
+msgctxt "Comment"
+msgid "Switch between running applications"
+msgstr "Comută printre aplicațiile ce rulează"
+
+#: applets/kicker/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application Launcher"
+msgctxt "Name"
+msgid "Application Menu"
+msgstr "Lansator de aplicații"
+
+#: applets/kicker/package/metadata.desktop:44
+msgctxt "Comment"
+msgid "A launcher based on cascading popup menus"
+msgstr ""
+
+#: applets/kickoff/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Launcher"
+msgstr "Lansator de aplicații"
+
+#: applets/kickoff/package/metadata.desktop:87
+msgctxt "Comment"
+msgid "Launcher to start applications"
+msgstr "Lansator pentru a porni aplicații"
+
+#: applets/pager/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Pager"
+msgstr "Paginator"
+
+#: applets/pager/package/metadata.desktop:84
+msgctxt "Comment"
+msgid "Switch between virtual desktops"
+msgstr "Comută între birouri virtuale"
+
+#: applets/showActivityManager/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Activities"
+msgstr "Activități"
+
+#: applets/showActivityManager/package/metadata.desktop:59
+msgctxt "Comment"
+msgid "Shows the activity manager"
+msgstr "Arată Gestionarul de activități"
+
+#: applets/taskmanager/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Task Manager"
+msgstr "Gestionar de sarcini"
+
+#: applets/trash/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Trashcan"
+msgstr "Coș de gunoi"
+
+#: applets/window-list/metadata.desktop:3
+msgctxt "Name"
+msgid "Window list"
+msgstr "Lista ferestrelor"
+
+#: applets/window-list/metadata.desktop:48
+msgctxt "Comment"
+msgid "Plasmoid to show list of opened windows."
+msgstr "Plasmoid ce arată lista ferestrelor deschise."
+
+#: containments/desktop/package/metadata.desktop:2
+#: desktoppackage/metadata.desktop:44
+msgctxt "Name"
+msgid "Desktop"
+msgstr "Birou"
+
+#: containments/desktop/package/metadata.desktop:89
+msgctxt "Comment"
+msgid "A clean and simple layout"
+msgstr "Aranjament curat și simplu"
+
+#: containments/folder/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Font Viewer"
+msgctxt "Name"
+msgid "Folder View"
+msgstr "Vizualizator de fonturi"
+
+#: containments/folder/metadata.desktop:35
+msgctxt "Comment"
+msgid "Display the contents of folders"
+msgstr ""
+
+#: containments/panel/metadata.desktop:4
+msgctxt "Name"
+msgid "Panel"
+msgstr "Panou"
+
+#: containments/panel/plasma-containment-panel.desktop:2
+msgctxt "Name"
+msgid "Empty Panel"
+msgstr "Panou gol"
+
+#: containments/panel/plasma-containment-panel.desktop:50
+msgctxt "Comment"
+msgid "A simple linear panel"
+msgstr "Un panou liniar simplu"
+
+#: desktoppackage/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Desktop Magnifier"
+msgctxt "Comment"
+msgid "Desktop view furniture"
+msgstr "Lupă de mărit pentru ecran"
+
+#: kcms/access/kaccess.desktop:3
+msgctxt "Name"
+msgid "KDE Accessibility Tool"
+msgstr "Utilitar de accesibilitate pentru KDE"
+
+#: kcms/access/kaccess.notifyrc:3
+msgctxt "Comment"
+msgid "Accessibility"
+msgstr "Accesibilitate"
+
+#: kcms/access/kaccess.notifyrc:95
+msgctxt "Name"
+msgid "A modifier key has become active"
+msgstr "Un modificator de taste a devenit activ"
+
+#: kcms/access/kaccess.notifyrc:173
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
+msgstr ""
+"Un modificator de taste (cum ar fi Shift sau Ctrl) și-a schimbat starea și "
+"este acum activ"
+
+#: kcms/access/kaccess.notifyrc:252
+msgctxt "Name"
+msgid "A modifier key has become inactive"
+msgstr "Un modificator de taste a devenit inactiv"
+
+#: kcms/access/kaccess.notifyrc:330
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
+msgstr ""
+"Un modificator de taste (cum ar fi Shift sau Ctrl) și-a schimbat starea și "
+"este acum inactiv"
+
+#: kcms/access/kaccess.notifyrc:409
+msgctxt "Name"
+msgid "A modifier key has been locked"
+msgstr "Un modificator de taste a fost blocat"
+
+#: kcms/access/kaccess.notifyrc:487
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
+"all of the following keypresses"
+msgstr ""
+"Un modificator de taste (cum ar fi Shift sau Ctrl) a fost blocat și este "
+"acum activ pentru următoarele apăsări de taste"
+
+#: kcms/access/kaccess.notifyrc:566
+msgctxt "Name"
+msgid "A lock key has been activated"
+msgstr "O tastă de blocare a fost activată"
+
+#: kcms/access/kaccess.notifyrc:645
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"active"
+msgstr ""
+"O tastă de blocare (cum ar fi Caps Lock sau Num Lock) și-a schimbat starea "
+"și este acum activă"
+
+#: kcms/access/kaccess.notifyrc:724
+msgctxt "Name"
+msgid "A lock key has been deactivated"
+msgstr "O tastă de blocare a fost dezactivată"
+
+#: kcms/access/kaccess.notifyrc:803
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"inactive"
+msgstr ""
+"O tastă de blocare (cum ar fi Caps Lock sau Num Lock) și-a schimbat starea "
+"și este acum inactivă"
+
+#: kcms/access/kaccess.notifyrc:882
+msgctxt "Name"
+msgid "Sticky keys has been enabled or disabled"
+msgstr "Taste lipicioase au fost activate sau dezactivate"
+
+#: kcms/access/kaccess.notifyrc:958
+msgctxt "Comment"
+msgid "Sticky keys has been enabled or disabled"
+msgstr "Taste lipicioase au fost activate sau dezactivate"
+
+#: kcms/access/kaccess.notifyrc:1039
+msgctxt "Name"
+msgid "Slow keys has been enabled or disabled"
+msgstr "Taste lente (Slow keys) au fost activate sau dezactivate"
+
+#: kcms/access/kaccess.notifyrc:1114
+msgctxt "Comment"
+msgid "Slow keys has been enabled or disabled"
+msgstr "Taste lente (Slow keys) au fost activate sau dezactivate"
+
+#: kcms/access/kaccess.notifyrc:1194
+msgctxt "Name"
+msgid "Bounce keys has been enabled or disabled"
+msgstr "Taste săltărețe (Bounce keys) au fost activate sau dezactivate"
+
+#: kcms/access/kaccess.notifyrc:1270
+msgctxt "Comment"
+msgid "Bounce keys has been enabled or disabled"
+msgstr "Taste săltărețe (Bounce keys) au fost activate sau dezactivate"
+
+#: kcms/access/kaccess.notifyrc:1351
+msgctxt "Name"
+msgid "Mouse keys has been enabled or disabled"
+msgstr "Taste de maus au fost activate sau dezactivate"
+
+#: kcms/access/kaccess.notifyrc:1427
+msgctxt "Comment"
+msgid "Mouse keys has been enabled or disabled"
+msgstr "Taste de maus au fost activate sau dezactivate"
+
+#: kcms/access/kcmaccess.desktop:17
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "Accesibilitate"
+
+#: kcms/access/kcmaccess.desktop:110
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Accessibility"
+msgctxt "Comment"
+msgid "Accessibility Options"
+msgstr "Accesibilitate"
+
+#: kcms/access/kcmaccess.desktop:149
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid ""
+#| "access,accessibility,deaf,impaired,bell,audible bell,visible bell,"
+#| "Keyboard,keys,sticky keys,bounce keys,slow keys,mouse navigation,num pad"
+msgctxt "X-KDE-Keywords"
+msgid ""
+"access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
+"visible bell,Keyboard,keys,sticky keys,bounce keys,slow keys,mouse "
+"navigation,num pad,numpad,activation gestures,gestures,sticky,modifier keys,"
+"modifier,locking keys"
+msgstr ""
+"acces,accesibilitate,surd,handicap,clopoțel,clopoțel auzibil,clopoțel "
+"vizibil,tastatură,taste,taste persistente,taste fără repetiție,taste lente,"
+"navigare maus,taste numerice"
+
+#: kcms/autostart/autostart.desktop:14
+msgctxt "Name"
+msgid "Autostart"
+msgstr "Pornire automată"
+
+#: kcms/autostart/autostart.desktop:103
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Launcher to start applications"
+msgctxt "Comment"
+msgid "Automatically Started Applications"
+msgstr "Lansator pentru a porni aplicații"
+
+#: kcms/autostart/autostart.desktop:143
+msgctxt "X-KDE-Keywords"
+msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
+msgstr ""
+
+#: kcms/baloo/kcm_baloofile.desktop:15
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "File Path"
+msgctxt "Name"
+msgid "File Search"
+msgstr "Calea fișierului"
+
+#: kcms/baloo/kcm_baloofile.desktop:50
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the spell checker"
+msgctxt "Comment"
+msgid "Configure File Search"
+msgstr "Configurează verificatorul ortografic"
+
+#: kcms/baloo/kcm_baloofile.desktop:85
+msgctxt "X-KDE-Keywords"
+msgid "Search, File, Baloo"
+msgstr ""
+
+#: kcms/colors/colors.desktop:14
+msgctxt "Name"
+msgid "Colors"
+msgstr "Culori"
+
+#: kcms/colors/colors.desktop:106
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application Launcher"
+msgctxt "Comment"
+msgid "Application Color Scheme"
+msgstr "Lansator de aplicații"
+
+#: kcms/colors/colors.desktop:147
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid "colors,colours,scheme,contrast,Widget colors,Color Scheme"
+msgctxt "X-KDE-Keywords"
+msgid ""
+"colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
+"theme"
+msgstr "culori,schemă,contrast,schemă de culori,schemă culori,culori controale"
+
+#: kcms/componentchooser/componentchooser.desktop:14
+msgctxt "Name"
+msgid "Default Applications"
+msgstr "Aplicații implicite"
+
+#: kcms/componentchooser/componentchooser.desktop:97
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Default Applications"
+msgctxt "Comment"
+msgid "Default Applications"
+msgstr "Aplicații implicite"
+
+#: kcms/componentchooser/componentchooser.desktop:138
+msgctxt "X-KDE-Keywords"
+msgid ""
+"default applications,components,component chooser,resources,e-mail,email "
+"client,text editor,instant messenger,terminal emulator,web browser,URL,"
+"hyperlinks"
+msgstr ""
+"aplicații implicite,componente,alege componente,resurse,e-mail,email,client,"
+"editor text,mesager instant,emulator terminal, browser web,URL,link-uri"
+
+#: kcms/componentchooser/componentservices/kcm_browser.desktop:4
+msgctxt "Name|standard desktop component"
+msgid "Web Browser"
+msgstr "Navigator de Internet"
+
+#: kcms/componentchooser/componentservices/kcm_browser.desktop:74
+msgctxt "Comment"
+msgid ""
+"Here you can configure your default web browser. All KDE applications in "
+"which you can select hyperlinks should honor this setting."
+msgstr ""
+"Aici puteți configura navigatorul de web implicit. Toate aplicațiile KDE în "
+"care puteți selecta o hiperlegătură ar trebui să onoreze această setare."
+
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Task Manager"
+msgctxt "Name|standard desktop component"
+msgid "File Manager"
+msgstr "Gestionar de sarcini"
+
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:46
+msgctxt "Comment"
+msgid ""
+"Here you can configure your default file manager. The entries in the K menu "
+"and all KDE applications in which you can open folders will use this file "
+"manager."
+msgstr ""
+"Aici puteți configura gestionarul de fișiere implicit. Înregistrările din "
+"meniul K și toate aplicațiile KDE în care puteți deschide dosare vor utiliza "
+"acest gestionar de fișiere."
+
+#: kcms/componentchooser/componentservices/kcm_kemail.desktop:4
+msgctxt "Name|standard desktop component"
+msgid "Email Client"
+msgstr "Client de poștă"
+
+#: kcms/componentchooser/componentservices/kcm_kemail.desktop:74
+msgctxt "Comment"
+msgid ""
+"This service allows you to configure your default email client. All KDE "
+"applications which need access to an email client application should honor "
+"this setting."
+msgstr ""
+"Acest serviciu vă permite să configurați clientul de email implicit. Toate "
+"aplicațiile KDE care au nevoie de o aplicație client de email ar trebui să "
+"onoreze această setare."
+
+#: kcms/componentchooser/componentservices/kcm_terminal.desktop:4
+msgctxt "Name|standard desktop component"
+msgid "Terminal Emulator"
+msgstr "Emulator de terminal"
+
+#: kcms/componentchooser/componentservices/kcm_terminal.desktop:74
+msgctxt "Comment"
+msgid ""
+"This service allows you to configure your default terminal emulator. All KDE "
+"applications which invoke a terminal emulator application should honor this "
+"setting."
+msgstr ""
+"Acest serviciu vă permite să configurați emulatorul de terminal implicit. "
+"Toate aplicațiile de KDE care invocă un emulator de terminal ar trebuie să "
+"onoreze această setare."
+
+#: kcms/componentchooser/componentservices/kcm_wm.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Task Manager"
+msgctxt "Name|standard desktop component"
+msgid "Window Manager"
+msgstr "Gestionar de sarcini"
+
+#: kcms/componentchooser/componentservices/kcm_wm.desktop:47
+msgctxt "Comment"
+msgid "Here you can select the window manager to be run in your KDE session."
+msgstr "Aici puteți alege gestionarul de ferestre ce va rula în sesiunea KDE."
+
+#: kcms/componentchooser/EXAMPLE.desktop:1
+msgctxt "Name"
+msgid "A nice name you have chosen for your interface"
+msgstr "Un nume drăguț ales de dumneavoastră pentru interfață"
+
+#: kcms/componentchooser/EXAMPLE.desktop:88
+msgctxt "Comment"
+msgid "A helpful description of the interface for the top right info box"
+msgstr ""
+"Aici trebuie să fie descrierea interfeței pentru căsuța din dreapta-sus"
+
+#: kcms/componentchooser/windowmanagers/compiz-custom.desktop:2
+msgctxt "Name"
+msgid ""
+"Compiz custom (create wrapper script 'compiz-kde-launcher' to launch it)"
+msgstr ""
+"Compiz particularizat (creare script „compiz-kde-launcher” pentru a-l lansa)"
+
+#: kcms/componentchooser/windowmanagers/compiz.desktop:2
+msgctxt "Name"
+msgid "Compiz"
+msgstr "Compiz"
+
+#: kcms/componentchooser/windowmanagers/metacity.desktop:2
+msgctxt "Name"
+msgid "Metacity (GNOME)"
+msgstr "Metacity (GNOME)"
+
+#: kcms/componentchooser/windowmanagers/openbox.desktop:2
+msgctxt "Name"
+msgid "Openbox"
+msgstr "Openbox"
+
+#: kcms/cursortheme/cursortheme.desktop:13
+msgctxt "Name"
+msgid "Cursor Theme"
+msgstr "Tematica de cursor"
+
+#: kcms/cursortheme/cursortheme.desktop:74
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cursor Theme"
+msgctxt "Comment"
+msgid "Mouse Cursor Theme"
+msgstr "Tematica de cursor"
+
+#: kcms/cursortheme/cursortheme.desktop:114
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
+"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
+msgstr ""
+
+#: kcms/dateandtime/clock.desktop:16
+msgctxt "Name"
+msgid "Date & Time"
+msgstr "Data și ora"
+
+#: kcms/dateandtime/clock.desktop:108
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Date & Time"
+msgctxt "Comment"
+msgid "Date and Time"
+msgstr "Data și ora"
+
+#: kcms/dateandtime/clock.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid ""
+"clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
+msgstr ""
+
+#: kcms/dateandtime/kcmclock_actions.actions:2
+msgctxt "Name"
+msgid "Date and Time Control Module"
+msgstr "Modul de control dată și oră"
+
+#: kcms/dateandtime/kcmclock_actions.actions:74
+msgctxt "Name"
+msgid "Save the date/time settings"
+msgstr "Salvează configurările datei și orei"
+
+#: kcms/dateandtime/kcmclock_actions.actions:141
+msgctxt "Description"
+msgid "System policies prevent you from saving the date/time settings."
+msgstr ""
+"Politicile sistemului vă interzic salvarea configurărilor de dată și oră."
+
+#: kcms/desktoppaths/desktoppath.desktop:13
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Manage Notifications"
+msgctxt "Name"
+msgid "Locations"
+msgstr "Gestiune notificări"
+
+#: kcms/desktoppaths/desktoppath.desktop:46
+msgctxt "Comment"
+msgid "Location for Personal Files"
+msgstr ""
+
+#: kcms/desktoppaths/desktoppath.desktop:77
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid "konqueror,filemanager,paths,desktop,directories,autostart"
+msgctxt "X-KDE-Keywords"
+msgid ""
+"konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
+"autostart,downloads,music,documents,movies,pictures"
+msgstr ""
+"konqueror,gestionare fișiere,căi,cale,birou,fișiere,dosare,pornire automată"
+
+#: kcms/desktoptheme/desktoptheme.desktop:13
+msgctxt "Name"
+msgid "Desktop Theme"
+msgstr "Tematica de birou"
+
+#: kcms/desktoptheme/desktoptheme.desktop:77
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop Theme"
+msgctxt "Comment"
+msgid "Desktop Theme"
+msgstr "Tematica de birou"
+
+#: kcms/desktoptheme/desktoptheme.desktop:117
+msgctxt "X-KDE-Keywords"
+msgid "Desktop Theme"
+msgstr "Tematica de birou"
+
+#: kcms/emoticons/emoticons.desktop:13
+msgctxt "Name"
+msgid "Emoticons"
+msgstr "Emoticoni"
+
+#: kcms/emoticons/emoticons.desktop:95
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Choose Emoticon Theme"
+msgctxt "Comment"
+msgid "Emoticon Theme"
+msgstr "Alegeți tema de emoticoni"
+
+#: kcms/emoticons/emoticons.desktop:134
+msgctxt "X-KDE-Keywords"
+msgid "Emoticons"
+msgstr "Emoticoni"
+
+#: kcms/fonts/fonts.desktop:14 kcms/kfontinst/kio/fonts.desktop:5
+msgctxt "Name"
+msgid "Fonts"
+msgstr "Fonturi"
+
+#: kcms/fonts/fonts.desktop:106
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Fonts"
+msgctxt "Comment"
+msgid "Fonts"
+msgstr "Fonturi"
+
+#: kcms/fonts/fonts.desktop:147
+msgctxt "X-KDE-Keywords"
+msgid ""
+"fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
+"FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
+"toolbar fonts,character,general fonts"
+msgstr ""
+
+#: kcms/formats/formats.desktop:14
+msgctxt "Name"
+msgid "Formats"
+msgstr ""
+
+#: kcms/formats/formats.desktop:53
+msgctxt "Comment"
+msgid "Numeric, Currency and Time Formats"
+msgstr ""
+
+#: kcms/formats/formats.desktop:93
+msgctxt "X-KDE-Keywords"
+msgid ""
+"language,translation,number format,locale,Country,charsets,character sets,"
+"Decimal symbol,Thousands separator,symbol,separator,sign,positive,negative,"
+"currency,money,fractional digits,calendar,time,date,formats,week,week start,"
+"first,paper,size,letter,A4,measure,metric,English,Imperial"
+msgstr ""
+"limbă,traducere,format număr,localizare,țară,set de caractere,seturi de "
+"caractere,simbol decimal, separator de mii,simbol,separator,semn,pozitiv,"
+"negativ,monedă,bani,zecimale,calendar,timp,dată,formate, început,săptămînă,"
+"prima,hîrtie,dimensiune,A4,măsură,metric,unități,Imperial"
+
+#: kcms/hardware/joystick/joystick.desktop:17
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Joystick"
+msgctxt "Comment"
+msgid "Joystick"
+msgstr "Joystick"
+
+#: kcms/hardware/joystick/joystick.desktop:58
+msgctxt "Name"
+msgid "Joystick"
+msgstr "Joystick"
+
+#: kcms/hardware/joystick/joystick.desktop:149
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid "joystick,gamepad"
+msgctxt "X-KDE-Keywords"
+msgid "joystick,gamepad,controller"
+msgstr "joystick,gamepad"
+
+#: kcms/icons/icons.desktop:14
+msgctxt "Name"
+msgid "Icons"
+msgstr "Pictograme"
+
+#: kcms/icons/icons.desktop:105
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cursor Theme"
+msgctxt "Comment"
+msgid "Icon Theme"
+msgstr "Tematica de cursor"
+
+#: kcms/icons/icons.desktop:146
+msgctxt "X-KDE-Keywords"
+msgid "icons,effects,size,hicolor,locolor"
+msgstr "pictograme,efecte,mărime,hicolor,locolor"
+
+#: kcms/input/mouse.desktop:17
+msgctxt "Name"
+msgid "Mouse"
+msgstr "Maus"
+
+#: kcms/input/mouse.desktop:109
+msgctxt "Comment"
+msgid "Mouse Controls"
+msgstr ""
+
+#: kcms/input/mouse.desktop:147
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,Double "
+"Click,Single Click,mapping,right handed,left handed,Pointer Device,Mouse "
+"Wheel,Mouse Emulation,Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,"
+"Mouse Sensitivity,Move Mouse with Num Pad,Mouse Num Pad Emulation"
+msgstr ""
+
+#: kcms/kded/kcmkded.desktop:14
+msgctxt "Name"
+msgid "Background Services"
+msgstr ""
+
+#: kcms/kded/kcmkded.desktop:51
+msgctxt "Comment"
+msgid "Background Services"
+msgstr ""
+
+#: kcms/kded/kcmkded.desktop:89
+msgctxt "X-KDE-Keywords"
+msgid "KDED,Daemon,Services"
+msgstr "KDED,Servicii,Demon"
+
+#: kcms/keyboard/kcm_keyboard.desktop:18
+msgctxt "Name"
+msgid "Keyboard"
+msgstr "Tastatură"
+
+#: kcms/keyboard/kcm_keyboard.desktop:109
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Keyboard Layout"
+msgctxt "Comment"
+msgid "Keyboard Hardware and Layout"
+msgstr "Aranjament de tastatură"
+
+#: kcms/keyboard/kcm_keyboard.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
+"NumPad,Keyboard type,Keyboard model,Keyboard layout,Key layout,Language,"
+"Alternate Keyboard,Keyboard switching,Ctrl Key,Caps Lock,Esperanto,"
+"Circumflex,Kill X Server,LED Keyboard,Compose Key"
+msgstr ""
+
+#: kcms/keyboard/keyboard.desktop:12
+msgctxt "Name"
+msgid "Keyboard Daemon"
+msgstr "Demon de tastatură"
+
+#: kcms/keys/keys.desktop:14
+msgctxt "Name"
+msgid "Global Keyboard Shortcuts"
+msgstr "Acceleratori de tastatură globali"
+
+#: kcms/keys/keys.desktop:94
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Global Keyboard Shortcuts"
+msgctxt "Comment"
+msgid "Global Keyboard Shortcuts"
+msgstr "Acceleratori de tastatură globali"
+
+#: kcms/keys/keys.desktop:136
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts,global shortcuts"
+msgstr ""
+
+#: kcms/kfontinst/apps/installfont.desktop:7
+msgctxt "Name"
+msgid "Install..."
+msgstr "Instalare..."
+
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:2
+msgctxt "Name"
+msgid "KFontView"
+msgstr "KFontView"
+
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:96
+msgctxt "GenericName"
+msgid "Font Viewer"
+msgstr "Vizualizator de fonturi"
+
+#: kcms/kfontinst/dbus/fontinst.actions:2
+msgctxt "Name"
+msgid "Font Installer"
+msgstr "Instalare fonturi"
+
+#: kcms/kfontinst/dbus/fontinst.actions:95
+msgctxt "Name"
+msgid "Manage system-wide fonts."
+msgstr "Gestionează fonturile sistemului."
+
+#: kcms/kfontinst/dbus/fontinst.actions:161
+msgctxt "Description"
+msgid "Modifying the system-wide font configuration requires privileges."
+msgstr "Modificarea configurației de fonturi a sistemului necesită privilegii."
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:13
+msgctxt "Name"
+msgid "Font Management"
+msgstr "Administrare fonturi"
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:69
+msgctxt "Comment"
+msgid "Font Installation, Preview and Removal"
+msgstr ""
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:107
+msgctxt "X-KDE-Keywords"
+msgid "font,fonts,installer,truetype,type1,bitmap"
+msgstr ""
+
+#: kcms/kfontinst/thumbnail/fontthumbnail.desktop:3
+msgctxt "Name"
+msgid "Font Files"
+msgstr "Fișiere font"
+
+#: kcms/kfontinst/viewpart/kfontviewpart.desktop:2
+msgctxt "Name"
+msgid "Font Viewer"
+msgstr "Vizualizator de fonturi"
+
+#: kcms/knotify/kcmnotify.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Manage Notifications"
+msgctxt "Name"
+msgid "Notifications"
+msgstr "Gestiune notificări"
+
+#: kcms/knotify/kcmnotify.desktop:55
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "System Bell Configuration"
+msgctxt "Comment"
+msgid "Event Notifications and Actions"
+msgstr "Configurare Clopoțel de sistem"
+
+#: kcms/knotify/kcmnotify.desktop:96
+msgctxt "X-KDE-Keywords"
+msgid "System sounds,Audio,Sound,Notify,Alerts,Notification,popups"
+msgstr "Sunete sistem,audio,sunet,notificare,alerte,notifică,popup"
+
+#: kcms/ksmserver/kcmsmserver.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop Theme"
+msgctxt "Name"
+msgid "Desktop Session"
+msgstr "Tematica de birou"
+
+#: kcms/ksmserver/kcmsmserver.desktop:54
+msgctxt "Comment"
+msgid "Desktop Session Login and Logout"
+msgstr ""
+
+#: kcms/ksmserver/kcmsmserver.desktop:92
+msgctxt "X-KDE-Keywords"
+msgid "ksmserver,session,logout,confirmation,save,restore"
+msgstr ""
+
+#: kcms/ksplash/kcm_splashscreen.desktop:15
+#: kcms/ksplash/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Splash Screen"
+msgstr ""
+
+#: kcms/ksplash/kcm_splashscreen.desktop:55
+#: kcms/ksplash/package/metadata.desktop:42
+msgctxt "Comment"
+msgid "Splash Screen Theme"
+msgstr ""
+
+#: kcms/ksplash/kcm_splashscreen.desktop:92
+msgctxt "X-KDE-Keywords"
+msgid "splash screen,splash theme,startup"
+msgstr ""
+
+#: kcms/launch/kcmlaunch.desktop:14
+msgctxt "Name"
+msgid "Launch Feedback"
+msgstr "Indicator de execuție"
+
+#: kcms/launch/kcmlaunch.desktop:101
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application Launcher"
+msgctxt "Comment"
+msgid "Application Launch Feedback"
+msgstr "Lansator de aplicații"
+
+#: kcms/launch/kcmlaunch.desktop:140
+msgctxt "X-KDE-Keywords"
+msgid ""
+"application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
+"rotating,spinning,disk,startup,program,report,taskbar"
+msgstr ""
+
+#: kcms/lookandfeel/autotests/lookandfeel/metadata.desktop:2
+msgctxt "Comment"
+msgid "Test Look and Feel package"
+msgstr ""
+
+#: kcms/lookandfeel/autotests/lookandfeel/metadata.desktop:40
+msgctxt "Name"
+msgid "Test"
+msgstr ""
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:14
+#: kcms/lookandfeel/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Look And Feel"
+msgstr ""
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:52
+msgctxt "Comment"
+msgid "Look And Feel"
+msgstr ""
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:90
+msgctxt "X-KDE-Keywords"
+msgid "theme, look, feel"
+msgstr ""
+
+#: kcms/lookandfeel/package/metadata.desktop:40
+msgctxt "Comment"
+msgid "Configure The Look And feel of the Desktop"
+msgstr ""
+
+#: kcms/phonon/kcm_phonon.desktop:13
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure date and time settings"
+msgctxt "Name"
+msgid "Audio and Video"
+msgstr "Configurează opțiunile de dată și oră"
+
+#: kcms/phonon/kcm_phonon.desktop:53
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure date and time settings"
+msgctxt "Comment"
+msgid "Phonon Audio and Video"
+msgstr "Configurează opțiunile de dată și oră"
+
+#: kcms/phonon/kcm_phonon.desktop:93
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
+"Media,NMM,GStreamer,Xine"
+msgstr ""
+"sunet,phonon,audio,video,ieșire,dispozitiv,notificare,muzică,comunicare,"
+"media,NMM,GStreamer,Xine"
+
+#: kcms/runners/kcm_plasmasearch.desktop:13
+msgctxt "Name"
+msgid "Plasma Search"
+msgstr ""
+
+#: kcms/runners/kcm_plasmasearch.desktop:52
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the spell checker"
+msgctxt "Comment"
+msgid "Configure Search"
+msgstr "Configurează verificatorul ortografic"
+
+#: kcms/runners/kcm_plasmasearch.desktop:92
+msgctxt "X-KDE-Keywords"
+msgid "Search, File, Baloo, Runner, krunner"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:2
+msgctxt "Name"
+msgid "Charge Percent"
+msgstr "Procentaj încărcare"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:73
+msgctxt "Name"
+msgid "Charge State"
+msgstr "Starea încărcării"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:145
+msgctxt "Name|battery plugged in"
+msgid "Plugged"
+msgstr "Atașat"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:196
+msgctxt "Name"
+msgid "Rechargeable"
+msgstr "Reîncărcabil"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:264
+msgctxt "Name"
+msgid "Type"
+msgstr "Tip"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:339
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:211
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:145
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:863
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:650
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:145
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:283
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:146
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:362
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:434
+msgctxt "Name"
+msgid "Solid Device"
+msgstr "Dispozitiv Solid"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:2
+msgctxt "Name"
+msgid "Device"
+msgstr "Dispozitiv"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:74
+msgctxt "Name"
+msgid "Major"
+msgstr "Major"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:142
+msgctxt "Name"
+msgid "Minor"
+msgstr "Minor"
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:2
+msgctxt "Name"
+msgid "Supported Drivers"
+msgstr "Drivere susținute"
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:73
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:73
+msgctxt "Name"
+msgid "Supported Protocols"
+msgstr "Protocoale susținute"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:2
+msgctxt "Name"
+msgid "Appendable"
+msgstr "Completabil"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:72
+msgctxt "Name"
+msgid "Available Content"
+msgstr "Conținut disponibil"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:144
+msgctxt "Name"
+msgid "Blank"
+msgstr "Gol"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:215
+msgctxt "Name"
+msgid "Capacity"
+msgstr "Capacitate"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:287
+msgctxt "Name"
+msgid "Disc Type"
+msgstr "Tipul discului"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:360
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:2
+msgctxt "Name"
+msgid "Fs Type"
+msgstr "Tipul SF"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:432
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:74
+msgctxt "Name"
+msgid "Ignored"
+msgstr "Ignorat"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:503
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:145
+msgctxt "Name"
+msgid "Label"
+msgstr "Etichetă"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:575
+msgctxt "Name"
+msgid "Rewritable"
+msgstr "Reinscriptibil"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:646
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:359
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:288
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:217
+msgctxt "Name"
+msgid "Size"
+msgstr "Dimensiune"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:719
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:290
+msgctxt "Name"
+msgid "Usage"
+msgstr "Utilizare"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:791
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:362
+msgctxt "Name"
+msgid "Uuid"
+msgstr "Uuid"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:2
+msgctxt "Name"
+msgid "Bus"
+msgstr "Magistrală"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:75
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:75
+msgctxt "Name"
+msgid "Drive Type"
+msgstr "Tip unitate"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:148
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:148
+msgctxt "Name"
+msgid "Hotpluggable"
+msgstr "Detașabil"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:215
+msgctxt "Name"
+msgid "Read Speed"
+msgstr "Viteză de citire"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:286
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:215
+msgctxt "Name"
+msgid "Removable"
+msgstr "Amovibil"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:432
+msgctxt "Name"
+msgid "Supported Media"
+msgstr "Mediu susținut"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:503
+msgctxt "Name"
+msgid "Write Speed"
+msgstr "Viteză de scriere"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:576
+msgctxt "Name"
+msgid "Write Speeds"
+msgstr "Viteze de scriere"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:2
+msgctxt "Name"
+msgid "Can Change Frequency"
+msgstr "Poate schimba frecvența"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:71
+msgctxt "Name"
+msgid "Instruction Sets"
+msgstr "Seturi de instrucțiuni"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:139
+msgctxt "Name"
+msgid "Max Speed"
+msgstr "Viteză maximă"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:211
+msgctxt "Name"
+msgid "Number"
+msgstr "Număr"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:2
+msgctxt "Name"
+msgid "Accessible"
+msgstr "Accesibil"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:73
+msgctxt "Name"
+msgid "File Path"
+msgstr "Calea fișierului"
+
+#: kcms/solid_actions/solid-actions.desktop:13
+msgctxt "Name"
+msgid "Device Actions"
+msgstr "Acțiuni dispozitiv"
+
+#: kcms/solid_actions/solid-actions.desktop:83
+msgctxt "Comment"
+msgid "Manage actions available to the user when connecting new devices"
+msgstr ""
+"Gestionează acțiunile oferite utilizatorului la conectarea noilor dispozitive"
+
+#: kcms/solid_actions/solid-actions.desktop:134
+msgctxt "X-KDE-Keywords"
+msgid "Solid Devices Actions"
+msgstr "Acțiuni dispozitiv Solid"
+
+#: kcms/solid_actions/solid-device-type.desktop:4
+msgctxt "Name"
+msgid "Solid Device Type"
+msgstr "Tip dispozitiv solid"
+
+#: kcms/spellchecking/spellchecking.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Spell Checker"
+msgctxt "Name"
+msgid "Spell Check"
+msgstr "Verificator ortografic"
+
+#: kcms/spellchecking/spellchecking.desktop:56
+msgctxt "Comment"
+msgid "Spell Checker Dictionaries and Options"
+msgstr ""
+
+#: kcms/spellchecking/spellchecking.desktop:95
+msgctxt "X-KDE-Keywords"
+msgid "Spell"
+msgstr "Ortografie"
+
+#: kcms/standard_actions/standard_actions.desktop:15
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Global Keyboard Shortcuts"
+msgctxt "Name"
+msgid "Application Keyboard Shortcuts"
+msgstr "Acceleratori de tastatură globali"
+
+#: kcms/standard_actions/standard_actions.desktop:55
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Standard Keyboard Shortcuts"
+msgctxt "Comment"
+msgid "Standard Keyboard Shortcuts for Applications"
+msgstr "Acceleratori de tastatură standard"
+
+#: kcms/standard_actions/standard_actions.desktop:94
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts"
+msgstr ""
+
+#: kcms/style/kcmstyle.notifyrc:3
+msgctxt "Name"
+msgid "Menubar manager"
+msgstr "Administrator al barei de meniu"
+
+#: kcms/style/kcmstyle.notifyrc:50
+msgctxt "Comment"
+msgid "Menubar exporter"
+msgstr "Exportator al barei de meniu"
+
+#: kcms/style/kcmstyle.notifyrc:97
+msgctxt "Name"
+msgid "Menubar changed"
+msgstr "Bara de meniu s-a schimbat"
+
+#: kcms/style/kcmstyle.notifyrc:142
+msgctxt "Comment"
+msgid "Settings changes will take effect only on application restart"
+msgstr ""
+"Modificările opțiunilor vor intra în vigoare după repornirea aplicației"
+
+#: kcms/style/style.desktop:16
+msgctxt "Name"
+msgid "Widget Style"
+msgstr ""
+
+#: kcms/style/style.desktop:54
+msgctxt "Comment"
+msgid "Widget Style and Behavior"
+msgstr ""
+
+#: kcms/style/style.desktop:93
+msgctxt "X-KDE-Keywords"
+msgid ""
+"style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
+"theme,plasma"
+msgstr ""
+"stil,stiluri,aspect,widget,control,pictograme,bare de unelte,text,"
+"evidențiere,aplicații,aplicații KDE,temă,plasma"
+
+#: kcms/touchpad/src/applet/dataengine.desktop:2
+msgctxt "Name"
+msgid "Touchpad DataEngine"
+msgstr ""
+
+#: kcms/touchpad/src/applet/qml/metadata.desktop:2
+msgctxt "Comment"
+msgid "Shows current touchpad state"
+msgstr ""
+
+#: kcms/touchpad/src/applet/qml/metadata.desktop:34
+msgctxt "Keywords"
+msgid "Touchpad"
+msgstr ""
+
+#: kcms/touchpad/src/applet/qml/metadata.desktop:64
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:16
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:2
+#: kcms/touchpad/src/kded/kded_touchpad.desktop:8
+msgctxt "Name"
+msgid "Touchpad"
+msgstr ""
+
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:46
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Mouse settings"
+msgctxt "Comment"
+msgid "Touchpad settings"
+msgstr "Configurări maus"
+
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:77
+msgctxt "X-KDE-Keywords"
+msgid "Touchpad,Synaptics"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:33
+msgctxt "Comment"
+msgid "Touchpad"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:65
+msgctxt "Name"
+msgid "Touchpad was disabled"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:94
+msgctxt "Comment"
+msgid "Touchpad was disabled because mouse is detected"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:128
+msgctxt "Name"
+msgid "Touchpad was enabled"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:157
+msgctxt "Comment"
+msgid "Touchpad was enabled because the mouse was unplugged"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kded_touchpad.desktop:38
+msgctxt "Comment"
+msgid "Enables or disables touchpad"
+msgstr ""
+
+#: kcms/translations/translations.desktop:14
+msgctxt "Name"
+msgid "Translations"
+msgstr ""
+
+#: kcms/useraccount/kcm_useraccount.desktop:14
+msgctxt "Name"
+msgid "Password and User Account"
+msgstr ""
+
+#: kcms/useraccount/kcm_useraccount.desktop:46
+msgctxt "X-KDE-Keywords"
+msgid "password,email,name,organization,realname,login image,face,echo mode"
+msgstr ""
+
+#: kcms/useraccount/kcm_useraccount.desktop:76
+msgctxt "Comment"
+msgid "User information such as password, name and email"
+msgstr ""
+
+#: kcms/workspaceoptions/workspaceoptions.desktop:13
+msgctxt "Name"
+msgid "Workspace"
+msgstr ""
+
+#: kcms/workspaceoptions/workspaceoptions.desktop:55
+msgctxt "Comment"
+msgid "Workspace Behavior"
+msgstr ""
+
+#: kcms/workspaceoptions/workspaceoptions.desktop:95
+msgctxt "X-KDE-Keywords"
+msgid ""
+"plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
+"tooltips"
+msgstr ""
+
+#: knetattach/org.kde.knetattach.desktop:2
+msgctxt "Name"
+msgid "KNetAttach"
+msgstr "KNetAttach"
+
+#: knetattach/org.kde.knetattach.desktop:88
+msgctxt "GenericName"
+msgid "Network Folder Wizard"
+msgstr "Expert dosar de rețea"
+
+#: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Default Applications"
+msgctxt "Name"
+msgid "Default Panel"
+msgstr "Aplicații implicite"
+
+#: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
+msgctxt "Name"
+msgid "Plasma Desktop Shell"
+msgstr "Învelișul de birou Plasma"
+
+#: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:67
+msgctxt "Comment"
+msgid "Interact with the Plasma desktop shell"
+msgstr "Interacționați cu învelișul de birou Plasma"
+
+#: toolboxes/desktoptoolbox/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Declarative widget"
+msgctxt "Name"
+msgid "Declarative Toolbox"
+msgstr "Control declarativ"
+
+#: toolboxes/desktoptoolbox/metadata.desktop:43
+msgctxt "Comment"
+msgid "Manage Plasma"
+msgstr "Gestionează Plasma"
+
+#: toolboxes/paneltoolbox/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Panel toolbox"
+msgctxt "Name"
+msgid "Panel Toolbox"
+msgstr "Trusa de unelte a panoului"
+
+#: toolboxes/paneltoolbox/metadata.desktop:47
+msgctxt "Comment"
+msgid "Manage Plasma panel"
+msgstr "Gestionează panoul Plasma"
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:2
+msgctxt "Comment"
+msgid "Default panel toolbox for the Plasma desktop shell"
+msgstr "Trusa de unelte implicită a panoului pentru învelișul de birou Plasma"
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:58
+msgctxt "Name"
+msgid "Panel toolbox"
+msgstr "Trusa de unelte a panoului"
+
+#~ msgctxt "Name"
+#~ msgid "System Bell"
+#~ msgstr "Clopoțel de sistem"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System Bell"
+#~ msgctxt "Comment"
+#~ msgid "System Bell"
+#~ msgstr "Clopoțel de sistem"
+
+#~ msgctxt "Name"
+#~ msgid "KDE TouchPad Enabler Daemon"
+#~ msgstr "Demon KDE pentru activarea zonei tactile"
+
+#~ msgctxt "Comment"
+#~ msgid "Toggles the enable status of the TouchPad"
+#~ msgstr "Comută starea activării zonei tactile"
+
+#~ msgctxt "Name"
+#~ msgid "Paths"
+#~ msgstr "Căi"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Improve accessibility for disabled persons"
+#~ msgctxt "Comment"
+#~ msgid "Accessibility Improvements for Disabled Persons"
+#~ msgstr "Îmbunătățește accesibilitate KDE pentru persoanele cu handicap"
+
+#~ msgctxt "Name"
+#~ msgid "Keyboard Layout"
+#~ msgstr "Aranjament de tastatură"
+
+#~ msgctxt "Comment"
+#~ msgid "View and switch between active keyboard layouts"
+#~ msgstr "Vizualizează și schimbă între aranjamentele de tastatură active"
+
+#~ msgctxt "Name"
+#~ msgid "Has State"
+#~ msgstr "Are stare"
+
+#~ msgctxt "Name"
+#~ msgid "State Value"
+#~ msgstr "Valoarea stării"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Social Desktop"
+#~ msgstr "Birou"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage Social Desktop Providers"
+#~ msgstr "Gestionează furnizorii de birou social"
+
+#~ msgctxt "Name"
+#~ msgid "Style"
+#~ msgstr "Stil"
+
+#~ msgctxt "Name"
+#~ msgid "Display"
+#~ msgstr "Afișare"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage which programs start up automatically with KDE."
+#~ msgstr "Gestionează ce programe se pornesc automat împreună cu KDE."
+
+#~ msgctxt "Comment"
+#~ msgid "System Bell Configuration"
+#~ msgstr "Configurare Clopoțel de sistem"
+
+#~ msgctxt "Comment"
+#~ msgid "Change the colors used in applications"
+#~ msgstr "Schimbă culorile folosite în aplicații"
+
+#~ msgctxt "Comment"
+#~ msgid "Choose the default components for various services"
+#~ msgstr "Alegeți componentele implicite pentru diferite servicii"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure date and time settings"
+#~ msgstr "Configurează opțiunile de dată și oră"
+
+#~ msgctxt "Comment"
+#~ msgid "Change the location important files are stored"
+#~ msgstr "Modifică locul de stocare a fișierelor importante"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize the desktop theme"
+#~ msgstr "Particularizează tematica de birou"
+
+#~ msgctxt "Comment"
+#~ msgid "Font settings"
+#~ msgstr "Configurări font"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Language, numeric, and time settings for your particular region"
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Numeric, currency and time formatting settings for your particular region"
+#~ msgstr ""
+#~ "Limba, afișarea numerelor și orei în modul specific regiunii unde locuiți"
+
+#~ msgctxt "Comment"
+#~ msgid "Display Settings"
+#~ msgstr "Configurări afișare"
+
+#~ msgctxt "Comment"
+#~ msgid "Joystick settings"
+#~ msgstr "Configurări joystick"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize KDE Icons"
+#~ msgstr "Personalizează pictogramele KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize the mouse cursor appearance"
+#~ msgstr "Particularizează tematica de cursor"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Menubar manager"
+#~ msgctxt "Name"
+#~ msgid "Service Manager"
+#~ msgstr "Administrator al barei de meniu"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "System Bell Configuration"
+#~ msgctxt "Comment"
+#~ msgid "KDE Services Configuration"
+#~ msgstr "Configurare Clopoțel de sistem"
+
+#~ msgctxt "Comment"
+#~ msgid "Keyboard settings"
+#~ msgstr "Configurări tastatură"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of keybindings"
+#~ msgstr "Configurează asocierile de taste"
+
+#~ msgctxt "Comment"
+#~ msgid "Install, manage, and preview fonts"
+#~ msgstr "Instalează, gestionează și previzualizează fonturi"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Font Management"
+#~ msgctxt "Name"
+#~ msgid "Session Management"
+#~ msgstr "Administrare fonturi"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure date and time settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure the session manager and logout settings"
+#~ msgstr "Configurează opțiunile de dată și oră"
+
+#~ msgctxt "Comment"
+#~ msgid "Choose application-launch feedback style"
+#~ msgstr "Alegeți modul de notificare a pornirii aplicațiilor"
+
+#~ msgctxt "Comment"
+#~ msgid "Settings for the Phonon multimedia framework"
+#~ msgstr "Configurări pentru platforma multimedia Phonon"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of standard keybindings"
+#~ msgstr "Configurarea asocierilor de taste standarde"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Allows the manipulation of widget behavior and changing the Style for KDE"
+#~ msgstr "Modifică stilul grafic KDE și comportamentul elementelor grafice"
+
+#~ msgctxt "Name"
+#~ msgid "Country/Region & Language"
+#~ msgstr "Țara/regiunea și limba"

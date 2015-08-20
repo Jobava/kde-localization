@@ -1,0 +1,138 @@
+# translation of kioslave_floppy.po to 
+# translation of kioslave_floppy.po to
+# translation of kioslave_floppy.po to
+# translation of kioslave_floppy.po to Romanian
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Claudiu Costin <claudiuc@kde.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kioslave_floppy\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-04-28 02:12+0000\n"
+"PO-Revision-Date: 2004-10-30 20:08+0300\n"
+"Last-Translator: Claudiu Costin <claudiuc@kde.org>\n"
+"Language-Team:  <en@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#. Tag: title
+#: index.docbook:9
+#, no-c-format
+msgid "Floppy"
+msgstr "floppy"
+
+#. Tag: author
+#: index.docbook:12
+#, no-c-format
+msgid "&Alexander.Neundorf; &Alexander.Neundorf.mail;"
+msgstr "&Alexander.Neundorf; &Alexander.Neundorf.mail;"
+
+#. Tag: trans_comment
+#: index.docbook:13
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr "&tradClaudiuCostin;"
+
+#. Tag: para
+#: index.docbook:17
+#, no-c-format
+msgid ""
+"The floppy ioslave gives you easy access to the floppy disk drives installed "
+"on your system."
+msgstr ""
+"Dispozitivul de I/E pentru floppy disk vă oferă acces la unităţile de "
+"dischetă instalate pe sistemul dumneavoastră."
+
+#. Tag: para
+#: index.docbook:22
+#, no-c-format
+msgid ""
+"The drive letter becomes the first subdirectory in the floppy &URL;. Let's "
+"say there is a file <filename>logo.png</filename> on your floppy disk in "
+"drive A, then the &URL; will be <userinput><command>floppy:</"
+"command><replaceable>/a/logo.png</replaceable></userinput>"
+msgstr ""
+"Litera unităţii de dischetă devine primul subdirector în &URL;-ul floppy. Să "
+"presupunem că există un fişier <filename>logo.png</filename> pe discheta din "
+"unitatea A. În aceste condiţii &URL;-ul va fi <userinput><command>floppy:</"
+"command><replaceable>/a/logo.png</replaceable></userinput>"
+
+#. Tag: para
+#: index.docbook:28
+#, no-c-format
+msgid ""
+"If you want to access drive B, <userinput><command>floppy:/b</command></"
+"userinput> will do it. <command>floppy:/</command> is a shortcut for "
+"<command>floppy:/a</command>."
+msgstr ""
+"Dacă doriţi să accesaţi unitatea B, comanda <userinput><command>floppy:/b</"
+"command></userinput> o va îndeplini. <command>floppy:/</command> este o "
+"scurtătură pentru <command>floppy:/a</command>."
+
+#. Tag: para
+#: index.docbook:33
+#, no-c-format
+msgid ""
+"Note that <command>floppy:/logo.png</command> means you have a disk drive "
+"named <filename>logo.png</filename>."
+msgstr ""
+"Observaţie: <command>floppy:/logo.png</command> înseamnă că aveţi o unitatea "
+"de dischetă cu numele <filename>logo.png</filename>."
+
+#. Tag: para
+#: index.docbook:36
+#, no-c-format
+msgid ""
+"To use it you need to have the mtools package installed, and the floppy "
+"ioslave supports everything the various mtools command line utilities "
+"support. You don't have to mount your floppy disks, simply enter "
+"<userinput>floppy:/</userinput> in any &kde; 3.x app and you will be able to "
+"read from and write to your floppy drive."
+msgstr ""
+"Pentru a-l utiliza, trebuie să aveţi instalat pachetul \"mtools\" şi "
+"subsistemul de I/E să suporte tot ce suportă şi diferitele utilitare \"mtools"
+"\". Nu trebuie să montaţi dischetele, ci pur şi simplu să introduceţi "
+"<userinput>floppy:/</userinput> în orice aplicaţie &kde; 3.x şi veţi putea "
+"citi şi scrie dischete."
+
+#. Tag: para
+#: index.docbook:43
+#, no-c-format
+msgid ""
+"It also works with USB sticks, ZIP and JAZ drives. You can use "
+"<command>floppy:/u</command> for the USB stick and <command>floppy:/z</"
+"command> for the zip drive, for example. To make this work, you might need "
+"to adjust your <filename>/etc/mtools</filename> file. See the manpage for "
+"documentation."
+msgstr ""
+"Merge şi cu memorii flash USB, unităţi ZIP şi JAZ. De exemplu, utilizaţi "
+"<command>floppy:/u</command> pentru memorii USB şi <command>floppy:/z</"
+"command> pentru discul ZIP. Pentru ca operaţiile de mai înainte să meargă, s-"
+"ar putea să fie necesar să editaţi fişierul <filename>/etc/mtools</"
+"filename>. Citiţi documentaţia asociată."
+
+#. Tag: para
+#: index.docbook:50
+#, no-c-format
+msgid ""
+"The ioslave gives read and write access to the floppy drive, but not "
+"simultaneously. While you can read and write to the floppy during the same "
+"session, reading and writing have to happen one after the other, not at the "
+"same time."
+msgstr ""
+"Acest subsistem de I/E vă oferă acces de citire şi scriere la unitatea de "
+"dischetă, dar nu simultan. Deşi puteţi citi şi scrie pe dischetă în aceeaşi "
+"sesiune, citirea şi scrierea trebuie să fie una după cealaltă, şi nu în "
+"acelaşi timp."
+
+#. Tag: para
+#: index.docbook:55
+#, no-c-format
+msgid "Author: Alexander Neundorf <email>neundorf@kde.org</email>"
+msgstr "Autor: Alexander Neundorf <email>neundorf@kde.org</email>"

@@ -1,0 +1,70 @@
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"PO-Revision-Date: 2010-01-19 23:03+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: kdevplugin/kcm_kdev_kxsldbg.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KXSLDbg"
+msgctxt "Name"
+msgid "KXSLDbg Settings"
+msgstr "KXSLDbg"
+
+#: kdevplugin/kcm_kdev_kxsldbg.desktop:43 kdevplugin/kdevkxsldbg.desktop:42
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KXSLDbg"
+msgctxt "GenericName"
+msgid "KXSLDbg Plugin"
+msgstr "KXSLDbg"
+
+#: kdevplugin/kcm_kdev_kxsldbg.desktop:81
+msgctxt "Comment"
+msgid "Configure KXSLDbg Settings"
+msgstr ""
+
+#: kdevplugin/kdevkxsldbg.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KXSLDbg"
+msgctxt "Name"
+msgid "KDevKXSLDbg"
+msgstr "KXSLDbg"
+
+#: kdevplugin/kdevkxsldbg.desktop:80
+msgctxt "Comment"
+msgid "Debug XSLT scripts using KXSLDbg"
+msgstr ""
+
+#: kxsldbg.desktop:2
+msgctxt "Name"
+msgid "KXSLDbg"
+msgstr "KXSLDbg"
+
+#: kxsldbg.desktop:43
+msgctxt "GenericName"
+msgid "XSLT Debugger"
+msgstr "Depanator XSLT"
+
+#: kxsldbgpart/kxsldbg_part.desktop:2
+msgctxt "Name"
+msgid "KXsldbgPart"
+msgstr "KXsldbgPart"
+
+#: xsldbg.desktop:4
+msgctxt "Name"
+msgid "Xsldbg"
+msgstr "Xsldbg"

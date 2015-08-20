@@ -1,0 +1,49 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@cip.md>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:20+0000\n"
+"PO-Revision-Date: 2015-04-20 14:34+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: exporter/main.cpp:29
+msgid "An application exporterer"
+msgstr "Exportator de aplicații"
+
+#: exporter/main.cpp:35
+msgid "Muon Exporter"
+msgstr "Exportator Muon"
+
+#: exporter/main.cpp:36
+msgid "©2013 Aleix Pol Gonzalez"
+msgstr "©2013 Aleix Pol Gonzalez"
+
+#: exporter/main.cpp:37
+msgid "Jonathan Thomas"
+msgstr "Jonathan Thomas"
+
+#: exporter/main.cpp:38
+msgid "Aleix Pol Gonzalez"
+msgstr "Aleix Pol Gonzalez"
+
+#: exporter/main.cpp:44
+msgid "List all the backends we'll want to have loaded, separated by coma ','."
+msgstr ""
+"Enumeră toate suporturile pe care le vom vrea încărcate, separate prin "
+"virgulă."
+
+#: exporter/main.cpp:45
+msgid "File to which we'll export"
+msgstr "Fișierul în care vom exporta"

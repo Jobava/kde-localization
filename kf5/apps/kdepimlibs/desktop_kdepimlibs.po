@@ -1,0 +1,360 @@
+# Traducerea desktop_kdepimlibs.po în Română
+# translation of desktop_kdepimlibs to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_kdepimlibs package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2009, 2012.
+# Cristian Oneț <onet.cristian@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdepimlibs\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-20 09:13+0000\n"
+"PO-Revision-Date: 2012-12-27 08:13+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: akonadi/autotests/testresource/knutresource.desktop:2
+msgctxt "Name"
+msgid "Knut"
+msgstr ""
+
+#: akonadi/autotests/testresource/knutresource.desktop:43
+msgctxt "Comment"
+msgid "An agent for debugging purpose"
+msgstr ""
+
+#: akonadi-contact/src/editor/im/kaddressbookimprotocol.desktop:5
+msgctxt "Name"
+msgid "KAddressbook Instant Messaging Protocol"
+msgstr "Protocol de mesagerie instantanee a cărții de adrese"
+
+#: akonadi-contact/src/editor/im/protocols/aimprotocol.desktop:7
+msgctxt "Comment"
+msgid "AIM Protocol"
+msgstr "Protocol AIM"
+
+#: akonadi-contact/src/editor/im/protocols/aimprotocol.desktop:58
+msgctxt "Name"
+msgid "AIM"
+msgstr "AIM"
+
+#: akonadi-contact/src/editor/im/protocols/facebookprotocol.desktop:7
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Yahoo Protocol"
+msgctxt "Comment"
+msgid "Facebook Protocol"
+msgstr "Protocol Yahoo"
+
+#: akonadi-contact/src/editor/im/protocols/facebookprotocol.desktop:32
+msgctxt "Name"
+msgid "Facebook"
+msgstr ""
+
+#: akonadi-contact/src/editor/im/protocols/gaduprotocol.desktop:7
+msgctxt "Comment"
+msgid "Gadu-Gadu Protocol"
+msgstr "Protocol Gadu-Gadu"
+
+#: akonadi-contact/src/editor/im/protocols/gaduprotocol.desktop:58
+msgctxt "Name"
+msgid "Gadu-Gadu"
+msgstr "Gadu-Gadu"
+
+#: akonadi-contact/src/editor/im/protocols/googletalkprotocol.desktop:7
+msgctxt "Comment"
+msgid "Google Talk"
+msgstr "Google Talk"
+
+#: akonadi-contact/src/editor/im/protocols/googletalkprotocol.desktop:50
+msgctxt "Name"
+msgid "Google Talk"
+msgstr "Google Talk"
+
+#: akonadi-contact/src/editor/im/protocols/groupwiseprotocol.desktop:7
+msgctxt "Comment"
+msgid "Novell GroupWise Messenger"
+msgstr "Mesagerul Novell GroupWise"
+
+#: akonadi-contact/src/editor/im/protocols/groupwiseprotocol.desktop:58
+msgctxt "Name"
+msgid "GroupWise"
+msgstr "GroupWise"
+
+#: akonadi-contact/src/editor/im/protocols/icqprotocol.desktop:7
+msgctxt "Comment"
+msgid "ICQ Protocol"
+msgstr "Protocol ICQ"
+
+#: akonadi-contact/src/editor/im/protocols/icqprotocol.desktop:58
+msgctxt "Name"
+msgid "ICQ"
+msgstr "ICQ"
+
+#: akonadi-contact/src/editor/im/protocols/ircprotocol.desktop:6
+msgctxt "Comment"
+msgid "Internet Relay Chat"
+msgstr "Internet Relay Chat"
+
+#: akonadi-contact/src/editor/im/protocols/ircprotocol.desktop:56
+msgctxt "Name"
+msgid "IRC"
+msgstr "IRC"
+
+#: akonadi-contact/src/editor/im/protocols/jabberprotocol.desktop:7
+msgctxt "Comment"
+msgid "Jabber Protocol"
+msgstr "Protocol Jabber"
+
+#: akonadi-contact/src/editor/im/protocols/jabberprotocol.desktop:58
+msgctxt "Name"
+msgid "Jabber"
+msgstr "Jabber"
+
+#: akonadi-contact/src/editor/im/protocols/meanwhileprotocol.desktop:6
+msgctxt "Comment"
+msgid "Meanwhile Protocol"
+msgstr "Protocol Meanwhile"
+
+#: akonadi-contact/src/editor/im/protocols/meanwhileprotocol.desktop:56
+msgctxt "Name"
+msgid "Meanwhile"
+msgstr "Meanwhile"
+
+#: akonadi-contact/src/editor/im/protocols/msnprotocol.desktop:7
+msgctxt "Comment"
+msgid "MSN Messenger"
+msgstr "Mesagerul MSN"
+
+#: akonadi-contact/src/editor/im/protocols/msnprotocol.desktop:58
+msgctxt "Name"
+msgid "MSN Messenger"
+msgstr "Mesagerul MSN"
+
+#: akonadi-contact/src/editor/im/protocols/skypeprotocol.desktop:7
+msgctxt "Comment"
+msgid "Skype Internet Telephony"
+msgstr "Telefonie prin internet Skype"
+
+#: akonadi-contact/src/editor/im/protocols/skypeprotocol.desktop:56
+msgctxt "Name"
+msgid "Skype"
+msgstr "Skype"
+
+#: akonadi-contact/src/editor/im/protocols/smsprotocol.desktop:6
+msgctxt "Comment"
+msgid "SMS Protocol"
+msgstr "Protocol SMS"
+
+#: akonadi-contact/src/editor/im/protocols/smsprotocol.desktop:57
+msgctxt "Name"
+msgid "SMS"
+msgstr "SMS"
+
+#: akonadi-contact/src/editor/im/protocols/twitterprotocol.desktop:7
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Jabber Protocol"
+msgctxt "Comment"
+msgid "Twitter Protocol"
+msgstr "Protocol Jabber"
+
+#: akonadi-contact/src/editor/im/protocols/twitterprotocol.desktop:32
+msgctxt "Name"
+msgid "Twitter"
+msgstr ""
+
+#: akonadi-contact/src/editor/im/protocols/yahooprotocol.desktop:7
+msgctxt "Comment"
+msgid "Yahoo Protocol"
+msgstr "Protocol Yahoo"
+
+#: akonadi-contact/src/editor/im/protocols/yahooprotocol.desktop:58
+msgctxt "Name"
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: akonadi-contact/src/kcm/akonadicontact_actions.desktop:12
+msgctxt "Name"
+msgid "Contact Actions"
+msgstr "Acțiuni contacte"
+
+#: akonadi-contact/src/kcm/akonadicontact_actions.desktop:65
+msgctxt "Comment"
+msgid "Configure the Contact Actions"
+msgstr "Configurează acțiunile contact"
+
+#: akonadi-contact/src/kcm/akonadicontact_actions.desktop:117
+msgctxt "X-KDE-Keywords"
+msgid "kaddressbook, configure, settings, contact, actions"
+msgstr ""
+
+#: akonadi-socialutils/src/serializer/akonadi_serializer_socialfeeditem.desktop:2
+msgctxt "Name"
+msgid "SocialFeedItem Serializer"
+msgstr ""
+
+#: akonadi-socialutils/src/serializer/akonadi_serializer_socialfeeditem.desktop:41
+msgctxt "Comment"
+msgid "An Akonadi serializer plugin for SocialFeedItem"
+msgstr ""
+
+#: kioslave/src/sieve/sieve.protocol:15
+msgctxt "Description"
+msgid "An ioslave for the Sieve mail filtering protocol"
+msgstr "Un „ioslave” pentru protocolul de filtrare a poștei Sieve"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Kontact Plugin"
+#~ msgctxt "Name"
+#~ msgid "Akonadi Test Search Plugin"
+#~ msgstr "Modul Kontact"
+
+#~ msgctxt "Name"
+#~ msgid "Kontact Plugin"
+#~ msgstr "Modul Kontact"
+
+#~ msgctxt "Name"
+#~ msgid "Mail Transport"
+#~ msgstr "Transport poștal"
+
+#~ msgctxt "Name"
+#~ msgid "Binary"
+#~ msgstr "Binar"
+
+#~ msgctxt "Name"
+#~ msgid "Contacts"
+#~ msgstr "Contacte"
+
+#~ msgctxt "Name"
+#~ msgid "Folder"
+#~ msgstr "Dosar"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "Provides access to contacts, each stored in a single file, in a given "
+#~| "folder. Supports standard VCard file and other formats depending on "
+#~| "availability of plugins."
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Provides access to contacts, each stored in a single file, in a given "
+#~ "folder. Supports standard vCard file and other formats depending on "
+#~ "availability of plugins."
+#~ msgstr ""
+#~ "Oferă acces la contacte, fiecare stocat într-un singur fișier, într-un "
+#~ "dosar dat. Susține fișiere VCard standard precum și alte formate în "
+#~ "dependență de disponibilitatea modulelor."
+
+#~ msgctxt "Name"
+#~ msgid "File"
+#~ msgstr "Fișier"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "Provides access to contacts stored in a single local file. Supports "
+#~| "standard VCard files and other formats depending on available plugins."
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Provides access to contacts stored in a single local file. Supports "
+#~ "standard vCard files and other formats depending on available plugins."
+#~ msgstr ""
+#~ "Oferă acces la contactele stocate într-un singur fișier. Susține fișiere "
+#~ "VCard standard precum și alte formate în dependență de modulele "
+#~ "disponibile."
+
+#~ msgctxt "Name"
+#~ msgid "LDAP"
+#~ msgstr "LDAP"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts stored on a LDAP directory server"
+#~ msgstr "Oferă acces la contactele stocate în dosarele unui server LDAP"
+
+#~ msgctxt "Name"
+#~ msgid "Network"
+#~ msgstr "Rețea"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "Provides access to contacts in remote files using KDE's network "
+#~| "framework KIO. Supports standard VCard files and other formats depending "
+#~| "on available plugins."
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Provides access to contacts in remote files using KDE's network framework "
+#~ "KIO. Supports standard vCard files and other formats depending on "
+#~ "available plugins."
+#~ msgstr ""
+#~ "Oferă acces la contactele din fișiere la distanță folosind platforma de "
+#~ "rețea KIO a KDE. Compatibil cu fișiere VCard standard precum și alte "
+#~ "formate în dependență de modulele disponibile."
+
+#~ msgctxt "Name"
+#~ msgid "Calendar"
+#~ msgstr "Calendar"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar in Local Directory"
+#~ msgstr "Calendar în director local"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Provides access to calendar items, each stored in a single file, in a "
+#~ "given directory"
+#~ msgstr ""
+#~ "Oferă acces la elemente de calendar, fiecare stocat într-un singur "
+#~ "fișier, într-un anumit director"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Resources"
+#~ msgstr "Resurse KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure KDE Resources"
+#~ msgstr "Configurare resurse KDE"
+
+#~ msgctxt "Name"
+#~ msgid "KResources Manager"
+#~ msgstr "Gestionar KResurse"
+
+#~ msgctxt "Comment"
+#~ msgid "KResources Manager"
+#~ msgstr "Gestionar KResurse"
+
+#~ msgctxt "Name"
+#~ msgid "KResources Plugin"
+#~ msgstr "Modul KResurse"
+
+#~ msgctxt "Comment"
+#~ msgid "KResources Framework Plugin"
+#~ msgstr "Modul de arhitectură KResurse"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar in Local File"
+#~ msgstr "Calendar în fișier local"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to a calendar stored in a single local file"
+#~ msgstr "Oferă acces la un calendar stocat într-un singur fișier local"
+
+#~ msgctxt "Name"
+#~ msgid "Directory"
+#~ msgstr "Director"
+
+#~ msgctxt "Comment"
+#~ msgid "KResource Manager"
+#~ msgstr "Administrator KResurse"

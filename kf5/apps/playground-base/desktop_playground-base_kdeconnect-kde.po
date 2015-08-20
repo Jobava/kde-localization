@@ -1,0 +1,294 @@
+# Sergiu Bivol <sergiu@ase.md>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-07-01 08:47+0000\n"
+"PO-Revision-Date: 2014-03-25 17:14+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: app/org.kde.kdeconnect.app.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDE Connect"
+msgctxt "Name"
+msgid "KDE Connect Application"
+msgstr "KDE Connect"
+
+#: app/org.kde.kdeconnect.app.desktop:19
+msgctxt "GenericName"
+msgid "Device Synchronization"
+msgstr ""
+
+#: app/org.kde.kdeconnect.app.desktop:36
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Notifications from your devices"
+msgctxt "Comment"
+msgid "Make all your devices one"
+msgstr "Notificări de pe dispozitivele dumneavoastră"
+
+#: daemon/kdeconnectd.desktop.cmake:10
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDE Connect"
+msgctxt "Name"
+msgid "KDEConnect daemon"
+msgstr "KDE Connect"
+
+#: daemon/kdeconnect.desktop:12 kcm/kcm_kdeconnect.desktop:13
+#: kcm/kdeconnect.desktop:6 kdeconnect-non-plasma.desktop:2
+#: plasmoid/package/metadata.desktop:2 plugins/kdeconnect.notifyrc:3
+msgctxt "Name"
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#: daemon/kdeconnect.desktop:40
+msgctxt "Comment"
+msgid "Connect KDE with your smartphone"
+msgstr ""
+
+#: fileitemactionplugin/kdeconnectsendfile.desktop:3
+msgctxt "Name"
+msgid "Send file via KDE Connect service"
+msgstr ""
+
+#: fileitemactionplugin/kdeconnectsendfile.desktop:29
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KdeConnect"
+msgctxt "X-KDE-Submenu"
+msgid "Connect"
+msgstr "KdeConnect"
+
+#: kcm/kcm_kdeconnect.desktop:41
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Notifications from your devices"
+msgctxt "Comment"
+msgid "Connect and sync your devices"
+msgstr "Notificări de pe dispozitivele dumneavoastră"
+
+#: kcm/kcm_kdeconnect.desktop:59
+msgctxt "X-KDE-Keywords"
+msgid "Network,Android,Devices"
+msgstr ""
+
+#: kcm/kdeconnect.desktop:33
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Notifications from your devices"
+msgctxt "GenericName"
+msgid "Connect and sync your devices"
+msgstr "Notificări de pe dispozitivele dumneavoastră"
+
+#: kdeconnect-non-plasma.desktop:29
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Notifications from your devices"
+msgctxt "Comment"
+msgid "Reach out to your devices"
+msgstr "Notificări de pe dispozitivele dumneavoastră"
+
+#: plasmoid/package/metadata.desktop:29
+msgctxt "Comment"
+msgid "Show notifications from your devices using KDE Connect"
+msgstr ""
+
+#: plugins/kdeconnect.notifyrc:30
+msgctxt "Comment"
+msgid "Notifications from your devices"
+msgstr "Notificări de pe dispozitivele dumneavoastră"
+
+#: plugins/kdeconnect.notifyrc:59
+msgctxt "Name"
+msgid "Pairing Request"
+msgstr ""
+
+#: plugins/kdeconnect.notifyrc:84
+msgctxt "Comment"
+msgid "Pairing request received from a devices"
+msgstr ""
+
+#: plugins/kdeconnect.notifyrc:112
+msgctxt "Name"
+msgid "Incoming Call"
+msgstr ""
+
+#: plugins/kdeconnect.notifyrc:133
+msgctxt "Comment"
+msgid "Someone is calling you"
+msgstr "Cineva vă apelează"
+
+#: plugins/kdeconnect.notifyrc:163
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Missed"
+msgctxt "Name"
+msgid "Missed Call"
+msgstr "Nepreluat"
+
+#: plugins/kdeconnect.notifyrc:184
+msgctxt "Comment"
+msgid "You have a missed call"
+msgstr "Ați pierdut un apel"
+
+#: plugins/kdeconnect.notifyrc:214
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Ping received"
+msgctxt "Name"
+msgid "SMS Received"
+msgstr "Ping primit"
+
+#: plugins/kdeconnect.notifyrc:235
+msgctxt "Comment"
+msgid "Someone sent you an SMS"
+msgstr "Cineva v-a trimis un SMS"
+
+#: plugins/kdeconnect.notifyrc:265
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Battery"
+msgctxt "Name"
+msgid "Battery Low"
+msgstr "Acumulator"
+
+#: plugins/kdeconnect.notifyrc:286
+msgctxt "Comment"
+msgid "Your battery is in low state"
+msgstr "Acumulatorul are un nivel scăzut"
+
+#: plugins/kdeconnect.notifyrc:316
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Ping received"
+msgctxt "Name"
+msgid "Ping Received"
+msgstr "Ping primit"
+
+#: plugins/kdeconnect.notifyrc:337
+msgctxt "Comment"
+msgid "Ping received"
+msgstr "Ping primit"
+
+#: plugins/kdeconnect.notifyrc:367
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Notification"
+msgctxt "Name"
+msgid "Generic Notification"
+msgstr "Notificare"
+
+#: plugins/kdeconnect.notifyrc:388
+msgctxt "Comment"
+msgid "Notification received"
+msgstr "Notificare primită"
+
+#: plugins/kdeconnect.notifyrc:418
+msgctxt "Name"
+msgid "File Transfer"
+msgstr ""
+
+#: plugins/kdeconnect.notifyrc:439
+msgctxt "Comment"
+msgid "Incoming file"
+msgstr ""
+
+#: plugins/kdeconnect_plugin.desktop:5
+msgctxt "Name"
+msgid "KDEConnect Plugin"
+msgstr "Extensie KDEConnect"
+
+#: plugins/pausemusic/kdeconnect_pausemusic_config.desktop:8
+msgctxt "Name"
+msgid "Pause Music plugin settings"
+msgstr ""
+
+#: plugins/share/kdeconnect_share_config.desktop:8
+msgctxt "Name"
+msgid "Share plugin settings"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Battery monitor"
+#~ msgstr "Monitorul acumulatorului"
+
+#~ msgctxt "Name"
+#~ msgid "Clipboard"
+#~ msgstr "Clipboard"
+
+#~ msgctxt "Comment"
+#~ msgid "Share the clipboard between devices"
+#~ msgstr "Partajează clipboardul între dispozitive"
+
+#~ msgctxt "Name"
+#~ msgid "Calling"
+#~ msgstr "Apelare"
+
+#~ msgctxt "Name"
+#~ msgid "SMS"
+#~ msgstr "SMS"
+
+#~ msgctxt "Name"
+#~ msgid "Ping"
+#~ msgstr "Ping"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Notification sync"
+#~ msgctxt "Name"
+#~ msgid "Notification"
+#~ msgstr "Sincronizare notificări"
+
+#~ msgctxt "Name"
+#~ msgid "Notification sync"
+#~ msgstr "Sincronizare notificări"
+
+#~ msgctxt "Comment"
+#~ msgid "Send and receive pings"
+#~ msgstr "Trimite și primește ping-uri"
+
+#~ msgctxt "Name"
+#~ msgid "Share and receive"
+#~ msgstr "Partajează și primește"
+
+#~ msgctxt "Name"
+#~ msgid "Telephony integration"
+#~ msgstr "Integrare telefonie"
+
+#~ msgctxt "Name"
+#~ msgid "Unknown"
+#~ msgstr "Necunoscut"
+
+#~ msgctxt "Comment"
+#~ msgid "Something unknown happened"
+#~ msgstr "S-a întîmplat ceva necunoscut"
+
+#~ msgctxt "Name"
+#~ msgid "KdeConnect"
+#~ msgstr "KdeConnect"
+
+#~ msgctxt "Name"
+#~ msgid "Mounted"
+#~ msgstr "Montat"
+
+#~ msgctxt "Comment"
+#~ msgid "Filesystem mounted"
+#~ msgstr "Sistem de fișiere montat"
+
+#~ msgctxt "Name"
+#~ msgid "Unmounted"
+#~ msgstr "Nemontat"
+
+#~ msgctxt "Comment"
+#~ msgid "Filesystem unmounted"
+#~ msgstr "Sistem de fișiere nemontat"

@@ -1,0 +1,306 @@
+# Sergiu Bivol <sergiu@ase.md>, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"PO-Revision-Date: 2012-12-26 13:50+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: applet/plasma-applet-networkmanagement.desktop:2
+#: networkmanagement.notifyrc:2
+msgctxt "Name"
+msgid "Network Management"
+msgstr "Gestiunea rețelei"
+
+#: applet/plasma-applet-networkmanagement.desktop:51
+msgctxt "Comment"
+msgid "Network status and control utility"
+msgstr "Utilitar de gestiune și control al rețelei"
+
+#: dataengine/plasma-engine-networkmanagement.desktop:2
+msgctxt "Name"
+msgid "Network Manager"
+msgstr "Administrator de rețea"
+
+#: dataengine/plasma-engine-networkmanagement.desktop:47
+msgctxt "Comment"
+msgid "Network Manager data engine"
+msgstr "Motor de date Administrator de rețea"
+
+#: kded/networkmanagement.desktop:2
+msgctxt "Name"
+msgid "NetworkManager User Settings Service"
+msgstr "Serviciu configurări utilizator NetworkManager"
+
+#: kded/networkmanagement.desktop:48
+msgctxt "Comment"
+msgid "Provides network configuration to the NetworkManager daemon"
+msgstr "Furnizează configurări de rețea către demonul NetworkManager"
+
+#: libs/ui/networkmanagement_vpnuiplugin.desktop:4
+msgctxt "Name"
+msgid "Network Management VPN UI Plugin"
+msgstr "Modul de interfață VPN pentru gestiunea rețelei"
+
+#: libs/ui/networkmanagement_vpnuiplugin.desktop:50
+msgctxt "Comment"
+msgid "Defines KDE Network Management UI Plugins"
+msgstr "Definește modulele de interfață pentru gestiunea rețelei"
+
+#: networkmanagement.notifyrc:52
+msgctxt "Comment"
+msgid "Network Management"
+msgstr "Gestiunea rețelei"
+
+#: networkmanagement.notifyrc:102
+msgctxt "Name"
+msgid "Network Connection Type"
+msgstr "Tipul conexiunii de rețea"
+
+#: networkmanagement.notifyrc:150
+msgctxt "Name"
+msgid "Network Interface Attached"
+msgstr "Interfață de rețea atașată"
+
+#: networkmanagement.notifyrc:196
+msgctxt "Comment"
+msgid "A network interface was attached"
+msgstr "A fost atașată o interfață de rețea"
+
+#: networkmanagement.notifyrc:245
+msgctxt "Name"
+msgid "Network Interface Removed"
+msgstr "Interfață de rețea eliminată"
+
+#: networkmanagement.notifyrc:292
+msgctxt "Comment"
+msgid "A network interface was removed"
+msgstr "A fost eliminată o interfață de rețea"
+
+#: networkmanagement.notifyrc:341
+msgctxt "Name"
+msgid "Found Wireless Network"
+msgstr "Rețea fără fir găsită"
+
+#: networkmanagement.notifyrc:388
+msgctxt "Comment"
+msgid "A wireless network appeared"
+msgstr "A apărut o rețea fără fir"
+
+#: networkmanagement.notifyrc:436
+msgctxt "Name"
+msgid "Lost Wireless Network"
+msgstr "Rețea fără fir pierdută"
+
+#: networkmanagement.notifyrc:483
+msgctxt "Comment"
+msgid "A wireless network disappeared"
+msgstr "A dispărut o rețea fără fir"
+
+#: networkmanagement.notifyrc:531
+msgctxt "Name"
+msgid "Establishing Network Connection"
+msgstr "Stabilire conexiune de rețea"
+
+#: networkmanagement.notifyrc:578
+msgctxt "Comment"
+msgid "A network connection attempt was begun"
+msgstr "A început o tentativă de conectare la rețea"
+
+#: networkmanagement.notifyrc:627
+msgctxt "Name"
+msgid "Network Connection Disconnected"
+msgstr "Conexiune de rețea deconectată"
+
+#: networkmanagement.notifyrc:673
+msgctxt "Comment"
+msgid "A network connection was disconnected"
+msgstr "A fost deconectată o conexiune de rețea"
+
+#: networkmanagement.notifyrc:721
+msgctxt "Name"
+msgid "Network Connection Succeeded"
+msgstr "Conexiunea la rețea a reușit"
+
+#: networkmanagement.notifyrc:768
+msgctxt "Comment"
+msgid "A network connection was established"
+msgstr "A fost stabilită o conexiune de rețea"
+
+#: networkmanagement.notifyrc:818
+msgctxt "Name"
+msgid "Network Connection Failed"
+msgstr "Conexiunea de rețea a eșuat"
+
+#: networkmanagement.notifyrc:865
+msgctxt "Comment"
+msgid "A network connection attempt failed"
+msgstr "O tentativă de conectare la rețea a eșuat"
+
+#: networkmanagement.notifyrc:914
+msgctxt "Name"
+msgid "Radio Hardware Switched Off"
+msgstr "Echipament radio deconectat"
+
+#: networkmanagement.notifyrc:959
+msgctxt "Comment"
+msgid "Wireless transceivers disabled by hardware switch"
+msgstr "Transmițători fără fir dezactivați de comutator fizic"
+
+#: networkmanagement.notifyrc:1007
+msgctxt "Name"
+msgid "Radio Hardware Switched On"
+msgstr "Echipament radio conectat"
+
+#: networkmanagement.notifyrc:1052
+msgctxt "Comment"
+msgid "Wireless transceivers enabled"
+msgstr "Transmițători fără fir activați"
+
+#: networkmanagement.notifyrc:1100
+msgctxt "Name"
+msgid "Low Wireless Signal Strength"
+msgstr "Semnal rețea fără fir slab"
+
+#: networkmanagement.notifyrc:1145
+msgctxt "Comment"
+msgid "The wireless signal strength is low"
+msgstr "Semnalul rețelei fără fir este slab"
+
+#: networkmanagement.notifyrc:1194
+msgctxt "Name"
+msgid "Interface changed state"
+msgstr "Interfața și-a modificat starea"
+
+#: networkmanagement.notifyrc:1239
+msgctxt "Comment"
+msgid "An interface changed state"
+msgstr "O interfață și-a modificat starea"
+
+#: networkmanagement.notifyrc:1286
+msgctxt "Name"
+msgid "Network management disabled"
+msgstr "Gestiunea rețelei a fost dezactivată"
+
+#: networkmanagement.notifyrc:1332
+msgctxt "Comment"
+msgid "The network management subsystem was stopped or restarted"
+msgstr "Subsistemul de gestiune a rețelei a fost oprit sau repornit"
+
+#: qml-nm08/package/metadata.desktop:2
+#: qml-nm08/plasma-applet-networkconnections.desktop:2
+msgctxt "Comment"
+msgid "Connect to the Internet"
+msgstr "Conectare la Internet"
+
+#: qml-nm08/package/metadata.desktop:49
+#: qml-nm08/plasma-applet-networkconnections.desktop:49
+#: settings/config/kcm_networkmanagement.desktop:2
+msgctxt "Name"
+msgid "Network Connections"
+msgstr "Conexiuni de rețea"
+
+#: settings/config/kcm_networkmanagement.desktop:49
+msgctxt "Comment"
+msgid "Add, Edit and Remove network connections"
+msgstr "Adaugă, modifică și elimină conexiuni de rețea"
+
+#: settings/config/kcm_networkmanagement_tray.desktop:2
+msgctxt "Name"
+msgid "Other"
+msgstr "Altele"
+
+#: settings/config/kcm_networkmanagement_tray.desktop:52
+msgctxt "Comment"
+msgid "Configure the Network Management tool"
+msgstr "Configurează unealta de gestiune a rețelei"
+
+#: vpnplugins/novellvpn/networkmanagement_novellvpnui.desktop:16
+msgctxt "Name"
+msgid "Novell VPN (turnpike)"
+msgstr "Novell VPN (turnpike)"
+
+#: vpnplugins/novellvpn/networkmanagement_novellvpnui.desktop:61
+msgctxt "Comment"
+msgid "Allows KNetworkManager to connect to Novell VPN (turnpike) VPNs."
+msgstr ""
+"Permite KNetworkManager să se conecteze la VPN-uri Novell VPN (turnpike.)"
+
+#: vpnplugins/openconnect/networkmanagement_openconnectui.desktop:16
+msgctxt "Name"
+msgid "OpenConnect"
+msgstr "OpenConnect"
+
+#: vpnplugins/openconnect/networkmanagement_openconnectui.desktop:61
+msgctxt "Comment"
+msgid "OpenConnect Plugin"
+msgstr "Extensie OpenConnect"
+
+#: vpnplugins/openvpn/networkmanagement_openvpnui.desktop:16
+msgctxt "Name"
+msgid "OpenVPN"
+msgstr "OpenVPN"
+
+#: vpnplugins/openvpn/networkmanagement_openvpnui.desktop:64
+msgctxt "Comment"
+msgid "OpenVPN plugin"
+msgstr "Modul OpenVPN"
+
+#: vpnplugins/pptp/networkmanagement_pptpui.desktop:16
+msgctxt "Name"
+msgid "PPTP"
+msgstr "PPTP"
+
+#: vpnplugins/pptp/networkmanagement_pptpui.desktop:63
+msgctxt "Comment"
+msgid "PPTP Plugin"
+msgstr "Modul PPTP"
+
+#: vpnplugins/strongswan/networkmanagement_strongswanui.desktop:16
+msgctxt "Name"
+msgid "StrongSwan"
+msgstr "StrongSwan"
+
+#: vpnplugins/strongswan/networkmanagement_strongswanui.desktop:62
+msgctxt "Comment"
+msgid "StrongSwan Plugin"
+msgstr "Modul StrongSwan"
+
+#: vpnplugins/vpnc/networkmanagement_vpncui.desktop:16
+msgctxt "Name"
+msgid "VPNC"
+msgstr "VPNC"
+
+#: vpnplugins/vpnc/networkmanagement_vpncui.desktop:63
+msgctxt "Comment"
+msgid "VPNC Plugin"
+msgstr "Modul VPNC"
+
+#~ msgctxt "Name"
+#~ msgid "KNetworkManager"
+#~ msgstr "KNetworkManager"
+
+#~ msgctxt "GenericName"
+#~ msgid "Network Manager"
+#~ msgstr "Administrator de rețea"
+
+#~ msgctxt "Comment"
+#~ msgid "A KDE frontend for NetworkManager"
+#~ msgstr "Interfață KDE pentru NetworkManager"
+
+#~ msgctxt "Comment"
+#~ msgid "The user started making a connection"
+#~ msgstr "Utilizatorul a început să facă o conexiune"
+
+#~ msgctxt "Comment"
+#~ msgid "A connection is being started automatically"
+#~ msgstr "O conexiune este pornită automat"

@@ -1,0 +1,110 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-06-26 05:39+0000\n"
+"PO-Revision-Date: 2010-01-19 23:20+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#. i18n: ectx: Menu (navigation)
+#: kdevstandardoutputview.rc:5
+msgctxt "@title:menu"
+msgid "Navigation"
+msgstr "Navigare"
+
+#: outputwidget.cpp:70 standardoutputview.cpp:49
+msgid "Output View"
+msgstr ""
+
+#: outputwidget.cpp:81
+msgid "Close the currently active output view"
+msgstr ""
+
+#: outputwidget.cpp:86
+msgid "Close all other output views"
+msgstr ""
+
+#: outputwidget.cpp:96
+msgid "Previous"
+msgstr "Precedent"
+
+#: outputwidget.cpp:99
+msgid "Next"
+msgstr "Următor"
+
+#: outputwidget.cpp:107
+msgid "Select activated Item"
+msgstr "Alege elementul activat"
+
+#: outputwidget.cpp:109
+msgid "Focus when selecting Item"
+msgstr "Focalizează la alegerea elementului"
+
+#: outputwidget.cpp:135
+msgid "Search..."
+msgstr ""
+
+#: outputwidget.cpp:137
+msgid "Enter a wild card string to filter the output view"
+msgstr ""
+
+#: standardoutputview.cpp:49
+msgid "Provides toolviews for presenting the output of running apps"
+msgstr ""
+
+#: standardoutputview.cpp:86
+msgid "Jump to Next Outputmark"
+msgstr ""
+
+#: standardoutputview.cpp:92
+msgid "Jump to Previous Outputmark"
+msgstr ""
+
+#: standardoutputview.cpp:136
+msgctxt "@title:window"
+msgid "Build"
+msgstr ""
+
+#: standardoutputview.cpp:141
+#, fuzzy
+msgctxt "@title:window"
+msgid "Run"
+msgstr "Execută"
+
+#: standardoutputview.cpp:146
+#, fuzzy
+msgctxt "@title:window"
+msgid "Debug"
+msgstr "Depanează"
+
+#: standardoutputview.cpp:151
+#, fuzzy
+msgctxt "@title:window"
+msgid "Test"
+msgstr "Testează"
+
+#: standardoutputview.cpp:156
+#, fuzzy
+msgctxt "@title:window"
+msgid "Version Control"
+msgstr "Control versiune"

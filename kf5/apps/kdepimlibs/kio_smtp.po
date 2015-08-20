@@ -1,0 +1,236 @@
+# translation of kio_smtp.po to Romanian
+# translation of @PACKAGE.po to @LANGUAGE
+# Copyright (C) 2003, 2004, 2005 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2003, 2004, 2005.
+# Sergiu Bivol <sergiu@ase.md>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kio_smtp\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-07-10 08:41+0000\n"
+"PO-Revision-Date: 2009-01-02 14:33+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: command.cpp:150
+msgid ""
+"The server rejected both EHLO and HELO commands as unknown or "
+"unimplemented.\n"
+"Please contact the server's system administrator."
+msgstr ""
+"Serverul a refuzat comenzile EHLO și HELO ca fiind necunoscute sau "
+"neimplementate.\n"
+"Contactați administratorul de sistem."
+
+#: command.cpp:164
+#, kde-format
+msgid ""
+"Unexpected server response to %1 command.\n"
+"%2"
+msgstr ""
+"Răspuns neașteptat la comanda %1.\n"
+"%2"
+
+#: command.cpp:188
+msgid ""
+"Your SMTP server does not support TLS. Disable TLS, if you want to connect "
+"without encryption."
+msgstr ""
+"Serverul SMTP nu suportă TLS. Dezactivați suportul TLS dacă doriți să vă "
+"conectați fără a cripta conexiunea."
+
+#: command.cpp:199
+#, fuzzy
+#| msgid ""
+#| "Your SMTP server claims to support TLS, but negotiation was "
+#| "unsuccessful.\n"
+#| "You can disable TLS in KDE using the crypto settings module."
+msgid ""
+"Your SMTP server claims to support TLS, but negotiation was unsuccessful.\n"
+"You can disable TLS in the SMTP account settings dialog."
+msgstr ""
+"Serverul SMTP declară că suportă TLS, dar negocierea nu a eșuat.\n"
+"Puteți dezactiva TLS în KDE folosind modulul de setare a opțiunilor de "
+"criptografie."
+
+#: command.cpp:203
+msgid "Connection Failed"
+msgstr "Conectarea a eșuat"
+
+#: command.cpp:209
+#, kde-format
+msgid "An error occurred during authentication: %1"
+msgstr "A intervenit o eroare în timpul autentificării: %1"
+
+#: command.cpp:280
+msgid "No authentication details supplied."
+msgstr "Nu au fost oferite informații de autentificare."
+
+#: command.cpp:388
+msgid "Choose a different authentication method."
+msgstr "Alegeți o altă metodă de autentificare."
+
+#: command.cpp:390
+#, kde-format
+msgid "Your SMTP server does not support %1."
+msgstr "Serverul SMTP nu suportă %1."
+
+#: command.cpp:391
+msgid "Your SMTP server does not support (unspecified method)."
+msgstr "Serverul SMTP nu suportă (metodă nespecificată)."
+
+#: command.cpp:395
+#, kde-format
+msgid ""
+"Your SMTP server does not support authentication.\n"
+"%1"
+msgstr ""
+"Serverul SMTP nu suportă autentificare.\n"
+"%1"
+
+#: command.cpp:400
+#, kde-format
+msgid ""
+"Authentication failed.\n"
+"Most likely the password is wrong.\n"
+"%1"
+msgstr ""
+"Autentificare eșuată.\n"
+"Probabil că parola este greșită.\n"
+"%1"
+
+#: command.cpp:557
+msgid "Could not read data from application."
+msgstr "Nu pot citi date din aplicație."
+
+#: command.cpp:575
+#, kde-format
+msgid ""
+"The message content was not accepted.\n"
+"%1"
+msgstr ""
+"Conținutul mesajului nu a fost acceptat.\n"
+"%1"
+
+#: response.cpp:113
+#, kde-format
+msgid ""
+"The server responded:\n"
+"%1"
+msgstr ""
+"Serverul a răspuns:\n"
+"%1"
+
+#: response.cpp:115
+#, kde-format
+msgid "The server responded: \"%1\""
+msgstr "Serverul a răspuns: \"%1\""
+
+#: response.cpp:118
+msgid "This is a temporary failure. You may try again later."
+msgstr "Aceasta este o eroare temporară. Puteți încerca mai tîrziu din nou."
+
+#: smtp.cpp:148
+msgid "The application sent an invalid request."
+msgstr "Aplicația a trimis o cerere eronată."
+
+#: smtp.cpp:208
+msgid "The sender address is missing."
+msgstr "Adresa expeditorului lipsește."
+
+#: smtp.cpp:215
+#, kde-format
+msgid "SMTPProtocol::smtp_open failed (%1)"
+msgstr "Protocolul SMTP a eșuat (%1)"
+
+#: smtp.cpp:223
+#, fuzzy, kde-format
+#| msgid ""
+#| "Your server does not support sending of 8-bit messages.\n"
+#| "Please use base64 or quoted-printable encoding."
+msgid ""
+"Your server (%1) does not support sending of 8-bit messages.\n"
+"Please use base64 or quoted-printable encoding."
+msgstr ""
+"Serverul dumneavoastră nu suportă trimiterea mesajelor cu caractere pe 8 "
+"biți.\n"
+"Încercați să utilizați codare \"base64\" sau \"text tipăribil\"."
+
+#: smtp.cpp:273
+msgid "Writing to socket failed."
+msgstr "Scrierea în soclu a eșuat."
+
+#: smtp.cpp:313
+#, kde-format
+msgid "Invalid SMTP response (%1) received."
+msgstr "Am primit un răspuns SMTP necorespunzător (%1)."
+
+#: smtp.cpp:542
+#, fuzzy, kde-format
+#| msgid ""
+#| "The server did not accept the connection.\n"
+#| "%1"
+msgid ""
+"The server (%1) did not accept the connection.\n"
+"%2"
+msgstr ""
+"Serverul nu acceptă conexiunea.\n"
+"%1"
+
+#: smtp.cpp:608
+msgid "Username and password for your SMTP account:"
+msgstr "Numele de utilizator și parola pentru contul SMTP:"
+
+#: transactionstate.cpp:52
+#, kde-format
+msgid ""
+"The server did not accept a blank sender address.\n"
+"%1"
+msgstr ""
+"Serverul nu acceptă o adresă nulă la expeditor.\n"
+"%1"
+
+#: transactionstate.cpp:55
+#, kde-format
+msgid ""
+"The server did not accept the sender address \"%1\".\n"
+"%2"
+msgstr ""
+"Serverul nu acceptă adresa \"%1\" a expeditorului.\n"
+"%2"
+
+#: transactionstate.cpp:114
+#, kde-format
+msgid ""
+"Message sending failed since the following recipients were rejected by the "
+"server:\n"
+"%1"
+msgstr ""
+"Trimiterea mesajului a eșuat deoarece destinatarii de mai jos au fost "
+"respinși de către server:\n"
+"%1"
+
+#: transactionstate.cpp:119
+#, kde-format
+msgid ""
+"The attempt to start sending the message content failed.\n"
+"%1"
+msgstr ""
+"Încercarea de începe trimiterea mesajului a eșuat.\n"
+"%1"
+
+#: transactionstate.cpp:124
+msgid "Unhandled error condition. Please send a bug report."
+msgstr ""
+"Condiție de eroare neașteptată. Vă rog să trimiteți un raport de eroare."
+
+#~ msgid "Authentication support is not compiled into kio_smtp."
+#~ msgstr "Suportul pentru autentificare nu este prezent în kio_smtp."

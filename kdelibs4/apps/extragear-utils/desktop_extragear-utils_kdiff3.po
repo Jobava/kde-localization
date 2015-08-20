@@ -1,0 +1,61 @@
+# Traducerea desktop_extragear-utils_kdiff3.po în Română
+# translation of desktop_extragear-utils_kdiff3 to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_extragear-utils_kdiff3 package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_extragear-utils_kdiff3\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-07-26 02:13+0000\n"
+"PO-Revision-Date: 2008-03-10 16:05+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu-bivol@mail.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: kdiff3fileitemactionplugin/kdiff3fileitemaction.desktop:4
+#: kdiff3plugin/kdiff3plugin.desktop:4
+msgctxt "Name"
+msgid "Compare/Merge Files/Directories with KDiff3"
+msgstr "Compară/unește fișiere/directoare cu KDiff3"
+
+#: kdiff3fileitemactionplugin/kdiff3fileitemaction.desktop:51
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDiff3"
+msgctxt "X-KDE-Submenu"
+msgid "KDiff3"
+msgstr "KDiff3"
+
+#: kdiff3plugin/kdiff3_plugin.desktop:4
+msgctxt "Name"
+msgid "Compare/Merge Files/Directories"
+msgstr "Compară/unește fișiere/directoare"
+
+#: src/kdiff3.desktop:2
+msgctxt "Name"
+msgid "KDiff3"
+msgstr "KDiff3"
+
+#: src/kdiff3.desktop:52
+msgctxt "GenericName"
+msgid "Diff/Patch Frontend"
+msgstr "Interfață Diferențiere/Cîrpire"
+
+#: src/kdiff3.desktop:105
+msgctxt "Comment"
+msgid "A File And Directory Comparison And Merge Tool"
+msgstr "Un instrument de comparare și unire a fișierelor și directoarelor"
+
+#: src/kdiff3part.desktop:2
+msgctxt "Name"
+msgid "KDiff3Part"
+msgstr "KDiff3Part"

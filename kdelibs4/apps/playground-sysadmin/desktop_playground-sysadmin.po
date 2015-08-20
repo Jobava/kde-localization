@@ -1,0 +1,472 @@
+# translation of desktop_playground-sysadmin to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_playground-sysadmin package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_playground-sysadmin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: 2009-06-21 22:07+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: shaman/libshaman/backends/apt/org.kde.shaman.apt.actions:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "ProcessQueue"
+msgctxt "Name"
+msgid "Process package queue"
+msgstr "CoadăProces"
+
+#: shaman/libshaman/backends/apt/org.kde.shaman.apt.actions:27
+msgctxt "Description"
+msgid "Takes a list of packages and actions to process on such packages"
+msgstr ""
+
+#: shaman/libshaman/backends/apt/org.kde.shaman.apt.actions:55
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Update Reminder"
+msgctxt "Name"
+msgid "Update package index"
+msgstr "Notificare actualizări"
+
+#: shaman/libshaman/backends/apt/org.kde.shaman.apt.actions:82
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Update Reminder"
+msgctxt "Description"
+msgid "Update package index"
+msgstr "Notificare actualizări"
+
+#: shaman/libshaman/backends/apt/org.kde.shaman.apt.actions:113
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "The distribution upgrade completed"
+msgctxt "Name"
+msgid "Distribution upgrade"
+msgstr "Actualizarea distribuției s-a încheiat"
+
+#: shaman/libshaman/backends/apt/org.kde.shaman.apt.actions:142
+msgctxt "Description"
+msgid "Upgrades packages and resolves conflicts for priority packages"
+msgstr ""
+
+#: shaman/libshaman/backends/aqpm/config/aqpm/kcm_aqpm_general.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Update Database Configuration"
+msgctxt "Name"
+msgid "Aqpm global configuration"
+msgstr "Actualizează configurația bazei de date"
+
+#: shaman/libshaman/backends/aqpm/config/aqpm/kcm_aqpm_general.desktop:37
+msgctxt "Comment"
+msgid "Configure the global settings for Aqpm"
+msgstr ""
+
+#: shaman/libshaman/backends/aqpm/config/aqpm/kcm_aqpm_general.desktop:62
+#: shaman/libshaman/backends/aqpm/config/databases/kcm_aqpm_databases.desktop:64
+msgctxt "X-KDE-Keywords"
+msgid "shaman,package,install,upgrade,system,aqpm,pacman"
+msgstr ""
+
+#: shaman/libshaman/backends/aqpm/config/databases/kcm_aqpm_databases.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Update Database Configuration"
+msgctxt "Name"
+msgid "Aqpm Databases configuration"
+msgstr "Actualizează configurația bazei de date"
+
+#: shaman/libshaman/backends/aqpm/config/databases/kcm_aqpm_databases.desktop:38
+msgctxt "Comment"
+msgid "Configure the databases for package management"
+msgstr ""
+
+#: shaman/libshaman/shaman_plugin.desktop:4
+msgctxt "Name"
+msgid "Shaman Plugin"
+msgstr "Modul Shaman"
+
+#: shaman/plugins/abs/shaman_abs.desktop:5
+msgctxt "Name"
+msgid "ABS Backend (Arch Linux)"
+msgstr "Platformă ABS (Arch Linux)"
+
+#: shaman/plugins/abs/shaman_abs.desktop:34
+msgctxt "Comment"
+msgid "Provider Plugin using Arch Linux's ABS System"
+msgstr ""
+
+#: shaman/plugins/aur/shaman_aur.desktop:5
+msgctxt "Name"
+msgid "AUR Backend (Arch Linux)"
+msgstr "Platformă AUR (Arch Linux)"
+
+#: shaman/plugins/aur/shaman_aur.desktop:34
+msgctxt "Comment"
+msgid "Provider Plugin using Arch Linux's AUR"
+msgstr ""
+
+#: shaman/plugins/logger/shaman_transactionlogger_config.desktop:8
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Alternatives Configuration"
+msgctxt "Name"
+msgid "Transaction Logger configuration"
+msgstr "Configurarea alternativelor"
+
+#: shaman/plugins/logger/shaman_transactionlogger.desktop:5
+msgctxt "Name"
+msgid "Transaction Logger"
+msgstr ""
+
+#: shaman/plugins/logger/shaman_transactionlogger.desktop:30
+msgctxt "Comment"
+msgid "Logs transactions"
+msgstr ""
+
+#: shaman/plugins/packagedetail/shaman_packagedetail.desktop:5
+msgctxt "Name"
+msgid "Package Detail"
+msgstr "Detalii pachet"
+
+#: shaman/plugins/packagedetail/shaman_packagedetail.desktop:37
+msgctxt "Comment"
+msgid "Shows package's details."
+msgstr "Arată detaliile pachetului."
+
+#: shaman/plugins/packagesview/shaman_packagesview_config.desktop:8
+#: shaman/plugins/packagesview/shaman_packagesview.desktop:5
+msgctxt "Name"
+msgid "Packages View"
+msgstr "Vizualizare pachete"
+
+#: shaman/plugins/packagesview/shaman_packagesview.desktop:36
+msgctxt "Comment"
+msgid "Show a list of Packages"
+msgstr "Arată o listă cu pachete"
+
+#: shaman/plugins/providerui/shaman_providerui.desktop:5
+msgctxt "Name"
+msgid "Provider User Interface"
+msgstr ""
+
+#: shaman/plugins/providerui/shaman_providerui.desktop:28
+msgctxt "Comment"
+msgid "User Interface for Provider Plugins"
+msgstr ""
+
+#: shaman/plugins/rssreader/shaman_rssreader.desktop:5
+msgctxt "Name"
+msgid "RSS-Reader"
+msgstr "Cititor RSS"
+
+#: shaman/plugins/testguiscript/shaman_guitest.desktop:5
+msgctxt "Name"
+msgid "Testscript-GUI"
+msgstr ""
+
+#: shaman/plugins/testhooksplugin/shaman_testhooks.desktop:5
+msgctxt "Name"
+msgid "Test hooks plugin"
+msgstr ""
+
+#: shaman/plugins/testhooksplugin/shaman_testhooks.desktop:28
+msgctxt "Comment"
+msgid "Tests LibShaman hooks. You don't want to have me enabled, trust me :D"
+msgstr ""
+
+#: shaman/shaman/config/general/kcm_shaman_general.desktop:10
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Alternatives Configuration"
+msgctxt "Name"
+msgid "Shaman configuration"
+msgstr "Configurarea alternativelor"
+
+#: shaman/shaman/config/general/kcm_shaman_general.desktop:35
+msgctxt "Comment"
+msgid "General Shaman configuration"
+msgstr ""
+
+#: shaman/shaman/shaman.desktop:4 shaman/shaman/src/shaman.notifyrc:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Shaman Plugin"
+msgctxt "Name"
+msgid "Shaman"
+msgstr "Modul Shaman"
+
+#: shaman/shaman/shaman.desktop:30
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Adept Manager"
+msgctxt "GenericName"
+msgid "Package Manager"
+msgstr "Gestionar Adept"
+
+#: shaman/shaman/shaman.desktop:63
+msgctxt "Comment"
+msgid "An advanced package manager for KDE"
+msgstr ""
+
+#: shaman/shaman/shaman.desktop:91
+msgctxt "X-KDE-Keywords"
+msgid "package,manager,management"
+msgstr ""
+
+#: shaman/shaman/src/shaman.notifyrc:29
+msgctxt "Comment"
+msgid "Package manager notifications"
+msgstr ""
+
+#: shaman/shaman/src/shaman.notifyrc:57
+msgctxt "Name"
+msgid "Questions"
+msgstr ""
+
+#: shaman/shaman/src/shaman.notifyrc:86
+msgctxt "Comment"
+msgid ""
+"Used for displaying questions. Disabling any notification in this context "
+"might prevent you from answering some questions"
+msgstr ""
+
+#: shaman/shaman/src/shaman.notifyrc:111
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Alternatives Configuration"
+msgctxt "Name"
+msgid "Transaction question"
+msgstr "Configurarea alternativelor"
+
+#: shaman/shaman/src/shaman.notifyrc:136
+msgctxt "Comment"
+msgid "Shaman is asking a question for a transaction in progress"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Keep"
+#~ msgstr "Keep"
+
+#~ msgctxt "Comment"
+#~ msgid "Backup System"
+#~ msgstr "Sistem pentru copii de siguranță"
+
+#~ msgctxt "Name"
+#~ msgid "Keep daemon"
+#~ msgstr "Demonul Keep"
+
+#~ msgctxt "Name"
+#~ msgid "Adept Updater"
+#~ msgstr "Actualizator Adept"
+
+#~ msgctxt "GenericName"
+#~ msgid "System Update Wizard"
+#~ msgstr "Expert de actualizare a sistemului"
+
+#~ msgctxt "Comment"
+#~ msgid "Update installed software"
+#~ msgstr "Actualizează programele instalate"
+
+#~ msgctxt "Name"
+#~ msgid "Add/Remove Programs"
+#~ msgstr "Adăugare/eliminare programe"
+
+#~ msgctxt "Comment"
+#~ msgid "Adept Installer: install and remove software packages"
+#~ msgstr "Instalator Adept: instalează și elimină pachete software"
+
+#~ msgctxt "Name"
+#~ msgid "Adept Manager"
+#~ msgstr "Gestionar Adept"
+
+#~ msgctxt "GenericName"
+#~ msgid "Manage Packages"
+#~ msgstr "Gestionează pachetele"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage installed and available software"
+#~ msgstr "Gestionează programele instalate și disponibile"
+
+#~ msgctxt "Name"
+#~ msgid "Adept Notifier"
+#~ msgstr "Notificator Adept"
+
+#~ msgctxt "GenericName"
+#~ msgid "Update Reminder"
+#~ msgstr "Notificare actualizări"
+
+#~ msgctxt "Comment"
+#~ msgid "Watch for updates"
+#~ msgstr "Veghează după actualizări"
+
+#~ msgctxt "Name"
+#~ msgid "Arboretum"
+#~ msgstr "Arboretum"
+
+#~ msgctxt "GenericName"
+#~ msgid "LDAP Directory Manager"
+#~ msgstr "Gestionar Director LDAP"
+
+#~ msgctxt "Name"
+#~ msgid "kamion"
+#~ msgstr "kamion"
+
+#~ msgctxt "Comment"
+#~ msgid "A simple KDE Application"
+#~ msgstr "O aplicație KDE simplă"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Alternatives Configuration"
+#~ msgctxt "Name"
+#~ msgid "Alternatives Configuration"
+#~ msgstr "Configurarea alternativelor"
+
+#~ msgctxt "Name"
+#~ msgid "KPackageKit Service"
+#~ msgstr "Serviciu KPackageKit"
+
+#~ msgctxt "Comment"
+#~ msgid "Tracks and Notify about Software Updates"
+#~ msgstr "Urmărește și notifică despre actualizări de programe"
+
+#~ msgctxt "Name"
+#~ msgid "KPackageKit"
+#~ msgstr "KPackageKit"
+
+#~ msgctxt "GenericName"
+#~ msgid "Software Management"
+#~ msgstr "Gestiune programe"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Add and Remove Software"
+#~ msgctxt "Name"
+#~ msgid "Get and Remove Software"
+#~ msgstr "Adaugă și elimină programe"
+
+#~ msgctxt "Name"
+#~ msgid "Settings"
+#~ msgstr "Configurări"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Software Management"
+#~ msgctxt "Comment"
+#~ msgid "Software Management Settings"
+#~ msgstr "Gestiune programe"
+
+#~ msgctxt "Name"
+#~ msgid "Software Updates"
+#~ msgstr "Actualizări de programe"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Add and Remove Software"
+#~ msgctxt "Comment"
+#~ msgid "Review and Update Software"
+#~ msgstr "Adaugă și elimină programe"
+
+#~ msgctxt "Name"
+#~ msgid "Software Management"
+#~ msgstr "Gestiune programe"
+
+#~ msgctxt "Comment"
+#~ msgid "KPackageKit"
+#~ msgstr "KPackageKit"
+
+#~ msgctxt "Name"
+#~ msgid "New updates avaliable"
+#~ msgstr "Sînt disponibile actualizări"
+
+#~ msgctxt "Name"
+#~ msgid "Updates are being installed"
+#~ msgstr "Actualizările se instalează"
+
+#~ msgctxt "Name"
+#~ msgid "A System Restart is Required"
+#~ msgstr "Este necesară o repornire a sistemului"
+
+#~ msgctxt "Name"
+#~ msgid "A transaction failed to complete successfully"
+#~ msgstr "Încheierea cu succes a unei tranzacții a eșuat"
+
+#~ msgctxt "Name"
+#~ msgid "Updates finished installing"
+#~ msgstr "Instalarea actualizărilor s-a încheiat"
+
+#~ msgctxt "Name"
+#~ msgid "A transaction error occurred"
+#~ msgstr "A intervenit o eroare la tranzacție"
+
+#~ msgctxt "Name"
+#~ msgid "A distribution upgrade is available"
+#~ msgstr "Este disponibilă o actualizare a distribuției"
+
+#~ msgctxt "Name"
+#~ msgid "The distribution upgrade completed"
+#~ msgstr "Actualizarea distribuției s-a încheiat"
+
+#~ msgctxt "Name"
+#~ msgid "The distribution upgrade completed with an error"
+#~ msgstr "Actualizarea distribuției s-a încheiat cu o eroare"
+
+#~ msgctxt "Comment"
+#~ msgid "PackageKit interface for KDE"
+#~ msgstr "Interfață PackageKit pentru KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "KPackageKit Settings"
+#~ msgstr "Configurări KPackageKit"
+
+#~ msgctxt "Comment"
+#~ msgid "Check and Install Updates"
+#~ msgstr "Verifică și instalează actualizări"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A simple KDE Application"
+#~ msgctxt "GenericName"
+#~ msgid "A KDE4 Application"
+#~ msgstr "O aplicație KDE simplă"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Alternatives Configuration"
+#~ msgctxt "Description"
+#~ msgid "User has finished package configuration"
+#~ msgstr "Configurarea alternativelor"
+
+#~ msgctxt "Name"
+#~ msgid "PackageKit-Backend"
+#~ msgstr "Platformă PackageKit"
+
+#~ msgctxt "Name"
+#~ msgid "Alpm Backend (Arch Linux)"
+#~ msgstr "Platformă Alpm (Arch Linux)"
+
+#~ msgctxt "Name"
+#~ msgid "Update Database"
+#~ msgstr "Actualizează baza de date"
+
+#~ msgctxt "Comment"
+#~ msgid "Update the Package-Database"
+#~ msgstr "Actualizează BD cu pachete"
+
+#~ msgctxt "Name"
+#~ msgid "Kalternatives"
+#~ msgstr "Kalternative"

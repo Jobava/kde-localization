@@ -1,0 +1,99 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-11-12 01:47+0000\n"
+"PO-Revision-Date: 2013-02-01 01:00+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: kminfo.cpp:49
+msgid "KMInfo"
+msgstr "KMInfo"
+
+#: kminfo.cpp:51
+msgid "(c) 2008 Joseph Simon III"
+msgstr "(c) 2008 Joseph Simon III"
+
+#: kminfo.cpp:53
+msgid "2008-2009 Joseph Simon III"
+msgstr "2008-2009 Joseph Simon III"
+
+#: kminfo.cpp:55
+#, fuzzy
+#| msgid "2010-2013 Kai-Uwe Behrmann"
+msgid "2010-2014 Kai-Uwe Behrmann"
+msgstr "2010-2013 Kai-Uwe Behrmann"
+
+#~ msgid "in memory"
+#~ msgstr "în memorie"
+
+#~ msgid "Installed Profiles"
+#~ msgstr "Profiluri instalate"
+
+#~ msgid "Description"
+#~ msgstr "Descriere"
+
+#~ msgid "Devices"
+#~ msgstr "Dispozitive"
+
+#~ msgid "Editing Space"
+#~ msgstr "Spațiu de redactare"
+
+#~ msgid "Assumed Space"
+#~ msgstr "Spațiu presupus"
+
+#~ msgid "ICCDescriptionLabel"
+#~ msgstr "ICCDescriptionLabel"
+
+#~ msgid "(Copyright not available)"
+#~ msgstr "(Drepturi de autor indisponibile)"
+
+#~ msgid "Date Created:"
+#~ msgstr "Data creării:"
+
+#~ msgid "----"
+#~ msgstr "----"
+
+#~ msgid "Device Class:"
+#~ msgstr "Clasa dispozitivului:"
+
+#~ msgid "Manufacturer:"
+#~ msgstr "Producător:"
+
+#~ msgid "Model:"
+#~ msgstr "Model:"
+
+#~ msgid "ICC Version:"
+#~ msgstr "Versiune ICC:"
+
+#~ msgid "Color Space:"
+#~ msgstr "Spațiu de culori:"
+
+#~ msgid "PCS Type:"
+#~ msgstr "Tip PCS:"
+
+#~ msgid "Profile Path:"
+#~ msgstr "Cale profil:"
+
+#~ msgid "---"
+#~ msgstr "---"

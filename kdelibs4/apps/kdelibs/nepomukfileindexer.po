@@ -1,0 +1,157 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Cristian Oneț <onet.cristian@gmail.com>, 2011, 2012, 2013.
+# Sergiu Bivol <sergiu@ase.md>, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-06-22 01:37+0000\n"
+"PO-Revision-Date: 2013-10-27 11:30+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Cristian Oneț"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "onet.cristian@gmail.com"
+
+#: eventmonitor.cpp:100
+#, kde-format
+msgid "Disk space is running low (%1 left). Suspending indexing of files."
+msgstr ""
+"Spațiul pe disc se epuizează (%1 rămas). Se suspendă indexarea fișierelor."
+
+#: eventmonitor.cpp:109
+msgid "Resuming indexing of files for fast searching."
+msgstr "Se reia indexarea de fișiere pentru căutare rapidă."
+
+#: fileindexer.cpp:239 fileindexer.cpp:241
+msgid "Nepomuk File Indexer"
+msgstr "Indexator de fișiere Nepomuk"
+
+#: fileindexer.cpp:243
+msgid "(c) 2008-2013, Sebastian Trüg"
+msgstr "(c) 2008-2013, Sebastian Trüg"
+
+#: fileindexer.cpp:246 indexer/main.cpp:60
+msgid "Sebastian Trüg"
+msgstr "Sebastian Trüg"
+
+#: fileindexer.cpp:246 indexer/main.cpp:60
+msgid "Developer"
+msgstr "Dezvoltator"
+
+#: fileindexer.cpp:247 indexer/main.cpp:59
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: fileindexer.cpp:247
+msgid "Maintainer"
+msgstr "Responsabil"
+
+#: indexer/main.cpp:54
+msgid "NepomukIndexer"
+msgstr "IndexatorNepomuk"
+
+#: indexer/main.cpp:56
+msgid ""
+"NepomukIndexer indexes the contents of a file and saves the results in "
+"Nepomuk"
+msgstr ""
+"IndexatorNepomuk indexează conținutul unui fișier și salvează rezultatele în "
+"Nepomuk"
+
+#: indexer/main.cpp:58
+msgid "(C) 2011, Vishesh Handa, Sebastian Trueg"
+msgstr "(C) 2011, Vishesh Handa, Sebastian Trueg"
+
+#: indexer/main.cpp:59
+msgid "Current maintainer"
+msgstr "Responsabil actual"
+
+#: indexer/main.cpp:65
+msgid "The URL of the file to be indexed"
+msgstr "URL-ul fișierului de indexat"
+
+#: indexer/main.cpp:66
+msgid "Remove all indexed data of the URL provided"
+msgstr "Elimină toate datele indexate al URL-ului dat"
+
+#: indexer/main.cpp:67
+msgid "Streams the indexed data to stdout"
+msgstr "Creează un flux al datelor indexate la STDOUT"
+
+#: indexscheduler.cpp:432
+msgctxt "@info:status"
+msgid "File indexer is suspended."
+msgstr "Indexatorul de fișiere este suspendat."
+
+#: indexscheduler.cpp:435
+msgctxt "@info:status"
+msgid "Cleaning invalid file metadata"
+msgstr "Se curăță metadatele nevalide ale fișierelor"
+
+#: indexscheduler.cpp:438
+msgctxt "@info:status"
+msgid "Indexing files for desktop search."
+msgstr "Se indexează fișierele pentru căutarea în birou."
+
+#: indexscheduler.cpp:441
+msgctxt "@info:status"
+msgid "Scanning for recent changes in files for desktop search"
+msgstr "Se caută modificări recente în fișiere pentru căutarea în birou"
+
+#: indexscheduler.cpp:444
+msgctxt "@info:status"
+msgid "File indexer is idle."
+msgstr "Indexatorul de fișiere este inactiv."
+
+#~ msgctxt "@info:status"
+#~ msgid "Indexing %1"
+#~ msgstr "Se indexează %1"
+
+#~ msgctxt "@info:status"
+#~ msgid "Scanning for recent changes in %1"
+#~ msgstr "Se caută modificări recente în %1"
+
+#~ msgctxt "@info:status"
+#~ msgid "Indexing files in %1"
+#~ msgstr "Se indexează fișierele din %1"
+
+#~ msgid ""
+#~ "First clears the existing index, and then runs both the basic and file "
+#~ "indexing"
+#~ msgstr ""
+#~ "Mai întîi curăță indexul existent, apoi rulează indexarea primară și pe "
+#~ "cea de fișiere"
+
+#~ msgid "Indexing files for fast searching. This process may take a while."
+#~ msgstr ""
+#~ "Fișierele se indexează pentru căutare rapidă. Acest proces poate dura."
+
+#~ msgid "Suspending the indexing of files to preserve resources."
+#~ msgstr "Se suspendă indexarea fișierelor pentru a economisi resurse."
+
+#~ msgctxt ""
+#~ "@info %1 is a duration formatted using KLocale::prettyFormatDuration"
+#~ msgid "Initial indexing of files for fast searching finished in %1"
+#~ msgstr ""
+#~ "Indexarea inițială a fișierelor pentru căutare rapidă s-a încheiat în %1"
+
+#~ msgid "The URI provided will be forced on the resource"
+#~ msgstr "URI-ul dat va fi forțat peste resursă"
+
+#~ msgid "The modification time of the resource in time_t format"
+#~ msgstr "Ora modificării resursei în format time_t"

@@ -1,0 +1,145 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2012, 2013, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:22+0000\n"
+"PO-Revision-Date: 2015-04-26 14:36+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: main.cpp:71
+msgid "Greeter for the KDE Plasma Workspaces Screen locker"
+msgstr "Ecran de salut pentru blocarea ecranului din Plasma Workspaces"
+
+#: main.cpp:76
+msgid "Starts the greeter in testing mode"
+msgstr "Pornește ecranul de salut în regim de testare"
+
+#: main.cpp:78
+msgid "Lock immediately, ignoring any grace time etc."
+msgstr "Blochează imediat, ignorînd orice interval de grație"
+
+#: main.cpp:80
+msgid "Delay till the lock user interface gets shown in milliseconds."
+msgstr "Întîrziere pînă la afișarea interfeței de blocare, în milisecunde"
+
+#: main.cpp:84
+msgid "Don't show any lock user interface."
+msgstr "Nu arăta nicio interfață de blocare."
+
+#: main.cpp:86
+msgid "File descriptor for connecting to ksld."
+msgstr "Descriptor de fișier pentru conectarea la ksld."
+
+#: sessions.cpp:73
+msgid "Session"
+msgstr "Sesiune"
+
+#: sessions.cpp:75
+msgid "Location"
+msgstr "Amplasare"
+
+#~ msgid "Warning: Caps Lock on"
+#~ msgstr "Atenție: e activat Caps Lock"
+
+#~ msgid "The session is locked"
+#~ msgstr "Sesiunea este blocată"
+
+#~ msgid "The session has been locked by %1"
+#~ msgstr "Sesiunea a fost blocată de %1"
+
+#~ msgid "&Switch Users"
+#~ msgstr "Comută utilizatorii"
+
+#~ msgid "Un&lock"
+#~ msgstr "Deb&lochează"
+
+#~ msgid "Unlocking failed"
+#~ msgstr "Deblocare eșuată"
+
+#~ msgctxt ""
+#~ "thesession name and the location where the session is running (what vt)"
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"
+
+#~ msgid ""
+#~ "The current session will be hidden and a new login screen or an existing "
+#~ "session will be displayed.\n"
+#~ "An F-key is assigned to each session; F%1 is usually assigned to the "
+#~ "first session, F%2 to the second session and so on. You can switch "
+#~ "between sessions by pressing Ctrl, Alt and the appropriate F-key at the "
+#~ "same time. Additionally, the KDE Panel and Desktop menus have actions for "
+#~ "switching between sessions."
+#~ msgstr ""
+#~ "Sesiunea curentă va fi ascunsă și va fi afișat un nou ecran de "
+#~ "autentificare sau o sesiune existentă.\n"
+#~ "O tastă funcțională este atribuită fiecărei sesiuni; F%1 este de obicei "
+#~ "atribuită primei sesiuni,  F%2 celei de-a doua sesiuni și tot așa. Puteți "
+#~ "comuta între sesiuni apăsînd simultan Ctrl, Alt și tasta F "
+#~ "corespunzătoare. În plus, meniurile din panoul și biroul KDE au acțiuni "
+#~ "pentru comutarea între sesiuni."
+
+#~ msgid "Activate"
+#~ msgstr "Activează"
+
+#~ msgid "Start New Session"
+#~ msgstr "Începe sesiune nouă"
+
+#~ msgid "Cancel"
+#~ msgstr "Renunță"
+
+#~ msgid ""
+#~ "Cannot unlock the session because the authentication system failed to "
+#~ "work!"
+#~ msgstr ""
+#~ "Sesiunea nu poate fi deblocată deoarece sistemul de autentificare a eșuat "
+#~ "să funcționeze!"
+
+#~ msgid "KScreenLocker Greeter"
+#~ msgstr "Ecran de salut KScreenLocker"
+
+#~ msgid "(c) 2011, Martin Gräßlin"
+#~ msgstr "(c) 2011, Martin Gräßlin"
+
+#~ msgid "Martin Gräßlin"
+#~ msgstr "Martin Gräßlin"
+
+#~ msgid "Author and maintainer"
+#~ msgstr "Autor și responsabil"
+
+#~ msgid "Chani Armitage"
+#~ msgstr "Chani Armitage"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Oswald Buddenhagen"
+#~ msgstr "Oswald Buddenhagen"
+
+#~ msgid "Chris Howells"
+#~ msgstr "Chris Howells"
+
+#~ msgid "Luboš Luňák"
+#~ msgstr "Luboš Luňák"
+
+#~ msgid "Martin R. Jones"
+#~ msgstr "Martin R. Jones"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Sergiu Bivol"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "sergiu@ase.md"

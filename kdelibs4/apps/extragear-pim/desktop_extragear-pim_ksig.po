@@ -1,0 +1,31 @@
+# translation of desktop_extragear-pim_ksig to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_extragear-pim_ksig package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu@ase.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_extragear-pim_ksig\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-01-19 02:18+0000\n"
+"PO-Revision-Date: 2008-12-13 17:51+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 0.2\n"
+
+#: ksig.desktop:6
+msgctxt "Name"
+msgid "KSig"
+msgstr "KSig"
+
+#: ksig.desktop:63
+msgctxt "GenericName"
+msgid "Signature Editor"
+msgstr "Editor de semnături"

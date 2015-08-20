@@ -1,0 +1,72 @@
+# Traducerea desktop_extragear-multimedia_kmplayer.po în Română
+# translation of desktop_extragear-multimedia_kmplayer to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_extragear-multimedia_kmplayer package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_extragear-multimedia_kmplayer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"PO-Revision-Date: 2008-03-10 19:59+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu-bivol@mail.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: protocols/mms.protocol:3
+msgctxt "Description"
+msgid "Microsoft Media Server Protocol"
+msgstr "Protocol server Microsoft Media"
+
+#: src/kmplayer.desktop:6
+msgctxt "Comment"
+msgid "KDE interface for MPlayer"
+msgstr "Interfață KDE pentru MPlayer"
+
+#: src/kmplayer.desktop:59
+msgctxt "Name"
+msgid "KMPlayer"
+msgstr "KMPlayer"
+
+#: src/kmplayer.desktop:118
+msgctxt "GenericName"
+msgid "Media Player"
+msgstr "Media Player"
+
+#: src/kmplayer_part.desktop:3
+msgctxt "Name"
+msgid "Embedded MPlayer for KDE"
+msgstr "MPlayer încorporat pentru KDE"
+
+#: src/kmplayer_part.desktop:55
+msgctxt "Comment"
+msgid ""
+"Video player plugin (QuickTime, XMovie, Windows Media and RealPlayer "
+"compatible)"
+msgstr ""
+"Modul de redare video (compatibil cu QuickTime, XMovie, Windows Media și "
+"RealPlayer)"
+
+#~ msgctxt "Comment"
+#~ msgid "KMPlayer Document"
+#~ msgstr "Document KMPlayer"
+
+#~ msgctxt "Comment"
+#~ msgid "MS Media Format"
+#~ msgstr "Format MS Media"
+
+#~ msgctxt "Comment"
+#~ msgid "Microsoft Audio"
+#~ msgstr "Microsoft Audio"
+
+#~ msgctxt "Comment"
+#~ msgid "Microsoft AVI Video"
+#~ msgstr "Microsoft AVI Video"

@@ -1,0 +1,178 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Cristian Oneț <onet.cristian@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 02:35+0200\n"
+"PO-Revision-Date: 2011-06-18 15:23+0300\n"
+"Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#. i18n: ectx: label, entry (mode), group (kannasaver)
+#: src/kannasaver.kcfg:11
+msgid "How many characters should be shown."
+msgstr "Cîte caractere să fie afișate."
+
+#. i18n: ectx: label, entry (style), group (kannasaver)
+#: src/kannasaver.kcfg:20
+msgid "Which writing system should be used."
+msgstr "Sistemul de scriere utilizat."
+
+#. i18n: ectx: label, entry (font), group (kannasaver)
+#: src/kannasaver.kcfg:40
+msgid "The font used to display the Romaji characters."
+msgstr "Fontul utilizat la afișarea caracterelor Romaji."
+
+#. i18n: ectx: label, entry (kanaFont), group (kannasaver)
+#: src/kannasaver.kcfg:57
+msgid "The font used to display the Kana characters."
+msgstr "Fontul utilizat la afișarea caracterelor Kana."
+
+#: src/main.cpp:47
+msgid "Kannasaver"
+msgstr "Kannasaver"
+
+#: src/main.cpp:49
+msgid "A screensaver that shows Japanese characters."
+msgstr "Un protector de ecran care afișează caractere japoneze."
+
+#: src/main.cpp:51
+msgid ""
+"Copyright 2004 Mathias Homann<br/>Copyright 2009, 2010 The Kannasaver "
+"Developers"
+msgstr ""
+"Drept de autor 2004 Mathias Homann<br/>Drept de autor 2009, 2010 "
+"dezvoltatorii Kannasaver"
+
+#: src/main.cpp:53
+msgid "Mathias Homann"
+msgstr "Mathias Homann"
+
+#: src/main.cpp:53
+msgid "Original author of Kannasaver."
+msgstr "Autor original."
+
+#: src/main.cpp:54
+msgid "Frederik Schwarzer"
+msgstr "Frederik Schwarzer"
+
+#: src/main.cpp:54
+msgid "Initiated the port to KDE4."
+msgstr "A inițiat portarea pe KDE4."
+
+#: src/main.cpp:55
+msgid "Stefan Böhmann"
+msgstr "Stefan Böhmann"
+
+#: src/main.cpp:55
+msgid "Fixed up the mess left after the KDE4 port."
+msgstr "A curățat încurcătura rămasă după portarea pe KDE4."
+
+#: src/main.cpp:83
+msgid "General"
+msgstr "General"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, SettingsWidget)
+#: src/settingswidget.ui:15
+msgid "Kannasaver Setup"
+msgstr "Configurare Kannasaver"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/settingswidget.ui:25
+msgid "Mode:"
+msgstr "Regim:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_mode)
+#: src/settingswidget.ui:33
+msgid "Basic"
+msgstr "De bază"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_mode)
+#: src/settingswidget.ui:38
+msgid "Basic + Extended"
+msgstr "De bază + extins"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_mode)
+#: src/settingswidget.ui:43
+msgid "Basic + Extended + Compound"
+msgstr "De bază + extins + compus"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/settingswidget.ui:51
+msgid "Style:"
+msgstr "Stil:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_style)
+#: src/settingswidget.ui:59
+msgid "Hiragana"
+msgstr "Hiragana"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_style)
+#: src/settingswidget.ui:64
+msgid "Katakana"
+msgstr "Katakana"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/settingswidget.ui:72
+msgid "Background Color:"
+msgstr "Culoare de fundal:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/settingswidget.ui:82
+msgid "Timer:"
+msgstr "Cronometru:"
+
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, kcfg_timer)
+#: src/settingswidget.ui:89
+msgid " Seconds"
+msgstr " secunde"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: src/settingswidget.ui:110
+msgid "Romaji Font"
+msgstr "Font Romaji"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: src/settingswidget.ui:119 src/settingswidget.ui:177
+msgid "Font:"
+msgstr "Font:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: src/settingswidget.ui:129 src/settingswidget.ui:187
+msgid "Size:"
+msgstr "Dimensiune:"
+
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, kcfg_fontSize)
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, kcfg_kanaFontSize)
+#: src/settingswidget.ui:136 src/settingswidget.ui:194
+#, no-c-format
+msgid " %"
+msgstr " %"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#: src/settingswidget.ui:155 src/settingswidget.ui:213
+msgid "Color:"
+msgstr "Culoare:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: src/settingswidget.ui:168
+msgid "Kana Font"
+msgstr "Font Kana"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: src/settingswidget.ui:243
+msgid "Preview"
+msgstr "Previzualizare"

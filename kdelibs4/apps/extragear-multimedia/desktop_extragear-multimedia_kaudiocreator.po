@@ -1,0 +1,103 @@
+# Traducerea desktop_extragear-multimedia_kaudiocreator.po în Română
+# translation of desktop_extragear-multimedia_kaudiocreator to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_extragear-multimedia_kaudiocreator package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_extragear-multimedia_kaudiocreator\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"PO-Revision-Date: 2008-12-28 10:34+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 0.3\n"
+
+#: audiocd_extract.desktop:6
+msgctxt "Name"
+msgid "KAudioCreator-Extract"
+msgstr "KAudioCreator-Extragere"
+
+#: audiocd_extract.desktop:59
+msgctxt "Name"
+msgid "Extract and Encode Audio Tracks"
+msgstr "Extragere și codificare piste audio"
+
+#: kaudiocreator.desktop:2
+msgctxt "Comment"
+msgid "Frontend for audio file creation"
+msgstr "Interfață pentru crearea fișierelor audio"
+
+#: kaudiocreator.desktop:51
+msgctxt "Name"
+msgid "KAudioCreator"
+msgstr "KAudioCreator"
+
+#: kaudiocreator.desktop:105
+msgctxt "GenericName"
+msgid "CD Ripper"
+msgstr "Extractor de CD"
+
+#: kaudiocreator.notifyrc:3
+msgctxt "Comment"
+msgid "KAudioCreator"
+msgstr "KAudioCreator"
+
+#: kaudiocreator.notifyrc:56
+msgctxt "Name"
+msgid "All Jobs Finished"
+msgstr "Toate sarcinile încheiate"
+
+#: kaudiocreator.notifyrc:107
+msgctxt "Comment"
+msgid "All of the jobs in the queue have been finished"
+msgstr "Toate sarcinile din coadă s-au încheiat"
+
+#: kaudiocreator.notifyrc:157
+msgctxt "Name"
+msgid "Track Ripped"
+msgstr "Pistă extrasă"
+
+#: kaudiocreator.notifyrc:207
+msgctxt "Comment"
+msgid "Track finished ripping"
+msgstr "Extragerea pistei s-a încheiat"
+
+#: kaudiocreator.notifyrc:258
+msgctxt "Name"
+msgid "CD Ripped"
+msgstr "CD extras"
+
+#: kaudiocreator.notifyrc:308
+msgctxt "Comment"
+msgid "CD finished ripping"
+msgstr "Extragerea discului s-a încheiat"
+
+#: kaudiocreator.notifyrc:360
+msgctxt "Name"
+msgid "Track Encoded"
+msgstr "Pistă codificată"
+
+#: kaudiocreator.notifyrc:409
+msgctxt "Comment"
+msgid "Track finished encoding"
+msgstr "Pista s-a terminat de codificat"
+
+#: kaudiocreator.notifyrc:460
+msgctxt "Name"
+msgid "CD Encoded"
+msgstr "CD codificat"
+
+#: kaudiocreator.notifyrc:509
+msgctxt "Comment"
+msgid "CD finished encoding"
+msgstr "CD-ul s-a terminat de codificat"

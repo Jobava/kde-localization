@@ -1,0 +1,567 @@
+# Traducerea kcminfo.po în Română
+# translation of kcminfo.po to Romanian
+# translation of @PACKAGE.po to @LANGUAGE
+# KTranslator Generated File
+# Copyright (C) 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2003, 2004, 2005.
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
+# Cristian Oneț <onet.cristian@gmail.com>, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcminfo\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:19+0000\n"
+"PO-Revision-Date: 2011-01-06 15:21+0200\n"
+"Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"claudiuc@kde.org\n"
+"X-Generator: Lokalize 1.1\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"\n"
+"\n"
+"\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Claudiu Costin"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "claudiuc@kde.org"
+
+#: ../base/info_aix.cpp:68 ../base/info_wayland.cpp:86
+msgid "Name"
+msgstr "Denumire"
+
+#: ../base/info_aix.cpp:69
+msgid "Status"
+msgstr "Stare"
+
+#: ../base/info_aix.cpp:70
+msgid "Location"
+msgstr "Amplasare"
+
+#: ../base/info_aix.cpp:71
+msgid "Description"
+msgstr "Descriere"
+
+#: ../base/info_fbsd.cpp:90
+msgid ""
+"SCSI subsystem could not be queried: /sbin/camcontrol could not be found"
+msgstr ""
+"Subsistemul SCSI nu a putut fi interogat: /sbin/camcontrol nu poate fi găsit"
+
+#: ../base/info_fbsd.cpp:95
+msgid ""
+"SCSI subsystem could not be queried: /sbin/camcontrol could not be executed"
+msgstr ""
+"Subsistemul SCSI nu a putut fi interogat: /sbin/camcontrol nu poate fi "
+"executat"
+
+#: ../base/info_fbsd.cpp:130
+msgctxt "@title:column Column name for PCI information"
+msgid "Information"
+msgstr "Informații"
+
+#: ../base/info_fbsd.cpp:135
+msgid ""
+"Could not find any programs with which to query your system's PCI information"
+msgstr ""
+"Nu s-au găsit programe cu care să fie interogate informațiile PCI ale "
+"sistemului dumneavoastră"
+
+#: ../base/info_fbsd.cpp:146
+#, kde-format
+msgid "PCI subsystem could not be queried: %1 could not be executed"
+msgstr "Subsistemul PCI nu poate fi interogat: %1 nu se poate executa"
+
+#: ../base/info_fbsd.cpp:165
+msgid "The PCI subsystem could not be queried, this may need root privileges."
+msgstr ""
+"Subsistemul PCI nu a putut fi interogat, este posibil să fie nevoie de "
+"privilegii de root."
+
+#: ../base/info_hpux.cpp:128
+#, fuzzy
+#| msgid "Processor(s)"
+msgid "PA-RISC Processor"
+msgstr "Procesor(oare)"
+
+#: ../base/info_hpux.cpp:130
+msgid "PA-RISC Revision"
+msgstr "Revizie PA-RISC"
+
+#: ../base/info_linux.cpp:105 main.cpp:54
+msgid "DMA-Channel"
+msgstr "Canal DMA"
+
+#: ../base/info_linux.cpp:105 ../base/info_linux.cpp:156
+msgid "Used By"
+msgstr "Utilizat de"
+
+#: ../base/info_linux.cpp:156
+msgid "I/O-Range"
+msgstr "Interval-I/O"
+
+#: ../base/info_netbsd.cpp:120 ../base/info_openbsd.cpp:131
+msgid "IRQ"
+msgstr "IRQ"
+
+#: ../base/info_netbsd.cpp:120 ../base/info_openbsd.cpp:131
+#, fuzzy
+#| msgid "Devices"
+msgid "Device"
+msgstr "Dispozitive"
+
+#: ../base/info_netbsd.cpp:138 ../base/info_openbsd.cpp:144
+msgid "No PCI devices found."
+msgstr "Niciun dispozitiv PCI găsit."
+
+#: ../base/info_netbsd.cpp:147 ../base/info_openbsd.cpp:153
+msgid "No I/O port devices found."
+msgstr "Niciun dispozitiv găsit pe porturile I/O."
+
+#: ../base/info_netbsd.cpp:156 ../base/info_openbsd.cpp:162
+msgid "No SCSI devices found."
+msgstr "Niciun dispozitiv SCSI găsit."
+
+#: ../base/info_wayland.cpp:55 ../base/os_base.h:231
+msgid "Information"
+msgstr "Informații"
+
+#: ../base/info_wayland.cpp:55 ../base/os_base.h:231
+msgid "Value"
+msgstr "Valoare"
+
+#: ../base/info_wayland.cpp:58
+#, fuzzy
+#| msgid "Information"
+msgid "Compositor Information"
+msgstr "Informații"
+
+#: ../base/info_wayland.cpp:62 ../base/os_base.h:242
+msgid "Name of the Display"
+msgstr "Denumire afișaj"
+
+#: ../base/info_wayland.cpp:64
+msgid "Interfaces"
+msgstr ""
+
+#: ../base/info_wayland.cpp:64
+msgid "Interface Version"
+msgstr ""
+
+#: ../base/info_wayland.cpp:81
+msgid "Seat"
+msgstr ""
+
+#: ../base/info_wayland.cpp:92
+msgid "Pointer"
+msgstr ""
+
+#: ../base/info_wayland.cpp:99
+msgid "Keyboard"
+msgstr ""
+
+#: ../base/info_wayland.cpp:106
+msgid "Touch"
+msgstr ""
+
+#: ../base/info_wayland.cpp:112
+#, fuzzy
+#| msgid "Output Channels"
+msgid "Outputs"
+msgstr "Canale de ieșire"
+
+#: ../base/info_wayland.cpp:126
+msgid "Manufacturer"
+msgstr "Producător"
+
+#: ../base/info_wayland.cpp:127
+msgid "Model"
+msgstr "Model"
+
+#: ../base/info_wayland.cpp:128
+#, fuzzy
+#| msgid "Physical Path:"
+msgid "Physical Size"
+msgstr "Cale fizică:"
+
+#: ../base/info_wayland.cpp:129
+msgid "Global Position"
+msgstr ""
+
+#: ../base/info_wayland.cpp:134
+msgid "None"
+msgstr ""
+
+#: ../base/info_wayland.cpp:137
+msgid "Horizontal RGB"
+msgstr ""
+
+#: ../base/info_wayland.cpp:140
+msgid "Horizontal BGR"
+msgstr ""
+
+#: ../base/info_wayland.cpp:143
+msgid "Vertical RGB"
+msgstr ""
+
+#: ../base/info_wayland.cpp:146
+msgid "Vertical BGR"
+msgstr ""
+
+#: ../base/info_wayland.cpp:150
+#, fuzzy
+#| msgid "(unknown)"
+msgid "Unknown"
+msgstr "(necunoscut)"
+
+#: ../base/info_wayland.cpp:153
+msgid "Subpixel"
+msgstr ""
+
+#: ../base/info_wayland.cpp:167
+msgid "Flipped"
+msgstr ""
+
+#: ../base/info_wayland.cpp:170
+msgid "Flipped 90"
+msgstr ""
+
+#: ../base/info_wayland.cpp:173
+msgid "Flipped 180"
+msgstr ""
+
+#: ../base/info_wayland.cpp:176
+msgid "Flipped 270"
+msgstr ""
+
+#: ../base/info_wayland.cpp:180
+msgid "Normal"
+msgstr ""
+
+#: ../base/info_wayland.cpp:183
+msgid "Transform"
+msgstr ""
+
+#: ../base/info_wayland.cpp:186
+#, fuzzy
+#| msgid "Model"
+msgid "Modes"
+msgstr "Model"
+
+#: ../base/info_wayland.cpp:191
+#, fuzzy
+#| msgid "Free Size"
+msgid "Size"
+msgstr "Spațiu liber"
+
+#: ../base/info_wayland.cpp:193
+msgid "Refresh Rate"
+msgstr ""
+
+#: ../base/info_wayland.cpp:195
+msgid "Preferred"
+msgstr ""
+
+#: ../base/info_wayland.cpp:196 ../base/info_wayland.cpp:198
+#, fuzzy
+#| msgid "Yes"
+msgid "yes"
+msgstr "Da"
+
+#: ../base/info_wayland.cpp:196 ../base/info_wayland.cpp:198
+msgid "no"
+msgstr ""
+
+#: ../base/info_wayland.cpp:197
+msgid "Current"
+msgstr ""
+
+#: ../base/os_base.h:62
+msgid "LSBFirst"
+msgstr "LSBFirst"
+
+#: ../base/os_base.h:64
+msgid "MSBFirst"
+msgstr "MSBFirst"
+
+#: ../base/os_base.h:66
+#, kde-format
+msgid "Unknown Order %1"
+msgstr "Ordine necunoscută %1"
+
+#: ../base/os_base.h:71
+#, kde-format
+msgid "1 Bit"
+msgid_plural "%1 Bits"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: ../base/os_base.h:75
+#, kde-format
+msgid "1 Byte"
+msgid_plural "%1 Bytes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: ../base/os_base.h:116
+#, kde-format
+msgid "Screen # %1"
+msgstr "Ecran # %1"
+
+#: ../base/os_base.h:118
+msgid "(Default Screen)"
+msgstr "(ecran implicit)"
+
+#: ../base/os_base.h:127
+msgid "Dimensions"
+msgstr "Dimensiuni"
+
+#: ../base/os_base.h:127
+#, kde-format
+msgid "%1 x %2 Pixels (%3 x %4 mm)"
+msgstr "%1 x %2 Pixeli (%3 x %4 mm)"
+
+#: ../base/os_base.h:131
+msgid "Resolution"
+msgstr "Rezoluție"
+
+#: ../base/os_base.h:131
+#, kde-format
+msgid "%1 x %2 dpi"
+msgstr "%1 x %2 dpi"
+
+#: ../base/os_base.h:148
+#, kde-format
+msgid "Depths (%1)"
+msgstr "Profunzimi (%1)"
+
+#: ../base/os_base.h:154
+msgid "Root Window ID"
+msgstr "Identificator fereastră rădăcină"
+
+#: ../base/os_base.h:158
+msgid "Depth of Root Window"
+msgstr "Profunzimea ferestrei rădăcină"
+
+#: ../base/os_base.h:158
+#, kde-format
+msgid "%1 plane"
+msgid_plural "%1 planes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: ../base/os_base.h:162
+msgid "Number of Colormaps"
+msgstr "Numărul de Palete de culori"
+
+#: ../base/os_base.h:162
+#, kde-format
+msgid "minimum %1, maximum %2"
+msgstr "minimum %1, maximum %2"
+
+#: ../base/os_base.h:166
+msgid "Default Colormap"
+msgstr "Paletă de culori implicită"
+
+#: ../base/os_base.h:170
+msgid "Default Number of Colormap Cells"
+msgstr "Numărul implicit de celule a Paletelor de culori"
+
+#: ../base/os_base.h:174
+msgid "Preallocated Pixels"
+msgstr "Pixeli prealocați"
+
+#: ../base/os_base.h:174
+#, kde-format
+msgid "Black %1, White %2"
+msgstr "Negru %1, Alb %2"
+
+#: ../base/os_base.h:177
+msgid "Yes"
+msgstr "Da"
+
+#: ../base/os_base.h:178
+msgid "No"
+msgstr "Nu"
+
+#: ../base/os_base.h:181
+msgid "Options"
+msgstr "Opțiuni"
+
+#: ../base/os_base.h:181
+msgid "When mapped"
+msgstr "Cînd este atribuit"
+
+#: ../base/os_base.h:181
+#, kde-format
+msgid "backing-store: %1, save-unders: %2"
+msgstr "memorie auxiliară: %1, sub-salvări: %2"
+
+#: ../base/os_base.h:187
+msgid "Largest Cursor"
+msgstr "Cel mai mare cursor"
+
+#: ../base/os_base.h:189
+msgid "unlimited"
+msgstr "nelimitat"
+
+#: ../base/os_base.h:195
+msgid "Current Input Event Mask"
+msgstr "Masca curentă a evenimentului de intrare"
+
+#: ../base/os_base.h:201
+#, kde-format
+msgid "Event = %1"
+msgstr "Eveniment = %1"
+
+#: ../base/os_base.h:236
+msgid "Server Information"
+msgstr "Informații server"
+
+#: ../base/os_base.h:246
+msgid "Vendor String"
+msgstr "Șir vînzător"
+
+#: ../base/os_base.h:250
+msgid "Vendor Release Number"
+msgstr "Număr lansare a vînzătorului"
+
+#: ../base/os_base.h:254
+msgid "Version Number"
+msgstr "Număr versiune"
+
+#: ../base/os_base.h:258
+msgid "Available Screens"
+msgstr "Ecrane disponibile"
+
+#: ../base/os_base.h:268
+msgid "Supported Extensions"
+msgstr "Extensii susținute"
+
+#: ../base/os_base.h:283
+msgid "Supported Pixmap Formats"
+msgstr "Formate pixmap susținute"
+
+#: ../base/os_base.h:290
+#, kde-format
+msgid "Pixmap Format #%1"
+msgstr "Format pixmap #%1"
+
+#: ../base/os_base.h:290
+#, kde-format
+msgid "%1 BPP, Depth: %2, Scanline padding: %3"
+msgstr "%1 BPP, Adîncime: %2, Umplere linie: %3"
+
+#: ../base/os_base.h:302
+msgid "Maximum Request Size"
+msgstr "Dimensiunea maximă a cererii"
+
+#: ../base/os_base.h:306
+msgid "Motion Buffer Size"
+msgstr "Dimensiune memorie tampon de mișcare"
+
+#: ../base/os_base.h:310
+msgid "Bitmap"
+msgstr "Hartă de biți"
+
+#: ../base/os_base.h:314
+msgid "Unit"
+msgstr "Unitate"
+
+#: ../base/os_base.h:318
+msgid "Order"
+msgstr "Ordine"
+
+#: ../base/os_base.h:322
+msgid "Padding"
+msgstr "Umplere"
+
+#: ../base/os_base.h:326
+msgid "Image Byte Order"
+msgstr "Ordinea octeților în imagine"
+
+#: ../base/os_current.h:60 ../base/os_current.h:70 ../base/os_current.h:92
+#: ../base/os_current.h:102 ../base/os_current.h:112 ../base/os_current.h:123
+#: ../base/os_current.h:133 ../base/os_current.h:143
+msgid "This system may not be completely supported yet."
+msgstr "Acest sistem poate să nu fie susținut complet încă."
+
+#: info.cpp:36
+msgid "System Information Control Module"
+msgstr "Modul de control pentru informații despre sistem"
+
+#: info.cpp:38
+msgid ""
+"(c) 2008 Nicolas Ternisien\n"
+"(c) 1998 - 2002 Helge Deller"
+msgstr ""
+"(c) 2008 Nicolas Ternisien\n"
+"(c) 1998 - 2002 Helge Deller"
+
+#: info.cpp:41
+msgid "Nicolas Ternisien"
+msgstr "Nicolas Ternisien"
+
+#: info.cpp:42
+msgid "Helge Deller"
+msgstr "Helge Deller"
+
+#: info.cpp:63
+msgid "This list displays system information on the selected category."
+msgstr "Această listă afișează informații de sistem din categoria selectată."
+
+#: info.cpp:79
+#, kde-format
+msgctxt "%1 is one of the modules of the kinfocenter, cpu info, os info, etc"
+msgid "No information available about %1."
+msgstr "Nu există informații disponibile despre %1."
+
+#: info.cpp:110
+msgid ""
+"All the information modules return information about a certain aspect of "
+"your computer hardware or your operating system."
+msgstr ""
+"Toate modulele de informații furnizează date despre componente hardware ale "
+"calculatorului dumneavoastră sau despre sistemul de operare."
+
+#: main.cpp:45
+msgid "Interrupt"
+msgstr "Întreruperi"
+
+#: main.cpp:48
+msgid "I/O-Port"
+msgstr "Port I/E"
+
+#: main.cpp:51
+msgid "SCSI"
+msgstr "SCSI"
+
+#: main.cpp:57
+msgid "X-Server"
+msgstr "Server X"
+
+#: main.cpp:60
+msgid "Wayland"
+msgstr ""
+
+#~ msgid "Soundcard"
+#~ msgstr "Placă de sunet"
+
+#~ msgid "kcminfo"
+#~ msgstr "kcminfo"
+
+#~ msgid "Partitions"
+#~ msgstr "Partiții"

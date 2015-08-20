@@ -1,0 +1,179 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 06:00+0200\n"
+"PO-Revision-Date: 2013-05-25 15:51+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: converterdialog.cpp:57
+msgid "No Virtuoso Nepomuk database found. Nothing to convert."
+msgstr ""
+"Nu au fost găsite baze de date Nepomuk Virtuoso. Nu este nimic de convertit."
+
+#: converterdialog.cpp:68
+msgid "Installed Virtuoso version is 5. No need to convert."
+msgstr "Versiunea instalată de Virtuoso e 5. Conversia nu este necesară."
+
+#: converterdialog.cpp:72
+msgid "Ready to convert Nepomuk database to Virtuoso 6 format."
+msgstr "Gata pentru conversia bazei de date Nepomuk în formatul Virtuoso 6."
+
+#: converterdialog.cpp:77
+msgid "Could not find a valid Virtuoso installation."
+msgstr "Nu a fost găsită nicio instalare validă de Virtuoso."
+
+#: converterdialog.cpp:84
+msgid "Nepomuk Database already converted to version 6."
+msgstr "Baza de date Nepomuk este convertită deja la versiunea 6."
+
+#: converterdialog.cpp:89
+msgid ""
+"Failed to determine the correct Virtuoso version number. Cannot convert."
+msgstr ""
+
+#: converterdialog.cpp:99
+msgid "Start Conversion"
+msgstr "Începe conversia"
+
+#: converterdialog.cpp:119
+msgid "Converting Virtuoso database to version 6..."
+msgstr "Se convertește baza de date Virtuoso la versiunea 6..."
+
+#: converterdialog.cpp:152
+#, kde-format
+msgid "Nepomuk Virtuoso database conversion failed: %1"
+msgstr "Conversia bazei de date Nepomuk Virtuoso a eșuat: %1"
+
+#: converterdialog.cpp:155
+msgid "Nepomuk Virtuoso database successfully converted to version 6."
+msgstr ""
+"Baza de date Nepomuk Virtuoso a fost convertită cu succes la versiunea 6."
+
+#: converterjob.cpp:83
+msgid "Please disable Nepomuk before starting the converter."
+msgstr "Dezactivați Nepomuk înainte de a porni convertorul."
+
+#: converterjob.cpp:93
+#, kde-format
+msgid "Creating backup in <filename>%1</filename>..."
+msgstr "Se creează copia de siguranță în <filename>%1</filename>..."
+
+#: converterjob.cpp:97
+#, kde-format
+msgid "Failed to create backup (%1)."
+msgstr "Crearea copiei de siguranță a eșuat (%1)."
+
+#: converterjob.cpp:103
+msgid "Starting Virtuoso version 5..."
+msgstr "Se pornește Virtuoso versiunea 5..."
+
+#: converterjob.cpp:120 converterjob.cpp:182
+#, kde-format
+msgid "Failed to create stored procedure (%1)"
+msgstr ""
+
+#: converterjob.cpp:126
+#, kde-format
+msgid "Dumping V5 database to %1..."
+msgstr "Se descarcă baza de date V5 în %1..."
+
+#: converterjob.cpp:139
+msgid "Shutting down Virtuoso version 5..."
+msgstr "Se oprește Virtuoso versiunea 5..."
+
+#: converterjob.cpp:144
+#, kde-format
+msgid "Failed to dump all graphs in the database to %1"
+msgstr ""
+
+#: converterjob.cpp:150
+msgid "Deleting Virtuoso V5 database files..."
+msgstr "Se șterg fișierele cu baza de date Virtuoso V5..."
+
+#: converterjob.cpp:154
+msgid "Starting Virtuoso version 6..."
+msgstr "Se pornește Virtuoso versiunea 6..."
+
+#: converterjob.cpp:188
+#, kde-format
+msgid "Importing dump from %1 into V6 database."
+msgstr "Se importă descărcarea din %1 în baza de date V6."
+
+#: converterjob.cpp:201
+msgid "Failed to import database dump."
+msgstr ""
+
+#: converterjob.cpp:218
+msgid "Removing backup data."
+msgstr "Se elimină datele copiei de rezervă."
+
+#: converterjob.cpp:239
+#, kde-format
+msgid "Keeping V5 dump in <filename>%1</filename>"
+msgstr ""
+
+#: converterjob.cpp:242
+msgid "Removing temp data."
+msgstr "Se șterg datele temporare."
+
+#: converterjob.cpp:253
+msgid "Conversion failed. Restoring backup..."
+msgstr ""
+
+#: converterjob.cpp:257
+#, kde-format
+msgid "Failed to restore backup (%1)."
+msgstr ""
+
+#: main.cpp:33
+msgid "Virtuoso Converter"
+msgstr "Convertor Virtuoso"
+
+#: main.cpp:35
+msgid "Virtuoso V5 to V6 converter"
+msgstr "Convertor Virtuoso V5 la V6"
+
+#: main.cpp:37
+msgid "(c) 2010, Sebastian Trüg"
+msgstr "(c) 2010, Sebastian Trüg"
+
+#: main.cpp:40
+msgid "Sebastian Trüg"
+msgstr "Sebastian Trüg"
+
+#: main.cpp:40
+msgid "Maintainer"
+msgstr "Responsabil"
+
+#: main.cpp:46
+msgid "Automatic mode without user interaction"
+msgstr "Regim automat fără intervenția utilizatorului"
+
+#: main.cpp:47
+msgid "Do not create a backup of the data before converting."
+msgstr "Nu crea o copie de siguranță a datelor înainte de conversie."
+
+#: main.cpp:48
+msgid "Keep the dump of the old database."
+msgstr "Păstrează descărcarea bazei de date vechi."

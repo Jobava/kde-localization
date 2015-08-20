@@ -1,0 +1,88 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-12-11 04:08+0100\n"
+"PO-Revision-Date: 2012-12-21 03:47+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: src/listitemcontent.cpp:52
+msgctxt "Unknown modification date"
+msgid "Unknown"
+msgstr "Necunoscută"
+
+#: src/main.cpp:30
+msgid "KLook is a quick file content preview program"
+msgstr "KLook este un previzualizator rapid al conținutului fișierelor"
+
+#: src/main.cpp:35
+msgid "KLook"
+msgstr "KLook"
+
+#: src/main.cpp:37
+msgid "(c) ROSA 2011-2012"
+msgstr "(c) ROSA 2011-2012"
+
+#: src/main.cpp:39
+msgid "Julia Mineeva"
+msgstr "Julia Mineeva"
+
+#: src/main.cpp:40 src/main.cpp:44 src/main.cpp:48
+msgid "Developer"
+msgstr "Dezvoltator"
+
+#: src/main.cpp:43
+msgid "Evgeniy Auzhin"
+msgstr "Evgeniy Auzhin"
+
+#: src/main.cpp:47
+msgid "Sergey Borovkov"
+msgstr "Sergey Borovkov"
+
+#: src/main.cpp:56
+msgid "File index "
+msgstr "Index de fișiere "
+
+#: src/main.cpp:57
+msgid "Turn on embedded mode"
+msgstr "Activează regimul înglobat"
+
+#: src/main.cpp:58
+msgid "X position of the icon"
+msgstr "Poziția X a pictogramei"
+
+#: src/main.cpp:59
+msgid "Y position of the icon"
+msgstr "Poziția Y a pictogramei"
+
+#: src/main.cpp:60
+msgid "Width of the icon"
+msgstr "Lățimea pictogramei"
+
+#: src/main.cpp:61
+msgid "Height of the icon"
+msgstr "Înălțimea pictogramei"
+
+#: src/main.cpp:62
+msgid "A required argument 'file'"
+msgstr "Argumentul obligatoriu „fișier”"

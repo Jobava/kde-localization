@@ -1,0 +1,1952 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-17 08:34+0000\n"
+"PO-Revision-Date: 2013-09-15 12:14+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: acl/aclentrydialog.cpp:102
+msgid "&User identifier:"
+msgstr ""
+
+#: acl/aclentrydialog.cpp:110
+msgctxt "@info:whatsthis"
+msgid ""
+"The User Identifier is the login of the user on the IMAP server. This can be "
+"a simple user name or the full email address of the user; the login for your "
+"own account on the server will tell you which one it is."
+msgstr ""
+
+#: acl/aclentrydialog.cpp:114
+msgctxt "select an email address"
+msgid "Se&lect..."
+msgstr ""
+
+#: acl/aclentrydialog.cpp:117
+msgid "Permissions"
+msgstr "Permisiuni"
+
+#: acl/aclentrydialog.cpp:136
+msgid "<b>Note: </b>Renaming requires write permissions on the parent folder."
+msgstr ""
+
+#: acl/acllistview.cpp:66
+msgid "Folder cannot be administrated."
+msgstr ""
+
+#: acl/aclmanager.cpp:177
+msgid "Add Entry..."
+msgstr "Adaugă înregistrare..."
+
+#: acl/aclmanager.cpp:181
+msgid "Edit Entry..."
+msgstr "Modifică înregistrarea..."
+
+#: acl/aclmanager.cpp:186
+msgid "Remove Entry"
+msgstr "Elimină înregistrarea"
+
+#: acl/aclmanager.cpp:229
+msgid "Add ACL"
+msgstr ""
+
+#: acl/aclmanager.cpp:253
+msgid "Edit ACL"
+msgstr ""
+
+#: acl/aclmanager.cpp:275
+msgid ""
+"Do you really want to remove your own permissions for this folder? You will "
+"not be able to access it afterwards."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#. i18n: ectx: property (text), widget (QPushButton, remove2)
+#: acl/aclmanager.cpp:277 acl/aclmanager.cpp:284
+#: autocorrection/ui/autocorrectionwidget.ui:299
+#: autocorrection/ui/autocorrectionwidget.ui:504
+#: storageservice/settings/storageservicesettingswidget.cpp:68
+#: templatewidgets/templatelistwidget.cpp:179
+msgid "Remove"
+msgstr "Elimină"
+
+#: acl/aclmanager.cpp:283
+#, fuzzy
+#| msgid "Do you want to delete selected template?"
+msgid "Do you really want to remove these permissions for this folder?"
+msgstr "Doriți să ștergeți șablonul ales?"
+
+#: acl/aclutils.cpp:32
+msgctxt "Permissions"
+msgid "None"
+msgstr "Niciuna"
+
+#: acl/aclutils.cpp:37
+msgctxt "Permissions"
+msgid "Read"
+msgstr "Citire"
+
+#: acl/aclutils.cpp:43
+msgctxt "Permissions"
+msgid "Append"
+msgstr "Adăugare"
+
+#: acl/aclutils.cpp:51
+msgctxt "Permissions"
+msgid "Write"
+msgstr "Scriere"
+
+#: acl/aclutils.cpp:59
+msgctxt "Permissions"
+msgid "All"
+msgstr "Toate"
+
+#: acl/aclutils.cpp:96
+#, kde-format
+msgid "Custom Permissions (%1)"
+msgstr "Permisiuni personalizate (%1)"
+
+#: acl/collectionaclpage.cpp:46
+msgid "Access Control"
+msgstr "Control acces"
+
+#: autocorrection/autocorrectionwidget.cpp:104
+msgid "LibreOffice Autocorrection"
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:108
+msgid "KMail/Calligra Autocorrection"
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:348
+msgid "\"Replace\" string is the same as \"Find\" string."
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:348
+msgid "Add Autocorrection Entry"
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:427
+#, fuzzy
+#| msgid "&Modify..."
+msgid "&Modify"
+msgstr "&Modifică..."
+
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#. i18n: ectx: property (text), widget (QPushButton, add1)
+#: autocorrection/autocorrectionwidget.cpp:430
+#: autocorrection/ui/autocorrectionwidget.ui:289
+#: autocorrection/ui/autocorrectionwidget.ui:429
+#, fuzzy
+#| msgid "&Add..."
+msgid "&Add"
+msgstr "&Adaugă..."
+
+#: autocorrection/autocorrectionwidget.cpp:540
+msgid "Import LibreOffice Autocorrection"
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:541
+msgid "LibreOffice Autocorrection File (*.data)"
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:544
+msgid "Import KMail Autocorrection"
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:545
+msgid "KMail Autocorrection File (*.xml)"
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:594
+msgid "Language was changed, do you want to save config for previous language?"
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:594
+msgid "Save config"
+msgstr ""
+
+#: autocorrection/autocorrectionwidget.cpp:622
+msgid "Export Autocorrection File"
+msgstr ""
+
+#: autocorrection/import/importlibreofficeautocorrection.cpp:67
+msgid "Archive cannot be opened in read mode."
+msgstr ""
+
+#: autocorrection/import/importlibreofficeautocorrection.cpp:67
+msgid "Import LibreOffice Autocorrection File"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, enabledAutocorrection)
+#: autocorrection/ui/autocorrectionwidget.ui:17
+msgid "Enable autocorrection"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: autocorrection/ui/autocorrectionwidget.ui:26
+msgid "Replacement and exception for language:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_1)
+#: autocorrection/ui/autocorrectionwidget.ui:42
+msgid "Si&mple Autocorrection"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, upperCase)
+#: autocorrection/ui/autocorrectionwidget.ui:48
+msgid ""
+"Detect when a new sentence is started and always ensure that the first "
+"character is an uppercase character"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, upperCase)
+#: autocorrection/ui/autocorrectionwidget.ui:52
+msgid ""
+"Convert &first letter of a sentence automatically to uppercase\n"
+"(e.g. \"my house. in this town\" to \"my house. In this town\")"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, upperUpper)
+#: autocorrection/ui/autocorrectionwidget.ui:62
+msgid ""
+"All words are checked for the common mistake of holding the shift key down a "
+"bit too long. If some words must have two uppercase characters, then those "
+"exceptions should be added in the 'Exceptions' tab."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, upperUpper)
+#: autocorrection/ui/autocorrectionwidget.ui:66
+msgid ""
+"Convert &two uppercase characters to one uppercase and one lowercase "
+"character\n"
+" (e.g. PErfect to Perfect)"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, ignoreDoubleSpace)
+#: autocorrection/ui/autocorrectionwidget.ui:73
+msgid ""
+"Make sure that more than one space cannot be typed, as this is a common "
+"mistake which is quite hard to find in formatted text."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, ignoreDoubleSpace)
+#: autocorrection/ui/autocorrectionwidget.ui:76
+msgid "&Suppress double spaces"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, autoReplaceNumber)
+#: autocorrection/ui/autocorrectionwidget.ui:83
+msgid "Most standard fraction notations will be converted when available"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoReplaceNumber)
+#: autocorrection/ui/autocorrectionwidget.ui:86
+msgid "Re&place 1/2... with ½..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, capitalizeDaysName)
+#: autocorrection/ui/autocorrectionwidget.ui:93
+msgid "Capitalize name of days"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, autoFormatUrl)
+#: autocorrection/ui/autocorrectionwidget.ui:100
+msgid ""
+"Detect when a URL (Uniform Resource Locator) is typed and provide formatting "
+"that matches the way an Internet browser would show a URL."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoFormatUrl)
+#: autocorrection/ui/autocorrectionwidget.ui:103
+msgid "Autoformat &URLs (HTML mode)"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, autoChangeFormat)
+#: autocorrection/ui/autocorrectionwidget.ui:110
+msgid ""
+"When you use _underline_ or *bold*, the text between the underscores or "
+"asterisks will be converted to underlined or bold text."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoChangeFormat)
+#: autocorrection/ui/autocorrectionwidget.ui:113
+msgid "Automatically do &bold, strikeout and underline formatting (HTML mode)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoSuperScript)
+#: autocorrection/ui/autocorrectionwidget.ui:120
+msgid "Replace 1st... with 1^st... (HTML mode)"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: autocorrection/ui/autocorrectionwidget.ui:141
+msgid "Custom &Quotes"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, typographicSingleQuotes)
+#: autocorrection/ui/autocorrectionwidget.ui:147
+msgid "Replace &single quotes with typographical quotes"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, typographicDoubleQuotes)
+#: autocorrection/ui/autocorrectionwidget.ui:154
+msgid "Replace &double quotes with typographical quotes"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, doubleDefault)
+#. i18n: ectx: property (text), widget (QPushButton, singleDefault)
+#: autocorrection/ui/autocorrectionwidget.ui:187
+#: autocorrection/ui/autocorrectionwidget.ui:235
+msgid "Default"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, addNonBreakingSpaceInFrench)
+#: autocorrection/ui/autocorrectionwidget.ui:270
+msgid "Add non breaking space before specific punctuation marks in French text"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: autocorrection/ui/autocorrectionwidget.ui:278
+msgid "Ad&vanced Autocorrection"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, advancedAutocorrection)
+#: autocorrection/ui/autocorrectionwidget.ui:321
+msgid "&Enable word replacement"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, findLabel)
+#: autocorrection/ui/autocorrectionwidget.ui:330
+msgid "&Find"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, replaceLabel)
+#: autocorrection/ui/autocorrectionwidget.ui:350
+msgid "Re&place"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (PimCommon::AutoCorrectionTreeWidget, treeWidget)
+#: autocorrection/ui/autocorrectionwidget.ui:388
+msgid "Find"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (PimCommon::AutoCorrectionTreeWidget, treeWidget)
+#: autocorrection/ui/autocorrectionwidget.ui:393
+#: texteditor/commonwidget/textfindreplacewidget.cpp:44
+msgid "Replace"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#: autocorrection/ui/autocorrectionwidget.ui:402
+#, fuzzy
+#| msgid "Options"
+msgid "E&xceptions"
+msgstr "Opțiuni"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: autocorrection/ui/autocorrectionwidget.ui:410
+msgid "Do not treat as the end of a sentence:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mRemoveAccountButton)
+#. i18n: ectx: property (text), widget (QPushButton, remove1)
+#: autocorrection/ui/autocorrectionwidget.ui:436
+#: widgets/ui/manageaccountwidget.ui:56
+#, fuzzy
+#| msgid "Remove"
+msgid "R&emove"
+msgstr "Elimină"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: autocorrection/ui/autocorrectionwidget.ui:478
+msgid "Accept two uppercase letters in:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, add2)
+#: autocorrection/ui/autocorrectionwidget.ui:497
+#, fuzzy
+#| msgid "Add..."
+msgid "Add"
+msgstr "Adaugă..."
+
+#. i18n: ectx: property (text), widget (QPushButton, exportAutoCorrection)
+#: autocorrection/ui/autocorrectionwidget.ui:550
+#: templatewidgets/templatelistwidget.cpp:184
+msgid "Export..."
+msgstr "Exportă..."
+
+#. i18n: ectx: property (text), widget (QPushButton, importAutoCorrection)
+#: autocorrection/ui/autocorrectionwidget.ui:557
+#: templatewidgets/templatelistwidget.cpp:186
+msgid "Import..."
+msgstr "Importă..."
+
+#: baloodebug/baloodebugdialog.cpp:90
+msgid "Text Files (*.txt);;All Files (*)"
+msgstr ""
+
+#: folderdialog/checkedcollectionwidget.cpp:72
+msgid "Search..."
+msgstr ""
+
+#: folderdialog/selectmulticollectiondialog.cpp:49
+msgid "Select Multiple Folders"
+msgstr ""
+
+#: gravatar/widgets/gravatardownloadpixmapwidget.cpp:36
+#: storageservice/yousendit/yousenditjob.cpp:177
+msgid "Email:"
+msgstr ""
+
+#: gravatar/widgets/gravatardownloadpixmapwidget.cpp:44
+msgid "Use HTTPS Protocol"
+msgstr ""
+
+#: gravatar/widgets/gravatardownloadpixmapwidget.cpp:48
+msgid "Use Libravatar"
+msgstr ""
+
+#: gravatar/widgets/gravatardownloadpixmapwidget.cpp:52
+msgid "Fallback to Gravatar"
+msgstr ""
+
+#: gravatar/widgets/gravatardownloadpixmapwidget.cpp:56
+msgid "&Search"
+msgstr ""
+
+#: gravatar/widgets/gravatardownloadpixmapwidget.cpp:85
+msgid "No Gravatar found."
+msgstr ""
+
+#: manageserversidesubscription/manageserversidesubscriptionjob.cpp:71
+msgid ""
+"IMAP server not configured yet. Please configure the server in the IMAP "
+"account before setting up server-side subscription."
+msgstr ""
+
+#: manageserversidesubscription/manageserversidesubscriptionjob.cpp:73
+msgid ""
+"Log in failed, please configure the IMAP account before setting up server-"
+"side subscription."
+msgstr ""
+
+#: shareserviceurl/shareserviceurlmanager.cpp:82
+msgid "Facebook"
+msgstr ""
+
+#: shareserviceurl/shareserviceurlmanager.cpp:85
+msgid "Twitter"
+msgstr ""
+
+#: shareserviceurl/shareserviceurlmanager.cpp:88
+msgid "Google Plus"
+msgstr ""
+
+#: shareserviceurl/shareserviceurlmanager.cpp:91
+msgid "Mail"
+msgstr ""
+
+#: shareserviceurl/shareserviceurlmanager.cpp:94
+msgid "LinkedIn"
+msgstr ""
+
+#: shareserviceurl/shareserviceurlmanager.cpp:97
+msgid "Evernote"
+msgstr ""
+
+#: shareserviceurl/shareserviceurlmanager.cpp:100
+msgid "Pocket"
+msgstr ""
+
+#: shareserviceurl/shareserviceurlmanager.cpp:103
+msgid "LiveJournal"
+msgstr ""
+
+#: shareserviceurl/shareserviceurlmanager.cpp:113
+#, fuzzy
+#| msgid "Name:"
+msgid "Share On..."
+msgstr "Denumire:"
+
+#: shareserviceurl/shareserviceurlmanager.cpp:116
+#, kde-format
+msgctxt "@action:inmenu Share On..."
+msgid "%1"
+msgstr ""
+
+#: shorturl/abstractshorturl.cpp:52
+#, kde-format
+msgid ""
+"Error reported by server:\n"
+"'%1'"
+msgstr ""
+
+#: shorturl/shorturlconfiguredialog.cpp:32
+msgid "Configure engine"
+msgstr ""
+
+#: shorturl/shorturlconfigurewidget.cpp:35
+msgid "Select Short URL server:"
+msgstr ""
+
+#: shorturl/shorturlutils.cpp:78
+msgid "Google"
+msgstr ""
+
+#: shorturl/shorturlutils.cpp:81
+msgid "Tinyurl"
+msgstr ""
+
+#: shorturl/shorturlutils.cpp:84
+msgid "Migre.Me"
+msgstr ""
+
+#: shorturl/shorturlutils.cpp:87
+msgid "TriopAB"
+msgstr ""
+
+#: shorturl/shorturlutils.cpp:90
+msgid "Ur1Ca"
+msgstr ""
+
+#: shorturl/shorturlutils.cpp:93
+msgid "IsGd"
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:57 shorturl/shorturlwidget.cpp:59
+#: texteditor/commonwidget/texteditfindbarbase.cpp:49
+#: texteditor/commonwidget/texteditfindbarbase.cpp:52
+#: texteditor/commonwidget/textgotolinewidget.cpp:41
+#: texteditor/commonwidget/textgotolinewidget.cpp:44
+#: texttospeech/texttospeechwidget.cpp:45 translator/translatorwidget.cpp:229
+#: translator/translatorwidget.cpp:232
+msgid "Close"
+msgstr "Închide"
+
+#: shorturl/shorturlwidget.cpp:66
+msgid "In progress to generate short url..."
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:69 texttospeech/texttospeechwidget.cpp:72
+msgid "Configure..."
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:76
+#, fuzzy
+#| msgctxt ""
+#| "Invert language choices so that from becomes to and to becomes from"
+#| msgid "Invert"
+msgid "Convert"
+msgstr "Inversează"
+
+#: shorturl/shorturlwidget.cpp:80
+msgid "Insert Short Url"
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:84
+msgid "Original url:"
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:94
+msgid "Copy to clipboard"
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:98
+msgid "Short url:"
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:106
+msgid "Open Short Url"
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:160
+msgid "No network connection detected, we cannot shorten url."
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:160 translator/translatorwidget.cpp:374
+msgid "No network"
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:200
+#, kde-format
+msgid "An error occurs: \"%1\""
+msgstr ""
+
+#: shorturl/shorturlwidget.cpp:225
+msgid "Generate Shorten Url"
+msgstr ""
+
+#: storageservice/authdialog/logindialog.cpp:35
+#: storageservice/authdialog/storageauthviewdialog.cpp:31
+msgid "Authorize"
+msgstr ""
+
+#: storageservice/authdialog/logindialog.cpp:53
+#, fuzzy
+#| msgid "&Rename"
+msgid "Username:"
+msgstr "&Redenumește"
+
+#: storageservice/authdialog/logindialog.cpp:60
+msgid "Password:"
+msgstr ""
+
+#: storageservice/box/boxjob.cpp:90 storageservice/hubic/hubicjob.cpp:89
+msgid "Authorization canceled."
+msgstr ""
+
+#: storageservice/box/boxjob.cpp:157 storageservice/box/boxjob.cpp:213
+#: storageservice/dropbox/dropboxjob.cpp:112
+#: storageservice/dropbox/dropboxjob.cpp:151
+#: storageservice/dropbox/dropboxjob.cpp:295
+#: storageservice/dropbox/dropboxjob.cpp:450
+#: storageservice/dropbox/dropboxjob.cpp:682
+#: storageservice/hubic/hubicjob.cpp:155 storageservice/hubic/hubicjob.cpp:206
+#: storageservice/yousendit/yousenditjob.cpp:282
+#: storageservice/yousendit/yousenditjob.cpp:294
+#, kde-format
+msgid "Unknown Error \"%1\""
+msgstr ""
+
+#: storageservice/box/boxstorageservice.cpp:425
+msgid "Box"
+msgstr ""
+
+#: storageservice/box/boxstorageservice.cpp:455
+msgid ""
+"Box.com is a file hosting that offers cloud storage, file synchronization, "
+"and client software."
+msgstr ""
+
+#: storageservice/box/boxstorageservice.cpp:580
+#: storageservice/dropbox/dropboxstorageservice.cpp:526
+#: storageservice/gdrive/gdrivestorageservice.cpp:413
+#, fuzzy
+#| msgid "Delete template"
+msgid "Folder"
+msgstr "Șterge șablonul"
+
+#: storageservice/box/boxstorageservice.cpp:580
+#: storageservice/dropbox/dropboxstorageservice.cpp:526
+#: storageservice/gdrive/gdrivestorageservice.cpp:413
+#: storageservice/webdav/webdavstorageservice.cpp:388
+#: storageservice/yousendit/yousenditstorageservice.cpp:435
+#, fuzzy
+#| msgid "&Rename"
+msgid "File"
+msgstr "&Redenumește"
+
+#: storageservice/dialog/storageservicechecknamedialog.cpp:36
+#, fuzzy
+#| msgid "New Value"
+msgid "New name"
+msgstr "Valoare nouă"
+
+#: storageservice/dialog/storageservicechecknamedialog.cpp:52
+msgid "Some characters are not allowed."
+msgstr ""
+
+#: storageservice/dialog/storageservicechecknamedialog.cpp:56
+#, fuzzy
+#| msgid "Name:"
+msgid "New name:"
+msgstr "Denumire:"
+
+#: storageservice/dialog/storageservicechecknamedialog.cpp:86
+#, kde-format
+msgid "Some characters (%1) are not allowed."
+msgstr ""
+
+#: storageservice/dialog/storageserviceconfiguredialog.cpp:37
+msgid "Configure"
+msgstr ""
+
+#: storageservice/dialog/storageservicedeletedialog.cpp:60
+#: storageservice/dialog/storageservicedeletedialog.cpp:83
+#: storageservice/dialog/storageservicedeletedialog.cpp:101
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete"
+msgstr "Șterge șablonul"
+
+#: storageservice/dialog/storageservicedeletedialog.cpp:65
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete File"
+msgstr "Șterge șablonul"
+
+#: storageservice/dialog/storageservicedeletedialog.cpp:70
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete Folder"
+msgstr "Șterge șablonul"
+
+#: storageservice/dialog/storageservicedeletedialog.cpp:86
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete Files"
+msgstr "Șterge șablonul"
+
+#: storageservice/dialog/storageservicedeletedialog.cpp:89
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete Folders"
+msgstr "Șterge șablonul"
+
+#: storageservice/dialog/storageservicedeletedialog.cpp:108
+msgid "Select file/folder to delete:"
+msgstr ""
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:55
+#: storageservice/dialog/storageservicedownloaddialog.cpp:67
+msgid "Download File"
+msgstr ""
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:79
+msgid "Download"
+msgstr ""
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:87
+msgid "Select file to download:"
+msgstr ""
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:126
+msgid ""
+"A download is still in progress. Do you want to cancel it and close dialog?"
+msgstr ""
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:126
+msgid "Download in progress"
+msgstr ""
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:214
+msgid "File was correctly downloaded."
+msgstr ""
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:215
+#: storageservice/dialog/storageservicedownloaddialog.cpp:224
+msgctxt "@title:window"
+msgid "Download file"
+msgstr ""
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:223
+msgid "Error during download file."
+msgstr ""
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:251
+#, fuzzy
+#| msgid ""
+#| "A file named <filename>%1</filename> already exists. Do you want to "
+#| "overwrite it?"
+msgid "Filename already exists. Do you want to overwrite it?"
+msgstr ""
+"Există deja un fișier cu denumirea <filename>%1</filename>. Doriți să-l "
+"suprascrieți?"
+
+#: storageservice/dialog/storageservicedownloaddialog.cpp:252
+#, fuzzy
+#| msgid "&Overwrite"
+msgctxt "@title:window"
+msgid "Overwrite file"
+msgstr "&Suprascrie"
+
+#: storageservice/dialog/storageservicepropertiesdialog.cpp:37
+msgctxt "@title:window"
+msgid "Properties"
+msgstr ""
+
+#: storageservice/dropbox/dropboxjob.cpp:124
+#, kde-format
+msgid "Dropbox access is not authorized. Error message: %1"
+msgstr ""
+
+#: storageservice/dropbox/dropboxjob.cpp:367
+#: storageservice/webdav/webdavjob.cpp:77
+#: storageservice/webdav/webdavjob.cpp:97
+#: storageservice/yousendit/yousenditjob.cpp:182
+msgid "Authentication Canceled."
+msgstr ""
+
+#: storageservice/dropbox/dropboxstorageservice.cpp:241
+msgid "Dropbox"
+msgstr ""
+
+#: storageservice/dropbox/dropboxstorageservice.cpp:246
+msgid ""
+"Dropbox is a file hosting service operated by Dropbox, Inc. that offers "
+"cloud storage, file synchronization, and client software."
+msgstr ""
+
+#: storageservice/dropbox/dropboxstorageservice.cpp:544
+msgid "Storage path:"
+msgstr ""
+
+#: storageservice/gdrive/gdrivestorageservice.cpp:498
+msgid "GoogleDrive"
+msgstr ""
+
+#: storageservice/gdrive/gdrivestorageservice.cpp:531
+msgid ""
+"Googledrive is a file hosting that offers cloud storage, file "
+"synchronization, and client software."
+msgstr ""
+
+#: storageservice/hubic/hubicstorageservice.cpp:213
+msgid "Hubic"
+msgstr ""
+
+#: storageservice/hubic/hubicstorageservice.cpp:243
+msgid ""
+"Hubic is a file hosting service operated by Ovh, Inc. that offers cloud "
+"storage, file synchronization, and client software."
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:64
+#, kde-format
+msgid "Request Token returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:67
+#, kde-format
+msgid "Access Token returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:70
+#, kde-format
+msgid "Upload File returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:73
+#, kde-format
+msgid "Create Folder returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:76
+#, kde-format
+msgid "Get account info returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:79
+#, kde-format
+msgid "List folder returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:82
+#, kde-format
+msgid "Share Link returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:85
+#, kde-format
+msgid "Create Service Folder returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:88
+#, kde-format
+msgid "Download file returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:91
+#, kde-format
+msgid "Delete File returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:94
+#, kde-format
+msgid "Delete Folder returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:97
+#, kde-format
+msgid "Rename Folder returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:100
+#, kde-format
+msgid "Rename File returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:103
+#, kde-format
+msgid "Move File returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:106
+#, kde-format
+msgid "Move Folder returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:109
+#, kde-format
+msgid "Copy File returns an error: %1"
+msgstr ""
+
+#: storageservice/job/storageserviceabstractjob.cpp:112
+#, kde-format
+msgid "Copy Folder returns an error: %1"
+msgstr ""
+
+#: storageservice/settings/addservicestoragedialog.cpp:37
+msgid "Add Service"
+msgstr ""
+
+#: storageservice/settings/addservicestoragedialog.cpp:43
+msgid "All services were added."
+msgstr ""
+
+#: storageservice/settings/storageservicesettingswidget.cpp:64
+#: templatewidgets/templatelistwidget.cpp:170
+msgid "Add..."
+msgstr "Adaugă..."
+
+#: storageservice/settings/storageservicesettingswidget.cpp:72
+#: templatewidgets/templatelistwidget.cpp:174
+msgid "Modify..."
+msgstr "Modifică..."
+
+#: storageservice/settings/storageservicesettingswidget.cpp:106
+msgid "Authenticate"
+msgstr ""
+
+#: storageservice/settings/storageservicesettingswidget.cpp:110
+msgid "Unable to get account information."
+msgstr ""
+
+#: storageservice/settings/storageservicesettingswidget.cpp:140
+#: storageservice/settings/storageservicesettingswidget.cpp:369
+msgid "Account size:"
+msgstr ""
+
+#: storageservice/settings/storageservicesettingswidget.cpp:141
+#: storageservice/settings/storageservicesettingswidget.cpp:374
+msgid "Quota:"
+msgstr ""
+
+#: storageservice/settings/storageservicesettingswidget.cpp:142
+#: storageservice/settings/storageservicesettingswidget.cpp:379
+#, fuzzy
+#| msgid "Name:"
+msgid "Shared:"
+msgstr "Denumire:"
+
+#: storageservice/settings/storageservicesettingswidget.cpp:227
+#, fuzzy, kde-format
+#| msgid "Do you want to delete selected template?"
+msgid "Do you want to delete this service '%1'?"
+msgstr "Doriți să ștergeți șablonul ales?"
+
+#: storageservice/settings/storageservicesettingswidget.cpp:227
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete Service"
+msgstr "Șterge șablonul"
+
+#: storageservice/settings/storageservicesettingswidget.cpp:315
+msgid "Authentication Failed"
+msgstr ""
+
+#: storageservice/settings/storageservicesettingswidget.cpp:338
+#, fuzzy, kde-format
+#| msgid "Name:"
+msgid "Name: %1"
+msgstr "Denumire:"
+
+#: storageservice/settings/storageservicesettingswidget.cpp:367
+#, kde-format
+msgid "Account size: %1"
+msgstr ""
+
+#: storageservice/settings/storageservicesettingswidget.cpp:372
+#, kde-format
+msgid "Quota: %1"
+msgstr ""
+
+#: storageservice/settings/storageservicesettingswidget.cpp:377
+#, fuzzy, kde-format
+#| msgid "Name:"
+msgid "Shared: %1"
+msgstr "Denumire:"
+
+#: storageservice/storageservicemanager.cpp:150
+msgid "Storage service"
+msgstr ""
+
+#: storageservice/storageservicemanager.cpp:152
+msgid "No Storage service configured"
+msgstr ""
+
+#: storageservice/storageservicemanager.cpp:180
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete Folder..."
+msgstr "Șterge șablonul"
+
+#: storageservice/storageservicemanager.cpp:184
+msgid "Download File..."
+msgstr ""
+
+#: storageservice/storageservicemanager.cpp:188
+msgid "Upload File..."
+msgstr ""
+
+#: storageservice/storageservicemanager.cpp:192
+msgid "Share File..."
+msgstr ""
+
+#: storageservice/storageservicemanager.cpp:196
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete File..."
+msgstr "Șterge șablonul"
+
+#: storageservice/storageservicemanager.cpp:200
+msgid "Account Info..."
+msgstr ""
+
+#: storageservice/storageservicemanager.cpp:219
+msgid "There is still an upload in progress."
+msgstr ""
+
+#: storageservice/storageservicemanager.cpp:221
+msgid "File to upload"
+msgstr ""
+
+#: storageservice/utils/storageserviceutils.cpp:58
+msgid "Type:"
+msgstr ""
+
+#: storageservice/utils/storageserviceutils.cpp:61
+#, fuzzy
+#| msgid "Name:"
+msgctxt "Name of file or folder"
+msgid "Name:"
+msgstr "Denumire:"
+
+#: storageservice/utils/storageserviceutils.cpp:64
+msgid "Last Modified:"
+msgstr ""
+
+#: storageservice/utils/storageserviceutils.cpp:67
+msgid "Created:"
+msgstr ""
+
+#: storageservice/utils/storageserviceutils.cpp:70
+#, fuzzy
+#| msgid "Name:"
+msgid "Size:"
+msgstr "Denumire:"
+
+#: storageservice/webdav/webdavjob.cpp:66
+msgid "WebDav"
+msgstr ""
+
+#: storageservice/webdav/webdavsettingsdialog.cpp:34
+msgid "WebDav Settings"
+msgstr ""
+
+#: storageservice/webdav/webdavsettingsdialog.cpp:47
+msgid "Service Location (e.g. https://dav.example.com/)"
+msgstr ""
+
+#: storageservice/webdav/webdavsettingsdialog.cpp:55
+msgid "Public location (Optional)"
+msgstr ""
+
+#: storageservice/webdav/webdavstorageservice.cpp:388
+#: storageservice/yousendit/yousenditstorageservice.cpp:435
+msgid "Directory"
+msgstr ""
+
+#: storageservice/webdav/webdavstorageservice.cpp:463
+msgid "Webdav"
+msgstr ""
+
+#: storageservice/webdav/webdavstorageservice.cpp:488
+msgid ""
+"The WebDAV service allows access to any Web application that uses the WebDAV "
+"protocol, such as ownCloud, Kolab, and others."
+msgstr ""
+
+#: storageservice/widgets/storageserviceconfigurewidget.cpp:45
+msgid "Default Download Folder:"
+msgstr ""
+
+#: storageservice/widgets/storageserviceprogresswidget.cpp:110
+#, kde-format
+msgid "%1 on %2"
+msgstr ""
+
+#: storageservice/widgets/storageservicetreewidget.cpp:51
+#, fuzzy
+#| msgid "Name:"
+msgid "Name"
+msgstr "Denumire:"
+
+#: storageservice/widgets/storageservicetreewidget.cpp:51
+msgid "Size"
+msgstr ""
+
+#: storageservice/widgets/storageservicetreewidget.cpp:51
+msgid "Created"
+msgstr ""
+
+#: storageservice/widgets/storageservicetreewidget.cpp:51
+msgid "Last Modified"
+msgstr ""
+
+#: storageservice/widgets/storageservicetreewidget.cpp:73
+msgid "Up"
+msgstr ""
+
+#: storageservice/widgets/storageservicetreewidget.cpp:78
+msgid "Properties"
+msgstr ""
+
+#: storageservice/yousendit/yousenditjob.cpp:176
+#: storageservice/yousendit/yousenditstorageservice.cpp:187
+msgid "YouSendIt"
+msgstr ""
+
+#: storageservice/yousendit/yousenditjob.cpp:566
+#, kde-format
+msgid ""
+"Authentication failed. Server returns this error:\n"
+"%1"
+msgstr ""
+
+#: storageservice/yousendit/yousenditstorageservice.cpp:212
+msgid ""
+"YouSendIt is a file hosting that offers cloud storage, file synchronization, "
+"and client software."
+msgstr ""
+
+#: storageservice/yousendit/yousenditstorageservice.cpp:448
+#, fuzzy
+#| msgid "Name:"
+msgid "writable:"
+msgstr "Denumire:"
+
+#: storageservice/yousendit/yousenditstorageservice.cpp:448
+msgid "Yes"
+msgstr ""
+
+#: storageservice/yousendit/yousenditstorageservice.cpp:448
+#, fuzzy
+#| msgctxt "Permissions"
+#| msgid "None"
+msgid "No"
+msgstr "Niciuna"
+
+#: templatewidgets/templateeditdialog.cpp:38
+msgid "Default template"
+msgstr ""
+
+#: templatewidgets/templateeditdialog.cpp:38
+msgid "Template"
+msgstr "Șablon"
+
+#: templatewidgets/templateeditdialog.cpp:61
+msgid "Name:"
+msgstr "Denumire:"
+
+#: templatewidgets/templatelistwidget.cpp:80
+msgid "Do you want to delete selected template?"
+msgstr "Doriți să ștergeți șablonul ales?"
+
+#: templatewidgets/templatelistwidget.cpp:80
+msgid "Delete template"
+msgstr "Șterge șablonul"
+
+#: templatewidgets/templatelistwidget.cpp:166
+msgid "Insert template"
+msgstr "Inserează șablon"
+
+#: templatewidgets/templatelistwidget.cpp:174
+msgid "Show..."
+msgstr "Arată..."
+
+#: templatewidgets/templatelistwidget.cpp:175
+msgid "Duplicate"
+msgstr ""
+
+#: templatewidgets/templatelistwidget.cpp:190
+msgid "Download new Templates..."
+msgstr ""
+
+#: templatewidgets/templatelistwidget.cpp:224
+#, kde-format
+msgid "'%1' is not a template file"
+msgstr ""
+
+#: templatewidgets/templatelistwidget.cpp:224
+#, fuzzy
+#| msgid "Template"
+msgid "Load Template"
+msgstr "Șablon"
+
+#: texteditor/commonwidget/texteditfindbarbase.cpp:159
+#: texteditor/commonwidget/texteditfindbarbase.cpp:161
+#, kde-format
+msgid ""
+"End of message reached.\n"
+"Phrase '%1' could not be found."
+msgstr ""
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:35
+msgctxt "Replace text"
+msgid "Replace:"
+msgstr ""
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:48
+msgid "Replace All"
+msgstr ""
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:77
+msgctxt "Find text"
+msgid "F&ind:"
+msgstr "&Caută:"
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:81
+msgid "Text to search for"
+msgstr "Text de căutat"
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:86
+msgctxt "Find and go to the next search match"
+msgid "Next"
+msgstr "Următoarea"
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:87
+msgid "Jump to next match"
+msgstr "Sari la potrivirea următoare"
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:91
+msgctxt "Find and go to the previous search match"
+msgid "Previous"
+msgstr "Precedenta"
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:92
+msgid "Jump to previous match"
+msgstr "Sari la potrivirea precedentă"
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:97
+msgid "Options"
+msgstr "Opțiuni"
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:98
+msgid "Modify search behavior"
+msgstr "Modifică comportamentul căutării"
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:100
+msgid "Case sensitive"
+msgstr "Sensibil la registru"
+
+#: texteditor/commonwidget/textfindreplacewidget.cpp:103
+msgid "Whole word"
+msgstr ""
+
+#: texteditor/commonwidget/textgotolinewidget.cpp:51
+msgid "Go to Line:"
+msgstr ""
+
+#: texteditor/commonwidget/textgotolinewidget.cpp:58
+msgid "Go"
+msgstr ""
+
+#: texteditor/plaintexteditor/plaintexteditor.cpp:154
+#: texteditor/richtexteditor/richtexteditor.cpp:174
+msgid "Replace..."
+msgstr ""
+
+#: texteditor/plaintexteditor/plaintexteditor.cpp:165
+#: texteditor/richtexteditor/richtexteditor.cpp:185
+msgid "Check Spelling..."
+msgstr ""
+
+#: texteditor/plaintexteditor/plaintexteditor.cpp:170
+#: texteditor/richtexteditor/richtexteditor.cpp:190
+msgid "Auto Spell Check"
+msgstr ""
+
+#: texteditor/plaintexteditor/plaintexteditor.cpp:176
+#: texteditor/richtexteditor/richtexteditor.cpp:196
+#: widgets/customtextedit.cpp:104
+msgid "Spell Checking Language"
+msgstr ""
+
+#: texteditor/plaintexteditor/plaintexteditor.cpp:202
+#: texteditor/richtexteditor/richtexteditor.cpp:229
+msgid "Speak Text"
+msgstr ""
+
+#: texteditor/plaintexteditor/plaintexteditor.cpp:342
+#: texteditor/richtexteditor/richtexteditor.cpp:401
+msgid "Nothing to spell check."
+msgstr ""
+
+#: texteditor/richtexteditor/richtexteditor.cpp:222
+msgid "Allow Tabulations"
+msgstr ""
+
+#: texttospeech/texttospeechactions.cpp:30
+#: texttospeech/texttospeechactions.cpp:33
+msgid "Stop"
+msgstr ""
+
+#: texttospeech/texttospeechactions.cpp:76
+msgid "Pause"
+msgstr ""
+
+#: texttospeech/texttospeechactions.cpp:76
+msgid "Play"
+msgstr ""
+
+#: texttospeech/texttospeechconfigdialog.cpp:33
+msgid "Configure Text-To-Speech"
+msgstr ""
+
+#: texttospeech/texttospeechconfigwidget.cpp:43
+#: texttospeech/texttospeechwidget.cpp:50
+msgid "Volume:"
+msgstr ""
+
+#: texttospeech/texttospeechconfigwidget.cpp:49
+msgid "Rate:"
+msgstr ""
+
+#: texttospeech/texttospeechconfigwidget.cpp:57
+msgid "Pitch:"
+msgstr ""
+
+#: texttospeech/texttospeechconfigwidget.cpp:61
+msgid "Language:"
+msgstr ""
+
+#: translator/googletranslator.cpp:127
+msgid "You used same language for from and to language."
+msgstr "Ați folosit aceeași limbă pentru sursă și destinație."
+
+#: translator/translatordebugdialog.cpp:32
+msgid "Translator Debug"
+msgstr "Depanare traducător"
+
+#: translator/translatordebugdialog.cpp:40
+msgid "Save As..."
+msgstr "Salvează ca..."
+
+#: translator/translatordebugdialog.cpp:80
+#, fuzzy
+#| msgid "all files (*)"
+msgid "All Files (*)"
+msgstr "toate fișierele (*)"
+
+#: translator/translatorutil.cpp:32
+msgid "Detect language"
+msgstr "Detectează limba"
+
+#: translator/translatorutil.cpp:35
+msgid "English"
+msgstr "Engleză"
+
+#: translator/translatorutil.cpp:38 translator/translatorutil.cpp:101
+msgid "Chinese (Simplified)"
+msgstr "Chineză (simplificată)"
+
+#: translator/translatorutil.cpp:41 translator/translatorutil.cpp:104
+msgid "Chinese (Traditional)"
+msgstr "Chineză (tradițională)"
+
+#: translator/translatorutil.cpp:44
+msgid "Dutch"
+msgstr "Olandeză"
+
+#: translator/translatorutil.cpp:47
+msgid "French"
+msgstr "Franceză"
+
+#: translator/translatorutil.cpp:50
+msgid "German"
+msgstr "Germană"
+
+#: translator/translatorutil.cpp:53
+msgid "Greek"
+msgstr "Greacă"
+
+#: translator/translatorutil.cpp:56
+msgid "Italian"
+msgstr "Italiană"
+
+#: translator/translatorutil.cpp:59
+msgid "Japanese"
+msgstr "Japoneză"
+
+#: translator/translatorutil.cpp:62
+msgid "Korean"
+msgstr "Coreeană"
+
+#: translator/translatorutil.cpp:65
+msgid "Portuguese"
+msgstr "Portugheză"
+
+#: translator/translatorutil.cpp:68
+msgid "Russian"
+msgstr "Rusă"
+
+#: translator/translatorutil.cpp:71
+msgid "Spanish"
+msgstr "Spaniolă"
+
+#: translator/translatorutil.cpp:74
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: translator/translatorutil.cpp:77
+msgid "Albanian"
+msgstr "Albaneză"
+
+#: translator/translatorutil.cpp:80
+msgid "Arabic"
+msgstr "Arabă"
+
+#: translator/translatorutil.cpp:83
+msgid "Armenian"
+msgstr "Armeană"
+
+#: translator/translatorutil.cpp:86
+msgid "Azerbaijani"
+msgstr "Azerbaijană"
+
+#: translator/translatorutil.cpp:89
+msgid "Basque"
+msgstr "Bască"
+
+#: translator/translatorutil.cpp:92
+msgid "Belarusian"
+msgstr "Bielorusă"
+
+#: translator/translatorutil.cpp:95
+msgid "Bulgarian"
+msgstr "Bulgară"
+
+#: translator/translatorutil.cpp:98
+msgid "Catalan"
+msgstr "Catalană"
+
+#: translator/translatorutil.cpp:107
+msgid "Croatian"
+msgstr "Croată"
+
+#: translator/translatorutil.cpp:110
+msgid "Czech"
+msgstr "Cehă"
+
+#: translator/translatorutil.cpp:113
+msgid "Danish"
+msgstr "Daneză"
+
+#: translator/translatorutil.cpp:116
+msgid "Estonian"
+msgstr "Estoniană"
+
+#: translator/translatorutil.cpp:119
+msgid "Filipino"
+msgstr "Filipineză"
+
+#: translator/translatorutil.cpp:122
+msgid "Finnish"
+msgstr "Finlandeză"
+
+#: translator/translatorutil.cpp:125
+msgid "Galician"
+msgstr ""
+
+#: translator/translatorutil.cpp:128
+msgid "Georgian"
+msgstr "Georgiană"
+
+#: translator/translatorutil.cpp:131
+msgid "Haitian Creole"
+msgstr "Creolă haitiană"
+
+#: translator/translatorutil.cpp:134
+msgid "Hebrew"
+msgstr "Ebraică"
+
+#: translator/translatorutil.cpp:137
+msgid "Hindi"
+msgstr "Hindi"
+
+#: translator/translatorutil.cpp:140
+msgid "Hungarian"
+msgstr "Maghiară"
+
+#: translator/translatorutil.cpp:143
+msgid "Icelandic"
+msgstr "Islandeză"
+
+#: translator/translatorutil.cpp:146
+msgid "Indonesian"
+msgstr "Indoneziană"
+
+#: translator/translatorutil.cpp:149
+msgid "Irish"
+msgstr "Irlandeză"
+
+#: translator/translatorutil.cpp:152
+msgid "Latvian"
+msgstr "Letonă"
+
+#: translator/translatorutil.cpp:155
+msgid "Lithuanian"
+msgstr "Lituaniană"
+
+#: translator/translatorutil.cpp:158
+msgid "Macedonian"
+msgstr "Macedoneană"
+
+#: translator/translatorutil.cpp:161
+msgid "Malay"
+msgstr "Malaeză"
+
+#: translator/translatorutil.cpp:164
+msgid "Maltese"
+msgstr "Malteză"
+
+#: translator/translatorutil.cpp:167
+msgid "Norwegian"
+msgstr "Norvegiană"
+
+#: translator/translatorutil.cpp:170
+msgid "Persian"
+msgstr "Persană"
+
+#: translator/translatorutil.cpp:173
+msgid "Polish"
+msgstr "Poloneză"
+
+#: translator/translatorutil.cpp:176
+msgid "Romanian"
+msgstr "Română"
+
+#: translator/translatorutil.cpp:179
+msgid "Serbian"
+msgstr "Sîrbă"
+
+#: translator/translatorutil.cpp:182
+msgid "Slovak"
+msgstr "Slovacă"
+
+#: translator/translatorutil.cpp:185
+msgid "Slovenian"
+msgstr "Slovenă"
+
+#: translator/translatorutil.cpp:188
+msgid "Swahili"
+msgstr "Swahili"
+
+#: translator/translatorutil.cpp:191
+msgid "Swedish"
+msgstr "Suedeză"
+
+#: translator/translatorutil.cpp:194
+msgid "Thai"
+msgstr "Tailandeză"
+
+#: translator/translatorutil.cpp:197
+msgid "Turkish"
+msgstr "Turcă"
+
+#: translator/translatorutil.cpp:200
+msgid "Ukrainian"
+msgstr "Ucrainiană"
+
+#: translator/translatorutil.cpp:203
+msgid "Urdu"
+msgstr "Urdu"
+
+#: translator/translatorutil.cpp:206
+msgid "Vietnamese"
+msgstr "Vietnameză"
+
+#: translator/translatorutil.cpp:209
+msgid "Welsh"
+msgstr "Galeză"
+
+#: translator/translatorutil.cpp:212
+msgid "Yiddish"
+msgstr "Idiș"
+
+#: translator/translatorwidget.cpp:135
+msgid "Problem when connecting to the translator web site."
+msgstr "Problemă la conectarea cu saitul de traducere."
+
+#: translator/translatorwidget.cpp:238
+msgctxt "Translate from language"
+msgid "From:"
+msgstr "Din:"
+
+#: translator/translatorwidget.cpp:244
+msgctxt "Translate to language"
+msgid "To:"
+msgstr "În:"
+
+#: translator/translatorwidget.cpp:257
+msgctxt "Invert language choices so that from becomes to and to becomes from"
+msgid "Invert"
+msgstr "Inversează"
+
+#: translator/translatorwidget.cpp:262 translator/translatorwidget.cpp:265
+msgid "Clear"
+msgstr "Curăță"
+
+#: translator/translatorwidget.cpp:270 translator/translatorwidget.cpp:273
+msgid "Translate"
+msgstr "Tradu"
+
+#: translator/translatorwidget.cpp:281
+msgid "Debug"
+msgstr "Depanare"
+
+#: translator/translatorwidget.cpp:299
+msgid "Drag text that you want to translate."
+msgstr "Trageți textul pe care doriți să-l traduceți."
+
+#: translator/translatorwidget.cpp:329
+#, fuzzy
+#| msgid "Translate"
+msgid "&Translator"
+msgstr "Tradu"
+
+#: translator/translatorwidget.cpp:374
+msgid "No network connection detected, we cannot translate text."
+msgstr ""
+
+#: translator/translatorwidget.cpp:410
+msgid "Translate error"
+msgstr "Eroare de traducere"
+
+#: util/createresource.cpp:77
+#, kde-format
+msgid "Resource type '%1' is not available."
+msgstr "Tipul de resursă „%1” nu este disponibil."
+
+#: util/createresource.cpp:87
+#, kde-format
+msgid "Resource '%1' is already set up."
+msgstr "Resursa „%1” este configurată deja."
+
+#: util/createresource.cpp:93
+#, kde-format
+msgid "Creating resource instance for '%1'..."
+msgstr "Se creează o instanță de resursă pentru „%1”..."
+
+#: util/createresource.cpp:99
+msgid "Configuring resource instance..."
+msgstr "Se configurează instanța de resursă..."
+
+#: util/createresource.cpp:102
+msgid "Unable to configure resource instance."
+msgstr "Instanța de resursă nu a putut fi configurată."
+
+#: util/createresource.cpp:117
+#, kde-format
+msgid "Could not convert value of setting '%1' to required type %2."
+msgstr ""
+
+#: util/createresource.cpp:123
+#, kde-format
+msgid "Could not set setting '%1': %2"
+msgstr ""
+
+#: util/createresource.cpp:133
+msgid "Resource setup completed."
+msgstr "Configurarea resursei s-a încheiat."
+
+#: util/createresource.cpp:137
+#, kde-format
+msgid "Failed to create resource instance: %1"
+msgstr ""
+
+#: util/pimutil.cpp:77
+#, kde-format
+msgid ""
+"Could not write the file %1:\n"
+"\"%2\" is the detailed error description."
+msgstr ""
+
+#: util/pimutil.cpp:81
+msgid "Save File Error"
+msgstr ""
+
+#: util/pimutil.cpp:113
+#, kde-format
+msgid ""
+"Could not read the file %1:\n"
+"\"%2\" is the detailed error description."
+msgstr ""
+
+#: util/pimutil.cpp:117
+msgid "Load File Error"
+msgstr ""
+
+#: webshortcut/webshortcutmenumanager.cpp:80
+#, kde-format
+msgid "Search for '%1' with"
+msgstr ""
+
+#: webshortcut/webshortcutmenumanager.cpp:85
+#, kde-format
+msgctxt "@action:inmenu Search for <text> with"
+msgid "%1"
+msgstr ""
+
+#: webshortcut/webshortcutmenumanager.cpp:94
+msgid "Configure Web Shortcuts..."
+msgstr ""
+
+#: widgets/annotationdialog.cpp:78
+#, fuzzy
+#| msgid "Delete template"
+msgctxt "@title:window"
+msgid "Edit Note"
+msgstr "Șterge șablonul"
+
+#: widgets/annotationdialog.cpp:81
+#, fuzzy
+#| msgid "Delete template"
+msgctxt "@action:button"
+msgid "Delete Note"
+msgstr "Șterge șablonul"
+
+#: widgets/annotationdialog.cpp:85
+msgctxt "@title:window"
+msgid "Add Note"
+msgstr ""
+
+#: widgets/annotationdialog.cpp:90
+msgid "Enter the text that should be stored as a note to the mail:"
+msgstr ""
+
+#: widgets/annotationdialog.cpp:99
+msgctxt "@label:listbox"
+msgid "Note type:"
+msgstr ""
+
+#: widgets/annotationdialog.cpp:103
+#, fuzzy
+#| msgid "Name:"
+msgctxt "@item:inlistbox"
+msgid "Private note"
+msgstr "Denumire:"
+
+#: widgets/annotationdialog.cpp:104
+#, fuzzy
+#| msgid "Name:"
+msgctxt "@item:inlistbox"
+msgid "Shared note"
+msgstr "Denumire:"
+
+#: widgets/annotationdialog.cpp:146
+#, fuzzy
+#| msgid "Do you want to delete selected template?"
+msgid "Do you really want to delete this note?"
+msgstr "Doriți să ștergeți șablonul ales?"
+
+#: widgets/annotationdialog.cpp:147
+#, fuzzy
+#| msgid "Delete template"
+msgctxt "@title:window"
+msgid "Delete Note?"
+msgstr "Șterge șablonul"
+
+#: widgets/annotationdialog.cpp:148
+#, fuzzy
+#| msgid "Delete template"
+msgctxt "@action:button"
+msgid "Delete"
+msgstr "Șterge șablonul"
+
+#: widgets/configureimmutablewidgetutils.cpp:40
+msgid ""
+"<qt><p>This setting has been fixed by your administrator.</p><p>If you think "
+"this is an error, please contact him.</p></qt>"
+msgstr ""
+
+#: widgets/emailaddressrequester.cpp:90
+msgid "Open Address Book"
+msgstr ""
+
+#: widgets/kactionmenuchangecase.cpp:26
+#, fuzzy
+#| msgid "Change Value"
+msgid "Change Case"
+msgstr "Modifică valoarea"
+
+#: widgets/kactionmenuchangecase.cpp:27
+msgid "Uppercase"
+msgstr ""
+
+#: widgets/kactionmenuchangecase.cpp:30
+msgid "Sentence case"
+msgstr ""
+
+#: widgets/kactionmenuchangecase.cpp:33
+msgid "Lowercase"
+msgstr ""
+
+#: widgets/kactionmenuchangecase.cpp:36
+msgid "Reverse Case"
+msgstr ""
+
+#: widgets/lineeditwithcompleter.cpp:40
+msgid "Clear History"
+msgstr ""
+
+#: widgets/manageaccountwidget.cpp:175
+#, fuzzy, kde-format
+#| msgid "Do you want to delete selected template?"
+msgid "Do you want to remove account '%1'?"
+msgstr "Doriți să ștergeți șablonul ales?"
+
+#: widgets/manageaccountwidget.cpp:176
+#, fuzzy
+#| msgid "Remove Entry"
+msgid "Remove account?"
+msgstr "Elimină înregistrarea"
+
+#: widgets/renamefiledialog.cpp:127
+msgid "File Already Exists"
+msgstr "Fișierul există deja"
+
+#: widgets/renamefiledialog.cpp:130
+#, kde-format
+msgid ""
+"A file named <filename>%1</filename> already exists. Do you want to "
+"overwrite it?"
+msgstr ""
+"Există deja un fișier cu denumirea <filename>%1</filename>. Doriți să-l "
+"suprascrieți?"
+
+#: widgets/renamefiledialog.cpp:140
+msgid "Suggest New &Name"
+msgstr "Sugerează o de&numire nouă"
+
+#: widgets/renamefiledialog.cpp:144
+msgid "&Overwrite"
+msgstr "&Suprascrie"
+
+#: widgets/renamefiledialog.cpp:147
+msgid "&Ignore"
+msgstr "&Ignoră"
+
+#: widgets/renamefiledialog.cpp:150
+msgid "&Rename"
+msgstr "&Redenumește"
+
+#: widgets/renamefiledialog.cpp:160
+msgid "Appl&y to All"
+msgstr "Aplică la &toate"
+
+#: widgets/renamefiledialog.cpp:209
+#, kde-format
+msgid "This filename \"%1\" already exists."
+msgstr "Denumirea de fișier „%1” există deja."
+
+#: widgets/renamefiledialog.cpp:209
+msgid "File already exists"
+msgstr "Fișierul există deja."
+
+#: widgets/simplestringlisteditor.cpp:63
+msgid "New entry:"
+msgstr "Înregistrare nouă:"
+
+#: widgets/simplestringlisteditor.cpp:87
+msgid "&Add..."
+msgstr "&Adaugă..."
+
+#. i18n: ectx: property (text), widget (QPushButton, mModifyAccountButton)
+#: widgets/simplestringlisteditor.cpp:98 widgets/ui/manageaccountwidget.ui:46
+msgid "&Modify..."
+msgstr "&Modifică..."
+
+#: widgets/simplestringlisteditor.cpp:111
+msgid "&Remove"
+msgstr "&Elimină"
+
+#: widgets/simplestringlisteditor.cpp:238
+msgid "New Value"
+msgstr "Valoare nouă"
+
+#: widgets/simplestringlisteditor.cpp:279
+msgid "Change Value"
+msgstr "Modifică valoarea"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: widgets/ui/manageaccountwidget.ui:19
+msgid "Incoming accounts (add at least one):"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mAddAccountButton)
+#: widgets/ui/manageaccountwidget.ui:36
+#, fuzzy
+#| msgid "Add..."
+msgid "A&dd..."
+msgstr "Adaugă..."
+
+#. i18n: ectx: property (text), widget (QPushButton, mRestartAccountButton)
+#: widgets/ui/manageaccountwidget.ui:73
+msgid "Restart"
+msgstr ""
+
+#, fuzzy
+#~| msgid "&Ignore"
+#~ msgid "Ignore"
+#~ msgstr "&Ignoră"
+
+#, fuzzy
+#~| msgid "&Rename"
+#~ msgid "Filename"
+#~ msgstr "&Redenumește"
+
+#, fuzzy
+#~| msgid "Name:"
+#~ msgid "Filename:"
+#~ msgstr "Denumire:"
+
+#, fuzzy
+#~| msgid "Delete template"
+#~ msgid "Folder Name"
+#~ msgstr "Șterge șablonul"
+
+#, fuzzy
+#~| msgid "Delete template"
+#~ msgid "Folder:"
+#~ msgstr "Șterge șablonul"
+
+#, fuzzy
+#~| msgid "Translator Debug"
+#~ msgid "TranslatorTest_Gui"
+#~ msgstr "Depanare traducător"
+
+#, fuzzy
+#~| msgid "&Modify..."
+#~ msgid "Modify"
+#~ msgstr "&Modifică..."
+
+#, fuzzy
+#~| msgid "Name:"
+#~ msgid "name: %1"
+#~ msgstr "Denumire:"

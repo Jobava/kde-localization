@@ -1,0 +1,35 @@
+# Sergiu Bivol <sergiu@ase.md>, 2012, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-05-01 09:06+0000\n"
+"PO-Revision-Date: 2015-04-26 14:20+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: ktp-approver.desktop:4
+msgctxt "Comment"
+msgid "KTp Approver"
+msgstr "KTp Approver"
+
+#: src/ktp_approver.desktop:2
+msgctxt "Name"
+msgid "Instant Messaging Approver"
+msgstr "Informator pentru mesageria instantanee"
+
+#: src/ktp_approver.desktop:49
+msgctxt "Comment"
+msgid ""
+"Shows notifications for incoming IM/Call requests and allows you to open a "
+"handler to answer"
+msgstr ""
+"Arată notificări pentru apelurile și mesajele de intrare și vă permite să "
+"deschideți un manipulant pentru a răspunde"

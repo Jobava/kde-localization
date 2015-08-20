@@ -1,0 +1,310 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-04 12:42+0000\n"
+"PO-Revision-Date: 2010-01-19 23:12+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: localpatchsource.cpp:45
+msgid "Custom Patch"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, localPatchOptions)
+#: localpatchwidget.ui:17
+msgid "Patch"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: localpatchwidget.ui:26
+msgid "Base:"
+msgstr "Bază:"
+
+#. i18n: ectx: property (placeholderText), widget (KUrlRequester, baseDir)
+#: localpatchwidget.ui:33
+msgid "Patch base..."
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, fileTab)
+#: localpatchwidget.ui:44
+#, fuzzy
+#| msgid "File"
+msgid "From File"
+msgstr "Fișier"
+
+#. i18n: ectx: property (placeholderText), widget (KUrlRequester, filename)
+#: localpatchwidget.ui:50
+msgid "Patch location..."
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, commandTab)
+#: localpatchwidget.ui:58
+msgid "From Command"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, command)
+#: localpatchwidget.ui:64
+#, fuzzy
+msgid "Command's output..."
+msgstr "Ieșire comandă"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, applied)
+#: localpatchwidget.ui:75
+msgid "Patch is already applied on local version"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, applied)
+#: localpatchwidget.ui:78
+msgid "Already applied"
+msgstr ""
+
+#: patchhighlighter.cpp:84
+msgid "<b><span style=\"color:red\">Conflict</span></b><br/>"
+msgstr "<b><span style=\"color:red\">Conflict</span></b><br/>"
+
+#: patchhighlighter.cpp:92
+#, fuzzy
+#| msgid "<b>Applied.</b><br/>"
+msgid "Applied.<br/>"
+msgstr "<b>Aplicat.</b><br/>"
+
+#: patchhighlighter.cpp:95 patchhighlighter.cpp:110
+#, fuzzy
+#| msgid "<b>Insertion</b><br/>"
+msgid "Insertion<br/>"
+msgstr "<b>Inserare</b><br/>"
+
+#: patchhighlighter.cpp:98 patchhighlighter.cpp:107
+#, fuzzy
+#| msgid "<b>Reverted.</b><br/>"
+msgid "Removal<br/>"
+msgstr "<b>Revocat.</b><br/>"
+
+#: patchhighlighter.cpp:99
+#, fuzzy
+#| msgid "<b>Previous:</b><br/>"
+msgid "Previous:<br/>"
+msgstr "<b>Precedent:</b><br/>"
+
+#: patchhighlighter.cpp:104
+#, fuzzy
+#| msgid "<b>Reverted.</b><br/>"
+msgid "Reverted.<br/>"
+msgstr "<b>Revocat.</b><br/>"
+
+#: patchhighlighter.cpp:112
+#, fuzzy
+#| msgid "<b>Alternative:</b><br/>"
+msgid "Alternative:<br/>"
+msgstr "<b>Alternativă:</b><br/>"
+
+#: patchhighlighter.cpp:214
+#, kde-format
+msgid "Could not apply the change: Text should be \"%1\", but is \"%2\"."
+msgstr ""
+
+#: patchhighlighter.cpp:368 patchhighlighter.cpp:375
+msgid "Insertion"
+msgstr "Inserare"
+
+#: patchhighlighter.cpp:370 patchhighlighter.cpp:377
+msgid "Removal"
+msgstr "Eliminare"
+
+#: patchhighlighter.cpp:372 patchhighlighter.cpp:379
+msgid "Change"
+msgstr "Modificare"
+
+#: patchreview.cpp:274 patchreview.cpp:276
+msgid "Kompare Model Update"
+msgstr ""
+
+#: patchreview.cpp:407
+msgid "Overview"
+msgstr ""
+
+#: patchreview.cpp:434 patchreview.cpp:473
+msgid "Patch Review"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QToolButton, finishReview)
+#: patchreview.cpp:459 patchreview.cpp:484 patchreview.ui:134
+msgid "Finish Review"
+msgstr "Termină revizia"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, EditPatch)
+#: patchreview.ui:14
+msgid "Edit Patch"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, previousFile)
+#: patchreview.ui:24
+#, fuzzy
+#| msgid "File"
+msgid "Previous file"
+msgstr "Fișier"
+
+#. i18n: ectx: property (text), widget (QToolButton, previousFile)
+#. i18n: ectx: property (text), widget (QToolButton, previousHunk)
+#. i18n: ectx: property (text), widget (QToolButton, nextHunk)
+#. i18n: ectx: property (text), widget (QToolButton, nextFile)
+#: patchreview.ui:27 patchreview.ui:37 patchreview.ui:47 patchreview.ui:57
+msgid "..."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, previousHunk)
+#: patchreview.ui:34
+#, fuzzy
+#| msgid "File"
+msgid "Previous difference"
+msgstr "Fișier"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, nextHunk)
+#: patchreview.ui:44
+msgid "Next difference"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, nextFile)
+#: patchreview.ui:54
+msgid "Next file"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, updateButton)
+#: patchreview.ui:83
+msgid "Update"
+msgstr "Actualizează"
+
+#. i18n: ectx: property (text), widget (QPushButton, testsButton)
+#: patchreview.ui:90
+msgid "Run Tests"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QToolButton, exportReview)
+#: patchreview.ui:117
+msgid "Export Diff..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, cancelReview)
+#: patchreview.ui:127
+msgid "Cancel Review"
+msgstr "Anulează revizia"
+
+#. i18n: ectx: property (title), widget (QGroupBox, filesGroup)
+#: patchreview.ui:153
+msgid "Changes"
+msgstr "Modificări"
+
+#: patchreviewtoolview.cpp:83
+#, kde-format
+msgctxt "%1: number of changed hunks, %2: file name"
+msgid "%2 (1 hunk)"
+msgid_plural "%2 (%1 hunks)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: patchreviewtoolview.cpp:222
+#, kde-format
+msgid "<qt>You can find the new request at:<br /><a href='%1'>%1</a> </qt>"
+msgstr ""
+
+#: patchreviewtoolview.cpp:225
+msgid "Error exporting"
+msgstr ""
+
+#: patchreviewtoolview.cpp:225
+#, kde-format
+msgid ""
+"Couldn't export the patch.\n"
+"%1"
+msgstr ""
+
+#: patchreviewtoolview.cpp:249
+msgid "Select All"
+msgstr ""
+
+#: patchreviewtoolview.cpp:251
+msgid "Deselect All"
+msgstr ""
+
+#: patchreviewtoolview.cpp:527
+msgid "Running tests: %p%"
+msgstr ""
+
+#: patchreviewtoolview.cpp:555
+#, kde-format
+msgid "Test passed"
+msgid_plural "All %1 tests passed"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: patchreviewtoolview.cpp:559
+#, kde-format
+msgid "Test results: %1 passed, %2 failed, %3 errors"
+msgstr ""
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Sergiu Bivol"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "sergiu@ase.md"
+
+#~ msgid "The files are identical."
+#~ msgstr "Fișierele sînt identice."
+
+#~ msgid "Could not write to the temporary file."
+#~ msgstr "Nu s-a putut scrie în fișierul temporar."
+
+#~ msgid "Show"
+#~ msgstr "Arată"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style="
+#~ "\" white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+#~ "weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+#~ "top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+#~ "indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">File:</"
+#~ "span></p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style="
+#~ "\" white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+#~ "weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+#~ "top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+#~ "indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Fișier:</"
+#~ "span></p></body></html>"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style="
+#~ "\" white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+#~ "weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+#~ "top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+#~ "indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Command:</"
+#~ "span></p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style="
+#~ "\" white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+#~ "weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+#~ "top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+#~ "indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Comandă:</"
+#~ "span></p></body></html>"
+
+#, fuzzy
+#~| msgid "Update"
+#~ msgctxt "VCS file status"
+#~ msgid "Up To Date"
+#~ msgstr "Actualizează"

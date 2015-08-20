@@ -1,0 +1,637 @@
+# translation of kabc to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kabc package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: kabc\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-07-26 20:48+0000\n"
+"PO-Revision-Date: 2013-05-25 09:10+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: address.cpp:371
+msgid "Post Office Box"
+msgstr "Căsuță poștală"
+
+#: address.cpp:387
+msgid "Extended Address Information"
+msgstr "Informații adresă extinse"
+
+#: address.cpp:403
+msgid "Street"
+msgstr "Strada"
+
+#: address.cpp:419
+msgid "Locality"
+msgstr "Localitate"
+
+#: address.cpp:435
+msgid "Region"
+msgstr "Regiune"
+
+#: address.cpp:451
+msgid "Postal Code"
+msgstr "Cod poștal"
+
+#: address.cpp:467
+msgid "Country"
+msgstr "Țară"
+
+#: address.cpp:483
+msgid "Delivery Label"
+msgstr "Etichetă livrare"
+
+#: address.cpp:500
+msgctxt "Preferred address"
+msgid "Preferred"
+msgstr "Preferată"
+
+#: address.cpp:505
+msgctxt "Address is in home country"
+msgid "Domestic"
+msgstr "Domiciliu"
+
+#: address.cpp:508
+msgctxt "Address is not in home country"
+msgid "International"
+msgstr "Internațională"
+
+#: address.cpp:511
+msgctxt "Address for delivering letters"
+msgid "Postal"
+msgstr "Poștală"
+
+#: address.cpp:514
+msgctxt "Address for delivering packages"
+msgid "Parcel"
+msgstr ""
+
+#: address.cpp:517
+msgctxt "Home Address"
+msgid "Home"
+msgstr "Acasă"
+
+#: address.cpp:520
+msgctxt "Work Address"
+msgid "Work"
+msgstr "Serviciu"
+
+#: address.cpp:523
+msgid "Preferred Address"
+msgstr "Adresa preferată"
+
+#: address.cpp:526
+msgctxt "another type of address"
+msgid "Other"
+msgstr "Alta"
+
+#: addressee.cpp:438
+msgid "Unique Identifier"
+msgstr "Identificator unic"
+
+#: addressee.cpp:458
+msgid "Name"
+msgstr "Nume"
+
+#: addressee.cpp:602
+msgid "Formatted Name"
+msgstr "Nume formatat"
+
+#: addressee.cpp:622
+msgid "Family Name"
+msgstr "Nume de familie"
+
+#: addressee.cpp:642
+#, fuzzy
+msgid "Given Name"
+msgstr "Nume dat"
+
+#: addressee.cpp:662
+msgid "Additional Names"
+msgstr "Nume suplimentare"
+
+#: addressee.cpp:682
+msgid "Honorific Prefixes"
+msgstr "Prefixe onorifice"
+
+#: addressee.cpp:702
+msgid "Honorific Suffixes"
+msgstr "Sufixe onorifice"
+
+#: addressee.cpp:722
+msgid "Nick Name"
+msgstr "Poreclă"
+
+#: addressee.cpp:742
+msgid "Birthday"
+msgstr "Zi de naștere"
+
+#: addressee.cpp:747
+msgid "Home Address Street"
+msgstr ""
+
+#: addressee.cpp:752
+#, fuzzy
+#| msgid "Post Office Box"
+msgid "Home Address Post Office Box"
+msgstr "Căsuță poștală"
+
+#: addressee.cpp:757
+msgid "Home Address City"
+msgstr ""
+
+#: addressee.cpp:762
+msgid "Home Address State"
+msgstr ""
+
+#: addressee.cpp:767
+msgid "Home Address Zip Code"
+msgstr ""
+
+#: addressee.cpp:772
+msgid "Home Address Country"
+msgstr ""
+
+#: addressee.cpp:777
+msgid "Home Address Label"
+msgstr ""
+
+#: addressee.cpp:782
+msgid "Business Address Street"
+msgstr ""
+
+#: addressee.cpp:787
+#, fuzzy
+#| msgid "Post Office Box"
+msgid "Business Address Post Office Box"
+msgstr "Căsuță poștală"
+
+#: addressee.cpp:792
+msgid "Business Address City"
+msgstr ""
+
+#: addressee.cpp:797
+msgid "Business Address State"
+msgstr ""
+
+#: addressee.cpp:802
+msgid "Business Address Zip Code"
+msgstr ""
+
+#: addressee.cpp:807
+msgid "Business Address Country"
+msgstr ""
+
+#: addressee.cpp:812
+msgid "Business Address Label"
+msgstr ""
+
+#: addressee.cpp:817
+msgid "Home Phone"
+msgstr "Telefon la domiciliu"
+
+#: addressee.cpp:822
+msgid "Business Phone"
+msgstr "Telefon de afaceri"
+
+#: addressee.cpp:827
+msgid "Mobile Phone"
+msgstr "Telefon mobil"
+
+#: addressee.cpp:832 phonenumber.cpp:224
+msgid "Home Fax"
+msgstr "Fax acasă"
+
+#: addressee.cpp:837
+msgid "Business Fax"
+msgstr ""
+
+#: addressee.cpp:842
+msgid "Car Phone"
+msgstr "Telefon în mașină"
+
+#: addressee.cpp:847 phonenumber.cpp:197
+msgid "ISDN"
+msgstr "ISDN"
+
+#: addressee.cpp:852 phonenumber.cpp:203
+msgid "Pager"
+msgstr "Pager"
+
+#: addressee.cpp:857
+msgid "Email Address"
+msgstr "Adresă de e-mail"
+
+#: addressee.cpp:877
+msgid "Mail Client"
+msgstr "Program de poștă electronică"
+
+#: addressee.cpp:897
+msgid "Time Zone"
+msgstr "Fus orar"
+
+#: addressee.cpp:917
+msgid "Geographic Position"
+msgstr "Poziție geografică"
+
+#: addressee.cpp:937
+msgctxt "a person's title"
+msgid "Title"
+msgstr "Titlu"
+
+#: addressee.cpp:957
+msgctxt "of a person in an organization"
+msgid "Role"
+msgstr "Rol"
+
+#: addressee.cpp:977 field.cpp:236
+msgid "Organization"
+msgstr "Organizație"
+
+#: addressee.cpp:997
+msgid "Department"
+msgstr "Departament"
+
+#: addressee.cpp:1017
+msgid "Note"
+msgstr "Notă"
+
+#: addressee.cpp:1037
+msgid "Product Identifier"
+msgstr "Identificator produs"
+
+#: addressee.cpp:1057
+msgid "Revision Date"
+msgstr "Dată revizie"
+
+#: addressee.cpp:1077
+msgid "Sort String"
+msgstr "Sortează șirul"
+
+#: addressee.cpp:1109
+msgid "Homepage"
+msgstr "Pagină WEB"
+
+#: addressee.cpp:1129
+msgid "Security Class"
+msgstr "Clasă de securitate"
+
+#: addressee.cpp:1149
+msgid "Logo"
+msgstr "Logo"
+
+#: addressee.cpp:1169
+msgid "Photo"
+msgstr "Fotografie"
+
+#: addressee.cpp:1189
+msgid "Sound"
+msgstr "Sunet"
+
+#: addresseehelper.cpp:81
+msgid "Dr."
+msgstr "Dr."
+
+#: addresseehelper.cpp:82
+msgid "Miss"
+msgstr "Domnișoara"
+
+#: addresseehelper.cpp:83
+msgid "Mr."
+msgstr "Dl."
+
+#: addresseehelper.cpp:84
+msgid "Mrs."
+msgstr "D-na."
+
+#: addresseehelper.cpp:85
+msgid "Ms."
+msgstr "D-șoara."
+
+#: addresseehelper.cpp:86
+msgid "Prof."
+msgstr "Prof."
+
+#: addresseehelper.cpp:88
+msgid "I"
+msgstr "I"
+
+#: addresseehelper.cpp:89
+msgid "II"
+msgstr "II"
+
+#: addresseehelper.cpp:90
+msgid "III"
+msgstr "III"
+
+#: addresseehelper.cpp:91
+msgid "Jr."
+msgstr "Jr."
+
+#: addresseehelper.cpp:92
+msgid "Sr."
+msgstr "Sr."
+
+#: field.cpp:213
+msgid "Unknown Field"
+msgstr "Cîmp necunoscut"
+
+#: field.cpp:226
+msgid "All"
+msgstr "Toate"
+
+#: field.cpp:228
+msgid "Frequent"
+msgstr "Frecvent"
+
+#: field.cpp:230
+msgctxt "street/postal"
+msgid "Address"
+msgstr "Adresă"
+
+#: field.cpp:232
+msgid "Email"
+msgstr "Email"
+
+#: field.cpp:234
+msgid "Personal"
+msgstr "Personal"
+
+#: field.cpp:238
+msgid "Custom"
+msgstr "Personalizat"
+
+#: field.cpp:240
+msgid "Undefined"
+msgstr "Nedefinit"
+
+#: key.cpp:216
+msgctxt "X.509 public key"
+msgid "X509"
+msgstr "X509"
+
+#: key.cpp:219
+msgctxt "Pretty Good Privacy key"
+msgid "PGP"
+msgstr "PGP"
+
+#: key.cpp:222
+msgctxt "A custom key"
+msgid "Custom"
+msgstr "Personalizat"
+
+#: key.cpp:225
+msgctxt "another type of encryption key"
+msgid "Unknown type"
+msgstr "Tip necunoscut"
+
+#: phonenumber.cpp:164
+msgctxt "Home phone"
+msgid "Home"
+msgstr "Acasă"
+
+#: phonenumber.cpp:167
+msgctxt "Work phone"
+msgid "Work"
+msgstr "Serviciu"
+
+#: phonenumber.cpp:170
+msgid "Messenger"
+msgstr "Mesager"
+
+#: phonenumber.cpp:173
+msgctxt "Preferred phone"
+msgid "Preferred"
+msgstr "Preferat"
+
+#: phonenumber.cpp:176
+msgid "Voice"
+msgstr "Voce"
+
+#: phonenumber.cpp:179
+msgid "Fax"
+msgstr "Fax"
+
+#: phonenumber.cpp:182
+msgctxt "Mobile Phone"
+msgid "Mobile"
+msgstr "Mobil"
+
+#: phonenumber.cpp:185
+msgctxt "Video phone"
+msgid "Video"
+msgstr "Video"
+
+#: phonenumber.cpp:188
+msgid "Mailbox"
+msgstr "Cutie poștală"
+
+#: phonenumber.cpp:191
+msgid "Modem"
+msgstr "Modem"
+
+#: phonenumber.cpp:194
+msgctxt "Car Phone"
+msgid "Car"
+msgstr "Mașină"
+
+#: phonenumber.cpp:200
+msgid "PCS"
+msgstr "PCS"
+
+#: phonenumber.cpp:206
+msgctxt "another type of phone"
+msgid "Other"
+msgstr "Alta"
+
+#: phonenumber.cpp:219
+msgid "Preferred Number"
+msgstr "Număr preferat"
+
+#: phonenumber.cpp:229
+msgid "Work Fax"
+msgstr "Fax serviciu"
+
+#: secrecy.cpp:111
+msgctxt "access is for everyone"
+msgid "Public"
+msgstr "Public"
+
+#: secrecy.cpp:114
+msgctxt "access is by owner only"
+msgid "Private"
+msgstr "Privat"
+
+#: secrecy.cpp:117
+msgctxt "access is by owner and a controlled group"
+msgid "Confidential"
+msgstr "Confidențial"
+
+#: secrecy.cpp:120
+msgctxt "unknown secrecy type"
+msgid "Unknown type"
+msgstr "Tip necunoscut"
+
+#~ msgid "List of Emails"
+#~ msgstr "Lista adreselor"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Sergiu Bivol"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "sergiu@ase.md"
+
+#~ msgid "Unable to load resource '%1'"
+#~ msgstr "Imposibil de încărcat resursa „%1”"
+
+#~ msgctxt "@title:window"
+#~ msgid "Select Addressee"
+#~ msgstr "Alege destinatar"
+
+#~ msgctxt "@title:column addressee name"
+#~ msgid "Name"
+#~ msgstr "Nume"
+
+#~ msgctxt "@title:column addressee email"
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgctxt "@title:group selected addressees"
+#~ msgid "Selected"
+#~ msgstr "Selectat"
+
+#~ msgctxt "@action:button unselect addressee"
+#~ msgid "Unselect"
+#~ msgstr "Deselectează"
+
+#~ msgid "Configure Distribution Lists"
+#~ msgstr "Configurează liste de disctribuție"
+
+#~ msgid "Select Email Address"
+#~ msgstr "Alege adresa de email"
+
+#~ msgid "Email Addresses"
+#~ msgstr "Adrese e-mail"
+
+#~ msgctxt "this the preferred email address"
+#~ msgid "Yes"
+#~ msgstr "Da"
+
+#~ msgctxt "this is not the preferred email address"
+#~ msgid "No"
+#~ msgstr "Nu"
+
+#~ msgid "New List..."
+#~ msgstr "Listă nouă..."
+
+#~ msgid "Rename List..."
+#~ msgstr "Redenumire listă..."
+
+#~ msgid "Remove List"
+#~ msgstr "Elimină lista"
+
+#~ msgid "Available addresses:"
+#~ msgstr "Adrese disponibile:"
+
+#~ msgctxt "@title:column addressee preferred email"
+#~ msgid "Preferred Email"
+#~ msgstr "Email preferat"
+
+#~ msgid "Add Entry"
+#~ msgstr "Adaugă înregistrare"
+
+#~ msgctxt "@title:column addressee preferred email"
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgctxt "@title:column use preferred email"
+#~ msgid "Use Preferred"
+#~ msgstr "Utilizează preferat"
+
+#~ msgid "Change Email..."
+#~ msgstr "Schimbare email..."
+
+#~ msgid "Remove Entry"
+#~ msgstr "Elimină înregistrarea"
+
+#~ msgid "New Distribution List"
+#~ msgstr "Listă de distribuție nouă"
+
+#~ msgid "Please enter &name:"
+#~ msgstr "Introduceți de&numirea:"
+
+#~ msgid "Distribution List"
+#~ msgstr "Listă de distribuție"
+
+#~ msgid "Please change &name:"
+#~ msgstr "Schimbați de&numirea:"
+
+#~ msgid "Delete distribution list '%1'?"
+#~ msgstr "Ștergeți lista de distribuție „%1”?"
+
+#~ msgid "Selected addressees:"
+#~ msgstr "Destinatari aleși:"
+
+#~ msgctxt "this is not preferred email address"
+#~ msgid "No"
+#~ msgstr "Nu"
+
+#~ msgid "vCard"
+#~ msgstr "vCard"
+
+#~ msgid "vCard Format"
+#~ msgstr "Format vCard"
+
+#~ msgid "No description available."
+#~ msgstr "Nicio descriere disponibilă."
+
+#~ msgid "Unable to open lock file."
+#~ msgstr "Imposibil de deschis fișierul de blocare."
+
+#~ msgid "The resource '%1' is locked by application '%2'."
+#~ msgstr "Resursa „%1” este blocată de aplicația „%2”."
+
+#~ msgid "Error"
+#~ msgstr "Eroare"
+
+#~ msgid "Unlock failed. Lock file is owned by other process: %1 (%2)"
+#~ msgstr ""
+#~ "Deblocarea a eșuat. Fișierul de blocare este deținut de alt proces: %1 "
+#~ "(%2)"
+
+#~ msgid "LockNull: All locks succeed but no actual locking is done."
+#~ msgstr ""
+#~ "LockNull: Toate blocările reușesc dar nu are loc blocarea propriu-zisă."
+
+#~ msgid "LockNull: All locks fail."
+#~ msgstr "LockNull: Toate blocările eșuează."
+
+#~ msgid "Loading resource '%1' failed."
+#~ msgstr "Încărcarea resursei „%1” a eșuat."
+
+#~ msgid "Saving resource '%1' failed."
+#~ msgstr "Salvarea resursei „%1” a eșuat."
+
+#, fuzzy
+#~| msgid "Unable to load resource '%1'"
+#~ msgid "Unable to open resource '%1'."
+#~ msgstr "Imposibil de încărcat resursa „%1”"
+
+#~ msgid "Default Address Book"
+#~ msgstr "Carte de adrese implicită"
+
+#~ msgid "Unable to save to resource '%1'. It is locked."
+#~ msgstr "Imposibil de salvat în resursa „%1”. Este blocată."

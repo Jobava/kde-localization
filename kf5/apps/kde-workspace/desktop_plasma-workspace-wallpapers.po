@@ -1,0 +1,111 @@
+# Sergiu Bivol <sergiu@cip.md>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-14 12:37+0000\n"
+"PO-Revision-Date: 2015-04-26 14:57+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: Alps/metadata.desktop:2
+msgctxt "Name"
+msgid "Alps"
+msgstr "Alpi"
+
+#: BlueFlower/metadata.desktop:2
+msgctxt "Name"
+msgid "Blue Flower"
+msgstr "Floare albastră"
+
+#: Dance_of_the_Spirits/metadata.desktop:2
+msgctxt "Name"
+msgid "Dance of the Spirits"
+msgstr "Dansul spiritelor"
+
+#: EveningGlow/metadata.desktop:2
+msgctxt "Name"
+msgid "Evening Glow"
+msgstr ""
+
+#: Fog/metadata.desktop:2
+msgctxt "Name"
+msgid "Fog"
+msgstr "Ceață"
+
+#: ForestFog/metadata.desktop:2
+msgctxt "Name"
+msgid "ForestFog"
+msgstr ""
+
+#: ForestHouse/metadata.desktop:2
+msgctxt "Name"
+msgid "Forest House"
+msgstr "Casa din pădure"
+
+#: GereatHeron/metadata.desktop:2
+msgctxt "Name"
+msgid "Great white Heron"
+msgstr ""
+
+#: Green_Leaves/metadata.desktop:2
+msgctxt "Name"
+msgid "Green Leaves"
+msgstr "Frunze verzi"
+
+#: Grey/metadata.desktop:2
+msgctxt "Name"
+msgid "Grey"
+msgstr "Gri"
+
+#: IndianSummer/metadata.desktop:2
+msgctxt "Name"
+msgid "Indian Summer"
+msgstr "Vară indiană"
+
+#: Landmannalaugar/metadata.desktop:2
+msgctxt "Name"
+msgid "Landmannalaugar"
+msgstr "Landmannalaugar"
+
+#: Poppy/metadata.desktop:2
+msgctxt "Name"
+msgid "Poppy"
+msgstr ""
+
+#: Spray/metadata.desktop:2
+msgctxt "Name"
+msgid "Spray"
+msgstr ""
+
+#: Sunset/metadata.desktop:2
+msgctxt "Name"
+msgid "Sunset"
+msgstr "Apus"
+
+#: Tauplitz/metadata.desktop:2
+msgctxt "Name"
+msgid "Tauplitz"
+msgstr "Tauplitz"
+
+#: WalmendingerHorn/metadata.desktop:2
+msgctxt "Name"
+msgid "Walmendinger Horn"
+msgstr ""
+
+#: Water/metadata.desktop:2
+msgctxt "Name"
+msgid "Water"
+msgstr "Apă"
+
+#: Whisker_Grass/metadata.desktop:2
+msgctxt "Name"
+msgid "Whisker Grass"
+msgstr ""

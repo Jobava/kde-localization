@@ -1,0 +1,802 @@
+# Traducerea desktop_playground-network.po în Română
+# translation of desktop_playground-network to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_playground-network package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2009, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_playground-network\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-07-11 02:23+0000\n"
+"PO-Revision-Date: 2014-03-25 16:41+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: guidedog/kde/guidedog.desktop:8
+msgctxt "Name"
+msgid "Guidedog"
+msgstr ""
+
+#: kio_slp/src/mdns.protocol:8
+msgctxt "Description"
+msgid "A kioslave to browse multicast DNS services"
+msgstr ""
+
+#: kio_slp/src/remoteview-slp.desktop:7
+msgctxt "Name"
+msgid "SLP Services"
+msgstr "Servicii SLP"
+
+#: kio_slp/src/service.desktop:8
+msgctxt "Name"
+msgid "Local Network"
+msgstr "Rețea locală"
+
+#: kio_slp/src/service.desktop:44
+msgctxt "Comment"
+msgid "SLP Services and more"
+msgstr ""
+
+#: kio_slp/src/service.protocol:8
+msgctxt "Description"
+msgid "A kioslave to browse services"
+msgstr ""
+
+#: kio_slp/src/slp.protocol:8
+msgctxt "Description"
+msgid "A kioslave to browse SLP services"
+msgstr ""
+
+#: konqueror-sendtoplugin/sendtoplugin.desktop:3
+msgctxt "Comment"
+msgid "Send to menu"
+msgstr "Meniu „Trimite la”"
+
+#: konqueror-sendtoplugin/sendtoplugin.desktop:28
+msgctxt "Name"
+msgid "Send file using Telepathy"
+msgstr "Trimite fișier folosind Telepathy"
+
+#: konsume/konsume.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bandwidth Monitor"
+msgctxt "GenericName"
+msgid "KDE eBay Monitor"
+msgstr "Monitor lățime de bandă"
+
+#: konsume/konsume.desktop:33 konsume/konsume.notifyrc:32
+msgctxt "Name"
+msgid "Konsume"
+msgstr "Konsume"
+
+#: konsume/konsume.notifyrc:3
+msgctxt "Comment"
+msgid "eBay Monitor"
+msgstr "Monitor eBay"
+
+#: konsume/konsume.notifyrc:64
+msgctxt "Name"
+msgid "Auction ending"
+msgstr "Încheiere licitație"
+
+#: konsume/konsume.notifyrc:91
+msgctxt "Comment"
+msgid "An auction is ending soon"
+msgstr "În curînd se încheie o licitație"
+
+#: ksniffer/ksniffer.desktop:2
+msgctxt "Name"
+msgid "KSniffer"
+msgstr "KSniffer"
+
+#: ksniffer/ksniffer.desktop:42
+msgctxt "GenericName"
+msgid "Network Analyzer"
+msgstr "Analizator de rețea"
+
+#: ksniffer/ksniffer.desktop:90
+msgctxt "Comment"
+msgid "A KDE application for sniffing your network"
+msgstr ""
+
+#: kvpnc/src/kvpnc.desktop:2
+msgctxt "Comment"
+msgid "GUI for various VPN clients"
+msgstr "Interfață grafică pentru diverși clienți VPN"
+
+#: kvpnc/src/kvpnc.desktop:39 kvpnc/src/kvpnc.notifyrc:2
+msgctxt "Name"
+msgid "KVpnc"
+msgstr "KVpnc"
+
+#: kvpnc/src/kvpnc.desktop:81
+msgctxt "GenericName"
+msgid "VPN Client GUI"
+msgstr "Inerfață grafică pentru clientul VPN"
+
+#: kvpnc/src/kvpnc.notifyrc:44
+msgctxt "Comment"
+msgid "KVpnc"
+msgstr "KVpnc"
+
+#: kvpnc/src/kvpnc.notifyrc:88
+msgctxt "Name"
+msgid "Connection established"
+msgstr "Conexiune stabilită"
+
+#: kvpnc/src/kvpnc.notifyrc:129
+msgctxt "Comment"
+msgid "The connection has now established"
+msgstr "Conexiunea a fost stabilită acum."
+
+#: kvpnc/src/kvpnc.notifyrc:169
+msgctxt "Name"
+msgid "Connection finished"
+msgstr "Conexiune încheiată"
+
+#: kvpnc/src/kvpnc.notifyrc:205 kvpnc/src/kvpnc.notifyrc:288
+msgctxt "Comment"
+msgid "The connection has now finished"
+msgstr "Conexiunea s-a încheiat acum."
+
+#: kvpnc/src/kvpnc.notifyrc:245
+msgctxt "Name"
+msgid "Connection lost"
+msgstr "Conexiune pierdută"
+
+#: kvpnc/src/kvpnc.notifyrc:328
+msgctxt "Name"
+msgid "Ping sucess"
+msgstr "Ping reușit"
+
+#: kvpnc/src/kvpnc.notifyrc:364
+msgctxt "Comment"
+msgid "Ping was successful"
+msgstr "Ping a reușit"
+
+#: kvpnc/src/kvpnc.notifyrc:405
+msgctxt "Name"
+msgid "Ping failed"
+msgstr "Ping eșuat"
+
+#: kvpnc/src/kvpnc.notifyrc:443
+msgctxt "Comment"
+msgid "The ping was not sucessful"
+msgstr "Ping-ul nu a reușit"
+
+#: kvpnc/src/x-cisco.desktop:7
+msgctxt "Comment"
+msgid "Cisco VPN profile"
+msgstr "Profil VPN Cisco"
+
+#: kvpnc/src/x-openvpn.desktop:7
+msgctxt "Comment"
+msgid "OpenVPN profile file"
+msgstr "Fișier de profil OpenVPN"
+
+#: libktelepathy-examples/offer-dbustube/telepathy_test_offer_dbustube.notifyrc:2
+#: libktelepathy-examples/offer-dbustube/telepathy_test_offer_dbustube.notifyrc:53
+#: libktelepathy-examples/p2pdbustube/telepathy_test_p2pdbustube.notifyrc:53
+msgctxt "Name"
+msgid "OfferDBusTube"
+msgstr ""
+
+#: libktelepathy-examples/offer-dbustube/telepathy_test_offer_dbustube.notifyrc:26
+msgctxt "Comment"
+msgid "OfferDBusTube Events"
+msgstr ""
+
+#: libktelepathy-examples/offer-dbustube/telepathy_test_offer_dbustube.notifyrc:77
+msgctxt "Comment"
+msgid "Received a new OfferDBusTube event"
+msgstr ""
+
+#: libktelepathy-examples/offer-file-transfer/telepathy_test_offer_file_transfer.notifyrc:2
+#: libktelepathy-examples/offer-file-transfer/telepathy_test_offer_file_transfer.notifyrc:53
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "FileTransfer"
+msgctxt "Name"
+msgid "OfferFileTransfer"
+msgstr "TransferFișiere"
+
+#: libktelepathy-examples/offer-file-transfer/telepathy_test_offer_file_transfer.notifyrc:26
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "FileTransfer"
+msgctxt "Comment"
+msgid "OfferFileTransfer Events"
+msgstr "TransferFișiere"
+
+#: libktelepathy-examples/offer-file-transfer/telepathy_test_offer_file_transfer.notifyrc:77
+msgctxt "Comment"
+msgid "Received a new OfferFileTransfer event"
+msgstr ""
+
+#: libktelepathy-examples/offer-local-streamtube/telepathy_test_offer_local_streamtube.notifyrc:2
+#: libktelepathy-examples/offer-local-streamtube/telepathy_test_offer_local_streamtube.notifyrc:51
+msgctxt "Name"
+msgid "OfferLocalStreamTube"
+msgstr ""
+
+#: libktelepathy-examples/offer-local-streamtube/telepathy_test_offer_local_streamtube.notifyrc:25
+msgctxt "Comment"
+msgid "OfferLocalStreamTube Events"
+msgstr ""
+
+#: libktelepathy-examples/offer-local-streamtube/telepathy_test_offer_local_streamtube.notifyrc:74
+msgctxt "Comment"
+msgid "Received a new OfferLocalStreamTube event"
+msgstr ""
+
+#: libktelepathy-examples/offer-tcp-streamtube/telepathy_test_offer_tcp_streamtube.notifyrc:2
+#: libktelepathy-examples/offer-tcp-streamtube/telepathy_test_offer_tcp_streamtube.notifyrc:53
+msgctxt "Name"
+msgid "OfferTcpStreamTube"
+msgstr "OfferTcpStreamTube"
+
+#: libktelepathy-examples/offer-tcp-streamtube/telepathy_test_offer_tcp_streamtube.notifyrc:26
+msgctxt "Comment"
+msgid "OfferTcpStreamTube Events"
+msgstr "Evenimente OfferTcpStreamTube"
+
+#: libktelepathy-examples/offer-tcp-streamtube/telepathy_test_offer_tcp_streamtube.notifyrc:77
+msgctxt "Comment"
+msgid "Received a new OfferTcpStreamTube event"
+msgstr ""
+
+#: libktelepathy-examples/p2pdbustube/telepathy_test_p2pdbustube.notifyrc:2
+msgctxt "Name"
+msgid "DBusTubeHandler"
+msgstr "DBusTubeHandler"
+
+#: libktelepathy-examples/p2pdbustube/telepathy_test_p2pdbustube.notifyrc:26
+msgctxt "Comment"
+msgid "DBusTubeHandler Events"
+msgstr "Evenimente DBusTubeHandler"
+
+#: libktelepathy-examples/p2pdbustube/telepathy_test_p2pdbustube.notifyrc:77
+msgctxt "Comment"
+msgid "Received a new DBusTubeHandler event"
+msgstr ""
+
+#: solid-sysclass/solid_sysclass.desktop:7
+msgctxt "Name"
+msgid "SysClass"
+msgstr "SysClass"
+
+#: solid-sysclass/solid_sysclass.desktop:35
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Network Settings Configuration"
+msgctxt "Comment"
+msgid "Network awareness using /sys information"
+msgstr "Configurarea parametrilor rețelei"
+
+#: videocatcher/src/videocatcher.desktop:2
+msgctxt "Name"
+msgid "Videocatcher"
+msgstr ""
+
+#: videocatcher/src/videocatcher.desktop:33
+msgctxt "GenericName"
+msgid "Internet TV"
+msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Description"
+#~ msgid "Mounts a share"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Unmount action"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Description"
+#~ msgid "Unmounts a share"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Settings"
+#~ msgctxt "Name"
+#~ msgid "Network Neighborhood"
+#~ msgstr "Configurări rețea"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Settings"
+#~ msgctxt "Comment"
+#~ msgid "Network neighborhood browser based on Smb4K"
+#~ msgstr "Configurări rețea"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Settings"
+#~ msgctxt "GenericName"
+#~ msgid "Advanced Network Neighborhood Browser"
+#~ msgstr "Configurări rețea"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript"
+#~ msgstr "JavaScript"
+
+#~ msgctxt "Comment"
+#~ msgid "Add JavaScript bindings"
+#~ msgstr "Adaugă legături JavaScript"
+
+#~ msgctxt "Name"
+#~ msgid "SUSE SMPPPD Connection Status"
+#~ msgstr "Stare conexiune SMPPPD SUSE"
+
+#~ msgctxt "Comment"
+#~ msgid "SMPPPDCS Plugin"
+#~ msgstr "Modul SMPPPDCS"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Connects/disconnects Kopete automatically depending on availability of "
+#~ "Internet connection"
+#~ msgstr ""
+#~ "Conectează/deconectează automat Kopete în dependență de disponibilitatea "
+#~ "conexiunii la Internet"
+
+#~ msgctxt "Name"
+#~ msgid "Thinkpad Light"
+#~ msgstr "Lumină Thinkpad"
+
+#~ msgctxt "Comment"
+#~ msgid "Flashes Thinkpad light on incoming message."
+#~ msgstr "Clipește luminița Thinkpad la mesaj de intrare."
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Network Settings Configuration"
+#~ msgctxt "Name"
+#~ msgid "whiteboard Plugin Configuration"
+#~ msgstr "Configurarea parametrilor rețelei"
+
+#~ msgctxt "Name"
+#~ msgid "KDevmon"
+#~ msgstr "KDevmon"
+
+#~ msgctxt "GenericName"
+#~ msgid "Network traffic applet"
+#~ msgstr "Miniaplicație de trafic în rețea"
+
+#~ msgctxt "Name"
+#~ msgid "Kepas"
+#~ msgstr "Kepas"
+
+#~ msgctxt "Comment"
+#~ msgid "Kepas"
+#~ msgstr "Kepas"
+
+#~ msgctxt "Name"
+#~ msgid "FileTransfer"
+#~ msgstr "TransferFișiere"
+
+#~ msgctxt "Comment"
+#~ msgid "Incoming File Transfer."
+#~ msgstr "Transfer de fișiere de intrare."
+
+#~ msgctxt "Name"
+#~ msgid "SSH"
+#~ msgstr "SSH"
+
+#~ msgctxt "Name"
+#~ msgid "kbluetooth"
+#~ msgstr "kbluetooth"
+
+#~ msgctxt "GenericName"
+#~ msgid "KDE Bluetooth"
+#~ msgstr "KDE Bluetooth"
+
+#~ msgctxt "Name"
+#~ msgid "Wake up"
+#~ msgstr "Trezire"
+
+#~ msgctxt "Keywords"
+#~ msgid "kcmatmosphere,atmosphere"
+#~ msgstr "kcmatmosphere,atmosphere,atmosferă"
+
+#~ msgctxt "Name"
+#~ msgid "ATMOSphere Settings"
+#~ msgstr "Configurări ATMOSphere"
+
+#~ msgctxt "Name"
+#~ msgid "Bandwidth Monitor"
+#~ msgstr "Monitor lățime de bandă"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows the current network usage"
+#~ msgstr "Arată utilizarea actuală a rețelei"
+
+#~ msgctxt "Name"
+#~ msgid "Smart Network Manager"
+#~ msgstr "Gestionar de rețea inteligent"
+
+#~ msgctxt "Name"
+#~ msgid "KNetD"
+#~ msgstr "KNetD"
+
+#~ msgctxt "Name"
+#~ msgid "Network Settings"
+#~ msgstr "Configurări rețea"
+
+#~ msgctxt "Comment"
+#~ msgid "Network Settings Configuration"
+#~ msgstr "Configurarea parametrilor rețelei"
+
+#~ msgctxt "Name"
+#~ msgid "Safra"
+#~ msgstr "Safra"
+
+#~ msgctxt "GenericName"
+#~ msgid "Web Browser"
+#~ msgstr "Navigator de Internet"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Retrieving shares failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Mounting failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Comment"
+#~ msgid "Mounting a share failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Unmounting failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Comment"
+#~ msgid "Unmounting a share failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Unmounting not allowed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Printing failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Comment"
+#~ msgid "Printing a file failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Synchronization failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Searching failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Opening file failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Reading file failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Creating directory failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Comment"
+#~ msgid "Creating the directory failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "System call failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Action failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Mounted shares"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Opening wallet failed"
+#~ msgstr "Ping eșuat"
+
+#~ msgctxt "Name"
+#~ msgid "Aki"
+#~ msgstr "Aki"
+
+#~ msgctxt "GenericName"
+#~ msgid "IRC Client"
+#~ msgstr "Client IRC"
+
+#~ msgctxt "Comment"
+#~ msgid "Aki"
+#~ msgstr "Aki"
+
+#~ msgctxt "Name"
+#~ msgid "Highlight"
+#~ msgstr "Evidențiere"
+
+#~ msgctxt "Comment"
+#~ msgid "Someone triggered a highlight"
+#~ msgstr "Cineva a declanșat o evidențiere"
+
+#~ msgctxt "Name"
+#~ msgid "Private Message"
+#~ msgstr "Mesaj privat"
+
+#~ msgctxt "Comment"
+#~ msgid "You received a private message"
+#~ msgstr "Ați primit un mesaj privat"
+
+#~ msgctxt "Name"
+#~ msgid "Amarok Remote Control"
+#~ msgstr "Telecomandă Amarok"
+
+#~ msgctxt "Comment"
+#~ msgid "Remote control for Amarok2"
+#~ msgstr "Telecomandă pentru Amarok2"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Web Browser"
+#~ msgctxt "Name"
+#~ msgid "Aki Browser"
+#~ msgstr "Navigator de Internet"
+
+#~ msgctxt "Comment"
+#~ msgid "Aki Plugin"
+#~ msgstr "Modul Aki"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Name"
+#~ msgid "Writing to sudoers file failed"
+#~ msgstr "Ping eșuat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ping failed"
+#~ msgctxt "Comment"
+#~ msgid "The writing to the sudoers file failed"
+#~ msgstr "Ping eșuat"
+
+#~ msgctxt "Name"
+#~ msgid "Devices"
+#~ msgstr "Dispozitive"
+
+#~ msgctxt "Name"
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgctxt "Name"
+#~ msgid "Telepathy"
+#~ msgstr "Telepatie"
+
+#~ msgctxt "Comment"
+#~ msgid "Messaging using Telepathy connection managers."
+#~ msgstr "Mesagerie utilizînd gestionarii de conexiune Telepathy."
+
+#~ msgctxt "Name"
+#~ msgid "Instant Messaging and VoIP Accounts"
+#~ msgstr "Mesagerie instantanee și conturi VoIP"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Telepathy"
+#~ msgctxt "Comment"
+#~ msgid "KDE Telepathy"
+#~ msgstr "Telepatie"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Telepathy"
+#~ msgctxt "Name"
+#~ msgid "ktelepathy"
+#~ msgstr "Telepatie"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Incoming Call"
+#~ msgctxt "Name"
+#~ msgid "Incoming Message"
+#~ msgstr "Apel de intrare"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Private Message"
+#~ msgctxt "Name"
+#~ msgid "Low Priority Messages"
+#~ msgstr "Mesaj privat"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "IRC Client"
+#~ msgctxt "Name"
+#~ msgid "IRC Event"
+#~ msgstr "Client IRC"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Connection lost"
+#~ msgctxt "Name"
+#~ msgid "Connection Error"
+#~ msgstr "Conexiune pierdută"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "The connection has now finished"
+#~ msgctxt "Comment"
+#~ msgid "An error on connection has occurred"
+#~ msgstr "Conexiunea s-a încheiat acum."
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Connection lost"
+#~ msgctxt "Name"
+#~ msgid "Connection Lost"
+#~ msgstr "Conexiune pierdută"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "The connection has now finished"
+#~ msgctxt "Comment"
+#~ msgid "The connection have been lost"
+#~ msgstr "Conexiunea s-a încheiat acum."
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Private Message"
+#~ msgctxt "Name"
+#~ msgid "Service Message"
+#~ msgstr "Mesaj privat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Telepathy"
+#~ msgctxt "Name"
+#~ msgid "Telepathy Launcher"
+#~ msgstr "Telepatie"
+
+#~ msgctxt "Comment"
+#~ msgid "KCall"
+#~ msgstr "KCall"
+
+#~ msgctxt "Name"
+#~ msgid "KCall"
+#~ msgstr "KCall"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Decibel Accounts"
+#~ msgstr "Configurează conturi Decibel"
+
+#~ msgctxt "Name"
+#~ msgid "Decibel Account Settings"
+#~ msgstr "Configurări cont Decibel"
+
+#~ msgctxt "Name"
+#~ msgid "Decibel Contact Serializer"
+#~ msgstr "Serializator de contacte Decibel"
+
+#~ msgctxt "Name"
+#~ msgid "rekonq"
+#~ msgstr "rekonq"
+
+#~ msgctxt "GenericName"
+#~ msgid "Webkit KDE Browser"
+#~ msgstr "Navigator KDE Webkit"
+
+#~ msgctxt "Name"
+#~ msgid "VPnc"
+#~ msgstr "VPnc"
+
+#~ msgctxt "Name"
+#~ msgid "Share My Desktop"
+#~ msgstr "Partajează biroul"
+
+#~ msgctxt "Description"
+#~ msgid "Bluetooth inquiry protocol"
+#~ msgstr "Protocol de cercetare Bluetooth"
+
+#~ msgctxt "GenericName"
+#~ msgid "Bluetooth Framework"
+#~ msgstr "Infrastructură Bluetooth"
+
+#~ msgctxt "Comment"
+#~ msgid "Kdebluetooth - KDE4 Bluetooth Framework"
+#~ msgstr "Kdebluetooth - Infrastructura Bluetooth KDE4"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Settings"
+#~ msgctxt "Name"
+#~ msgid "Network"
+#~ msgstr "Setări rețea"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Analyzer"
+#~ msgctxt "Name"
+#~ msgid "Network Watcher"
+#~ msgstr "Analizator de rețea"

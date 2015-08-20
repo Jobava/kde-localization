@@ -1,0 +1,133 @@
+# Traducerea desktop_playground-office.po în Română
+# translation of desktop_playground-office to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_playground-office package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_playground-office\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: 2009-06-04 20:46+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 0.3\n"
+
+#: kofficeplugins/geoshape/geoshape.desktop:2
+msgctxt "Name"
+msgid "Geo Shape"
+msgstr ""
+
+#: pekunia/pekunia/pekunia.desktop:2
+msgctxt "Name"
+msgid "Pekunia"
+msgstr "Pekunia"
+
+#: pekunia/pekunia/pekunia.desktop:46
+msgctxt "Comment"
+msgid "A KDE Bookkeeping Application"
+msgstr "O aplicație KDE de contabilitate"
+
+#~ msgctxt "Name"
+#~ msgid "Kraft"
+#~ msgstr "Kraft"
+
+#~ msgctxt "Name"
+#~ msgid "KMyMoney"
+#~ msgstr "KMyMoney"
+
+#~ msgctxt "GenericName"
+#~ msgid "Personal Finance Manager"
+#~ msgstr "Gestionar personal de finanțe"
+
+#~ msgctxt "Comment"
+#~ msgid "Personal Finance Manager"
+#~ msgstr "Gestionar personal de finanțe"
+
+#~ msgctxt "Name"
+#~ msgid "KMyMoney Importer Plugin"
+#~ msgstr "Modul importator KMyMoney"
+
+#~ msgctxt "Comment"
+#~ msgid "A KMyMoney plugin"
+#~ msgstr "Un modul KMyMoney"
+
+#~ msgctxt "Name"
+#~ msgid "KMyMoney Plugin"
+#~ msgstr "Modul KMyMoney"
+
+#~ msgctxt "Name"
+#~ msgid "KMyMoney OFX"
+#~ msgstr "KMyMoney OFX"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Skrooge print plugin"
+#~ msgctxt "Name"
+#~ msgid "Configure the print check plugin"
+#~ msgstr "Modul de tipărire Skrooge"
+
+#~ msgctxt "Comment"
+#~ msgid "KMyMoney File"
+#~ msgstr "Fișier KMyMoney"
+
+#~ msgctxt "Comment"
+#~ msgid "Skrooge"
+#~ msgstr "Skrooge"
+
+#~ msgctxt "Name"
+#~ msgid "Service Message"
+#~ msgstr "Mesaj de serviciu"
+
+#~ msgctxt "Name"
+#~ msgid "Skrooge plugin"
+#~ msgstr "Modul Skrooge"
+
+#~ msgctxt "Comment"
+#~ msgid "Skrooge plugin"
+#~ msgstr "Modul Skrooge"
+
+#~ msgctxt "Name"
+#~ msgid "Skrooge monthly plugin"
+#~ msgstr "Modul lunar Skrooge"
+
+#~ msgctxt "Comment"
+#~ msgid "A skrooge plugin to print pages"
+#~ msgstr "Modul Skrooge pentru tipărirea paginilor"
+
+#~ msgctxt "GenericName"
+#~ msgid "Manage your money under KDE4"
+#~ msgstr "Gestionați-vă banii în KDE4"
+
+#~ msgctxt "Comment"
+#~ msgid "##DESCRIPTION##"
+#~ msgstr "##DESCRIERE##"
+
+#~ msgctxt "Name"
+#~ msgid "Default"
+#~ msgstr "Implicit"
+
+#~ msgctxt "Name"
+#~ msgid "blank"
+#~ msgstr "gol"
+
+#~ msgctxt "Name"
+#~ msgid "kalculus"
+#~ msgstr "kalculus"
+
+#~ msgctxt "Comment"
+#~ msgid " A really awesome KOffice application"
+#~ msgstr "O aplicație KOffice stranie"
+
+#~ msgctxt "Name"
+#~ msgid "Microsoft PowerPoint Import Filter for KPresenter"
+#~ msgstr "Filtru de import Microsoft Powerpoint pentru KPresenter"

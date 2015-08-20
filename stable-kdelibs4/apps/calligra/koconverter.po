@@ -1,0 +1,119 @@
+# translation of koconverter.po to Romanian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2003.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: koconverter\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-02-23 06:13+0000\n"
+"PO-Revision-Date: 2009-04-26 13:54+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: calligraconverter.cpp:145
+#, fuzzy
+#| msgid "KOffice Document Converter"
+msgid "CalligraConverter"
+msgstr "Convertor de documente KOffice"
+
+#: calligraconverter.cpp:146
+#, fuzzy
+#| msgid "KOffice Document Converter"
+msgid "Calligra Document Converter"
+msgstr "Convertor de documente KOffice"
+
+#: calligraconverter.cpp:148
+#, fuzzy
+#| msgid "(c) 2001-2004 KOffice developers"
+msgid "(c) 2001-2011 Calligra developers"
+msgstr "(c) 2001-2004 Dezvoltatorii KOffice"
+
+#: calligraconverter.cpp:149
+msgid "David Faure"
+msgstr "David Faure"
+
+#: calligraconverter.cpp:150
+msgid "Nicolas Goutte"
+msgstr "Nicolas Goutte"
+
+#: calligraconverter.cpp:151
+msgid "Dan Leinir Turthra Jensen"
+msgstr ""
+
+#: calligraconverter.cpp:155
+msgid "Input file"
+msgstr "Fișier de intrare"
+
+#: calligraconverter.cpp:156
+msgid "Output file"
+msgstr "Fișier de ieșire"
+
+#: calligraconverter.cpp:157
+msgid "Make a backup of the destination file"
+msgstr "Fă o copie de siguranță a fișierului-destinație"
+
+#: calligraconverter.cpp:158
+msgid "Batch mode: do not show dialogs"
+msgstr "Regim în serie: nu arăta dialoguri"
+
+#: calligraconverter.cpp:159
+msgid "Interactive mode: show dialogs (default)"
+msgstr "Regim interactiv: arată dialoguri (implicit)"
+
+#: calligraconverter.cpp:160
+msgid "Mimetype of the output file"
+msgstr "Tipul MIME al fișierului de ieșire"
+
+#: calligraconverter.cpp:163
+msgid "The print orientation. This could be either Portrait or Landscape."
+msgstr ""
+
+#: calligraconverter.cpp:164
+msgid "The paper size. A4, Legal, Letter, ..."
+msgstr ""
+
+#: calligraconverter.cpp:165
+msgid "The size of the paper margin. By default this is 0.2."
+msgstr ""
+
+#: calligraconverter.cpp:177
+msgid "Two arguments required"
+msgstr "Sînt necesari doi argumenți"
+
+#: calligraconverter.cpp:205
+#, kde-format
+msgid "Mimetype for input file %1 not found!"
+msgstr "Tipul MIME pentru fișierul de intrare %1 nu a fost găsit!"
+
+#: calligraconverter.cpp:214
+#, kde-format
+msgid "Mimetype not found %1"
+msgstr "Tipul MIME nu a fost găsit %1"
+
+#: calligraconverter.cpp:220
+msgid "Mimetype not found, try using the -mimetype option"
+msgstr "Tipul MIME nu a fost găsit, încercați utilizarea opțiunii -mimetype"
+
+#: calligraconverter.cpp:244
+msgid "*** The conversion failed! ***"
+msgstr "*** Conversia a eșuat! ***"
+
+#~ msgid "KOConverter"
+#~ msgstr "KOConverter"

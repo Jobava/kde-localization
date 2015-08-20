@@ -1,0 +1,85 @@
+# Sergiu Bivol <sergiu@cip.md>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-14 08:33+0000\n"
+"PO-Revision-Date: 2015-04-26 12:43+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: other/kcm_systemd.desktop:11
+msgctxt "Name"
+msgid "Systemd"
+msgstr "Systemd"
+
+#: other/kcm_systemd.desktop:33
+msgctxt "Comment"
+msgid "Configure the systemd daemon"
+msgstr "Configurează demonul systemd"
+
+#: other/kcm_systemd.desktop:54
+msgctxt "X-KDE-Keywords"
+msgid "systemd"
+msgstr "systemd"
+
+#: other/settings-system-administration.desktop:9
+msgctxt "Name"
+msgid "System administration"
+msgstr "Administrare sistem"
+
+#: src/helper/kcmsystemd.actions:2
+msgctxt "Name"
+msgid "Systemd KDE control module"
+msgstr "Modul de control KDE pentru Systemd"
+
+#: src/helper/kcmsystemd.actions:26
+msgctxt "Name"
+msgid "Save the systemd configuration files"
+msgstr "Salvează fișierele de configurare systemd"
+
+#: src/helper/kcmsystemd.actions:46
+msgctxt "Description"
+msgid ""
+"Administrator authorization is required to save the systemd configuration "
+"files"
+msgstr ""
+"Este necesară autorizarea ca administrator pentru a salva fișierele de "
+"configurare systemd"
+
+#: src/helper/kcmsystemd.actions:70
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Save the systemd configuration files"
+msgctxt "Name"
+msgid "Save a systemd unit file"
+msgstr "Salvează fișierele de configurare systemd"
+
+#: src/helper/kcmsystemd.actions:81
+#, fuzzy
+#| msgctxt "Description"
+#| msgid ""
+#| "Administrator authorization is required to save the systemd configuration "
+#| "files"
+msgctxt "Description"
+msgid "Administrator authorization is required to save the systemd unit file"
+msgstr ""
+"Este necesară autorizarea ca administrator pentru a salva fișierele de "
+"configurare systemd"
+
+#: src/helper/kcmsystemd.actions:96
+msgctxt "Name"
+msgid "Manipulate systemd over D-Bus"
+msgstr "Manipulează systemd prin D-Bus"
+
+#: src/helper/kcmsystemd.actions:116
+msgctxt "Description"
+msgid "Administrator authorization is required to manipulate systemd"
+msgstr "Este necesară autorizarea ca administrator pentru a manipula systemd"

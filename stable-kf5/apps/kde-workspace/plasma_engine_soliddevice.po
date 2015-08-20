@@ -1,0 +1,729 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010.
+# Sergiu Bivol <sergiu@ase.md>, 2010.
+# Cristian Oneț <onet.cristian@gmail.com>, 2011, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:22+0000\n"
+"PO-Revision-Date: 2013-02-10 17:03+0200\n"
+"Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: soliddeviceengine.cpp:128
+msgid "Parent UDI"
+msgstr "UDI părinte"
+
+#: soliddeviceengine.cpp:129
+msgid "Vendor"
+msgstr "Vînzător"
+
+#: soliddeviceengine.cpp:130
+msgid "Product"
+msgstr "Produs"
+
+#: soliddeviceengine.cpp:131
+msgid "Description"
+msgstr "Descriere"
+
+#: soliddeviceengine.cpp:132
+msgid "Icon"
+msgstr "Pictogramă"
+
+#: soliddeviceengine.cpp:133 soliddeviceengine.cpp:601
+msgid "Emblems"
+msgstr "Embleme"
+
+#: soliddeviceengine.cpp:134 soliddeviceengine.cpp:503
+#: soliddeviceengine.cpp:509 soliddeviceengine.cpp:522
+msgid "State"
+msgstr "Stare"
+
+#: soliddeviceengine.cpp:135 soliddeviceengine.cpp:504
+#: soliddeviceengine.cpp:510 soliddeviceengine.cpp:518
+#: soliddeviceengine.cpp:520
+msgid "Operation result"
+msgstr "Rezultat operație"
+
+#: soliddeviceengine.cpp:136
+msgid "Timestamp"
+msgstr "Amprentă de timp"
+
+#: soliddeviceengine.cpp:144
+msgid "Processor"
+msgstr "Procesor"
+
+#: soliddeviceengine.cpp:145
+msgid "Number"
+msgstr "Număr"
+
+#: soliddeviceengine.cpp:146
+msgid "Max Speed"
+msgstr "Viteză maximă"
+
+#: soliddeviceengine.cpp:147
+msgid "Can Change Frequency"
+msgstr "Poate schimba frecvența"
+
+#: soliddeviceengine.cpp:155
+msgid "Block"
+msgstr "Blochează"
+
+#: soliddeviceengine.cpp:156
+msgid "Major"
+msgstr "Major"
+
+#: soliddeviceengine.cpp:157
+msgid "Minor"
+msgstr "Minor"
+
+#: soliddeviceengine.cpp:158
+msgid "Device"
+msgstr "Dispozitiv"
+
+#: soliddeviceengine.cpp:166
+msgid "Storage Access"
+msgstr "Acces la stocare"
+
+#: soliddeviceengine.cpp:167 soliddeviceengine.cpp:534
+#: soliddeviceengine.cpp:615
+msgid "Accessible"
+msgstr "Accesibil"
+
+#: soliddeviceengine.cpp:168 soliddeviceengine.cpp:535
+msgid "File Path"
+msgstr "Calea fișierului"
+
+#: soliddeviceengine.cpp:176 soliddeviceengine.cpp:571
+msgid "Free Space"
+msgstr "Spațiu liber"
+
+#: soliddeviceengine.cpp:177 soliddeviceengine.cpp:572
+msgid "Free Space Text"
+msgstr "Text spațiu liber"
+
+#: soliddeviceengine.cpp:189
+msgid "Storage Drive"
+msgstr "Unitate de stocare"
+
+#: soliddeviceengine.cpp:192
+msgid "Ide"
+msgstr "IDE"
+
+#: soliddeviceengine.cpp:192
+msgid "Usb"
+msgstr "USB"
+
+#: soliddeviceengine.cpp:192
+msgid "Ieee1394"
+msgstr "Ieee1394"
+
+#: soliddeviceengine.cpp:192
+msgid "Scsi"
+msgstr "Scsi"
+
+#: soliddeviceengine.cpp:192
+msgid "Sata"
+msgstr "Sata"
+
+#: soliddeviceengine.cpp:192
+msgid "Platform"
+msgstr "Platformă"
+
+#: soliddeviceengine.cpp:194
+msgid "Hard Disk"
+msgstr "Disc dur"
+
+#: soliddeviceengine.cpp:194
+msgid "Cdrom Drive"
+msgstr "Unitate optică"
+
+#: soliddeviceengine.cpp:194
+msgid "Floppy"
+msgstr "Dischetă"
+
+#: soliddeviceengine.cpp:194
+msgid "Tape"
+msgstr "Casetă"
+
+#: soliddeviceengine.cpp:194
+msgid "Compact Flash"
+msgstr "Compact Flash"
+
+#: soliddeviceengine.cpp:194
+msgid "Memory Stick"
+msgstr "Memory Stick"
+
+#: soliddeviceengine.cpp:194
+msgid "Smart Media"
+msgstr "Smart Media"
+
+#: soliddeviceengine.cpp:194
+msgid "SdMmc"
+msgstr "SdMmc"
+
+#: soliddeviceengine.cpp:194
+msgid "Xd"
+msgstr "Xd"
+
+#: soliddeviceengine.cpp:196
+msgid "Bus"
+msgstr "Magistrală"
+
+#: soliddeviceengine.cpp:197
+msgid "Drive Type"
+msgstr "Tip unitate"
+
+#: soliddeviceengine.cpp:198 soliddeviceengine.cpp:211
+#: soliddeviceengine.cpp:382 soliddeviceengine.cpp:397
+msgid "Removable"
+msgstr "Amovibil"
+
+#: soliddeviceengine.cpp:199 soliddeviceengine.cpp:212
+#: soliddeviceengine.cpp:383 soliddeviceengine.cpp:398
+msgid "Hotpluggable"
+msgstr "Detașabil"
+
+#: soliddeviceengine.cpp:222
+msgid "Optical Drive"
+msgstr "Unitate optică"
+
+#: soliddeviceengine.cpp:227
+msgid "CD-R"
+msgstr "CD-R"
+
+#: soliddeviceengine.cpp:230
+msgid "CD-RW"
+msgstr "CD-RW"
+
+#: soliddeviceengine.cpp:233
+msgid "DVD"
+msgstr "DVD"
+
+#: soliddeviceengine.cpp:236
+msgid "DVD-R"
+msgstr "DVD-R"
+
+#: soliddeviceengine.cpp:239
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+#: soliddeviceengine.cpp:242
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+#: soliddeviceengine.cpp:245
+msgid "DVD+R"
+msgstr "DVD+R"
+
+#: soliddeviceengine.cpp:248
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+#: soliddeviceengine.cpp:251
+msgid "DVD+DL"
+msgstr "DVD+DL"
+
+#: soliddeviceengine.cpp:254
+msgid "DVD+DLRW"
+msgstr "DVD+DLRW"
+
+#: soliddeviceengine.cpp:257
+msgid "BD"
+msgstr "BD"
+
+#: soliddeviceengine.cpp:260
+msgid "BD-R"
+msgstr "BD-R"
+
+#: soliddeviceengine.cpp:263
+msgid "BD-RE"
+msgstr "BD-RE"
+
+#: soliddeviceengine.cpp:266
+msgid "HDDVD"
+msgstr "HDDVD"
+
+#: soliddeviceengine.cpp:269
+msgid "HDDVD-R"
+msgstr "HDDVD-R"
+
+#: soliddeviceengine.cpp:272
+msgid "HDDVD-RW"
+msgstr "HDDVD-RW"
+
+#: soliddeviceengine.cpp:274
+msgid "Supported Media"
+msgstr "Mediu susținut"
+
+#: soliddeviceengine.cpp:276
+msgid "Read Speed"
+msgstr "Viteză de citire"
+
+#: soliddeviceengine.cpp:277
+msgid "Write Speed"
+msgstr "Viteză de scriere"
+
+#: soliddeviceengine.cpp:285
+msgid "Write Speeds"
+msgstr "Viteze de scriere"
+
+#: soliddeviceengine.cpp:294
+msgid "Storage Volume"
+msgstr "Volum de stocare"
+
+#: soliddeviceengine.cpp:297
+msgid "Other"
+msgstr "Altele"
+
+#: soliddeviceengine.cpp:297
+msgid "Unused"
+msgstr "Neutilizat"
+
+#: soliddeviceengine.cpp:297
+msgid "File System"
+msgstr "Sistem de fișiere"
+
+#: soliddeviceengine.cpp:298
+msgid "Partition Table"
+msgstr "Tabelă de partiții"
+
+#: soliddeviceengine.cpp:298
+msgid "Raid"
+msgstr "Raid"
+
+#: soliddeviceengine.cpp:298
+msgid "Encrypted"
+msgstr "Criptat"
+
+#: soliddeviceengine.cpp:301 soliddeviceengine.cpp:303
+msgid "Usage"
+msgstr "Utilizare"
+
+#: soliddeviceengine.cpp:303
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#: soliddeviceengine.cpp:306
+msgid "Ignored"
+msgstr "Ignorat"
+
+#: soliddeviceengine.cpp:307
+msgid "File System Type"
+msgstr "Tip sistem de fișiere"
+
+#: soliddeviceengine.cpp:308
+msgid "Label"
+msgstr "Etichetă"
+
+#: soliddeviceengine.cpp:309
+msgid "UUID"
+msgstr "UUID"
+
+#: soliddeviceengine.cpp:310 soliddeviceengine.cpp:478
+msgid "Size"
+msgstr "Dimensiune"
+
+#: soliddeviceengine.cpp:319
+msgid "Encrypted Container"
+msgstr "Container criptat"
+
+#: soliddeviceengine.cpp:331
+msgid "OpticalDisc"
+msgstr "Disc optic"
+
+#: soliddeviceengine.cpp:337
+msgid "Audio"
+msgstr "Audio"
+
+#: soliddeviceengine.cpp:340
+msgid "Data"
+msgstr "Date"
+
+#: soliddeviceengine.cpp:343
+msgid "Video CD"
+msgstr "Disc video"
+
+#: soliddeviceengine.cpp:346
+msgid "Super Video CD"
+msgstr "Super Video CD"
+
+#: soliddeviceengine.cpp:349
+msgid "Video DVD"
+msgstr "DVD video"
+
+#: soliddeviceengine.cpp:352
+msgid "Video Blu Ray"
+msgstr ""
+
+#: soliddeviceengine.cpp:354
+msgid "Available Content"
+msgstr "Conținut disponibil"
+
+#: soliddeviceengine.cpp:357
+msgid "Unknown Disc Type"
+msgstr "Tip de disc necunoscut"
+
+#: soliddeviceengine.cpp:357
+msgid "CD Rom"
+msgstr "CD Rom"
+
+#: soliddeviceengine.cpp:357
+msgid "CD Recordable"
+msgstr "CD inscriptibil"
+
+#: soliddeviceengine.cpp:358
+msgid "CD Rewritable"
+msgstr "CD reinscriptibil"
+
+#: soliddeviceengine.cpp:358
+msgid "DVD Rom"
+msgstr "DVD Rom"
+
+#: soliddeviceengine.cpp:358
+msgid "DVD Ram"
+msgstr "DVD Ram"
+
+#: soliddeviceengine.cpp:359
+msgid "DVD Recordable"
+msgstr "DVD inscriptibil"
+
+#: soliddeviceengine.cpp:359
+msgid "DVD Rewritable"
+msgstr "DVD reinscriptibil"
+
+#: soliddeviceengine.cpp:359
+msgid "DVD Plus Recordable"
+msgstr "DVD Plus inscriptibil"
+
+#: soliddeviceengine.cpp:360
+msgid "DVD Plus Rewritable"
+msgstr "DVD Plus reinscriptibil"
+
+#: soliddeviceengine.cpp:360
+msgid "DVD Plus Recordable Duallayer"
+msgstr "DVD Plus inscriptibil cu două straturi"
+
+#: soliddeviceengine.cpp:361
+msgid "DVD Plus Rewritable Duallayer"
+msgstr "DVD Plus reinscriptibil cu două straturi"
+
+#: soliddeviceengine.cpp:361
+msgid "Blu Ray Rom"
+msgstr "Blu Ray Rom"
+
+#: soliddeviceengine.cpp:361
+msgid "Blu Ray Recordable"
+msgstr "Blu Ray inscriptibil"
+
+#: soliddeviceengine.cpp:362
+msgid "Blu Ray Rewritable"
+msgstr "Blu Ray reinscriptibil"
+
+#: soliddeviceengine.cpp:362
+msgid "HD DVD Rom"
+msgstr "HD DVD Rom"
+
+#: soliddeviceengine.cpp:362
+msgid "HD DVD Recordable"
+msgstr "HD DVD inscriptibil"
+
+#: soliddeviceengine.cpp:363
+msgid "HD DVD Rewritable"
+msgstr "HD DVD reinscriptibil"
+
+#: soliddeviceengine.cpp:365
+msgid "Disc Type"
+msgstr "Tipul discului"
+
+#: soliddeviceengine.cpp:366
+msgid "Appendable"
+msgstr "Completabil"
+
+#: soliddeviceengine.cpp:367
+msgid "Blank"
+msgstr "Gol"
+
+#: soliddeviceengine.cpp:368
+msgid "Rewritable"
+msgstr "Reinscriptibil"
+
+#: soliddeviceengine.cpp:369
+msgid "Capacity"
+msgstr "Capacitate"
+
+#: soliddeviceengine.cpp:377
+msgid "Camera"
+msgstr "Aparat foto"
+
+#: soliddeviceengine.cpp:379 soliddeviceengine.cpp:394
+msgid "Supported Protocols"
+msgstr "Protocoale susținute"
+
+#: soliddeviceengine.cpp:380 soliddeviceengine.cpp:395
+msgid "Supported Drivers"
+msgstr "Drivere susținute"
+
+#: soliddeviceengine.cpp:392
+msgid "Portable Media Player"
+msgstr "Lector multimedia portabil"
+
+#: soliddeviceengine.cpp:406
+msgid "Battery"
+msgstr "Acumulator"
+
+#: soliddeviceengine.cpp:409
+msgid "Unknown Battery"
+msgstr "Acumulator necunoscut"
+
+#: soliddeviceengine.cpp:409
+msgid "PDA Battery"
+msgstr "Acumulator PDA"
+
+#: soliddeviceengine.cpp:409
+msgid "UPS Battery"
+msgstr "Acumulator UPS"
+
+#: soliddeviceengine.cpp:410
+msgid "Primary Battery"
+msgstr "Acumulator primar"
+
+#: soliddeviceengine.cpp:410
+msgid "Mouse Battery"
+msgstr "Acumulator pentru șoricel"
+
+#: soliddeviceengine.cpp:410
+msgid "Keyboard Battery"
+msgstr "Acumulator pentru tastatură"
+
+#: soliddeviceengine.cpp:411
+msgid "Keyboard Mouse Battery"
+msgstr "Acumulator pentru mouse tastatură"
+
+#: soliddeviceengine.cpp:411
+msgid "Camera Battery"
+msgstr "Acumulator pentru aparat de fotografiat"
+
+#: soliddeviceengine.cpp:411
+#, fuzzy
+#| msgid "Mouse Battery"
+msgid "Phone Battery"
+msgstr "Acumulator pentru șoricel"
+
+#: soliddeviceengine.cpp:412
+#, fuzzy
+#| msgid "Mouse Battery"
+msgid "Monitor Battery"
+msgstr "Acumulator pentru șoricel"
+
+#: soliddeviceengine.cpp:415
+#, fuzzy
+#| msgid "Charging"
+msgid "Not Charging"
+msgstr "Încărcare"
+
+#: soliddeviceengine.cpp:415
+msgid "Charging"
+msgstr "Încărcare"
+
+#: soliddeviceengine.cpp:415
+msgid "Discharging"
+msgstr "Descărcare"
+
+#: soliddeviceengine.cpp:415
+msgid "Fully Charged"
+msgstr "Încărcat deplin"
+
+#: soliddeviceengine.cpp:417
+msgid "Plugged In"
+msgstr "Atașat"
+
+#: soliddeviceengine.cpp:418
+msgid "Type"
+msgstr "Tip"
+
+#: soliddeviceengine.cpp:419
+msgid "Charge Percent"
+msgstr "Procentaj încărcare"
+
+#: soliddeviceengine.cpp:420
+msgid "Rechargeable"
+msgstr "Reîncărcabil"
+
+#: soliddeviceengine.cpp:421
+msgid "Charge State"
+msgstr "Starea încărcării"
+
+#: soliddeviceengine.cpp:446
+msgid "Type Description"
+msgstr "Descriere de tip"
+
+#: soliddeviceengine.cpp:451
+msgid "Device Types"
+msgstr "Tipuri de dispozitive"
+
+#: soliddeviceengine.cpp:589
+msgid "Temperature"
+msgstr "Temperatură"
+
+#: soliddeviceengine.cpp:590
+msgid "Temperature Unit"
+msgstr "Unitate de temperatură"
+
+#: soliddeviceengine.cpp:634 soliddeviceengine.cpp:638
+msgid "In Use"
+msgstr "În uz"
+
+#~ msgid "Network Interface"
+#~ msgstr "Interfață de rețea"
+
+#~ msgid "Interface Name"
+#~ msgstr "Denumire interfață"
+
+#~ msgid "Wireless"
+#~ msgstr "Fără fir"
+
+#~ msgid "Hardware Address"
+#~ msgstr "Adresă fizică"
+
+#~ msgid "MAC Address"
+#~ msgstr "Adresă MAC"
+
+#~ msgid "AC Adapter"
+#~ msgstr "Adaptor AC"
+
+#~ msgid "Button"
+#~ msgstr "Buton"
+
+#~ msgid "Lid Button"
+#~ msgstr "Buton capac"
+
+#~ msgid "Power Button"
+#~ msgstr "Buton de alimentare"
+
+#~ msgid "Sleep Button"
+#~ msgstr "Buton adormire"
+
+#~ msgid "Unknown Button Type"
+#~ msgstr "Buton necunoscut"
+
+#~ msgid "Has State"
+#~ msgstr "Are stare"
+
+#~ msgid "State Value"
+#~ msgstr "Valoarea stării"
+
+#~ msgid "Pressed"
+#~ msgstr "Apăsat"
+
+#~ msgid "Audio Interface"
+#~ msgstr "Interfață audio"
+
+#~ msgid "ALSA"
+#~ msgstr "ALSA"
+
+#~ msgid "Open Sound System"
+#~ msgstr "Open Sound System"
+
+#~ msgid "Unknown Audio Driver"
+#~ msgstr "Driver audio necunoscut"
+
+#~ msgid "Driver"
+#~ msgstr "Driver"
+
+#~ msgid "Driver Handle"
+#~ msgstr "Manipulare driver"
+
+#~ msgid "Name"
+#~ msgstr "Denumire"
+
+#~ msgid "Unknown Audio Interface Type"
+#~ msgstr "Interfață audio necunoscută"
+
+#~ msgid "Audio Control"
+#~ msgstr "Control audio"
+
+#~ msgid "Audio Input"
+#~ msgstr "Intrare audio"
+
+#~ msgid "Audio Output"
+#~ msgstr "Ieșire audio"
+
+#~ msgid "Audio Device Type"
+#~ msgstr "Tip dispozitiv audio"
+
+#~ msgid "Internal Soundcard"
+#~ msgstr "Placă de sunet internă"
+
+#~ msgid "USB Soundcard"
+#~ msgstr "Placă de sunet USB"
+
+#~ msgid "Firewire Soundcard"
+#~ msgstr "Placă de sunet Firewire"
+
+#~ msgid "Headset"
+#~ msgstr "Cască"
+
+#~ msgid "Modem"
+#~ msgstr "Modem"
+
+#~ msgid "Soundcard Type"
+#~ msgstr "Tipul plăcii de sunet"
+
+#~ msgid "DVB Interface"
+#~ msgstr "Interfață DVB"
+
+#~ msgid "Device Adapter"
+#~ msgstr "Adaptor dispozitiv"
+
+#~ msgid "DVB Unknown"
+#~ msgstr "DVB necunoscut"
+
+#~ msgid "DVB Audio"
+#~ msgstr "DVB audio"
+
+#~ msgid "DVB Ca"
+#~ msgstr "DVB Ca"
+
+#~ msgid "DVB Demux"
+#~ msgstr "DVB Demux"
+
+#~ msgid "DVB DVR"
+#~ msgstr "DVB DVR"
+
+#~ msgid "DVB Frontend"
+#~ msgstr "Interfață DVB"
+
+#~ msgid "DVB Net"
+#~ msgstr "DVB Net"
+
+#~ msgid "DVB OSD"
+#~ msgstr "DVB OSD"
+
+#~ msgid "DVB Sec"
+#~ msgstr "DVB Sec"
+
+#~ msgid "DVB Video"
+#~ msgstr "DVB video"
+
+#~ msgid "DVB Device Type"
+#~ msgstr "Tip dispozitiv DVB"
+
+#~ msgid "Device Index"
+#~ msgstr "Index dispozitiv"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Driver Handles"
+#~ msgstr "Resurse driver"

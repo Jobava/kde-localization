@@ -1,0 +1,49 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-11-05 01:49+0100\n"
+"PO-Revision-Date: 2012-06-13 10:52+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: simonoid.cpp:91
+#, fuzzy
+#| msgid "Could not load simon icon!"
+msgid "Could not load Simon icon."
+msgstr "Pictograma simon nu a putut fi încărcată!"
+
+#: simonoid.cpp:104
+msgid "Status:"
+msgstr "Stare:"
+
+#: simonoid.cpp:109
+msgid "Peak:"
+msgstr "Vîrf:"
+
+#: simonoid.cpp:138 simonoid.cpp:240
+msgid "Waiting"
+msgstr "Așteptare"
+
+#: simonoid.cpp:216
+msgid "Simon not running"
+msgstr "Simon nu rulează"
+
+#: simonoid.cpp:230
+msgid "Listening"
+msgstr "Ascultare"
+
+#: simonoid.cpp:235
+msgid "Processing"
+msgstr "Procesare"

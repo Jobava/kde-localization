@@ -1,0 +1,367 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-07-20 09:19+0000\n"
+"PO-Revision-Date: 2014-10-05 19:30+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: config/breezeexceptionlistwidget.cpp:112
+msgid "New Exception - Breeze Settings"
+msgstr ""
+
+#: config/breezeexceptionlistwidget.cpp:161
+msgid "Edit Exception - Breeze Settings"
+msgstr ""
+
+#: config/breezeexceptionlistwidget.cpp:194
+msgid "Question - Breeze Settings"
+msgstr ""
+
+#: config/breezeexceptionlistwidget.cpp:194
+msgid "Remove selected exception?"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: config/breezeexceptionlistwidget.cpp:195
+#: config/ui/breezeexceptionlistwidget.ui:91
+msgid "Remove"
+msgstr "Elimină"
+
+#: config/breezeexceptionlistwidget.cpp:339
+msgid "Warning - Breeze Settings"
+msgstr ""
+
+#: config/breezeexceptionlistwidget.cpp:339
+msgid "Regular Expression syntax is incorrect"
+msgstr ""
+
+#: config/breezeexceptionmodel.cpp:37
+msgid "Exception Type"
+msgstr ""
+
+#: config/breezeexceptionmodel.cpp:38
+msgid "Regular Expression"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, exceptionType)
+#: config/breezeexceptionmodel.cpp:63 config/ui/breezeexceptiondialog.ui:72
+msgid "Window Title"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, exceptionType)
+#: config/breezeexceptionmodel.cpp:67 config/ui/breezeexceptiondialog.ui:67
+msgid "Window Class Name"
+msgstr ""
+
+#: config/breezeexceptionmodel.cpp:83
+msgid "Enable/disable this exception"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: config/ui/breezeconfigurationui.ui:33
+msgid "General"
+msgstr "General"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: config/ui/breezeconfigurationui.ui:39
+msgid "Tit&le alignment:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: config/ui/breezeconfigurationui.ui:52
+msgid "B&utton size:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#: config/ui/breezeconfigurationui.ui:66
+msgid "Tiny"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#: config/ui/breezeconfigurationui.ui:71
+msgctxt "@item:inlistbox Button size:"
+msgid "Small"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#: config/ui/breezeconfigurationui.ui:76
+msgctxt "@item:inlistbox Button size:"
+msgid "Normal"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#: config/ui/breezeconfigurationui.ui:81
+msgctxt "@item:inlistbox Button size:"
+msgid "Large"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#: config/ui/breezeconfigurationui.ui:86
+msgctxt "@item:inlistbox Button size:"
+msgid "Very Large"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, titleAlignment)
+#: config/ui/breezeconfigurationui.ui:95
+msgid "Left"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, titleAlignment)
+#: config/ui/breezeconfigurationui.ui:100
+msgid "Center"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, titleAlignment)
+#: config/ui/breezeconfigurationui.ui:105
+msgid "Center (Full Width)"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, titleAlignment)
+#: config/ui/breezeconfigurationui.ui:110
+msgid "Right"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, drawSizeGrip)
+#: config/ui/breezeconfigurationui.ui:144
+msgid "Add handle to resize windows with no border"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, drawBorderOnMaximizedWindows)
+#: config/ui/breezeconfigurationui.ui:151
+msgid "Display window borders for maximized windows"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, outlineCloseButton)
+#: config/ui/breezeconfigurationui.ui:158
+msgid "Draw a circle around close button"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: config/ui/breezeconfigurationui.ui:166
+msgid "Animations"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, animationsDurationLabel)
+#: config/ui/breezeconfigurationui.ui:175
+msgid "&Animations duration:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, animationsDuration)
+#: config/ui/breezeconfigurationui.ui:191
+msgid "ms"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, animationsEnabled)
+#: config/ui/breezeconfigurationui.ui:214
+msgid "Enable animations"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#: config/ui/breezeconfigurationui.ui:235
+msgid "Shadows"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/ui/breezeconfigurationui.ui:241
+msgid "S&ize:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, shadowSize)
+#: config/ui/breezeconfigurationui.ui:254
+msgid "px"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: config/ui/breezeconfigurationui.ui:267
+msgctxt "strength of the shadow (from transparent to opaque)"
+msgid "S&trength:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, shadowStrength)
+#: config/ui/breezeconfigurationui.ui:280
+#, no-c-format
+msgid "%"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: config/ui/breezeconfigurationui.ui:306
+msgid "Color:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: config/ui/breezeconfigurationui.ui:333
+msgid "Window-Specific Overrides"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, BreezeExceptionDialog)
+#. i18n: ectx: property (windowTitle), widget (QDialog, BreezeDetectWidget)
+#: config/ui/breezedetectwidget.ui:14 config/ui/breezeexceptiondialog.ui:14
+msgid "Dialog"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: config/ui/breezedetectwidget.ui:20
+msgid "Information about Selected Window"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/ui/breezedetectwidget.ui:26
+msgid "Class: "
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: config/ui/breezedetectwidget.ui:43
+msgid "Title: "
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: config/ui/breezedetectwidget.ui:63
+msgid "Window Property Selection"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, windowClassCheckBox)
+#: config/ui/breezedetectwidget.ui:69
+msgid "Use window class (whole application)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, windowTitleCheckBox)
+#: config/ui/breezedetectwidget.ui:79
+msgid "Use window title"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: config/ui/breezeexceptiondialog.ui:20
+msgid "Window Identification"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/ui/breezeexceptiondialog.ui:26
+msgid "&Matching window property: "
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: config/ui/breezeexceptiondialog.ui:39
+msgid "Regular expression &to match: "
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, detectDialogButton)
+#: config/ui/breezeexceptiondialog.ui:52
+msgid "Detect Window Properties"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: config/ui/breezeexceptiondialog.ui:83
+msgid "Decoration Options"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, borderSizeCheckBox)
+#: config/ui/breezeexceptiondialog.ui:89
+msgid "Border size:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, hideTitleBar)
+#: config/ui/breezeexceptiondialog.ui:96
+msgid "Hide window title bar"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:107
+msgctxt "@item:inlistbox Border size:"
+msgid "No Border"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:112
+msgctxt "@item:inlistbox Border size:"
+msgid "No Side Borders"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:117
+msgctxt "@item:inlistbox Border size:"
+msgid "Tiny"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:122
+msgctxt "@item:inlistbox Border size:"
+msgid "Normal"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:127
+msgctxt "@item:inlistbox Border size:"
+msgid "Large"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:132
+msgctxt "@item:inlistbox Border size:"
+msgid "Very Large"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:137
+msgctxt "@item:inlistbox Border size:"
+msgid "Huge"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:142
+msgctxt "@item:inlistbox Border size:"
+msgid "Very Huge"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:147
+msgctxt "@item:inlistbox Border size:"
+msgid "Oversized"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, moveUpButton)
+#: config/ui/breezeexceptionlistwidget.ui:70
+msgid "Move Up"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, moveDownButton)
+#: config/ui/breezeexceptionlistwidget.ui:77
+msgid "Move Down"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: config/ui/breezeexceptionlistwidget.ui:84
+msgid "Add"
+msgstr "Adaugă"
+
+#. i18n: ectx: property (text), widget (QPushButton, editButton)
+#: config/ui/breezeexceptionlistwidget.ui:98
+msgid "Edit"
+msgstr ""
+
+#~ msgid "Oxygen"
+#~ msgstr "Oxygen"
+
+#~ msgid "Help"
+#~ msgstr "Ajutor"
+
+#~ msgid "Minimize"
+#~ msgstr "Minimizare"
+
+#~ msgid "Maximize"
+#~ msgstr "Maximizare"
+
+#~ msgid "Close"
+#~ msgstr "Închidere"

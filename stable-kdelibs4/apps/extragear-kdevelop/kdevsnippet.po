@@ -1,0 +1,384 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-11-07 05:06+0000\n"
+"PO-Revision-Date: 2010-01-19 23:19+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: legacy/editrepository.cpp:75 legacy/editrepository.cpp:117
+#, fuzzy, kde-format
+msgid "Edit Snippet Repository %1"
+msgstr "Adaugă depozit de fragmente"
+
+#: legacy/editrepository.cpp:77
+#, fuzzy
+msgid "Create New Snippet Repository"
+msgstr "Adaugă depozit de fragmente"
+
+#: legacy/editrepository.cpp:127
+msgid "<i>leave empty for general purpose snippets</i>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, repoNameLabel)
+#. i18n: ectx: property (text), widget (QLabel, snippetName)
+#: legacy/editrepository.ui:29 legacy/editsnippet.ui:41
+#, fuzzy
+msgid "&Name:"
+msgstr "Denumire:"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, repoNameEdit)
+#: legacy/editrepository.ui:39
+msgid ""
+"The name of the repository. Must not be empty or contain forward slashes (/)."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, repoNamespaceLabel)
+#: legacy/editrepository.ui:46
+#, fuzzy
+msgid "Na&mespace:"
+msgstr "Denumire:"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, repoNamespaceEdit)
+#: legacy/editrepository.ui:57
+msgid ""
+"<p>If non-empty this will be used as a prefix for all snippets in this "
+"repository during code completion.</p>\n"
+"<p><b>Note:</b> No spaces allowed.</p>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, repoLicenseLabel)
+#: legacy/editrepository.ui:64
+msgid "&License:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, repoAuthorsLabel)
+#: legacy/editrepository.ui:77
+msgid "&Authors:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, repoFileTypesLabel)
+#: legacy/editrepository.ui:90
+msgid "&File types:"
+msgstr ""
+
+#: legacy/editsnippet.cpp:51
+msgid "Show Documentation"
+msgstr ""
+
+#: legacy/editsnippet.cpp:104 legacy/editsnippet.cpp:184
+#, fuzzy, kde-format
+msgid "Edit Snippet %1 in %2"
+msgstr "Editează fragment"
+
+#: legacy/editsnippet.cpp:117
+#, fuzzy, kde-format
+msgid "Create New Snippet in Repository %1"
+msgstr "Adaugă depozit de fragmente"
+
+#: legacy/editsnippet.cpp:149
+msgid "Snippet name cannot contain spaces"
+msgstr ""
+
+#: legacy/editsnippet.cpp:201
+msgid ""
+"The snippet contains unsaved changes. Do you want to continue and lose all "
+"changes?"
+msgstr ""
+
+#: legacy/editsnippet.cpp:202
+msgid "Warning - Unsaved Changes"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, snippetNameEdit)
+#: legacy/editsnippet.ui:52
+msgid ""
+"<p>The name will also be used as the identifier during code completion.</p>\n"
+"<p><b>Note:</b> No spaces allowed.</p>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, snippetPrefixLabel)
+#: legacy/editsnippet.ui:59
+msgid "Display &Prefix:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, snippetPrefixEdit)
+#: legacy/editsnippet.ui:69
+msgid "The display prefix will be shown during code completion."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, snippetArgumentsLabel)
+#: legacy/editsnippet.ui:76
+msgid "Display &Arguments:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, snippetArgumentsEdit)
+#: legacy/editsnippet.ui:86
+msgid "The arguments will be shown during code completion."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, snippetPostfixLabel)
+#: legacy/editsnippet.ui:93
+msgid "Display P&ostfix:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, snippetPostfixEdit)
+#: legacy/editsnippet.ui:103
+msgid "The postfix will be shown during code completion."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, snippetShortcutLabel)
+#: legacy/editsnippet.ui:110
+msgid "Shortcut:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, snippetTab)
+#: legacy/editsnippet.ui:126
+#, fuzzy
+msgid "&Snippet"
+msgstr "Fragment:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, scriptTab)
+#: legacy/editsnippet.ui:131
+#, fuzzy
+msgid "S&cripts"
+msgstr "Fragmente"
+
+#. i18n: ectx: Menu (edit)
+#: legacy/kdevsnippet.rc:4
+#, fuzzy
+msgid "&Edit"
+msgstr "Modifică"
+
+#: legacy/snippet.cpp:27
+#, fuzzy
+msgid "<empty snippet>"
+msgstr "Fragment nou"
+
+#: legacy/snippet.cpp:89
+#, fuzzy, kde-format
+msgid "insert snippet %1"
+msgstr "Fragment:"
+
+#: legacy/snippetcompletionmodel.cpp:52 legacy/snippetview.cpp:38
+#: legacy/snippetview.cpp:148 snippetplugin.cpp:45 snippetplugin.cpp:104
+msgid "Snippets"
+msgstr "Fragmente"
+
+#: legacy/snippetrepository.cpp:40
+#, fuzzy
+msgid "<empty repository>"
+msgstr "Creează subdepozit"
+
+#: legacy/snippetrepository.cpp:219
+msgid ""
+"You have edited a data file not located in your personal data directory; as "
+"such, a renamed clone of the original data file has been created within your "
+"personal data directory."
+msgstr ""
+
+#: legacy/snippetrepository.cpp:224
+#, kde-format
+msgid "Output file '%1' could not be opened for writing"
+msgstr ""
+
+#: legacy/snippetrepository.cpp:253
+#, fuzzy, kde-format
+msgid "Cannot open snippet repository %1."
+msgstr "Adaugă depozit de fragmente"
+
+#: legacy/snippetrepository.cpp:265
+#, kde-format
+msgid ""
+"<qt>The error <b>%4</b><br /> has been detected in the file %1 at %2/%3</qt>"
+msgstr ""
+
+#: legacy/snippetrepository.cpp:273
+#, kde-format
+msgid "Invalid XML snippet file: %1"
+msgstr ""
+
+#: legacy/snippetrepository.cpp:340
+msgid ""
+"Repository is disabled, the contained snippets will not be shown during code-"
+"completion."
+msgstr ""
+
+#: legacy/snippetrepository.cpp:343
+msgid "Applies to all filetypes"
+msgstr ""
+
+#: legacy/snippetrepository.cpp:345
+#, kde-format
+msgid "Applies to the following filetypes: %1"
+msgstr ""
+
+#: legacy/snippetview.cpp:59
+msgid "Add Repository"
+msgstr "Adaugă depozit"
+
+#: legacy/snippetview.cpp:62
+#, fuzzy
+msgid "Edit Repository"
+msgstr "Adaugă depozit"
+
+#: legacy/snippetview.cpp:65
+#, fuzzy
+msgid "Remove Repository"
+msgstr "Mută depozitul"
+
+#: legacy/snippetview.cpp:69
+#, fuzzy
+msgid "Publish Repository"
+msgstr "Adaugă depozit"
+
+#: legacy/snippetview.cpp:77
+msgid "Add Snippet"
+msgstr "Adaugă fragment"
+
+#: legacy/snippetview.cpp:80
+msgid "Edit Snippet"
+msgstr "Editează fragment"
+
+#: legacy/snippetview.cpp:83
+#, fuzzy
+msgid "Remove Snippet"
+msgstr "Fragment nou"
+
+#: legacy/snippetview.cpp:89
+#, fuzzy
+msgid "Get New Snippets"
+msgstr "Fragmente"
+
+#: legacy/snippetview.cpp:156
+#, fuzzy, kde-format
+msgid "Snippet: %1"
+msgstr "Fragment:"
+
+#: legacy/snippetview.cpp:164
+#, fuzzy, kde-format
+msgid "Repository: %1"
+msgstr "Depozit"
+
+#: legacy/snippetview.cpp:224
+#, fuzzy, kde-format
+msgid "Do you really want to delete the snippet \"%1\"?"
+msgstr ""
+"Sigur doriți să ștergeți depozitul „%1” cu toate subdepozitele și "
+"fragmentele acestuia?"
+
+#: legacy/snippetview.cpp:264
+#, fuzzy, kde-format
+msgid ""
+"Do you really want to delete the repository \"%1\" with all its snippets?"
+msgstr ""
+"Sigur doriți să ștergeți depozitul „%1” cu toate subdepozitele și "
+"fragmentele acestuia?"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, filterText)
+#: legacy/snippetview.ui:35
+msgid "Define filter here"
+msgstr "Definește filtru aici"
+
+#. i18n: ectx: property (clickMessage), widget (KLineEdit, filterText)
+#: legacy/snippetview.ui:38
+msgid "Filter..."
+msgstr ""
+
+#: snippetplugin.cpp:45
+msgid ""
+"This plugin allows to store code snippets and insert them into open files"
+msgstr ""
+
+#: snippetplugin.cpp:180
+#, fuzzy
+msgid "Create Snippet"
+msgstr "Fragmente"
+
+#: snippetplugin.cpp:218
+#, fuzzy, kde-format
+msgctxt "Autogenerated repository name for a programming language"
+msgid "%1 snippets"
+msgstr "Fragmente"
+
+#~ msgid "Support for managing and using code snippets"
+#~ msgstr "Suport pentru gestiunea și utilizarea fragmentelor de cod"
+
+#, fuzzy
+#~ msgid "Repository"
+#~ msgstr "Adaugă depozit"
+
+#~ msgid "Add an existing Repository"
+#~ msgstr "Adaugă un depozit existent"
+
+#~ msgid "Sync"
+#~ msgstr "Sincronizare"
+
+#~ msgid "Delete"
+#~ msgstr "Șterge"
+
+#~ msgid "Hide"
+#~ msgstr "Ascunde"
+
+#~ msgid "Remove"
+#~ msgstr "Elimină"
+
+#~ msgid "Create a new subrepository"
+#~ msgstr "Creează subdepozit nou"
+
+#~ msgid "Directory name"
+#~ msgstr "Denumire dosar"
+
+#~ msgid "Empty name or location"
+#~ msgstr "Locație sau denumire goală"
+
+#~ msgid "Please enter a name and a location"
+#~ msgstr "Introduceți o denumire și o locație"
+
+#~ msgid "Location:"
+#~ msgstr "Locație:"
+
+#~ msgid "Name"
+#~ msgstr "Denumire"
+
+#, fuzzy
+#~ msgid "test"
+#~ msgstr "Testează"
+
+#~ msgid "Keywords"
+#~ msgstr "Cuvinte-cheie"
+
+#~ msgid "These keywords are used when filtering."
+#~ msgstr "Aceste cuvinte-cheie sînt folosite la filtrare."
+
+#~ msgid "Apply filter"
+#~ msgstr "Aplică filtrul"
+
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgid "Empty name"
+#~ msgstr "Denumire goală"
+
+#~ msgid "Please enter a name"
+#~ msgstr "Introduceți o denumire"

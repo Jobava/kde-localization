@@ -1,0 +1,127 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:21+0000\n"
+"PO-Revision-Date: 2014-10-05 19:26+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: kcmtranslations.cpp:45
+msgid "Translations"
+msgstr "Traduceri"
+
+#: kcmtranslations.cpp:47
+msgid "Configure Plasma translations"
+msgstr "Configurează traducerile Plasma"
+
+#: kcmtranslations.cpp:49
+msgid "John Layt"
+msgstr "John Layt"
+
+#: kcmtranslations.cpp:49
+msgid "Maintainer"
+msgstr "Responsabil"
+
+#: kcmtranslations.cpp:112
+#, kde-format
+msgctxt "%1 is the language code"
+msgid ""
+"The translation files for the language with the code '%2' could not be "
+"found. The language has been removed from your configuration. If you want to "
+"add it back, please install the localization files for it and add the "
+"language again."
+msgid_plural ""
+"The translation files for the languages with the codes '%2' could not be "
+"found. These languages have been removed from your configuration. If you "
+"want to add them back, please install the localization files for it and the "
+"languages again."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: kcmtranslations.cpp:142
+msgid "Your changes will take effect the next time you log in."
+msgstr ""
+
+#: kcmtranslations.cpp:143
+msgid "Applying Language Settings"
+msgstr "Se aplică configurările de limbă"
+
+#: kcmtranslations.cpp:183
+msgid ""
+"<h1>Translations</h1>\n"
+"<p>Here you can set your preferred language for translating the user "
+"interface of your applications. You can choose a single language, or a list "
+"of languages to be applied in sequence. Only language translations that are "
+"installed on your system will be listed as available. If your language is "
+"not listed then you will need to install it first.</p>"
+msgstr ""
+
+#: kcmtranslations.cpp:204
+msgid "Available Languages:"
+msgstr ""
+
+#: kcmtranslations.cpp:205
+msgid ""
+"This is the list of installed KDE Plasma language translations not currently "
+"being used. <br />To use a language translation move it to the 'Preferred "
+"Languages' list in the order of preference.  <br />If no suitable languages "
+"are listed, then you may need to install more language packages using your "
+"usual installation method."
+msgstr ""
+
+#: kcmtranslations.cpp:214
+msgid "Preferred Languages:"
+msgstr "Limbi preferate:"
+
+#: kcmtranslations.cpp:215
+msgid ""
+"This is the list of installed KDE Plasma language translations currently "
+"being used, listed in order of preference.  <br />If a translation is not "
+"available for the first language in the list, the next language will be "
+"used. <br /> If no other translations are available then US English will be "
+"used."
+msgstr ""
+
+#: kcmtranslations.cpp:302
+msgid "Install more languages"
+msgstr "Instalează limbi suplimentare"
+
+#: kcmtranslations.cpp:303
+msgid "<p>Click here to install more languages</p>"
+msgstr "<p>Apăsați aici pentru a instala limbi suplimentare</p>"
+
+#. i18n: ectx: property (availableLabel), widget (KActionSelector, m_selectTranslations)
+#: kcmtranslationswidget.ui:31
+msgid "Available &Translations:"
+msgstr "&Traduceri disponibile:"
+
+#. i18n: ectx: property (selectedLabel), widget (KActionSelector, m_selectTranslations)
+#: kcmtranslationswidget.ui:34
+msgid "Preferred Trans&lations:"
+msgstr "Tra&duceri preferate:"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_buttonTranslationsInstall)
+#: kcmtranslationswidget.ui:44
+msgid "Install more translations"
+msgstr "Instalează traduceri suplimentare"

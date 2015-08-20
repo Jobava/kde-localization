@@ -1,0 +1,40 @@
+# Traducerea desktop_extragear-network_kwlan.po în Română
+# translation of desktop_extragear-network_kwlan to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_extragear-network_kwlan package.
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_extragear-network_kwlan\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"PO-Revision-Date: 2008-03-10 16:37+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu-bivol@mail.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: src/kwlan.desktop:2
+msgctxt "Name"
+msgid "Kwlan"
+msgstr "Kwlan"
+
+#: src/kwlan.desktop:56
+msgctxt "Comment"
+msgid "KDE network manager"
+msgstr "Administrator de rețea KDE"
+
+#: src/kwlan.desktop:104
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid " Wireless Lan Manager"
+msgctxt "GenericName"
+msgid "Wireless Lan Manager"
+msgstr "Administrator rețea fără fir"

@@ -1,0 +1,220 @@
+# Sergiu Bivol <sergiu@ase.md>, 2012, 2013, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-01 09:21+0000\n"
+"PO-Revision-Date: 2015-04-26 13:39+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: config/appearance/kcm_ktp_chat_appearance.desktop:14
+msgctxt "Name"
+msgid "Chat Window Appearance"
+msgstr "Aspectul ferestrei de discuții"
+
+#: config/appearance/kcm_ktp_chat_appearance.desktop:60
+msgctxt "Comment"
+msgid "Choose a Style for your Chat Window and customize it"
+msgstr "Alegeți un stil pentru fereastra de discuții și personalizați-l"
+
+#: config/behavior/kcm_ktp_chat_behavior.desktop:14
+msgctxt "Name"
+msgid "Chat Tab Behavior"
+msgstr "Comportamentul filelor de discuție"
+
+#: config/messages/kcm_ktp_chat_messages.desktop:2
+msgctxt "Name"
+msgid "Plugins"
+msgstr "Extensii"
+
+#: config/messages/kcm_ktp_chat_messages.desktop:53
+msgctxt "Comment"
+msgid "How to deal with extra information obtained from messages"
+msgstr "Cum să procedați cu informațiile suplimentare obținute din mesaje"
+
+#: config/otr/kcm_ktp_chat_otr.desktop:13
+msgctxt "Comment"
+msgid "Encrypt chat sessions with Off-The-Record encryption"
+msgstr "Criptează sesiunile de discuție cu criptare Off-The-Record"
+
+#: config/otr/kcm_ktp_chat_otr.desktop:50
+#: filters/otr/ktptextui_message_filter_otr.desktop.cmake:2
+msgctxt "Name"
+msgid "OTR"
+msgstr "OTR"
+
+#: filters/bugzilla/ktptextui_message_filter_bugzilla.desktop.cmake:3
+msgctxt "Name"
+msgid "Bugzilla Information"
+msgstr "Informații Bugzilla"
+
+#: filters/bugzilla/ktptextui_message_filter_bugzilla.desktop.cmake:47
+msgctxt "Comment"
+msgid ""
+"When receiving a link to a bug on bugzilla show additional information such "
+"as the title and status"
+msgstr ""
+
+#: filters/emoticons/kcm_ktptextui_message_filter_emoticons.desktop:9
+#: filters/emoticons/ktptextui_message_filter_emoticons.desktop.cmake:2
+msgctxt "Name"
+msgid "Emoticons"
+msgstr "Emoticoni"
+
+#: filters/emoticons/ktptextui_message_filter_emoticons.desktop.cmake:51
+msgctxt "Comment"
+msgid "Show emoticons (smiley faces) inside the chat"
+msgstr "Arată emoticoni (fețe zîmbitoare) în interiorul discuției"
+
+#: filters/formatting/ktptextui_message_filter_formatting.desktop.cmake:3
+msgctxt "Name"
+msgid "Text Formatting"
+msgstr "Formatarea textului"
+
+#: filters/formatting/ktptextui_message_filter_formatting.desktop.cmake:48
+msgctxt "Comment"
+msgid ""
+"Use /, _, * and - to make text italic, underlined, bold or strikeout "
+"respectively"
+msgstr ""
+"Folosiți /, _, * și - pentru a face textul cursiv, subliniat, aldin sau "
+"tăiat, respectiv"
+
+#: filters/highlight/ktptextui_message_filter_highlight.desktop.cmake:17
+msgctxt "Name"
+msgid "Highlight"
+msgstr "Evidențiere"
+
+#: filters/highlight/ktptextui_message_filter_highlight.desktop.cmake:63
+msgctxt "Comment"
+msgid ""
+"If any incoming messages contain your nickname, it will highlight them in red"
+msgstr ""
+"Dacă vreun mesaj de intrare vă conține porecla, aceasta le va evidenția în "
+"roșu"
+
+#: filters/images/ktptextui_message_filter_images.desktop.cmake:2
+msgctxt "Name"
+msgid "Image Preview"
+msgstr "Previzualizare imagine"
+
+#: filters/images/ktptextui_message_filter_images.desktop.cmake:49
+msgctxt "Comment"
+msgid "Embed a thumbnail of any image URL sent in a chat"
+msgstr "Înglobează miniatura oricărui URL de imagine trimis într-o discuție"
+
+#: filters/latex/kcm_ktptextui_message_filter_latex.desktop:9
+msgctxt "Name"
+msgid "LaTeX"
+msgstr "LaTeX"
+
+#: filters/latex/ktptextui_message_filter_latex.desktop.cmake:17
+msgctxt "Name"
+msgid "LaTeX Renderer"
+msgstr "Randor LaTeX"
+
+#: filters/latex/ktptextui_message_filter_latex.desktop.cmake:59
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid ""
+#| "If any messages contains a link to a YouTube video, it will embed a "
+#| "preview in the chat"
+msgctxt "Comment"
+msgid ""
+"If incoming messages contain LaTeX between $$, it will render it directly "
+"into the chat."
+msgstr ""
+"Dacă vreun mesaj conține o legătură la un video YouTube, aceasta va "
+"încorpora o previzualizare în discuție"
+
+#: filters/otr/ktptextui_message_filter_otr.desktop.cmake:39
+msgctxt "Comment"
+msgid "If a message is an OTR message, it will not be shown"
+msgstr ""
+
+#: filters/searchexpansion/ktptextui_message_filter_searchexpansion.desktop.cmake:2
+msgctxt "Name"
+msgid "Web Shortcuts"
+msgstr "Acceleratori web"
+
+#: filters/searchexpansion/ktptextui_message_filter_searchexpansion.desktop.cmake:53
+msgctxt "Comment"
+msgid ""
+"Expand a KDE-shortened URI into a URL (i.e. typing wp:KDE will translate to "
+"http://en.wikipedia.org/wiki/KDE)"
+msgstr ""
+
+#: filters/texttospeech/ktptextui_message_filter_tts.desktop.cmake:2
+msgctxt "Name"
+msgid "Text To Speech"
+msgstr "Text-în-vorbire"
+
+#: filters/texttospeech/ktptextui_message_filter_tts.desktop.cmake:48
+msgctxt "Comment"
+msgid "Read out incoming messages using text-to-speech service"
+msgstr "Citește mesajele de intrare folosind serviciul de text-în-vorbire"
+
+#: filters/urlexpansion/ktptextui_message_filter_urlexpansion.desktop.cmake:3
+msgctxt "Name"
+msgid "Short URLs"
+msgstr "URL-uri scurte"
+
+#: filters/urlexpansion/ktptextui_message_filter_urlexpansion.desktop.cmake:45
+msgctxt "Comment"
+msgid "Shows the actual URL to which a shortened URL is redirecting to"
+msgstr "Arată URL-ul real spre care redirecționează un URL scurtat"
+
+#: filters/youtube/ktptextui_message_filter_youtube.desktop.cmake:2
+msgctxt "Name"
+msgid "YouTube Preview"
+msgstr "Previzualizare YouTube"
+
+#: filters/youtube/ktptextui_message_filter_youtube.desktop.cmake:46
+msgctxt "Comment"
+msgid ""
+"If any messages contains a link to a YouTube video, it will embed a preview "
+"in the chat"
+msgstr ""
+"Dacă vreun mesaj conține o legătură la un video YouTube, aceasta va "
+"încorpora o previzualizare în discuție"
+
+#: lib/ktptxtui_message_filter.desktop:4
+msgctxt "Comment"
+msgid "Telepathy Text-Ui Message Filter"
+msgstr "Filtru de mesaje pentru interfața textuală Telepathy"
+
+#: logviewer/config/kcm_ktp_logviewer_behavior.desktop:14
+msgctxt "Name"
+msgid "LogViewer Behavior"
+msgstr ""
+
+#: logviewer/ktp-log-viewer.desktop:2
+msgctxt "Name"
+msgid "KDE IM Log Viewer"
+msgstr "Vizualizator de jurnale pentru MI KDE"
+
+#: logviewer/ktp-log-viewer.desktop:49
+msgctxt "GenericName"
+msgid "KDE Instant Messenger Log Viewer"
+msgstr "Vizualizator de jurnale pentru mesageria instantanee KDE"
+
+#: logviewer/ktp-log-viewer.desktop:95
+msgctxt "Comment"
+msgid "Displays your KDE Instant Messenger logs"
+msgstr "Afișează jurnalele de mesagerie instantanee KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Quick Chat"
+#~ msgstr "Discuție rapidă"
+
+#~ msgctxt "Comment"
+#~ msgid "Simple chats from your workspace"
+#~ msgstr "Discuții simple de pe spațiul de lucru"

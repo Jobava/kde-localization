@@ -1,0 +1,45 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2008.
+# Cristian Oneț <onet.cristian@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevgenericprojectmanager\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-11-07 05:06+0000\n"
+"PO-Revision-Date: 2012-01-04 01:40+0200\n"
+"Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Cristian Oneț"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "onet.cristian@gmail.com"
+
+#: genericmanager.cpp:31
+msgid "Generic Project Manager"
+msgstr "Gestionar de proiect generic"
+
+#: genericmanager.cpp:32
+msgid "A plugin to support basic project management on a filesystem level"
+msgstr ""
+"Un modul cu suport pentru gestionarea de bază a proiectelor la nivel de "
+"sistem de fișiere"
+
+#~ msgid "Include files match the following patterns into the project:"
+#~ msgstr "Include fișiere care se potrivesc cu următoarele tipare în proiect:"
+
+#~ msgid "Exclude files that match the following patterns from the project:"
+#~ msgstr ""
+#~ "Exclude fișiere care se potrivesc cu următoarele tipare din proiect:"

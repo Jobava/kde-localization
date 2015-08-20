@@ -1,0 +1,33 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: nepomuk_geonamesannotationplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2011-08-02 06:54+0200\n"
+"PO-Revision-Date: 2009-04-28 18:41+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: geonamesannotationplugin.cpp:70
+#, kde-format
+msgctxt ""
+"@item:listbox Statement about a person or something being located in a city "
+"or a country"
+msgid "is located in %1"
+msgstr "este amplasat în %1"
+
+#: geonamesannotationplugin.cpp:72
+#, kde-format
+msgctxt "@item:listbox"
+msgid "is a %1 (%2)"
+msgstr ""

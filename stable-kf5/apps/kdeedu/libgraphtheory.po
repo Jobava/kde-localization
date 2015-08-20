@@ -1,0 +1,1963 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-03-03 13:21+0000\n"
+"PO-Revision-Date: 2010-01-20 00:03+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
+"Language-Team: Română <kde-i18n-ro@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
+
+#: dialogs/edgeproperties.cpp:39
+#, fuzzy
+#| msgid "Edge Properties"
+msgctxt "@title:window"
+msgid "Edge Properties"
+msgstr "Proprietăți muchie"
+
+#: dialogs/edgeproperties.cpp:94 dialogs/edgetypeproperties.cpp:62
+#: dialogs/nodeproperties.cpp:104 dialogs/nodetypeproperties.cpp:61
+msgid "Name"
+msgstr "Denumire"
+
+#: dialogs/edgeproperties.cpp:95 dialogs/nodeproperties.cpp:105
+msgid "Value"
+msgstr "Valoare"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, EdgeProperties)
+#: dialogs/edgeproperties.ui:26
+msgid "Edge Properties"
+msgstr "Proprietăți muchie"
+
+#. i18n: ectx: property (text), widget (QLabel, labelType)
+#: dialogs/edgeproperties.ui:52 dialogs/nodeproperties.ui:52
+#, fuzzy
+#| msgid "Graph Files"
+msgid "Type:"
+msgstr "Fișiere graf"
+
+#. i18n: ectx: property (title), widget (QGroupBox, DynamicProperties)
+#: dialogs/edgeproperties.ui:98 dialogs/nodeproperties.ui:138
+#, fuzzy
+#| msgid "Node Properties"
+msgid "Dynamic Properties"
+msgstr "Proprietăți nod"
+
+#. i18n: ectx: property (text), widget (QLabel, labelConnection)
+#: dialogs/edgetypeproperties.cpp:51
+#: editorplugins/assignvalues/assignvalueswidget.ui:460
+#, fuzzy
+#| msgid "Edge style"
+msgid "Edges"
+msgstr "Stil muchie"
+
+#: dialogs/edgetypeproperties.cpp:52 dialogs/nodetypeproperties.cpp:50
+#, fuzzy
+#| msgid "Property"
+msgid "Property Names"
+msgstr "Proprietate"
+
+#: dialogs/edgetypeproperties.cpp:57
+#, fuzzy
+#| msgid "Edge Properties"
+msgctxt "@title:window"
+msgid "Edge Type Properties"
+msgstr "Proprietăți muchie"
+
+#. i18n: ectx: property (text), widget (QLabel, labelIdentifier)
+#: dialogs/edgetypeproperties.cpp:63 dialogs/nodetypeproperties.cpp:63
+#: editorplugins/generategraph/generategraphwidget.ui:113
+msgid "Identifier"
+msgstr ""
+
+#: dialogs/edgetypeproperties.cpp:65 dialogs/nodetypeproperties.cpp:66
+#, fuzzy
+#| msgid "Color:"
+msgid "Color"
+msgstr "Culoare:"
+
+#: dialogs/edgetypeproperties.cpp:66
+#, fuzzy
+#| msgid "Connection Type"
+msgid "Unidirectional"
+msgstr "Tip conexiune"
+
+#: dialogs/edgetypeproperties.cpp:67
+#, fuzzy
+#| msgid "Connection Type"
+msgid "Bidirectional"
+msgstr "Tip conexiune"
+
+#: dialogs/edgetypeproperties.cpp:68
+#, fuzzy
+#| msgid "Connection Type"
+msgid "Direction"
+msgstr "Tip conexiune"
+
+#: dialogs/edgetypeproperties.cpp:75 dialogs/nodetypeproperties.cpp:73
+msgid "Visibility"
+msgstr ""
+
+#: dialogs/edgetypeproperties.cpp:154
+#, fuzzy
+#| msgid "Select"
+msgctxt "@info:tooltip"
+msgid "The selected ID for this edge type."
+msgstr "Alege"
+
+#: dialogs/edgetypeproperties.cpp:158
+msgctxt "@info:tooltip"
+msgid ""
+"The selected ID is already used for another edge type, please select a "
+"different one."
+msgstr ""
+
+#: dialogs/nodeproperties.cpp:40
+#, fuzzy
+#| msgid "Node Properties"
+msgctxt "@title:window"
+msgid "Node Properties"
+msgstr "Proprietăți nod"
+
+#: dialogs/nodeproperties.cpp:150
+#, fuzzy
+#| msgid "Select"
+msgctxt "@info:tooltip"
+msgid "The selected ID for this node."
+msgstr "Alege"
+
+#: dialogs/nodeproperties.cpp:154
+msgctxt "@info:tooltip"
+msgid ""
+"The selected ID is already used for another node, please select a different "
+"one."
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, NodeProperties)
+#: dialogs/nodeproperties.ui:26
+msgid "Node Properties"
+msgstr "Proprietăți nod"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelColor)
+#. i18n: ectx: property (toolTip), widget (KColorCombo, color)
+#: dialogs/nodeproperties.ui:99 dialogs/nodeproperties.ui:112
+msgid "Node color"
+msgstr "Culoare nod"
+
+#. i18n: ectx: property (text), widget (QLabel, labelColor)
+#: dialogs/nodeproperties.ui:102
+msgid "Color:"
+msgstr "Culoare:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelId)
+#: dialogs/nodeproperties.ui:119
+msgid "Identifier:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, labelData)
+#: dialogs/nodetypeproperties.cpp:49
+#: editorplugins/assignvalues/assignvalueswidget.ui:434
+#, fuzzy
+#| msgid "Nodes:"
+msgid "Nodes"
+msgstr "Noduri:"
+
+#: dialogs/nodetypeproperties.cpp:55
+#, fuzzy
+#| msgid "Node Properties"
+msgctxt "@title:window"
+msgid "Node Type Properties"
+msgstr "Proprietăți nod"
+
+#: dialogs/nodetypeproperties.cpp:150
+#, fuzzy
+#| msgid "Select"
+msgctxt "@info:tooltip"
+msgid "The selected ID for this node type."
+msgstr "Alege"
+
+#: dialogs/nodetypeproperties.cpp:154
+msgctxt "@info:tooltip"
+msgid ""
+"The selected ID is already used for another node type, please select a "
+"different one."
+msgstr ""
+
+#: dialogs/propertieswidget.cpp:48
+#, fuzzy
+#| msgid "Property"
+msgid "Add Property"
+msgstr "Proprietate"
+
+#: dialogs/propertydelegate.cpp:65
+msgid "Delete this property."
+msgstr ""
+
+#: editorplugins/assignvalues/assignvalueswidget.cpp:48
+#, fuzzy
+#| msgid "Edge value"
+msgctxt "@title:window"
+msgid "Assign Values"
+msgstr "Valoare muchie"
+
+#: editorplugins/assignvalues/assignvalueswidget.cpp:67
+#, fuzzy
+#| msgid "Select"
+msgid "All Data Types"
+msgstr "Alege"
+
+#: editorplugins/assignvalues/assignvalueswidget.cpp:71
+#, fuzzy
+#| msgid "Connection Type"
+msgid "All Connection Types"
+msgstr "Tip conexiune"
+
+#: editorplugins/assignvalues/assignvalueswidget.cpp:94
+#, fuzzy
+#| msgid "Node Properties"
+msgid "Enter Property Name"
+msgstr "Proprietăți nod"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, AssignValuesWidget)
+#: editorplugins/assignvalues/assignvalueswidget.ui:32
+#, fuzzy
+#| msgid "Edge value"
+msgid "Assign Values"
+msgstr "Valoare muchie"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: editorplugins/assignvalues/assignvalueswidget.ui:40
+#, fuzzy
+#| msgid "Node Properties"
+msgid "Choose Properties"
+msgstr "Proprietăți nod"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, buttonShowAdvanced)
+#: editorplugins/assignvalues/assignvalueswidget.ui:59
+#, fuzzy
+#| msgid "Show all nodes' names"
+msgid "Show advanced options."
+msgstr "Arată denumirile tuturor nodurilor"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: editorplugins/assignvalues/assignvalueswidget.ui:74
+msgid "Assignment Method"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBoxMethod)
+#: editorplugins/assignvalues/assignvalueswidget.ui:81
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Enumerate Items"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBoxMethod)
+#: editorplugins/assignvalues/assignvalueswidget.ui:86
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Enumerate Alpha"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBoxMethod)
+#: editorplugins/assignvalues/assignvalueswidget.ui:91
+msgid "Enumerate Alpha-Numeric"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBoxMethod)
+#: editorplugins/assignvalues/assignvalueswidget.ui:96
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Assign Random Integers"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBoxMethod)
+#: editorplugins/assignvalues/assignvalueswidget.ui:101
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Assign Random Reals"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBoxMethod)
+#: editorplugins/assignvalues/assignvalueswidget.ui:106
+#, fuzzy
+#| msgid "Edge value"
+msgid "Assign Constant Value"
+msgstr "Valoare muchie"
+
+#. i18n: ectx: property (text), widget (QLabel, IDlabelStartValue)
+#. i18n: ectx: property (text), widget (QLabel, LabelAlphaNumericID)
+#: editorplugins/assignvalues/assignvalueswidget.ui:132
+#: editorplugins/assignvalues/assignvalueswidget.ui:192
+msgid "Start ID"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, LabelInitialString)
+#: editorplugins/assignvalues/assignvalueswidget.ui:167
+msgid "Initial string"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLineEdit, LineEditInitialString)
+#: editorplugins/assignvalues/assignvalueswidget.ui:174
+msgid "a"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, LabelAlphaNumericPrefix)
+#: editorplugins/assignvalues/assignvalueswidget.ui:209
+msgid "Prefix"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: editorplugins/assignvalues/assignvalueswidget.ui:230
+#: editorplugins/assignvalues/assignvalueswidget.ui:298
+msgid "Lower Limit"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: editorplugins/assignvalues/assignvalueswidget.ui:250
+#: editorplugins/assignvalues/assignvalueswidget.ui:305
+msgid "Upper Limit"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: editorplugins/assignvalues/assignvalueswidget.ui:257
+#: editorplugins/assignvalues/assignvalueswidget.ui:312
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Generator Seed"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: editorplugins/assignvalues/assignvalueswidget.ui:372
+msgid "Constant"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: editorplugins/assignvalues/assignvalueswidget.ui:400
+msgid "Overwrite existing values"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, labelProperty)
+#: editorplugins/assignvalues/assignvalueswidget.ui:447
+#, fuzzy
+#| msgid "Property"
+msgid "Property Name"
+msgstr "Proprietate"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, applyToEdges)
+#: editorplugins/assignvalues/assignvalueswidget.ui:482
+msgid "Assign values to selected edges."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, applyToNodes)
+#: editorplugins/assignvalues/assignvalueswidget.ui:509
+msgid "Assign values to selected nodes."
+msgstr ""
+
+#: editorplugins/generategraph/generategraphwidget.cpp:89
+#, fuzzy
+#| msgid "Save Graph"
+msgctxt "@title:window"
+msgid "Generate Graph"
+msgstr "Salvează graful"
+
+#: editorplugins/generategraph/generategraphwidget.cpp:129
+#: editorplugins/generategraph/generategraphwidget.cpp:140
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "%1 (ID %2)"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, GenerateGraphWidget)
+#: editorplugins/generategraph/generategraphwidget.ui:14
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Generate Graph"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (text), widget (QLabel, labelGenerator)
+#: editorplugins/generategraph/generategraphwidget.ui:20
+#, fuzzy
+#| msgid "graph name here"
+msgid "Graph Generator"
+msgstr "denumirea grafului aici"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelNodeType)
+#: editorplugins/generategraph/generategraphwidget.ui:27
+msgid "The node type to create the nodes of the graph with"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, labelNodeType)
+#: editorplugins/generategraph/generategraphwidget.ui:30
+#, fuzzy
+#| msgid "Node size"
+msgid "Node type"
+msgstr "Dimensiune nod"
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, comboGraphGenerator)
+#: editorplugins/generategraph/generategraphwidget.ui:46
+msgid "Select the graph generator."
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, comboGraphGenerator)
+#: editorplugins/generategraph/generategraphwidget.ui:50
+#, fuzzy
+#| msgid "New Graph"
+msgid "Mesh Graph"
+msgstr "Graf nou"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, comboGraphGenerator)
+#: editorplugins/generategraph/generategraphwidget.ui:55
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Star Graph"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, comboGraphGenerator)
+#: editorplugins/generategraph/generategraphwidget.ui:60
+#, fuzzy
+#| msgid "New Graph"
+msgid "Circle Graph"
+msgstr "Graf nou"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, comboGraphGenerator)
+#: editorplugins/generategraph/generategraphwidget.ui:65
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Random Graph"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, comboGraphGenerator)
+#: editorplugins/generategraph/generategraphwidget.ui:70
+msgid "Erdös-Renyi Graph"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, comboGraphGenerator)
+#: editorplugins/generategraph/generategraphwidget.ui:75
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Random Tree Graph"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, buttonShowAdvanced)
+#: editorplugins/generategraph/generategraphwidget.ui:95
+msgid "Show advanced settings."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelIdentifier)
+#: editorplugins/generategraph/generategraphwidget.ui:110
+msgid "The identifier of the created graph (used for scripting)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_columns)
+#: editorplugins/generategraph/generategraphwidget.ui:132
+msgid "Number of Columns:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_rows)
+#: editorplugins/generategraph/generategraphwidget.ui:152
+msgid "Number of Rows:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_numberSatellite)
+#: editorplugins/generategraph/generategraphwidget.ui:180
+msgid "Satellite Nodes:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_numberCircle)
+#: editorplugins/generategraph/generategraphwidget.ui:208
+msgid "Number of Nodes:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_randomNodes)
+#. i18n: ectx: property (text), widget (QLabel, label_randomTreeNodes)
+#: editorplugins/generategraph/generategraphwidget.ui:236
+#: editorplugins/generategraph/generategraphwidget.ui:388
+msgid "Nodes:"
+msgstr "Noduri:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_randomEdges)
+#: editorplugins/generategraph/generategraphwidget.ui:256
+#, fuzzy
+#| msgid "Edge style"
+msgid "Edges:"
+msgstr "Stil muchie"
+
+#. i18n: ectx: property (text), widget (QLabel, label_randomSelfEdges)
+#. i18n: ectx: property (text), widget (QLabel, label_GNPSelfEdges)
+#: editorplugins/generategraph/generategraphwidget.ui:270
+#: editorplugins/generategraph/generategraphwidget.ui:316
+msgid "Allow self-edges:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_randomGeneratorSeed)
+#. i18n: ectx: property (text), widget (QLabel, label_GNPGeneratorSeed)
+#. i18n: ectx: property (text), widget (QLabel, label_randomTreeGeneratorSeed)
+#: editorplugins/generategraph/generategraphwidget.ui:277
+#: editorplugins/generategraph/generategraphwidget.ui:340
+#: editorplugins/generategraph/generategraphwidget.ui:405
+#, fuzzy
+#| msgid "Save Graph"
+msgid "Generator Seed:"
+msgstr "Salvează graful"
+
+#. i18n: ectx: property (text), widget (QLabel, label_GNPNodes)
+#: editorplugins/generategraph/generategraphwidget.ui:309
+#, fuzzy
+#| msgid "Nodes:"
+msgid "Nodes (n):"
+msgstr "Noduri:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_GNPEdgeProbability)
+#: editorplugins/generategraph/generategraphwidget.ui:333
+msgid "Edge Probability (p):"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelEdgeType)
+#: editorplugins/generategraph/generategraphwidget.ui:428
+msgid "The edge type to create the edges of the graph with"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, labelEdgeType)
+#: editorplugins/generategraph/generategraphwidget.ui:431
+#, fuzzy
+#| msgid "Edge style"
+msgid "Edge type"
+msgstr "Stil muchie"
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, nodeTypeSelector)
+#: editorplugins/generategraph/generategraphwidget.ui:438
+msgid "Select the node type for node elements of the generated graph."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, edgeTypeSelector)
+#: editorplugins/generategraph/generategraphwidget.ui:445
+msgid "Select the edge type for connections of the generated graph."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, identifier)
+#: editorplugins/generategraph/generategraphwidget.ui:452
+msgid "Set the unique identifier of the generated graph."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLineEdit, identifier)
+#: editorplugins/generategraph/generategraphwidget.ui:455
+#, fuzzy
+#| msgid "Graph"
+msgid "Graph"
+msgstr "Grafic"
+
+#: editorplugins/transformedges/transformedgeswidget.cpp:38
+msgctxt "@title:window"
+msgid "Transform Edges"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, TransformEdgesWidget)
+#: editorplugins/transformedges/transformedgeswidget.ui:14
+msgid "Transform Edges"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioButtonMakeComplete)
+#: editorplugins/transformedges/transformedgeswidget.ui:22
+msgid ""
+"This option connects all nodes of the given graph. The new edges do not have "
+"any preset weights."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButtonMakeComplete)
+#: editorplugins/transformedges/transformedgeswidget.ui:25
+#, fuzzy
+#| msgid "Complete"
+msgid "Complete Graph"
+msgstr "Complet"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioButtonEraseEdges)
+#: editorplugins/transformedges/transformedgeswidget.ui:35
+msgid "This option removes all edges from the given graph."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButtonEraseEdges)
+#: editorplugins/transformedges/transformedgeswidget.ui:38
+msgid "Remove all Edges"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioButtonReverseEdges)
+#: editorplugins/transformedges/transformedgeswidget.ui:45
+msgid ""
+"This option reverses all edges of a directed graph. Note that this does not "
+"apply to undirected graphs."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButtonReverseEdges)
+#: editorplugins/transformedges/transformedgeswidget.ui:48
+msgid "Reverse all Edges"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, radioButtonMakeSpanningtree)
+#: editorplugins/transformedges/transformedgeswidget.ui:59
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">This option executes <span "
+"style=\" font-style:italic;\">Prim's Minimal Spanning Tree Algorithm</span> "
+"at the graph. All edges without given weights are assumed to have weights "
+"equals 1. Directed and undirected graphs are processed accordingly.</p></"
+"body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButtonMakeSpanningtree)
+#: editorplugins/transformedges/transformedgeswidget.ui:62
+msgid "Spanning Tree Transformation"
+msgstr ""
+
+#: fileformats/dot/dotfileformat.cpp:57
+#, fuzzy, kde-format
+#| msgid "Graph Files"
+msgid "Graphviz Format (%1)"
+msgstr "Fișiere graf"
+
+#: fileformats/dot/dotfileformat.cpp:68 fileformats/gml/gmlfileformat.cpp:67
+#: fileformats/rocs1/rocs1fileformat.cpp:74
+#: fileformats/rocs2/rocs2fileformat.cpp:69
+#: fileformats/tgf/tgffileformat.cpp:68
+#, kde-format
+msgid "Could not open file \"%1\" in read mode: %2"
+msgstr ""
+
+#: fileformats/dot/dotfileformat.cpp:73 fileformats/gml/gmlfileformat.cpp:73
+#, kde-format
+msgid "Could not parse file \"%1\"."
+msgstr ""
+
+#: fileformats/dot/dotfileformat.cpp:87 fileformats/gml/gmlfileformat.cpp:88
+#, kde-format
+msgid "Cannot open file %1 to write document. Error: %2"
+msgstr ""
+
+#: fileformats/gml/gmlfileformat.cpp:56
+#, kde-format
+msgid "Graph Markup Language Format (%1)"
+msgstr ""
+
+#: fileformats/rocs1/rocs1fileformat.cpp:64
+#, fuzzy, kde-format
+#| msgid ""
+#| "*.graph|Graph files\n"
+#| "*.*|All files"
+msgid "Rocs 1 Graph File Format (%1)"
+msgstr ""
+"*.graph|Fișiere graf\n"
+"*.*|Toate fișierele"
+
+#: fileformats/rocs1/rocs1fileformat.cpp:264
+#: fileformats/rocs2/rocs2fileformat.cpp:205
+#: fileformats/tgf/tgffileformat.cpp:119
+#: fileformats/tikz/tikzfileformat.cpp:71
+#, kde-format
+msgid "Could not open file \"%1\" in write mode: %2"
+msgstr ""
+
+#: fileformats/rocs1/rocs1fileformat.cpp:275
+#, kde-format
+msgid "Could not write data, aborting. Error: %1."
+msgstr ""
+
+#: fileformats/rocs2/rocs2fileformat.cpp:56
+#, fuzzy, kde-format
+#| msgid ""
+#| "*.graph|Graph files\n"
+#| "*.*|All files"
+msgid "Rocs Graph Format (%1)"
+msgstr ""
+"*.graph|Fișiere graf\n"
+"*.*|Toate fișierele"
+
+#: fileformats/rocs2/rocs2fileformat.cpp:298
+msgid "Error on serializing file format to file."
+msgstr ""
+
+#: fileformats/tgf/tgffileformat.cpp:53
+#, fuzzy, kde-format
+#| msgid "Graph Files"
+msgid "Trivial Graph Format (%1)"
+msgstr "Fișiere graf"
+
+#: fileformats/tgf/tgffileformat.cpp:89
+#, kde-format
+msgid "Could not parse file. Identifier \"%1\" is used more than once."
+msgstr ""
+
+#: fileformats/tgf/tgffileformat.cpp:101
+#, kde-format
+msgid "Could not parse file. Edge from \"%1\" to \"%2\" uses undefined nodes."
+msgstr ""
+
+#: fileformats/tikz/tikzfileformat.cpp:52
+#, kde-format
+msgid "TikZ (PGF) Format (%1)"
+msgstr ""
+
+#: graphdocument.cpp:131 graphdocument.cpp:132
+#, fuzzy
+#| msgid "Color:"
+msgid "default"
+msgstr "Culoare:"
+
+#: graphdocument.cpp:316
+#, fuzzy
+#| msgid "New Graph"
+msgctxt "@title:tab initial title for graph document"
+msgid "New Graph"
+msgstr "Graf nou"
+
+#: kernel/documentwrapper.cpp:106
+#, kde-format
+msgctxt "@info:shell"
+msgid "%1: no node with ID %2 registered"
+msgstr ""
+
+#: kernel/documentwrapper.cpp:134 kernel/nodewrapper.cpp:126
+#, kde-format
+msgctxt "@info:shell"
+msgid "%1: node type ID %2 not registered"
+msgstr ""
+
+#: kernel/documentwrapper.cpp:172 kernel/edgewrapper.cpp:75
+#: kernel/nodewrapper.cpp:153 kernel/nodewrapper.cpp:183
+#: kernel/nodewrapper.cpp:213 kernel/nodewrapper.cpp:247
+#: kernel/nodewrapper.cpp:290 kernel/nodewrapper.cpp:338
+#, kde-format
+msgctxt "@info:shell"
+msgid "%1: edge type ID %2 not registered"
+msgstr ""
+
+#: kernel/documentwrapper.cpp:200
+#, kde-format
+msgctxt "@info:shell"
+msgid "%1: \"from\" is not a valid node object"
+msgstr ""
+
+#: kernel/documentwrapper.cpp:205
+#, kde-format
+msgctxt "@info:shell"
+msgid "%1: \"to\" is not a valid node object"
+msgstr ""
+
+#: kernel/documentwrapper.cpp:218
+#, kde-format
+msgctxt "@info:shell"
+msgid "%1: \"node\" is not a valid node object"
+msgstr ""
+
+#: kernel/documentwrapper.cpp:232
+#, kde-format
+msgctxt "@info:shell"
+msgid "%1: \"edge\" is not a valid edge object"
+msgstr ""
+
+#: kernel/kernel.cpp:112
+msgctxt "@info status message after successful script execution"
+msgid "<i>Execution Finished</i>"
+msgstr ""
+
+#: models/edgemodel.cpp:173
+#, fuzzy
+#| msgid "Edge style"
+msgctxt "@title:column"
+msgid "Edge"
+msgstr "Stil muchie"
+
+#: models/edgepropertymodel.cpp:177
+#, fuzzy
+#| msgid "Edge Properties"
+msgctxt "@title:column"
+msgid "EdgeProperty"
+msgstr "Proprietăți muchie"
+
+#: models/edgetypemodel.cpp:226
+#, fuzzy
+#| msgid "Edge style"
+msgctxt "@title:column"
+msgid "Edge Type"
+msgstr "Stil muchie"
+
+#: models/edgetypepropertymodel.cpp:163
+#, fuzzy
+#| msgid "Edge Properties"
+msgctxt "@title:column"
+msgid "EdgeTypeProperty"
+msgstr "Proprietăți muchie"
+
+#: models/nodemodel.cpp:168
+#, fuzzy
+#| msgid "Nodes:"
+msgctxt "@title:column"
+msgid "Node"
+msgstr "Noduri:"
+
+#: models/nodepropertymodel.cpp:177
+#, fuzzy
+#| msgid "Node Properties"
+msgctxt "@title:column"
+msgid "NodeProperty"
+msgstr "Proprietăți nod"
+
+#: models/nodetypemodel.cpp:224
+#, fuzzy
+#| msgid "Node size"
+msgctxt "@title:column"
+msgid "Node Type"
+msgstr "Dimensiune nod"
+
+#: models/nodetypepropertymodel.cpp:163
+#, fuzzy
+#| msgid "Node Properties"
+msgctxt "@title:column"
+msgid "NodeTypeProperty"
+msgstr "Proprietăți nod"
+
+#: qml/AddEdgeAction.qml:42
+msgid "Create Edge"
+msgstr ""
+
+#: qml/AddEdgeAction.qml:45
+#, fuzzy
+#| msgid "Creates a new edge between 2 nodes"
+msgid "Create an edge between two nodes"
+msgstr "Creează o nouă muchie între două noduri"
+
+#: qml/AddNodeAction.qml:27
+msgid "Create Node"
+msgstr ""
+
+#: qml/AddNodeAction.qml:30
+#, fuzzy
+#| msgid "Align on the center"
+msgid "Add a node to the scene"
+msgstr "Aliniază pe centru"
+
+#: qml/DeleteAction.qml:27
+#, fuzzy
+#| msgid "Node Properties"
+msgid "Delete Element"
+msgstr "Proprietăți nod"
+
+#: qml/DeleteAction.qml:30
+msgid "Delete element from scene"
+msgstr ""
+
+#: qml/SelectMoveAction.qml:28
+#, fuzzy
+#| msgid "Select"
+msgid "Select & Move"
+msgstr "Alege"
+
+#: qml/SelectMoveAction.qml:31
+msgid "Select and move elements on the scene"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgctxt "Scripting API Description"
+#~ msgid "The x-coordinate of this data element."
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgctxt "Scripting API Description"
+#~ msgid "The y-coordinate of this data element."
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgctxt "Scripting API Description"
+#~ msgid "The size of this data element."
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgctxt "Scripting API Description"
+#~ msgid "The unique name of this data structure."
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgctxt "@title Displayed plugin name"
+#~ msgid "Graph Structure"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgctxt "X-coordinate "
+#~| msgid "x"
+#~ msgctxt "coordinate axis"
+#~ msgid "x"
+#~ msgstr "x"
+
+#, fuzzy
+#~| msgctxt "Y-coordinate "
+#~| msgid "y"
+#~ msgctxt "coordinate axis"
+#~ msgid "y"
+#~ msgstr "y"
+
+#, fuzzy
+#~| msgid "Size:"
+#~ msgid "Size"
+#~ msgstr "Dimensiune:"
+
+#, fuzzy
+#~| msgid "Graph Files"
+#~ msgid "Graph Type:"
+#~ msgstr "Fișiere graf"
+
+#, fuzzy
+#~| msgid "untitled"
+#~ msgctxt ""
+#~ "@label:inlistbox graph for which several edges between same nodes may "
+#~ "exist"
+#~ msgid "Multigraph"
+#~ msgstr "neintitulat"
+
+#, fuzzy
+#~| msgid "Creates a new edge between 2 nodes"
+#~ msgctxt "Scripting API Description"
+#~ msgid "Create a new node of default type and return the created node."
+#~ msgstr "Creează o nouă muchie între două noduri"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title Displayed plugin name"
+#~ msgid "Linked List Structure"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title Displayed plugin name"
+#~ msgid "RootedTree Structure"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgctxt "@option:check"
+#~ msgid "Show all pointers"
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgctxt ""
+#~ "document that contains graphs or data structures as a visual "
+#~ "representation"
+#~ msgid "Document"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgid ""
+#~| "*.graph|Graph files\n"
+#~| "*.*|All files"
+#~ msgctxt "@title Displayed plugin name"
+#~ msgid "Graphviz Graph File Backend"
+#~ msgstr ""
+#~ "*.graph|Fișiere graf\n"
+#~ "*.*|Toate fișierele"
+
+#, fuzzy
+#~| msgid "Complete"
+#~ msgid "Import"
+#~ msgstr "Complet"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgid "No active graph in this document."
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid ""
+#~| "*.graph|Graph files\n"
+#~| "*.*|All files"
+#~ msgctxt "@title Displayed plugin name"
+#~ msgid "GML File Backend"
+#~ msgstr ""
+#~ "*.graph|Fișiere graf\n"
+#~ "*.*|Toate fișierele"
+
+#, fuzzy
+#~| msgid ""
+#~| "*.graph|Graph files\n"
+#~| "*.*|All files"
+#~ msgctxt "@title Displayed plugin name"
+#~ msgid "KML File Backend"
+#~ msgstr ""
+#~ "*.graph|Fișiere graf\n"
+#~ "*.*|Toate fișierele"
+
+#, fuzzy
+#~| msgid ""
+#~| "*.graph|Graph files\n"
+#~| "*.*|All files"
+#~ msgctxt "@title Displayed plugin name"
+#~ msgid "TGF File Backend"
+#~ msgstr ""
+#~ "*.graph|Fișiere graf\n"
+#~ "*.*|Toate fișierele"
+
+#, fuzzy
+#~| msgid ""
+#~| "*.graph|Graph files\n"
+#~| "*.*|All files"
+#~ msgctxt "@title Displayed plugin name"
+#~ msgid "Rocs Graph File Backend"
+#~ msgstr ""
+#~ "*.graph|Fișiere graf\n"
+#~ "*.*|Toate fișierele"
+
+#, fuzzy
+#~| msgid "Connection Type"
+#~ msgctxt "Scripting API Description"
+#~ msgid "End of the connection"
+#~ msgstr "Tip conexiune"
+
+#, fuzzy
+#~| msgid "Connection Type"
+#~ msgid "Connection"
+#~ msgstr "Tip conexiune"
+
+#, fuzzy
+#~| msgid "untitled"
+#~ msgctxt "dynamic property that is present multiple times"
+#~ msgid "Multiple"
+#~ msgstr "neintitulat"
+
+#, fuzzy
+#~| msgid "None"
+#~ msgctxt "type of dynamic property"
+#~ msgid "None"
+#~ msgstr "Niciunul"
+
+#, fuzzy
+#~| msgid "Add Edge"
+#~ msgctxt "@action:intoolbar"
+#~ msgid "Add Edge"
+#~ msgstr "Adaugă muchie"
+
+#, fuzzy
+#~| msgid "Creates a new edge between 2 nodes"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Creates a new node at the click position."
+#~ msgstr "Creează o nouă muchie între două noduri"
+
+#~ msgid "untitled"
+#~ msgstr "neintitulat"
+
+#, fuzzy
+#~| msgid "Delete"
+#~ msgctxt "@action:intoolbar"
+#~ msgid "Delete"
+#~ msgstr "Șterge"
+
+#, fuzzy
+#~| msgid "Delete items by clicking on them."
+#~ msgctxt "@info:tooltip"
+#~ msgid "Delete items by clicking on them."
+#~ msgstr "Șterge elementele apăsînd pe ele."
+
+#, fuzzy
+#~| msgid "Edge Properties"
+#~ msgctxt "@title:window"
+#~ msgid "Data Type Properties"
+#~ msgstr "Proprietăți muchie"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title:window"
+#~ msgid "Pointer Type Properties"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Move Node"
+#~ msgctxt "@action:intoolbar"
+#~ msgid "Move"
+#~ msgstr "Mută nod"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@action:button"
+#~ msgid "Properties"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgctxt "@label:listbox"
+#~ msgid "Graph Document:"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgid "Select"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Remove selected data structure."
+#~ msgstr "Alege"
+
+#, fuzzy
+#~| msgid "Select"
+#~ msgid "Edit Data Types"
+#~ msgstr "Alege"
+
+#, fuzzy
+#~| msgid "Edge Properties"
+#~ msgctxt "@title:window"
+#~ msgid "Data Element Properties"
+#~ msgstr "Proprietăți muchie"
+
+#, fuzzy
+#~| msgid "Edge Properties"
+#~ msgid "Data Properties"
+#~ msgstr "Proprietăți muchie"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgid "Static Properties"
+#~ msgstr "Proprietăți nod"
+
+#~ msgid "Name:"
+#~ msgstr "Denumire:"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgid "Data Structure Plugin:"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgid "Data Structure Plugin Properties"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title:tab"
+#~ msgid "Pointer Types"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title:window"
+#~ msgid "Data Structure Properties"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Property"
+#~ msgctxt "Property identifier, only a-Z and no spaces"
+#~ msgid "property%1"
+#~ msgstr "Proprietate"
+
+#, fuzzy
+#~| msgid "Select"
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Data Type"
+#~ msgstr "Alege"
+
+#, fuzzy
+#~| msgid "Select"
+#~ msgid "Select Data Type:"
+#~ msgstr "Alege"
+
+#, fuzzy
+#~| msgid "Select"
+#~ msgid "Remove selected data type."
+#~ msgstr "Alege"
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgid "Add new data type."
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#, fuzzy
+#~| msgid "Color:"
+#~ msgid "Default Color:"
+#~ msgstr "Culoare:"
+
+#, fuzzy
+#~| msgid "Edge Properties"
+#~ msgid "Data Type Properties"
+#~ msgstr "Proprietăți muchie"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title:window"
+#~ msgid "Document Properties"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgid "Edit Pointer Types"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title:window"
+#~ msgid "Pointer Properties"
+#~ msgstr "Proprietăți nod"
+
+#~ msgid "Width:"
+#~ msgstr "Lățime:"
+
+#, fuzzy
+#~| msgid "solid"
+#~ msgctxt "@item:inlistbox"
+#~ msgid "solid line"
+#~ msgstr "solid"
+
+#, fuzzy
+#~| msgid "dash"
+#~ msgctxt "@item:inlistbox"
+#~ msgid "dash line"
+#~ msgstr "linie"
+
+#, fuzzy
+#~| msgid "dash dot"
+#~ msgctxt "@item:inlistbox"
+#~ msgid "dash dot line"
+#~ msgstr "linie punct"
+
+#, fuzzy
+#~| msgid "Connection Type"
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Connection"
+#~ msgstr "Tip conexiune"
+
+#, fuzzy
+#~| msgid "Select"
+#~ msgid "Select Pointer Type:"
+#~ msgstr "Alege"
+
+#~ msgid "Style:"
+#~ msgstr "Stil:"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgid "Pointer Type Properties"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title:menu"
+#~ msgid "Data Structure"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgctxt "@action:inmenu align elements at center"
+#~ msgid "Center"
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid "Circular"
+#~ msgctxt "@action:inmenu align elements as a circle"
+#~ msgid "Circle"
+#~ msgstr "Circular"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Properties"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Value"
+#~ msgctxt "@title:menu Assign values"
+#~ msgid "Values"
+#~ msgstr "Valoare"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgctxt "@action:inmenu Value"
+#~ msgid "Random Reals"
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid "Delete"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Delete"
+#~ msgstr "Șterge"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgctxt "@Title Displayed plugin name"
+#~ msgid "Generate Graph"
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgid "RandomGraph"
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgid "centered"
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Set visibility of pointers"
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#, fuzzy
+#~| msgid "Open Graph..."
+#~ msgctxt "@action:button"
+#~ msgid "Export"
+#~ msgstr "Deschidere graf..."
+
+#, fuzzy
+#~| msgid "Open Graph..."
+#~ msgctxt "@info:tooltip"
+#~ msgid "Export graphs to file"
+#~ msgstr "Deschidere graf..."
+
+#, fuzzy
+#~| msgid "Open Script..."
+#~ msgctxt "@title:window"
+#~ msgid "Import Graph File into Project"
+#~ msgstr "Deschide script..."
+
+#, fuzzy
+#~| msgid "Debugger"
+#~ msgctxt "@item:inlistbox Select output"
+#~ msgid "Program Messages"
+#~ msgstr "Depanator"
+
+#, fuzzy
+#~| msgid "Debugger"
+#~ msgctxt "@item:inlistbox Select output"
+#~ msgid "Debug Messages"
+#~ msgstr "Depanator"
+
+#, fuzzy
+#~| msgid "Select"
+#~ msgctxt "@label:listbox"
+#~ msgid "Select output:"
+#~ msgstr "Alege"
+
+#, fuzzy
+#~| msgid "Run"
+#~ msgctxt "@action:intoolbar Script Execution"
+#~ msgid "Run"
+#~ msgstr "Execută"
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Add new data element"
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgctxt "@action:intoolbar Alignment"
+#~ msgid "Center"
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid "Circular"
+#~ msgctxt "@action:intoolbar Alignment"
+#~ msgid "Circle"
+#~ msgstr "Circular"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@action:inmenu"
+#~ msgid "New Project"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Save Script"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Save Project"
+#~ msgstr "Salvează script"
+
+#, fuzzy
+#~| msgid "Open Script..."
+#~ msgctxt "@action:inmenu"
+#~ msgid "Open Project"
+#~ msgstr "Deschide script..."
+
+#, fuzzy
+#~| msgid "Open Script..."
+#~ msgctxt "@action:inmenu"
+#~ msgid "Recent Projects"
+#~ msgstr "Deschide script..."
+
+#, fuzzy
+#~| msgid "Save Script"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Save Project as"
+#~ msgstr "Salvează script"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgctxt "@action:inmenu"
+#~ msgid "New Graph Document"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgid "New Script"
+#~ msgctxt "@action:inmenu"
+#~ msgid "New Script File"
+#~ msgstr "Script nou"
+
+#, fuzzy
+#~| msgid "Complete"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Import Graph"
+#~ msgstr "Complet"
+
+#, fuzzy
+#~| msgid "Open Graph..."
+#~ msgctxt "@action:inmenu"
+#~ msgid "Export Graph as"
+#~ msgstr "Deschidere graf..."
+
+#, fuzzy
+#~| msgid "Complete"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Upload project"
+#~ msgstr "Complet"
+
+#, fuzzy
+#~| msgid "Complete"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Import Script"
+#~ msgstr "Complet"
+
+#, fuzzy
+#~| msgid "Complete"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Export Script as"
+#~ msgstr "Complet"
+
+#, fuzzy
+#~| msgid "This does not seem to be a graph file."
+#~ msgctxt "@info"
+#~ msgid "This does not seem to be a graph file."
+#~ msgstr "Acesta nu pare a fi un fișier graf."
+
+#, fuzzy
+#~| msgid "Invalid file"
+#~ msgctxt "@title:window"
+#~ msgid "Invalid File"
+#~ msgstr "Fișier eronat"
+
+#, fuzzy
+#~| msgid ""
+#~| "*.graph|Graph files\n"
+#~| "*.*|All files"
+#~ msgid ""
+#~ "*.rocs|Rocs project files\n"
+#~ "*.rocsz|Compressed Rocs project files\n"
+#~ "*|All files"
+#~ msgstr ""
+#~ "*.graph|Fișiere graf\n"
+#~ "*.*|Toate fișierele"
+
+#, fuzzy
+#~| msgid "Save Script"
+#~ msgctxt "@title:window"
+#~ msgid "Save Project"
+#~ msgstr "Salvează script"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title:window"
+#~ msgid "Open Project Files"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "untitled"
+#~ msgctxt "caption text for temporary project"
+#~ msgid "[ untitled ]"
+#~ msgstr "neintitulat"
+
+#, fuzzy
+#~| msgid "Script"
+#~ msgid "ScriptName"
+#~ msgstr "Script"
+
+#, fuzzy
+#~| msgid ""
+#~| "*.graph|Graph files\n"
+#~| "*.*|All files"
+#~ msgid ""
+#~ "*.graph|Rocs graph documents\n"
+#~ "*|All files"
+#~ msgstr ""
+#~ "*.graph|Fișiere graf\n"
+#~ "*.*|Toate fișierele"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgid "Enter the name of the Graph"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgid "Rocs"
+#~ msgctxt "@title Displayed program name"
+#~ msgid "Rocs"
+#~ msgstr "Rocs"
+
+#, fuzzy
+#~| msgid "Graph Theory Tool"
+#~ msgctxt "@title KAboutData: short program description"
+#~ msgid "Graph Theory Tool"
+#~ msgstr "Unealtă pentru teoria grafurilor"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgctxt "@title Short program description"
+#~ msgid "Rocs - Data Structure Analysis"
+#~ msgstr "Proprietăți nod"
+
+#~ msgid "Show text beside icon"
+#~ msgstr "Arată text lîngă pictogramă"
+
+#, fuzzy
+#~| msgid "Save Script"
+#~ msgid "Script Document"
+#~ msgstr "Salvează script"
+
+#, fuzzy
+#~| msgid "New Script"
+#~ msgid "Script File"
+#~ msgstr "Script nou"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgid "Graph Document"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgid "Graph Files"
+#~ msgid "Graph File"
+#~ msgstr "Fișiere graf"
+
+#, fuzzy
+#~| msgid "Select"
+#~ msgid "Edit Selected Data"
+#~ msgstr "Alege"
+
+#, fuzzy
+#~| msgid "Layout Toolbar"
+#~ msgid "Layout"
+#~ msgstr "Bara de aranjament"
+
+#~ msgid "Main Toolbar"
+#~ msgstr "Bara de unelte principală"
+
+#~ msgid "Layout Toolbar"
+#~ msgstr "Bara de aranjament"
+
+#~ msgid "Untitled"
+#~ msgstr "Fără titlu"
+
+#~ msgid "New File"
+#~ msgstr "Fișier nou"
+
+#~ msgid "Untitled%1"
+#~ msgstr "Fără titlu%1"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgid "Data structure name"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Open Script..."
+#~ msgctxt "@action:inmenu"
+#~ msgid "Export Project"
+#~ msgstr "Deschide script..."
+
+#, fuzzy
+#~| msgid "Open Script..."
+#~ msgctxt "@action:inmenu"
+#~ msgid "Import Project"
+#~ msgstr "Deschide script..."
+
+#, fuzzy
+#~| msgid "Name"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Set Name"
+#~ msgstr "Denumire"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Save Graph"
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid "Save Script"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Save Script"
+#~ msgstr "Salvează script"
+
+#, fuzzy
+#~| msgid "Save Script"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Save Script as"
+#~ msgstr "Salvează script"
+
+#, fuzzy
+#~| msgid "Save Script"
+#~ msgctxt "@title:window"
+#~ msgid "Set Project Name"
+#~ msgstr "Salvează script"
+
+#, fuzzy
+#~| msgid "Name:"
+#~ msgctxt "@label:textbox name of the project"
+#~ msgid "Name:"
+#~ msgstr "Denumire:"
+
+#, fuzzy
+#~| msgid "Save Script"
+#~ msgctxt "@title:window"
+#~ msgid "Save Script Document"
+#~ msgstr "Salvează script"
+
+#, fuzzy
+#~| msgid "Open Script..."
+#~ msgctxt "@title:window"
+#~ msgid "Export Project"
+#~ msgstr "Deschide script..."
+
+#~ msgid "Edge name"
+#~ msgstr "Denumire muchie"
+
+#~ msgid "Edge color"
+#~ msgstr "Culoare muchie"
+
+#~ msgid "Value:"
+#~ msgstr "Valoare:"
+
+#~ msgid "Edge value"
+#~ msgstr "Valoare muchie"
+
+#~ msgid "Edge width"
+#~ msgstr "Lățime muchie"
+
+#~ msgid "Show"
+#~ msgstr "Arată"
+
+#~ msgid "Show/hide edge name"
+#~ msgstr "Arată/ascunde denumirea muchiei"
+
+#, fuzzy
+#~| msgid "Add"
+#~ msgid "add"
+#~ msgstr "Adaugă"
+
+#, fuzzy
+#~| msgid "Untitled%1"
+#~ msgctxt "Property keyword only caracters from a to z (no spaces)"
+#~ msgid "untitled%1"
+#~ msgstr "Fără titlu%1"
+
+#, fuzzy
+#~| msgid "Color:"
+#~ msgid "Enable Color"
+#~ msgstr "Culoare:"
+
+#, fuzzy
+#~| msgid "Node Properties"
+#~ msgid "Data Structure Specific Properties"
+#~ msgstr "Proprietăți nod"
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Show values of data elements"
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#, fuzzy
+#~| msgid "Show all nodes' names"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Show names of pointers"
+#~ msgstr "Arată denumirile tuturor nodurilor"
+
+#~ msgid "Delete"
+#~ msgstr "Șterge"
+
+#~ msgid "dot"
+#~ msgstr "punct"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgctxt "@label:inlistbox"
+#~ msgid "Undirected Graph"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgctxt "@label:inlistbox"
+#~ msgid "Directed Graph"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgctxt ""
+#~ "@label:inlistbox Undirected graph for which several edges between same "
+#~ "nodes may exist"
+#~ msgid "Undirected Multigraph"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgid "New Graph"
+#~ msgctxt ""
+#~ "@label:inlistbox Directed graph for which several same orientated edges "
+#~ "between same nodes may exist"
+#~ msgid "Directed Multigraph"
+#~ msgstr "Graf nou"
+
+#, fuzzy
+#~| msgid ""
+#~| "*.graph|Graph files\n"
+#~| "*.*|All files"
+#~ msgid ""
+#~ "*.graph|Graph files\n"
+#~ "*|All files"
+#~ msgstr ""
+#~ "*.graph|Fișiere graf\n"
+#~ "*.*|Toate fișierele"
+
+#, fuzzy
+#~| msgid "Complete"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Import Rocs Graph"
+#~ msgstr "Complet"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Save Graph as"
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid "Add"
+#~ msgctxt "@action:button"
+#~ msgid "Add"
+#~ msgstr "Adaugă"
+
+#~ msgid "Add Node"
+#~ msgstr "Adaugă nod"
+
+#, fuzzy
+#~| msgid "Name:"
+#~ msgctxt "name of the project"
+#~ msgid "Name:"
+#~ msgstr "Denumire:"
+
+#, fuzzy
+#~| msgid "Save Graph"
+#~ msgctxt "align elements at center"
+#~ msgid "Center"
+#~ msgstr "Salvează graful"
+
+#, fuzzy
+#~| msgid "Circular"
+#~ msgctxt "align elements as a circle"
+#~ msgid "Circle"
+#~ msgstr "Circular"
+
+#, fuzzy
+#~| msgid "Graph Files"
+#~ msgid "Type Icon:"
+#~ msgstr "Fișiere graf"
+
+#, fuzzy
+#~| msgid "Open Graph..."
+#~ msgid "Export as new Type"
+#~ msgstr "Deschidere graf..."
+
+#, fuzzy
+#~| msgid "Open Script..."
+#~ msgid "Open Script"
+#~ msgstr "Deschide script..."
+
+#, fuzzy
+#~| msgid "Editor"
+#~ msgid "Edit"
+#~ msgstr "Editor"
+
+#, fuzzy
+#~| msgid "Node Color:"
+#~ msgid "Pointer"
+#~ msgstr "Culoare nod:"
+
+#~ msgid "Delete the active graph"
+#~ msgstr "Șterge graful activ"
+
+#, fuzzy
+#~| msgctxt "X-coordinate "
+#~| msgid "x"
+#~ msgctxt "@action:button"
+#~ msgid "x"
+#~ msgstr "x"
+
+#, fuzzy
+#~| msgid "Apply the current color to all nodes"
+#~ msgid "Apply to all nodes"
+#~ msgstr "Aplică culoarea curentă tuturor nodurilor"
+
+#~ msgid "Untitled0"
+#~ msgstr "Fără titlu0"
+
+#, fuzzy
+#~| msgid "Open Graph..."
+#~ msgid "Open Graph"
+#~ msgstr "Deschidere graf..."
+
+#~ msgid "Color for new nodes"
+#~ msgstr "Culoare pentru nodurile noi"
+
+#~ msgid "Color for new edges"
+#~ msgstr "Culoare pentru muchiile noi"
+
+#~ msgid "Apply the current color to all nodes"
+#~ msgstr "Aplică culoarea curentă tuturor nodurilor"
+
+#~ msgid "Apply the current color to all nodes on the drawing area"
+#~ msgstr "Aplică culoarea curentă tuturor nodurilor pe zona desenului"
+
+#~ msgid "All"
+#~ msgstr "Toate"
+
+#~ msgid "Apply the current color to all edges"
+#~ msgstr "Aplică culoarea curentă tuturor muchiilor"
+
+#~ msgid "Apply the current color to all edges on the drawing area"
+#~ msgstr "Aplică culoarea curentă tuturor muchiilor pe zona desenului"
+
+#~ msgid "Align on the base"
+#~ msgstr "Aliniază pe bază"
+
+#~ msgid "Align on the top"
+#~ msgstr "Aliniază sus"
+
+#~ msgid "Align on the left"
+#~ msgstr "Aliniază pe stînga"
+
+#~ msgid "Align on the right"
+#~ msgstr "Aliniază pe dreapta"
+
+#, fuzzy
+#~| msgid "Align on the left"
+#~ msgid "Align on a circle"
+#~ msgstr "Aliniază pe stînga"
+
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgid "(c) 2009"
+#~ msgstr "(c) 2009"
+
+#~ msgid "Do you want to save your unsaved document?"
+#~ msgstr "Doriți să salvați documentul nesalvat?"
+
+#~ msgid "Select Items by clicking on them."
+#~ msgstr "Alege elementele epăsînd pe ele."
+
+#, fuzzy
+#~| msgid "Complete"
+#~ msgid "Make Complete"
+#~ msgstr "Complet"
+
+#~ msgid "Dialog"
+#~ msgstr "Dialog"
+
+#~ msgid "Radius:"
+#~ msgstr "Raza:"
+
+#~ msgid "0"
+#~ msgstr "0"
+
+#~ msgid "Complete"
+#~ msgstr "Complet"
+
+#~ msgctxt "Do not translate, X is for delete"
+#~ msgid "x"
+#~ msgstr "x"
+
+#, fuzzy
+#~| msgid "Name:"
+#~ msgid "Name: %1"
+#~ msgstr "Denumire:"
+
+#, fuzzy
+#~| msgid "Value:"
+#~ msgid "Value: %1"
+#~ msgstr "Valoare:"
+
+#~ msgid "Save Graph As..."
+#~ msgstr "Salvare graf ca..."
+
+#~ msgid "Save Script As..."
+#~ msgstr "Salvează script ca..."
+
+#, fuzzy
+#~| msgid "Graph"
+#~ msgid "Ring Graph"
+#~ msgstr "Grafic"
+
+#, fuzzy
+#~| msgid "Untitled"
+#~ msgid "UntitledDoc"
+#~ msgstr "Fără titlu"
+
+#~ msgid "Thanks to Ugo Sangiori"
+#~ msgstr "Mulțumiri lui Ugo Sangiori"
+
+#~ msgid "Edge Color:"
+#~ msgstr "Culoare muchie:"
+
+#~ msgid "X-coordinate "
+#~ msgstr "Coordonata X "
+
+#~ msgid "Y-coordinate "
+#~ msgstr "Coordonata Y "
+
+#~ msgid "Oriented graph"
+#~ msgstr "Graf orientat"
+
+#~ msgid "Enabling this button will make the graph oriented."
+#~ msgstr "Activarea acestui buton va face graful orientat."
+
+#~ msgid "Show all edges' names"
+#~ msgstr "Arată denumirile tuturor muchiilor"
+
+#~ msgid "Show all nodes' values"
+#~ msgstr "Arată valorile tuturor nodurilor"
+
+#~ msgid "Show all edges' values"
+#~ msgstr "Arată valorile tuturor muchiilor"

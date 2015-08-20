@@ -1,0 +1,1452 @@
+# Traducerea kcmlocale.po în Română
+# translation of kcmlocale.po to Romanian
+# translation of @PACKAGE.po to @LANGUAGE
+# Copyright (C) 2003, 2004, 2008 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2003, 2004.
+# Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010, 2014.
+# Cristian Oneț <onet.cristian@gmail.com>, 2010, 2011, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmlocale\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-07 11:21+0000\n"
+"PO-Revision-Date: 2014-10-05 19:25+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"claudiuc@kde.org\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"\n"
+
+#: kcmformats.cpp:45
+msgid ""
+"<h1>Formats</h1>You can configure the formats used for time, dates, money "
+"and other numbers here."
+msgstr ""
+
+#: kcmformats.cpp:96
+msgid "No change"
+msgstr "Nicio schimbare"
+
+#: kcmformats.cpp:132
+#, kde-format
+msgid "%1 - %2 (%3)"
+msgstr "%1 - %2 (%3)"
+
+#: kcmformats.cpp:243
+msgid "Your changes will take effect the next time you log in."
+msgstr ""
+
+#: kcmformats.cpp:244
+msgid "Format Settings Changed"
+msgstr ""
+
+#: kcmformats.cpp:300
+#, fuzzy, kde-format
+#| msgid "Long date format:"
+msgid "%1 (long format)"
+msgstr "Format dată lungă:"
+
+#: kcmformats.cpp:301
+#, fuzzy, kde-format
+#| msgid "Short date format:"
+msgid "%1 (short format)"
+msgstr "Format dată scurtă:"
+
+#: kcmformats.cpp:306
+#, fuzzy
+#| msgid "Imperial System"
+msgctxt "Measurement combobox"
+msgid "Imperial UK"
+msgstr "Sistem imperial"
+
+#: kcmformats.cpp:308
+#, fuzzy
+#| msgid "Imperial System"
+msgctxt "Measurement combobox"
+msgid "Imperial US"
+msgstr "Sistem imperial"
+
+#: kcmformats.cpp:310
+msgctxt "Measurement combobox"
+msgid "Metric"
+msgstr "Metric"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: kcmformatswidget.ui:47
+msgid "Re&gion:"
+msgstr "Re&giune:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkDetailed)
+#: kcmformatswidget.ui:76
+msgid "De&tailed Settings"
+msgstr "Configurări de&taliate"
+
+#. i18n: ectx: property (text), widget (QLabel, labelNumbers)
+#: kcmformatswidget.ui:83
+msgid "&Numbers:"
+msgstr "&Numere:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelTime)
+#: kcmformatswidget.ui:112
+msgid "&Time:"
+msgstr "&Oră:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelCurrency)
+#: kcmformatswidget.ui:141
+msgid "Currenc&y:"
+msgstr "&Monedă:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelMeasurement)
+#: kcmformatswidget.ui:170
+msgid "Measurement &Units:"
+msgstr "&Unități de măsură:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelCollate)
+#: kcmformatswidget.ui:199
+msgid "Co&llation and Sorting:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, labelMeasurement_2)
+#: kcmformatswidget.ui:238
+msgid "<b>Examples</b>"
+msgstr "<b>Exemple</b>"
+
+#. i18n: ectx: property (text), widget (QLabel, lexNumbers)
+#: kcmformatswidget.ui:248
+msgid "Numbers:"
+msgstr "Numere:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexTime)
+#: kcmformatswidget.ui:268
+msgid "Time:"
+msgstr "Oră:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexCurrency)
+#: kcmformatswidget.ui:288
+msgid "Currency:"
+msgstr "Monedă:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexMeasurement_2)
+#: kcmformatswidget.ui:308
+msgid "Measurement Units:"
+msgstr "Unități de măsură:"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Claudiu Costin,Sergiu Bivol,Cristian Oneț"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "claudiuc@kde.org,sergiu@ase.md,onet.cristian@gmail.com"
+
+#~ msgid "Country Selector"
+#~ msgstr "Selector țară"
+
+#~ msgid "without name"
+#~ msgstr "fără nume"
+
+#~ msgctxt "@item:inlistbox Country"
+#~ msgid "Not set (Generic English)"
+#~ msgstr "Nestabilit (engleză)"
+
+#, fuzzy
+#~| msgid "&Locale"
+#~ msgid "kcmlocale"
+#~ msgstr "&Localizare"
+
+#~ msgid "Localization options for KDE applications"
+#~ msgstr "Opțiuni de localizare pentru aplicații KDE"
+
+# well-spelled: John, Layt
+#~ msgid "Copyright 2010 John Layt"
+#~ msgstr "Drept de autor 2010 John Layt"
+
+# |, no-check-spell
+#~ msgid "John Layt"
+#~ msgstr "John Layt"
+
+#~ msgid "Maintainer"
+#~ msgstr "Responsabil"
+
+#~ msgid ""
+#~ "You have the language with code '%1' in your list of languages to use for "
+#~ "translation but the localization files for it could not be found. The "
+#~ "language has been removed from your configuration. If you want to add it "
+#~ "again please install the localization files for it and add the language "
+#~ "again."
+#~ msgstr ""
+#~ "Aveți limba cu codul '%1' în lista dumneavoastră de limbi folosite pentru "
+#~ "traduceri dar fișierele de localizare pentru această limbă nu au putut fi "
+#~ "găsite. Limba a fost eliminată din configurările dumneavoastră. Dacă "
+#~ "doriți să o adăugați din nou vă rugăm să instalați fișierele de "
+#~ "localizare pentru această limbă și să o adăugați din nou la listă."
+
+#~ msgid ""
+#~ "Changed language settings apply only to newly started applications.\n"
+#~ "To change the language of all programs, you will have to logout first."
+#~ msgstr ""
+#~ "Configurările de limbă sînt aplicate doar\n"
+#~ "aplicațiilor care sînt pornite din acest\n"
+#~ "moment. Pentru a schimba limba tuturor\n"
+#~ "programelor va trebui să reporniți KDE."
+
+#~ msgid "Applying Language Settings"
+#~ msgstr "Se aplică configurările de limbă"
+
+#~ msgid ""
+#~ "<h1>Country/Region & Language</h1>\n"
+#~ "<p>Here you can set your localization settings such as language, numeric "
+#~ "formats, date and time formats, etc.  Choosing a country will load a set "
+#~ "of default formats which you can then change to your personal "
+#~ "preferences.  These personal preferences will remain set even if you "
+#~ "change the country.  The reset buttons allow you to easily see where you "
+#~ "have personal settings and to restore those items to the country's "
+#~ "default value.</p>"
+#~ msgstr ""
+#~ "<h1>Țara sau regiunea și limba</h1>\n"
+#~ "<p>Aici puteți să vă configurați opțiunile de localizare ca limba, "
+#~ "formatul numeric, formatele de dată și oră, etc. Alegerea unei țări va "
+#~ "încărca un set de formate implicite pe care apoi puteți să le modificați "
+#~ "conform preferințelor dumneavoastră. Aceste preferințe vor rămîne salvate "
+#~ "chiar dacă schimbați apoi țara. Butoanele de restabilire vă permit "
+#~ "vizualizarea cu ușurință a locurilor unde aveți schimbări făcute a "
+#~ "refacerii acelor valori la valorile implicite ale țării alese.</p>"
+
+#~ msgid "Reset item to its default value"
+#~ msgstr "Restabilește valoarea la cea implicită."
+
+#~ msgctxt "No separator symbol"
+#~ msgid "None"
+#~ msgstr "Nimic"
+
+#~ msgctxt "Space separator symbol"
+#~ msgid "Single Space"
+#~ msgstr "Un singur spațiu"
+
+#~ msgid "Country"
+#~ msgstr "Țară"
+
+#~ msgid "Languages"
+#~ msgstr "Limbi"
+
+#~ msgid "Numbers"
+#~ msgstr "Numere"
+
+#~ msgid "Money"
+#~ msgstr "Bani"
+
+#~ msgid "Calendar"
+#~ msgstr "Calendar"
+
+#~ msgid "Date && Time"
+#~ msgstr "Data și ora"
+
+#~ msgid "Other"
+#~ msgstr "Altele"
+
+#~ msgid "This is how positive numbers will be displayed."
+#~ msgstr "Acesta este modul în care vor fi afișate numerele pozitive."
+
+#~ msgid "This is how negative numbers will be displayed."
+#~ msgstr "Acesta este modul în care vor fi afișate numerele negative."
+
+#~ msgid "Money:"
+#~ msgstr "Bani:"
+
+#~ msgid "This is how positive monetary values will be displayed."
+#~ msgstr ""
+#~ "Acesta este modul în care vor fi afișate valorile monetare pozitive."
+
+#~ msgid "This is how negative monetary values will be displayed."
+#~ msgstr ""
+#~ "Acesta este modul în care vor fi afișate valorile monetare negative."
+
+#~ msgid "Date:"
+#~ msgstr "Dată:"
+
+#~ msgid "This is how long dates will be displayed."
+#~ msgstr "Acesta este modul în care va fi afișată data în format lung."
+
+#~ msgid "Short date:"
+#~ msgstr "Dată scurtă:"
+
+#~ msgid "This is how short dates will be displayed."
+#~ msgstr "Acesta este modul în care va fi afișată data în format scurt."
+
+#~ msgid "This is how time will be displayed."
+#~ msgstr "Acesta este modul în care va fi afișată ora."
+
+#~ msgid "Country:"
+#~ msgstr "Țara:"
+
+#~ msgid ""
+#~ "<p>This is the country where you live.  The KDE Workspace will use the "
+#~ "settings for this country or region.</p>"
+#~ msgstr ""
+#~ "<p>Aceasta este țara în care trăiți. Spațiul de lucru KDE va utiliza "
+#~ "opțiunile pentru această țară sau regiune.</p>"
+
+#~ msgctxt "%1 is the system country name"
+#~ msgid "System Country (%1)"
+#~ msgstr "Țara sistemului (%1)"
+
+#~ msgid "No Country (Default Settings)"
+#~ msgstr "Țară lipsă (setări implicite)"
+
+#~ msgid "Subdivision:"
+#~ msgstr "Subdiviziune:"
+
+#~ msgid ""
+#~ "<p>This is the country subdivision where you live, e.g. your state or "
+#~ "province.  The KDE Workspace will use this setting for local information "
+#~ "services such as holidays.</p>"
+#~ msgstr ""
+#~ "<p>Aceasta este subdiviziunea țării în care trăiți de exemplu statul sau "
+#~ "provincia. Spațiul de lucru KDE va utiliza această setare pentru servicii "
+#~ "de informare locale ca de exemplu zilele libere.</p>"
+
+#~ msgid "Available Languages:"
+#~ msgstr "Limbi disponibile:"
+
+#~ msgid ""
+#~ "<p>This is the list of installed KDE Workspace language translations not "
+#~ "currently being used.  To use a language translation move it to the "
+#~ "'Preferred Languages' list in the order of preference.  If no suitable "
+#~ "languages are listed, then you may need to install more language packages "
+#~ "using your usual installation method.</p>"
+#~ msgstr ""
+#~ "<p>Aceasta este lista traducerilor spațiului de lucru KDE instalate care "
+#~ "nu sînt folosite în acest moment. Pentru a folosi o traducere trebuie să "
+#~ "o mutați în lista de 'Limbi preferate' în ordinea preferințelor. Dacă nu "
+#~ "există o traducere adecvată atunci este posibil să fie nevoie să "
+#~ "instalați mai multe pachete de traducere folosind metoda uzuală de "
+#~ "instalare.</p>"
+
+#~ msgid "Preferred Languages:"
+#~ msgstr "Limbi preferate:"
+
+#~ msgid ""
+#~ "<p>This is the list of installed KDE Workspace language translations "
+#~ "currently being used, listed in order of preference.  If a translation is "
+#~ "not available for the first language in the list, the next language will "
+#~ "be used.  If no other translations are available then US English will be "
+#~ "used.</p>"
+#~ msgstr ""
+#~ "<p>Aceasta este lista traducerilor spațiului de lucru KDE instalate care "
+#~ "sînt folosite în acest moment, în ordinea preferințelor. Dacă nu există o "
+#~ "traducere în prima limbă din listă atunci următoarea limbă va fi "
+#~ "folosită. Dacă nu există nicio traducere în limbile din listă atunci va "
+#~ "fi folosită engleza americană.</p>"
+
+#~ msgctxt "%1 = default language name"
+#~ msgid "%1 (Default)"
+#~ msgstr "%1 (Implicită)"
+
+#~ msgid "Install more languages"
+#~ msgstr "Instalează mai multe limbi"
+
+#~ msgid "<p>Click here to install more languages</p>"
+#~ msgstr "<p>Apasă aici pentru a instala mai multe limbi</p>"
+
+#~ msgid "Digit grouping:"
+#~ msgstr "Separator zecimal:"
+
+#~ msgid ""
+#~ "<p>Here you can define the digit grouping used to display numbers.</"
+#~ "p><p>Note that the digit grouping used to display monetary values has to "
+#~ "be set separately (see the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini separatorul zecimal utilizat la afișarea numerelor. "
+#~ "</p><p>Trebuie să rețineți că separatorul zecimal utilizat la afișarea "
+#~ "valorilor monetare trebuie setat separat (vedeți fila „Bani”).</p>"
+
+#~ msgid "Group separator:"
+#~ msgstr "Separator de grup:"
+
+#~ msgid ""
+#~ "<p>Here you can define the digit group separator used to display numbers."
+#~ "</p><p>Note that the digit group separator used to display monetary "
+#~ "values has to be set separately (see the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini separatorul de grup de cifre utilizat la afișarea "
+#~ "numerelor. </p><p>Trebuie să rețineți că separatorul de grup de cifre "
+#~ "utilizat la afișarea valorilor monetare trebuie setat separat (vedeți "
+#~ "fila „Bani”).</p>"
+
+#~ msgid "Decimal separator:"
+#~ msgstr "Separator zecimal:"
+
+#~ msgid ""
+#~ "<p>Here you can define the decimal separator used to display numbers (i."
+#~ "e. a dot or a comma in most countries).</p><p>Note that the decimal "
+#~ "separator used to display monetary values has to be set separately (see "
+#~ "the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini separatorul zecimal utilizat la afișarea numerelor "
+#~ "(adică punctul sau virgula în cele mai multe țări). </p><p>Trebuie să "
+#~ "rețineți că separatorul zecimal utilizat la afișarea valorilor monetare "
+#~ "trebuie setat separat (vedeți fila „Bani”).</p>"
+
+#~ msgid "Decimal places:"
+#~ msgstr "Cifre zecimale:"
+
+#~ msgid ""
+#~ "<p>Here you can set the number of decimal places displayed for numeric "
+#~ "values, i.e. the number of digits <em>after</em> the decimal separator.</"
+#~ "p><p>Note that the decimal places used to display monetary values has to "
+#~ "be set separately (see the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți seta numărul de cifre zecimale afișate pentru valori "
+#~ "numerice, deci numărul de cifre afișate <em>după</em> separatorul "
+#~ "zecimal. </p><p>Trebuie să rețineți că separatorul zecimal utilizat la "
+#~ "afișarea valorilor monetare trebuie setat separat (vedeți fila „Bani”).</"
+#~ "p>"
+
+#~ msgid "Positive sign:"
+#~ msgstr "Semn pozitiv:"
+
+#~ msgid ""
+#~ "<p>Here you can specify text used to prefix positive numbers. Most "
+#~ "locales leave this blank.</p><p>Note that the positive sign used to "
+#~ "display monetary values has to be set separately (see the 'Money' tab).</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Aici puteți specifica textul utilizat la prefixarea numerelor "
+#~ "pozitive. Majoritatea localelor lasă acest cîmp gol. </p><p>Trebuie să "
+#~ "rețineți că semnul pozitiv utilizat la afișarea valorilor monetare "
+#~ "trebuie setat separat (vedeți fila „Bani”).</p>"
+
+#~ msgctxt "No positive symbol"
+#~ msgid "None"
+#~ msgstr "Niciunul"
+
+#~ msgid "Negative sign:"
+#~ msgstr "Semn negativ:"
+
+#~ msgid ""
+#~ "<p>Here you can specify text used to prefix negative numbers. This should "
+#~ "not be empty, so you can distinguish positive and negative numbers. It is "
+#~ "normally set to minus (-).</p><p>Note that the negative sign used to "
+#~ "display monetary values has to be set separately (see the 'Money' tab).</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Aici puteți specifica textul utilizat la prefixarea numerelor "
+#~ "negative. Acesta nu ar trebui să nu fie nul, astfel încît să puteți "
+#~ "distinge numerele pozitive și negative. În mod normal este stabilit la "
+#~ "minus (-).</p><p>Trebuie să rețineți că semnul negativ utilizat la "
+#~ "afișarea valorilor monetare trebuie setat separat (vedeți fila „Bani”).</"
+#~ "p>"
+
+#~ msgctxt "No negative symbol"
+#~ msgid "None"
+#~ msgstr "Niciunul"
+
+#~ msgid "Digit set:"
+#~ msgstr "Set de cifre:"
+
+#~ msgid ""
+#~ "<p>Here you can define the set of digits used to display numbers. If "
+#~ "digits other than Arabic are selected, they will appear only if used in "
+#~ "the language of the application or the piece of text where the number is "
+#~ "shown.</p> <p>Note that the set of digits used to display monetary values "
+#~ "has to be set separately (see the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini setul de cifre utilizat la afișarea numerelor. Dacă "
+#~ "se selectează alte cifre decît cele Arabice ele vor apărea doar dacă vor "
+#~ "fi folosite în limbajul aplicației sau bucata de text unde este afișat "
+#~ "numărul. </p><p>Trebuie să rețineți că setul de cifre utilizat la "
+#~ "afișarea valorilor monetare trebuie stabilit separat (vedeți fila „Bani”)."
+#~ "</p>"
+
+#~ msgid ""
+#~ "<p>Here you can choose the currency to be used when displaying monetary "
+#~ "values, e.g. United States Dollar or Pound Sterling.</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți alege moneda utilizată la afișarea valorilor monetare, de "
+#~ "ex. leu românesc sau leu moldovenesc.</p>"
+
+#~ msgctxt "@item currency name and currency code"
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"
+
+#~ msgid "Currency symbol:"
+#~ msgstr "Simbol monetar:"
+
+# well-spelled: MDL
+#~ msgid ""
+#~ "<p>Here you can choose the symbol to be used when displaying monetary "
+#~ "values, e.g. $, US$ or USD.</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți alege simbolul utilizat la afișarea valorilor monetare, de "
+#~ "ex. RON sau MDL.</p>"
+
+#~ msgid ""
+#~ "<p>Here you can define the digit grouping used to display monetary values."
+#~ "</p><p>Note that the digit grouping used to display other numbers has to "
+#~ "be defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini separatorul zecimal utilizat la afișarea valorilor "
+#~ "monetare.</p><p>Trebuie să rețineți că separatorul zecimal utilizat la "
+#~ "afișarea altor numere trebuie să fie definit separat (vedeți fila "
+#~ "„Numere”).</p>"
+
+#~ msgid ""
+#~ "<p>Here you can define the group separator used to display monetary "
+#~ "values.</p><p>Note that the thousands separator used to display other "
+#~ "numbers has to be defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini separatorul de grup utilizat la afișarea valorilor "
+#~ "monetare.</p><p>Separatorul de mii utilizat la afișarea altor numere "
+#~ "trebuie să fie definit separat (vedeți fila „Numere”).</p>"
+
+#~ msgid ""
+#~ "<p>Here you can define the decimal separator used to display monetary "
+#~ "values.</p><p>Note that the decimal separator used to display other "
+#~ "numbers has to be defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini separatorul zecimal utilizat la afișarea valorilor "
+#~ "monetare.</p><p>Separatorul zecimal utilizat la afișarea altor numere "
+#~ "trebuie să fie definit separat (vedeți fila „Numere”).</p>"
+
+#~ msgid ""
+#~ "<p>Here you can set the number of decimal places displayed for monetary "
+#~ "values, i.e. the number of digits <em>after</em> the decimal separator.</"
+#~ "p><p>Note that the decimal places used to display other numbers has to be "
+#~ "defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți seta numărul de cifre zecimale afișate pentru valori "
+#~ "monetare, deci numărul de cifre afișate <em>după</em> separatorul "
+#~ "zecimal. </p><p>Separatorul zecimal utilizat la afișarea altor numere "
+#~ "trebuie să fie definit separat (vedeți fila „Numere”).</p>"
+
+#~ msgid "Positive format:"
+#~ msgstr "Format pozitiv:"
+
+#~ msgid ""
+#~ "<p>Here you can set the format of positive monetary values.</p><p>Note "
+#~ "that the positive sign used to display other numbers has to be defined "
+#~ "separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți seta formatul valorilor monetare pozitive. </p><p>Trebuie "
+#~ "să rețineți că semnul pozitiv utilizat la afișarea altor numere trebuie "
+#~ "să fie definit separat (vedeți fila „Numere”).</p>"
+
+#~ msgid "Sign position:"
+#~ msgstr "Poziție semn:"
+
+#~ msgid "Parentheses Around"
+#~ msgstr "Încadrat între paranteze"
+
+#~ msgid "Before Quantity Money"
+#~ msgstr "Înainte de suma de bani"
+
+#~ msgid "After Quantity Money"
+#~ msgstr "După suma de bani"
+
+#~ msgid "Before Money"
+#~ msgstr "Înainte de bani"
+
+#~ msgid "After Money"
+#~ msgstr "După bani"
+
+#~ msgid ""
+#~ "Here you can select how a positive sign will be positioned. This only "
+#~ "affects monetary values."
+#~ msgstr ""
+#~ "Aici puteți selecta modul în care este poziționat semnul pozitiv. Acesta "
+#~ "afectează numai valorile monetare."
+
+#~ msgid "Prefix currency symbol"
+#~ msgstr "Prefix simbol monedă"
+
+#~ msgid ""
+#~ "If this option is checked, the currency sign will be prefixed (i.e. to "
+#~ "the left of the value) for all positive monetary values. If not, it will "
+#~ "be postfixed (i.e. to the right)."
+#~ msgstr ""
+#~ "Dacă această opțiune este selectată, atunci semnul pentru bani va fi "
+#~ "prefixat (adică la stînga valorii) pentru toate valorile monetare "
+#~ "pozitive. Dacă nu, el va fi post-fixat (adică la dreapta)."
+
+#~ msgid "Negative format:"
+#~ msgstr "Format negativ:"
+
+#~ msgid ""
+#~ "<p>Here you can set the format of negative monetary values.</p><p>Note "
+#~ "that the negative sign used to display other numbers has to be defined "
+#~ "separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți seta formatul valorilor monetare negative. </p><p>Trebuie "
+#~ "să rețineți că semnul negativ utilizat la afișarea altor numere trebuie "
+#~ "să fie definit separat (vedeți fila „Numere”).</p>"
+
+#~ msgid ""
+#~ "Here you can select how a negative sign will be positioned. This only "
+#~ "affects monetary values."
+#~ msgstr ""
+#~ "Aici puteți selecta modul în care este poziționat semnul negativ. Acesta "
+#~ "afectează numai valorile monetare."
+
+#~ msgid ""
+#~ "If this option is checked, the currency sign will be prefixed (i.e. to "
+#~ "the left of the value) for all negative monetary values. If not, it will "
+#~ "be postfixed (i.e. to the right)."
+#~ msgstr ""
+#~ "Dacă această opțiune este selectată, atunci semnul pentru bani va fi "
+#~ "prefixat (adică la stînga valorii) pentru toate valorile monetare "
+#~ "negative. Dacă nu, el va fi post-fixat (adică la dreapta)."
+
+#~ msgid ""
+#~ "<p>Here you can define the set of digits used to display monetary values. "
+#~ "If digits other than Arabic are selected, they will appear only if used "
+#~ "in the language of the application or the piece of text where the number "
+#~ "is shown.</p><p>Note that the set of digits used to display other numbers "
+#~ "has to be defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini setul de cifre utilizat la afișarea valorilor "
+#~ "monetare. Dacă se selectează alte cifre decît cele Arabice ele vor apărea "
+#~ "doar dacă vor fi folosite în limbajul aplicației sau bucata de text unde "
+#~ "este afișat valoarea monetară.</p><p>Rețineți că setul de cifre utilizat "
+#~ "la afișarea altor numere trebuie definit separat (vedeți fila „Numere”).</"
+#~ "p>"
+
+#~ msgid "Calendar system:"
+#~ msgstr "Calendar de sistem:"
+
+#~ msgid "<p>Here you can set the Calendar System to use to display dates.</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți seta sistemul de calendar folosit la afișarea datelor.</p>"
+
+#~ msgid "Use Common Era"
+#~ msgstr "Folosește era noastră"
+
+#~ msgid ""
+#~ "<p>This option determines if the Common Era (CE/BCE) should be used "
+#~ "instead of the Christian Era (AD/BC).</p>"
+#~ msgstr ""
+#~ "<p>Această opțiune determină dacă va fi utilizată era comună (e.n./î.e.n) "
+#~ "în locul erei creștine (d.Hr./î.Hr).</p>"
+
+#~ msgid "Short year window:"
+#~ msgstr "Intervalul anilor notați scurt"
+
+#~ msgctxt "label between two year inputs, i.e. 1930 to 2029"
+#~ msgid "to"
+#~ msgstr "pînă la"
+
+# well-spelled: AA
+#~ msgid ""
+#~ "<p>This option determines what year range a two digit date is interpreted "
+#~ "as, for example with a range of 1950 to 2049 the value 10 is interpreted "
+#~ "as 2010.  This range is only applied when reading the Short Year (YY) "
+#~ "date format.</p>"
+#~ msgstr ""
+#~ "<p>Această opțiune determină în ce interval de ani este o dată cu anii "
+#~ "din două cifre interpretată, de exemplu pentru intervalul de la 1950 pînă "
+#~ "la 2049 valoarea 10 este interpretată ca 2010.  Acest interval este "
+#~ "folosit doar la citirea anilor în notație scurtă (pe două cifre AA).</p>"
+
+#~ msgid "Week number system:"
+#~ msgstr "Sistem de numerotare a săptămînii:"
+
+#~ msgid ""
+#~ "<p>This option determines how the Week Number will be calculated. There "
+#~ "are four options available:</p> <ul><li><b>ISO Week</b> Use the ISO "
+#~ "standard Week Number. This will always use Monday as the first day of the "
+#~ "ISO week. This is the most commonly used system.</li><li><b>Full First "
+#~ "Week</b> The first week of the year starts on the first occurrence of the "
+#~ "<i>First day of the week</i>, and lasts for seven days.  Any days before "
+#~ "Week 1 are considered part of the last week of the previous year. This "
+#~ "system is most commonly used in the USA.</li><li><b>Partial First Week</"
+#~ "b> The first week starts on the first day of the year. The second week of "
+#~ "the year starts on the first occurrence of the <i>First day of the week</"
+#~ "i>, and lasts for seven days. The first week may not contain seven days.</"
+#~ "li><li><b>Simple Week</b> The first week starts on the first day of the "
+#~ "year and lasts seven days, with all new weeks starting on the same "
+#~ "weekday as the first day of the year.</li></ul>"
+#~ msgstr ""
+#~ "<p>Această opțiune determină cum va fi calculat Numărul Săptămînii. Sînt "
+#~ "disponibile patru opțiuni:</p> <ul><li><b>Săptămînă ISO</b> Folosește "
+#~ "standardul ISO de numerotare a săptămînii. Aceasta va folosi întodeauna "
+#~ "Luni ca prima zi a săptămînii ISO. Acesta este sistemul cel mai răspîndit."
+#~ "</li><li><b>Prima săptămînă întreagă</b>Prima săptămînă a anului începe "
+#~ "cînd este întîlnită prima dată <i>Prima zi a săptămînii</i> și ține șapte "
+#~ "zile. Orice zi anterioară Săptămînii 1 este considerată ca făcînd parte "
+#~ "din ultima săptămînă a anului precedent. Acest sistem este foarte "
+#~ "răspîndit în USA.</li><li><b>Prima săptămînă parțială</b> Prima săptămînă "
+#~ "începe în prima zi a anului. A doua săptămînă a anului începe  cînd este "
+#~ "întîlnită prima dată <i>Prima zi a săptămînii</i> și ține șapte zile. "
+#~ "Prima săptămînă poate să nu conțină șapte zile.</li><li><b>Săptămînă "
+#~ "simplă</b> Prima săptămînă începe în prima zi a anului și ține șapte "
+#~ "zile, iar toate săptămînile vor începe cu aceeași zi ca prima zi a anului."
+#~ "</li></ul>"
+
+#~ msgid "ISO Week"
+#~ msgstr "Săptămînă ISO"
+
+#~ msgid "Full First Week"
+#~ msgstr "Prima săptămînă întreagă"
+
+#~ msgid "Partial First Week"
+#~ msgstr "Prima săptămînă parțială"
+
+#~ msgid "Simple Week"
+#~ msgstr "Săptămînă simplă"
+
+#~ msgid "First day of week:"
+#~ msgstr "Prima zi a săptămînii:"
+
+#~ msgid ""
+#~ "<p>This option determines which day will be considered as the first one "
+#~ "of the week.  This value may affect the Week Number System.</p> "
+#~ msgstr ""
+#~ "<p>Această opțiune determină care zi va fi considerată prima zi a "
+#~ "săptămînii.  Această valoare poate influența Sistemul de numerotare a "
+#~ "săptămînii</p> "
+
+#~ msgid "First working day of week:"
+#~ msgstr "Prima zi de lucru a săptămînii:"
+
+#~ msgid ""
+#~ "<p>This option determines which day will be considered as the first "
+#~ "working day of the week.</p>"
+#~ msgstr ""
+#~ "<p>Această opțiune determină care zi va fi considerată prima zi "
+#~ "lucrătoare a săptămînii.</p>"
+
+#~ msgid "Last working day of week:"
+#~ msgstr "Ultima zi de lucru a săptămînii:"
+
+#~ msgid ""
+#~ "<p>This option determines which day will be considered as the last "
+#~ "working day of the week.</p>"
+#~ msgstr ""
+#~ "<p>Această opțiune determină care zi va fi considerată ultima zi "
+#~ "lucrătoare a săptămînii.</p>"
+
+#~ msgid "Week day for special religious observance:"
+#~ msgstr "Zi a săptămînii pentru meditații religioase speciale:"
+
+#~ msgid ""
+#~ "<p>This option determines which day if any will be considered as the day "
+#~ "of the week for special religious observance.</p>"
+#~ msgstr ""
+#~ "<p>Această opțiune determină care zi va fi considerată prima zi a "
+#~ "săptămînii pentru meditații religioase speciale.</p>"
+
+#~ msgctxt "Day name list, option for no special day of religious observance"
+#~ msgid "None / None in particular"
+#~ msgstr "Niciunul / Niciunul în special"
+
+#~ msgid "Time format:"
+#~ msgstr "Format oră:"
+
+# well-spelled: OO, oO, PO, pO, MM, SS, AMPM, AM, PM,
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format time strings. The "
+#~ "sequences below will be replaced:</p><table><tr><td><b>HH</b></td><td>The "
+#~ "hour as a decimal number using a 24-hour clock (00-23).</td></"
+#~ "tr><tr><td><b>hH</b></td><td>The hour (24-hour clock) as a decimal number "
+#~ "(0-23).</td></tr><tr><td><b>PH</b></td><td>The hour as a decimal number "
+#~ "using a 12-hour clock (01-12).</td></tr><tr><td><b>pH</b></td><td>The "
+#~ "hour (12-hour clock) as a decimal number (1-12).</td></tr><tr><td><b>MM</"
+#~ "b></td><td>The minutes as a decimal number (00-59).</td></"
+#~ "tr><tr><td><b>SS</b></td><td>The seconds as a decimal number (00-59).</"
+#~ "td></tr><tr><td><b>AMPM</b></td><td>Either 'AM' or 'PM' according to the "
+#~ "given time value. Noon is treated as 'PM' and midnight as 'AM'.</td></"
+#~ "tr></table>"
+#~ msgstr ""
+#~ "<p>Textul din această căsuță de text va fi utilizat pentru a formata ora. "
+#~ "Secvențele de mai jos vor fi înlocuite:</p><table><tr><td><b>OO</b></"
+#~ "td><td>Ora ca un număr zecimal utilizînd ceas de 24 de ore (00-23).</td></"
+#~ "tr><tr><td><b>oO</b></td><td>Ora (ceas de 24 ore ) ca un număr zecimal "
+#~ "(0-23).</td></tr><tr><td><b>PO</b></td><td>Ora ca număr zecimal utilizînd "
+#~ "ceas de 12 ore (01-12).</td></tr><tr><td><b>pO</b></td><td>Ora (ceas de "
+#~ "12 ore) ca număr zecimal (1-12).</td></tr><tr><td><b>MM</b></"
+#~ "td><td>Minute ca număr zecimal (00-59).</td></tr><tr><td><b>SS</b></"
+#~ "td><td>Secunde ca număr zecimal (00-59).</td></tr><tr><td><b>AMPM</b></"
+#~ "td><td>AM sau PM în funcție de valoarea timpului. Miezul zilei este "
+#~ "tratat ca PM, iar miezul nopții ca AM.</td></tr></table>"
+
+# |, no-check-spell
+#~ msgid "HH"
+#~ msgstr "OO"
+
+# |, no-check-spell
+#~ msgid "hH"
+#~ msgstr "oO"
+
+# |, no-check-spell
+#~ msgid "PH"
+#~ msgstr "PO"
+
+# |, no-check-spell
+#~ msgid "pH"
+#~ msgstr "pO"
+
+#~ msgctxt "Minute"
+#~ msgid "MM"
+#~ msgstr "MM"
+
+# |, no-check-spell
+#~ msgid "SS"
+#~ msgstr "SS"
+
+# |, no-check-spell
+#~ msgid "AMPM"
+#~ msgstr "AMPM"
+
+# |, no-check-spell
+#~ msgctxt "some reasonable time formats for the language"
+#~ msgid ""
+#~ "HH:MM:SS\n"
+#~ "pH:MM:SS AMPM"
+#~ msgstr ""
+#~ "OO:MM:SS\n"
+#~ "oO:MM:SS AMPM"
+
+#~ msgid "AM symbol:"
+#~ msgstr "Simbol AM:"
+
+#~ msgid "<p>Here you can set the text to be displayed for AM.</p>"
+#~ msgstr "<p>Aici puteți alege textul care va fi utilizat pentru AM</p>"
+
+# well-spelled: PM
+#~ msgid "PM symbol:"
+#~ msgstr "Simbol PM:"
+
+# well-spelled: PM
+#~ msgid "<p>Here you can set the text to be displayed for PM.</p>"
+#~ msgstr "<p>Aici puteți alege textul care va fi utilizat pentru PM</p>"
+
+# well-spelled:AAAA, AA, LL, lL, LUNĂSCURTĂ, ZZ, zZ, ZISĂPTSCURTĂ, ZISĂPT, ANULEREI, NUMELESCURTALEREI, ANULDINERĂ, ZIAANULUI, SĂPTISO, ZISĂPTISO
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format long dates. The "
+#~ "sequences below will be replaced:</p><table><tr><td><b>YYYY</b></"
+#~ "td><td>The year with century as a decimal number.</td></tr><tr><td><b>YY</"
+#~ "b></td><td>The year without century as a decimal number (00-99).</td></"
+#~ "tr><tr><td><b>MM</b></td><td>The month as a decimal number (01-12).</td></"
+#~ "tr><tr><td><b>mM</b></td><td>The month as a decimal number (1-12).</td></"
+#~ "tr><tr><td><b>SHORTMONTH</b></td><td>The first three characters of the "
+#~ "month name.</td></tr><tr><td><b>MONTH</b></td><td>The full month name.</"
+#~ "td></tr><tr><td><b>DD</b></td><td>The day of month as a decimal number "
+#~ "(01-31).</td></tr><tr><td><b>dD</b></td><td>The day of month as a decimal "
+#~ "number (1-31).</td></tr><tr><td><b>SHORTWEEKDAY</b></td><td>The first "
+#~ "three characters of the weekday name.</td></tr><tr><td><b>WEEKDAY</b></"
+#~ "td><td>The full weekday name.</td></tr><tr><td><b>ERAYEAR</b></td><td>The "
+#~ "Era Year in local format (e.g. 2000 AD).</td></"
+#~ "tr><tr><td><b>SHORTERANAME</b></td><td>The short Era Name.</td></"
+#~ "tr><tr><td><b>YEARINERA</b></td><td>The Year in Era as a decimal number.</"
+#~ "td></tr><tr><td><b>DAYOFYEAR</b></td><td>The Day of Year as a decimal "
+#~ "number.</td></tr><tr><td><b>ISOWEEK</b></td><td>The ISO Week as a decimal "
+#~ "number.</td></tr><tr><td><b>DAYOFISOWEEK</b></td><td>The Day of the ISO "
+#~ "Week as a decimal number.</td></tr></table>"
+#~ msgstr ""
+#~ "<p>Textul din această căsuță va fi folosit pentru formatarea datelor "
+#~ "lungi. Secvențele de mai jos vor fi înlocuite:</p><table><tr><td><b>AAAA</"
+#~ "b></td><td>Anul cu secol ca număr zecimal. </td></tr><tr><td><b>AA</b></"
+#~ "td><td>Anul fără secol ca număr zecimal (00-99).</td></tr><tr><td><b>LL</"
+#~ "b></td><td>Luna ca număr zecimal (01-12).</td></tr><tr><td><b>lL</b></"
+#~ "td><td>Luna ca număr zecimal (1-12).</td></tr><tr><td><b>LUNĂSCURTĂ</b></"
+#~ "td><td>Primele trei caractere ale numelui lunii.</td></"
+#~ "tr><tr><td><b>LUNĂ</b></td><td>Numele întreg al lunii.</td></"
+#~ "tr><tr><td><b>ZZ</b></td><td>Ziua lunii ca număr zecimal (01-31).</td></"
+#~ "tr><tr><td><b>zZ</b></td><td>Ziua lunii ca număr zecimal (1-31).</td></"
+#~ "tr><tr><td><b>ZISĂPTSCURTĂ</b></td><td>Primele trei caractere ale zilei "
+#~ "săptămînii.</td></tr><tr><td><b>ZISĂPT</b></td><td>Numele întreg al zilei "
+#~ "săptămînii.</td></tr> <tr><td><b>ANULEREI</b></td><td>Anul erei în format "
+#~ "local (de exemplu 2000 AD).</td></tr> <tr><td><b>NUMELESCURTALEREI</b></"
+#~ "td><td>Numele scurt al erei.</td></tr> <tr><td><b>ANULDINERĂ</b></"
+#~ "td><td>Anul din eră ca număr zecimal.</td></tr> <tr><td><b>ZIAANULUI</b></"
+#~ "td><td>Ziua din an ca număr zecimal.</td></tr> <tr><td><b>SĂPTISO</b></"
+#~ "td><td>Săptămîna ISO ca număr zecimal.</td></tr> <tr><td><b>ZISĂPTISO</"
+#~ "b></td><td>Zi a săptămînii ISO ca număr zecimal.</td></tr> </table>"
+
+# |, no-check-spell
+#~ msgid "YYYY"
+#~ msgstr "AAAA"
+
+# |, no-check-spell
+#~ msgid "YY"
+#~ msgstr "AA"
+
+# |, no-check-spell
+#~ msgid "mM"
+#~ msgstr "mM"
+
+# |, no-check-spell
+#~ msgctxt "Month"
+#~ msgid "MM"
+#~ msgstr "LL"
+
+# |, no-check-spell
+#~ msgid "SHORTMONTH"
+#~ msgstr "LUNĂSCURTĂ"
+
+#~ msgid "MONTH"
+#~ msgstr "LUNĂ"
+
+# |, no-check-spell
+#~ msgid "dD"
+#~ msgstr "zZ"
+
+# |, no-check-spell
+#~ msgid "DD"
+#~ msgstr "ZZ"
+
+# |, no-check-spell
+#~ msgid "SHORTWEEKDAY"
+#~ msgstr "ZISĂPTSCURTĂ"
+
+# |, no-check-spell
+#~ msgid "WEEKDAY"
+#~ msgstr "ZISĂPT"
+
+# |, no-check-spell
+#~ msgid "ERAYEAR"
+#~ msgstr "ANULEREI"
+
+# |, no-check-spell
+#~ msgid "YEARINERA"
+#~ msgstr "ANULDINERĂ"
+
+# |, no-check-spell
+#~ msgid "SHORTERANAME"
+#~ msgstr "NUMELESCURTALEREI"
+
+# |, no-check-spell
+#~ msgid "DAYOFYEAR"
+#~ msgstr "ZIAANULUI"
+
+# |, no-check-spell
+#~ msgid "ISOWEEK"
+#~ msgstr "SĂPTISO"
+
+# |, no-check-spell
+#~ msgid "DAYOFISOWEEK"
+#~ msgstr "ZISĂPTISO"
+
+# |, no-check-spell
+#~ msgctxt "some reasonable date formats for the language"
+#~ msgid ""
+#~ "WEEKDAY MONTH dD YYYY\n"
+#~ "SHORTWEEKDAY MONTH dD YYYY"
+#~ msgstr ""
+#~ "ZISĂPT LUNĂ zZ AAAA\n"
+#~ "ZISĂPTSCURTĂ LUNĂ zZ AAA"
+
+# well-spelled:AAAA, AA, LL, lL, LUNĂSCURTĂ, ZZ, zZ, ZISĂPTSCURTĂ, ZISĂPT, ANULEREI, NUMELESCURTALEREI, ANULDINERĂ, ZIAANULUI, SĂPTISO, ZISĂPTISO
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format short dates. For "
+#~ "instance, this is used when listing files. The sequences below will be "
+#~ "replaced:</p><table><tr><td><b>YYYY</b></td><td>The year with century as "
+#~ "a decimal number.</td></tr><tr><td><b>YY</b></td><td>The year without "
+#~ "century as a decimal number (00-99).</td></tr><tr><td><b>MM</b></"
+#~ "td><td>The month as a decimal number (01-12).</td></tr><tr><td><b>mM</b></"
+#~ "td><td>The month as a decimal number (1-12).</td></"
+#~ "tr><tr><td><b>SHORTMONTH</b></td><td>The first three characters of the "
+#~ "month name.</td></tr><tr><td><b>MONTH</b></td><td>The full month name.</"
+#~ "td></tr><tr><td><b>DD</b></td><td>The day of month as a decimal number "
+#~ "(01-31).</td></tr><tr><td><b>dD</b></td><td>The day of month as a decimal "
+#~ "number (1-31).</td></tr><tr><td><b>SHORTWEEKDAY</b></td><td>The first "
+#~ "three characters of the weekday name.</td></tr><tr><td><b>WEEKDAY</b></"
+#~ "td><td>The full weekday name.</td></tr><tr><td><b>ERAYEAR</b></td><td>The "
+#~ "Era Year in local format (e.g. 2000 AD).</td></"
+#~ "tr><tr><td><b>SHORTERANAME</b></td><td>The short Era Name.</td></"
+#~ "tr><tr><td><b>YEARINERA</b></td><td>The Year in Era as a decimal number.</"
+#~ "td></tr><tr><td><b>DAYOFYEAR</b></td><td>The Day of Year as a decimal "
+#~ "number.</td></tr><tr><td><b>ISOWEEK</b></td><td>The ISO Week as a decimal "
+#~ "number.</td></tr><tr><td><b>DAYOFISOWEEK</b></td><td>The Day of the ISO "
+#~ "Week as a decimal number.</td></tr></table>"
+#~ msgstr ""
+#~ "<p>Textul din această căsuță va fi folosit pentru formatarea datelor "
+#~ "scurte. De exemplu acestea sînt folosite la listarea fișierelor. "
+#~ "Secvențele de mai jos vor fi înlocuite:</p><table><tr><td><b>AAAA</b></"
+#~ "td><td>Anul cu secol ca număr zecimal. </td></tr><tr><td><b>AA</b></"
+#~ "td><td>Anul fără secol ca număr zecimal (00-99).</td></tr><tr><td><b>LL</"
+#~ "b></td><td>Luna ca număr zecimal (01-12).</td></tr><tr><td><b>lL</b></"
+#~ "td><td>Luna ca număr zecimal (1-12).</td></tr><tr><td><b>LUNĂSCURTĂ</b></"
+#~ "td><td>Primele trei caractere ale numelui lunii.</td></"
+#~ "tr><tr><td><b>LUNĂ</b></td><td>Numele întreg al lunii.</td></"
+#~ "tr><tr><td><b>ZZ</b></td><td>Ziua lunii ca număr zecimal (01-31).</td></"
+#~ "tr><tr><td><b>zZ</b></td><td>Ziua lunii ca număr zecimal (1-31).</td></"
+#~ "tr><tr><td><b>ZISĂPTSCURTĂ</b></td><td>Primele trei caractere ale zilei "
+#~ "săptămînii.</td></tr><tr><td><b>ZISĂPT</b></td><td>Numele întreg al zilei "
+#~ "săptămînii.</td></tr><tr><td><b>ANULEREI</b></td><td>Anul erei în format "
+#~ "local (de exemplu 2000 AD).</td></tr> <tr><td><b>NUMELESCURTALEREI</b></"
+#~ "td><td>Numele scurt al erei.</td></tr> <tr><td><b>ANULDINERĂ</b></"
+#~ "td><td>Anul din eră ca număr zecimal.</td></tr> <tr><td><b>ZIAANULUI</b></"
+#~ "td><td>Ziua din an ca număr zecimal.</td></tr> <tr><td><b>SĂPTISO</b></"
+#~ "td><td>Săptămîna ISO ca număr zecimal.</td></tr> <tr><td><b>ZISĂPTISO</"
+#~ "b></td><td>Zi a săptămînii ISO ca număr zecimal.</td></tr> </table>"
+
+# |, no-check-spell
+#~ msgctxt "some reasonable short date formats for the language"
+#~ msgid ""
+#~ "YYYY-MM-DD\n"
+#~ "dD.mM.YYYY\n"
+#~ "DD.MM.YYYY"
+#~ msgstr ""
+#~ "ZZ-LL-AAAA\n"
+#~ "zZ.lL.AAAA\n"
+#~ "ZZ.LL.AAAA"
+
+#~ msgid "Possessive month names:"
+#~ msgstr "Numele lunilor la genitiv"
+
+#~ msgid ""
+#~ "<p>This option determines whether possessive form of month names should "
+#~ "be used in dates.</p>"
+#~ msgstr ""
+#~ "<p>Această opțiune determină dacă va fi utilizată forma posesivă a "
+#~ "numelor lunii în datele calendaristice.</p>"
+
+#~ msgid ""
+#~ "<p>Here you can define the set of digits used to display dates and "
+#~ "times.  If digits other than Arabic are selected, they will appear only "
+#~ "if used in the language of the application or the piece of text where the "
+#~ "date or time is shown.</p><p>Note that the set of digits used to display "
+#~ "numeric and monetary values have to be set separately (see the 'Numbers' "
+#~ "or 'Money' tabs).</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini setul de cifre utilizat la afișarea datelor și "
+#~ "orelor. Dacă se selectează alte cifre decît cele Arabice ele vor apărea "
+#~ "doar dacă vor fi folosite în limbajul aplicației sau bucata de text unde "
+#~ "este afișat data sau ora.</p><p>Trebuie să rețineți că setul de cifre "
+#~ "utilizat la afișarea valorilor numerice și monetare trebuie stabilit "
+#~ "separat (vedeți fila „Numere” sau „Bani”).</p>"
+
+#~ msgid "Page size:"
+#~ msgstr "Dimensiune pagină:"
+
+#~ msgid ""
+#~ "<p>Here you can define the default page size to be used in new documents."
+#~ "</p><p>Note that this setting has no effect on printer paper size.</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini dimensiunile implicite de pagină folosite la "
+#~ "documentele noi.</p><p>Rețineți că această setare nu are efect asupra "
+#~ "dimensiunii paginii imprimantei.</p>"
+
+#~ msgctxt "Page size"
+#~ msgid "A4"
+#~ msgstr "A4"
+
+# well-spelled: Letter
+#~ msgctxt "Page size"
+#~ msgid "US Letter"
+#~ msgstr "US Letter"
+
+#~ msgctxt "Page size"
+#~ msgid "A0"
+#~ msgstr "A0"
+
+#~ msgctxt "Page size"
+#~ msgid "A1"
+#~ msgstr "A1"
+
+#~ msgctxt "Page size"
+#~ msgid "A2"
+#~ msgstr "A2"
+
+#~ msgctxt "Page size"
+#~ msgid "A3"
+#~ msgstr "A3"
+
+#~ msgctxt "Page size"
+#~ msgid "A5"
+#~ msgstr "A5"
+
+#~ msgctxt "Page size"
+#~ msgid "A6"
+#~ msgstr "A6"
+
+#~ msgctxt "Page size"
+#~ msgid "A7"
+#~ msgstr "A7"
+
+#~ msgctxt "Page size"
+#~ msgid "A8"
+#~ msgstr "A8"
+
+#~ msgctxt "Page size"
+#~ msgid "A9"
+#~ msgstr "A9"
+
+#~ msgctxt "Page size"
+#~ msgid "B0"
+#~ msgstr "B0"
+
+#~ msgctxt "Page size"
+#~ msgid "B1"
+#~ msgstr "B1"
+
+#~ msgctxt "Page size"
+#~ msgid "B2"
+#~ msgstr "B2"
+
+#~ msgctxt "Page size"
+#~ msgid "B3"
+#~ msgstr "B3"
+
+#~ msgctxt "Page size"
+#~ msgid "B4"
+#~ msgstr "B4"
+
+#~ msgctxt "Page size"
+#~ msgid "B5"
+#~ msgstr "B5"
+
+#~ msgctxt "Page size"
+#~ msgid "B6"
+#~ msgstr "B6"
+
+#~ msgctxt "Page size"
+#~ msgid "B7"
+#~ msgstr "B7"
+
+#~ msgctxt "Page size"
+#~ msgid "B8"
+#~ msgstr "B8"
+
+#~ msgctxt "Page size"
+#~ msgid "B9"
+#~ msgstr "B9"
+
+#~ msgctxt "Page size"
+#~ msgid "B10"
+#~ msgstr "B10"
+
+#~ msgctxt "Page size"
+#~ msgid "C5 Envelope"
+#~ msgstr "Plic C5"
+
+# well-spelled: Common
+#~ msgctxt "Page size"
+#~ msgid "US Common 10 Envelope"
+#~ msgstr "Plic US Common 10"
+
+# well-spelled: DLE
+#~ msgctxt "Page size"
+#~ msgid "DLE Envelope"
+#~ msgstr "Plic DLE"
+
+#~ msgctxt "Page size"
+#~ msgid "Executive"
+#~ msgstr "Executiv"
+
+#~ msgctxt "Page size"
+#~ msgid "Folio"
+#~ msgstr "Folio"
+
+#~ msgctxt "Page size"
+#~ msgid "Ledger"
+#~ msgstr "Registru"
+
+#~ msgctxt "Page size"
+#~ msgid "US Legal"
+#~ msgstr "US Legal"
+
+#~ msgctxt "Page size"
+#~ msgid "Tabloid"
+#~ msgstr "Tabloid"
+
+#~ msgctxt "Page size"
+#~ msgid "Custom"
+#~ msgstr "Personalizat"
+
+#~ msgid "<p>Here you can define the measurement system to use.</p>"
+#~ msgstr "<p>Aici puteți defini sistemul unităților de măsură folosit.</p>"
+
+#~ msgid "Metric System"
+#~ msgstr "Sistem metric"
+
+#~ msgid "Byte size units:"
+#~ msgstr "Unitățile pentru măsurarea octeților:"
+
+# well-spelled: JEDEC, kiloocteți
+#~ msgid ""
+#~ "<p>This changes the units used by most KDE programs to display numbers "
+#~ "counted in bytes. Traditionally \"kilobytes\" meant units of 1024, "
+#~ "instead of the metric 1000, for most (but not all) byte sizes.<ul><li>To "
+#~ "reduce confusion you can use the recently standardized IEC units which "
+#~ "are always in multiples of 1024.</li><li>You can also select metric, "
+#~ "which is always in units of 1000.</li><li>Selecting JEDEC restores the "
+#~ "older-style units used in KDE 3.5 and some other operating systems.</li></"
+#~ "ul></p>"
+#~ msgstr ""
+#~ "<p>Aceasta opțiune schimbă unitățile folosite de majoritatea aplicațiilor "
+#~ "KDE la afișarea mărimilor în octeți. În mod tradițional \"kiloocteți\" "
+#~ "înseamnă unități de 1024, în locul unităților sistemului metric de 1000, "
+#~ "pentru majoritatea (dar nu a tuturor) mărimilor în octeți.<ul><li>Pentru "
+#~ "a reduce confuzia puteți folosi unitățile IEC standardizate recent care "
+#~ "întotdeauna sînt în multipli de 1024.</li><li>Puteți de asemenea selecta "
+#~ "unitățile sistemului metric, care sînt întotdeauna în multipli de 1000.</"
+#~ "li><li>Selectînd JEDEC puteți restaura unitățile în stil vechi folosite "
+#~ "în KDE 3.5 și alte cîteva sisteme de operare.</li></ul></p>"
+
+# well-spelled: KiO, MiO
+#~ msgctxt "Unit of binary measurement"
+#~ msgid "IEC Units (KiB, MiB, etc)"
+#~ msgstr "Unități IEC (KiO, MiO, etc)"
+
+# well-spelled: JEDEC
+#~ msgctxt "Unit of binary measurement"
+#~ msgid "JEDEC Units (KB, MB, etc)"
+#~ msgstr "Unități JEDEC (KO, MO, etc)"
+
+# well-spelled: kO, MO
+#~ msgctxt "Unit of binary measurement"
+#~ msgid "Metric Units (kB, MB, etc)"
+#~ msgstr "Unități ale sistemului metric (kO, MO, etc)"
+
+#~ msgctxt "Example test for binary unit dialect"
+#~ msgid "Example: 2000 bytes equals %1"
+#~ msgstr "Exemplu: 2000 de octeți sînt echivalenți cu %1"
+
+#~ msgid "Page size"
+#~ msgstr "Dimensiune pagină"
+
+#~ msgid "Measurement system"
+#~ msgstr "Sistem de măsură"
+
+#~ msgid "Byte size units"
+#~ msgstr "Unitățile pentru măsurarea octeților"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "&Available Languages:"
+#~ msgstr "Limbi:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "&Preferred Languages:"
+#~ msgstr "Limbi:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Preferred Langauges:"
+#~ msgstr "Limbi:"
+
+#~ msgid "Form"
+#~ msgstr "Formular"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal seperator:"
+#~ msgstr "Simbol zecimal:"
+
+#~ msgid "Remove"
+#~ msgstr "Elimină"
+
+#~ msgctxt "@item:intext Country"
+#~ msgid "Not set (Generic English)"
+#~ msgstr "Nestabilit (engleză)"
+
+#~ msgctxt "@info %1 is country name"
+#~ msgid "<html>%1 (<a href=\"changeCountry\">change...</a>)</html>"
+#~ msgstr "<html>%1 (<a href=\"changeCountry\">modificare...</a>)</html>"
+
+#~ msgid "Add Language"
+#~ msgstr "Adaugă limbă"
+
+#~ msgid ""
+#~ "This will add a language to the list. If the language is already in the "
+#~ "list, the old one will be moved instead."
+#~ msgstr ""
+#~ "Această acțiune va adăuga o limbă în listă. Dacă este deja în listă, "
+#~ "atunci cea veche va fi mutată."
+
+#~ msgid "This will remove the highlighted language from the list."
+#~ msgstr "Această acțiune va șterge din listă limba aleasă."
+
+#~ msgid ""
+#~ "KDE programs will be displayed in the first available language in this "
+#~ "list.\n"
+#~ "If none of the languages are available, US English will be used."
+#~ msgstr ""
+#~ "Programele KDE vor fi afișate în prima limbă disponibilă din listă.\n"
+#~ "Dacă nici una din limbi nu este disponibilă, atunci va fi utilizată "
+#~ "engleza americană."
+
+#~ msgid ""
+#~ "Here you can choose your country or region. The settings for languages, "
+#~ "numbers etc. will automatically switch to the corresponding values."
+#~ msgstr ""
+#~ "Aici puteți alege țara dumneavoastră. Setările pentru limbă, numere și "
+#~ "altele vor comuta automat la valorile corespunzătoare."
+
+#~ msgid ""
+#~ "<p>Here you can choose the languages that will be used by KDE. If the "
+#~ "first language in the list is not available, the second will be used, "
+#~ "etc. If only US English is available, no translations have been "
+#~ "installed. You can get translation packages for many languages from the "
+#~ "place you got KDE from.</p><p>Note that some applications may not be "
+#~ "translated to your languages; in this case, they will automatically fall "
+#~ "back to US English.</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți alege limbile care vor fi utilizate de KDE. Dacă prima "
+#~ "limbă din listă nu este disponibilă, atunci va fi utilizată cea de-a doua "
+#~ "și așa mai departe. Dacă este disponibilă numai engleza americană, atunci "
+#~ "înseamnă că nu sînt instalate traduceri pentru KDE. Le puteți obține din "
+#~ "același loc de unde ați obținut și KDE-ul.</p><p>Anumite aplicații s-ar "
+#~ "putea să nu fie traduse în limba română. În acest caz va fi folosită "
+#~ "automat limba implicită, adică engleza americană.</p>"
+
+#~ msgid "This is how date values will be displayed using a short notation."
+#~ msgstr ""
+#~ "Acesta este modul în care vor fi afișate valorile de dată utilizînd "
+#~ "notația scurtă."
+
+#~ msgid "Positive"
+#~ msgstr "Pozitiv"
+
+#~ msgid "Negative"
+#~ msgstr "Negativ"
+
+#~ msgid ""
+#~ "Here you can choose the currency symbol to be displayed for your chosen "
+#~ "currency, e.g. $, US$, or USD."
+#~ msgstr ""
+#~ "Aici puteți alege simbolul monetar utilizat pentru moneda aleasă, de ex. "
+#~ "$, US$ sau USD."
+
+#~ msgid "&Decimal symbol:"
+#~ msgstr "Simbol &zecimal:"
+
+#~ msgid "Tho&usands separator:"
+#~ msgstr "Separator de &mii:"
+
+#~ msgid "Decimal &places:"
+#~ msgstr "&Cifre zecimale:"
+
+#~ msgid "Di&git set:"
+#~ msgstr "S&et de cifre:"
+
+#~ msgid ""
+#~ "Here you can specify text used to prefix positive numbers. Most people "
+#~ "leave this blank."
+#~ msgstr ""
+#~ "Aici puteți specifica textul utilizat la prefixarea numerelor pozitive. "
+#~ "În general acest cîmp este gol."
+
+#, fuzzy
+#~| msgid ""
+#~| "This determines the number of fract digits for monetary values, i.e. the "
+#~| "number of digits you find <em>behind</em> the decimal separator. Correct "
+#~| "value is 2 for almost all people."
+#~ msgid ""
+#~ "Here you can set the number of decimal places displayed for numeric "
+#~ "values, i.e. the number of digits <em>after</em> the decimal separator. "
+#~ msgstr ""
+#~ "Aceasta opțiune determină numărul de cifre fracționare pentru valori "
+#~ "monetare, adică numărul de cifre care vor fi <em>după</em> separatorul "
+#~ "zecimal. Valoarea corectă pentru aproape toate cazurile este 2."
+
+#~ msgid "Paper format:"
+#~ msgstr "Format foaie:"
+
+#~ msgid "Use declined form of month name"
+#~ msgstr "Utilizează forma declinată pentru numele lunii"
+
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format long dates. The "
+#~ "sequences below will be replaced:</p>"
+#~ msgstr ""
+#~ "<p>Textul din această linie de editare va fi utilizat pentru a formata "
+#~ "date lungi. Secvența de mai jos va fi înlocuită:</p>"
+
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format short dates. For "
+#~ "instance, this is used when listing files. The sequences below will be "
+#~ "replaced:</p>"
+#~ msgstr ""
+#~ "<p>Textul din această căsuță va fi utilizat pentru a formata date scurte. "
+#~ "De exemplu, acesta este utilizat cînd listați fișiere. Secvența de mai "
+#~ "jos va fi înlocuită:</p>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>Here you can define the set of digits used to display numbers. If "
+#~| "digits other than Arabic are selected, they will appear only if used in "
+#~| "the language of the application or the piece of text where the number is "
+#~| "shown.</p><p>Note that the set of digits used to display monetary values "
+#~| "has to be set separately (see the 'Money' tab).</p>"
+#~ msgid ""
+#~ "<p>Here you can define the set of digits used to display time and dates. "
+#~ "If digits other than Arabic are selected, they will appear only if used "
+#~ "in the language of the application or the piece of text where the number "
+#~ "is shown.</p>"
+#~ msgstr ""
+#~ "<p>Aici puteți defini setul de cifre utilizat la afișarea numerelor. </"
+#~ "p><p>Trebuie să rețineți că setul de cifre utilizat la afișarea valorilor "
+#~ "monetare trebuie stabilit separat (vedeți fila „Bani”).</p>"
+
+#~ msgid "None selected (<a href=\"/change\">change...</a>)"
+#~ msgstr "Nici unul ales (<a href=\"/change\">modifică...</a>)"
+
+#~ msgid "KCMLocale"
+#~ msgstr "Localizare"
+
+#~ msgid "(C) 1998 Matthias Hoelzer, (C) 1999-2003 Hans Petter Bieker"
+#~ msgstr "(C) 1998 Matthias Hoelzer, (C) 1999-2003 Hans Petter Bieker"
+
+#~ msgid ""
+#~ "<h1>Country/Region & Language</h1>\n"
+#~ "<p>From here you can configure language, numeric, and time \n"
+#~ "settings for your particular region. In most cases it will be \n"
+#~ "sufficient to choose the country you live in. For instance KDE \n"
+#~ "will automatically choose \"German\" as language if you choose \n"
+#~ "\"Germany\" from the list. It will also change the time format \n"
+#~ "to use 24 hours and and use comma as decimal separator.</p>\n"
+#~ msgstr ""
+#~ "<h1>Țara și limba</h1>\n"
+#~ "<p>De aici puteți configura setările de limbă, numere și oră pentru "
+#~ "regiunea dumneavoastră. În cele mai multe cazuri va fi suficient să "
+#~ "alegeți țara în care locuiți. De exemplu, KDE va alege automat „Română” "
+#~ "ca limbă dacă ați ales „România” sau „Republica Moldova” din listă. El va "
+#~ "schimba și formatul orei la 24 de ore și va utiliza virgula ca separator "
+#~ "zecimal.</p>\n"
+
+#~ msgid "&Numbers"
+#~ msgstr "&Numere"
+
+#~ msgid "&Money"
+#~ msgstr "&Bani"
+
+#~ msgid "&Time && Dates"
+#~ msgstr "&Oră și dată"
+
+#~ msgid "Fract digits:"
+#~ msgstr "Număr de zecimale:"
+
+#~ msgid "Here you can enter your usual currency symbol, e.g. $ or €."
+#~ msgstr ""
+#~ "Aici puteți introduce simbolul obișnuit al monedei, cum ar fi $ sau €."
+
+#~ msgid "Fractional digits:"
+#~ msgstr "Număr de zecimale:"
+
+#~ msgctxt "Calendar System Gregorian"
+#~ msgid "Gregorian"
+#~ msgstr "Gregorian"
+
+#~ msgctxt "Calendar System Hijri"
+#~ msgid "Hijri"
+#~ msgstr "Hijri"
+
+#~ msgctxt "Calendar System Hebrew"
+#~ msgid "Hebrew"
+#~ msgstr "Ebraic"
+
+#~ msgctxt "Calendar System Jalali"
+#~ msgid "Jalali"
+#~ msgstr "Jalali"

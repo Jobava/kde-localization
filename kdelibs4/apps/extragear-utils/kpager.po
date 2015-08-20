@@ -1,0 +1,174 @@
+# translation of kpager.po to Romanian
+# translation of @PACKAGE.po to @LANGUAGE
+# Copyright (C) 2003 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2003.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: kpager\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 03:19+0200\n"
+"PO-Revision-Date: 2013-05-25 09:23+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Claudiu Costin,Laurențiu Buzdugan,Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ",lbuz@rolix.org,sergiu@ase.md"
+
+#: config.cpp:32
+msgid "Configuration"
+msgstr "Configurare"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_windowDragging)
+#: config.ui:17
+msgid "Enable window dragging"
+msgstr "Activează tragerea ferestrelor"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showName)
+#: config.ui:31
+msgid "Show name"
+msgstr "Arată denumirea"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showNumber)
+#: config.ui:38
+msgid "Show number"
+msgstr "Arată numărul"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showBackground)
+#: config.ui:45
+msgid "Show background"
+msgstr "Arată fundalul"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showWindows)
+#: config.ui:52
+msgid "Show windows"
+msgstr "Arată ferestrele"
+
+#. i18n: ectx: property (title), widget (KButtonGroup, kcfg_windowDrawMode)
+#: config.ui:61
+msgid "Type of Window"
+msgstr "Tip de fereastră"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton)
+#: config.ui:67
+msgid "Plain"
+msgstr "Simplă"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_2)
+#: config.ui:74
+msgid "Icon"
+msgstr "Pictogramă"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_3)
+#: config.ui:81
+msgid "Pixmap"
+msgstr "Hartă de pixeli"
+
+#. i18n: ectx: property (title), widget (KButtonGroup, kcfg_layoutType)
+#: config.ui:91
+msgid "Layout"
+msgstr "Aranjament"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_4)
+#: config.ui:97
+msgid "Classical"
+msgstr "Clasic"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_5)
+#: config.ui:104
+msgid "Horizontal"
+msgstr "Orizontal"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_6)
+#: config.ui:111
+msgid "Vertical"
+msgstr "Vertical"
+
+#: kpager.cpp:335
+msgid "&To Desktop"
+msgstr "Către &biroul"
+
+#: kpager.cpp:340
+msgid "Mi&nimize"
+msgstr "Mi&nimizează"
+
+#: kpager.cpp:344
+msgid "Ma&ximize"
+msgstr "Ma&ximizează"
+
+#: kpager.cpp:348 kpager.cpp:605
+msgid "&Sticky"
+msgstr "&Lipicios"
+
+#: kpager.cpp:357
+msgid "&Close"
+msgstr "&Închide"
+
+#: kpager.cpp:605
+msgid "Un&sticky"
+msgstr "Nelipicio&s"
+
+#: kpager.cpp:613
+msgid "&All Desktops"
+msgstr "To&ate birourile"
+
+#: main.cpp:60
+msgid "KPager"
+msgstr "KPager"
+
+#: main.cpp:61
+msgid "Desktop Overview"
+msgstr "Sumarul biroului"
+
+#: main.cpp:63
+msgid ""
+"© 1998-2002, Antonio Larrosa Jiménez\n"
+"© 2010-2011, Pino Toscano"
+msgstr ""
+"© 1998-2002, Antonio Larrosa Jiménez\n"
+"© 2010-2011, Pino Toscano"
+
+#: main.cpp:69
+msgid "Antonio Larrosa Jiménez"
+msgstr "Antonio Larrosa Jiménez"
+
+#: main.cpp:70
+msgid "Original Developer/Maintainer"
+msgstr "Dezvoltator original și responsabil"
+
+#: main.cpp:73
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+#: main.cpp:74 main.cpp:77 main.cpp:80
+msgid "Developer"
+msgstr "Dezvoltator"
+
+#: main.cpp:76
+msgid "Matthias Elter"
+msgstr "Matthias Elter"
+
+#: main.cpp:79
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+#: main.cpp:86
+msgid "Create pager but keep the window hidden"
+msgstr "Creează paginatorul dar ascunde fereastra"
+
+#: main.cpp:102
+msgid "Desktop Pager"
+msgstr "Paginator de birou"

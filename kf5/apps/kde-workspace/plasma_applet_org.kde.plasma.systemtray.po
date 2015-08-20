@@ -1,0 +1,216 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-06 08:58+0000\n"
+"PO-Revision-Date: 2013-11-26 22:58+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: package/contents/config/config.qml:26
+msgid "General"
+msgstr ""
+
+#: package/contents/config/config.qml:31
+msgid "Entries"
+msgstr ""
+
+#: package/contents/ui/CompactRepresentation.qml:128
+msgid "Hide icons"
+msgstr "Ascunde pictogramele"
+
+#: package/contents/ui/CompactRepresentation.qml:128
+msgid "Show hidden icons"
+msgstr "Arată pictogramele ascunse"
+
+#: package/contents/ui/ConfigEntries.qml:46
+msgid "Always show all entries"
+msgstr ""
+
+#: package/contents/ui/ConfigEntries.qml:128
+#, fuzzy
+#| msgid "Automaticox"
+msgid "Auto"
+msgstr "Automaticox"
+
+#: package/contents/ui/ConfigEntries.qml:128
+msgid "Shown"
+msgstr ""
+
+#: package/contents/ui/ConfigEntries.qml:128
+msgid "Hidden"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:61
+msgid "Categories"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:72 plugin/host.cpp:321
+msgid "Application Status"
+msgstr "Starea aplicației"
+
+#: package/contents/ui/ConfigGeneral.qml:76 plugin/host.cpp:323
+msgid "Communications"
+msgstr "Comunicații"
+
+#: package/contents/ui/ConfigGeneral.qml:80 plugin/host.cpp:325
+msgid "System Services"
+msgstr "Servicii de sistem"
+
+#: package/contents/ui/ConfigGeneral.qml:84
+#, fuzzy
+#| msgid "Hardware"
+msgid "Hardware Control"
+msgstr "Echipament"
+
+#: package/contents/ui/ConfigGeneral.qml:88
+msgid "Miscellaneous"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:98
+msgid "Extra Items"
+msgstr ""
+
+#: package/contents/ui/ExpandedRepresentation.qml:158
+msgid "Status & Notifications"
+msgstr "Stare și notificări"
+
+#: plugin/host.cpp:272
+#, fuzzy
+#| msgid "Automaticox"
+msgid " (Automatic load)"
+msgstr "Automaticox"
+
+#: plugin/host.cpp:319
+msgid "Unknown Category"
+msgstr "Categorie necunoscută"
+
+#: plugin/host.cpp:327
+msgid "Hardware"
+msgstr "Echipament"
+
+#: plugin/host.cpp:363
+#, kde-format
+msgctxt "%1 is the name of the applet"
+msgid "%1 Options"
+msgstr ""
+
+#: plugin/host.cpp:370 plugin/protocols/plasmoid/plasmoidtask.cpp:286
+#, kde-format
+msgctxt "%1 is the name of the containment"
+msgid "%1 Options"
+msgstr ""
+
+#: plugin/protocols/plasmoid/plasmoidtask.cpp:270
+#, fuzzy
+#| msgid "SystemTray Settings"
+msgid "System Tray Options"
+msgstr "Configurări tavă de sistem"
+
+#, fuzzy
+#~| msgid "NeedsAttention"
+#~ msgid "Destination"
+#~ msgstr "CereAtenție"
+
+#~ msgctxt "tooltip title"
+#~ msgid "System Service Item"
+#~ msgstr "Element serviciu de sistem"
+
+#~ msgctxt "title"
+#~ msgid "StatusNotifierTest"
+#~ msgstr "StatusNotifierTest"
+
+#~ msgctxt "tooltip subtitle"
+#~ msgid "Some explanation from the beach."
+#~ msgstr "Cîteva explicații de pe plajă."
+
+#, fuzzy
+#~| msgctxt "title"
+#~| msgid "StatusNotifierTest"
+#~ msgid "Stat&usNotifier Testap"
+#~ msgstr "StatusNotifierTest"
+
+#, fuzzy
+#~| msgctxt "title"
+#~| msgid "StatusNotifierTest"
+#~ msgid "Stat&us Notifier"
+#~ msgstr "StatusNotifierTest"
+
+#~ msgid "<b>Status</b>"
+#~ msgstr "<b>Stare</b>"
+
+#~ msgid "Passive"
+#~ msgstr "Pasiv"
+
+#~ msgid "Ac&tive"
+#~ msgstr "Ac&tiv"
+
+#, fuzzy
+#~| msgid "NeedsAttention"
+#~ msgid "&NeedsAttention"
+#~ msgstr "CereAtenție"
+
+#~ msgid "<b>Icon</b>"
+#~ msgstr "<b>Pictogramă</b>"
+
+#~ msgid "<b>ToolTip</b>"
+#~ msgstr "<b>Indiciu</b>"
+
+#~ msgid "Update"
+#~ msgstr "Actualizare"
+
+#, fuzzy
+#~| msgid "<b>ToolTip</b>"
+#~ msgid "<b>Job Control</b>"
+#~ msgstr "<b>Indiciu</b>"
+
+#, fuzzy
+#~| msgid "<b>Icon</b>"
+#~ msgid "<b>Progress</b>"
+#~ msgstr "<b>Pictogramă</b>"
+
+#, fuzzy
+#~| msgid "<b>Icon</b>"
+#~ msgid "<b>Naming</b>"
+#~ msgstr "<b>Pictogramă</b>"
+
+#~ msgid "Icon size:"
+#~ msgstr "Dimensiune pictograme:"
+
+#~ msgid "Error: Can't find plugin metadata: %1"
+#~ msgstr "Eroare: metadatele extensiei nu pot fi găsite:  %1"
+
+#~ msgid "Error loading QML file: %1"
+#~ msgstr "Eroare la încărcarea fișierului QML: %1"
+
+#~ msgid "Dialog"
+#~ msgstr "Dialog"
+
+#~ msgid "Showing info for package: %1"
+#~ msgstr "Se arată informații pentru pachetul: %1"
+
+#~ msgid "      Name : %1"
+#~ msgstr "      Denumire : %1"
+
+#~ msgid "   Comment : %1"
+#~ msgstr "   Comentariu : %1"
+
+#~ msgid "    Plugin : %1"
+#~ msgstr "   Extensie : %1"
+
+#~ msgid "    Author : %1"
+#~ msgstr "    Autor : %1"
+
+#~ msgid "      Path : %1"
+#~ msgstr "      Cale : %1"

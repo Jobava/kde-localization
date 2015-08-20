@@ -1,0 +1,88 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevcmakebuilder\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-08-01 08:51+0000\n"
+"PO-Revision-Date: 2008-12-22 17:23+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: cmakebuilder.cpp:126
+msgid "Couldn't find the make builder. Check your installation"
+msgstr ""
+
+#: cmakebuilder.cpp:150 cmakebuilder.cpp:176 cmakebuilder.cpp:203
+#, kde-format
+msgid "Couldn't find a builder for %1"
+msgstr ""
+
+#: cmakebuilder.cpp:216
+msgid "No Build Directory configured, cannot install"
+msgstr ""
+
+#: cmakebuilder.cpp:220
+msgid "Couldn't configure the build directory."
+msgstr ""
+
+#: cmakebuilder.cpp:228
+msgid "No Build Directory configured, cannot configure"
+msgstr ""
+
+#: cmakebuilderpreferences.cpp:87 cmakejob.cpp:50 prunejob.cpp:37
+#, fuzzy
+#| msgid "CMake: %1"
+msgid "CMake"
+msgstr "CMake: %1"
+
+#: cmakebuilderpreferences.cpp:92
+msgid "Configure global CMake settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: cmakebuildersettings.ui:17
+msgid "Generator:"
+msgstr ""
+
+#: cmakejob.cpp:142
+#, kde-format
+msgid "CMake: %1"
+msgstr "CMake: %1"
+
+#: prunejob.cpp:51
+msgid "No Build Directory configured, cannot clear builddir"
+msgstr ""
+
+#: prunejob.cpp:57
+msgid "Wrong build directory, cannot clear the build directory"
+msgstr ""
+
+#: prunejob.cpp:68
+#, kde-format
+msgid "%1> rm -rf %2"
+msgstr ""
+
+#: prunejob.cpp:83
+msgid "** Prune successful **"
+msgstr ""
+
+#: prunejob.cpp:85
+#, kde-format
+msgid "** Prune failed: %1 **"
+msgstr ""
+
+#~ msgid "Job failed"
+#~ msgstr "Sarcină eșuată"
+
+#~ msgid "CMake Binary:"
+#~ msgstr "Binară Cmake:"

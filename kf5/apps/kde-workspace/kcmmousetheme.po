@@ -1,0 +1,156 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@cip.md>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-05-10 08:43+0000\n"
+"PO-Revision-Date: 2015-04-26 15:01+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@cip.md"
+
+#: kcmcursortheme.cpp:43
+msgid "Cursor Theme"
+msgstr "Temă de cursor"
+
+#: kcmcursortheme.cpp:44
+msgid "(c) 2003-2007 Fredrik Höglund"
+msgstr "(c) 2003-2007 Fredrik Höglund"
+
+#: kcmcursortheme.cpp:45
+msgid "Fredrik Höglund"
+msgstr "Fredrik Höglund"
+
+#: xcursor/thememodel.cpp:74
+msgid "Name"
+msgstr "Denumire"
+
+#: xcursor/thememodel.cpp:77
+msgid "Description"
+msgstr "Descriere"
+
+#: xcursor/themepage.cpp:154
+msgctxt "@item:inlistbox size"
+msgid "Resolution dependent"
+msgstr "Dependent de rezoluție"
+
+#: xcursor/themepage.cpp:311
+msgid "You have to restart KDE for these changes to take effect."
+msgstr "Trebuie să reporniți KDE pentru ca modificările să intre în vigoare."
+
+#: xcursor/themepage.cpp:312
+msgid "Cursor Settings Changed"
+msgstr "Configurările cursorului s-au modificat"
+
+#: xcursor/themepage.cpp:430
+msgid "Drag or Type Theme URL"
+msgstr "Trageți sau scrieți URL-ul temei"
+
+#: xcursor/themepage.cpp:441
+#, kde-format
+msgid "Unable to find the cursor theme archive %1."
+msgstr "Nu s-a găsit arhiva temei de cursori %1."
+
+#: xcursor/themepage.cpp:444
+#, kde-format
+msgid ""
+"Unable to download the cursor theme archive; please check that the address "
+"%1 is correct."
+msgstr ""
+"Nu s-a putut descărca arhiva temei de cursori. Verificați dacă adresa %1 "
+"este corectă."
+
+#: xcursor/themepage.cpp:453
+#, kde-format
+msgid "The file %1 does not appear to be a valid cursor theme archive."
+msgstr "Fișierul %1 nu pare să fie o arhivă validă cu temă de cursor."
+
+#: xcursor/themepage.cpp:468
+msgid ""
+"<qt>You cannot delete the theme you are currently using.<br />You have to "
+"switch to another theme first.</qt>"
+msgstr ""
+
+#: xcursor/themepage.cpp:474
+#, kde-format
+msgid ""
+"<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
+"will delete all the files installed by this theme.</qt>"
+msgstr ""
+
+#: xcursor/themepage.cpp:480
+msgid "Confirmation"
+msgstr "Confirmare"
+
+#: xcursor/themepage.cpp:537
+#, kde-format
+msgid ""
+"A theme named %1 already exists in your icon theme folder. Do you want "
+"replace it with this one?"
+msgstr ""
+
+#: xcursor/themepage.cpp:541
+msgid "Overwrite Theme?"
+msgstr "Suprascrieți tema?"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: xcursor/themepage.ui:17
+msgid "Select the cursor theme you want to use (hover preview to test cursor):"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, installKnsButton)
+#: xcursor/themepage.ui:56
+msgid "Get new color schemes from the Internet"
+msgstr "Preia scheme de culori noi din Internet"
+
+#. i18n: ectx: property (text), widget (QPushButton, installKnsButton)
+#: xcursor/themepage.ui:59
+#, fuzzy
+#| msgid "Get New Theme..."
+msgid "Get New Theme..."
+msgstr "Obține temă nouă..."
+
+#. i18n: ectx: property (text), widget (QPushButton, installButton)
+#: xcursor/themepage.ui:66
+#, fuzzy
+#| msgid "Install From File..."
+msgid "Install From File..."
+msgstr "Instalează din fișier..."
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: xcursor/themepage.ui:73
+#, fuzzy
+#| msgid "Remove Theme"
+msgid "Remove Theme"
+msgstr "Elimină tema"
+
+#. i18n: ectx: property (text), widget (QLabel, sizeLabel)
+#: xcursor/themepage.ui:99
+msgctxt "@label:listbox cursor size"
+msgid "Size:"
+msgstr "Dimensiune:"
+
+#: xcursor/xcursortheme.cpp:74
+#, kde-format
+msgctxt ""
+"@info The argument is the list of available sizes (in pixel). Example: "
+"'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
+msgid "(Available sizes: %1)"
+msgstr "(Dimensiuni disponibile: %1)"

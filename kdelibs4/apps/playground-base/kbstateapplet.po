@@ -1,0 +1,98 @@
+# translation of kbstateapplet to Romanian
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kbstateapplet package.
+# Sergiu Bivol <sergiu@ase.md>, 2008.
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kbstateapplet\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-19 05:53+0200\n"
+"PO-Revision-Date: 2009-09-02 00:54-0600\n"
+"Last-Translator: Laurenţiu Buzdugan <lbuz@rolix.org>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 0.2\n"
+
+#: kbstateapplet.cpp:56
+msgid "Shift"
+msgstr "Shift"
+
+#: kbstateapplet.cpp:57
+msgid "Control"
+msgstr "Control"
+
+#: kbstateapplet.cpp:58
+msgid "Alt"
+msgstr "Alt"
+
+#: kbstateapplet.cpp:59
+msgid "Win"
+msgstr "Win"
+
+#: kbstateapplet.cpp:60
+msgid "Meta"
+msgstr "Meta"
+
+#: kbstateapplet.cpp:61
+msgid "Super"
+msgstr "Super"
+
+#: kbstateapplet.cpp:62
+msgid "Hyper"
+msgstr "Hyper"
+
+#: kbstateapplet.cpp:63
+msgid "Alt Graph"
+msgstr "Alt Graph"
+
+#: kbstateapplet.cpp:63
+msgid "æ"
+msgstr "æ"
+
+#: kbstateapplet.cpp:64
+msgid "Num Lock"
+msgstr "Num Lock"
+
+#: kbstateapplet.cpp:64
+msgid "Num"
+msgstr "Num"
+
+#: kbstateapplet.cpp:65
+msgid "Caps Lock"
+msgstr "Caps Lock"
+
+#: kbstateapplet.cpp:66
+msgid "Scroll Lock"
+msgstr "Scroll Lock"
+
+#: kbstateapplet.cpp:66
+msgid "Scroll"
+msgstr "Scroll"
+
+#: kbstateapplet.cpp:444 kbstateapplet.cpp:458 kbstateapplet.cpp:462
+#: kbstateapplet.cpp:791
+msgctxt "a (the first letter in the alphabet)"
+msgid "a"
+msgstr "a"
+
+#: kbstateapplet.cpp:920
+msgid "Show Modifier Keys"
+msgstr "Afișează tastele modificatoare"
+
+#: kbstateapplet.cpp:922
+msgid "Show Lock Keys"
+msgstr "Afișează tastele de blocare"
+
+#: kbstateapplet.cpp:924
+msgid "Show Mouse Status"
+msgstr "Afișează starea mausului"
+
+#: kbstateapplet.cpp:926
+msgid "Show AccessX Status"
+msgstr "Afișează starea AccessX"

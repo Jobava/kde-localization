@@ -1,0 +1,2265 @@
+# translation of kmid.po to Romanian
+# Copyright (C) 2004 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2004.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: kmid\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-05-21 01:44+0000\n"
+"PO-Revision-Date: 2012-12-22 11:51+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Claudiu Costin"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "claudiuc@kde.org"
+
+#: alsa/alsabackend.cpp:78
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Fatal error from the ALSA sequencer backend. This usually happens when the "
+"kernel does not have ALSA support, the device node (/dev/snd/seq) does not "
+"exist, or the kernel module (snd_seq) is not loaded. Please check your ALSA/"
+"MIDI configuration. Returned error was: %1"
+msgstr ""
+
+#: alsa/alsabackend.cpp:84
+msgctxt "@title:window"
+msgid "ALSA Sequencer Backend Error"
+msgstr ""
+
+#: alsa/alsabackend.cpp:209 alsa/alsabackend.cpp:227
+msgctxt "@info"
+msgid "Not valid"
+msgstr "Nevalid"
+
+#: alsa/alsabackend.cpp:210 alsa/alsabackend.cpp:228
+#, kde-format
+msgctxt "@info"
+msgid "Found version: %1"
+msgstr "Versiune găsită: %1"
+
+#: alsa/externalsoftsynth.cpp:238 alsa/externalsoftsynth.cpp:338
+msgctxt "@info"
+msgid "The command is incorrect"
+msgstr "Comanda este greșită"
+
+#: alsa/externalsoftsynth.cpp:249 alsa/externalsoftsynth.cpp:348
+msgctxt "@info"
+msgid "This program version is not supported"
+msgstr "Versiunea programului nu este susținută"
+
+#: alsa/externalsoftsynth.cpp:353
+msgctxt "@info"
+msgid "A SoundFont file is required"
+msgstr ""
+
+#: alsa/externalsoftsynth.cpp:359
+msgctxt "@info"
+msgid "The SoundFont file does not exist"
+msgstr ""
+
+#. i18n: ectx: label, entry (exec_fluid), group (Settings)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_exec_fluid)
+#: alsa/prefs_progs.ui:30 library/kmid.kcfg:71
+msgid "Run FluidSynth at startup"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: alsa/prefs_progs.ui:37 alsa/prefs_progs.ui:204
+msgid "Command:"
+msgstr ""
+
+#. i18n: ectx: property (filter), widget (KUrlRequester, kcfg_cmd_fluid)
+#. i18n: ectx: property (filter), widget (KUrlRequester, kcfg_cmd_timidity)
+#: alsa/prefs_progs.ui:47 alsa/prefs_progs.ui:214
+msgid "application/x-executable"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: alsa/prefs_progs.ui:54 alsa/prefs_progs.ui:228
+msgid "Audio Output:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_audio_fluid)
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_audio_timidity)
+#: alsa/prefs_progs.ui:68 alsa/prefs_progs.ui:242
+msgid "alsa"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_audio_fluid)
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_audio_timidity)
+#: alsa/prefs_progs.ui:73 alsa/prefs_progs.ui:247
+msgid "pulseaudio"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_audio_fluid)
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_audio_timidity)
+#: alsa/prefs_progs.ui:78 alsa/prefs_progs.ui:252
+msgid "oss"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_audio_fluid)
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_audio_timidity)
+#: alsa/prefs_progs.ui:83 alsa/prefs_progs.ui:257
+msgid "jack"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: alsa/prefs_progs.ui:91 mac/prefs_synth.ui:27
+msgid "SoundFont:"
+msgstr ""
+
+#. i18n: ectx: property (filter), widget (KUrlRequester, kcfg_sf2_fluid)
+#: alsa/prefs_progs.ui:104
+msgid "audio/x-soundfont"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: alsa/prefs_progs.ui:111 alsa/prefs_progs.ui:311
+#, fuzzy
+#| msgid "Trumpet"
+msgid "Arguments:"
+msgstr "Trompetă"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, label_fluid_available)
+#. i18n: ectx: property (text), widget (KTitleWidget, label_timidity_available)
+#: alsa/prefs_progs.ui:134 alsa/prefs_progs.ui:221
+msgid "Not yet tested"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: alsa/prefs_progs.ui:141 alsa/prefs_progs.ui:265
+msgid "Audio Device:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: alsa/prefs_progs.ui:151 alsa/prefs_progs.ui:288
+msgid "Sample Rate:"
+msgstr ""
+
+#. i18n: ectx: label, entry (exec_timidity), group (Settings)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_exec_timidity)
+#: alsa/prefs_progs.ui:197 library/kmid.kcfg:106
+msgid "Run TiMidity++ at startup"
+msgstr ""
+
+#: examples/kmidtest/kmidtest.cpp:51
+msgid "Could not find KMidPart."
+msgstr ""
+
+#: examples/kmidtest/kmidtest.cpp:81
+msgid "A KDE KPart Application"
+msgstr ""
+
+#: examples/kmidtest/kmidtest.cpp:87
+#, fuzzy
+#| msgid "KMid"
+msgid "KMidTest"
+msgstr "KMid"
+
+#: examples/kmidtest/kmidtest.cpp:89
+msgid "(C) 2010 Pedro Lopez-Cabanillas"
+msgstr ""
+
+#: examples/kmidtest/kmidtest.cpp:91 src/main.cpp:37
+msgid "Pedro Lopez-Cabanillas"
+msgstr "Pedro Lopez-Cabanillas"
+
+#: examples/kmidtest/kmidtest.cpp:95
+#, fuzzy
+#| msgid "File to open"
+msgid "Song to open"
+msgstr "Fișier de deschis"
+
+#. i18n: ectx: Menu (file)
+#: examples/kmidtest/kmidtestui.rc:4
+msgid "File"
+msgstr "Fișier"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: examples/kmidtest/kmidtestui.rc:11 src/kmidui.rc:45
+msgid "Main Toolbar"
+msgstr "Bara de unelte principală"
+
+#. i18n: ectx: label, entry (font), group (Settings)
+#: library/kmid.kcfg:11
+msgid "The font used to display the lyrics."
+msgstr ""
+
+#. i18n: ectx: label, entry (size), group (Settings)
+#: library/kmid.kcfg:15
+#, fuzzy
+#| msgctxt "@info:whatsthis"
+#| msgid "Print the lyrics"
+msgid "Size of the lyrics font"
+msgstr "Tipărește versurile"
+
+#. i18n: ectx: label, entry (color), group (Settings)
+#: library/kmid.kcfg:19
+msgid "Color of the lyrics text, after being played"
+msgstr ""
+
+#. i18n: ectx: label, entry (encoding), group (Settings)
+#: library/kmid.kcfg:23
+msgid "Initial lyrics text encoding"
+msgstr ""
+
+#. i18n: ectx: label, entry (midi_backend), group (Settings)
+#: library/kmid.kcfg:26
+#, fuzzy
+#| msgid "Channel %1"
+msgid "MIDI backend."
+msgstr "Canalul %1"
+
+#. i18n: ectx: label, entry (output_connection), group (Settings)
+#: library/kmid.kcfg:29
+msgid "MIDI port connection."
+msgstr ""
+
+#. i18n: ectx: label, entry (midi_mapper), group (Settings)
+#: library/kmid.kcfg:32
+msgid "MIDI mapper file."
+msgstr ""
+
+#. i18n: ectx: label, entry (player_autostart), group (Settings)
+#: library/kmid.kcfg:36
+msgid "Start playing right after loading a song."
+msgstr ""
+
+#. i18n: ectx: label, entry (player_loop), group (Settings)
+#: library/kmid.kcfg:40
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Load Playlist..."
+msgid "Loop the play list."
+msgstr "Încărcare listă..."
+
+#. i18n: ectx: label, entry (playlist_shuffle), group (Settings)
+#: library/kmid.kcfg:44
+msgid "Shuffle the play list."
+msgstr ""
+
+#. i18n: ectx: label, entry (reset_mode), group (Settings)
+#: library/kmid.kcfg:48
+msgid "MIDI reset message mode."
+msgstr ""
+
+#. i18n: ectx: label, entry (sysex_file), group (Settings)
+#: library/kmid.kcfg:59
+msgid "System Exclusive MIDI file for reset message."
+msgstr ""
+
+#. i18n: ectx: label, entry (advanced_ports), group (Settings)
+#: library/kmid.kcfg:62
+msgid "Show advanced MIDI ports."
+msgstr ""
+
+#. i18n: ectx: label, entry (auto_song_settings), group (Settings)
+#: library/kmid.kcfg:66
+msgid "Load and save automatically the song settings."
+msgstr ""
+
+#. i18n: ectx: label, entry (cmd_fluid), group (Settings)
+#. i18n: ectx: label, entry (cmd_timidity), group (Settings)
+#: library/kmid.kcfg:75 library/kmid.kcfg:110
+msgid "Command"
+msgstr ""
+
+#. i18n: ectx: label, entry (audio_fluid), group (Settings)
+#. i18n: ectx: label, entry (audio_timidity), group (Settings)
+#: library/kmid.kcfg:79 library/kmid.kcfg:114
+msgid "Audio Output"
+msgstr ""
+
+#. i18n: ectx: label, entry (audiodev_fluid), group (Settings)
+#. i18n: ectx: label, entry (audiodev_timidity), group (Settings)
+#: library/kmid.kcfg:89 library/kmid.kcfg:124
+msgid "Audio Device"
+msgstr ""
+
+#. i18n: ectx: label, entry (rate_fluid), group (Settings)
+#. i18n: ectx: label, entry (rate_timidity), group (Settings)
+#: library/kmid.kcfg:93 library/kmid.kcfg:128
+msgid "Sample Rate"
+msgstr ""
+
+#. i18n: ectx: label, entry (sf2_fluid), group (Settings)
+#. i18n: ectx: label, entry (soundfont_dls), group (Settings)
+#: library/kmid.kcfg:97 library/kmid.kcfg:145
+msgid "SoundFont"
+msgstr ""
+
+#. i18n: ectx: label, entry (args_fluid), group (Settings)
+#. i18n: ectx: label, entry (args_timidity), group (Settings)
+#: library/kmid.kcfg:101 library/kmid.kcfg:132
+#, fuzzy
+#| msgid "Trumpet"
+msgid "Arguments"
+msgstr "Trompetă"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_exec_dls)
+#. i18n: ectx: label, entry (exec_dls), group (Settings)
+#: library/kmid.kcfg:137 mac/prefs_synth.ui:20
+msgid "Enable DLS Synth at startup"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_default_dls)
+#. i18n: ectx: label, entry (default_dls), group (Settings)
+#: library/kmid.kcfg:141 mac/prefs_synth.ui:53
+msgid "Default Apple DLS Sound Set"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_reverb_dls)
+#. i18n: ectx: label, entry (reverb_dls), group (Settings)
+#: library/kmid.kcfg:149 mac/prefs_synth.ui:60
+msgid "Use Internal Reverb"
+msgstr ""
+
+#: src/channels.cpp:42
+#, fuzzy
+#| msgid "Channel %1"
+msgctxt "@title:window"
+msgid "MIDI Channels"
+msgstr "Canalul %1"
+
+#: src/channels.cpp:54
+#, fuzzy
+#| msgid "Channel %1"
+msgctxt "MIDI channel number"
+msgid "Channel"
+msgstr "Canalul %1"
+
+#: src/channels.cpp:57
+#, fuzzy
+#| msgid "Flute"
+msgctxt "Sound muting"
+msgid "Mute"
+msgstr "Flaut"
+
+#: src/channels.cpp:60
+msgctxt "Soloist channel"
+msgid "Solo"
+msgstr ""
+
+#: src/channels.cpp:63
+msgctxt "Channel volume level"
+msgid "Level"
+msgstr ""
+
+#: src/channels.cpp:66
+msgctxt "Instrument locked"
+msgid "Lock"
+msgstr ""
+
+#: src/channels.cpp:69
+msgctxt "MIDI program/patch, predefined instrument"
+msgid "Patch (sound setting)"
+msgstr ""
+
+#: src/instrumentset.cpp:35
+#, fuzzy
+#| msgid "Acoustic Grand Piano"
+msgctxt "@item:inlistbox"
+msgid "Acoustic Grand Piano"
+msgstr "Pian acustic mare"
+
+#: src/instrumentset.cpp:36
+#, fuzzy
+#| msgid "Bright Acoustic Piano"
+msgctxt "@item:inlistbox"
+msgid "Bright Acoustic Piano"
+msgstr "Pian acustic deschis"
+
+#: src/instrumentset.cpp:37
+#, fuzzy
+#| msgid "Electric Grand Piano"
+msgctxt "@item:inlistbox"
+msgid "Electric Grand Piano"
+msgstr "Pian electric mare"
+
+#: src/instrumentset.cpp:38
+#, fuzzy
+#| msgid "Honky-Tonk"
+msgctxt "@item:inlistbox"
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk"
+
+#: src/instrumentset.cpp:39
+#, fuzzy
+#| msgid "Rhodes Piano"
+msgctxt "@item:inlistbox"
+msgid "Rhodes Piano"
+msgstr "Pian Rhodes"
+
+#: src/instrumentset.cpp:40
+#, fuzzy
+#| msgid "Chorused Piano"
+msgctxt "@item:inlistbox"
+msgid "Chorused Piano"
+msgstr "Pian (cor)"
+
+#: src/instrumentset.cpp:41
+#, fuzzy
+#| msgid "Harpsichord"
+msgctxt "@item:inlistbox"
+msgid "Harpsichord"
+msgstr "Harpsicord"
+
+#: src/instrumentset.cpp:42
+#, fuzzy
+#| msgid "Clavinet"
+msgctxt "@item:inlistbox"
+msgid "Clavinet"
+msgstr "Clavinet"
+
+#: src/instrumentset.cpp:43
+#, fuzzy
+#| msgid "Celesta"
+msgctxt "@item:inlistbox"
+msgid "Celesta"
+msgstr "Celesta"
+
+#: src/instrumentset.cpp:44
+#, fuzzy
+#| msgid "Glockenspiel"
+msgctxt "@item:inlistbox"
+msgid "Glockenspiel"
+msgstr "Glockenspiel"
+
+#: src/instrumentset.cpp:45
+#, fuzzy
+#| msgid "Music Box"
+msgctxt "@item:inlistbox"
+msgid "Music Box"
+msgstr "Cutie muzicală"
+
+#: src/instrumentset.cpp:46
+#, fuzzy
+#| msgid "Vibraphone"
+msgctxt "@item:inlistbox"
+msgid "Vibraphone"
+msgstr "Vibrafon"
+
+#: src/instrumentset.cpp:47
+#, fuzzy
+#| msgid "Marimba"
+msgctxt "@item:inlistbox"
+msgid "Marimba"
+msgstr "Marimba"
+
+#: src/instrumentset.cpp:48
+#, fuzzy
+#| msgid "Xylophone"
+msgctxt "@item:inlistbox"
+msgid "Xylophone"
+msgstr "Xilofon"
+
+#: src/instrumentset.cpp:49
+#, fuzzy
+#| msgid "Tubular Bells"
+msgctxt "@item:inlistbox"
+msgid "Tubular Bells"
+msgstr "Clopote tubulare"
+
+#: src/instrumentset.cpp:50
+#, fuzzy
+#| msgid "Dulcimer"
+msgctxt "@item:inlistbox"
+msgid "Dulcimer"
+msgstr "Dulcimer"
+
+#: src/instrumentset.cpp:51
+#, fuzzy
+#| msgid "Hammond Organ"
+msgctxt "@item:inlistbox"
+msgid "Hammond Organ"
+msgstr "Organ Hammond"
+
+#: src/instrumentset.cpp:52
+#, fuzzy
+#| msgid "Percussive Organ"
+msgctxt "@item:inlistbox"
+msgid "Percussive Organ"
+msgstr "Organ percusiv"
+
+#: src/instrumentset.cpp:53
+#, fuzzy
+#| msgid "Rock Organ"
+msgctxt "@item:inlistbox"
+msgid "Rock Organ"
+msgstr "Organ rock"
+
+#: src/instrumentset.cpp:54
+#, fuzzy
+#| msgid "Church Organ"
+msgctxt "@item:inlistbox"
+msgid "Church Organ"
+msgstr "Organ de catedrală"
+
+#: src/instrumentset.cpp:55
+#, fuzzy
+#| msgid "Reed Organ"
+msgctxt "@item:inlistbox"
+msgid "Reed Organ"
+msgstr "Organ fluier"
+
+#: src/instrumentset.cpp:56
+#, fuzzy
+#| msgid "Accordion"
+msgctxt "@item:inlistbox"
+msgid "Accordion"
+msgstr "Acordeon"
+
+#: src/instrumentset.cpp:57
+#, fuzzy
+#| msgid "Harmonica"
+msgctxt "@item:inlistbox"
+msgid "Harmonica"
+msgstr "Armonică"
+
+#: src/instrumentset.cpp:58
+#, fuzzy
+#| msgid "Tango Accordion"
+msgctxt "@item:inlistbox"
+msgid "Tango Accordion"
+msgstr "Acordeon de tango"
+
+#: src/instrumentset.cpp:59
+#, fuzzy
+#| msgid "Acoustic Guitar (Nylon)"
+msgctxt "@item:inlistbox"
+msgid "Acoustic Guitar (Nylon)"
+msgstr "Chitară acustică (nailon)"
+
+#: src/instrumentset.cpp:60
+#, fuzzy
+#| msgid "Acoustic Guitar (Steel)"
+msgctxt "@item:inlistbox"
+msgid "Acoustic Guitar (Steel)"
+msgstr "Chitară acustică (oțel)"
+
+#: src/instrumentset.cpp:61
+#, fuzzy
+#| msgid "Electric Guitar (Jazz)"
+msgctxt "@item:inlistbox"
+msgid "Electric Guitar (Jazz)"
+msgstr "Chitară electrică (Jazz)"
+
+#: src/instrumentset.cpp:62
+#, fuzzy
+#| msgid "Electric Guitar (Clean)"
+msgctxt "@item:inlistbox"
+msgid "Electric Guitar (Clean)"
+msgstr "Chitară electrică (normală)"
+
+#: src/instrumentset.cpp:63
+#, fuzzy
+#| msgid "Electric Guitar (Muted)"
+msgctxt "@item:inlistbox"
+msgid "Electric Guitar (Muted)"
+msgstr "Chitară electrică (înfundată)"
+
+#: src/instrumentset.cpp:64
+#, fuzzy
+#| msgid "Overdriven Guitar"
+msgctxt "@item:inlistbox"
+msgid "Overdriven Guitar"
+msgstr "Chitară forțată"
+
+#: src/instrumentset.cpp:65
+#, fuzzy
+#| msgid "Distortion Guitar"
+msgctxt "@item:inlistbox"
+msgid "Distortion Guitar"
+msgstr "Chitară cu distorsiuni"
+
+#: src/instrumentset.cpp:66
+#, fuzzy
+#| msgid "Guitar Harmonics"
+msgctxt "@item:inlistbox"
+msgid "Guitar Harmonics"
+msgstr "Chitară armonică"
+
+#: src/instrumentset.cpp:67
+#, fuzzy
+#| msgid "Acoustic Bass"
+msgctxt "@item:inlistbox"
+msgid "Acoustic Bass"
+msgstr "Bas acustic"
+
+#: src/instrumentset.cpp:68
+#, fuzzy
+#| msgid "Electric Bass (Finger)"
+msgctxt "@item:inlistbox"
+msgid "Electric Bass (Finger)"
+msgstr "Bas electric (degete)"
+
+#: src/instrumentset.cpp:69
+#, fuzzy
+#| msgid "Electric Bass (Pick)"
+msgctxt "@item:inlistbox"
+msgid "Electric Bass (Pick)"
+msgstr "Bas electric (ciupit)"
+
+#: src/instrumentset.cpp:70
+#, fuzzy
+#| msgid "Fretless Bass"
+msgctxt "@item:inlistbox"
+msgid "Fretless Bass"
+msgstr "Bas fără vibrații"
+
+#: src/instrumentset.cpp:71
+#, fuzzy
+#| msgid "Slap Bass 1"
+msgctxt "@item:inlistbox"
+msgid "Slap Bass 1"
+msgstr "Bas lovit 1"
+
+#: src/instrumentset.cpp:72
+#, fuzzy
+#| msgid "Slap Bass 2"
+msgctxt "@item:inlistbox"
+msgid "Slap Bass 2"
+msgstr "Bas lovit 2"
+
+#: src/instrumentset.cpp:73
+#, fuzzy
+#| msgid "Synth Bass 1"
+msgctxt "@item:inlistbox"
+msgid "Synth Bass 1"
+msgstr "Bas sintetizat 1"
+
+#: src/instrumentset.cpp:74
+#, fuzzy
+#| msgid "Synth Bass 2"
+msgctxt "@item:inlistbox"
+msgid "Synth Bass 2"
+msgstr "Bas sintetizat 2"
+
+#: src/instrumentset.cpp:75
+#, fuzzy
+#| msgid "Violin"
+msgctxt "@item:inlistbox"
+msgid "Violin"
+msgstr "Vioară"
+
+#: src/instrumentset.cpp:76
+#, fuzzy
+#| msgid "Viola"
+msgctxt "@item:inlistbox"
+msgid "Viola"
+msgstr "Violă"
+
+#: src/instrumentset.cpp:77
+#, fuzzy
+#| msgid "Cello"
+msgctxt "@item:inlistbox"
+msgid "Cello"
+msgstr "Violoncel"
+
+#: src/instrumentset.cpp:78
+#, fuzzy
+#| msgid "Contrabass"
+msgctxt "@item:inlistbox"
+msgid "Contrabass"
+msgstr "Contrabas"
+
+#: src/instrumentset.cpp:79
+#, fuzzy
+#| msgid "Tremolo Strings"
+msgctxt "@item:inlistbox"
+msgid "Tremolo Strings"
+msgstr "Tremolo de coarde"
+
+#: src/instrumentset.cpp:80
+#, fuzzy
+#| msgid "Pizzicato Strings"
+msgctxt "@item:inlistbox"
+msgid "Pizzicato Strings"
+msgstr "Coarde pizzicato"
+
+#: src/instrumentset.cpp:81
+#, fuzzy
+#| msgid "Orchestral Harp"
+msgctxt "@item:inlistbox"
+msgid "Orchestral Harp"
+msgstr "Harpă de orchestră"
+
+#: src/instrumentset.cpp:82
+#, fuzzy
+#| msgid "Timpani"
+msgctxt "@item:inlistbox"
+msgid "Timpani"
+msgstr "Timpan"
+
+#: src/instrumentset.cpp:83
+#, fuzzy
+#| msgid "String Ensemble 1"
+msgctxt "@item:inlistbox"
+msgid "String Ensemble 1"
+msgstr "Ansamblul de coarde 1"
+
+#: src/instrumentset.cpp:84
+#, fuzzy
+#| msgid "String Ensemble 2"
+msgctxt "@item:inlistbox"
+msgid "String Ensemble 2"
+msgstr "Ansamblul de coarde 2"
+
+#: src/instrumentset.cpp:85
+#, fuzzy
+#| msgid "Synth Strings 1"
+msgctxt "@item:inlistbox"
+msgid "Synth Strings 1"
+msgstr "Coarde sintetizate 1"
+
+#: src/instrumentset.cpp:86
+#, fuzzy
+#| msgid "Synth Strings 2"
+msgctxt "@item:inlistbox"
+msgid "Synth Strings 2"
+msgstr "Coarde sintetizate 2"
+
+#: src/instrumentset.cpp:87
+#, fuzzy
+#| msgid "Choir Aahs"
+msgctxt "@item:inlistbox"
+msgid "Choir Aahs"
+msgstr "Cor de \"Aaah\""
+
+#: src/instrumentset.cpp:88
+#, fuzzy
+#| msgid "Voice Oohs"
+msgctxt "@item:inlistbox"
+msgid "Voice Oohs"
+msgstr "Voce cu oftat"
+
+#: src/instrumentset.cpp:89
+#, fuzzy
+#| msgid "Synth Voice"
+msgctxt "@item:inlistbox"
+msgid "Synth Voice"
+msgstr "Voce sintetizată"
+
+#: src/instrumentset.cpp:90
+#, fuzzy
+#| msgid "Orchestra Hit"
+msgctxt "@item:inlistbox blow, stroke, impact"
+msgid "Orchestra Hit"
+msgstr "Lovitură orchestră"
+
+#: src/instrumentset.cpp:91
+#, fuzzy
+#| msgid "Trumpet"
+msgctxt "@item:inlistbox"
+msgid "Trumpet"
+msgstr "Trompetă"
+
+#: src/instrumentset.cpp:92
+#, fuzzy
+#| msgid "Trombone"
+msgctxt "@item:inlistbox"
+msgid "Trombone"
+msgstr "Trombon"
+
+#: src/instrumentset.cpp:93
+#, fuzzy
+#| msgid "Tuba"
+msgctxt "@item:inlistbox"
+msgid "Tuba"
+msgstr "Tubă"
+
+#: src/instrumentset.cpp:94
+#, fuzzy
+#| msgid "Muted Trumpet"
+msgctxt "@item:inlistbox"
+msgid "Muted Trumpet"
+msgstr "Trompetă înfundată"
+
+#: src/instrumentset.cpp:95
+#, fuzzy
+#| msgid "French Horn"
+msgctxt "@item:inlistbox"
+msgid "French Horn"
+msgstr "Corn franțuzesc"
+
+#: src/instrumentset.cpp:96
+#, fuzzy
+#| msgid "Brass Section"
+msgctxt "@item:inlistbox"
+msgid "Brass Section"
+msgstr "Secțiune de alămuri"
+
+#: src/instrumentset.cpp:97
+#, fuzzy
+#| msgid "Synth Brass 1"
+msgctxt "@item:inlistbox"
+msgid "Synth Brass 1"
+msgstr "Alămuri sintetizate 1"
+
+#: src/instrumentset.cpp:98
+#, fuzzy
+#| msgid "Synth Brass 2"
+msgctxt "@item:inlistbox"
+msgid "Synth Brass 2"
+msgstr "Alămuri sintetizate 2"
+
+#: src/instrumentset.cpp:99
+#, fuzzy
+#| msgid "Soprano Sax"
+msgctxt "@item:inlistbox"
+msgid "Soprano Sax"
+msgstr "Saxofon soprano"
+
+#: src/instrumentset.cpp:100
+#, fuzzy
+#| msgid "Alto Sax"
+msgctxt "@item:inlistbox"
+msgid "Alto Sax"
+msgstr "Saxofon alto"
+
+#: src/instrumentset.cpp:101
+#, fuzzy
+#| msgid "Tenor Sax"
+msgctxt "@item:inlistbox"
+msgid "Tenor Sax"
+msgstr "Saxofon tenor"
+
+#: src/instrumentset.cpp:102
+#, fuzzy
+#| msgid "Baritone Sax"
+msgctxt "@item:inlistbox"
+msgid "Baritone Sax"
+msgstr "Saxofon bariton"
+
+#: src/instrumentset.cpp:103
+#, fuzzy
+#| msgid "Oboe"
+msgctxt "@item:inlistbox"
+msgid "Oboe"
+msgstr "Oboi"
+
+#: src/instrumentset.cpp:104
+#, fuzzy
+#| msgid "English Horn"
+msgctxt "@item:inlistbox"
+msgid "English Horn"
+msgstr "Corn englezesc"
+
+#: src/instrumentset.cpp:105
+#, fuzzy
+#| msgid "Bassoon"
+msgctxt "@item:inlistbox"
+msgid "Bassoon"
+msgstr "Fagot"
+
+#: src/instrumentset.cpp:106
+#, fuzzy
+#| msgid "Clarinet"
+msgctxt "@item:inlistbox"
+msgid "Clarinet"
+msgstr "Clarinet"
+
+#: src/instrumentset.cpp:107
+#, fuzzy
+#| msgid "Piccolo"
+msgctxt "@item:inlistbox"
+msgid "Piccolo"
+msgstr "Piccolo"
+
+#: src/instrumentset.cpp:108
+#, fuzzy
+#| msgid "Flute"
+msgctxt "@item:inlistbox"
+msgid "Flute"
+msgstr "Flaut"
+
+#: src/instrumentset.cpp:109
+#, fuzzy
+#| msgid "Recorder"
+msgctxt ""
+"@item:inlistbox woodwind musical instrument. http://en.wikipedia.org/wiki/"
+"Recorder"
+msgid "Recorder"
+msgstr "Înregistrator"
+
+#: src/instrumentset.cpp:110
+#, fuzzy
+#| msgid "Pan Flute"
+msgctxt "@item:inlistbox"
+msgid "Pan Flute"
+msgstr "Flautul lui Pan"
+
+#: src/instrumentset.cpp:111
+#, fuzzy
+#| msgid "Blown Bottle"
+msgctxt "@item:inlistbox"
+msgid "Blown Bottle"
+msgstr "Sticlă spartă"
+
+#: src/instrumentset.cpp:112
+#, fuzzy
+#| msgid "Shakuhachi"
+msgctxt "@item:inlistbox"
+msgid "Shakuhachi"
+msgstr "Shakuhachi"
+
+#: src/instrumentset.cpp:113
+#, fuzzy
+#| msgid "Whistle"
+msgctxt "@item:inlistbox"
+msgid "Whistle"
+msgstr "Fluierat"
+
+#: src/instrumentset.cpp:114
+#, fuzzy
+#| msgid "Ocarina"
+msgctxt "@item:inlistbox"
+msgid "Ocarina"
+msgstr "Ocarina"
+
+#: src/instrumentset.cpp:115
+#, fuzzy
+#| msgid "Lead 1 - Square Wave"
+msgctxt "@item:inlistbox"
+msgid "Lead 1 - Square Wave"
+msgstr "Coardă 1 - Undă dreptunghilară"
+
+#: src/instrumentset.cpp:116
+#, fuzzy
+#| msgid "Lead 2 - Saw Tooth"
+msgctxt "@item:inlistbox"
+msgid "Lead 2 - Saw Tooth"
+msgstr "Coardă 2 - Dinți de fierăstrău"
+
+#: src/instrumentset.cpp:117
+#, fuzzy
+#| msgid "Lead 3 - Calliope"
+msgctxt "@item:inlistbox"
+msgid "Lead 3 - Calliope"
+msgstr "Coardă 3 - Calliope"
+
+#: src/instrumentset.cpp:118
+#, fuzzy
+#| msgid "Lead 4 - Chiflead"
+msgctxt "@item:inlistbox"
+msgid "Lead 4 - Chiflead"
+msgstr "Coardă 4 - Chiflead"
+
+#: src/instrumentset.cpp:119
+#, fuzzy
+#| msgid "Lead 5 - Charang"
+msgctxt "@item:inlistbox"
+msgid "Lead 5 - Charang"
+msgstr "Coardă 5 - Charang"
+
+#: src/instrumentset.cpp:120
+#, fuzzy
+#| msgid "Lead 6 - Voice"
+msgctxt "@item:inlistbox"
+msgid "Lead 6 - Voice"
+msgstr "Coardă 6 - Voce"
+
+#: src/instrumentset.cpp:121
+#, fuzzy
+#| msgid "Lead 7 - Fifths"
+msgctxt "@item:inlistbox"
+msgid "Lead 7 - Fifths"
+msgstr "Coardă 7 - Al cincilea"
+
+#: src/instrumentset.cpp:122
+#, fuzzy
+#| msgid "Lead 8 - Bass+Lead"
+msgctxt "@item:inlistbox"
+msgid "Lead 8 - Bass+Lead"
+msgstr "Coardă 8 - Bass+Coardă"
+
+#: src/instrumentset.cpp:123
+#, fuzzy
+#| msgid "Pad 1 - New Age"
+msgctxt "@item:inlistbox"
+msgid "Pad 1 - New Age"
+msgstr "Pad 1 - Noua eră"
+
+#: src/instrumentset.cpp:124
+#, fuzzy
+#| msgid "Pad 2 - Warm"
+msgctxt "@item:inlistbox"
+msgid "Pad 2 - Warm"
+msgstr "Pad 2 - Cald"
+
+#: src/instrumentset.cpp:125
+#, fuzzy
+#| msgid "Pad 3 - Polysynth"
+msgctxt "@item:inlistbox"
+msgid "Pad 3 - Polysynth"
+msgstr "Pad 3 - Polisintetizator"
+
+#: src/instrumentset.cpp:126
+#, fuzzy
+#| msgid "Pad 4 - Choir"
+msgctxt "@item:inlistbox"
+msgid "Pad 4 - Choir"
+msgstr "Pad 4 - Cor"
+
+#: src/instrumentset.cpp:127
+#, fuzzy
+#| msgid "Pad 5 - Bow"
+msgctxt "@item:inlistbox"
+msgid "Pad 5 - Bow"
+msgstr "Pad 5 - Bou"
+
+#: src/instrumentset.cpp:128
+#, fuzzy
+#| msgid "Pad 6 - Metallic"
+msgctxt "@item:inlistbox"
+msgid "Pad 6 - Metallic"
+msgstr "Pad 6 - Metalic"
+
+#: src/instrumentset.cpp:129
+#, fuzzy
+#| msgid "Pad 7 - Halo"
+msgctxt "@item:inlistbox"
+msgid "Pad 7 - Halo"
+msgstr "Pad 7 - Halou"
+
+#: src/instrumentset.cpp:130
+#, fuzzy
+#| msgid "Pad 8 - Sweep"
+msgctxt "@item:inlistbox"
+msgid "Pad 8 - Sweep"
+msgstr "Pad 8 - Măturare"
+
+#: src/instrumentset.cpp:131
+#, fuzzy
+#| msgid "FX 1 - Rain"
+msgctxt "@item:inlistbox"
+msgid "FX 1 - Rain"
+msgstr "FX 1 - Ploaie"
+
+#: src/instrumentset.cpp:132
+#, fuzzy
+#| msgid "FX 2 - Soundtrack"
+msgctxt "@item:inlistbox"
+msgid "FX 2 - Soundtrack"
+msgstr "FX 2 - Pistă sunet"
+
+#: src/instrumentset.cpp:133
+#, fuzzy
+#| msgid "FX 3 - Crystal"
+msgctxt "@item:inlistbox"
+msgid "FX 3 - Crystal"
+msgstr "FX 3 - Cristal"
+
+#: src/instrumentset.cpp:134
+#, fuzzy
+#| msgid "FX 4 - Atmosphere"
+msgctxt "@item:inlistbox"
+msgid "FX 4 - Atmosphere"
+msgstr "FX 4 - Atmosferă"
+
+#: src/instrumentset.cpp:135
+#, fuzzy
+#| msgid "FX 5 - Brightness"
+msgctxt "@item:inlistbox"
+msgid "FX 5 - Brightness"
+msgstr "FX 5 - Strălucire"
+
+#: src/instrumentset.cpp:136
+#, fuzzy
+#| msgid "FX 6 - Goblins"
+msgctxt "@item:inlistbox"
+msgid "FX 6 - Goblins"
+msgstr "FX6 - Spiriduși"
+
+#: src/instrumentset.cpp:137
+#, fuzzy
+#| msgid "FX 7 - Echoes"
+msgctxt "@item:inlistbox"
+msgid "FX 7 - Echoes"
+msgstr "FX 7 - Ecouri"
+
+#: src/instrumentset.cpp:138
+#, fuzzy
+#| msgid "FX 8 - Sci-fi"
+msgctxt "@item:inlistbox"
+msgid "FX 8 - Sci-fi"
+msgstr "FX8 - S.F."
+
+#: src/instrumentset.cpp:139
+#, fuzzy
+#| msgid "Sitar"
+msgctxt "@item:inlistbox"
+msgid "Sitar"
+msgstr "Sitar"
+
+#: src/instrumentset.cpp:140
+#, fuzzy
+#| msgid "Banjo"
+msgctxt "@item:inlistbox"
+msgid "Banjo"
+msgstr "Banjou"
+
+#: src/instrumentset.cpp:141
+#, fuzzy
+#| msgid "Shamisen"
+msgctxt "@item:inlistbox"
+msgid "Shamisen"
+msgstr "Șamisen"
+
+#: src/instrumentset.cpp:142
+#, fuzzy
+#| msgid "Koto"
+msgctxt "@item:inlistbox"
+msgid "Koto"
+msgstr "Koto"
+
+#: src/instrumentset.cpp:143
+#, fuzzy
+#| msgid "Kalimba"
+msgctxt "@item:inlistbox"
+msgid "Kalimba"
+msgstr "Kalimba"
+
+#: src/instrumentset.cpp:144
+#, fuzzy
+#| msgid "Bagpipe"
+msgctxt "@item:inlistbox"
+msgid "Bagpipe"
+msgstr "Cimpoi"
+
+#: src/instrumentset.cpp:145
+#, fuzzy
+#| msgid "Fiddle"
+msgctxt "@item:inlistbox"
+msgid "Fiddle"
+msgstr "Scripcă"
+
+#: src/instrumentset.cpp:146
+#, fuzzy
+#| msgid "Shannai"
+msgctxt "@item:inlistbox"
+msgid "Shannai"
+msgstr "Shannai"
+
+#: src/instrumentset.cpp:147
+#, fuzzy
+#| msgid "Tinkle Bell"
+msgctxt "@item:inlistbox"
+msgid "Tinkle Bell"
+msgstr "Clinchet de clopoțel"
+
+#: src/instrumentset.cpp:148
+#, fuzzy
+#| msgid "Agogo"
+msgctxt "@item:inlistbox"
+msgid "Agogo"
+msgstr "Agogo"
+
+#: src/instrumentset.cpp:149
+#, fuzzy
+#| msgid "Steel Drum"
+msgctxt "@item:inlistbox"
+msgid "Steel Drum"
+msgstr "Tobă de oțel"
+
+#: src/instrumentset.cpp:150
+#, fuzzy
+#| msgid "Wook Block"
+msgctxt "@item:inlistbox"
+msgid "Wood Block"
+msgstr "Bloc \"Wook\""
+
+#: src/instrumentset.cpp:151
+#, fuzzy
+#| msgid "Taiko Drum"
+msgctxt "@item:inlistbox"
+msgid "Taiko Drum"
+msgstr "Tobă Taiko"
+
+#: src/instrumentset.cpp:152
+#, fuzzy
+#| msgid "Melodic Tom"
+msgctxt "@item:inlistbox"
+msgid "Melodic Tom"
+msgstr "Tom melodic"
+
+#: src/instrumentset.cpp:153
+#, fuzzy
+#| msgid "Synth Drum"
+msgctxt "@item:inlistbox"
+msgid "Synth Drum"
+msgstr "Tobă sintetizată"
+
+#: src/instrumentset.cpp:154
+#, fuzzy
+#| msgid "Reverse Cymbal"
+msgctxt "@item:inlistbox"
+msgid "Reverse Cymbal"
+msgstr "Talgere (inversate)"
+
+#: src/instrumentset.cpp:155
+#, fuzzy
+#| msgid "Guitar Fret Noise"
+msgctxt "@item:inlistbox"
+msgid "Guitar Fret Noise"
+msgstr "Zgomot de chitară smucită"
+
+#: src/instrumentset.cpp:156
+#, fuzzy
+#| msgid "Breath Noise"
+msgctxt "@item:inlistbox"
+msgid "Breath Noise"
+msgstr "Respirație"
+
+#: src/instrumentset.cpp:157
+#, fuzzy
+#| msgid "Seashore"
+msgctxt "@item:inlistbox"
+msgid "Seashore"
+msgstr "Litoral"
+
+#: src/instrumentset.cpp:158
+#, fuzzy
+#| msgid "Bird Tweet"
+msgctxt "@item:inlistbox"
+msgid "Bird Tweet"
+msgstr "Ciripit"
+
+#: src/instrumentset.cpp:159
+#, fuzzy
+#| msgid "Telephone"
+msgctxt "@item:inlistbox"
+msgid "Telephone"
+msgstr "Telefon"
+
+#: src/instrumentset.cpp:160
+#, fuzzy
+#| msgid "Helicopter"
+msgctxt "@item:inlistbox"
+msgid "Helicopter"
+msgstr "Elicopter"
+
+#: src/instrumentset.cpp:161
+#, fuzzy
+#| msgid "Applause"
+msgctxt "@item:inlistbox"
+msgid "Applause"
+msgstr "Aplauze"
+
+#: src/instrumentset.cpp:162
+#, fuzzy
+#| msgid "Gunshot"
+msgctxt "@item:inlistbox"
+msgid "Gunshot"
+msgstr "Împușcătură"
+
+#: src/instrumentset.cpp:166
+#, fuzzy, kde-format
+#| msgid "Percussive Organ"
+msgctxt "@item:inlistbox"
+msgid "Percussion %1"
+msgstr "Organ percusiv"
+
+#: src/kmid2.cpp:169 src/kmid_part.cpp:211
+msgctxt "@info"
+msgid "No MIDI backend loaded."
+msgstr ""
+
+#: src/kmid2.cpp:170 src/kmid_part.cpp:212
+msgctxt "@title:window"
+msgid "Fatal"
+msgstr "Fatal"
+
+#: src/kmid2.cpp:250
+msgctxt "@info:whatsthis"
+msgid "Exit the application"
+msgstr "Părăsește aplicația"
+
+#: src/kmid2.cpp:252
+msgctxt "@info:whatsthis"
+msgid "Open a file from disk"
+msgstr "Deschide un fișier de pe disc"
+
+#: src/kmid2.cpp:254
+msgctxt "@info:whatsthis"
+msgid "Configure the program settings"
+msgstr "Configurează opțiunile programului"
+
+#: src/kmid2.cpp:256
+msgctxt "@info:whatsthis"
+msgid "Print the lyrics"
+msgstr "Tipărește versurile"
+
+#: src/kmid2.cpp:261
+msgctxt "@action:inmenu"
+msgid "Save Lyrics..."
+msgstr "Salvează versurile..."
+
+#: src/kmid2.cpp:267 src/kmid_part.cpp:168
+msgctxt "@action player play"
+msgid "Play"
+msgstr "Redă"
+
+#: src/kmid2.cpp:270 src/kmid_part.cpp:171
+msgctxt "@info:whatsthis"
+msgid "Start playback of the current session"
+msgstr "Începe redarea sesiunii curente"
+
+#: src/kmid2.cpp:276 src/kmid_part.cpp:177
+msgctxt "@action player pause"
+msgid "Pause"
+msgstr "Întrerupe"
+
+#: src/kmid2.cpp:278 src/kmid_part.cpp:179
+msgctxt "@info:whatsthis"
+msgid "Pause the playback"
+msgstr "Întrerupe redarea"
+
+#: src/kmid2.cpp:284
+msgctxt "@action player next song"
+msgid "Next song"
+msgstr "Piesa următoare"
+
+#: src/kmid2.cpp:287
+msgctxt "@info:whatsthis"
+msgid "Next song"
+msgstr "Piesa următoare"
+
+#: src/kmid2.cpp:293
+msgctxt "@action player previous song"
+msgid "Previous song"
+msgstr "Piesa precedentă"
+
+#: src/kmid2.cpp:296
+msgctxt "@info:whatsthis"
+msgid "Previous song"
+msgstr "Piesa precedentă"
+
+#: src/kmid2.cpp:302
+msgctxt "@action player skip forward"
+msgid "Forward"
+msgstr "Înainte"
+
+#: src/kmid2.cpp:304
+msgctxt "@info:whatsthis"
+msgid "Player seek forward"
+msgstr ""
+
+#: src/kmid2.cpp:310
+msgctxt "@action player skip backward"
+msgid "Rewind"
+msgstr "Derulează"
+
+#: src/kmid2.cpp:312
+msgctxt "@info:whatsthis"
+msgid "Player seek backward"
+msgstr ""
+
+#: src/kmid2.cpp:318 src/kmid_part.cpp:185
+msgctxt "@action player stop"
+msgid "Stop"
+msgstr "Oprește"
+
+#: src/kmid2.cpp:321 src/kmid_part.cpp:188
+msgctxt "@info:whatsthis"
+msgid "Stop playback or recording"
+msgstr "Oprește redarea sau înregistrarea"
+
+#: src/kmid2.cpp:327
+msgctxt "@action:inmenu"
+msgid "File info..."
+msgstr "Informații fișier..."
+
+#: src/kmid2.cpp:333
+msgctxt "@action playlist repeat"
+msgid "Repeat"
+msgstr "Repetă"
+
+#: src/kmid2.cpp:339
+msgctxt "@action playlist shuffle"
+msgid "Shuffle"
+msgstr "Amestecat"
+
+#: src/kmid2.cpp:346
+msgctxt "@action player auto-start"
+msgid "Auto-Start"
+msgstr "Pornire automată"
+
+#: src/kmid2.cpp:351
+msgctxt "@action"
+msgid "Auto-Add to Playlist"
+msgstr "Adaugă automat la listă"
+
+#: src/kmid2.cpp:355
+msgctxt "@action"
+msgid "Load Playlist..."
+msgstr "Încărcare listă..."
+
+#: src/kmid2.cpp:361
+msgctxt "@action"
+msgid "Save Playlist..."
+msgstr "Salvare listă de redare..."
+
+#: src/kmid2.cpp:367
+msgctxt "@action"
+msgid "Edit Playlist..."
+msgstr ""
+
+#: src/kmid2.cpp:373
+msgctxt "@action Pianola"
+msgid "Player Piano"
+msgstr ""
+
+#: src/kmid2.cpp:374
+msgctxt "@info:whatsthis Pianola"
+msgid "Show or hide the player piano window"
+msgstr ""
+
+#: src/kmid2.cpp:379
+msgctxt "@action"
+msgid "Channels"
+msgstr "Canale"
+
+#: src/kmid2.cpp:380
+msgctxt "@info:whatsthis"
+msgid "Show or hide the channels window"
+msgstr ""
+
+#: src/kmid2.cpp:385
+msgctxt "@action load song settings"
+msgid "Load"
+msgstr "Încarcă"
+
+#: src/kmid2.cpp:387
+msgctxt "@info:whatsthis"
+msgid "Load the stored settings for the current song"
+msgstr ""
+
+#: src/kmid2.cpp:392
+msgctxt "@action save song settings"
+msgid "Save"
+msgstr "Salvează"
+
+#: src/kmid2.cpp:394
+msgctxt "@info:whatsthis"
+msgid "Save the settings of the current song"
+msgstr ""
+
+#: src/kmid2.cpp:399
+msgctxt "@action auto load/save song settings"
+msgid "Automatic"
+msgstr "Automat"
+
+#: src/kmid2.cpp:400
+msgctxt "@info:whatsthis"
+msgid "Automatically load and save song settings"
+msgstr ""
+
+#: src/kmid2.cpp:409
+msgctxt "@title:window"
+msgid "Open MIDI/Karaoke files"
+msgstr "Deschide fișiere MIDI/Karaoke"
+
+#: src/kmid2.cpp:547
+msgctxt "@info:status player playing"
+msgid "playing"
+msgstr "în redare"
+
+#: src/kmid2.cpp:550
+msgctxt "@info:status player paused"
+msgid "paused"
+msgstr "întrerupt"
+
+#: src/kmid2.cpp:553
+msgctxt "@info:status player stopped"
+msgid "stopped"
+msgstr "oprit"
+
+#: src/kmid2.cpp:557
+msgctxt "@info:status player loading"
+msgid "loading"
+msgstr "se încarcă"
+
+#: src/kmid2.cpp:560
+msgctxt "@info:status player invalid status"
+msgid "not ready"
+msgstr "nu este gata"
+
+#: src/kmid2.cpp:570
+#, kde-format
+msgctxt "@info:status"
+msgid "<filename>%1</filename> [%2]"
+msgstr "<filename>%1</filename> [%2]"
+
+#: src/kmid2.cpp:792
+msgctxt "@title:group"
+msgid "Lyrics"
+msgstr "Versuri"
+
+#: src/kmid2.cpp:793
+msgctxt "@title:group"
+msgid "MIDI"
+msgstr "MIDI"
+
+#: src/kmid2.cpp:797
+msgctxt "@title:group"
+msgid "Soft Synths"
+msgstr ""
+
+#: src/kmid2.cpp:836
+msgctxt "@info"
+msgid "The new MIDI backend will take effect after restarting the program."
+msgstr ""
+
+#: src/kmid2.cpp:838
+#, fuzzy
+#| msgid "Channel %1"
+msgctxt "@title:window"
+msgid "MIDI Backend Changed"
+msgstr "Canalul %1"
+
+#: src/kmid2.cpp:937
+msgctxt "@info"
+msgid "No file loaded"
+msgstr "Niciun fișier încărcat"
+
+#: src/kmid2.cpp:939
+#, kde-format
+msgctxt "@info"
+msgid "File: <filename>%1</filename><nl/>"
+msgstr "Fișier: <filename>%1</filename><nl/>"
+
+#: src/kmid2.cpp:941 src/kmid2.cpp:945 src/kmid2.cpp:949 src/kmid2.cpp:953
+#: src/kmid2.cpp:957 src/kmid2.cpp:961 src/kmid2.cpp:965 src/kmid2.cpp:969
+msgctxt "@info"
+msgid "<nl/>"
+msgstr "<nl/>"
+
+#: src/kmid2.cpp:943
+#, kde-format
+msgctxt "@info"
+msgid "Copyright: <emphasis>%1</emphasis><nl/>"
+msgstr "Drept de autor: <emphasis>%1</emphasis><nl/>"
+
+#: src/kmid2.cpp:947
+#, kde-format
+msgctxt "@info"
+msgid "Karaoke type: <emphasis>%1</emphasis><nl/>"
+msgstr "Tip karaoke: <emphasis>%1</emphasis><nl/>"
+
+#: src/kmid2.cpp:951
+#, kde-format
+msgctxt "@info"
+msgid "Karaoke version: <emphasis>%1</emphasis><nl/>"
+msgstr "Versiune karaoke: <emphasis>%1</emphasis><nl/>"
+
+#: src/kmid2.cpp:955
+#, kde-format
+msgctxt "@info"
+msgid "Karaoke info: <emphasis>%1</emphasis><nl/>"
+msgstr "Informații karaoke: <emphasis>%1</emphasis><nl/>"
+
+#: src/kmid2.cpp:959
+#, kde-format
+msgctxt "@info"
+msgid "Karaoke language: <emphasis>%1</emphasis><nl/>"
+msgstr "Limbă karaoke: <emphasis>%1</emphasis><nl/>"
+
+#: src/kmid2.cpp:963
+#, kde-format
+msgctxt "@info"
+msgid "Karaoke title: <emphasis>%1</emphasis><nl/>"
+msgstr "Titlu Karaoke: <emphasis>%1</emphasis><nl/>"
+
+#: src/kmid2.cpp:967
+#, kde-format
+msgctxt "@info"
+msgid "Karaoke warnings: <emphasis>%1</emphasis><nl/>"
+msgstr "Avertizări karaoke: <emphasis>%1</emphasis><nl/>"
+
+#: src/kmid2.cpp:970
+msgctxt "@title:window"
+msgid "Sequence Information"
+msgstr "Informații secvență"
+
+#: src/kmid2.cpp:980
+msgctxt "@title:window"
+msgid "Save lyrics to file"
+msgstr "Salvează versurile în fișier"
+
+#: src/kmid2.cpp:1028 src/kmid2.cpp:1079
+msgctxt "@title:window"
+msgid "MIDI Player connection"
+msgstr ""
+
+#: src/kmid2.cpp:1038
+msgctxt "@info"
+msgid ""
+"You need to select one MIDI port if you want to be able to listen sounds. "
+"This MIDI port may be a software synthesizer like Timidity++ or FluidSynth, "
+"or an external MIDI device, or a hardware synthesizer provided by your sound "
+"card. This setting can be changed later, using the Settings->Configure KMid-"
+">MIDI dialog. You can find more information in the <link url='help:/kmid/"
+"general-usage.html#using-midi'>online help documents</link><nl/>Please "
+"select one MIDI port now:"
+msgstr ""
+
+#: src/kmid2.cpp:1071
+msgctxt "@info"
+msgid ""
+"There are no available MIDI ports in your system. You can specify a software "
+"synthesizer, such as TiMidity++ or FluidSynth, to be launched automatically "
+"when KMid starts. This option is located in the dialog Settings->Configure "
+"KMid, programs category. You can find more information in the <link "
+"url='help:/kmid/general-usage.html#using-midi'>online help documents</link>."
+msgstr ""
+
+#: src/kmid2.cpp:1114
+msgctxt "@title:window"
+msgid "Open playlist from file"
+msgstr "Deschide listă din fișier"
+
+#: src/kmid2.cpp:1123
+msgctxt "@title:window"
+msgid "Save playlist to file"
+msgstr "Salvare listă în fișier"
+
+#: src/kmid2.cpp:1217 src/kmid2.cpp:1261
+msgctxt "@title:window"
+msgid "Volume and Pitch"
+msgstr ""
+
+#: src/kmid2.cpp:1226
+msgctxt "@label:slider Sound master volume"
+msgid "Vol."
+msgstr "Vol."
+
+#: src/kmid2.cpp:1230
+msgctxt "@label:slider Musical tone, note height (transpose)"
+msgid "Pitch"
+msgstr ""
+
+#: src/kmid2.cpp:1240
+msgctxt "@info:whatsthis"
+msgid "MIDI master volume control"
+msgstr ""
+
+#: src/kmid2.cpp:1252
+msgctxt "@info:whatsthis"
+msgid "Note height transposition"
+msgstr ""
+
+#: src/kmid2.cpp:1263
+msgctxt "@action:inmenu"
+msgid "Show or hide the volume and pitch controls"
+msgstr ""
+
+#: src/kmid2.cpp:1271 src/kmid2.cpp:1296
+msgctxt "@title:window"
+msgid "Time Position"
+msgstr ""
+
+#: src/kmid2.cpp:1282 src/kmid_partview.cpp:78
+msgctxt "@info:whatsthis"
+msgid "Time position control"
+msgstr ""
+
+#: src/kmid2.cpp:1298
+msgctxt "@action:inmenu"
+msgid "Show or hide the time position controls"
+msgstr ""
+
+#: src/kmid2.cpp:1303 src/kmid2.cpp:1315
+#, fuzzy
+#| msgid "&Next Song"
+msgctxt "@title:window"
+msgid "Text Encoding"
+msgstr "Melodia &următoare"
+
+#: src/kmid2.cpp:1307
+msgctxt "@info:whatsthis"
+msgid "Character encoding for lyrics and other text"
+msgstr ""
+
+#: src/kmid2.cpp:1308
+msgctxt "@item:inlistbox Default MIDI text encoding"
+msgid "Default ( ASCII )"
+msgstr ""
+
+#: src/kmid2.cpp:1317
+msgctxt "@action:inmenu"
+msgid "Show or hide the character encoding control"
+msgstr ""
+
+#: src/kmid2.cpp:1322 src/kmid2.cpp:1377
+msgctxt "@title:window"
+msgid "Rhythm"
+msgstr ""
+
+#: src/kmid2.cpp:1329
+#, fuzzy
+#| msgid "Tempo:"
+msgctxt "@label"
+msgid "Tempo:"
+msgstr "Tempo:"
+
+#: src/kmid2.cpp:1336
+msgctxt "@label:slider bpm=beats per minute"
+msgid "120.0 bpm"
+msgstr ""
+
+#: src/kmid2.cpp:1337
+msgctxt "@info:whatsthis"
+msgid "Tempo, or song speed in beats per minute"
+msgstr ""
+
+#: src/kmid2.cpp:1347
+msgctxt "@info:whatsthis"
+msgid "Tempo (song speed) control, between 50% and 200%"
+msgstr ""
+
+#: src/kmid2.cpp:1352
+msgctxt "@action:button"
+msgid "100%"
+msgstr ""
+
+#: src/kmid2.cpp:1353
+msgctxt "@info:whatsthis"
+msgid "Reset the song tempo (song speed) to 100%"
+msgstr ""
+
+#: src/kmid2.cpp:1357
+msgctxt "@label"
+msgid "Metronome:"
+msgstr ""
+
+#: src/kmid2.cpp:1365
+msgctxt "@info:whatsthis"
+msgid "Time position in measures:beats"
+msgstr ""
+
+#: src/kmid2.cpp:1370
+msgctxt "@info:whatsthis"
+msgid "Visual metronome"
+msgstr ""
+
+#: src/kmid2.cpp:1379
+msgctxt "@action:inmenu"
+msgid "Show or hide the rhythm controls"
+msgstr ""
+
+#: src/kmid2.cpp:1387
+msgctxt "@info:whatsthis"
+msgid "Song lyrics, or some other text"
+msgstr ""
+
+#: src/kmid2.cpp:1410
+msgctxt "@label"
+msgid "Sample Songs"
+msgstr ""
+
+#: src/kmid2.cpp:1421
+msgctxt "@label"
+msgid "System Songs"
+msgstr ""
+
+#: src/kmid2.cpp:1514 src/kmid_part.cpp:340
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Failed to run %2 with the provided arguments.<nl/>Returned message:<nl/>%3"
+msgid_plural ""
+"Failed to run %2 with the provided arguments.<nl/>Returned messages:<nl/>%3"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: src/kmid2.cpp:1520 src/kmid_part.cpp:346
+#, fuzzy, kde-format
+#| msgid "%1 is not a regular file."
+msgctxt "@title:window"
+msgid "%1 startup failed"
+msgstr "'%1' nu este un fișier obișnuit."
+
+#: src/kmid2.cpp:1542 src/kmid_part.cpp:323
+#, kde-format
+msgctxt "@info"
+msgid ""
+"%2 has returned the following message when launched with the provided "
+"arguments."
+msgid_plural ""
+"%2 has returned the following messages when launched with the provided "
+"arguments."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: src/kmid2.cpp:1549 src/kmid_part.cpp:330
+#, kde-format
+msgctxt "@title:window"
+msgid "%2 message"
+msgid_plural "%2 messages"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: src/kmid_part.cpp:434
+#, fuzzy
+#| msgid "KMid"
+msgctxt "@title"
+msgid "KMidPart"
+msgstr "KMid"
+
+#: src/kmid_part.cpp:435
+msgctxt "@info:credit"
+msgid "Pedro Lopez-Cabanillas"
+msgstr ""
+
+#: src/kmid_part.cpp:436
+msgctxt "@info:credit"
+msgid "Maintainer"
+msgstr "Responsabil"
+
+#. i18n: ectx: Menu (view)
+#: src/kmid_part.rc:4 src/kmidui.rc:34
+#, fuzzy
+#| msgid "&File"
+msgid "&View"
+msgstr "&Fișier"
+
+#: src/kmid_partview.cpp:60
+msgctxt "@info:whatsthis"
+msgid "Player play/stop control"
+msgstr ""
+
+#: src/kmid_partview.cpp:61
+#, fuzzy
+#| msgid "Play"
+msgctxt "@info:tooltip player button"
+msgid "Play/Stop"
+msgstr "Redare"
+
+#: src/kmid_partview.cpp:68
+msgctxt "@info:whatsthis"
+msgid "Player pause control"
+msgstr ""
+
+#: src/kmid_partview.cpp:69
+#, fuzzy
+#| msgid "P&ause"
+msgctxt "@info:tooltip player button"
+msgid "Pause"
+msgstr "P&auză"
+
+#: src/kmid_partview.cpp:79
+msgctxt "@info:tooltip player button"
+msgid "Time position"
+msgstr ""
+
+#: src/kmid_partview.cpp:91
+msgctxt "@info:whatsthis"
+msgid "Volume factor control"
+msgstr ""
+
+#: src/kmid_partview.cpp:92
+#, fuzzy
+#| msgid "Show &Volume Bar"
+msgctxt "@info:tooltip player control"
+msgid "Volume factor"
+msgstr "Afișează bara de &volum"
+
+#: src/kmid_partview.cpp:106
+msgctxt "@info:whatsthis"
+msgid "Pitch transpose control"
+msgstr ""
+
+#: src/kmid_partview.cpp:107
+msgctxt "@info:tooltip player control"
+msgid "Pitch transpose"
+msgstr ""
+
+#: src/kmid_partview.cpp:121
+msgctxt "@info:whatsthis"
+msgid "Speed factor reset"
+msgstr ""
+
+#: src/kmid_partview.cpp:122
+msgctxt "@info:tooltip player button"
+msgid "Speed reset"
+msgstr ""
+
+#: src/kmid_partview.cpp:129
+msgctxt "@info:whatsthis"
+msgid "Speed factor control"
+msgstr ""
+
+#: src/kmid_partview.cpp:130
+msgctxt "@info:tooltip player control"
+msgid "Speed factor"
+msgstr ""
+
+#. i18n: ectx: Menu (song)
+#: src/kmidui.rc:8
+msgid "&Song"
+msgstr "&Melodia"
+
+#. i18n: ectx: Menu (song_settings)
+#: src/kmidui.rc:18
+#, fuzzy
+#| msgid "Synth Strings 1"
+msgid "S&ong Settings"
+msgstr "Coarde sintetizate 1"
+
+#. i18n: ectx: Menu (playlist)
+#: src/kmidui.rc:25
+#, fuzzy
+#| msgid "&Play"
+msgid "&Playlist"
+msgstr "&Redă"
+
+#: src/main.cpp:29
+msgid "A KDE 4 MIDI/Karaoke player"
+msgstr "Redare fișiere MIDI/Karaoke pentru KDE 4"
+
+#: src/main.cpp:35
+msgid "KMid"
+msgstr "KMid"
+
+#: src/main.cpp:37
+msgid "Maintainer"
+msgstr "Responsabil"
+
+#: src/main.cpp:39
+msgid "Antonio Larrosa Jimenez"
+msgstr "Antonio Larrosa Jimenez"
+
+#: src/main.cpp:39
+msgid "Author"
+msgstr "Autor"
+
+#: src/main.cpp:43
+msgid "Song(s) to open"
+msgstr "Cîntec(e) de deschis"
+
+#: src/pianola.cpp:39
+msgctxt "@title:window"
+msgid "Player Piano"
+msgstr ""
+
+#: src/pianola.cpp:45
+#, fuzzy
+#| msgid "Channel %1"
+msgctxt "@title:menu"
+msgid "MIDI Channels"
+msgstr "Canalul %1"
+
+#: src/pianola.cpp:47
+#, fuzzy
+#| msgid "Show &Channel View"
+msgctxt "@action:inmenu"
+msgid "Show all channels"
+msgstr "Afișează vizualizarea de &canal"
+
+#: src/pianola.cpp:51
+#, fuzzy
+#| msgid "Hide &Channel View"
+msgctxt "@action:inmenu"
+msgid "Hide all channels"
+msgstr "Ascunde vizualizarea de &canal"
+
+#: src/pianola.cpp:82
+#, fuzzy, kde-format
+#| msgid "Channel %1"
+msgctxt "@item:inmenu"
+msgid "Channel %1"
+msgstr "Canalul %1"
+
+#: src/playlistdialog.cpp:29
+msgctxt "@title:window"
+msgid "Manage Playlist"
+msgstr "Gestionează lista de redare"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/prefs_lyrics.ui:17
+msgid "Font face:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/prefs_lyrics.ui:38
+msgid "Font color:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/prefs_lyrics.ui:51
+msgid "Font size:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_backend)
+#: src/prefs_midi.ui:17
+#, fuzzy
+#| msgid "Channel %1"
+msgid "MIDI Backend:"
+msgstr "Canalul %1"
+
+#. i18n: ectx: property (text), widget (QLabel, label_connection)
+#: src/prefs_midi.ui:30
+msgid "Output MIDI Connection:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_advanced_ports)
+#: src/prefs_midi.ui:40
+msgid "Show advanced MIDI ports"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_mapper)
+#: src/prefs_midi.ui:50
+msgid "MIDI mapper file:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_resetmode)
+#: src/prefs_midi.ui:63
+msgid "Reset Mode:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_reset_mode)
+#: src/prefs_midi.ui:71
+msgid "Do not send reset messages"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_reset_mode)
+#: src/prefs_midi.ui:76
+#, fuzzy
+#| msgid "&General MIDI"
+msgid "General MIDI"
+msgstr "&General MIDI"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_reset_mode)
+#: src/prefs_midi.ui:81
+msgid "Roland GS"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_reset_mode)
+#: src/prefs_midi.ui:86
+msgid "Yamaha XG"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_reset_mode)
+#: src/prefs_midi.ui:91
+msgid "System Exclusive File"
+msgstr ""
+
+#. i18n: ectx: property (filter), widget (KUrlRequester, kcfg_sysex_file)
+#: src/prefs_midi.ui:102
+msgid "*.syx|System Exclusive Files (*.syx)"
+msgstr ""
+
+#~ msgid "Configure Channel View"
+#~ msgstr "Configurează vizualizare canal"
+
+#~ msgid "Choose Look Mode"
+#~ msgstr "Alege aspectul"
+
+#~ msgid "3D look"
+#~ msgstr "Aspect 3D"
+
+#~ msgid "3D - filled"
+#~ msgstr "3D - umplut"
+
+#~ msgid "Channel View"
+#~ msgstr "Vizualizare canal"
+
+#~ msgid "Collections Manager"
+#~ msgstr "Gestionar de colecții"
+
+#~ msgid "Available collections:"
+#~ msgstr "Colecții disponibile:"
+
+#~ msgid "Songs in selected collection:"
+#~ msgstr "Cîntece în colecția selectată:"
+
+#~ msgid "&New..."
+#~ msgstr "&Nou..."
+
+#~ msgid "&Copy..."
+#~ msgstr "&Copiere..."
+
+#~ msgid "Delete"
+#~ msgstr "Șterge"
+
+#~ msgid "&Add..."
+#~ msgstr "&Adăugare..."
+
+#~ msgid "&Remove"
+#~ msgstr "&Elimină"
+
+#~ msgid "New Collection"
+#~ msgstr "Colecție nouă"
+
+#~ msgid "Enter the name of the new collection:"
+#~ msgstr "Introduceți denumirea noii colecții:"
+
+#~ msgid "The name '%1' is already used"
+#~ msgstr "Denumirea „%1” este deja utilizată"
+
+#~ msgid "Copy Collection"
+#~ msgstr "Copiază colecția"
+
+#~ msgid "Enter the name of the copy collection:"
+#~ msgstr "Introduceți denumirea copiei colecției:"
+
+#~ msgid "Change Collection Name"
+#~ msgstr "Modifică denumirea colecției"
+
+#~ msgid "Enter the name of the selected collection:"
+#~ msgstr "Introduceți denumirea colecției alese:"
+
+#~ msgid "Default"
+#~ msgstr "Implicit"
+
+#~ msgid "The file %1 does not exist or cannot be opened."
+#~ msgstr "Fișierul '%1' nu există sau nu poate fi deschis."
+
+#~ msgid "The file %1 is not a MIDI file."
+#~ msgstr "Fișierul '%1' nu este un fișier MIDI."
+
+#~ msgid ""
+#~ "Ticks per quarter note is negative. Please send this file to larrosa@kde."
+#~ "org"
+#~ msgstr ""
+#~ "Numărul de bătăi pe sfertul de notă este negativ. Vă rog să trimiteți "
+#~ "acest fișier la larrosa@kde.org"
+
+#~ msgid "Not enough memory."
+#~ msgstr "Nu există memorie suficientă."
+
+#~ msgid "This file is corrupted or not well built."
+#~ msgstr "Acest fișier este corupt sau a fost construit defectuos."
+
+#~ msgid "Unknown error message"
+#~ msgstr "Mesaj eroare necunoscută"
+
+#~ msgid "You must load a file before playing it."
+#~ msgstr "Trebuie să încărcați un fișier înainte de a-l putea reda."
+
+#~ msgid "A song is already being played."
+#~ msgstr "Există deja un fișier în redare."
+
+#~ msgid ""
+#~ "Could not open /dev/sequencer.\n"
+#~ "Probably there is another program using it."
+#~ msgstr ""
+#~ "Nu am putut deschide /dev/sequencer.\n"
+#~ "Probabil este utilizat de un alt program."
+
+#~ msgid "&Stop"
+#~ msgstr "&Oprește"
+
+#~ msgid "&Loop"
+#~ msgstr "&Buclă"
+
+#~ msgid "&Organize..."
+#~ msgstr "&Organizează..."
+
+#~ msgid "In Order"
+#~ msgstr "În ordine"
+
+#~ msgid "Play Order"
+#~ msgstr "Ordinea de redare"
+
+#~ msgid "&MT-32"
+#~ msgstr "&MT-32"
+
+#~ msgid "File Type"
+#~ msgstr "Tipul de fișier"
+
+#~ msgid "&Text Events"
+#~ msgstr "Evenimente &text"
+
+#~ msgid "Display Events"
+#~ msgstr "Afișează evenimentele"
+
+#~ msgid "Automatic Text Chooser"
+#~ msgstr "Alegere automată a textului"
+
+#~ msgid "Hide &Volume Bar"
+#~ msgstr "Ascunde bara de &volum"
+
+#~ msgid "Channel View &Options..."
+#~ msgstr "&Opțiuni vizualizare canal..."
+
+#~ msgid "&Font Change..."
+#~ msgstr "Modifică &fontul..."
+
+#~ msgid "MIDI &Setup..."
+#~ msgstr "Setări &MIDI..."
+
+#~ msgid "Only local files are currently supported."
+#~ msgstr "Deocamdată sînt suportate numai fișiere locale."
+
+#~ msgid ""
+#~ "Could not open /dev/sequencer to get some info.\n"
+#~ "Probably there is another program using it."
+#~ msgstr ""
+#~ "Nu am putut deschide /dev/sequencer pentru a afla\n"
+#~ "informații. Probabil este utilizat de un alt program."
+
+#~ msgid ""
+#~ "File %1 already exists\n"
+#~ "Do you want to overwrite it?"
+#~ msgstr ""
+#~ "Fișierul '%1' există deja.\n"
+#~ "Doriți să îl suprascriu?"
+
+#~ msgid "Overwrite"
+#~ msgstr "Suprascrie"
+
+#~ msgid "(c) 1997,98,99,2000, Antonio Larrosa Jimenez"
+#~ msgstr "(c) 1997,98,99,2000, Antonio Larrosa Jimenez"
+
+#~ msgid "Original Developer/Maintainer"
+#~ msgstr "Dezvoltator original/Programator"
+
+#~ msgid "Backward"
+#~ msgstr "Înapoi"
+
+#~ msgid "Configure MIDI Devices"
+#~ msgstr "Configurează dispozitivele MIDI"
+
+#~ msgid "Select the MIDI device you want to use:"
+#~ msgstr "Selectați dispozitivul MIDI de utilizat:"
+
+#~ msgid "Use the MIDI map:"
+#~ msgstr "Utilizează mapare MIDI:"
+
+#~ msgid "None"
+#~ msgstr "Nimic"
+
+#~ msgid "Browse..."
+#~ msgstr "Răsfoire..."
+
+#~ msgid "&Collections"
+#~ msgstr "&Colecții"
+
+#~ msgid "Temporary Collection"
+#~ msgstr "Colecție temporară"

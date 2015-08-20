@@ -1,0 +1,518 @@
+# Traducerea desktop_extragear-graphics_digikam.po în Română
+# Copyright (C) 2008-2011 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_extragear-graphics_digikam package.
+#
+# Vă rugăm să nu actualizați fișierul, cu excepția cazului în care sînteți
+# sigur de calitatea traducerii dumneavoastră, de gramatică și de ortografie.
+# Acestea din urmă sînt de prea multe ori aproximative.
+# Corectarea lor ulterioară nu are nici un alt rezultat decît acela de
+# pierdere de timp pentru toata lumea.
+#
+# VĂ RUGĂM SĂ RESPECTAȚI SEMNELE DE PUNCTUAȚIE ALE LIMBII ROMÂNE!
+#
+# Nu suprimați spațiul care urmează unui semn de punctuație de sfîrșit de
+# frază; trebuie respectată versiunea originală. În acest caz, este foarte
+# probabil ca programul să afișeze un mesaj la sfîrșit. Suprimînd acel spațiu,
+# cele două cuvintele vor fi afișate legat.
+#
+# Traduceți de manieră INTELIGENTĂ (de ce nu și prin comparație cu alte
+# traduceri ale acestui fișier în alte limbi) și nu cuvînt cu cuvînt. Unele
+# astfel de traduceri nu au nici un sens în limba română.
+#
+# ATENȚIE LA FONTURILE UTILIZATE! Pentru a reda corect diacriticele folosiți
+# disponerea tastaturii românească standard, codarea de caractere UTF-8 și
+# asigurați-vă că fonturile utilizate sînt cu virgulițe, NU CU SEDILE!
+# Exemplu:
+#          font incorect (cu sedile): şŞ ţŢ
+#          font corect (cu virgule): șȘ țȚ
+#
+# Pentru a vă asigura că folosiți fonturile corecte, vizitați:
+#          http://i18n.ro/Fonturi_romanesti/testare
+#
+# Vă mulțumim pentru înțelegere.
+#                                                       Echipa de traducători,
+#                                                       www.KDE.org
+#
+# Traducători de-a lungul timpului:
+#
+# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009, 2011.
+# Florin Cătălin RUSSEN <frussen@yahoo.co.uk>, 2009, 2011.
+# Cristian Oneț <onet.cristian@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_extragear-graphics_digikam\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-09-10 02:18+0000\n"
+"PO-Revision-Date: 2011-06-22 22:27+0300\n"
+"Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.2\n"
+
+#: app/main/digikam.desktop:9
+msgctxt "Name"
+msgid "digiKam"
+msgstr "digiKam"
+
+#: app/main/digikam.desktop:65
+msgctxt "GenericName"
+msgid "Photo Management Program"
+msgstr "Program pentru gestionarea fotografiilor"
+
+#: app/main/digikam.desktop:116 showfoto/main/showfoto.desktop:100
+msgctxt "Comment"
+msgid ""
+"Manage your photographs like a professional with the power of open source"
+msgstr ""
+"Gestionați-vă fotografiile ca un profesionist profitînd de puterea "
+"aplicațiilor cu sursă deschisă"
+
+#: app/main/digikam.notifyrc:3
+msgctxt "Comment"
+msgid "digiKam"
+msgstr "digiKam"
+
+#: app/main/digikam.notifyrc:53
+msgctxt "Name"
+msgid "Download complete"
+msgstr "Descărcare încheiată"
+
+#: app/main/digikam.notifyrc:98
+msgctxt "Comment"
+msgid "A download from a camera or other device has finished."
+msgstr ""
+"S-a încheiat descărcarea de pe un aparat de fotografiat sau alt dispozitiv."
+
+#: app/main/digikam.notifyrc:144
+msgctxt "Name"
+msgid "Save file complete"
+msgstr "Salvarea fișierului încheiată"
+
+#: app/main/digikam.notifyrc:183
+msgctxt "Comment"
+msgid "A file from image editor is saved."
+msgstr "Un fișier din editorul de imagini este salvat."
+
+#: app/main/digikam.notifyrc:225
+msgctxt "Name"
+msgid "Batch queue completed"
+msgstr "Coadă de procesare în serie terminată"
+
+#: app/main/digikam.notifyrc:266
+msgctxt "Comment"
+msgid "A queue in the batch queue manager has been completed."
+msgstr "S-a terminat o coadă din gestionarul de cozi de procesare în serie. "
+
+#: app/main/digikam.notifyrc:309
+msgctxt "Name"
+msgid "Update of fingerprint database complete"
+msgstr "Actualizarea bazei de date cu amprente s-a terminat"
+
+#: app/main/digikam.notifyrc:350
+msgctxt "Comment"
+msgid "The update of the fingerprint database has been completed."
+msgstr "Actualizarea bazei de date cu amprente s-a încheiat."
+
+#: app/main/digikam.notifyrc:394
+msgctxt "Name"
+msgid "Update of thumbnails database complete"
+msgstr "Actualizarea bazei de date cu miniaturi s-a terminat"
+
+#: app/main/digikam.notifyrc:435
+msgctxt "Comment"
+msgid "The update of the thumbnails database has been completed."
+msgstr "Actualizarea bazei de date cu miniaturi s-a încheiat."
+
+#: app/main/digikam.notifyrc:479
+msgctxt "Name"
+msgid "Synchronization of images' metadata with database completed"
+msgstr "Sincronizarea metadatelor imaginilor cu baza de date s-a încheiat"
+
+#: app/main/digikam.notifyrc:519
+msgctxt "Comment"
+msgid ""
+"The synchronization of the images' metadata with the database has been "
+"completed."
+msgstr "Sincronizarea metadatelor imaginilor cu baza de date s-a încheiat."
+
+#: app/main/digikam.notifyrc:562
+msgctxt "Name"
+msgid "Update of detected faces database complete"
+msgstr "Actualizarea bazei de date pentru detectarea fețelor s-a terminat"
+
+#: app/main/digikam.notifyrc:599
+msgctxt "Comment"
+msgid "The update of the detected faces database has completed."
+msgstr "Actualizarea bazei de date pentru detectarea fețelor s-a încheiat."
+
+#: app/main/digikam.notifyrc:639
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Update of detected faces database complete"
+msgctxt "Name"
+msgid "Update of duplicates items in database complete"
+msgstr "Actualizarea bazei de date pentru detectarea fețelor s-a terminat"
+
+#: app/main/digikam.notifyrc:675
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "The update of the detected faces database has completed."
+msgctxt "Comment"
+msgid "The update of the duplicates items in database has completed."
+msgstr "Actualizarea bazei de date pentru detectarea fețelor s-a încheiat."
+
+#: app/main/digikam.notifyrc:714
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Update of fingerprint database complete"
+msgctxt "Name"
+msgid "Find of new items in database complete"
+msgstr "Actualizarea bazei de date cu amprente s-a terminat"
+
+#: app/main/digikam.notifyrc:750
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "The update of the detected faces database has completed."
+msgctxt "Comment"
+msgid "The scan of the new items in database has completed."
+msgstr "Actualizarea bazei de date pentru detectarea fețelor s-a încheiat."
+
+#: imageplugins/color/digikamimageplugin_color.desktop:2
+msgctxt "Name"
+msgid "ImagePlugin_Color"
+msgstr "ImagePlugin_Culoare"
+
+#: imageplugins/color/digikamimageplugin_color.desktop:48
+msgctxt "Comment"
+msgid "A tool to correct colors of image"
+msgstr "O unealtă pentru corectarea culorilor unei imagini"
+
+#: imageplugins/decorate/digikamimageplugin_decorate.desktop:2
+msgctxt "Name"
+msgid "ImagePlugin_Decorate"
+msgstr "ImagePlugin_Decorare"
+
+#: imageplugins/decorate/digikamimageplugin_decorate.desktop:48
+msgctxt "Comment"
+msgid "A tool to decorate image"
+msgstr "O unealtă pentru decorarea imaginii"
+
+#: imageplugins/enhance/digikamimageplugin_enhance.desktop:2
+msgctxt "Name"
+msgid "ImagePlugin_Enhance"
+msgstr "ImagePlugin_Îmbunătățește"
+
+#: imageplugins/enhance/digikamimageplugin_enhance.desktop:49
+msgctxt "Comment"
+msgid "digiKam plugin to enhance photograph"
+msgstr "Extensie digiKam pentru îmbunătățirea fotografiei"
+
+#: imageplugins/filters/digikamimageplugin_fxfilters.desktop:2
+msgctxt "Name"
+msgid "ImagePlugin_FxFilters"
+msgstr "ImagePlugin_FiltreEfecte"
+
+#: imageplugins/filters/digikamimageplugin_fxfilters.desktop:48
+msgctxt "Comment"
+msgid "Special effect filters plugin for digiKam"
+msgstr "Extensie digiKam cu filtre de efecte speciale"
+
+#: imageplugins/transform/digikamimageplugin_transform.desktop:2
+msgctxt "Name"
+msgid "ImagePlugin_Transform"
+msgstr "ImagePlugin_Transformă"
+
+#: imageplugins/transform/digikamimageplugin_transform.desktop:49
+msgctxt "Comment"
+msgid "A tool to transform image geometry"
+msgstr "O unealtă pentru transformarea geometriei imaginii"
+
+#: kioslave/digikamalbums.protocol:14
+msgctxt "Description"
+msgid "digiKam albums kioslave"
+msgstr "Modul digiKam pentru intrările/ieșirile albumelor"
+
+#: kioslave/digikamdates.protocol:14
+msgctxt "Description"
+msgid "digiKam dates kioslave"
+msgstr "Modul digiKam pentru intrările/ieșirile datelor"
+
+#: kioslave/digikammapimages.protocol:14
+msgctxt "Description"
+msgid "digiKam mapimages kioslave"
+msgstr "Modul digiKam pentru intrările/ieșirile imaginilor pe hartă"
+
+#: kioslave/digikamsearch.protocol:7
+msgctxt "Description"
+msgid "digiKam search kioslave"
+msgstr "Modul digiKam pentru intrările/ieșirile căutărilor"
+
+#: kioslave/digikamtags.protocol:14
+msgctxt "Description"
+msgid "digikam tags kioslave"
+msgstr "Modul digiKam pentru intrările/ieșirile etichetelor"
+
+#: showfoto/main/showfoto.desktop:2
+msgctxt "Name"
+msgid "showFoto"
+msgstr "showFoto"
+
+#: showfoto/main/showfoto.desktop:54
+msgctxt "GenericName"
+msgid "Photo Viewer and Editor"
+msgstr "Vizualizator și editor de fotografii"
+
+#: utilities/imageeditor/plugin/digikamimageplugin.desktop:6
+msgctxt "Comment"
+msgid "A digiKam Image Plugin"
+msgstr "O extensie de imagine pentru digiKam"
+
+#~ msgctxt "Name"
+#~ msgid "Digikam Nepomuk Service"
+#~ msgstr "Serviciul Nepomuk Digikam"
+
+#~ msgctxt "Comment"
+#~ msgid "A Nepomuk service that syncs with digikam"
+#~ msgstr "Serviciul Nepomuk pentru sincronizarea cu Digikam"
+
+#~ msgctxt "Name"
+#~ msgid "Download Photos with digiKam"
+#~ msgstr "Descărcați fotografii cu digiKam"
+
+#~ msgctxt "Name"
+#~ msgid "digiKam Detect and Download"
+#~ msgstr "Detectare și descărcare cu digiKam"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_SuperImpose"
+#~ msgstr "ImagePlugin_SuperImpose"
+
+#~ msgctxt "Comment"
+#~ msgid "Template superimpose plugin for digiKam"
+#~ msgstr "Modul digiKam de suprapunere a modelului"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_HotPixels"
+#~ msgstr "ImagePlugin_HotPixels"
+
+#~ msgctxt "Comment"
+#~ msgid "Hot pixel correction plugin for digiKam"
+#~ msgstr "Modul digiKam pentru ameliorarea punctelor aprinse"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_LensCorrection"
+#~ msgstr "ImagePlugin_LensCorrection"
+
+#~ msgctxt "Comment"
+#~ msgid "Lens aberrations correction tools"
+#~ msgstr "Unelte prntru corectarea aberațiilor obiectivului"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Core"
+#~ msgstr "ImagePlugin_Core"
+
+#~ msgctxt "Comment"
+#~ msgid "digiKam Core Image Plugin"
+#~ msgstr "Modulul principal al lui digiKam"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_InPainting"
+#~ msgstr "ImagePlugin_InPainting"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Restoration"
+#~ msgstr "ImagePlugin_Restoration"
+
+#~ msgctxt "Comment"
+#~ msgid "digiKam plugin to restore a photograph"
+#~ msgstr "Modul digiKam de reabilitare a fotografiei"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "ImagePlugin_Core"
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_ContentAwareResizing"
+#~ msgstr "ImagePlugin_Core"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Blur special effects plugin for digiKam"
+#~ msgctxt "Comment"
+#~ msgid "Liquid Rescale plugin for digiKam"
+#~ msgstr "Modul digiKam de efecte speciale de neclaritate"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "ImagePlugin_Core"
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_LocalContrast"
+#~ msgstr "ImagePlugin_Core"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Color special effects plugin for digiKam"
+#~ msgctxt "Comment"
+#~ msgid "Local contrast plugin for Digikam"
+#~ msgstr "Modul digiKam pentru efecte speciale ale culorii"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Border"
+#~ msgstr "ImagePlugin_Border"
+
+#~ msgctxt "Comment"
+#~ msgid "Add border to image plugin for digiKam"
+#~ msgstr "Modul digiKam de adăugare a bordurii la imagine"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_FreeRotation"
+#~ msgstr "ImagePlugin_FreeRotation"
+
+#~ msgctxt "Comment"
+#~ msgid "Free rotation plugin for digiKam"
+#~ msgstr "Modul digiKam pentru rotire liberă"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_InsertText"
+#~ msgstr "ImagePlugin_InsertText"
+
+#~ msgctxt "Comment"
+#~ msgid "Insert text to image plugin for digiKam"
+#~ msgstr "Modul digiKam de inserare text în imagine"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Perspective"
+#~ msgstr "ImagePlugin_Perspective"
+
+#~ msgctxt "Comment"
+#~ msgid "Perspective tool plugin for digiKam"
+#~ msgstr "Modul digiKam pentru instrumentul de perspectivă"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_ShearTool"
+#~ msgstr "ImagePlugin_ShearTool"
+
+#~ msgctxt "Comment"
+#~ msgid "Shear tool plugin for digiKam"
+#~ msgstr "Modul digiKam pentru instrumentul de tuns"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Texture"
+#~ msgstr "ImagePlugin_Texture"
+
+#~ msgctxt "Comment"
+#~ msgid "digiKam plugin to apply texture on image"
+#~ msgstr "Modul digiKam de aplicare a texturii pe imagine"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_BlurFX"
+#~ msgstr "ImagePlugin_BlurFX"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Charcoal"
+#~ msgstr "ImagePlugin_Charcoal"
+
+#~ msgctxt "Comment"
+#~ msgid "Charcoal drawing image effect plugin for digiKam"
+#~ msgstr "Modul digiKam de adăugare a efectului de desanare la imagine"
+
+#~ msgctxt "Comment"
+#~ msgid "Color special effects plugin for digiKam"
+#~ msgstr "Modul digiKam pentru efecte speciale ale culorii"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_DistortionFX"
+#~ msgstr "ImagePlugin_DistortionFX"
+
+#~ msgctxt "Comment"
+#~ msgid "Distortion special effects plugin for digiKam"
+#~ msgstr "Modul digiKam pentru efecte speciale ale distorsiunii"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Emboss"
+#~ msgstr "ImagePlugin_Emboss"
+
+#~ msgctxt "Comment"
+#~ msgid "Emboss image effect plugin for digiKam"
+#~ msgstr "Modul digiKam de reliefare a imaginii"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_OilPaint"
+#~ msgstr "ImagePlugin_OilPaint"
+
+#~ msgctxt "Comment"
+#~ msgid "Oil paint image effect plugin for digiKam"
+#~ msgstr "Modul digiKam pentru efectul de pictură în ulei a imaginii"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_RainDrop"
+#~ msgstr "ImagePlugin_RainDrop"
+
+#~ msgctxt "Comment"
+#~ msgid "Rain dropping image effect plugin for digiKam"
+#~ msgstr "Modul digiKam de efect de picături de ploaie pe imagine"
+
+#~ msgctxt "Comment"
+#~ msgid "Film grain image effect plugin for digiKam"
+#~ msgstr "Modul digiKam pentru efectul de granularizare a imaginii"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_AdjustCurves"
+#~ msgstr "ImagePlugin_AdjustCurves"
+
+#~ msgctxt "Comment"
+#~ msgid "Image histogram adjust curves plugin for digiKam"
+#~ msgstr "Modul digiKam de ajustare a curbelor histogramei imaginii"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_AdjustLevels"
+#~ msgstr "ImagePlugin_AdjustLevels"
+
+#~ msgctxt "Comment"
+#~ msgid "Image histogram adjust levels plugin for digiKam"
+#~ msgstr "Modul digiKam de ajustare a nivelurilor histogramei imaginii"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_ChannelMixer"
+#~ msgstr "ImagePlugin_ChannelMixer"
+
+#~ msgctxt "Comment"
+#~ msgid "Image color channels mixer plugin for digiKam"
+#~ msgstr "Modul digiKam de amestecare a canalelor de culoare"
+
+#~ msgctxt "Comment"
+#~ msgid "White balance correction plugin for digiKam"
+#~ msgstr "Modul digiKam pentru corecția balanței de alb"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Infrared"
+#~ msgstr "ImagePlugin_Infrared"
+
+#~ msgctxt "Comment"
+#~ msgid "Simulate infrared film plugin for digiKam"
+#~ msgstr "Modul digiKam pentru simulare de film infraroșu"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_NoiseReduction"
+#~ msgstr "ImagePlugin_NoiseReduction"
+
+#~ msgctxt "Comment"
+#~ msgid "Noise Reduction plugin for digiKam"
+#~ msgstr "Modul digiKam de reducere a zgomotului"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Photo Management"
+#~ msgstr "Gestiune fotografii KDE"
+
+#~ msgctxt "GenericName"
+#~ msgid "Image Viewer"
+#~ msgstr "Vizualizator imagini"
+
+#~ msgctxt "Comment"
+#~ msgid "digiKam photo viewer"
+#~ msgstr "Vizualizator imagini digiKam"

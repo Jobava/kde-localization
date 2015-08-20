@@ -1,0 +1,851 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2009, 2010, 2011.
+# Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010, 2012, 2013.
+# Cristian Oneț <onet.cristian@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-05-11 02:53+0200\n"
+"PO-Revision-Date: 2013-10-26 20:10+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: connectionitem.cpp:264
+msgctxt ""
+"@info:status Notification when the networking subsystem (NetworkManager, "
+"etc) is disabled"
+msgid "Networking system disabled"
+msgstr "Sistem de rețea dezactivat"
+
+#: connectionitem.cpp:268
+msgctxt "@info:status Notification for radio kill switch turned off"
+msgid "Wireless hardware disabled"
+msgstr "Echipament fără fir dezactivat"
+
+#: connectionslistmodel.cpp:454
+msgid "Connections"
+msgstr "Conexiuni"
+
+#: connectionslistmodel.cpp:458
+msgid "VPN"
+msgstr "VPN"
+
+#: connectionslistmodel.cpp:462
+msgid "Shared Connections"
+msgstr "Conexiuni partajate"
+
+#: declarativenmpopup.cpp:308
+msgctxt "Warning about wrong NetworkManager version"
+msgid "NetworkManager is not running. Please start it."
+msgstr "NetworkManager nu rulează. Reporniți-l."
+
+#: declarativenmpopup.cpp:310
+#, kde-format
+msgctxt "Warning about wrong NetworkManager version"
+msgid ""
+"We need at least NetworkManager-%1 to work properly, found '%2'. Please "
+"upgrade to a newer version."
+msgstr ""
+"Pentru funcționare optimă, este necesar NetworkManager-%1, dar a fost găsit "
+"„%2”. Actualizați-l la o versiune mai nouă."
+
+#: interfacedetailswidget.cpp:116
+msgctxt "interface details"
+msgid "<b>Traffic</b>"
+msgstr "<b>Trafic</b>"
+
+#: interfacedetailswidget.cpp:153
+msgid "Disconnect"
+msgstr "Deconectează"
+
+#: interfacedetailswidget.cpp:154
+msgctxt "@info:tooltip"
+msgid "Click here to disconnect"
+msgstr "Apăsați aici pentru deconectare"
+
+#: interfacedetailswidget.cpp:163
+msgctxt "disconnect button in interface details window"
+msgid "Disconnect"
+msgstr "Deconectează"
+
+#: interfacedetailswidget.cpp:181
+msgctxt "@action:button"
+msgid "Back"
+msgstr "Înapoi"
+
+#: interfacedetailswidget.cpp:215 interfacedetailswidget.cpp:337
+msgctxt "entry not available"
+msgid "not available"
+msgstr "indisponibil"
+
+#: interfacedetailswidget.cpp:220
+msgctxt "traffic received empty"
+msgid "Received"
+msgstr "Primit"
+
+#: interfacedetailswidget.cpp:222
+msgctxt "traffic transmitted empty"
+msgid "Transmitted"
+msgstr "Transmis"
+
+#: interfacedetailswidget.cpp:328
+msgctxt "state of mobile broadband connection"
+msgid "not enabled"
+msgstr "neactivată"
+
+#: interfacedetailswidget.cpp:364 interfacedetailswidget.cpp:408
+msgctxt "interface details"
+msgid "Type"
+msgstr "Tip"
+
+#: interfacedetailswidget.cpp:366 interfacedetailswidget.cpp:409
+msgctxt "interface details"
+msgid "Connection State"
+msgstr "Starea conexiunii"
+
+#: interfacedetailswidget.cpp:368 interfacedetailswidget.cpp:411
+msgctxt "interface details"
+msgid "Connection Speed"
+msgstr "Viteză conexiune"
+
+#: interfacedetailswidget.cpp:368
+msgctxt "bitrate"
+msgid "Unknown"
+msgstr "Necunoscută"
+
+#: interfacedetailswidget.cpp:370 interfacedetailswidget.cpp:412
+msgctxt "interface details"
+msgid "System Name"
+msgstr "Denumire sistem"
+
+#: interfacedetailswidget.cpp:372
+msgctxt "interface details"
+msgid "MAC Address"
+msgstr "Adresă MAC"
+
+#: interfacedetailswidget.cpp:374 interfacedetailswidget.cpp:414
+msgctxt "interface details"
+msgid "Driver"
+msgstr "Driver"
+
+#: interfacedetailswidget.cpp:376
+msgctxt "interface details"
+msgid "IPv4 Address"
+msgstr "Adresă IPv4"
+
+#: interfacedetailswidget.cpp:378
+msgctxt "interface details"
+msgid "IPv4 Gateway"
+msgstr "Gateway IPv4"
+
+#: interfacedetailswidget.cpp:380
+msgctxt "interface details"
+msgid "Access Point (SSID)"
+msgstr "Punct de acces (SSID)"
+
+#: interfacedetailswidget.cpp:382
+msgctxt "interface details"
+msgid "Access Point (MAC)"
+msgstr "Punct de acces (MAC)"
+
+#: interfacedetailswidget.cpp:384
+msgctxt "@item:intable wireless band"
+msgid "Band"
+msgstr "Bandă"
+
+#: interfacedetailswidget.cpp:386
+msgctxt "@item:intable wireless channel"
+msgid "Channel"
+msgstr "Canal"
+
+#: interfacedetailswidget.cpp:388
+msgctxt "interface details"
+msgid "Operator"
+msgstr "Operator"
+
+#: interfacedetailswidget.cpp:390
+msgctxt "interface details"
+msgid "Signal Quality"
+msgstr "Calitate semnal"
+
+#: interfacedetailswidget.cpp:392
+msgctxt "interface details"
+msgid "Access Technology"
+msgstr "Tehnologie de acces"
+
+#: interfacedetailswidget.cpp:394
+msgctxt "interface details"
+msgid "Frequency Band"
+msgstr "Banda de frecvență"
+
+#: interfacedetailswidget.cpp:396
+msgctxt "interface details"
+msgid "Allowed Mode"
+msgstr "Regim permis"
+
+#: interfacedetailswidget.cpp:398
+msgctxt "interface details"
+msgid "Device Name"
+msgstr "Denumire dispozitiv"
+
+#: interfacedetailswidget.cpp:400
+msgctxt "interface details"
+msgid "Unlock Required"
+msgstr "Necesită deblocare"
+
+#: interfacedetailswidget.cpp:400
+msgctxt "Answer to the question: is modem unlock required?"
+msgid "No"
+msgstr "Nu"
+
+#: interfacedetailswidget.cpp:400
+msgctxt "Answer to the question: is modem unlock required?"
+msgid "Yes"
+msgstr "Da"
+
+#: interfacedetailswidget.cpp:402
+msgctxt "interface details"
+msgid "IMEI"
+msgstr "IMEI"
+
+#: interfacedetailswidget.cpp:404
+msgctxt "interface details"
+msgid "IMSI"
+msgstr "IMSI"
+
+#: interfacedetailswidget.cpp:410
+msgctxt "interface details"
+msgid "Network Address (IP)"
+msgstr "Adresă de rețea (IP)"
+
+#: interfacedetailswidget.cpp:413
+msgctxt "interface details"
+msgid "Hardware Address (MAC)"
+msgstr "Adresă fizică (MAC)"
+
+#: interfacedetailswidget.cpp:500
+msgid "KBit/s"
+msgstr "KBiți/s"
+
+#: interfacedetailswidget.cpp:502
+msgid "MBit/s"
+msgstr "MBiți/s"
+
+#: interfacedetailswidget.cpp:506
+msgid "GBit/s"
+msgstr "GBiți/s"
+
+#: interfacedetailswidget.cpp:530
+#, kde-format
+msgctxt ""
+"traffic, e.g. n KB/s\n"
+" m KB/s"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: interfacedetailswidget.cpp:539
+msgid "Received"
+msgstr "Primit"
+
+#: interfacedetailswidget.cpp:542
+msgid "Transmitted"
+msgstr "Transmis"
+
+#: interfacedetailswidget.cpp:793
+msgctxt "label of the network interface"
+msgid "No IP address."
+msgstr "Fără adresă IP."
+
+#: interfacedetailswidget.cpp:794
+msgctxt "label of the network interface"
+msgid "No gateway."
+msgstr "Fără gateway."
+
+#: interfacedetailswidget.cpp:799
+msgctxt "label of the network interface"
+msgid "IP display error."
+msgstr "Eroare la afișarea IP."
+
+#: networkmanager.cpp:306
+msgctxt "CheckBox to enable or disable networking completely"
+msgid "Enable networking"
+msgstr "Activează rețeaua"
+
+#: networkmanager.cpp:307
+msgctxt "@info:tooltip tooltip for the 'Enable networking' checkbox"
+msgid "Enable or disable the networking system"
+msgstr "Activează sau dezactivează sistemul de rețea"
+
+#: networkmanager.cpp:690
+msgctxt "Tooltip sub text"
+msgid "No network interfaces"
+msgstr "Nicio interfață de rețea"
+
+#: networkmanager.cpp:742
+msgid "VPN Connections"
+msgstr "Conexiuni VPN"
+
+#: networkmanager.cpp:756
+msgctxt "tooltip, all interfaces are down"
+msgid "Disconnected"
+msgstr "Deconectat"
+
+#: networkmanager.cpp:759
+msgctxt "tooltip, wireless is disabled in software"
+msgid "Wireless disabled in software"
+msgstr "Adaptor fără fir dezactivat din program"
+
+#: networkmanager.cpp:762
+msgctxt "tooltip, all interfaces are down"
+msgid "Networking disabled"
+msgstr "Rețea dezactivată"
+
+#: networkmanager.cpp:765
+msgctxt "tooltip, wireless is disabled by hardware"
+msgid "Wireless disabled by hardware"
+msgstr "Adaptor fără fir dezactivat de echipament"
+
+#~ msgid "Signal quality: %1%"
+#~ msgstr "Calitate semnal: %1%"
+
+#~ msgctxt "@action for creating a connection to a hidden wireless network"
+#~ msgid "<placeholder>hidden network</placeholder>"
+#~ msgstr "<placeholder>rețea ascunsă</placeholder>"
+
+#~ msgctxt "@label for hidden wireless network SSID entry"
+#~ msgid "Enter network name and press <placeholder>enter</placeholder>"
+#~ msgstr ""
+#~ "Introduceți denumirea rețelei și apăsați <placeholder>enter</placeholder>"
+
+#~ msgctxt "@info:tooltip for hidden wireless network SSID entry"
+#~ msgid "Enter network name and press <placeholder>enter</placeholder>"
+#~ msgstr ""
+#~ "Introduceți denumirea rețelei și apăsați <placeholder>enter</placeholder>"
+
+#~ msgctxt "name of the connection not known"
+#~ msgid "Unknown"
+#~ msgstr "Necunoscută"
+
+#~ msgctxt "tooltip on the LHS widgets"
+#~ msgid "Click here for interface details"
+#~ msgstr "Apăsați aici pentru detaliile interfeței"
+
+#~ msgctxt "generic label for an interface"
+#~ msgid "<b>Network Interface</b>"
+#~ msgstr "<b>Interfață de rețea</b>"
+
+#~ msgctxt "network interface name unknown"
+#~ msgid "<b>Unknown Network Interface</b>"
+#~ msgstr "<b>Interfață de rețea necunoscută</b>"
+
+#~ msgctxt "wired interface network cable unplugged"
+#~ msgid "Cable Unplugged"
+#~ msgstr "Cablu detașat"
+
+#~ msgctxt "title on the LHS of the plasmoid"
+#~ msgid "<h3>Interfaces</h3>"
+#~ msgstr "<h3>Interfețe</h3>"
+
+#~ msgctxt "tabbar on the left side"
+#~ msgid "Interfaces"
+#~ msgstr "Interfețe"
+
+#~ msgctxt "button"
+#~ msgid "Connect to Another Network..."
+#~ msgstr "Conectare la altă rețea..."
+
+#~ msgctxt "connection list"
+#~ msgid "Connections"
+#~ msgstr "Conexiuni"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Connections"
+#~ msgstr "Conexiuni"
+
+#~ msgctxt "connection list"
+#~ msgid "VPN"
+#~ msgstr "VPN"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "VPN Connections"
+#~ msgstr "Conexiuni VPN"
+
+#~ msgctxt "connection list"
+#~ msgid "Shared Connections"
+#~ msgstr "Conexiuni partajate"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Shared Connections"
+#~ msgstr "Conexiuni partajate"
+
+#~ msgctxt "CheckBox to enable or disable wireless interface (rfkill)"
+#~ msgid "Enable wireless"
+#~ msgstr "Activează rețeaua fără fir"
+
+#~ msgctxt "CheckBox to enable or disable wwan (mobile broadband) interface)"
+#~ msgid "Enable mobile broadband"
+#~ msgstr "Activează banda largă mobilă"
+
+#~ msgctxt "settings button in applet's popup window"
+#~ msgid "Settings..."
+#~ msgstr "Configurări..."
+
+#~ msgctxt "show interface list in applet's popup window"
+#~ msgid "Show Interfaces"
+#~ msgstr "Arată interfețele"
+
+#~ msgctxt "main window"
+#~ msgid "Manage your network connections"
+#~ msgstr "Gestionați conexiunile de rețea"
+
+#~ msgctxt "hide interface list in applet's popup window"
+#~ msgid "Hide Interfaces"
+#~ msgstr "Ascunde interfețele"
+
+#~ msgctxt "details for the interface"
+#~ msgid "Details"
+#~ msgstr "Detalii"
+
+#~ msgctxt "text when this item is toggled"
+#~ msgid "Show less networks..."
+#~ msgstr "Arată mai puține rețele..."
+
+#~ msgctxt "text when this item not toggled"
+#~ msgid "Show one more network"
+#~ msgid_plural "Show %1 more networks..."
+#~ msgstr[0] "Arată încă o rețea"
+#~ msgstr[1] "Arată încă %1 rețele..."
+#~ msgstr[2] "Arată încă %1 de rețele..."
+
+#~ msgctxt "title for connect to another network window"
+#~ msgid ""
+#~ "You want to connect to a network. We see the following options for you:"
+#~ msgstr ""
+#~ "Doriți să vă conectați la o rețea. Vă sînt disponibile următoarele "
+#~ "opțiuni:"
+
+#~ msgctxt "initial label for VPN connection name"
+#~ msgid "Not Available"
+#~ msgstr "Indisponibil"
+
+#~ msgctxt "ip of vpn interface item"
+#~ msgid "not available"
+#~ msgstr "indisponibil"
+
+#~ msgctxt "VPN label in interfaces"
+#~ msgid "<b>%1</b>"
+#~ msgstr "<b>%1</b>"
+
+#~ msgctxt "VPN state label"
+#~ msgid "Connected"
+#~ msgstr "Conectat"
+
+#~ msgctxt "VPN state label"
+#~ msgid "Connecting..."
+#~ msgstr "Conectare..."
+
+#~ msgctxt "VPN connections interface"
+#~ msgid "<b>Virtual Private Network</b>"
+#~ msgstr "<b>Rețea Privată Virtuală</b>"
+
+#~ msgctxt "VPN state label"
+#~ msgid "Not Connected..."
+#~ msgstr "Neconectat..."
+
+#~ msgid "Strength: %1%"
+#~ msgstr "Putere: %1%"
+
+#~ msgid "Configure the System Bar"
+#~ msgstr "Configurează bara de sistem"
+
+#~ msgid "<b>Appearance</b>"
+#~ msgstr "<b>Aspect</b>"
+
+#~ msgid "Show &wired connections"
+#~ msgstr "Arată cone&xiunile cu fir"
+
+#~ msgid "Show w&ireless connections"
+#~ msgstr "Arată cone&xiunile fără fir"
+
+#~ msgid "Show &mobile broadband"
+#~ msgstr "Arată banda largă &mobilă"
+
+#~ msgid "Show &VPN connections"
+#~ msgstr "Arată conexiunile &VPN"
+
+#~ msgid "&Show this many wireless networks"
+#~ msgstr "&Arată atîtea rețele fără fir"
+
+#, fuzzy
+#~| msgctxt "@info:tooltip tooltip for the 'Show More' button"
+#~| msgid "Show all available networks"
+#~ msgctxt "@info:tooltip tooltip for the 'Show unsaved' checkbox"
+#~ msgid "Show unsaved networks"
+#~ msgstr "Arată toate rețelele disponibile"
+
+#~ msgctxt "tooltip on disconnect icon"
+#~ msgid "Disconnect"
+#~ msgstr "Deconectează"
+
+#~ msgctxt "title on the RHS of the plasmoid"
+#~ msgid "<h3>Connections</h3>"
+#~ msgstr "<h3>Conexiuni</h3>"
+
+#~ msgctxt "manage connections button in the applet's popup"
+#~ msgid "Manage Connections..."
+#~ msgstr "Gestiune conexiuni..."
+
+#~ msgctxt "show more button in the applet's popup"
+#~ msgid "Show More..."
+#~ msgstr "Mai mult..."
+
+#~ msgctxt "show more button in the applet's popup"
+#~ msgid "Show Less..."
+#~ msgstr "Mai puțin..."
+
+#~ msgctxt "pressed show more button"
+#~ msgid "Show Less..."
+#~ msgstr "Mai puțin..."
+
+#~ msgctxt "unpressed show more button"
+#~ msgid "Show More..."
+#~ msgstr "Mai mult..."
+
+#~ msgctxt "label for creating a connection to a hidden wireless network"
+#~ msgid "<hidden network>"
+#~ msgstr "<rețea ascunsă>"
+
+#~ msgctxt "@info:tooltip tooltip for the 'Show More' button"
+#~ msgid "List all networks available"
+#~ msgstr "Enumeră toate rețelele disponibile"
+
+#~ msgctxt "Warning about wrong NetworkManager version"
+#~ msgid "We need NetworkManager version between %1 and %2 to work, found %3"
+#~ msgstr ""
+#~ "Pentru a funcționa este nevoie de NetworkManager versiunea între %1 și "
+#~ "%2, am găsit versiunea %3"
+
+#, fuzzy
+#~| msgctxt "Notification for radio kill switch turned on"
+#~| msgid "Wireless hardware disabled"
+#~ msgctxt "tooltip, all interfaces are down"
+#~ msgid "Wireless killswitch is disabled"
+#~ msgstr "Echipament fără fir dezactivat"
+
+#~ msgctxt "Display of the IP (network) address in the tooltip"
+#~ msgid "<font size=\"-1\">Address: %1</font>"
+#~ msgstr "<font size=\"-1\">Adresă: %1</font>"
+
+#~ msgid "back"
+#~ msgstr "înapoi"
+
+#, fuzzy
+#~| msgid "Received"
+#~ msgctxt ""
+#~ msgid "Received"
+#~ msgstr "Primit"
+
+#, fuzzy
+#~| msgid "Transmitted"
+#~ msgctxt ""
+#~ msgid "Transmitted"
+#~ msgstr "Transmis"
+
+#, fuzzy
+#~| msgctxt "title of the connections tab"
+#~| msgid "Connections"
+#~ msgctxt "title on the LHS of the plasmoid"
+#~ msgid "<h3>Interface Details</h3>"
+#~ msgstr "Conexiuni"
+
+#~ msgctxt "label of the interface: wireless interface is connected"
+#~ msgid "Connected to %1"
+#~ msgstr "Conectat la %1"
+
+#, fuzzy
+#~| msgctxt "label of the interface: interface is connected"
+#~| msgid "Connected"
+#~ msgctxt "wired interface is connected"
+#~ msgid "Connected"
+#~ msgstr "Conectată"
+
+#~ msgctxt "wireless interface is connected"
+#~ msgid "Connected to %1"
+#~ msgstr "Conectat la %1"
+
+#~ msgctxt "label of the interface: ip address of the network interface"
+#~ msgid "Address: %1"
+#~ msgstr "Adresă: %1"
+
+#~ msgctxt "wireless interface is connected"
+#~ msgid "Connected"
+#~ msgstr "Conectat"
+
+#~ msgctxt "ip address of the network interface"
+#~ msgid "Address: %1"
+#~ msgstr "Adresă: %1"
+
+#~ msgctxt "title of the wireless tab"
+#~ msgid "Wireless Networks"
+#~ msgstr "Rețele fără fir"
+
+#~ msgctxt "label on the connectabel button"
+#~ msgid "%1 (connected)"
+#~ msgstr "%1 (conectat)"
+
+#~ msgctxt "label on the connectabel button"
+#~ msgid "%1 (connecting...)"
+#~ msgstr "%1 (se conectează...)"
+
+#~ msgctxt "Label for extender"
+#~ msgid "Network Management"
+#~ msgstr "Gestiunea rețelei"
+
+#~ msgctxt "Extender title"
+#~ msgid "Network Management"
+#~ msgstr "Gestiunea rețelei"
+
+#~ msgctxt "button in general settings extender"
+#~ msgid "Manage Connections..."
+#~ msgstr "Gestiune conexiuni..."
+
+#~ msgctxt ""
+#~ "@info:tooltip Tooltip for indicator that connection supplies the network "
+#~ "default route"
+#~ msgid "Default"
+#~ msgstr "Implicită"
+
+#~ msgctxt "title of the wired tab"
+#~ msgid "Wired"
+#~ msgstr "Cu fir"
+
+#~ msgctxt "title of the wireless tab"
+#~ msgid "Wireless"
+#~ msgstr "Fără fir"
+
+#~ msgctxt "Warning message to deter non-developers from using this"
+#~ msgid "Network Management is changing!"
+#~ msgstr "Gestiunea rețelei se schimbă!"
+
+#~ msgctxt "Tooltip sub text"
+#~ msgid ""
+#~ "It is highly unstable and will crash your desktop.\n"
+#~ "  Until further notice, please use KDE 4 knetworkmanager instead."
+#~ msgstr ""
+#~ "Este foarte instabilă și vă va deteriora biroul.\n"
+#~ "  Pînă la noi indicații, vă rugăm să utilizați knetworkmanager pentru KDE "
+#~ "4 în loc."
+
+#~ msgctxt "Label for network interfaces that cannot be activated"
+#~ msgid "Unavailable"
+#~ msgstr "Indisponibil"
+
+#~ msgid "[not updated yet]"
+#~ msgstr "[neactualizat]"
+
+#~ msgid "<b>IP Address:</b> dum.my.ip.addr"
+#~ msgstr "<b>Adresă IP:</b> adr.ip.fal.să"
+
+#~ msgid "Connect"
+#~ msgstr "Conectează"
+
+#~ msgctxt "Network cable of interface is not plugged in"
+#~ msgid "Not plugged in"
+#~ msgstr "Nu este atașat"
+
+#, fuzzy
+#~| msgid "Disconnect"
+#~ msgid "FIXME: UiUtils: connecting"
+#~ msgstr "Deconectează"
+
+#, fuzzy
+#~| msgctxt "Label for ethernet group in popup"
+#~| msgid "Ethernet"
+#~ msgctxt "title of the interface widget in nm's popup"
+#~ msgid "Wired Ethernet"
+#~ msgstr "Ethernet"
+
+#, fuzzy
+#~| msgctxt "title of the wireless tab"
+#~| msgid "Wireless"
+#~ msgctxt "title of the interface widget in nm's popup"
+#~ msgid "Wireless 802.11"
+#~ msgstr "Fără fir"
+
+#, fuzzy
+#~| msgctxt "Label for mobile broadband (GSM/CDMA/UMTS/HDSPA etc)"
+#~| msgid "Mobile Broadband"
+#~ msgctxt "title of the interface widget in nm's popup"
+#~ msgid "Mobile Broadband"
+#~ msgstr "Bandă largă mobilă"
+
+#~ msgctxt "description of unknown network interface state"
+#~ msgid "Unknown"
+#~ msgstr "Necunoscut"
+
+#~ msgctxt "description of unmanaged network interface state"
+#~ msgid "Unmanaged"
+#~ msgstr "Negestionat"
+
+#~ msgctxt "description of unavailable network interface state"
+#~ msgid "Unavailable"
+#~ msgstr "Indisponibil"
+
+#~ msgctxt "description of preparing to connect network interface state"
+#~ msgid "Preparing to connect"
+#~ msgstr "Se pregătește conectarea"
+
+#~ msgctxt "description of configuring hardware network interface state"
+#~ msgid "Configuring interface"
+#~ msgstr "Se configurează interfața"
+
+#~ msgctxt "description of waiting for authentication network interface state"
+#~ msgid "Waiting for authorization"
+#~ msgstr "Se așteaptă autorizarea"
+
+#~ msgctxt "network interface doing dhcp request in most cases"
+#~ msgid "Setting network address"
+#~ msgstr "Se stabilește adresa de rețea"
+
+#~ msgctxt "network interface connected state label"
+#~ msgid "Connected"
+#~ msgstr "Conectat"
+
+#~ msgctxt "network interface connection failed state label"
+#~ msgid "Connection Failed"
+#~ msgstr "Conexiunea a eșuat"
+
+#~ msgid "UNKNOWN STATE FIX ME"
+#~ msgstr "UNKNOWN STATE FIX ME"
+
+#~ msgid "Disconnected"
+#~ msgstr "Deconectat"
+
+#~ msgctxt ""
+#~ "Notification text when a network interface connection attempt failed"
+#~ msgid "Connection on %1 failed"
+#~ msgstr "Conexiunea la %1 a eșuat"
+
+#~ msgid "Preparing network connection"
+#~ msgstr "Se pregătește conexiunea la rețea"
+
+#~ msgid "Requesting authentication"
+#~ msgstr "Se cere autentificarea"
+
+#~ msgid "Unmanaged"
+#~ msgstr "Negestionat"
+
+#~ msgctxt "wireless network is not encrypted"
+#~ msgid "Unencrypted network"
+#~ msgstr "Rețea necriptată"
+
+#~ msgctxt "tooltip of the security icon in the connection list"
+#~ msgid "Weakly encrypted network (WEP)"
+#~ msgstr "Rețea criptată slab (WEP)"
+
+#~ msgctxt "tooltip of the security icon in the connection list"
+#~ msgid "Encrypted network (WPA-PSK)"
+#~ msgstr "Rețea criptată (WPA-PSK)"
+
+#~ msgctxt "tooltip of the security icon in the connection list"
+#~ msgid "Encrypted network (WPA-EAP)"
+#~ msgstr "Rețea criptată (WPA-EAP)"
+
+#~ msgctxt "icon to connect network interface"
+#~ msgid "Connect"
+#~ msgstr "Conectează"
+
+#~ msgctxt ""
+#~ "Label for PPP/cellular network connection traffic data, bytes in and out"
+#~ msgid "In: %1 Out %2"
+#~ msgstr "Intrat: %1 Ieșit: %2"
+
+#~ msgid "Network interface unavailable"
+#~ msgstr "Interfață de rețea indisponibilă"
+
+#~ msgctxt "icon to disconnect network interface"
+#~ msgid "Disconnect"
+#~ msgstr "Deconectează"
+
+#~ msgctxt "Label on button to hide the VPN connection list"
+#~ msgid "<a href=\"foo\">Hide</a>"
+#~ msgstr "<a href=\"foo\">Ascunde</a>"
+
+#~ msgctxt "Notification text when activating a connection"
+#~ msgid "Connecting %1"
+#~ msgstr "Se conectează %1"
+
+#~ msgctxt "title of general settings extender "
+#~ msgid "General Settings"
+#~ msgstr "Configurări generale"
+
+#~ msgctxt "Notification for hardware removed"
+#~ msgid "Network interface removed"
+#~ msgstr "Interfață de rețea eliminată"
+
+#~ msgid "Unknown Network"
+#~ msgstr "Rețea necunoscută"
+
+#~ msgctxt "no encryption in current network"
+#~ msgid "Unencrypted network"
+#~ msgstr "Rețea necriptată"
+
+#~ msgid "Connected to \"%1\""
+#~ msgstr "Conectat la „%1”"
+
+#~ msgid "Connect wireless"
+#~ msgstr "Conectează rețeaua fără fir"
+
+#~ msgctxt "networking device is not connected"
+#~ msgid "Disconnected"
+#~ msgstr "Deconectat"
+
+#~ msgctxt "Text for connections not owned by a service"
+#~ msgid "Orphaned connection"
+#~ msgstr "Conexiune orfană"
+
+#~ msgctxt "Notification text when a network interface was disconnected"
+#~ msgid "%1 disconnected"
+#~ msgstr "%1 a fost deconectat"
+
+#~ msgctxt "Notification for hardware added"
+#~ msgid "Network interface %1 attached"
+#~ msgstr "A fost atașată interfața de rețea %1"
+
+#~ msgctxt "Notification text when a wireless network interface was found"
+#~ msgid "Wireless network %1 found"
+#~ msgstr "Rețea fără fir %1 găsită"
+
+#~ msgctxt "Notification text when multiple wireless networks are found"
+#~ msgid "<b>New wireless networks:</b><br /> %1"
+#~ msgstr "<b>Rețele fără fir noi:</b><br /> %1"
+
+#~ msgctxt "Notification text when a wireless network interface disappeared"
+#~ msgid "Wireless network %1 disappeared"
+#~ msgstr "Rețeaua fără fir %1 a dispărut"
+
+#~ msgctxt "Notification text when multiple wireless networks have disappeared"
+#~ msgid "<b>Wireless networks have disappeared:</b><br /> %1"
+#~ msgstr "<b>Rețelele fără fir au dispărut:</b><br /> %1"
+
+#~ msgid "Not secured"
+#~ msgstr "Nesecurizat"
+
+#~ msgid "WEP Encryption"
+#~ msgstr "Criptare WEP"
+
+#~ msgid "WPA-PSK Encryption"
+#~ msgstr "Criptare WPA-PSK"
+
+#~ msgid "WPA-EAP Encryption"
+#~ msgstr "Criptare WPA-EAP"

@@ -1,0 +1,59 @@
+# translation of secpolicy.po to Romanian
+# translation of @PACKAGE.po to @LANGUAGE
+# Copyright (C) 2004, 2005 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2003, 2004, 2005.
+# Sergiu Bivol <sergiu@ase.md>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: secpolicy\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2011-08-02 07:42+0200\n"
+"PO-Revision-Date: 2009-01-02 15:40+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: main.cpp:33
+msgid "Display PAM security policies"
+msgstr "Afișează politicile de securitate PAM"
+
+#: main.cpp:40
+msgid "secpolicy"
+msgstr "secpolicy"
+
+#: pamview.cpp:53
+msgid "Available services:"
+msgstr "Servicii disponibile:"
+
+#: pamview.cpp:61
+msgid "Category"
+msgstr "Categorie"
+
+#: pamview.cpp:61
+msgid "Level"
+msgstr "Nivel"
+
+#: pamview.cpp:61
+msgid "Module"
+msgstr "Modul"
+
+#: pamview.cpp:85
+msgid ""
+"/etc/pam.d folder does not exist.\n"
+"Either your system does not have PAM support or there is some other "
+"configuration problem."
+msgstr ""
+"Directorul /etc/pam.d nu există.\n"
+"Sistemul dumneavoastră nu are suport pentru PAM sau există alte probleme de "
+"configurare."
+
+#: secpolicywin.cpp:47
+msgid "&File"
+msgstr "&Fișier"

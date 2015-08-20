@@ -1,0 +1,140 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-07-09 09:29+0000\n"
+"PO-Revision-Date: 2014-08-18 09:40+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: alarms/notealarmdialog.cpp:64
+msgid "Scheduled Alarm"
+msgstr ""
+
+#: alarms/notealarmdialog.cpp:67
+msgid "&No alarm"
+msgstr ""
+
+#: alarms/notealarmdialog.cpp:76
+msgid "Alarm &at:"
+msgstr ""
+
+#: config/noteactionconfig.cpp:39
+msgid "&Mail action:"
+msgstr ""
+
+#: config/noteactionconfig.cpp:47
+msgid "<a href=\"whatsthis\">How does this work?</a>"
+msgstr ""
+
+#: config/noteactionconfig.cpp:60
+msgid ""
+"<qt><p>You can customize command line. You can use:</p><ul><li>%t returns "
+"current note title</li><li>%f returns current note text</li></ul></qt>"
+msgstr ""
+
+#: config/notenetworkconfig.cpp:44
+msgid "Incoming Notes"
+msgstr ""
+
+#: config/notenetworkconfig.cpp:47
+msgid "Accept incoming notes"
+msgstr ""
+
+#: config/notenetworkconfig.cpp:53
+msgid "Outgoing Notes"
+msgstr ""
+
+#: config/notenetworkconfig.cpp:56
+msgid "&Sender ID:"
+msgstr ""
+
+#: config/notenetworkconfig.cpp:68
+msgid "&Port:"
+msgstr "&Port:"
+
+#: dialog/selectednotefolderdialog.cpp:34
+msgctxt "@title:window"
+msgid "Select Note Folder"
+msgstr ""
+
+#: dialog/selectednotefolderdialog.cpp:36
+msgctxt "@info"
+msgid "Select the folder where the note will be saved:"
+msgstr ""
+
+#: job/createnewnotejob.cpp:109 job/createnewnotejob.cpp:119
+msgid ""
+"An error occurred during fetching. Do you want select a new default "
+"collection?"
+msgstr ""
+
+#: job/createnewnotejob.cpp:129
+msgid ""
+"Collection is hidden. New note will stored but not displaying. Do you want "
+"to show collection?"
+msgstr ""
+
+#: job/createnewnotejob.cpp:183
+msgid "Note was not created."
+msgstr "Nota nu a fost creată."
+
+#: job/createnewnotejob.cpp:183
+msgid "Create new note"
+msgstr "Creează notă nouă"
+
+#: network/notehostdialog.cpp:71
+msgid "Select recipient:"
+msgstr "Alegeți destinatarul:"
+
+#: network/notehostdialog.cpp:86
+msgid "Hostname or IP address:"
+msgstr ""
+
+#: network/notesnetworksender.cpp:95
+#, kde-format
+msgid "Communication error: %1"
+msgstr ""
+
+#: noteutils.cpp:45
+msgid "Please configure send mail action."
+msgstr ""
+
+#: noteutils.cpp:53
+#, kde-format
+msgid "Note: \"%1\""
+msgstr "Notă: \"%1\""
+
+#: noteutils.cpp:60
+msgid "Unable to start the mail process."
+msgstr ""
+
+#: noteutils.cpp:69
+#, kde-format
+msgid "Send \"%1\""
+msgstr ""
+
+#: noteutils.cpp:74
+msgid "The host cannot be empty."
+msgstr ""
+
+#: resources/localresourcecreator.cpp:85
+msgctxt "Default name for resource holding notes"
+msgid "Local Notes"
+msgstr ""
+
+#. i18n: ectx: label, entry (Port), group (Network)
+#: settings/notesharedglobalconfig.kcfg:37
+msgid "The port will listen on and send notes to."
+msgstr ""

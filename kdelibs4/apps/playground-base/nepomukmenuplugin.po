@@ -1,0 +1,57 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: nepomukmenuplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2011-08-02 06:54+0200\n"
+"PO-Revision-Date: 2009-04-30 12:23+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: nepomukmenuplugin.cpp:66
+msgctxt "@action:inmenu"
+msgid "Annotate"
+msgstr ""
+
+#: nepomukmenuplugin.cpp:93
+msgctxt "@action:inmenu"
+msgid "Rate this page"
+msgstr "Evaluează această pagină"
+
+#~ msgctxt "@title:window"
+#~ msgid "Create new Tag"
+#~ msgstr "Creează etichetă nouă"
+
+#~ msgctxt "@title:window"
+#~ msgid "Create New Tag"
+#~ msgstr "Creează etichetă nouă"
+
+#~ msgctxt "@title:window subtitle to previous message"
+#~ msgid "with optional icon and description"
+#~ msgstr "cu pictogramă și descriere opționale"
+
+#~ msgctxt "@label Tag name"
+#~ msgid "Name:"
+#~ msgstr "Denumire:"
+
+#~ msgctxt "@label"
+#~ msgid "Detailed Description (optional):"
+#~ msgstr "Descriere detaliată (opțional):"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Add a new tag..."
+#~ msgstr "Adăugare marcaj nou..."
+
+#~ msgctxt "@title:menu"
+#~ msgid "Tag this page"
+#~ msgstr "Marchează această pagină"
