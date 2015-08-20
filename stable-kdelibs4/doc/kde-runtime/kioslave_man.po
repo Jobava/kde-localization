@@ -54,14 +54,14 @@ msgid ""
 "Using the man ioslave you are able to read the man pages installed on your "
 "system. It is easy to use:"
 msgstr ""
-"Utilizînd dispozitivul de I/E man puteţi citi paginile de manual instalate "
-"pe sistemul dumneavoastră. Este uşor de utilizat:"
+"Utilizînd dispozitivul de I/E man puteți citi paginile de manual instalate "
+"pe sistemul dumneavoastră. Este ușor de utilizat:"
 
 #. Tag: para
 #: index.docbook:31
 #, no-c-format
 msgid "See the sections of the manual, click to find the rest."
-msgstr "Afişează secţiunile de manual. Daţi clic pentru a găsi restul."
+msgstr "Afișează secțiunile de manual. Dați clic pentru a găsi restul."
 
 #. Tag: userinput
 #: index.docbook:36
@@ -73,7 +73,7 @@ msgstr "<command>man:</command>fopen"
 #: index.docbook:38
 #, no-c-format
 msgid "See the man page of <command>fopen</command>."
-msgstr "Afişează pagina de manual <command>fopen</command>."
+msgstr "Afișează pagina de manual <command>fopen</command>."
 
 #. Tag: userinput
 #: index.docbook:43
@@ -85,7 +85,7 @@ msgstr "<command>man:</command>fopen"
 #: index.docbook:45
 #, fuzzy, no-c-format
 msgid "See the man page of <command>fopen</command> in section 3."
-msgstr "Afişează pagina de manual <command>fopen</command>."
+msgstr "Afișează pagina de manual <command>fopen</command>."
 
 #. Tag: userinput
 #: index.docbook:50
@@ -126,8 +126,8 @@ msgid ""
 "There is also a shortcut: <userinput><command>#fopen</command></userinput>, "
 "which has the same effect as above."
 msgstr ""
-"Există şi o scurtătură: <userinput><command>#fopen</command></userinput>, "
-"care are acelaşi efect ca mai sus."
+"Există și o scurtătură: <userinput><command>#fopen</command></userinput>, "
+"care are același efect ca mai sus."
 
 #. Tag: para
 #: index.docbook:74
@@ -138,8 +138,8 @@ msgid ""
 "depending on your distribution) or adjust the environment variables "
 "<envar>MANPATH</envar> and <envar>MANSECT</envar>."
 msgstr ""
-"Dacă nu găsiţi toate paginile de manual aşteptate, configuraţi variabilele "
-"de mediu <envar>MANPATH</envar> şi <envar>MANSECT</envar>."
+"Dacă nu găsiți toate paginile de manual așteptate, configurați variabilele "
+"de mediu <envar>MANPATH</envar> și <envar>MANSECT</envar>."
 
 #. Tag: para
 #: index.docbook:82
@@ -150,16 +150,16 @@ msgid ""
 "emphasis> &kde; application. Try it in &kwrite; and you will see the man "
 "page in &HTML; format."
 msgstr ""
-"La fel ca la orice alt dispozitiv de I/E &kde;, este posibil să introduceţi "
+"La fel ca la orice alt dispozitiv de I/E &kde;, este posibil să introduceți "
 "un &URL; precum <userinput><command>man:socket</command></userinput> în "
-"<emphasis>orice</emphasis> aplicaţie &kde;. Încercaţi acest lucru în "
-"&kwrite; şi veţi vedea pagina de manual în format <acronym>HTML</acronym>."
+"<emphasis>orice</emphasis> aplicație &kde;. Încercați acest lucru în "
+"&kwrite; și veți vedea pagina de manual în format <acronym>HTML</acronym>."
 
 #. Tag: para
 #: index.docbook:89
 #, no-c-format
 msgid "Contact mailing list: <email>kde-devel@kde.org</email>"
-msgstr "Abonaţi-vă la lista de discuţii: <email>kde-devel@kde.org</email>"
+msgstr "Abonați-vă la lista de discuții: <email>kde-devel@kde.org</email>"
 
 #, fuzzy
 #~ msgid "man:"

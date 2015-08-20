@@ -42,7 +42,7 @@ msgstr "&tradClaudiuCostin;"
 #: index.docbook:17
 #, no-c-format
 msgid "Finger is a program to display information about users."
-msgstr "Finger este un program ce afişează informaţii despre utilizatori."
+msgstr "Finger este un program ce afișează informații despre utilizatori."
 
 #. Tag: para
 #: index.docbook:19
@@ -52,9 +52,9 @@ msgid ""
 "the user's real name, if they are currently logged in, if they have mail and "
 "the text of their <filename>.plan</filename> file in their home folder."
 msgstr ""
-"Dacă este activat pe maşina distantă, puteţi afla numele real al "
-"utilizatorului, dacă este logat în acel moment, dacă are mesaje necitite şi "
-"conţinutul fişierului <filename>.plan</filename> din folderul personal."
+"Dacă este activat pe mașina distantă, puteți afla numele real al "
+"utilizatorului, dacă este logat în acel moment, dacă are mesaje necitite și "
+"conținutul fișierului <filename>.plan</filename> din folderul personal."
 
 #. Tag: para
 #: index.docbook:24
@@ -73,9 +73,9 @@ msgid ""
 "Most Internet Service Providers no longer allow finger access, so, you may "
 "find that you get no useful answer for most people."
 msgstr ""
-"Aproape toţi furnizorii de servicii Internet nu mai permit demult acces "
-"finger. Din această cauză nu veţi obţine informaţii utile pentru cei mai "
-"mulţi dintre utilizatori."
+"Aproape toți furnizorii de servicii Internet nu mai permit demult acces "
+"finger. Din această cauză nu veți obține informații utile pentru cei mai "
+"mulți dintre utilizatori."
 
 #. Tag: para
 #: index.docbook:30
@@ -85,9 +85,9 @@ msgid ""
 "information as <acronym>PGP</acronym> keys, the fact they are on vacation, "
 "and all sorts of information."
 msgstr ""
-"Unele persoane utilizează fişierul <filename>.plan</filename> local pentru a "
-"stoca cheile <acronym>PGP</acronym>, să comunice că sînt în vacanţă şi multe "
-"alte felurite informaţii."
+"Unele persoane utilizează fișierul <filename>.plan</filename> local pentru a "
+"stoca cheile <acronym>PGP</acronym>, să comunice că sînt în vacanță și multe "
+"alte felurite informații."
 
 #. Tag: para
 #: index.docbook:34
@@ -97,7 +97,7 @@ msgid ""
 "<replaceable>username</replaceable>@<replaceable>hostname</replaceable></"
 "userinput>"
 msgstr ""
-"Utilizaţi dispozitivul de I/E finger în acest fel: <userinput>finger://"
+"Utilizați dispozitivul de I/E finger în acest fel: <userinput>finger://"
 "<replaceable>utilizator</replaceable>@<replaceable>numeserver</replaceable></"
 "userinput>"
 
@@ -105,4 +105,4 @@ msgstr ""
 #: index.docbook:37
 #, no-c-format
 msgid "See the manual: <ulink url=\"man:/finger\">finger</ulink>."
-msgstr "Citiţi pagina de manual: <ulink url=\"man:/finger\">finger</ulink>."
+msgstr "Citiți pagina de manual: <ulink url=\"man:/finger\">finger</ulink>."

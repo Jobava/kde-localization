@@ -43,11 +43,11 @@ msgid ""
 "The network terminal protocol (TELNET) allows a user to log in on any other "
 "computer on the network supporting TELNET."
 msgstr ""
-"Protocolul de terminal de reţea (TELNET) permite unui utilizator să se "
-"conecteze pe orice calculator din reţea care suportă TELNET."
+"Protocolul de terminal de rețea (TELNET) permite unui utilizator să se "
+"conecteze pe orice calculator din rețea care suportă TELNET."
 
 #. Tag: para
 #: index.docbook:21
 #, no-c-format
 msgid "See the manual: <ulink url=\"man:/telnet\">telnet</ulink>."
-msgstr "Citiţi pagina de manual: <ulink url=\"man:/telnet\">telnet</ulink>."
+msgstr "Citiți pagina de manual: <ulink url=\"man:/telnet\">telnet</ulink>."

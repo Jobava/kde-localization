@@ -43,8 +43,8 @@ msgid ""
 "The <emphasis>file</emphasis> protocol is used by all &kde; applications to "
 "display locally available files."
 msgstr ""
-"Protocolul <emphasis>file</emphasis> este utilizat de toate aplicaţiile "
-"&kde; pentru a afişa fişierele locale."
+"Protocolul <emphasis>file</emphasis> este utilizat de toate aplicațiile "
+"&kde; pentru a afișa fișierele locale."
 
 #. Tag: para
 #: index.docbook:21
@@ -53,5 +53,5 @@ msgid ""
 "Entering <userinput><command>file:/directoryname</command></userinput> in "
 "&konqueror; lists the files of this folder."
 msgstr ""
-"Dacă introduceţi <userinput><command>file:/numefolder</command></userinput> "
-"în &konqueror;, vor fi listate fişierele acelui folder."
+"Dacă introduceți <userinput><command>file:/numefolder</command></userinput> "
+"în &konqueror;, vor fi listate fișierele acelui folder."
