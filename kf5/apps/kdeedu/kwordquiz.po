@@ -2116,7 +2116,7 @@ msgstr "Selectează pentru a tipări flashcarduri"
 #~ msgstr "&5 %1 &lt;-&gt; %2 Aleator"
 
 #~ msgid "Rows & Columns"
-#~ msgstr "Linii şi coloane"
+#~ msgstr "Linii și coloane"
 
 #~ msgid "<qt>Cannot open file<br><b>%1</b></qt>"
-#~ msgstr "<qt>Nu am putut deschide fişierul<br><b>%1</b></qt>"
+#~ msgstr "<qt>Nu am putut deschide fișierul<br><b>%1</b></qt>"

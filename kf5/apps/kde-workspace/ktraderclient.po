@@ -3,7 +3,7 @@
 # Copyright (C) 2008 This_file_is_part_of_KDE
 # This file is distributed under the same license as the ktraderclient package.
 #
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2008".
 # Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
 # Sergiu Bivol <sergiu@ase.md>, 2008.
 msgid ""

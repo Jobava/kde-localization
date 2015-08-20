@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Sergiu Bivol <sergiu@ase.md>, 2009, 2012, 2013, 2014.
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2009.
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2009.
 # Cristian Buzduga <cristianbzdg@gmail.com>, 2011.
 # Cristian Oneț <onet.cristian@gmail.com>, 2011.
 msgid ""

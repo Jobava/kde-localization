@@ -165,7 +165,7 @@ msgstr "Toate &contactele"
 #| msgid "Import contacts from a GMX address book file."
 msgctxt "@info:tooltip"
 msgid "All contacts from all your address books"
-msgstr "Date de contact importate dintr-un fişier GMX."
+msgstr "Date de contact importate dintr-un fișier GMX."
 
 #: contactselectionwidget.cpp:108
 #, fuzzy
@@ -208,7 +208,7 @@ msgstr "Toate &contactele din:"
 #| msgid "Import contacts from a GMX address book file."
 msgctxt "@info:tooltip"
 msgid "All contacts from a chosen address book"
-msgstr "Date de contact importate dintr-un fişier GMX."
+msgstr "Date de contact importate dintr-un fișier GMX."
 
 #: contactselectionwidget.cpp:124
 msgctxt "@info:whatsthis"
@@ -421,8 +421,8 @@ msgstr "Contact &nou..."
 msgctxt "@info:whatsthis"
 msgid "You will be presented with a dialog where you can create a new contact."
 msgstr ""
-"Veţi primi un dialog în care puteţi configura comenzile rapide ale "
-"aplicaţiilor la nivel global."
+"Veți primi un dialog în care puteți configura comenzile rapide ale "
+"aplicațiilor la nivel global."
 
 #: kontactplugin/kaddressbook_plugin.cpp:61
 #, fuzzy
@@ -440,8 +440,8 @@ msgctxt "@info:whatsthis"
 msgid ""
 "You will be presented with a dialog where you can create a new contact group."
 msgstr ""
-"Veţi primi un dialog în care puteţi configura comenzile rapide ale "
-"aplicaţiilor la nivel global."
+"Veți primi un dialog în care puteți configura comenzile rapide ale "
+"aplicațiilor la nivel global."
 
 #: kontactplugin/kaddressbook_plugin.cpp:74
 #, fuzzy
@@ -472,7 +472,7 @@ msgstr ""
 #| msgid "Print the complete address book or a selected number of contacts."
 msgctxt "@info:whatsthis"
 msgid "Print the complete address book or a selected number of contacts."
-msgstr "Tipăreşte cartea de adrese complet sau un număr selectat de contacte."
+msgstr "Tipărește cartea de adrese complet sau un număr selectat de contacte."
 
 #: mainwidget.cpp:600
 msgid "Quick search"
@@ -493,11 +493,11 @@ msgstr "Selectează toate persoanele de contact din vizualizarea curentă."
 
 #: mainwidget.cpp:618
 msgid "Show QR Codes"
-msgstr "Afişare Coduri QR"
+msgstr "Afișare Coduri QR"
 
 #: mainwidget.cpp:619
 msgid "Show QR Codes in the contact."
-msgstr "Afişare Coduri QR în contact."
+msgstr "Afișare Coduri QR în contact."
 
 #: mainwidget.cpp:625
 msgctxt "@action:inmenu"
@@ -533,7 +533,7 @@ msgstr "&Importă fișier CSV..."
 #: mainwidget.cpp:654
 msgid "Import contacts from a file in comma separated value format."
 msgstr ""
-"Date de contact importate dintr-un fişier în format separat prin virgula."
+"Date de contact importate dintr-un fișier în format separat prin virgula."
 
 #: mainwidget.cpp:658
 msgid "Import LDIF file..."
@@ -559,7 +559,7 @@ msgstr "&Importă fisier GMX..."
 
 #: mainwidget.cpp:669
 msgid "Import contacts from a GMX address book file."
-msgstr "Date de contact importate dintr-un fişier GMX."
+msgstr "Date de contact importate dintr-un fișier GMX."
 
 #: mainwidget.cpp:674
 #, fuzzy
@@ -596,7 +596,7 @@ msgstr "&Exportă fișier CSV..."
 #: mainwidget.cpp:690
 msgid "Export contacts to a file in comma separated value format."
 msgstr ""
-"Export date de contact într-un fişier în formate separate prin virgulă."
+"Export date de contact într-un fișier în formate separate prin virgulă."
 
 #: mainwidget.cpp:694
 msgid "Export LDIF file..."
@@ -612,7 +612,7 @@ msgstr "Exportă &fișier GMX"
 
 #: mainwidget.cpp:700
 msgid "Export contacts to a GMX address book file."
-msgstr "Exportă date de contact într-un fişier GMX."
+msgstr "Exportă date de contact într-un fișier GMX."
 
 #: mainwidget.cpp:709
 #, fuzzy
@@ -677,8 +677,8 @@ msgid ""
 "You will be presented with a dialog where you can configure the application-"
 "wide shortcuts."
 msgstr ""
-"Veţi primi un dialog în care puteţi configura comenzile rapide ale "
-"aplicaţiilor la nivel global."
+"Veți primi un dialog în care puteți configura comenzile rapide ale "
+"aplicațiilor la nivel global."
 
 #: merge/manualmerge/mergecontactsdialog.cpp:46
 #: merge/searchduplicate/searchandmergecontactduplicatecontactdialog.cpp:41
@@ -697,7 +697,7 @@ msgstr "Selectează &contact"
 #, fuzzy
 #| msgid "Print the complete address book or a selected number of contacts."
 msgid "Select the addressbook in which to store merged contacts:"
-msgstr "Tipăreşte cartea de adrese complet sau un număr selectat de contacte."
+msgstr "Tipărește cartea de adrese complet sau un număr selectat de contacte."
 
 #: merge/manualmerge/mergecontactwidget.cpp:98
 #, fuzzy
@@ -736,7 +736,7 @@ msgstr "Unește"
 #| msgctxt "@info:status"
 #| msgid "You have to assign at least one column."
 msgid "You must select at least two elements."
-msgstr "Trebuie să alocaţi cel puţin o coloană."
+msgstr "Trebuie să alocați cel puțin o coloană."
 
 #: merge/widgets/mergecontacterrorlabel.cpp:32
 #, fuzzy
@@ -1264,7 +1264,7 @@ msgstr ""
 "Cum ar trebui sa arate imprimarea?\n"
 "KAddressBook are mai multe stiluri de imprimare, concepute pentru diferite "
 "scopuri.\n"
-"Alege stilul care se potriveşte nevoilor tale de mai jos.."
+"Alege stilul care se potrivește nevoilor tale de mai jos.."
 
 #: printing/stylepage.cpp:140
 #, fuzzy
@@ -1671,12 +1671,12 @@ msgstr "Microsoft Unicode"
 #| msgid "You have to assign at least one column."
 msgctxt "@info:status"
 msgid "You must assign at least one column."
-msgstr "Trebuie să alocaţi cel puţin o coloană."
+msgstr "Trebuie să alocați cel puțin o coloană."
 
 #: xxport/csv/csvimportdialog.cpp:621
 msgctxt "@label"
 msgid "There are no templates available yet."
-msgstr "Nu există şabloane disponibile încă."
+msgstr "Nu există șabloane disponibile încă."
 
 #: xxport/csv/csvimportdialog.cpp:622
 msgctxt "@title:window"
@@ -1691,7 +1691,7 @@ msgstr "Numele șablonului"
 #: xxport/csv/csvimportdialog.cpp:689
 msgctxt "@info"
 msgid "Please enter a name for the template:"
-msgstr "Vă rugăm să introduceţi un nume pentru şablon:"
+msgstr "Vă rugăm să introduceți un nume pentru șablon:"
 
 #: xxport/csv/csvimportdialog.cpp:738
 msgctxt "@info:status"
@@ -1706,21 +1706,21 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Do you really want to delete template '%1'?"
-msgstr "&Sigur doriţi să ştergeţi şablonul '%1'?..."
+msgstr "&Sigur doriți să ștergeți șablonul '%1'?..."
 
 #: xxport/csv/templateselectiondialog.cpp:212
 msgctxt "@title:window"
 msgid "Template Selection"
-msgstr "Format de selecţie"
+msgstr "Format de selecție"
 
 #: xxport/csv/templateselectiondialog.cpp:226
 msgctxt "@info"
 msgid "Please select a template, that matches the CSV file:"
-msgstr "Vă rugăm să selectaţi un şablon, care se potriveşte fişier CSV:"
+msgstr "Vă rugăm să selectați un șablon, care se potrivește fișier CSV:"
 
 #: xxport/gmx/gmx_xxport.cpp:98
 msgid "GMX address book file (*.gmxa)"
-msgstr " Fişier GMX de adrese (*. gmxa)"
+msgstr " Fișier GMX de adrese (*. gmxa)"
 
 #: xxport/gmx/gmx_xxport.cpp:138 xxport/ldif/ldif_xxport.cpp:78
 #, kde-format
@@ -1730,7 +1730,7 @@ msgstr "<qt>Imposibil de deschis <b>%1</b> pentru a citi.</qt>"
 #: xxport/gmx/gmx_xxport.cpp:153
 #, kde-format
 msgid "%1 is not a GMX address book file."
-msgstr "%1 nu este un fişier GMX din cartea de adrese."
+msgstr "%1 nu este un fișier GMX din cartea de adrese."
 
 #: xxport/ldif/ldif_xxport.cpp:71
 #, kde-format
@@ -1747,8 +1747,8 @@ msgid ""
 "You have selected a list of contacts, shall they be exported to several "
 "files?"
 msgstr ""
-"Aţi selectat o listă de contacte, doriți sa fie exportate în mai multe "
-"fişiere?"
+"Ați selectat o listă de contacte, doriți sa fie exportate în mai multe "
+"fișiere?"
 
 #: xxport/vcard/vcard_xxport.cpp:97
 #, fuzzy
@@ -1954,7 +1954,7 @@ msgstr "&Importă listă..."
 #| msgid "Do you want to import this contact into your address book?"
 msgctxt "@info"
 msgid "Do you want to import this contact into your address book?"
-msgstr "Doriţi să importaţi acest contact in agenda?"
+msgstr "Doriți să importați acest contact in agenda?"
 
 #: xxport/vcard/vcardviewerdialog.cpp:67
 #, fuzzy
@@ -1970,7 +1970,7 @@ msgstr "Selectați cartea de adrese"
 #: xxport/xxportmanager.cpp:126
 msgid "Select the address book the imported contact(s) shall be saved in:"
 msgstr ""
-"Selectaţi agenda de adrese de contact importat(e) care trebuisc să fie "
+"Selectați agenda de adrese de contact importat(e) care trebuisc să fie "
 "salvate în:"
 
 #: xxport/xxportmanager.cpp:139
@@ -1999,7 +1999,7 @@ msgstr "Nu ați selectat nici un contact la export."
 #~ "<filename>%1</filename>:</para><para>%2</para>"
 #~ msgstr ""
 #~ "<para> La incercarea de citire a listei, a existat o eroare la "
-#~ "deschiderea fişierului <filename>%1</filename>: </para> <para>%2 </para>"
+#~ "deschiderea fișierului <filename>%1</filename>: </para> <para>%2 </para>"
 
 #, fuzzy
 #~ msgid "Merged Contact"
@@ -2074,23 +2074,23 @@ msgstr "Nu ați selectat nici un contact la export."
 #~ msgstr "nu"
 
 #~ msgid "Do you want to overwrite file \"%1\""
-#~ msgstr "Doriţi să suprascrieţi fişierul  \"%1 \""
+#~ msgstr "Doriți să suprascrieți fișierul  \"%1 \""
 
 #, fuzzy
 #~| msgid "Do you want to overwrite file \"%1\""
 #~ msgctxt "@info"
 #~ msgid "Do you want to overwrite file \"%1\""
-#~ msgstr "Doriţi să suprascrieţi fişierul  \"%1 \""
+#~ msgstr "Doriți să suprascrieți fișierul  \"%1 \""
 
 #~ msgid "Show Simple View"
-#~ msgstr "Afişare vizualizarea simplă"
+#~ msgstr "Afișare vizualizarea simplă"
 
 #~ msgid "Click on the color button to change the header's text color."
 #~ msgstr ""
 #~ "Apasa pe butonul de culoare pentru a schimba culoarea textului din antet."
 
 #~ msgid "Select the fields which shall be exported in the vCard."
-#~ msgstr "Selectaţi câmpurile care vor fi exportate în lista."
+#~ msgstr "Selectați câmpurile care vor fi exportate în lista."
 
 #, fuzzy
 #~ msgid "Show Address Books View"

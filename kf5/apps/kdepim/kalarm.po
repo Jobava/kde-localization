@@ -1436,8 +1436,8 @@ msgid ""
 "Check to log the command output to a local file. The output will be appended "
 "to any existing contents of the file."
 msgstr ""
-"Verificați dacă ați setat comanda de ieşire la un fişier local.Ieşirea va fi "
-"atribuită oricărui fişier conținut."
+"Verificați dacă ați setat comanda de ieșire la un fișier local.Ieșirea va fi "
+"atribuită oricărui fișier conținut."
 
 #: editdlgtypes.cpp:824
 msgctxt "@option:radio"

@@ -40,13 +40,13 @@ msgstr ""
 #, fuzzy
 #| msgid "Edit the selected incidence."
 msgid "Error while removing relations."
-msgstr "Editaţi incidenţa selectată."
+msgstr "Editați incidența selectată."
 
 #: calendarclipboard.cpp:180
 #, fuzzy, kde-format
 #| msgid "Edit the selected incidence."
 msgid "Error while deleting incidences: %1"
-msgstr "Editaţi incidenţa selectată."
+msgstr "Editați incidența selectată."
 
 #: calendarclipboard.cpp:204
 #, kde-format
@@ -63,14 +63,14 @@ msgstr ""
 #, fuzzy
 #| msgid "Copy Journal To"
 msgid "Cut Only This"
-msgstr "Copiaţi Jurnal La"
+msgstr "Copiați Jurnal La"
 
 #: calendarclipboard.cpp:211
 #, fuzzy
 #| msgid "Copy Journal"
 #| msgid_plural "Copy %1 Journals"
 msgid "Cut All"
-msgstr "Copiaţi %1 Jurnal"
+msgstr "Copiați %1 Jurnal"
 
 #: calendarclipboard.cpp:245
 #, kde-format
@@ -83,14 +83,14 @@ msgstr ""
 #, fuzzy
 #| msgid "Copy Journal To"
 msgid "Copy Only This"
-msgstr "Copiaţi Jurnal La"
+msgstr "Copiați Jurnal La"
 
 #: calendarclipboard.cpp:251
 #, fuzzy
 #| msgid "Copy Journal"
 #| msgid_plural "Copy %1 Journals"
 msgid "Copy All"
-msgstr "Copiaţi %1 Jurnal"
+msgstr "Copiați %1 Jurnal"
 
 #: calendarmodel.cpp:219
 msgctxt "@title:column calendar event summary"
@@ -379,7 +379,7 @@ msgstr "Folderul calendar nu a putut fi creat:%1"
 #, fuzzy, kde-format
 #| msgid "Could not delete calendar folder: %1"
 msgid "Error while trying to delete calendar item. Error was: %1"
-msgstr "Folderul calendar nu a putut fi şters:%1"
+msgstr "Folderul calendar nu a putut fi șters:%1"
 
 #: incidencechanger.cpp:421
 msgctxt "errormessage for a job ended with an unexpected result"
@@ -390,7 +390,7 @@ msgstr ""
 #, fuzzy, kde-format
 #| msgid "Could not delete calendar folder: %1"
 msgid "Error while trying to modify calendar item. Error was: %1"
-msgstr "Folderul calendar nu a putut fi şters:%1"
+msgstr "Folderul calendar nu a putut fi șters:%1"
 
 #: incidencechanger.cpp:874 incidencechanger.cpp:1000
 msgid "That calendar item was already deleted, or currently being deleted."
@@ -664,7 +664,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Edit the selected incidence."
 msgid "Error while creating transport"
-msgstr "Editaţi incidenţa selectată."
+msgstr "Editați incidența selectată."
 
 #: mailclient_p.cpp:230
 msgid "Error fetching transport. Unable to send invitations"
@@ -826,7 +826,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Edit the selected incidence."
 msgid "Error modifying incidence"
-msgstr "Editaţi incidenţa selectată."
+msgstr "Editați incidența selectată."
 
 #: scheduler_p.cpp:307
 msgctxt "@info"
@@ -850,7 +850,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Edit the selected incidence."
 msgid "Error adding incidence"
-msgstr "Editaţi incidenţa selectată."
+msgstr "Editați incidența selectată."
 
 #: scheduler_p.cpp:358
 msgid "Could not find incidence to delete."
@@ -860,7 +860,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Edit the selected incidence."
 msgid "Error recording exception"
-msgstr "Editaţi incidenţa selectată."
+msgstr "Editați incidența selectată."
 
 #: scheduler_p.cpp:432
 msgctxt "@info"

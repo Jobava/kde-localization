@@ -24635,12 +24635,12 @@ msgstr "Arad"
 
 #: romania.kgm:33
 msgctxt "romania.kgm"
-msgid "Argeş"
+msgid "Argeș"
 msgstr "Argeș"
 
 #: romania.kgm:34
 msgctxt "romania.kgm"
-msgid "Piteşti"
+msgid "Pitești"
 msgstr "Pitești"
 
 #: romania.kgm:38 romania.kgm:39
@@ -24660,22 +24660,22 @@ msgstr "Oradea"
 
 #: romania.kgm:48
 msgctxt "romania.kgm"
-msgid "Bistriţa-Năsăud"
+msgid "Bistrița-Năsăud"
 msgstr "Bistrița-Năsăud"
 
 #: romania.kgm:49
 msgctxt "romania.kgm"
-msgid "Bistriţa"
+msgid "Bistrița"
 msgstr "Bistrița"
 
 #: romania.kgm:53 romania.kgm:54
 msgctxt "romania.kgm"
-msgid "Botoşani"
+msgid "Botoșani"
 msgstr "Botoșani"
 
 #: romania.kgm:58 romania.kgm:59
 msgctxt "romania.kgm"
-msgid "Braşov"
+msgid "Brașov"
 msgstr "Brașov"
 
 #: romania.kgm:63 romania.kgm:64
@@ -24690,17 +24690,17 @@ msgstr "Buzău"
 
 #: romania.kgm:73
 msgctxt "romania.kgm"
-msgid "Caraş-Severin"
+msgid "Caraș-Severin"
 msgstr "Caraș-Severin"
 
 #: romania.kgm:74
 msgctxt "romania.kgm"
-msgid "Reşiţa"
+msgid "Reșița"
 msgstr "Reșița"
 
 #: romania.kgm:78 romania.kgm:79
 msgctxt "romania.kgm"
-msgid "Călăraşi"
+msgid "Călărași"
 msgstr "Călărași"
 
 #: romania.kgm:83
@@ -24715,7 +24715,7 @@ msgstr "Cluj-Napoca"
 
 #: romania.kgm:88 romania.kgm:89
 msgctxt "romania.kgm"
-msgid "Constanţa"
+msgid "Constanța"
 msgstr "Constanța"
 
 #: romania.kgm:93
@@ -24730,12 +24730,12 @@ msgstr "Sfântu Gheorghe"
 
 #: romania.kgm:98
 msgctxt "romania.kgm"
-msgid "Dâmboviţa"
+msgid "Dâmbovița"
 msgstr "Dâmbovița"
 
 #: romania.kgm:99
 msgctxt "romania.kgm"
-msgid "Târgovişte"
+msgid "Târgoviște"
 msgstr "Târgoviște"
 
 #: romania.kgm:103
@@ -24750,7 +24750,7 @@ msgstr "Craiova"
 
 #: romania.kgm:108 romania.kgm:109
 msgctxt "romania.kgm"
-msgid "Galaţi"
+msgid "Galați"
 msgstr "Galați"
 
 #: romania.kgm:113 romania.kgm:114
@@ -24790,7 +24790,7 @@ msgstr "Deva"
 
 #: romania.kgm:133
 msgctxt "romania.kgm"
-msgid "Ialomiţa"
+msgid "Ialomița"
 msgstr "Ialomița"
 
 #: romania.kgm:134
@@ -24800,7 +24800,7 @@ msgstr "Slobozia"
 
 #: romania.kgm:138 romania.kgm:139
 msgctxt "romania.kgm"
-msgid "Iaşi"
+msgid "Iași"
 msgstr "Iași"
 
 #: romania.kgm:143
@@ -24815,7 +24815,7 @@ msgstr "Buftea"
 
 #: romania.kgm:148
 msgctxt "romania.kgm"
-msgid "Maramureş"
+msgid "Maramureș"
 msgstr "Maramureș"
 
 #: romania.kgm:149
@@ -24825,7 +24825,7 @@ msgstr "Baia Mare"
 
 #: romania.kgm:153
 msgctxt "romania.kgm"
-msgid "Mehedinţi"
+msgid "Mehedinți"
 msgstr "Mehedinți"
 
 #: romania.kgm:154
@@ -24835,22 +24835,22 @@ msgstr "Drobeta-Turnu Severin"
 
 #: romania.kgm:158
 msgctxt "romania.kgm"
-msgid "Mureş"
+msgid "Mureș"
 msgstr "Mureș"
 
 #: romania.kgm:159
 msgctxt "romania.kgm"
-msgid "Târgu Mureş"
+msgid "Târgu Mureș"
 msgstr "Târgu Mureș"
 
 #: romania.kgm:163
 msgctxt "romania.kgm"
-msgid "Neamţ"
+msgid "Neamț"
 msgstr "Neamț"
 
 #: romania.kgm:164
 msgctxt "romania.kgm"
-msgid "Piatra Neamţ"
+msgid "Piatra Neamț"
 msgstr "Piatra Neamț"
 
 #: romania.kgm:168
@@ -24870,7 +24870,7 @@ msgstr "Prahova"
 
 #: romania.kgm:174
 msgctxt "romania.kgm"
-msgid "Ploieşti"
+msgid "Ploiești"
 msgstr "Ploiești"
 
 #: romania.kgm:178 romania.kgm:179
@@ -24910,12 +24910,12 @@ msgstr "Alexandria"
 
 #: romania.kgm:203
 msgctxt "romania.kgm"
-msgid "Timiş"
+msgid "Timiș"
 msgstr "Timiș"
 
 #: romania.kgm:204
 msgctxt "romania.kgm"
-msgid "Timişoara"
+msgid "Timișoara"
 msgstr "Timișoara"
 
 #: romania.kgm:208 romania.kgm:209
@@ -24945,12 +24945,12 @@ msgstr "Vrancea"
 
 #: romania.kgm:224
 msgctxt "romania.kgm"
-msgid "Focşani"
+msgid "Focșani"
 msgstr "Focșani"
 
 #: romania.kgm:228
 msgctxt "romania.kgm"
-msgid "Bucureşti"
+msgid "București"
 msgstr "București"
 
 #: romania.kgm:229
@@ -29136,7 +29136,7 @@ msgstr "Erzurum"
 
 #: turkey.kgm:148 turkey.kgm:149
 msgctxt "turkey.kgm"
-msgid "Eskişehir"
+msgid "Eskișehir"
 msgstr "Eskișehir"
 
 #: turkey.kgm:153 turkey.kgm:154
@@ -29151,7 +29151,7 @@ msgstr "Giresun"
 
 #: turkey.kgm:163 turkey.kgm:164
 msgctxt "turkey.kgm"
-msgid "Gümüşhane"
+msgid "Gümüșhane"
 msgstr "Gümüșhane"
 
 #: turkey.kgm:168 turkey.kgm:169
@@ -29211,7 +29211,7 @@ msgstr "Kırklareli"
 
 #: turkey.kgm:218 turkey.kgm:219
 msgctxt "turkey.kgm"
-msgid "Kırşehir"
+msgid "Kırșehir"
 msgstr "Kırșehir"
 
 #: turkey.kgm:223
@@ -29246,7 +29246,7 @@ msgstr "Manisa"
 
 #: turkey.kgm:248 turkey.kgm:249
 msgctxt "turkey.kgm"
-msgid "Kahramanmaraş"
+msgid "Kahramanmaraș"
 msgstr "Kahramanmaraș"
 
 #: turkey.kgm:253 turkey.kgm:254
@@ -29261,12 +29261,12 @@ msgstr "Muğla"
 
 #: turkey.kgm:263 turkey.kgm:264
 msgctxt "turkey.kgm"
-msgid "Muş"
+msgid "Muș"
 msgstr "Muș"
 
 #: turkey.kgm:268 turkey.kgm:269
 msgctxt "turkey.kgm"
-msgid "Nevşehir"
+msgid "Nevșehir"
 msgstr "Nevșehir"
 
 #: turkey.kgm:273 turkey.kgm:274
@@ -29336,12 +29336,12 @@ msgstr "Tunceli"
 
 #: turkey.kgm:333 turkey.kgm:334
 msgctxt "turkey.kgm"
-msgid "Şanlıurfa"
+msgid "Șanlıurfa"
 msgstr "Șanlıurfa"
 
 #: turkey.kgm:338 turkey.kgm:339
 msgctxt "turkey.kgm"
-msgid "Uşak"
+msgid "Ușak"
 msgstr "Ușak"
 
 #: turkey.kgm:343 turkey.kgm:344
@@ -29386,7 +29386,7 @@ msgstr "Batman"
 
 #: turkey.kgm:383 turkey.kgm:384
 msgctxt "turkey.kgm"
-msgid "Şırnak"
+msgid "Șırnak"
 msgstr "Șırnak"
 
 #: turkey.kgm:388 turkey.kgm:389

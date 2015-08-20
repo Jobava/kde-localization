@@ -4,7 +4,7 @@
 #
 # Sergiu Bivol <sergiu@ase.md>, 2008, 2009, 2012, 2014.
 # Florin Cătălin RUSSEN <cfrussen@yahoo.co.uk>, 2009, 2011.
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2009.
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2009.
 # Cristian Oneț <onet.cristian@gmail.com>, 2011.
 msgid ""
 msgstr ""
@@ -3216,7 +3216,7 @@ msgstr "Prieten fals"
 #: src/tm/qaview.cpp:37
 msgctxt "@title:window"
 msgid "Quality Assurance"
-msgstr "Asigurarea calităţii"
+msgstr "Asigurarea calității"
 
 #: src/tm/qaview.cpp:51
 msgctxt "@action:inmenu"

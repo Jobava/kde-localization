@@ -359,7 +359,7 @@ msgstr "Poziție"
 #| msgid "Height"
 msgctxt "KRSectionData|"
 msgid "Height"
-msgstr "Înălţime"
+msgstr "Înălțime"
 
 #: common/krsectiondata.cpp:110
 #, fuzzy
@@ -380,7 +380,7 @@ msgstr "Dimensiune"
 #| msgid "Cross"
 msgctxt "KoReportItemCheck|"
 msgid "Cross"
-msgstr "Încrucişare"
+msgstr "Încrucișare"
 
 #: items/check/KoReportItemCheck.cpp:81
 #, fuzzy
@@ -578,7 +578,7 @@ msgstr "Încadrare cuvinte"
 #| msgid "Can Grow"
 msgctxt "KoReportItemField|"
 msgid "Can Grow"
-msgstr "Poate creşte"
+msgstr "Poate crește"
 
 #: items/image/KoReportItemImage.cpp:118
 #, fuzzy
@@ -880,7 +880,7 @@ msgstr "Afișează antet grup"
 #| msgid "Show Group Footer"
 msgctxt "DetailGroupSectionDialog|"
 msgid "Show group footer:"
-msgstr "Afişează subsol grup"
+msgstr "Afișează subsol grup"
 
 #: wrtembed/detailgroupsectiondialog.ui:94
 #, fuzzy
@@ -1041,21 +1041,21 @@ msgstr "Unitate pagină"
 #| msgid "Show Grid"
 msgctxt "KoReportDesigner|"
 msgid "Show Grid"
-msgstr "Afișează reţea"
+msgstr "Afișează rețea"
 
 #: wrtembed/KoReportDesigner.cpp:746
 #, fuzzy
 #| msgid "Snap to Grid"
 msgctxt "KoReportDesigner|"
 msgid "Snap to Grid"
-msgstr "Îmbinare la reţea"
+msgstr "Îmbinare la rețea"
 
 #: wrtembed/KoReportDesigner.cpp:747
 #, fuzzy
 #| msgid "Grid Divisions"
 msgctxt "KoReportDesigner|"
 msgid "Grid Divisions"
-msgstr "Diviziuni reţea"
+msgstr "Diviziuni rețea"
 
 #: wrtembed/KoReportDesigner.cpp:750
 #, fuzzy
@@ -1111,7 +1111,7 @@ msgstr "Copiază"
 #| msgid "Paste"
 msgctxt "KoReportDesigner|"
 msgid "Paste"
-msgstr "Lipeşte"
+msgstr "Lipește"
 
 #: wrtembed/KoReportDesigner.cpp:956
 #, fuzzy
@@ -1155,7 +1155,7 @@ msgstr "Salvează documentul ca"
 #| msgid "Paste"
 msgctxt "KoReportDesigner|"
 msgid "&Paste"
-msgstr "Lipeşte"
+msgstr "Lipește"
 
 #: wrtembed/KoReportDesigner.cpp:1389
 msgctxt "KoReportDesigner|"
@@ -1215,7 +1215,7 @@ msgstr "%1%"
 #| msgid "Fit Page Width"
 msgctxt "KReportZoomMode|"
 msgid "Fit Page Width"
-msgstr "Potrivire la lăţimea paginii"
+msgstr "Potrivire la lățimea paginii"
 
 #: wrtembed/KReportZoomMode.cpp:29
 #, fuzzy
@@ -1236,7 +1236,7 @@ msgstr "Pixeli actuali"
 #| msgid "Fit Page Width"
 msgctxt "KReportZoomMode|"
 msgid "Fit Text Width"
-msgstr "Potrivire la lăţimea paginii"
+msgstr "Potrivire la lățimea paginii"
 
 #: wrtembed/reportpropertiesbutton.cpp:26
 msgctxt "ReportPropertiesButton|"
@@ -1253,8 +1253,8 @@ msgid ""
 "A button that allows a report's surface to be selected, allowing its "
 "properties to be seen."
 msgstr ""
-"Un buton care permite selectarea suprafeţei unui raport, permiţând "
-"proprietăţilor sale să fie văzute."
+"Un buton care permite selectarea suprafeței unui raport, permițând "
+"proprietăților sale să fie văzute."
 
 #: wrtembed/reportsection.cpp:122
 #, fuzzy
@@ -1322,7 +1322,7 @@ msgstr "Afișează antet grup"
 #| msgid "Show Group Footer"
 msgctxt "SectionEditor|"
 msgid "Show report footer"
-msgstr "Afişează subsol grup"
+msgstr "Afișează subsol grup"
 
 #: wrtembed/sectioneditor.ui:43
 #, fuzzy
@@ -1377,7 +1377,7 @@ msgstr "Subsol pagină"
 #| msgid "Group Sections"
 msgctxt "SectionEditor|"
 msgid "Group Sections"
-msgstr "Secţiuni grup"
+msgstr "Secțiuni grup"
 
 #, fuzzy
 #~| msgid "Script Interpreter"
@@ -1409,7 +1409,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Delta unghi îmbinare"
 
 #~ msgid "Angle Constraints"
-#~ msgstr "Restricţii unghi"
+#~ msgstr "Restricții unghi"
 
 #, fuzzy
 #~| msgid "Position:"
@@ -1460,7 +1460,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Cannot create storage"
 #~ msgid "Cannot create table without fields."
-#~ msgstr "Nu s-a putut crea spaţiul de stocare"
+#~ msgstr "Nu s-a putut crea spațiul de stocare"
 
 #, fuzzy
 #~| msgid "Could not read the package \"%1\"."
@@ -1482,13 +1482,13 @@ msgstr "Secţiuni grup"
 #~| "installed."
 #~ msgid "Could not alter table \"%1\" using the same table as destination."
 #~ msgstr ""
-#~ "Nu s-a putut şterge pachetul-script \"%1\" deoarece scriptul nu este "
+#~ "Nu s-a putut șterge pachetul-script \"%1\" deoarece scriptul nu este "
 #~ "instalat."
 
 #, fuzzy
 #~| msgid "Could not read the beginning of the file."
 #~ msgid "Could not rename table \"%1\" using the same name."
-#~ msgstr "Nu s-a putut citi inceputul fişierului."
+#~ msgstr "Nu s-a putut citi inceputul fișierului."
 
 #, fuzzy
 #~| msgid "The file %1 does not exist."
@@ -1556,7 +1556,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Could not read the beginning of the file."
 #~ msgid "Could not read database properties."
-#~ msgstr "Nu s-a putut citi inceputul fişierului."
+#~ msgstr "Nu s-a putut citi inceputul fișierului."
 
 #, fuzzy
 #~| msgid "Could not read the package \"%1\"."
@@ -1581,7 +1581,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Could not create the file for saving"
 #~ msgid "Could not access the table directly using its name"
-#~ msgstr "Nu s-a putut crea fişierul pentru salvare "
+#~ msgstr "Nu s-a putut crea fișierul pentru salvare "
 
 #, fuzzy
 #~| msgid "File not found"
@@ -1605,7 +1605,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Increase Value"
 #~ msgid "Yes/No Value"
-#~ msgstr "Creşte valoare"
+#~ msgstr "Crește valoare"
 
 #~ msgid "Date"
 #~ msgstr "Dată"
@@ -1690,7 +1690,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Error deleting layers"
 #~ msgid "Record deleting failed."
-#~ msgstr "Eroare ştergere layere"
+#~ msgstr "Eroare ștergere layere"
 
 #, fuzzy
 #~| msgctxt "(qtundo-format)"
@@ -1714,7 +1714,7 @@ msgstr "Secţiuni grup"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Convert to Path"
-#~ msgstr "Converteşte în cale"
+#~ msgstr "Convertește în cale"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Break subpath at points"
@@ -1797,9 +1797,9 @@ msgstr "Secţiuni grup"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Delete shape"
 #~ msgid_plural "Delete shapes"
-#~ msgstr[0] "Şterge formă"
-#~ msgstr[1] "Şterge formă"
-#~ msgstr[2] "Şterge formă"
+#~ msgstr[0] "Șterge formă"
+#~ msgstr[1] "Șterge formă"
+#~ msgstr[2] "Șterge formă"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Distribute shapes"
@@ -1815,7 +1815,7 @@ msgstr "Secţiuni grup"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Keep Aspect Ratio"
-#~ msgstr "Păstrează proporţie aspect"
+#~ msgstr "Păstrează proporție aspect"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Lock shapes"
@@ -1829,7 +1829,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Rename Shape"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Rename Shape"
-#~ msgstr "Redenumeşte forme"
+#~ msgstr "Redenumește forme"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Reorder shapes"
@@ -1883,7 +1883,7 @@ msgstr "Secţiuni grup"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Join subpaths"
-#~ msgstr "Uneşte căi eferente"
+#~ msgstr "Unește căi eferente"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Remove subpath"
@@ -1905,7 +1905,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "O legătură dintre alte două forme"
 
 #~ msgid "Shows or hides grid"
-#~ msgstr "Afişează sau ascunde reţea"
+#~ msgstr "Afișează sau ascunde rețea"
 
 #~ msgid "Simple path shape"
 #~ msgstr "Contur simplu cale"
@@ -1918,7 +1918,7 @@ msgstr "Secţiuni grup"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Paste Shapes"
-#~ msgstr "Lipeşte forme"
+#~ msgstr "Lipește forme"
 
 #~ msgid "Active tool: %1"
 #~ msgstr "Instrument activ: %1"
@@ -1929,7 +1929,7 @@ msgstr "Secţiuni grup"
 #~| msgid_plural "Paste Pages"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Paste Image"
-#~ msgstr "Lipeşte pagină"
+#~ msgstr "Lipește pagină"
 
 #~ msgid "Nodes"
 #~ msgstr "Noduri"
@@ -1941,7 +1941,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Se asociază cutia de forme"
 
 #~ msgid "Proximity distance where snapping happens"
-#~ msgstr "Distnaţă proximlă unde are loc îmbinarea"
+#~ msgstr "Distnață proximlă unde are loc îmbinarea"
 
 #~ msgid " px"
 #~ msgstr "px"
@@ -1950,7 +1950,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Ortogonal"
 
 #~ msgid "Intersection of lines"
-#~ msgstr "Intersecţia liniilor"
+#~ msgstr "Intersecția liniilor"
 
 #~ msgid "Guide lines"
 #~ msgstr "Linii ghid"
@@ -1969,7 +1969,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Schimbă segmentul"
 
 #~ msgid "Corner point"
-#~ msgstr "Punct colţ"
+#~ msgstr "Punct colț"
 
 #~ msgid "Smooth point"
 #~ msgstr "Punct neted"
@@ -2002,7 +2002,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Întrerupe la segment"
 
 #~ msgid "Join with segment"
-#~ msgstr "Uneşte cu segment"
+#~ msgstr "Unește cu segment"
 
 #~ msgid "Merge points"
 #~ msgstr "Îmbină puncte"
@@ -2018,17 +2018,17 @@ msgstr "Secţiuni grup"
 
 #~ msgid "Drag to move point. Shift click to change point type."
 #~ msgstr ""
-#~ "Trageţi pentru a mişca punctul. Shift click pentru a schimba tipul "
+#~ "Trageți pentru a mișca punctul. Shift click pentru a schimba tipul "
 #~ "punctului."
 
 #~ msgid "Drag to move control point."
-#~ msgstr "Trageţi pentru a mişca punctul de control."
+#~ msgstr "Trageți pentru a mișca punctul de control."
 
 #~ msgid "Press B to break path at selected point."
-#~ msgstr "Apăsaţi B pentru a întrerupe calea la punctul selectat."
+#~ msgstr "Apăsați B pentru a întrerupe calea la punctul selectat."
 
 #~ msgid "Press B to break path at selected segments."
-#~ msgstr "Apăsaţi B pentru a întrerupe calea la segmentul selectat."
+#~ msgstr "Apăsați B pentru a întrerupe calea la segmentul selectat."
 
 #, fuzzy
 #~| msgid "Path editing tool"
@@ -2057,13 +2057,13 @@ msgstr "Secţiuni grup"
 #~ msgstr "Gestionar scripturi"
 
 #~ msgid "Execute Script File..."
-#~ msgstr "Execută fişierul-script..."
+#~ msgstr "Execută fișierul-script..."
 
 #~ msgid "Script Manager..."
 #~ msgstr "Gestionar scripturi..."
 
 #~ msgid "Execute Script File"
-#~ msgstr "Execută fişier-script"
+#~ msgstr "Execută fișier-script"
 
 #~ msgid "Install Script Package"
 #~ msgstr "Instalează pachet-script"
@@ -2072,46 +2072,46 @@ msgstr "Secţiuni grup"
 #~ msgstr "Nu s-a putut citi pachetul \"%1\"."
 
 #~ msgid "The package \"%1\" does not contain a valid install.rc file."
-#~ msgstr "Pachetul \"%1\" nu conţine un fişier valid de tip install.rc."
+#~ msgstr "Pachetul \"%1\" nu conține un fișier valid de tip install.rc."
 
 #~ msgid "Failed to parse the install.rc file at package \"%1\"."
-#~ msgstr "Nu s-a putut parcurge fişierul install.rc din pachetul \"%1\"."
+#~ msgstr "Nu s-a putut parcurge fișierul install.rc din pachetul \"%1\"."
 
 #~ msgid ""
 #~ "Failed to determinate location where the package \"%1\" should be "
 #~ "installed to."
 #~ msgstr ""
-#~ "Nu s-a putut deterermina locaţia în care fişierul \"%1\" ar trebui să fie "
+#~ "Nu s-a putut deterermina locația în care fișierul \"%1\" ar trebui să fie "
 #~ "instalat."
 
 #~ msgid ""
 #~ "A script package with the name \"%1\" already exists. Replace this "
 #~ "package?"
-#~ msgstr "Există deja un pachet-script cu numele \"%1\". Înlocuiţi pachetul?"
+#~ msgstr "Există deja un pachet-script cu numele \"%1\". Înlocuiți pachetul?"
 
 #~ msgid "Replace"
-#~ msgstr "Înlocuieşte"
+#~ msgstr "Înlocuiește"
 
 #~ msgid ""
 #~ "Could not uninstall this script package. You may not have sufficient "
 #~ "permissions to delete the folder \"%1\"."
 #~ msgstr ""
-#~ "Nu s-a putut dezinstala pachetul-script. Este posibil să nu aveţi "
-#~ "persmisiunea de a şterge acest dosar \"%1\"."
+#~ "Nu s-a putut dezinstala pachetul-script. Este posibil să nu aveți "
+#~ "persmisiunea de a șterge acest dosar \"%1\"."
 
 #~ msgid ""
 #~ "Could not uninstall the script package \"%1\" since the script is not "
 #~ "installed."
 #~ msgstr ""
-#~ "Nu s-a putut şterge pachetul-script \"%1\" deoarece scriptul nu este "
+#~ "Nu s-a putut șterge pachetul-script \"%1\" deoarece scriptul nu este "
 #~ "instalat."
 
 #~ msgid ""
 #~ "Could not uninstall the script package \"%1\". You may not have "
 #~ "sufficient permissions to delete the folder \"%1\"."
 #~ msgstr ""
-#~ "Nu s-a putut dezinstala pachetul-script \"%1\". Este posibil să nu aveţi "
-#~ "persmisiunea de a şterge acest dosar \"%1\". "
+#~ "Nu s-a putut dezinstala pachetul-script \"%1\". Este posibil să nu aveți "
+#~ "persmisiunea de a șterge acest dosar \"%1\". "
 
 #~ msgid "Save"
 #~ msgstr "Salvează"
@@ -2124,13 +2124,13 @@ msgstr "Secţiuni grup"
 #~ "resurse la scripturile dumneavoastră</qt>"
 
 #~ msgid "Add script file"
-#~ msgstr "Adaugă fişier-script"
+#~ msgstr "Adaugă fișier-script"
 
 #~ msgid "Add collection folder"
-#~ msgstr "Adaugă folder colecţie"
+#~ msgstr "Adaugă folder colecție"
 
 #~ msgid "Install script package file"
-#~ msgstr "Instalare fişier pachet-script"
+#~ msgstr "Instalare fișier pachet-script"
 
 #~ msgid "Install online script package"
 #~ msgstr "Instalează pachetul-script online."
@@ -2145,7 +2145,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Script"
 
 #~ msgid "Collection"
-#~ msgstr "Colecţie"
+#~ msgstr "Colecție"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Change master slide"
@@ -2161,15 +2161,15 @@ msgstr "Secţiuni grup"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Display master background"
-#~ msgstr "Afişează fundal parinte"
+#~ msgstr "Afișează fundal parinte"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Display slide background"
-#~ msgstr "Afişează fundal slide"
+#~ msgstr "Afișează fundal slide"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Display page background"
-#~ msgstr "Afişează fundalul paginii"
+#~ msgstr "Afișează fundalul paginii"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Show master shapes"
@@ -2182,7 +2182,7 @@ msgstr "Secţiuni grup"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Delete slide"
 #~ msgid_plural "Delete slides"
-#~ msgstr[0] "Şterge slide"
+#~ msgstr[0] "Șterge slide"
 #~ msgstr[1] "Textul &selectat"
 #~ msgstr[2] "Textul &selectat"
 
@@ -2222,7 +2222,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Diverse"
 
 #~ msgid "Grid"
-#~ msgstr "Reţea"
+#~ msgstr "Rețea"
 
 #~ msgctxt "@title:tab Document settings page"
 #~ msgid "Document"
@@ -2241,13 +2241,13 @@ msgstr "Secţiuni grup"
 #~ msgstr "Autor"
 
 #~ msgid "Select a master slide design:"
-#~ msgstr "Selectaţi un design părinte pentru slide:"
+#~ msgstr "Selectați un design părinte pentru slide:"
 
 #~ msgid "Master Slide"
 #~ msgstr "Slide părinte"
 
 #~ msgid "Select a master page design:"
-#~ msgstr "Selectaţi o pagină părinte pentru slide:"
+#~ msgstr "Selectați o pagină părinte pentru slide:"
 
 #~ msgid "Master Page"
 #~ msgstr "Pagină părinte"
@@ -2271,19 +2271,19 @@ msgstr "Secţiuni grup"
 #~| msgid "Rename Slide"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Rename Slide"
-#~ msgstr "Redenumeşte slide"
+#~ msgstr "Redenumește slide"
 
 #, fuzzy
 #~| msgid "Rename Page"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Rename Page"
-#~ msgstr "Redenumeşte pagină"
+#~ msgstr "Redenumește pagină"
 
 #, fuzzy
 #~| msgid "Rename Layer"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Rename Layer"
-#~ msgstr "Redenumeşte layer"
+#~ msgstr "Redenumește layer"
 
 #~ msgid "Slide"
 #~ msgstr "Slide"
@@ -2341,7 +2341,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Vizualizează mod"
 
 #~ msgid "Enter the name of the new layer:"
-#~ msgstr "Introduceţi numele noului layer:"
+#~ msgstr "Introduceți numele noului layer:"
 
 #~ msgid "New Layer"
 #~ msgstr "Layer nou"
@@ -2355,14 +2355,14 @@ msgstr "Secţiuni grup"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Delete Layer"
-#~ msgstr "Şterge layer"
+#~ msgstr "Șterge layer"
 
 #~ msgid "Could not delete all layers. At least one layer is required."
 #~ msgstr ""
-#~ "Nu s-au putut şterge toate layerele. Este necesar cel puţin un layer."
+#~ "Nu s-au putut șterge toate layerele. Este necesar cel puțin un layer."
 
 #~ msgid "Error deleting layers"
-#~ msgstr "Eroare ştergere layere"
+#~ msgstr "Eroare ștergere layere"
 
 #~ msgid "Add a new slide"
 #~ msgstr "Adaugă un slide nou"
@@ -2376,16 +2376,16 @@ msgstr "Secţiuni grup"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Paste Slide"
 #~ msgid_plural "Paste Slides"
-#~ msgstr[0] "Lipeşte slide"
-#~ msgstr[1] "Lipeşte slideurile"
-#~ msgstr[2] "Lipeşte slideurile"
+#~ msgstr[0] "Lipește slide"
+#~ msgstr[1] "Lipește slideurile"
+#~ msgstr[2] "Lipește slideurile"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Paste Page"
 #~ msgid_plural "Paste Pages"
-#~ msgstr[0] "Lipeşte pagină"
-#~ msgstr[1] "Lipeşte paginile"
-#~ msgstr[2] "Lipeşte paginile"
+#~ msgstr[0] "Lipește pagină"
+#~ msgstr[1] "Lipește paginile"
+#~ msgstr[2] "Lipește paginile"
 
 #~ msgid "Tools"
 #~ msgstr "Unelte"
@@ -2394,7 +2394,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Șt&erge"
 
 #~ msgid "Show Master Pages"
-#~ msgstr "Afişează pagini părinte"
+#~ msgstr "Afișează pagini părinte"
 
 #~ msgid "Show Rulers"
 #~ msgstr "Arată rigle"
@@ -2418,7 +2418,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Șterge pagină"
 
 #~ msgid "Delete the current page"
-#~ msgstr "Şterge pagina curentă"
+#~ msgstr "Șterge pagina curentă"
 
 #~ msgid "Master Page..."
 #~ msgstr "Pagină părinte..."
@@ -2493,12 +2493,12 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Display shapes of master"
 #~ msgid "Display shapes of master page"
-#~ msgstr "Afişează formele părintelui"
+#~ msgstr "Afișează formele părintelui"
 
 #, fuzzy
 #~| msgid "Display shapes of master"
 #~ msgid "Display shapes of master slide"
-#~ msgstr "Afişează formele părintelui"
+#~ msgstr "Afișează formele părintelui"
 
 #, fuzzy
 #~| msgctxt "(qtundo-format)"
@@ -2546,14 +2546,14 @@ msgstr "Secţiuni grup"
 #~ msgstr "Etichetă"
 
 #~ msgid "Group Section Editor"
-#~ msgstr "Editor secţiuni grup"
+#~ msgstr "Editor secțiuni grup"
 
 #~ msgctxt "<data-source>: <object>"
 #~ msgid "%1: %2"
 #~ msgstr "%1: %2"
 
 #~ msgid "Section Editor"
-#~ msgstr "Editor secţiune:"
+#~ msgstr "Editor secțiune:"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Change List"
@@ -2577,7 +2577,7 @@ msgstr "Secţiuni grup"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Delete Column"
-#~ msgstr "Şterge coloană"
+#~ msgstr "Șterge coloană"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Delete Row"
@@ -2593,7 +2593,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Insert Endnote"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Insert Endnote"
-#~ msgstr "Inserează notă sfârşit"
+#~ msgstr "Inserează notă sfârșit"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Insert Column Right"
@@ -2619,7 +2619,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Group Sections"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "New Section"
-#~ msgstr "Secţiuni grup"
+#~ msgstr "Secțiuni grup"
 
 #, fuzzy
 #~| msgid "Format"
@@ -2637,7 +2637,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Rename Shape"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Rename Section"
-#~ msgstr "Redenumeşte forme"
+#~ msgstr "Redenumește forme"
 
 #, fuzzy
 #~ msgctxt "(qtundo-format)"
@@ -2648,23 +2648,23 @@ msgstr "Secţiuni grup"
 #~| msgid "Paste As Text"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Paste As Text"
-#~ msgstr "Lipeşte ca text"
+#~ msgstr "Lipește ca text"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Paste"
-#~ msgstr "Lipeşte"
+#~ msgstr "Lipește"
 
 #~ msgid "Index Reference"
-#~ msgstr "Referinţă index"
+#~ msgstr "Referință index"
 
 #~ msgid "Text Reference"
-#~ msgstr "Referinţă text"
+#~ msgstr "Referință text"
 
 #~ msgid "Please create an index to reference first."
-#~ msgstr "Mai întâi creaţi un index la acea referinţă."
+#~ msgstr "Mai întâi creați un index la acea referință."
 
 #~ msgid "Select the index you want to reference"
-#~ msgstr "Selectaţi indexul pe care doriţi să-l indicaţi"
+#~ msgstr "Selectați indexul pe care doriți să-l indicați"
 
 #~ msgid "Found 1 match"
 #~ msgid_plural "Found %1 matches"
@@ -2691,13 +2691,13 @@ msgstr "Secţiuni grup"
 #~ msgstr[2] "S-au făcut %1 de modificări"
 
 #~ msgid "Replace %1 with %2?"
-#~ msgstr "Înlocuiţi %1 cu %2?"
+#~ msgstr "Înlocuiți %1 cu %2?"
 
 #, fuzzy
 #~| msgid "Group Sections"
 #~ msgctxt "new numbered section name"
 #~ msgid "New section %1"
-#~ msgstr "Secţiuni grup"
+#~ msgstr "Secțiuni grup"
 
 #~ msgctxt "Underline Style"
 #~ msgid "None"
@@ -2727,7 +2727,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Add Citation"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Add Annotation"
-#~ msgstr "Adaugă citaţie"
+#~ msgstr "Adaugă citație"
 
 #, fuzzy
 #~| msgid "Insert Index"
@@ -2763,7 +2763,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Merge Cells"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Merge Cells"
-#~ msgstr "Uneşte celule"
+#~ msgstr "Unește celule"
 
 #, fuzzy
 #~| msgid "Split Cells"
@@ -2803,7 +2803,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Add Citation"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Add Citation"
-#~ msgstr "Adaugă citaţie"
+#~ msgstr "Adaugă citație"
 
 #, fuzzy
 #~| msgid "Bold"
@@ -2864,7 +2864,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Increase font size"
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Increase font size"
-#~ msgstr "Măreşte dimensiune  font"
+#~ msgstr "Mărește dimensiune  font"
 
 #, fuzzy
 #~| msgid "Set Font"
@@ -2948,7 +2948,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Delete the current page"
 #~ msgid "Delete the author profile"
-#~ msgstr "Şterge pagina curentă"
+#~ msgstr "Șterge pagina curentă"
 
 #, fuzzy
 #~ msgid "Default Author Profile"
@@ -3013,13 +3013,13 @@ msgstr "Secţiuni grup"
 #~ msgstr "Creare copie de rezervă"
 
 #~ msgid "Show grid:"
-#~ msgstr "Afișează reţea:"
+#~ msgstr "Afișează rețea:"
 
 #~ msgid "Snap to grid:"
-#~ msgstr "Îmbinare în reţea:"
+#~ msgstr "Îmbinare în rețea:"
 
 #~ msgid "Grid color:"
-#~ msgstr "Culoare reţea:"
+#~ msgstr "Culoare rețea:"
 
 #~ msgid "Spacing"
 #~ msgstr "Spațiere"
@@ -3033,7 +3033,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "&Vertical:"
 
 #~ msgid "Units:"
-#~ msgstr "Unităţi:"
+#~ msgstr "Unități:"
 
 #~ msgid "Handle radius:"
 #~ msgstr "Gestionează radiere:"
@@ -3042,39 +3042,39 @@ msgstr "Secţiuni grup"
 #~ msgstr "Preia sensibilitatea:"
 
 #~ msgid "Paste offset:"
-#~ msgstr "Lipeşte decalaj:"
+#~ msgstr "Lipește decalaj:"
 
 #, fuzzy
 #~| msgid "Paste at Cursor"
 #~ msgid "Paste at Cursor:"
-#~ msgstr "Lipeşte la cursor"
+#~ msgstr "Lipește la cursor"
 
 #~ msgid "Only print and exit"
 #~ msgstr "Printează si închide"
 
 #~ msgid "Open a new document with a template"
-#~ msgstr "Deschide un document nou cu un şablon"
+#~ msgstr "Deschide un document nou cu un șablon"
 
 #~ msgid "Override display DPI"
-#~ msgstr "Înlocuieşte DPI display"
+#~ msgstr "Înlocuiește DPI display"
 
 #~ msgid "Only export to PDF and exit"
-#~ msgstr "Exportă ca PDF şi închide"
+#~ msgstr "Exportă ca PDF și închide"
 
 #~ msgid "Filename for export-pdf"
-#~ msgstr "Nume fişier pentru exportare-pdf"
+#~ msgstr "Nume fișier pentru exportare-pdf"
 
 #~ msgid "just load the file and then exit"
-#~ msgstr "încarcă fişierul si închide"
+#~ msgstr "încarcă fișierul si închide"
 
 #~ msgid "load the file, show the window and progressbar and then exit"
-#~ msgstr "încarcă fişierul, afişează fereastra si bara de progres si închide"
+#~ msgstr "încarcă fișierul, afișează fereastra si bara de progres si închide"
 
 #~ msgid "Filename to write profiling information into."
-#~ msgstr "Numele fişierului în care să fie scrise informaţiile profilului."
+#~ msgstr "Numele fișierului în care să fie scrise informațiile profilului."
 
 #~ msgid "Load a file and save it as an ODF file. Meant for debugging."
-#~ msgstr "Încarcaţi un fişier şi salvaţi-l ca un fişier ODF. Pentru depanare."
+#~ msgstr "Încarcați un fișier și salvați-l ca un fișier ODF. Pentru depanare."
 
 #~ msgid "Calligra"
 #~ msgstr "Calligra"
@@ -3082,16 +3082,16 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Creation error"
 #~ msgid "%1: Critical Error"
-#~ msgstr "Eroare creaţie"
+#~ msgstr "Eroare creație"
 
 #~ msgid "No template found for: %1"
-#~ msgstr "Nu s-au găsit şabloane pentru: %1"
+#~ msgstr "Nu s-au găsit șabloane pentru: %1"
 
 #~ msgid "Too many templates found for: %1"
-#~ msgstr "S-au găsit prea multe şabloane pentru: %1"
+#~ msgstr "S-au găsit prea multe șabloane pentru: %1"
 
 #~ msgid "Template %1 failed to load."
-#~ msgstr "Nu s-a putut încărca şablonul %1."
+#~ msgstr "Nu s-a putut încărca șablonul %1."
 
 #~ msgid "Always use this template at application start up"
 #~ msgstr "Utilizează întotdeauna acest șablon la pornirea aplicației"
@@ -3127,25 +3127,25 @@ msgstr "Secţiuni grup"
 #~ "Please save your work manually."
 #~ msgstr ""
 #~ "Parola acestui document criptat nu este cunoscută. Salvare automată "
-#~ "oprită! Salvaţi-vă munca manual."
+#~ "oprită! Salvați-vă munca manual."
 
 #~ msgid "Autosaving..."
 #~ msgstr "Salvare automată..."
 
 #~ msgid "Error during autosave! Partition full?"
-#~ msgstr "Eroare în timpul salvării automate. Partiţie plină?"
+#~ msgstr "Eroare în timpul salvării automate. Partiție plină?"
 
 #~ msgid "Could not create the file for saving"
-#~ msgstr "Nu s-a putut crea fişierul pentru salvare "
+#~ msgstr "Nu s-a putut crea fișierul pentru salvare "
 
 #~ msgid "Not able to write '%1'. Partition full?"
-#~ msgstr "Nu s-a putut scrie '%1'. Partiţie plină?"
+#~ msgstr "Nu s-a putut scrie '%1'. Partiție plină?"
 
 #~ msgid "Not able to write RDF metadata. Partition full?"
-#~ msgstr "Nu s-a putut scrie RDF metadata. Partiţie plină?"
+#~ msgstr "Nu s-a putut scrie RDF metadata. Partiție plină?"
 
 #~ msgid "Error while trying to write '%1'. Partition full?"
-#~ msgstr "Eroare în timpul scrierii \"%1\". Partiţie plină?"
+#~ msgstr "Eroare în timpul scrierii \"%1\". Partiție plină?"
 
 #~ msgid ""
 #~ "Malformed URL\n"
@@ -3159,7 +3159,7 @@ msgstr "Secţiuni grup"
 #~ "Do you want to open it instead?"
 #~ msgstr ""
 #~ "Există deja un fișier autosalvat pentru acest document. \n"
-#~ "Doriți să îl deschideţi pe acesta?"
+#~ "Doriți să îl deschideți pe acesta?"
 
 #~ msgid "The file %1 does not exist."
 #~ msgstr "Fișierul %1 nu există."
@@ -3172,18 +3172,18 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Could not create the file for saving"
 #~ msgid "Could not create the filter plugin"
-#~ msgstr "Nu s-a putut crea fişierul pentru salvare "
+#~ msgstr "Nu s-a putut crea fișierul pentru salvare "
 
 #, fuzzy
 #~| msgid "Could not create the file for saving"
 #~ msgid "Could not create the output document"
-#~ msgstr "Nu s-a putut crea fişierul pentru salvare "
+#~ msgstr "Nu s-a putut crea fișierul pentru salvare "
 
 #~ msgid "File not found"
 #~ msgstr "Fișierul nu a fost găsit"
 
 #~ msgid "Cannot create storage"
-#~ msgstr "Nu s-a putut crea spaţiul de stocare"
+#~ msgstr "Nu s-a putut crea spațiul de stocare"
 
 #~ msgid "Bad MIME type"
 #~ msgstr "Tip MIME greșit"
@@ -3251,11 +3251,11 @@ msgstr "Secţiuni grup"
 
 #~ msgid "Could not open the file for reading (check read permissions)."
 #~ msgstr ""
-#~ "Nu s-a putut deschide fişierul pentru citire (verificaţi permisiune "
+#~ "Nu s-a putut deschide fișierul pentru citire (verificați permisiune "
 #~ "citire)."
 
 #~ msgid "Could not read the beginning of the file."
-#~ msgstr "Nu s-a putut citi inceputul fişierului."
+#~ msgstr "Nu s-a putut citi inceputul fișierului."
 
 #~ msgid ""
 #~ "parsing error in the main document at line %1, column %2\n"
@@ -3265,16 +3265,16 @@ msgstr "Secţiuni grup"
 #~ "Mesaj de eroare: %3"
 
 #~ msgid "Not a valid Calligra file: %1"
-#~ msgstr "Nu este un fişier Calligra valid: %1"
+#~ msgstr "Nu este un fișier Calligra valid: %1"
 
 #~ msgid "Invalid document: no file 'maindoc.xml'."
-#~ msgstr "Document invalid: nu există fişierul ,,maindoc.xml\"."
+#~ msgstr "Document invalid: nu există fișierul ,,maindoc.xml\"."
 
 #~ msgid ""
 #~ "Document <i>%1</i> contains several versions. Go to File->Versions to "
 #~ "open an old version."
 #~ msgstr ""
-#~ "Documentul <i>%1</i> conţine mai multe versiuni. Mergeţi în fişierul-"
+#~ "Documentul <i>%1</i> conține mai multe versiuni. Mergeți în fișierul-"
 #~ ">Versiuni pentru a deschide o versiune veche."
 
 #~ msgid "Untitled"
@@ -3284,7 +3284,7 @@ msgstr "Secţiuni grup"
 #~ "<p>The document <b>'%1'</b> has been modified.</p><p>Do you want to save "
 #~ "it?</p>"
 #~ msgstr ""
-#~ "<p>Documentul <b>\"%1\"</b> a fost modificat.</p><p>Doriţi să îl salvaţi?"
+#~ "<p>Documentul <b>\"%1\"</b> a fost modificat.</p><p>Doriți să îl salvați?"
 #~ "</p>"
 
 #~ msgid "Internal error: saveXML not implemented"
@@ -3327,7 +3327,7 @@ msgstr "Secţiuni grup"
 #~ "The document \"%1\" has been modified.\n"
 #~ "Do you want to save your changes or discard them?"
 #~ msgstr ""
-#~ "<p>Documentul <b>\"%1\"</b> a fost modificat.</p><p>Doriţi să îl salvaţi?"
+#~ "<p>Documentul <b>\"%1\"</b> a fost modificat.</p><p>Doriți să îl salvați?"
 #~ "</p>"
 
 #, fuzzy
@@ -3366,7 +3366,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Sensibil la majuscule"
 
 #~ msgid "Match cases when searching"
-#~ msgstr "Potriveşte condiţiile când cauţi"
+#~ msgstr "Potrivește condițiile când cauți"
 
 #~ msgid "Match only whole words"
 #~ msgstr "Identifică doar cuvinte întregi"
@@ -3392,15 +3392,15 @@ msgstr "Secţiuni grup"
 
 #~ msgctxt "Label for the Replace text input box"
 #~ msgid "Replace:"
-#~ msgstr "Înlocuieşte:"
+#~ msgstr "Înlocuiește:"
 
 #~ msgctxt "Replace the current match"
 #~ msgid "Replace"
-#~ msgstr "Înlocuieşte"
+#~ msgstr "Înlocuiește"
 
 #~ msgctxt "Replace all found matches"
 #~ msgid "Replace All"
-#~ msgstr "Înlocuieşte tot"
+#~ msgstr "Înlocuiește tot"
 
 #~ msgctxt "Total number of matches"
 #~ msgid "1 match found"
@@ -3413,10 +3413,10 @@ msgstr "Secţiuni grup"
 #~ msgstr "Nu s-au găsit potriviri"
 
 #~ msgid "Search hit bottom, continuing from top."
-#~ msgstr "Căutarea a atins sfârşitul documentului, continuă de la început."
+#~ msgstr "Căutarea a atins sfârșitul documentului, continuă de la început."
 
 #~ msgid "Search hit top, continuing from bottom."
-#~ msgstr "Căutarea a atins începutul documentului, continuă de la sfârşit."
+#~ msgstr "Căutarea a atins începutul documentului, continuă de la sfârșit."
 
 #~ msgid "%1 unsaved document (%2)"
 #~ msgstr "%1 document nesalvat (%2)"
@@ -3451,16 +3451,16 @@ msgstr "Secţiuni grup"
 #~ msgstr "Pe tot ecranul"
 
 #~ msgid "Show Dockers"
-#~ msgstr "Afișează ataşamentele"
+#~ msgstr "Afișează atașamentele"
 
 #, fuzzy
 #~| msgid "Show Dockers"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Show Docker Titlebars"
-#~ msgstr "Afișează ataşamentele"
+#~ msgstr "Afișează atașamentele"
 
 #~ msgid "Dockers"
-#~ msgstr "Ataşamente"
+#~ msgstr "Atașamente"
 
 #~ msgid "(write protected)"
 #~ msgstr "(scris protejat)"
@@ -3475,21 +3475,21 @@ msgstr "Secţiuni grup"
 #~ "<qt>Saving as a %1 may result in some loss of formatting.<p>Do you still "
 #~ "want to save in this format?</qt>"
 #~ msgstr ""
-#~ "<qt>Salvând ca %1 poate duce la pierderea unor formatări.<p>Doriţi să "
-#~ "salvaţi în acest format?</qt>"
+#~ "<qt>Salvând ca %1 poate duce la pierderea unor formatări.<p>Doriți să "
+#~ "salvați în acest format?</qt>"
 
 #~ msgid "Confirm Save"
-#~ msgstr "Confirmaţi salvarea"
+#~ msgstr "Confirmați salvarea"
 
 #~ msgid ""
 #~ "<qt>Exporting as a %1 may result in some loss of formatting.<p>Do you "
 #~ "still want to export to this format?</qt>"
 #~ msgstr ""
-#~ "<qt>Exportând ca %1 poate duce la pierderea unor formatări.<p>Doriţi să "
-#~ "exportaţi în acest format?</qt>"
+#~ "<qt>Exportând ca %1 poate duce la pierderea unor formatări.<p>Doriți să "
+#~ "exportați în acest format?</qt>"
 
 #~ msgid "Confirm Export"
-#~ msgstr "Comfirmaţi exportarea"
+#~ msgstr "Comfirmați exportarea"
 
 #~ msgid "Export"
 #~ msgstr "Exportă"
@@ -3565,13 +3565,13 @@ msgstr "Secţiuni grup"
 #~ msgstr "<tr><td><b>Accesat:</b></td><td>%1</td></tr>"
 
 #~ msgid "Show Guides"
-#~ msgstr "Afişează ghiduri"
+#~ msgstr "Afișează ghiduri"
 
 #~ msgid "Shows or hides guides"
-#~ msgstr "Afişează sau ascunde ghiduri"
+#~ msgstr "Afișează sau ascunde ghiduri"
 
 #~ msgid "Create Template"
-#~ msgstr "Creează şablon"
+#~ msgstr "Creează șablon"
 
 #, fuzzy
 #~| msgid "Name:"
@@ -3605,10 +3605,10 @@ msgstr "Secţiuni grup"
 #~ msgstr "&Selectează..."
 
 #~ msgid "Use the new template as default"
-#~ msgstr "Foloseşte noul şablon ca implicit"
+#~ msgstr "Folosește noul șablon ca implicit"
 
 #~ msgid "Use the new template every time %1 starts"
-#~ msgstr "Foloseşe noul şablon de fiecare dată când %1 porneşte"
+#~ msgstr "Foloseșe noul șablon de fiecare dată când %1 pornește"
 
 #~ msgid "Do you really want to overwrite the existing '%1' template?"
 #~ msgstr "Sigur doriți să suprascrieți șablonul „%1” existent?"
@@ -3629,10 +3629,10 @@ msgstr "Secţiuni grup"
 #~ msgstr "Elimină grup"
 
 #~ msgid "Do you really want to remove that template?"
-#~ msgstr "Doriți să eliminați acel şablon?"
+#~ msgstr "Doriți să eliminați acel șablon?"
 
 #~ msgid "Remove Template"
-#~ msgstr "Elimină şablon"
+#~ msgstr "Elimină șablon"
 
 #~ msgid "&Delete"
 #~ msgstr "Șt&erge"
@@ -3685,21 +3685,21 @@ msgstr "Secţiuni grup"
 #~ "This document contains an unknown checksum. When you give a password it "
 #~ "might not be verified."
 #~ msgstr ""
-#~ "Documentul conţine o sumă de control necunoscută. Când introduceţi o "
+#~ "Documentul conține o sumă de control necunoscută. Când introduceți o "
 #~ "parolă, s-ar putea sa nu fie verificată."
 
 #~ msgid ""
 #~ "This document contains an unknown encryption method. Some parts may be "
 #~ "unreadable."
 #~ msgstr ""
-#~ "Documnetul conţine o metodă de criptare necunoscută. S-ar putea ca unele "
-#~ "părţi sa fie ilizibile."
+#~ "Documnetul conține o metodă de criptare necunoscută. S-ar putea ca unele "
+#~ "părți sa fie ilizibile."
 
 #~ msgid ""
 #~ "This document contains incomplete encryption data. Some parts may be "
 #~ "unreadable."
 #~ msgstr ""
-#~ "Documnetul conţine date incomplet criptate. S-ar putea ca unlele părţi să "
+#~ "Documnetul conține date incomplet criptate. S-ar putea ca unlele părți să "
 #~ "fie ilizibile."
 
 #~ msgid ""
@@ -3714,23 +3714,23 @@ msgstr "Secţiuni grup"
 #~ "document will remain unreadable. Please try and save the document again "
 #~ "to prevent losing your work."
 #~ msgstr ""
-#~ "Fişierul manifest pare a fi malformat. Nu poate fi modificat şi "
-#~ "documentul nu va putea fi citit. Încrecaţi încă odată să salvaţi "
+#~ "Fișierul manifest pare a fi malformat. Nu poate fi modificat și "
+#~ "documentul nu va putea fi citit. Încrecați încă odată să salvați "
 #~ "documentul pentru a preveni pierderea muncii dumneavoastră."
 
 #~ msgid ""
 #~ "The manifest file cannot be written. The document will remain unreadable. "
 #~ "Please try and save the document again to prevent losing your work."
 #~ msgstr ""
-#~ "Fişierul manifest nu poate fi scris. Documentul nu va putea fi citit. "
-#~ "Încercaţi încă odată să salvaţi documentul pentru a preveni pierderea "
+#~ "Fișierul manifest nu poate fi scris. Documentul nu va putea fi citit. "
+#~ "Încercați încă odată să salvați documentul pentru a preveni pierderea "
 #~ "muncii dumneavoastră."
 
 #~ msgid "Please enter the password to open this file."
-#~ msgstr "Introduceţi parola pentru a deschide acest fişier."
+#~ msgstr "Introduceți parola pentru a deschide acest fișier."
 
 #~ msgid "Please enter the password to encrypt the document with."
-#~ msgstr "Introduceţi parola cu care documentul să fie criptat."
+#~ msgstr "Introduceți parola cu care documentul să fie criptat."
 
 #~ msgid "Do you want to save the password?"
 #~ msgstr "Doriți să salvați parola?"
@@ -3750,19 +3750,19 @@ msgstr "Secţiuni grup"
 #~ msgstr "Ecran"
 
 #~ msgid "The directory mode is not supported for remote locations."
-#~ msgstr "Modul de dosar nu este suportat pentru locaţii la distanţă."
+#~ msgstr "Modul de dosar nu este suportat pentru locații la distanță."
 
 #~ msgid "Calligra Storage"
 #~ msgstr "Stocare calligra"
 
 #~ msgid "Clear"
-#~ msgstr "Curăţă"
+#~ msgstr "Curăță"
 
 #~ msgid "Subtract"
 #~ msgstr "Scade"
 
 #~ msgid "Multiply"
-#~ msgstr "Înmulţeşte"
+#~ msgstr "Înmulțește"
 
 #~ msgid "Alpha mask"
 #~ msgstr "Mască alpha"
@@ -3771,10 +3771,10 @@ msgstr "Secţiuni grup"
 #~ msgstr "Alfa"
 
 #~ msgid "Undefined operation in the alpha color space"
-#~ msgstr "Operaţie nedefinită în spaţiu culoare alfa"
+#~ msgstr "Operație nedefinită în spațiu culoare alfa"
 
 #~ msgid "L*a*b* (16-bit integer/channel, unmanaged)"
-#~ msgstr "L*a*b* (16-biţi întreg/canal, neadministrat)"
+#~ msgstr "L*a*b* (16-biți întreg/canal, neadministrat)"
 
 #~ msgid "Lightness"
 #~ msgstr "Luminozitate"
@@ -3786,10 +3786,10 @@ msgstr "Secţiuni grup"
 #~ msgstr "b*"
 
 #~ msgid "RGB (16-bit integer/channel, unmanaged)"
-#~ msgstr "RGB (16-biţi întreg/canal, neadministrat)"
+#~ msgstr "RGB (16-biți întreg/canal, neadministrat)"
 
 #~ msgid "RGB (8-bit integer/channel, unmanaged)"
-#~ msgstr "RGB (8-biţi întreg/canal, neadministrat)"
+#~ msgstr "RGB (8-biți întreg/canal, neadministrat)"
 
 #~ msgid "Blue"
 #~ msgstr "Albastru"
@@ -3801,10 +3801,10 @@ msgstr "Secţiuni grup"
 #~ msgstr "Roșu"
 
 #~ msgid "Undefined operation in the %1 space"
-#~ msgstr "Operator nedefinit în spaţiul %1"
+#~ msgstr "Operator nedefinit în spațiul %1"
 
 #~ msgid "Undefined operation in the %1 color space"
-#~ msgstr "Operaţie nedefinită in spaţiu culoare %1"
+#~ msgstr "Operație nedefinită in spațiu culoare %1"
 
 #~ msgid "Simple Color Conversion Engine"
 #~ msgstr "Motor simplu de conversie culori"
@@ -3834,7 +3834,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Amestec tare"
 
 #~ msgid "Geometric Mean"
-#~ msgstr "Înţeles geometric"
+#~ msgstr "Înțeles geometric"
 
 #~ msgid "Parallel"
 #~ msgstr "Paralel"
@@ -3901,13 +3901,13 @@ msgstr "Secţiuni grup"
 #~ msgstr "Arc tangentă"
 
 #~ msgid "Difference"
-#~ msgstr "Diferenţă"
+#~ msgstr "Diferență"
 
 #~ msgid "Exclusion"
 #~ msgstr "Excludere"
 
 #~ msgid "Equivalence"
-#~ msgstr "Echivalenţă"
+#~ msgstr "Echivalență"
 
 #, fuzzy
 #~| msgid "Additive-Substractive"
@@ -3915,7 +3915,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Plus-minus"
 
 #~ msgid "Copy Red"
-#~ msgstr "Copiază roşu"
+#~ msgstr "Copiază roșu"
 
 #~ msgid "Copy Green"
 #~ msgstr "Copiază verde"
@@ -3933,7 +3933,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Saturare"
 
 #~ msgid "Increase Saturation"
-#~ msgstr "Măreşte saturare"
+#~ msgstr "Mărește saturare"
 
 #~ msgid "Decrease Saturation"
 #~ msgstr "Redu saturare"
@@ -3942,7 +3942,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Luminozitate"
 
 #~ msgid "Increase Luminosity"
-#~ msgstr "Măreşte luminozitate"
+#~ msgstr "Mărește luminozitate"
 
 #~ msgid "Decrease Luminosity"
 #~ msgstr "Redu luminozitate"
@@ -3967,7 +3967,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Saturare HSI"
 
 #~ msgid "Increase Saturation HSI"
-#~ msgstr "Măreşte saturare HSI"
+#~ msgstr "Mărește saturare HSI"
 
 #~ msgid "Decrease Saturation HSI"
 #~ msgstr "Redu saturare HSI"
@@ -3976,7 +3976,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Intensitate"
 
 #~ msgid "Increase Intensity"
-#~ msgstr "Măreşte intensitate"
+#~ msgstr "Mărește intensitate"
 
 #~ msgid "Decrease Intensity"
 #~ msgstr "Redu intensitate"
@@ -3991,13 +3991,13 @@ msgstr "Secţiuni grup"
 #~ msgstr "Saturare HSL"
 
 #~ msgid "Increase Saturation HSL"
-#~ msgstr "Măreşte saturare HSL"
+#~ msgstr "Mărește saturare HSL"
 
 #~ msgid "Decrease Saturation HSL"
 #~ msgstr "Redu saturare HSL"
 
 #~ msgid "Increase Lightness"
-#~ msgstr "Măreşte luminozitate"
+#~ msgstr "Mărește luminozitate"
 
 #~ msgid "Decrease Lightness"
 #~ msgstr "Redu luminozitate"
@@ -4012,16 +4012,16 @@ msgstr "Secţiuni grup"
 #~ msgstr "Saturare HSV"
 
 #~ msgid "Increase Saturation HSV"
-#~ msgstr "Măreşte saturare HSV"
+#~ msgstr "Mărește saturare HSV"
 
 #~ msgid "Decrease Saturation HSV"
 #~ msgstr "Redu saturare HSV"
 
 #~ msgid "Increase Value"
-#~ msgstr "Creşte valoare"
+#~ msgstr "Crește valoare"
 
 #~ msgid "Decrease Value"
-#~ msgstr "Descreşte valoare"
+#~ msgstr "Descrește valoare"
 
 #~ msgid "Generic RGB Histogram"
 #~ msgstr "Histogramă generică RGB"
@@ -4051,7 +4051,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Scală gri"
 
 #~ msgid "Grayscale (without transparency)"
-#~ msgstr "Scală gri (fără transparenţă)"
+#~ msgstr "Scală gri (fără transparență)"
 
 #~ msgid "YCbCr"
 #~ msgstr "YCbCr"
@@ -4060,18 +4060,18 @@ msgstr "Secţiuni grup"
 #~ msgstr "8 biți"
 
 #~ msgid "16 Bits"
-#~ msgstr "16 biţi"
+#~ msgstr "16 biți"
 
 #~ msgid "16 Bits Float"
-#~ msgstr "16 biţi flotant"
+#~ msgstr "16 biți flotant"
 
 #~ msgid "32 Bits Float"
-#~ msgstr "32 biţi flotant"
+#~ msgstr "32 biți flotant"
 
 #, fuzzy
 #~| msgid "16 Bits Float"
 #~ msgid "64 Bits Float"
-#~ msgstr "16 biţi flotant"
+#~ msgstr "16 biți flotant"
 
 #~ msgid "Arithmetic"
 #~ msgstr "Aritmetic"
@@ -4115,10 +4115,10 @@ msgstr "Secţiuni grup"
 #~ msgstr "Degrade SVG"
 
 #~ msgid "Select the object you want to reference"
-#~ msgstr "Selectaţi obiectul pe care doriţi să-l indicaţi"
+#~ msgstr "Selectați obiectul pe care doriți să-l indicați"
 
 #~ msgid "Reference"
-#~ msgstr "Referinţă"
+#~ msgstr "Referință"
 
 #~ msgid "Set For All Existing"
 #~ msgstr "Setează pentru toate"
@@ -4128,15 +4128,15 @@ msgstr "Secţiuni grup"
 #~ msgid_plural ""
 #~ "<qt>Edits will be lost.<p>There are %1 invalid statements left.</qt>"
 #~ msgstr[0] ""
-#~ "<qt>Editările vor fi pierdute.<p>A rămas %1 instrucţiune invalidă</qt>"
+#~ "<qt>Editările vor fi pierdute.<p>A rămas %1 instrucțiune invalidă</qt>"
 #~ msgstr[1] ""
-#~ "<qt>Editările vor fi pierdute.<p>Au rămas %1 instrucţiuni invalide</qt>"
+#~ "<qt>Editările vor fi pierdute.<p>Au rămas %1 instrucțiuni invalide</qt>"
 #~ msgstr[2] ""
-#~ "<qt>Editările vor fi pierdute.<p>Au rămas %1 de instrucţiuni invalide</qt>"
+#~ "<qt>Editările vor fi pierdute.<p>Au rămas %1 de instrucțiuni invalide</qt>"
 
 #~ msgctxt "statement is an Rdf related term"
 #~ msgid "Discard invalid statements?"
-#~ msgstr "Anulaţi propoziţiile invalide?"
+#~ msgstr "Anulați propozițiile invalide?"
 
 #~ msgid "Rdf"
 #~ msgstr "Rdf"
@@ -4151,16 +4151,16 @@ msgstr "Secţiuni grup"
 #~ msgstr "copiază"
 
 #~ msgid "delete"
-#~ msgstr "şterge"
+#~ msgstr "șterge"
 
 #~ msgid "Namespaces"
-#~ msgstr "Spaţii de nume"
+#~ msgstr "Spații de nume"
 
 #~ msgid "Prefix"
 #~ msgstr "Prefix"
 
 #~ msgid "Namespace"
-#~ msgstr "Spaţiu de nume"
+#~ msgstr "Spațiu de nume"
 
 #~ msgid "Semantic"
 #~ msgstr "Semantic"
@@ -4289,8 +4289,8 @@ msgstr "Secţiuni grup"
 #~ "size:9pt; font-weight:400; font-style:normal;\">\n"
 #~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
 #~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'Verdana'; font-size:13pt;\"># Inseraţi aici queryul dumneavoastră "
-#~ "SPARQL<br /># Rezultatele sunt afişate dedesupt.</span></p>\n"
+#~ "family:'Verdana'; font-size:13pt;\"># Inserați aici queryul dumneavoastră "
+#~ "SPARQL<br /># Rezultatele sunt afișate dedesupt.</span></p>\n"
 #~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
 #~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
 #~ "font-family:'Verdana'; font-size:13pt;\"></p>\n"
@@ -4347,9 +4347,9 @@ msgstr "Secţiuni grup"
 #~ "set the stylesheet for all existing semantic objects to the new default "
 #~ "stylesheet as well."
 #~ msgstr ""
-#~ "Setaţi foaia de stil implicită în acest document. Noile obiecte RDF vor "
-#~ "folosi automat această foaie de stil. Butoanele vă permit să setaţi foaia "
-#~ "de stil pentru toate obiectele semantice existente şi în noua foaie de "
+#~ "Setați foaia de stil implicită în acest document. Noile obiecte RDF vor "
+#~ "folosi automat această foaie de stil. Butoanele vă permit să setați foaia "
+#~ "de stil pentru toate obiectele semantice existente și în noua foaie de "
 #~ "stil implicită."
 
 #~ msgid "Apply Stylesheet"
@@ -4371,7 +4371,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Editează %1"
 
 #~ msgid "Stylesheet Definition"
-#~ msgstr "Definiţie foaie stiluri"
+#~ msgstr "Definiție foaie stiluri"
 
 #~ msgid "Variables Available"
 #~ msgstr "Variabile disponibile"
@@ -4508,7 +4508,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Recent:"
 
 #~ msgid "Add / Remove Colors..."
-#~ msgstr "Adaugă/şterge culori..."
+#~ msgstr "Adaugă/șterge culori..."
 
 #~ msgid "Import Data"
 #~ msgstr "Importă date"
@@ -4538,8 +4538,8 @@ msgstr "Secţiuni grup"
 #~ "Please check the ranges you specified. The start value must be lower than "
 #~ "the end value."
 #~ msgstr ""
-#~ "Verificaţi aria specificată. Valoarea de început trebuie să fie mai mică "
-#~ "decât valoarea de sfârşit."
+#~ "Verificați aria specificată. Valoarea de început trebuie să fie mai mică "
+#~ "decât valoarea de sfârșit."
 
 #~ msgid "Cannot find encoding: %1"
 #~ msgstr "Nu s-a găsit criptarea: %1"
@@ -4551,10 +4551,10 @@ msgstr "Secţiuni grup"
 #~ msgstr "&Codare:"
 
 #~ msgid "First row contains headers"
-#~ msgstr "Primul rând conţine antete"
+#~ msgstr "Primul rând conține antete"
 
 #~ msgid "First column contains headers"
-#~ msgstr "Prima coloana conţine antete"
+#~ msgstr "Prima coloana conține antete"
 
 #~ msgid "Format"
 #~ msgstr "Format"
@@ -4566,7 +4566,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Virgulă"
 
 #~ msgid "Semicolon"
-#~ msgstr "Punct şi virgulă"
+#~ msgstr "Punct și virgulă"
 
 #~ msgid "Other"
 #~ msgstr "Altul"
@@ -4593,7 +4593,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Separator de mii:"
 
 #~ msgid "Ignore duplicate delimiters"
-#~ msgstr "Ignoră delimitatorii duplicaţi"
+#~ msgstr "Ignoră delimitatorii duplicați"
 
 #~ msgid "&Format:"
 #~ msgstr "&Format:"
@@ -4617,7 +4617,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Show Dockers"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Float Docker"
-#~ msgstr "Afișează ataşamentele"
+#~ msgstr "Afișează atașamentele"
 
 #, fuzzy
 #~ msgctxt "@info:tooltip"
@@ -4628,13 +4628,13 @@ msgstr "Secţiuni grup"
 #~| msgid "Tool Bars Docker"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Collapse Docker"
-#~ msgstr "Ataşamente bări instrumente"
+#~ msgstr "Atașamente bări instrumente"
 
 #, fuzzy
 #~| msgid "Show Dockers"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Lock Docker"
-#~ msgstr "Afișează ataşamentele"
+#~ msgstr "Afișează atașamentele"
 
 #~ msgid "&Encrypt"
 #~ msgstr "Cript&ează"
@@ -4692,13 +4692,13 @@ msgstr "Secţiuni grup"
 #~ msgstr "Ultima pagină"
 
 #~ msgid "Use ';' (Example: Office;KDE;Calligra)"
-#~ msgstr "Folosiţi ';' (exemplu: birou;KDE;Calligra)"
+#~ msgstr "Folosiți ';' (exemplu: birou;KDE;Calligra)"
 
 #~ msgid "This document will be decrypted"
 #~ msgstr "Acest document va fi decriptat"
 
 #~ msgid "Do not decrypt"
-#~ msgstr "Nu decriptaţi"
+#~ msgstr "Nu decriptați"
 
 #~ msgid "This document is encrypted"
 #~ msgstr "Acest document este criptat"
@@ -4710,7 +4710,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Acest document va fi criptat."
 
 #~ msgid "Do not encrypt"
-#~ msgstr "Nu criptaţi"
+#~ msgstr "Nu criptați"
 
 #~ msgid "This document is not encrypted"
 #~ msgstr "Acest document nu este criptat"
@@ -4722,8 +4722,8 @@ msgstr "Secţiuni grup"
 #~ "<qt>Decrypting the document will remove the password protection from it."
 #~ "<p>Do you still want to decrypt the file?</qt>"
 #~ msgstr ""
-#~ "<qt>Decriptarea documentului va şterge parola care îl protejează."
-#~ "<p>Doriţi să decriptaţi fişierul?</qt>"
+#~ "<qt>Decriptarea documentului va șterge parola care îl protejează."
+#~ "<p>Doriți să decriptați fișierul?</qt>"
 
 #~ msgid "Confirm Decrypt"
 #~ msgstr "Confirmă decriptarea"
@@ -4736,7 +4736,7 @@ msgstr "Secţiuni grup"
 #~ "decryption, please save the document.</qt>"
 #~ msgstr ""
 #~ "<qt>Documentul dumneavoastră nu s-a putut salva automat.<p>Pentru a "
-#~ "finaliza decriptarea, salvaţi documentul.</qt>"
+#~ "finaliza decriptarea, salvați documentul.</qt>"
 
 #~ msgid "Save Document"
 #~ msgstr "Salvează documentul"
@@ -4747,7 +4747,7 @@ msgstr "Secţiuni grup"
 #~ "document now?</qt>"
 #~ msgstr ""
 #~ "<qt>De când a fost deschis, documentul a fost modificat. Pentru a "
-#~ "finaliza decriptarea documentul trebuie salvat.<p>Doriţi să salvaţi acum "
+#~ "finaliza decriptarea documentul trebuie salvat.<p>Doriți să salvați acum "
 #~ "documentul?</qt>"
 
 #~ msgid ""
@@ -4757,7 +4757,7 @@ msgstr "Secţiuni grup"
 #~ msgstr ""
 #~ "<qt>Momentan, documenutul este salvat ca %1. Documentul trebuie să fie "
 #~ "modificat în <b>OASIS DeschidereDocument</b> pentru a fi criptat."
-#~ "<p>Doriţi să modificaţi fişierul în OASIS DeschidereDocument</qt>"
+#~ "<p>Doriți să modificați fișierul în OASIS DeschidereDocument</qt>"
 
 #~ msgid "Change Filetype"
 #~ msgstr "Schimbă tipul fișierului"
@@ -4770,7 +4770,7 @@ msgstr "Secţiuni grup"
 #~ "encryption, please save the document.</qt>"
 #~ msgstr ""
 #~ "<qt>Documentul dumneavoastră nu s-a putut salva automat.<p>Pentru a "
-#~ "finaliza criptarea, salvaţi documentul.</qt>"
+#~ "finaliza criptarea, salvați documentul.</qt>"
 
 #~ msgid ""
 #~ "<qt>The document has been changed since it was opened. To complete the "
@@ -4778,7 +4778,7 @@ msgstr "Secţiuni grup"
 #~ "document now?</qt>"
 #~ msgstr ""
 #~ "<qt>De când a fost deschis, documentul a fost modificat. Pentru a "
-#~ "finaliza criptarea documentul trebuie salvat.<p>Doriţi să salvaţi acum "
+#~ "finaliza criptarea documentul trebuie salvat.<p>Doriți să salvați acum "
 #~ "documentul?</qt>"
 
 #~ msgid "Remove"
@@ -4803,7 +4803,7 @@ msgstr "Secţiuni grup"
 
 #~ msgid "Cannot write to palette file %1. Maybe it is read-only. "
 #~ msgstr ""
-#~ "Nu s-a putut scrie în paletă fişierul %1. Poate este protejat la scriere."
+#~ "Nu s-a putut scrie în paletă fișierul %1. Poate este protejat la scriere."
 
 #~ msgid "Palette"
 #~ msgstr "Paletă"
@@ -4957,7 +4957,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Unitate:"
 
 #~ msgid "Follow style:"
-#~ msgstr "Urmăreşte stil:"
+#~ msgstr "Urmărește stil:"
 
 #~ msgid "Size:"
 #~ msgstr "Dimensiune:"
@@ -5032,7 +5032,7 @@ msgstr "Secţiuni grup"
 #~| msgid "Choose File to Add"
 #~ msgctxt "@title:window"
 #~ msgid "Choose File to Add"
-#~ msgstr "Alege fişierul de adăugat"
+#~ msgstr "Alege fișierul de adăugat"
 
 #, fuzzy
 #~| msgid "New Layer"
@@ -5058,7 +5058,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Allanon"
 
 #~ msgid "Butt cap"
-#~ msgstr "Vârf ascuţit"
+#~ msgstr "Vârf ascuțit"
 
 #~ msgid "Round cap"
 #~ msgstr "Vârf rotund"
@@ -5073,7 +5073,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Unire rotundă"
 
 #~ msgid "Bevel join"
-#~ msgstr "Uneşte înclinare"
+#~ msgstr "Unește înclinare"
 
 #, fuzzy
 #~| msgid "Miter limit:"
@@ -5081,12 +5081,12 @@ msgstr "Secţiuni grup"
 #~ msgstr "Limită matrice:"
 
 #~ msgid "Set line width of actual selection"
-#~ msgstr "Setează laţimea liniei pentru selecţia actuală"
+#~ msgstr "Setează lațimea liniei pentru selecția actuală"
 
 #, fuzzy
 #~| msgid "Rename Page"
 #~ msgid "Rename tag"
-#~ msgstr "Redenumeşte pagină"
+#~ msgstr "Redenumește pagină"
 
 #, fuzzy
 #~| msgid "Delete Page"
@@ -5096,7 +5096,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "delete"
 #~ msgid "Undelete"
-#~ msgstr "şterge"
+#~ msgstr "șterge"
 
 #~ msgid "Tool Options"
 #~ msgstr "Opțiuni instrument"
@@ -5104,7 +5104,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Toggles organising the options in tabs or not"
 #~ msgid "Toggles organizing the options in tabs or not"
-#~ msgstr "Comută sau nu organizarea opţiunilor în cateogrii"
+#~ msgstr "Comută sau nu organizarea opțiunilor în cateogrii"
 
 #, fuzzy
 #~| msgctxt "@info:tooltip"
@@ -5119,10 +5119,10 @@ msgstr "Secţiuni grup"
 #~ msgstr "Deselectează item"
 
 #~ msgid "Use same aspect as pixels"
-#~ msgstr "Foloseşte acelaşi aspect ca pixeli"
+#~ msgstr "Folosește același aspect ca pixeli"
 
 #~ msgid "Zoom to Selection"
-#~ msgstr "Apropie selecţia"
+#~ msgstr "Apropie selecția"
 
 #~ msgid "Zoom to All"
 #~ msgstr "Apropie tot"
@@ -5185,7 +5185,7 @@ msgstr "Secţiuni grup"
 #~ msgid ""
 #~ "The manifest file seems to be corrupted. The document could not be opened."
 #~ msgstr ""
-#~ "Fişierul manifest pare a fi malformat. Documnetul nu s-a putut deschide."
+#~ "Fișierul manifest pare a fi malformat. Documnetul nu s-a putut deschide."
 
 #~ msgid "Color Selector"
 #~ msgstr "Selector culoare"
@@ -5213,7 +5213,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Could not read the beginning of the file."
 #~ msgid "Could not gain exclusive access for writing the file."
-#~ msgstr "Nu s-a putut citi inceputul fişierului."
+#~ msgstr "Nu s-a putut citi inceputul fișierului."
 
 #, fuzzy
 #~| msgid "Could not load picture."
@@ -5231,19 +5231,19 @@ msgstr "Secţiuni grup"
 #~ msgstr "Fișierul %1 nu există."
 
 #~ msgid "Track Total"
-#~ msgstr "Urmăreşte total"
+#~ msgstr "Urmărește total"
 
 #~ msgid "Track Builtin Format"
-#~ msgstr "Urmăreşte formatul integrat"
+#~ msgstr "Urmărește formatul integrat"
 
 #~ msgid "Use Sub Total"
-#~ msgstr "Foloseşte subtotal"
+#~ msgstr "Folosește subtotal"
 
 #~ msgid "Track Total Format"
-#~ msgstr "Urmăreşte formatul total"
+#~ msgstr "Urmărește formatul total"
 
 #~ msgid "Grid Snap"
-#~ msgstr "Îmbinare reţea"
+#~ msgstr "Îmbinare rețea"
 
 #, fuzzy
 #~| msgid "Format"
@@ -5279,7 +5279,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Creează cale"
 
 #~ msgid "Red Green Blue"
-#~ msgstr "Roşu verde albastru"
+#~ msgstr "Roșu verde albastru"
 
 #~ msgid "L a* b*"
 #~ msgstr "L a*b*"
@@ -5316,23 +5316,23 @@ msgstr "Secţiuni grup"
 #~ "Could not save iCal file\n"
 #~ "%1"
 #~ msgstr ""
-#~ "Nu s-a putut salva fişierul iCal\n"
+#~ "Nu s-a putut salva fișierul iCal\n"
 #~ "%1"
 
 #~ msgid "&Summary:"
 #~ msgstr "&Sumar:"
 
 #~ msgid "&Location:"
-#~ msgstr "Lo&caţie:"
+#~ msgstr "Lo&cație:"
 
 #~ msgid "&Start:"
 #~ msgstr "În&ceput: "
 
 #~ msgid "&End:"
-#~ msgstr "&Sfârşit:"
+#~ msgstr "&Sfârșit:"
 
 #~ msgid "Time and Date"
-#~ msgstr "Oră şi dată"
+#~ msgstr "Oră și dată"
 
 #~ msgid "Timezone"
 #~ msgstr "Ora zonală"
@@ -5344,7 +5344,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Importă evenimentul în calendar"
 
 #~ msgid "Export event to iCal file..."
-#~ msgstr "Exportă eveniment către fişier iCal..."
+#~ msgstr "Exportă eveniment către fișier iCal..."
 
 #~ msgid "&Name:"
 #~ msgstr "Num&e:"
@@ -5374,13 +5374,13 @@ msgstr "Secţiuni grup"
 #~ msgstr "Pământul"
 
 #~ msgid "The Marble widget displays a virtual globe."
-#~ msgstr "Widget-ul Marble afişează un glob pământesc virtual."
+#~ msgstr "Widget-ul Marble afișează un glob pământesc virtual."
 
 #~ msgid "Navigation Control"
 #~ msgstr "Control navigare"
 
 #~ msgid "Use this control to navigate."
-#~ msgstr "Folosiţi acest control pentru a naviga"
+#~ msgstr "Folosiți acest control pentru a naviga"
 
 #~ msgid "Latitude"
 #~ msgstr "Latitudine"
@@ -5402,13 +5402,13 @@ msgstr "Secţiuni grup"
 #~ "Îl suprascrieți?"
 
 #~ msgid "Unknown Calligra MimeType %1. Check your installation."
-#~ msgstr "Calligra MimeType %1 nucunoscut. Verificaţi instalarea."
+#~ msgstr "Calligra MimeType %1 nucunoscut. Verificați instalarea."
 
 #~ msgid "%1 (Uncompressed XML Files)"
-#~ msgstr "%1 (fişiere XML necompresate)"
+#~ msgstr "%1 (fișiere XML necompresate)"
 
 #~ msgid "%1 (Flat XML File)"
-#~ msgstr "%1 (fişier XML simplu)"
+#~ msgstr "%1 (fișier XML simplu)"
 
 #~ msgid "%1 (Encrypted)"
 #~ msgstr "%1 (criptat)"
@@ -5488,7 +5488,7 @@ msgstr "Secţiuni grup"
 #, fuzzy
 #~| msgid "Shadow Offset:"
 #~ msgid "Offset:"
-#~ msgstr "Compensaţie umbră:"
+#~ msgstr "Compensație umbră:"
 
 #, fuzzy
 #~ msgid "Color:"
@@ -5504,7 +5504,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Vârf:"
 
 #~ msgid "Join:"
-#~ msgstr "Uneşte:"
+#~ msgstr "Unește:"
 
 #~ msgid "Set miter limit"
 #~ msgstr "Setează limită matrice"
@@ -5528,7 +5528,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Inserează coloană dreapta"
 
 #~ msgid "Delete Column"
-#~ msgstr "Şterge coloană"
+#~ msgstr "Șterge coloană"
 
 #~ msgid "Delete Row"
 #~ msgstr "Șterge rând"
@@ -5565,13 +5565,13 @@ msgstr "Secţiuni grup"
 #~ msgstr "Instrument fundal"
 
 #~ msgid "Use the styles docker to manipulate the background."
-#~ msgstr "Utilizaţi ataşamentele stilurilor pentru a manevra fundalul."
+#~ msgstr "Utilizați atașamentele stilurilor pentru a manevra fundalul."
 
 #~ msgid "Background editing tool"
 #~ msgstr "Instrument editare fundal"
 
 #~ msgid "Use master background"
-#~ msgstr "Foloseşte fundal părinte"
+#~ msgstr "Folosește fundal părinte"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Separate paths"
@@ -5583,15 +5583,15 @@ msgstr "Secţiuni grup"
 #~ "Do you want to open it?"
 #~ msgstr ""
 #~ "Există un fișier autosalvat pentru un document nedenumit în %1.\n"
-#~ "Fişierul este datat %2\n"
-#~ "Doriți să îl deschideţi pe acesta?"
+#~ "Fișierul este datat %2\n"
+#~ "Doriți să îl deschideți pe acesta?"
 
 #~ msgid "&Delete Personal Data"
-#~ msgstr "Şt&erge date personale"
+#~ msgstr "Șt&erge date personale"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Delete shapes"
-#~ msgstr "Şterge forme"
+#~ msgstr "Șterge forme"
 
 #~ msgid "Substract"
 #~ msgstr "Scădere"
@@ -5604,8 +5604,8 @@ msgstr "Secţiuni grup"
 #~ "option                                     \"Set as Personal Contact Data"
 #~ "\" from the \"Edit\"     menu in KAddressbook to set one."
 #~ msgstr ""
-#~ "Nu s-au setat date de contact personale, utilizaţi "
-#~ "opţiunea                                     \"Setează ca date de contact "
+#~ "Nu s-au setat date de contact personale, utilizați "
+#~ "opțiunea                                     \"Setează ca date de contact "
 #~ "personale\" din meniul \"Editare\"    în KAdressbook pentru a le seta."
 
 #~ msgid "Hide colors with bad contrast"
@@ -5621,7 +5621,7 @@ msgstr "Secţiuni grup"
 #~ msgstr "Culoare umbră:"
 
 #~ msgid "Toggles showing a title bar"
-#~ msgstr "Comută afişarea bării de titlu"
+#~ msgstr "Comută afișarea bării de titlu"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Set border"
