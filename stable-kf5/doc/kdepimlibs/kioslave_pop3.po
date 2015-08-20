@@ -44,7 +44,7 @@ msgid ""
 "from a mailbox server."
 msgstr ""
 "Protocolul \"Post Office Protocol\" (POP3) permite unui utilizator de pe o "
-"maşină client să-şi acceseze căsuţa de mail găzduită pe un server."
+"mașină client să-și acceseze căsuța de mail găzduită pe un server."
 
 #. Tag: para
 #: index.docbook:20

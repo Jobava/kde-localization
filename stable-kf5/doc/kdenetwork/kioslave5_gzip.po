@@ -53,8 +53,8 @@ msgid ""
 "\">tar.gz</literal> file directly in a &konqueror; window."
 msgstr ""
 "Dispozitivul de I/E gzip nu este direct utilizabil, scopul lui fiind acela "
-"de filtru. De exemplu subsistemul de I/E tar poate filtra un fişier prin "
-"subsistemul gzip pentru a afişa conţinutul un fişier <literal role="
+"de filtru. De exemplu subsistemul de I/E tar poate filtra un fișier prin "
+"subsistemul gzip pentru a afișa conținutul un fișier <literal role="
 "\"extension\">tar.gz</literal> direct într-o fereastră &konqueror;."
 
 #. Tag: para
@@ -65,9 +65,9 @@ msgid ""
 "literal> extension in &konqueror;, this kioslave is used to uncompress it "
 "and display it as a normal (uncompressed) file."
 msgstr ""
-"Dacă în &konqueror; daţi clic pe un fişier comprimat cu extensia <literal "
+"Dacă în &konqueror; dați clic pe un fișier comprimat cu extensia <literal "
 "role=\"extension\">gz</literal>, acest dispozitiv de I/E este utilizat "
-"pentru a-l decomprima şi afişa ca fişier normal (necomprimat)."
+"pentru a-l decomprima și afișa ca fișier normal (necomprimat)."
 
 #. Tag: para
 #: index.docbook:30
@@ -81,12 +81,12 @@ msgid ""
 "documentation on using kioslaves at <ulink url=\"http://techbase.kde.org"
 "\">http://techbase.kde.org</ulink>"
 msgstr ""
-"Dacă sînteţi programator şi doriţi să folosiţi filtrul \"gzip\", la adresa "
+"Dacă sînteți programator și doriți să folosiți filtrul \"gzip\", la adresa "
 "<ulink url=\"http://developer.kde.org\">http://developer.kde.org</ulink> "
-"puteţi găsi documentaţie despre utilizarea dispozitivelor de I/E."
+"puteți găsi documentație despre utilizarea dispozitivelor de I/E."
 
 #. Tag: para
 #: index.docbook:34
 #, no-c-format
 msgid "See the manual: <ulink url=\"man:/gzip\">gzip</ulink>."
-msgstr "Citiţi pagina de manual: <ulink url=\"man:/gzip\">gzip</ulink>."
+msgstr "Citiți pagina de manual: <ulink url=\"man:/gzip\">gzip</ulink>."

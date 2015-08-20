@@ -44,13 +44,13 @@ msgid ""
 "file known as a tarfile. A tarfile may be made on a tape drive, however, it "
 "is also common to write a tarfile to a normal file."
 msgstr ""
-"Un program de arhivare este proiectat pentru a stoca şi extrage fişiere "
-"dintr-un fişier arhivă, cunoscut şi sub numele de fişier TAR. Un asemenea "
-"fişier este creat pe bandă magnetică, dar adeseori este scris pe disc ca "
-"fişier obişnuit."
+"Un program de arhivare este proiectat pentru a stoca și extrage fișiere "
+"dintr-un fișier arhivă, cunoscut și sub numele de fișier TAR. Un asemenea "
+"fișier este creat pe bandă magnetică, dar adeseori este scris pe disc ca "
+"fișier obișnuit."
 
 #. Tag: para
 #: index.docbook:22
 #, no-c-format
 msgid "See the manual: <ulink url=\"man:/tar\">tar</ulink>."
-msgstr "Citiţi pagina de manual: <ulink url=\"man:/tar\">tar</ulink>."
+msgstr "Citiți pagina de manual: <ulink url=\"man:/tar\">tar</ulink>."

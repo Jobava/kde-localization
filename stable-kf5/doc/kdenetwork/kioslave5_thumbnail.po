@@ -47,7 +47,7 @@ msgid ""
 "persistent generation of thumbnails."
 msgstr ""
 "Dispozitivul de I/E thumbnail este utilizat de &kde; pentru generarea "
-"persistentă şi independentă de reţea a mini-imaginilor."
+"persistentă și independentă de rețea a mini-imaginilor."
 
 #. Tag: para
 #: index.docbook:19
@@ -58,11 +58,11 @@ msgid ""
 "guimenu> <guisubmenu>Preview</guisubmenu></menuchoice> submenu, available in "
 "&konqueror; in file manager mode."
 msgstr ""
-"Acest subsistem utilizează module pentru a genera mini-imaginile. Puteţi "
-"activa afişarea acestor mini-imagini din submeniul "
+"Acest subsistem utilizează module pentru a genera mini-imaginile. Puteți "
+"activa afișarea acestor mini-imagini din submeniul "
 "<menuchoice><guimenu>Vizualizare</guimenu> <guisubmenu>Previzualizare</"
 "guisubmenu></menuchoice>, disponibil în &konqueror; în modul manager de "
-"fişiere."
+"fișiere."
 
 #. Tag: para
 #: index.docbook:25
@@ -72,9 +72,9 @@ msgid ""
 "developer, you can use it within your own applications to create file "
 "previews."
 msgstr ""
-"Nu este util utilizatorului în mod direct, dar dacă sînteţi programator îl "
-"puteţi utiliza din aplicaţiile dumneavoastră pentru a crea previzualizări "
-"fişierelor."
+"Nu este util utilizatorului în mod direct, dar dacă sînteți programator îl "
+"puteți utiliza din aplicațiile dumneavoastră pentru a crea previzualizări "
+"fișierelor."
 
 #. Tag: para
 #: index.docbook:29
@@ -90,7 +90,7 @@ msgid ""
 "filename> or in the source folder <filename class=\"directory\">kdebase/"
 "runtime/kioslave/thumbnail</filename>"
 msgstr ""
-"Citiţi documentaţia din surse pentru mai multe informaţii. O veţi găsi în "
+"Citiți documentația din surse pentru mai multe informații. O veți găsi în "
 "<filename>$<envar>KDEDIR</envar>/include/kio/thumbcreator.h</filename> sau "
 "în folderul de surse &kde; <filename class=\"directory\">kdebase/kioslave/"
 "thumbnail</filename>."

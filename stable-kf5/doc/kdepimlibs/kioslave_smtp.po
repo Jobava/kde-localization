@@ -42,8 +42,8 @@ msgstr "&tradClaudiuCostin;"
 #, no-c-format
 msgid "A protocol to send mail from the client workstation to the mail server."
 msgstr ""
-"Este un protocol de transmis e-mail-uri de la o maşină client către un "
-"server de poştă electronică."
+"Este un protocol de transmis e-mail-uri de la o mașină client către un "
+"server de poștă electronică."
 
 #. Tag: para
 #: index.docbook:20
@@ -52,5 +52,5 @@ msgid ""
 "See : <ulink url=\"http://cr.yp.to/smtp.html\">Simple Mail Transfer Protocol "
 "</ulink>."
 msgstr ""
-"Citiţi: <ulink url=\"http://raddist.rad.com/networks/1998/smtp/smtp.htm#SMTP"
+"Citiți: <ulink url=\"http://raddist.rad.com/networks/1998/smtp/smtp.htm#SMTP"
 "\">Simple Mail Transfer Protocol </ulink>."
