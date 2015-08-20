@@ -165,7 +165,7 @@ msgstr ""
 #~ "(absolute or relative) to a package. If not provided, then an attempt is "
 #~ "made to load a package from the current directory."
 #~ msgstr ""
-#~ "Numele miniaplicaţiei de afișat; poate fi numele modulului sau o cale "
+#~ "Numele miniaplicației de afișat; poate fi numele modulului sau o cale "
 #~ "(absolută sau relativă) a unui pachet. Dacă nu e specificat, atunci se va "
 #~ "încerca încărcarea unui pachet din dosarul actual."
 

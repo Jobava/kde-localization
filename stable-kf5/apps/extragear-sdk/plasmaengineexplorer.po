@@ -1,7 +1,7 @@
 # Traducerea plasmaengineexplorer.po în Română
 # This file is distributed under the same license as the plasmaengineexplorer package.
 #
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2008".
 # Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
 msgid ""
 msgstr ""
