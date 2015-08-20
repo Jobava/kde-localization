@@ -2,14 +2,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Sergiu Bivol <sergiu@ase.md>, 2009.
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2009.
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2014-11-05 05:28+0000\n"
 "PO-Revision-Date: 2009-09-02 00:54-0600\n"
-"Last-Translator: Laurenţiu Buzdugan <lbuz@rolix.org>\n"
+"Last-Translator: Laurențiu Buzdugan <lbuz@rolix.org>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"

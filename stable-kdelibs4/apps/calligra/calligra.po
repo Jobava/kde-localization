@@ -52,7 +52,7 @@ msgstr ""
 
 #: basicflakes/tools/KoCreatePathTool.cpp:474
 msgid "Angle Constraints"
-msgstr "Restricţii unghi"
+msgstr "Restricții unghi"
 
 #: basicflakes/tools/KoCreatePathTool.cpp:478
 #: basicflakes/tools/KoPencilTool.cpp:340
@@ -225,7 +225,7 @@ msgstr "Creare copie de rezervă"
 #, fuzzy
 #| msgid "Cannot create storage"
 msgid "Cannot create table without fields."
-msgstr "Nu s-a putut crea spaţiul de stocare"
+msgstr "Nu s-a putut crea spațiul de stocare"
 
 #: db/connection.cpp:1687
 #, kde-format
@@ -276,7 +276,7 @@ msgstr ""
 #| "installed."
 msgid "Could not alter table \"%1\" using the same table as destination."
 msgstr ""
-"Nu s-a putut şterge pachetul-script \"%1\" deoarece scriptul nu este "
+"Nu s-a putut șterge pachetul-script \"%1\" deoarece scriptul nu este "
 "instalat."
 
 #: db/connection.cpp:1975 db/expression.cpp:914
@@ -293,7 +293,7 @@ msgstr ""
 #, fuzzy, kde-format
 #| msgid "Could not read the beginning of the file."
 msgid "Could not rename table \"%1\" using the same name."
-msgstr "Nu s-a putut citi inceputul fişierului."
+msgstr "Nu s-a putut citi inceputul fișierului."
 
 #: db/connection.cpp:1997
 #, kde-format
@@ -515,7 +515,7 @@ msgstr "Nu s-a putut citi pachetul \"%1\"."
 #, fuzzy
 #| msgid "Could not read the beginning of the file."
 msgid "Could not read database properties."
-msgstr "Nu s-a putut citi inceputul fişierului."
+msgstr "Nu s-a putut citi inceputul fișierului."
 
 #. i18n(
 #. "Incompatible database driver's \"%1\" version: found version %2, expected version %3.",
@@ -647,7 +647,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Could not create the file for saving"
 msgid "Could not access the table directly using its name"
-msgstr "Nu s-a putut crea fişierul pentru salvare "
+msgstr "Nu s-a putut crea fișierul pentru salvare "
 
 #: db/expression.cpp:891
 #, kde-format
@@ -715,7 +715,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Increase Value"
 msgid "Yes/No Value"
-msgstr "Creşte valoare"
+msgstr "Crește valoare"
 
 #: db/field.cpp:735 widgets/KoCsvImportDialog.cpp:219
 #: widgets/KoCsvImportDialog.cpp:583
@@ -923,7 +923,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Error deleting layers"
 msgid "Record deleting failed."
-msgstr "Eroare ştergere layere"
+msgstr "Eroare ștergere layere"
 
 #: db/utils.cpp:141
 msgid "Message from server:"
@@ -991,7 +991,7 @@ msgstr "Schimbă parametru"
 #: flake/commands/KoParameterToPathCommand.cpp:53
 msgctxt "(qtundo-format)"
 msgid "Convert to Path"
-msgstr "Converteşte în cale"
+msgstr "Convertește în cale"
 
 #: flake/commands/KoPathBreakAtPointCommand.cpp:40
 msgctxt "(qtundo-format)"
@@ -1099,9 +1099,9 @@ msgstr "Creează formă"
 msgctxt "(qtundo-format)"
 msgid "Delete shape"
 msgid_plural "Delete shapes"
-msgstr[0] "Şterge formă"
-msgstr[1] "Şterge formă"
-msgstr[2] "Şterge formă"
+msgstr[0] "Șterge formă"
+msgstr[1] "Șterge formă"
+msgstr[2] "Șterge formă"
 
 #: flake/commands/KoShapeDistributeCommand.cpp:130
 msgctxt "(qtundo-format)"
@@ -1121,7 +1121,7 @@ msgstr "Adaugă forme la grup"
 #: flake/commands/KoShapeKeepAspectRatioCommand.cpp:30
 msgctxt "(qtundo-format)"
 msgid "Keep Aspect Ratio"
-msgstr "Păstrează proporţie aspect"
+msgstr "Păstrează proporție aspect"
 
 #: flake/commands/KoShapeLockCommand.cpp:36
 msgctxt "(qtundo-format)"
@@ -1138,7 +1138,7 @@ msgstr "Mută forme"
 #| msgid "Rename Shape"
 msgctxt "(qtundo-format)"
 msgid "Rename Shape"
-msgstr "Redenumeşte forme"
+msgstr "Redenumește forme"
 
 #: flake/commands/KoShapeReorderCommand.cpp:52
 msgctxt "(qtundo-format)"
@@ -1210,7 +1210,7 @@ msgstr "Închide cale eferentă"
 #: flake/commands/KoSubpathJoinCommand.cpp:53
 msgctxt "(qtundo-format)"
 msgid "Join subpaths"
-msgstr "Uneşte căi eferente"
+msgstr "Unește căi eferente"
 
 #: flake/commands/KoSubpathRemoveCommand.cpp:33
 msgctxt "(qtundo-format)"
@@ -1242,11 +1242,11 @@ msgstr "O legătură dintre alte două forme"
 
 #: flake/KoGridData.cpp:223 koreport/wrtembed/KoReportDesigner.cpp:641
 msgid "Show Grid"
-msgstr "Afișează reţea"
+msgstr "Afișează rețea"
 
 #: flake/KoGridData.cpp:224
 msgid "Shows or hides grid"
-msgstr "Afişează sau ascunde reţea"
+msgstr "Afișează sau ascunde rețea"
 
 #: flake/KoPathShapeFactory.cpp:35
 msgid "Simple path shape"
@@ -1267,7 +1267,7 @@ msgstr "Opțiuni %1"
 #: flake/KoShapePaste.cpp:168
 msgctxt "(qtundo-format)"
 msgid "Paste Shapes"
-msgstr "Lipeşte forme"
+msgstr "Lipește forme"
 
 #: flake/KoToolManager.cpp:386
 #, kde-format
@@ -1294,7 +1294,7 @@ msgstr ""
 #| msgid_plural "Paste Pages"
 msgctxt "(qtundo-format)"
 msgid "Paste Image"
-msgstr "Lipeşte pagină"
+msgstr "Lipește pagină"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, nodeSnapGuide)
 #: flake/SnapGuideConfigWidget.ui:30
@@ -1314,7 +1314,7 @@ msgstr "Se asociază cutia de forme"
 #. i18n: ectx: property (toolTip), widget (QSpinBox, snapDistance)
 #: flake/SnapGuideConfigWidget.ui:72
 msgid "Proximity distance where snapping happens"
-msgstr "Distnaţă proximlă unde are loc îmbinarea"
+msgstr "Distnață proximlă unde are loc îmbinarea"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, snapDistance)
 #: flake/SnapGuideConfigWidget.ui:75
@@ -1329,7 +1329,7 @@ msgstr "Ortogonal"
 #. i18n: ectx: property (toolTip), widget (QToolButton, intersectionSnapGuide)
 #: flake/SnapGuideConfigWidget.ui:98
 msgid "Intersection of lines"
-msgstr "Intersecţia liniilor"
+msgstr "Intersecția liniilor"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, lineGuideSnapGuide)
 #: flake/SnapGuideConfigWidget.ui:111
@@ -1355,7 +1355,7 @@ msgstr "Schimbă segmentul"
 
 #: flake/tools/KoPathTool.cpp:109
 msgid "Corner point"
-msgstr "Punct colţ"
+msgstr "Punct colț"
 
 #: flake/tools/KoPathTool.cpp:114
 msgid "Smooth point"
@@ -1399,7 +1399,7 @@ msgstr "Întrerupe la segment"
 
 #: flake/tools/KoPathTool.cpp:160
 msgid "Join with segment"
-msgstr "Uneşte cu segment"
+msgstr "Unește cu segment"
 
 #: flake/tools/KoPathTool.cpp:165
 msgid "Merge points"
@@ -1420,11 +1420,11 @@ msgstr "Trageți pentru a mișca mînerul."
 #: flake/tools/KoPathTool.cpp:604
 msgid "Drag to move point. Shift click to change point type."
 msgstr ""
-"Trageţi pentru a mişca punctul. Shift click pentru a schimba tipul punctului."
+"Trageți pentru a mișca punctul. Shift click pentru a schimba tipul punctului."
 
 #: flake/tools/KoPathTool.cpp:606
 msgid "Drag to move control point."
-msgstr "Trageţi pentru a mişca punctul de control."
+msgstr "Trageți pentru a mișca punctul de control."
 
 #: flake/tools/KoPathTool.cpp:631
 msgid "Drag to change curve directly. Double click to insert new path point."
@@ -1432,11 +1432,11 @@ msgstr ""
 
 #: flake/tools/KoPathTool.cpp:638
 msgid "Press B to break path at selected point."
-msgstr "Apăsaţi B pentru a întrerupe calea la punctul selectat."
+msgstr "Apăsați B pentru a întrerupe calea la punctul selectat."
 
 #: flake/tools/KoPathTool.cpp:640
 msgid "Press B to break path at selected segments."
-msgstr "Apăsaţi B pentru a întrerupe calea la segmentul selectat."
+msgstr "Apăsați B pentru a întrerupe calea la segmentul selectat."
 
 #: flake/tools/KoPathToolFactory.cpp:30
 #, fuzzy
@@ -1509,7 +1509,7 @@ msgstr "Gestionar scripturi"
 
 #: kokross/KoScriptingPart.cpp:80
 msgid "Execute Script File..."
-msgstr "Execută fişierul-script..."
+msgstr "Execută fișierul-script..."
 
 #: kokross/KoScriptingPart.cpp:88
 msgid "Script Manager..."
@@ -1517,7 +1517,7 @@ msgstr "Gestionar scripturi..."
 
 #: kokross/KoScriptingPart.cpp:157
 msgid "Execute Script File"
-msgstr "Execută fişier-script"
+msgstr "Execută fișier-script"
 
 #: kokross/KoScriptManager.cpp:179
 msgid "Install Script Package"
@@ -1531,12 +1531,12 @@ msgstr "Nu s-a putut citi pachetul \"%1\"."
 #: kokross/KoScriptManager.cpp:224
 #, kde-format
 msgid "The package \"%1\" does not contain a valid install.rc file."
-msgstr "Pachetul \"%1\" nu conţine un fişier valid de tip install.rc."
+msgstr "Pachetul \"%1\" nu conține un fișier valid de tip install.rc."
 
 #: kokross/KoScriptManager.cpp:231
 #, kde-format
 msgid "Failed to parse the install.rc file at package \"%1\"."
-msgstr "Nu s-a putut parcurge fişierul install.rc din pachetul \"%1\"."
+msgstr "Nu s-a putut parcurge fișierul install.rc din pachetul \"%1\"."
 
 #: kokross/KoScriptManager.cpp:237
 #, kde-format
@@ -1544,18 +1544,18 @@ msgid ""
 "Failed to determinate location where the package \"%1\" should be installed "
 "to."
 msgstr ""
-"Nu s-a putut deterermina locaţia în care fişierul \"%1\" ar trebui să fie "
+"Nu s-a putut deterermina locația în care fișierul \"%1\" ar trebui să fie "
 "instalat."
 
 #: kokross/KoScriptManager.cpp:247
 #, kde-format
 msgid ""
 "A script package with the name \"%1\" already exists. Replace this package?"
-msgstr "Există deja un pachet-script cu numele \"%1\". Înlocuiţi pachetul?"
+msgstr "Există deja un pachet-script cu numele \"%1\". Înlocuiți pachetul?"
 
 #: kokross/KoScriptManager.cpp:248 main/KoFindToolbar.cpp:152
 msgid "Replace"
-msgstr "Înlocuieşte"
+msgstr "Înlocuiește"
 
 #: kokross/KoScriptManager.cpp:251
 #, kde-format
@@ -1563,8 +1563,8 @@ msgid ""
 "Could not uninstall this script package. You may not have sufficient "
 "permissions to delete the folder \"%1\"."
 msgstr ""
-"Nu s-a putut dezinstala pachetul-script. Este posibil să nu aveţi "
-"persmisiunea de a şterge acest dosar \"%1\"."
+"Nu s-a putut dezinstala pachetul-script. Este posibil să nu aveți "
+"persmisiunea de a șterge acest dosar \"%1\"."
 
 #: kokross/KoScriptManager.cpp:281
 #, kde-format
@@ -1572,7 +1572,7 @@ msgid ""
 "Could not uninstall the script package \"%1\" since the script is not "
 "installed."
 msgstr ""
-"Nu s-a putut şterge pachetul-script \"%1\" deoarece scriptul nu este "
+"Nu s-a putut șterge pachetul-script \"%1\" deoarece scriptul nu este "
 "instalat."
 
 #: kokross/KoScriptManager.cpp:287
@@ -1581,8 +1581,8 @@ msgid ""
 "Could not uninstall the script package \"%1\". You may not have sufficient "
 "permissions to delete the folder \"%1\"."
 msgstr ""
-"Nu s-a putut dezinstala pachetul-script \"%1\". Este posibil să nu aveţi "
-"persmisiunea de a şterge acest dosar \"%1\". "
+"Nu s-a putut dezinstala pachetul-script \"%1\". Este posibil să nu aveți "
+"persmisiunea de a șterge acest dosar \"%1\". "
 
 #: kokross/KoScriptManager.cpp:301 main/KoMainWindow.cpp:698
 msgid "Save"
@@ -1598,15 +1598,15 @@ msgstr ""
 
 #: kokross/KoScriptManagerAdd.cpp:57
 msgid "Add script file"
-msgstr "Adaugă fişier-script"
+msgstr "Adaugă fișier-script"
 
 #: kokross/KoScriptManagerAdd.cpp:62
 msgid "Add collection folder"
-msgstr "Adaugă folder colecţie"
+msgstr "Adaugă folder colecție"
 
 #: kokross/KoScriptManagerAdd.cpp:65
 msgid "Install script package file"
-msgstr "Instalare fişier pachet-script"
+msgstr "Instalare fișier pachet-script"
 
 #: kokross/KoScriptManagerAdd.cpp:69
 msgid "Install online script package"
@@ -1628,7 +1628,7 @@ msgstr "Script"
 
 #: kokross/KoScriptManagerAdd.cpp:285
 msgid "Collection"
-msgstr "Colecţie"
+msgstr "Colecție"
 
 #: kopageapp/commands/KoPAChangeMasterPageCommand.cpp:34
 msgctxt "(qtundo-format)"
@@ -1648,17 +1648,17 @@ msgstr "Setează aspect pagină"
 #: kopageapp/commands/KoPADisplayMasterBackgroundCommand.cpp:31
 msgctxt "(qtundo-format)"
 msgid "Display master background"
-msgstr "Afişează fundal parinte"
+msgstr "Afișează fundal parinte"
 
 #: kopageapp/commands/KoPADisplayMasterBackgroundCommand.cpp:35
 msgctxt "(qtundo-format)"
 msgid "Display slide background"
-msgstr "Afişează fundal slide"
+msgstr "Afișează fundal slide"
 
 #: kopageapp/commands/KoPADisplayMasterBackgroundCommand.cpp:38
 msgctxt "(qtundo-format)"
 msgid "Display page background"
-msgstr "Afişează fundalul paginii"
+msgstr "Afișează fundalul paginii"
 
 #: kopageapp/commands/KoPADisplayMasterShapesCommand.cpp:31
 msgctxt "(qtundo-format)"
@@ -1675,7 +1675,7 @@ msgstr "Ascunde forme părinte"
 msgctxt "(qtundo-format)"
 msgid "Delete slide"
 msgid_plural "Delete slides"
-msgstr[0] "Şterge slide"
+msgstr[0] "Șterge slide"
 msgstr[1] "Textul &selectat"
 msgstr[2] "Textul &selectat"
 
@@ -1729,7 +1729,7 @@ msgstr "Diverse"
 #: kopageapp/dialogs/KoPAConfigureDialog.cpp:49
 #: main/config/KoConfigGridPage.cpp:68
 msgid "Grid"
-msgstr "Reţea"
+msgstr "Rețea"
 
 #: kopageapp/dialogs/KoPAConfigureDialog.cpp:55
 msgctxt "@title:tab Document settings page"
@@ -1755,7 +1755,7 @@ msgstr "Autor"
 
 #: kopageapp/dialogs/KoPAMasterPageDialog.cpp:41
 msgid "Select a master slide design:"
-msgstr "Selectaţi un design părinte pentru slide:"
+msgstr "Selectați un design părinte pentru slide:"
 
 #: kopageapp/dialogs/KoPAMasterPageDialog.cpp:42
 msgid "Master Slide"
@@ -1763,7 +1763,7 @@ msgstr "Slide părinte"
 
 #: kopageapp/dialogs/KoPAMasterPageDialog.cpp:44
 msgid "Select a master page design:"
-msgstr "Selectaţi o pagină părinte pentru slide:"
+msgstr "Selectați o pagină părinte pentru slide:"
 
 #: kopageapp/dialogs/KoPAMasterPageDialog.cpp:45
 #: kopageapp/tools/backgroundTool/KoPABackgroundTool.cpp:110
@@ -1798,21 +1798,21 @@ msgstr "Formă"
 #| msgid "Rename Slide"
 msgctxt "(qtundo-format)"
 msgid "Rename Slide"
-msgstr "Redenumeşte slide"
+msgstr "Redenumește slide"
 
 #: kopageapp/KoPADocumentModel.cpp:282
 #, fuzzy
 #| msgid "Rename Page"
 msgctxt "(qtundo-format)"
 msgid "Rename Page"
-msgstr "Redenumeşte pagină"
+msgstr "Redenumește pagină"
 
 #: kopageapp/KoPADocumentModel.cpp:286
 #, fuzzy
 #| msgid "Rename Layer"
 msgctxt "(qtundo-format)"
 msgid "Rename Layer"
-msgstr "Redenumeşte layer"
+msgstr "Redenumește layer"
 
 #: kopageapp/KoPADocumentModel.cpp:322
 #: kopageapp/KoPADocumentStructureDocker.cpp:110
@@ -1892,7 +1892,7 @@ msgstr "Vizualizează mod"
 
 #: kopageapp/KoPADocumentStructureDocker.cpp:311
 msgid "Enter the name of the new layer:"
-msgstr "Introduceţi numele noului layer:"
+msgstr "Introduceți numele noului layer:"
 
 #: kopageapp/KoPADocumentStructureDocker.cpp:311
 msgid "New Layer"
@@ -1910,15 +1910,15 @@ msgstr "Creează strat"
 #: kopageapp/KoPADocumentStructureDocker.cpp:351
 msgctxt "(qtundo-format)"
 msgid "Delete Layer"
-msgstr "Şterge layer"
+msgstr "Șterge layer"
 
 #: kopageapp/KoPADocumentStructureDocker.cpp:354
 msgid "Could not delete all layers. At least one layer is required."
-msgstr "Nu s-au putut şterge toate layerele. Este necesar cel puţin un layer."
+msgstr "Nu s-au putut șterge toate layerele. Este necesar cel puțin un layer."
 
 #: kopageapp/KoPADocumentStructureDocker.cpp:354
 msgid "Error deleting layers"
-msgstr "Eroare ştergere layere"
+msgstr "Eroare ștergere layere"
 
 #: kopageapp/KoPADocumentStructureDocker.cpp:621
 msgid "Add a new slide"
@@ -1941,7 +1941,7 @@ msgstr "Copiază"
 
 #: kopageapp/KoPADocumentStructureDocker.cpp:630
 msgid "Paste"
-msgstr "Lipeşte"
+msgstr "Lipește"
 
 #: kopageapp/KoPAPageThumbnailModel.cpp:69
 #, kde-format
@@ -1952,17 +1952,17 @@ msgstr "Pagina %1"
 msgctxt "(qtundo-format)"
 msgid "Paste Slide"
 msgid_plural "Paste Slides"
-msgstr[0] "Lipeşte slide"
-msgstr[1] "Lipeşte slideurile"
-msgstr[2] "Lipeşte slideurile"
+msgstr[0] "Lipește slide"
+msgstr[1] "Lipește slideurile"
+msgstr[2] "Lipește slideurile"
 
 #: kopageapp/KoPAPastePage.cpp:137
 msgctxt "(qtundo-format)"
 msgid "Paste Page"
 msgid_plural "Paste Pages"
-msgstr[0] "Lipeşte pagină"
-msgstr[1] "Lipeşte paginile"
-msgstr[2] "Lipeşte paginile"
+msgstr[0] "Lipește pagină"
+msgstr[1] "Lipește paginile"
+msgstr[2] "Lipește paginile"
 
 #: kopageapp/KoPAView.cpp:316 widgets/KoToolBoxDocker.cpp:41
 msgid "Tools"
@@ -1974,11 +1974,11 @@ msgstr "Șt&erge"
 
 #: kopageapp/KoPAView.cpp:368 koreport/wrtembed/KoReportDesigner.cpp:642
 msgid "Snap to Grid"
-msgstr "Îmbinare la reţea"
+msgstr "Îmbinare la rețea"
 
 #: kopageapp/KoPAView.cpp:378
 msgid "Show Master Pages"
-msgstr "Afişează pagini părinte"
+msgstr "Afișează pagini părinte"
 
 #: kopageapp/KoPAView.cpp:382
 msgid "Show Rulers"
@@ -2010,7 +2010,7 @@ msgstr "Șterge pagină"
 
 #: kopageapp/KoPAView.cpp:403 kopageapp/KoPAView.cpp:404
 msgid "Delete the current page"
-msgstr "Şterge pagina curentă"
+msgstr "Șterge pagina curentă"
 
 #: kopageapp/KoPAView.cpp:407
 msgid "Master Page..."
@@ -2106,13 +2106,13 @@ msgstr "Setează imaginea de fundal..."
 #, fuzzy
 #| msgid "Display shapes of master"
 msgid "Display shapes of master page"
-msgstr "Afişează formele părintelui"
+msgstr "Afișează formele părintelui"
 
 #: kopageapp/tools/backgroundTool/KoPABackgroundToolWidget.cpp:56
 #, fuzzy
 #| msgid "Display shapes of master"
 msgid "Display shapes of master slide"
-msgstr "Afişează formele părintelui"
+msgstr "Afișează formele părintelui"
 
 #: kopageapp/tools/backgroundTool/KoPABackgroundToolWidget.cpp:114
 #, fuzzy
@@ -2192,7 +2192,7 @@ msgstr "Poziție"
 
 #: koreport/common/krsectiondata.cpp:108
 msgid "Height"
-msgstr "Înălţime"
+msgstr "Înălțime"
 
 #: koreport/common/krsectiondata.cpp:109
 #: koreport/items/field/KoReportItemField.cpp:107
@@ -2213,7 +2213,7 @@ msgstr "Verifică"
 
 #: koreport/items/check/KoReportItemCheck.cpp:79
 msgid "Cross"
-msgstr "Încrucişare"
+msgstr "Încrucișare"
 
 #: koreport/items/check/KoReportItemCheck.cpp:79
 msgid "Dot"
@@ -2325,7 +2325,7 @@ msgstr "Încadrare cuvinte"
 
 #: koreport/items/field/KoReportItemField.cpp:120
 msgid "Can Grow"
-msgstr "Poate creşte"
+msgstr "Poate crește"
 
 #: koreport/items/image/KoReportItemImage.cpp:123
 msgid "Clip"
@@ -2349,7 +2349,7 @@ msgstr "Etichetă"
 
 #: koreport/wrtembed/detailgroupsectiondialog.cpp:38
 msgid "Group Section Editor"
-msgstr "Editor secţiuni grup"
+msgstr "Editor secțiuni grup"
 
 #. i18n: ectx: property (text), widget (QLabel, lblColumn)
 #: koreport/wrtembed/detailgroupsectiondialog.ui:29
@@ -2375,7 +2375,7 @@ msgstr "Afișează antet grup"
 #, fuzzy
 #| msgid "Show Group Footer"
 msgid "Show group footer:"
-msgstr "Afişează subsol grup"
+msgstr "Afișează subsol grup"
 
 #. i18n: ectx: property (text), widget (QLabel, breakAfterFooterLabel)
 #: koreport/wrtembed/detailgroupsectiondialog.ui:94
@@ -2466,7 +2466,7 @@ msgstr "Unitate pagină"
 
 #: koreport/wrtembed/KoReportDesigner.cpp:643
 msgid "Grid Divisions"
-msgstr "Diviziuni reţea"
+msgstr "Diviziuni rețea"
 
 #: koreport/wrtembed/KoReportDesigner.cpp:646
 msgid "Left Margin"
@@ -2507,8 +2507,8 @@ msgid ""
 "A button that allows a report's surface to be selected, allowing its "
 "properties to be seen."
 msgstr ""
-"Un buton care permite selectarea suprafeţei unui raport, permiţând "
-"proprietăţilor sale să fie văzute."
+"Un buton care permite selectarea suprafeței unui raport, permițând "
+"proprietăților sale să fie văzute."
 
 #: koreport/wrtembed/reportsection.cpp:73
 msgid "Detail"
@@ -2516,7 +2516,7 @@ msgstr "Detaliu"
 
 #: koreport/wrtembed/sectioneditor.cpp:59
 msgid "Section Editor"
-msgstr "Editor secţiune:"
+msgstr "Editor secțiune:"
 
 #: koreport/wrtembed/sectioneditor.cpp:63
 msgid "Add..."
@@ -2563,7 +2563,7 @@ msgstr "Afișează antet grup"
 #, fuzzy
 #| msgid "Show Group Footer"
 msgid "Show report footer"
-msgstr "Afişează subsol grup"
+msgstr "Afișează subsol grup"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbPageHeader)
 #: koreport/wrtembed/sectioneditor.ui:43
@@ -2622,7 +2622,7 @@ msgstr "Subsol pagină"
 #. i18n: ectx: property (title), widget (QGroupBox, GroupBox1)
 #: koreport/wrtembed/sectioneditor.ui:217
 msgid "Group Sections"
-msgstr "Secţiuni grup"
+msgstr "Secțiuni grup"
 
 #: kotext/commands/ChangeListCommand.cpp:41
 #: kotext/commands/ChangeListCommand.cpp:88
@@ -2658,7 +2658,7 @@ msgstr "Text"
 #: kotext/commands/DeleteTableColumnCommand.cpp:38
 msgctxt "(qtundo-format)"
 msgid "Delete Column"
-msgstr "Şterge coloană"
+msgstr "Șterge coloană"
 
 #: kotext/commands/DeleteTableRowCommand.cpp:38
 msgctxt "(qtundo-format)"
@@ -2677,7 +2677,7 @@ msgstr "Inserează notă de subsol"
 #| msgid "Insert Endnote"
 msgctxt "(qtundo-format)"
 msgid "Insert Endnote"
-msgstr "Inserează notă sfârşit"
+msgstr "Inserează notă sfârșit"
 
 #: kotext/commands/InsertTableColumnCommand.cpp:40
 msgctxt "(qtundo-format)"
@@ -2709,7 +2709,7 @@ msgstr "Modifică numerotare listă"
 #| msgid "Group Sections"
 msgctxt "(qtundo-format)"
 msgid "New Section"
-msgstr "Secţiuni grup"
+msgstr "Secțiuni grup"
 
 #: kotext/commands/ParagraphFormattingCommand.cpp:56
 #: kotext/KoTextEditor_format.cpp:510 kotext/KoTextEditor_format.cpp:531
@@ -2731,7 +2731,7 @@ msgstr "Setează stil paragraf"
 #| msgid "Rename Shape"
 msgctxt "(qtundo-format)"
 msgid "Rename Section"
-msgstr "Redenumeşte forme"
+msgstr "Redenumește forme"
 
 #: kotext/commands/ResizeTableCommand.cpp:45
 #, fuzzy
@@ -2749,29 +2749,29 @@ msgstr ""
 #| msgid "Paste As Text"
 msgctxt "(qtundo-format)"
 msgid "Paste As Text"
-msgstr "Lipeşte ca text"
+msgstr "Lipește ca text"
 
 #: kotext/commands/TextPasteCommand.cpp:68
 msgctxt "(qtundo-format)"
 msgid "Paste"
-msgstr "Lipeşte"
+msgstr "Lipește"
 
 #: kotext/InsertTextLocator.cpp:27
 msgid "Index Reference"
-msgstr "Referinţă index"
+msgstr "Referință index"
 
 #: kotext/InsertTextReferenceAction.cpp:35
 #: kotext/InsertTextReferenceAction.cpp:63
 msgid "Text Reference"
-msgstr "Referinţă text"
+msgstr "Referință text"
 
 #: kotext/InsertTextReferenceAction.cpp:44
 msgid "Please create an index to reference first."
-msgstr "Mai întâi creaţi un index la acea referinţă."
+msgstr "Mai întâi creați un index la acea referință."
 
 #: kotext/InsertTextReferenceAction.cpp:53
 msgid "Select the index you want to reference"
-msgstr "Selectaţi indexul pe care doriţi să-l indicaţi"
+msgstr "Selectați indexul pe care doriți să-l indicați"
 
 #: kotext/KoFindStrategy.cpp:63
 #, kde-format
@@ -2806,14 +2806,14 @@ msgstr[2] "S-au făcut %1 de modificări"
 #: kotext/KoReplaceStrategy.cpp:72
 #, kde-format
 msgid "Replace %1 with %2?"
-msgstr "Înlocuiţi %1 cu %2?"
+msgstr "Înlocuiți %1 cu %2?"
 
 #: kotext/KoSectionManager.cpp:129
 #, fuzzy, kde-format
 #| msgid "Group Sections"
 msgctxt "new numbered section name"
 msgid "New section %1"
-msgstr "Secţiuni grup"
+msgstr "Secțiuni grup"
 
 #: kotext/KoText.cpp:32
 msgctxt "Underline Style"
@@ -2850,7 +2850,7 @@ msgstr "Adaugă semn de carte"
 #| msgid "Add Citation"
 msgctxt "(qtundo-format)"
 msgid "Add Annotation"
-msgstr "Adaugă citaţie"
+msgstr "Adaugă citație"
 
 #: kotext/KoTextEditor.cpp:525
 #, fuzzy
@@ -2886,7 +2886,7 @@ msgstr "Inserează tabel"
 #| msgid "Merge Cells"
 msgctxt "(qtundo-format)"
 msgid "Merge Cells"
-msgstr "Uneşte celule"
+msgstr "Unește celule"
 
 #: kotext/KoTextEditor.cpp:1113
 #, fuzzy
@@ -2935,7 +2935,7 @@ msgstr "Inserează bibliografie"
 #| msgid "Add Citation"
 msgctxt "(qtundo-format)"
 msgid "Add Citation"
-msgstr "Adaugă citaţie"
+msgstr "Adaugă citație"
 
 #: kotext/KoTextEditor.cpp:1369 kotext/KoTextEditor.cpp:1371
 #: kotext/KoTextEditor.cpp:1409
@@ -3012,7 +3012,7 @@ msgstr "Redu dimensiune font"
 #| msgid "Increase font size"
 msgctxt "(qtundo-format)"
 msgid "Increase font size"
-msgstr "Măreşte dimensiune  font"
+msgstr "Mărește dimensiune  font"
 
 #: kotext/KoTextEditor_format.cpp:295
 #, fuzzy
@@ -3145,15 +3145,15 @@ msgstr "Creare copie de rezervă"
 
 #: main/config/KoConfigGridPage.cpp:78
 msgid "Show grid:"
-msgstr "Afișează reţea:"
+msgstr "Afișează rețea:"
 
 #: main/config/KoConfigGridPage.cpp:79
 msgid "Snap to grid:"
-msgstr "Îmbinare în reţea:"
+msgstr "Îmbinare în rețea:"
 
 #: main/config/KoConfigGridPage.cpp:80
 msgid "Grid color:"
-msgstr "Culoare reţea:"
+msgstr "Culoare rețea:"
 
 #: main/config/KoConfigGridPage.cpp:82
 msgid "Spacing"
@@ -3171,7 +3171,7 @@ msgstr "&Vertical:"
 
 #: main/config/KoConfigMiscPage.cpp:89
 msgid "Units:"
-msgstr "Unităţi:"
+msgstr "Unități:"
 
 #: main/config/KoConfigMiscPage.cpp:97
 msgid "Handle radius:"
@@ -3183,13 +3183,13 @@ msgstr "Preia sensibilitatea:"
 
 #: main/config/KoConfigMiscPage.cpp:110
 msgid "Paste offset:"
-msgstr "Lipeşte decalaj:"
+msgstr "Lipește decalaj:"
 
 #: main/config/KoConfigMiscPage.cpp:114
 #, fuzzy
 #| msgid "Paste at Cursor"
 msgid "Paste at Cursor:"
-msgstr "Lipeşte la cursor"
+msgstr "Lipește la cursor"
 
 #: main/KoApplication.cpp:170
 msgid "Only print and exit"
@@ -3197,35 +3197,35 @@ msgstr "Printează si închide"
 
 #: main/KoApplication.cpp:171
 msgid "Open a new document with a template"
-msgstr "Deschide un document nou cu un şablon"
+msgstr "Deschide un document nou cu un șablon"
 
 #: main/KoApplication.cpp:172
 msgid "Override display DPI"
-msgstr "Înlocuieşte DPI display"
+msgstr "Înlocuiește DPI display"
 
 #: main/KoApplication.cpp:173
 msgid "Only export to PDF and exit"
-msgstr "Exportă ca PDF şi închide"
+msgstr "Exportă ca PDF și închide"
 
 #: main/KoApplication.cpp:174
 msgid "Filename for export-pdf"
-msgstr "Nume fişier pentru exportare-pdf"
+msgstr "Nume fișier pentru exportare-pdf"
 
 #: main/KoApplication.cpp:175
 msgid "just load the file and then exit"
-msgstr "încarcă fişierul si închide"
+msgstr "încarcă fișierul si închide"
 
 #: main/KoApplication.cpp:176
 msgid "load the file, show the window and progressbar and then exit"
-msgstr "încarcă fişierul, afişează fereastra si bara de progres si închide"
+msgstr "încarcă fișierul, afișează fereastra si bara de progres si închide"
 
 #: main/KoApplication.cpp:177
 msgid "Filename to write profiling information into."
-msgstr "Numele fişierului în care să fie scrise informaţiile profilului."
+msgstr "Numele fișierului în care să fie scrise informațiile profilului."
 
 #: main/KoApplication.cpp:178
 msgid "Load a file and save it as an ODF file. Meant for debugging."
-msgstr "Încarcaţi un fişier şi salvaţi-l ca un fişier ODF. Pentru depanare."
+msgstr "Încarcați un fișier și salvați-l ca un fișier ODF. Pentru depanare."
 
 #: main/KoApplication.cpp:179
 msgid "Calligra"
@@ -3242,7 +3242,7 @@ msgstr ""
 #, fuzzy, kde-format
 #| msgid "Creation error"
 msgid "%1: Critical Error"
-msgstr "Eroare creaţie"
+msgstr "Eroare creație"
 
 #: main/KoApplication.cpp:265
 msgid ""
@@ -3254,17 +3254,17 @@ msgstr ""
 #: main/KoApplication.cpp:510
 #, kde-format
 msgid "No template found for: %1"
-msgstr "Nu s-au găsit şabloane pentru: %1"
+msgstr "Nu s-au găsit șabloane pentru: %1"
 
 #: main/KoApplication.cpp:513
 #, kde-format
 msgid "Too many templates found for: %1"
-msgstr "S-au găsit prea multe şabloane pentru: %1"
+msgstr "S-au găsit prea multe șabloane pentru: %1"
 
 #: main/KoApplication.cpp:535
 #, kde-format
 msgid "Template %1 failed to load."
-msgstr "Nu s-a putut încărca şablonul %1."
+msgstr "Nu s-a putut încărca șablonul %1."
 
 #: main/KoAutoSaveRecoveryDialog.cpp:183
 msgctxt "@title:window"
@@ -3326,7 +3326,7 @@ msgid ""
 "Please save your work manually."
 msgstr ""
 "Parola acestui document criptat nu este cunoscută. Salvare automată oprită! "
-"Salvaţi-vă munca manual."
+"Salvați-vă munca manual."
 
 #: main/KoDocument.cpp:729
 msgid "Autosaving..."
@@ -3334,26 +3334,26 @@ msgstr "Salvare automată..."
 
 #: main/KoDocument.cpp:741
 msgid "Error during autosave! Partition full?"
-msgstr "Eroare în timpul salvării automate. Partiţie plină?"
+msgstr "Eroare în timpul salvării automate. Partiție plină?"
 
 #: main/KoDocument.cpp:834
 msgid "Could not create the file for saving"
-msgstr "Nu s-a putut crea fişierul pentru salvare "
+msgstr "Nu s-a putut crea fișierul pentru salvare "
 
 #: main/KoDocument.cpp:878 main/KoDocument.cpp:900 main/KoDocument.cpp:931
 #: main/KoDocument.cpp:965
 #, kde-format
 msgid "Not able to write '%1'. Partition full?"
-msgstr "Nu s-a putut scrie '%1'. Partiţie plină?"
+msgstr "Nu s-a putut scrie '%1'. Partiție plină?"
 
 #: main/KoDocument.cpp:885
 msgid "Not able to write RDF metadata. Partition full?"
-msgstr "Nu s-a putut scrie RDF metadata. Partiţie plină?"
+msgstr "Nu s-a putut scrie RDF metadata. Partiție plină?"
 
 #: main/KoDocument.cpp:893 main/KoDocument.cpp:940 main/KoDocument.cpp:2016
 #, kde-format
 msgid "Error while trying to write '%1'. Partition full?"
-msgstr "Eroare în timpul scrierii \"%1\". Partiţie plină?"
+msgstr "Eroare în timpul scrierii \"%1\". Partiție plină?"
 
 #: main/KoDocument.cpp:1226
 #, kde-format
@@ -3370,7 +3370,7 @@ msgid ""
 "Do you want to open it instead?"
 msgstr ""
 "Există deja un fișier autosalvat pentru acest document. \n"
-"Doriți să îl deschideţi pe acesta?"
+"Doriți să îl deschideți pe acesta?"
 
 #: main/KoDocument.cpp:1359 main/KoDocument.cpp:1704 main/KoMainWindow.cpp:736
 #, kde-format
@@ -3387,13 +3387,13 @@ msgstr "Deschide documentul"
 #, fuzzy
 #| msgid "Could not create the file for saving"
 msgid "Could not create the filter plugin"
-msgstr "Nu s-a putut crea fişierul pentru salvare "
+msgstr "Nu s-a putut crea fișierul pentru salvare "
 
 #: main/KoDocument.cpp:1501
 #, fuzzy
 #| msgid "Could not create the file for saving"
 msgid "Could not create the output document"
-msgstr "Nu s-a putut crea fişierul pentru salvare "
+msgstr "Nu s-a putut crea fișierul pentru salvare "
 
 #: main/KoDocument.cpp:1504
 msgid "File not found"
@@ -3401,7 +3401,7 @@ msgstr "Fișierul nu a fost găsit"
 
 #: main/KoDocument.cpp:1507
 msgid "Cannot create storage"
-msgstr "Nu s-a putut crea spaţiul de stocare"
+msgstr "Nu s-a putut crea spațiul de stocare"
 
 #: main/KoDocument.cpp:1510
 msgid "Bad MIME type"
@@ -3498,11 +3498,11 @@ msgstr "%1 nu este un fișier."
 #: main/KoDocument.cpp:1726
 msgid "Could not open the file for reading (check read permissions)."
 msgstr ""
-"Nu s-a putut deschide fişierul pentru citire (verificaţi permisiune citire)."
+"Nu s-a putut deschide fișierul pentru citire (verificați permisiune citire)."
 
 #: main/KoDocument.cpp:1737
 msgid "Could not read the beginning of the file."
-msgstr "Nu s-a putut citi inceputul fişierului."
+msgstr "Nu s-a putut citi inceputul fișierului."
 
 #: main/KoDocument.cpp:1767
 #, kde-format
@@ -3516,11 +3516,11 @@ msgstr ""
 #: main/KoDocument.cpp:1788
 #, kde-format
 msgid "Not a valid Calligra file: %1"
-msgstr "Nu este un fişier Calligra valid: %1"
+msgstr "Nu este un fișier Calligra valid: %1"
 
 #: main/KoDocument.cpp:1873
 msgid "Invalid document: no file 'maindoc.xml'."
-msgstr "Document invalid: nu există fişierul ,,maindoc.xml\"."
+msgstr "Document invalid: nu există fișierul ,,maindoc.xml\"."
 
 #: main/KoDocument.cpp:1897
 #, kde-format
@@ -3528,7 +3528,7 @@ msgid ""
 "Document <i>%1</i> contains several versions. Go to File->Versions to open "
 "an old version."
 msgstr ""
-"Documentul <i>%1</i> conţine mai multe versiuni. Mergeţi în fişierul-"
+"Documentul <i>%1</i> conține mai multe versiuni. Mergeți în fișierul-"
 ">Versiuni pentru a deschide o versiune veche."
 
 #: main/KoDocument.cpp:2096 main/KoDocument.cpp:2583
@@ -3543,7 +3543,7 @@ msgid ""
 "<p>The document <b>'%1'</b> has been modified.</p><p>Do you want to save it?"
 "</p>"
 msgstr ""
-"<p>Documentul <b>\"%1\"</b> a fost modificat.</p><p>Doriţi să îl salvaţi?</p>"
+"<p>Documentul <b>\"%1\"</b> a fost modificat.</p><p>Doriți să îl salvați?</p>"
 
 #: main/KoDocument.cpp:2182
 msgid "Internal error: saveXML not implemented"
@@ -3596,7 +3596,7 @@ msgid ""
 "The document \"%1\" has been modified.\n"
 "Do you want to save your changes or discard them?"
 msgstr ""
-"<p>Documentul <b>\"%1\"</b> a fost modificat.</p><p>Doriţi să îl salvaţi?</p>"
+"<p>Documentul <b>\"%1\"</b> a fost modificat.</p><p>Doriți să îl salvați?</p>"
 
 #: main/KoDocument.cpp:2589
 #, fuzzy
@@ -3647,7 +3647,7 @@ msgstr "Sensibil la majuscule"
 
 #: main/KoFindText.cpp:59
 msgid "Match cases when searching"
-msgstr "Potriveşte condiţiile când cauţi"
+msgstr "Potrivește condițiile când cauți"
 
 #: main/KoFindText.cpp:60
 msgid "Match only whole words"
@@ -3688,17 +3688,17 @@ msgstr "Opțiuni"
 #: main/KoFindToolbar.cpp:128
 msgctxt "Label for the Replace text input box"
 msgid "Replace:"
-msgstr "Înlocuieşte:"
+msgstr "Înlocuiește:"
 
 #: main/KoFindToolbar.cpp:138
 msgctxt "Replace the current match"
 msgid "Replace"
-msgstr "Înlocuieşte"
+msgstr "Înlocuiește"
 
 #: main/KoFindToolbar.cpp:144
 msgctxt "Replace all found matches"
 msgid "Replace All"
-msgstr "Înlocuieşte tot"
+msgstr "Înlocuiește tot"
 
 #: main/KoFindToolbar.cpp:213
 #, kde-format
@@ -3715,11 +3715,11 @@ msgstr "Nu s-au găsit potriviri"
 
 #: main/KoFindToolbar.cpp:229
 msgid "Search hit bottom, continuing from top."
-msgstr "Căutarea a atins sfârşitul documentului, continuă de la început."
+msgstr "Căutarea a atins sfârșitul documentului, continuă de la început."
 
 #: main/KoFindToolbar.cpp:231
 msgid "Search hit top, continuing from bottom."
-msgstr "Căutarea a atins începutul documentului, continuă de la sfârşit."
+msgstr "Căutarea a atins începutul documentului, continuă de la sfârșit."
 
 #: main/KoMainWindow.cpp:174
 #, kde-format
@@ -3770,18 +3770,18 @@ msgstr "Pe tot ecranul"
 
 #: main/KoMainWindow.cpp:368
 msgid "Show Dockers"
-msgstr "Afișează ataşamentele"
+msgstr "Afișează atașamentele"
 
 #: main/KoMainWindow.cpp:373
 #, fuzzy
 #| msgid "Show Dockers"
 msgctxt "@action:inmenu"
 msgid "Show Docker Titlebars"
-msgstr "Afișează ataşamentele"
+msgstr "Afișează atașamentele"
 
 #: main/KoMainWindow.cpp:380
 msgid "Dockers"
-msgstr "Ataşamente"
+msgstr "Atașamente"
 
 #: main/KoMainWindow.cpp:691
 msgid "(write protected)"
@@ -3803,12 +3803,12 @@ msgid ""
 "<qt>Saving as a %1 may result in some loss of formatting.<p>Do you still "
 "want to save in this format?</qt>"
 msgstr ""
-"<qt>Salvând ca %1 poate duce la pierderea unor formatări.<p>Doriţi să "
-"salvaţi în acest format?</qt>"
+"<qt>Salvând ca %1 poate duce la pierderea unor formatări.<p>Doriți să "
+"salvați în acest format?</qt>"
 
 #: main/KoMainWindow.cpp:882
 msgid "Confirm Save"
-msgstr "Confirmaţi salvarea"
+msgstr "Confirmați salvarea"
 
 #: main/KoMainWindow.cpp:891
 #, kde-format
@@ -3816,12 +3816,12 @@ msgid ""
 "<qt>Exporting as a %1 may result in some loss of formatting.<p>Do you still "
 "want to export to this format?</qt>"
 msgstr ""
-"<qt>Exportând ca %1 poate duce la pierderea unor formatări.<p>Doriţi să "
-"exportaţi în acest format?</qt>"
+"<qt>Exportând ca %1 poate duce la pierderea unor formatări.<p>Doriți să "
+"exportați în acest format?</qt>"
 
 #: main/KoMainWindow.cpp:894
 msgid "Confirm Export"
-msgstr "Comfirmaţi exportarea"
+msgstr "Comfirmați exportarea"
 
 #: main/KoMainWindow.cpp:895
 msgid "Export"
@@ -3928,15 +3928,15 @@ msgstr "<tr><td><b>Accesat:</b></td><td>%1</td></tr>"
 
 #: main/KoStandardAction.cpp:31
 msgid "Show Guides"
-msgstr "Afişează ghiduri"
+msgstr "Afișează ghiduri"
 
 #: main/KoStandardAction.cpp:32
 msgid "Shows or hides guides"
-msgstr "Afişează sau ascunde ghiduri"
+msgstr "Afișează sau ascunde ghiduri"
 
 #: main/KoTemplateCreateDia.cpp:115
 msgid "Create Template"
-msgstr "Creează şablon"
+msgstr "Creează șablon"
 
 #: main/KoTemplateCreateDia.cpp:124
 #, fuzzy
@@ -3979,12 +3979,12 @@ msgstr "&Selectează..."
 
 #: main/KoTemplateCreateDia.cpp:179
 msgid "Use the new template as default"
-msgstr "Foloseşte noul şablon ca implicit"
+msgstr "Folosește noul șablon ca implicit"
 
 #: main/KoTemplateCreateDia.cpp:181
 #, kde-format
 msgid "Use the new template every time %1 starts"
-msgstr "Foloseşe noul şablon de fiecare dată când %1 porneşte"
+msgstr "Foloseșe noul șablon de fiecare dată când %1 pornește"
 
 #: main/KoTemplateCreateDia.cpp:321
 #, kde-format
@@ -4013,11 +4013,11 @@ msgstr "Elimină grup"
 
 #: main/KoTemplateCreateDia.cpp:466
 msgid "Do you really want to remove that template?"
-msgstr "Doriți să eliminați acel şablon?"
+msgstr "Doriți să eliminați acel șablon?"
 
 #: main/KoTemplateCreateDia.cpp:467
 msgid "Remove Template"
-msgstr "Elimină şablon"
+msgstr "Elimină șablon"
 
 #: main/KoTemplateCreateDia.cpp:471
 msgid "&Delete"
@@ -4097,7 +4097,7 @@ msgid ""
 "This document contains an unknown checksum. When you give a password it "
 "might not be verified."
 msgstr ""
-"Documentul conţine o sumă de control necunoscută. Când introduceţi o parolă, "
+"Documentul conține o sumă de control necunoscută. Când introduceți o parolă, "
 "s-ar putea sa nu fie verificată."
 
 #: odf/KoEncryptedStore.cpp:268 odf/KoEncryptedStore.cpp:285
@@ -4105,15 +4105,15 @@ msgid ""
 "This document contains an unknown encryption method. Some parts may be "
 "unreadable."
 msgstr ""
-"Documnetul conţine o metodă de criptare necunoscută. S-ar putea ca unele "
-"părţi sa fie ilizibile."
+"Documnetul conține o metodă de criptare necunoscută. S-ar putea ca unele "
+"părți sa fie ilizibile."
 
 #: odf/KoEncryptedStore.cpp:300
 msgid ""
 "This document contains incomplete encryption data. Some parts may be "
 "unreadable."
 msgstr ""
-"Documnetul conţine date incomplet criptate. S-ar putea ca unlele părţi să "
+"Documnetul conține date incomplet criptate. S-ar putea ca unlele părți să "
 "fie ilizibile."
 
 #: odf/KoEncryptedStore.cpp:314
@@ -4130,8 +4130,8 @@ msgid ""
 "document will remain unreadable. Please try and save the document again to "
 "prevent losing your work."
 msgstr ""
-"Fişierul manifest pare a fi malformat. Nu poate fi modificat şi documentul "
-"nu va putea fi citit. Încrecaţi încă odată să salvaţi documentul pentru a "
+"Fișierul manifest pare a fi malformat. Nu poate fi modificat și documentul "
+"nu va putea fi citit. Încrecați încă odată să salvați documentul pentru a "
 "preveni pierderea muncii dumneavoastră."
 
 #: odf/KoEncryptedStore.cpp:443
@@ -4139,17 +4139,17 @@ msgid ""
 "The manifest file cannot be written. The document will remain unreadable. "
 "Please try and save the document again to prevent losing your work."
 msgstr ""
-"Fişierul manifest nu poate fi scris. Documentul nu va putea fi citit. "
-"Încercaţi încă odată să salvaţi documentul pentru a preveni pierderea muncii "
+"Fișierul manifest nu poate fi scris. Documentul nu va putea fi citit. "
+"Încercați încă odată să salvați documentul pentru a preveni pierderea muncii "
 "dumneavoastră."
 
 #: odf/KoEncryptedStore.cpp:565
 msgid "Please enter the password to open this file."
-msgstr "Introduceţi parola pentru a deschide acest fişier."
+msgstr "Introduceți parola pentru a deschide acest fișier."
 
 #: odf/KoEncryptedStore.cpp:738
 msgid "Please enter the password to encrypt the document with."
-msgstr "Introduceţi parola cu care documentul să fie criptat."
+msgstr "Introduceți parola cu care documentul să fie criptat."
 
 #: odf/KoEncryptedStore.cpp:752
 msgid "Do you want to save the password?"
@@ -4315,7 +4315,7 @@ msgstr "US Tabloid"
 
 #: odf/KoStore.cpp:181
 msgid "The directory mode is not supported for remote locations."
-msgstr "Modul de dosar nu este suportat pentru locaţii la distanţă."
+msgstr "Modul de dosar nu este suportat pentru locații la distanță."
 
 #: odf/KoStore.cpp:182
 msgid "Calligra Storage"
@@ -4359,7 +4359,7 @@ msgstr ""
 
 #: pigment/colorspaces/KoAlphaColorSpace.cpp:49
 msgid "Clear"
-msgstr "Curăţă"
+msgstr "Curăță"
 
 #: pigment/colorspaces/KoAlphaColorSpace.cpp:122
 #: pigment/compositeops/KoCompositeOps.h:127
@@ -4371,7 +4371,7 @@ msgstr "Scade"
 #: pigment/compositeops/KoCompositeOps.h:129
 #: pigment/KoCompositeOpRegistry.cpp:46
 msgid "Multiply"
-msgstr "Înmulţeşte"
+msgstr "Înmulțește"
 
 #: pigment/colorspaces/KoAlphaColorSpace.cpp:260
 #: pigment/colorspaces/KoAlphaColorSpace.h:176
@@ -4392,12 +4392,12 @@ msgstr "Alfa"
 #: pigment/colorspaces/KoAlphaColorSpace.h:155
 #: pigment/colorspaces/KoAlphaColorSpace.h:158
 msgid "Undefined operation in the alpha color space"
-msgstr "Operaţie nedefinită în spaţiu culoare alfa"
+msgstr "Operație nedefinită în spațiu culoare alfa"
 
 #: pigment/colorspaces/KoLabColorSpace.cpp:38
 #: pigment/colorspaces/KoLabColorSpace.h:72
 msgid "L*a*b* (16-bit integer/channel, unmanaged)"
-msgstr "L*a*b* (16-biţi întreg/canal, neadministrat)"
+msgstr "L*a*b* (16-biți întreg/canal, neadministrat)"
 
 #: pigment/colorspaces/KoLabColorSpace.cpp:42
 #: pigment/compositeops/KoCompositeOps.h:195
@@ -4418,12 +4418,12 @@ msgstr "b*"
 #: pigment/colorspaces/KoRgbU16ColorSpace.cpp:37
 #: pigment/colorspaces/KoRgbU16ColorSpace.h:60
 msgid "RGB (16-bit integer/channel, unmanaged)"
-msgstr "RGB (16-biţi întreg/canal, neadministrat)"
+msgstr "RGB (16-biți întreg/canal, neadministrat)"
 
 #: pigment/colorspaces/KoRgbU8ColorSpace.cpp:38
 #: pigment/colorspaces/KoRgbU8ColorSpace.h:61
 msgid "RGB (8-bit integer/channel, unmanaged)"
-msgstr "RGB (8-biţi întreg/canal, neadministrat)"
+msgstr "RGB (8-biți întreg/canal, neadministrat)"
 
 #: pigment/colorspaces/KoRgbU8ColorSpace.cpp:43
 msgid "Blue"
@@ -4441,7 +4441,7 @@ msgstr "Roșu"
 #: pigment/colorspaces/KoSimpleColorSpace.h:81
 #, kde-format
 msgid "Undefined operation in the %1 space"
-msgstr "Operator nedefinit în spaţiul %1"
+msgstr "Operator nedefinit în spațiul %1"
 
 #: pigment/colorspaces/KoSimpleColorSpace.h:98
 #: pigment/colorspaces/KoSimpleColorSpace.h:103
@@ -4452,7 +4452,7 @@ msgstr "Operator nedefinit în spaţiul %1"
 #: pigment/colorspaces/KoSimpleColorSpace.h:126
 #, kde-format
 msgid "Undefined operation in the %1 color space"
-msgstr "Operaţie nedefinită in spaţiu culoare %1"
+msgstr "Operație nedefinită in spațiu culoare %1"
 
 #: pigment/colorspaces/KoSimpleColorSpaceEngine.cpp:71
 msgid "Simple Color Conversion Engine"
@@ -4507,7 +4507,7 @@ msgstr "Amestec tare"
 #: pigment/compositeops/KoCompositeOps.h:105
 #: pigment/KoCompositeOpRegistry.cpp:85
 msgid "Geometric Mean"
-msgstr "Înţeles geometric"
+msgstr "Înțeles geometric"
 
 #: pigment/compositeops/KoCompositeOps.h:106
 #: pigment/KoCompositeOpRegistry.cpp:83
@@ -4619,7 +4619,7 @@ msgstr "Arc tangentă"
 #: pigment/compositeops/KoCompositeOps.h:133
 #: pigment/KoCompositeOpRegistry.cpp:69
 msgid "Difference"
-msgstr "Diferenţă"
+msgstr "Diferență"
 
 #: pigment/compositeops/KoCompositeOps.h:134
 #: pigment/KoCompositeOpRegistry.cpp:72
@@ -4629,7 +4629,7 @@ msgstr "Excludere"
 #: pigment/compositeops/KoCompositeOps.h:135
 #: pigment/KoCompositeOpRegistry.cpp:70
 msgid "Equivalence"
-msgstr "Echivalenţă"
+msgstr "Echivalență"
 
 #: pigment/compositeops/KoCompositeOps.h:136
 #, fuzzy
@@ -4640,7 +4640,7 @@ msgstr "Plus-minus"
 #: pigment/compositeops/KoCompositeOps.h:165
 #: pigment/KoCompositeOpRegistry.cpp:90
 msgid "Copy Red"
-msgstr "Copiază roşu"
+msgstr "Copiază roșu"
 
 #: pigment/compositeops/KoCompositeOps.h:166
 #: pigment/KoCompositeOpRegistry.cpp:91
@@ -4677,7 +4677,7 @@ msgstr "Saturare"
 #: pigment/compositeops/KoCompositeOps.h:173
 #: pigment/KoCompositeOpRegistry.cpp:100
 msgid "Increase Saturation"
-msgstr "Măreşte saturare"
+msgstr "Mărește saturare"
 
 #: pigment/compositeops/KoCompositeOps.h:174
 #: pigment/KoCompositeOpRegistry.cpp:99
@@ -4692,7 +4692,7 @@ msgstr "Luminozitate"
 #: pigment/compositeops/KoCompositeOps.h:176
 #: pigment/KoCompositeOpRegistry.cpp:102
 msgid "Increase Luminosity"
-msgstr "Măreşte luminozitate"
+msgstr "Mărește luminozitate"
 
 #: pigment/compositeops/KoCompositeOps.h:177
 #: pigment/KoCompositeOpRegistry.cpp:101
@@ -4731,7 +4731,7 @@ msgstr "Saturare HSI"
 #: pigment/compositeops/KoCompositeOps.h:184
 #: pigment/KoCompositeOpRegistry.cpp:109
 msgid "Increase Saturation HSI"
-msgstr "Măreşte saturare HSI"
+msgstr "Mărește saturare HSI"
 
 #: pigment/compositeops/KoCompositeOps.h:185
 #: pigment/KoCompositeOpRegistry.cpp:108
@@ -4746,7 +4746,7 @@ msgstr "Intensitate"
 #: pigment/compositeops/KoCompositeOps.h:187
 #: pigment/KoCompositeOpRegistry.cpp:111
 msgid "Increase Intensity"
-msgstr "Măreşte intensitate"
+msgstr "Mărește intensitate"
 
 #: pigment/compositeops/KoCompositeOps.h:188
 #: pigment/KoCompositeOpRegistry.cpp:110
@@ -4771,7 +4771,7 @@ msgstr "Saturare HSL"
 #: pigment/compositeops/KoCompositeOps.h:193
 #: pigment/KoCompositeOpRegistry.cpp:118
 msgid "Increase Saturation HSL"
-msgstr "Măreşte saturare HSL"
+msgstr "Mărește saturare HSL"
 
 #: pigment/compositeops/KoCompositeOps.h:194
 #: pigment/KoCompositeOpRegistry.cpp:117
@@ -4781,7 +4781,7 @@ msgstr "Redu saturare HSL"
 #: pigment/compositeops/KoCompositeOps.h:196
 #: pigment/KoCompositeOpRegistry.cpp:120
 msgid "Increase Lightness"
-msgstr "Măreşte luminozitate"
+msgstr "Mărește luminozitate"
 
 #: pigment/compositeops/KoCompositeOps.h:197
 #: pigment/KoCompositeOpRegistry.cpp:119
@@ -4806,7 +4806,7 @@ msgstr "Saturare HSV"
 #: pigment/compositeops/KoCompositeOps.h:202
 #: pigment/KoCompositeOpRegistry.cpp:127
 msgid "Increase Saturation HSV"
-msgstr "Măreşte saturare HSV"
+msgstr "Mărește saturare HSV"
 
 #: pigment/compositeops/KoCompositeOps.h:203
 #: pigment/KoCompositeOpRegistry.cpp:126
@@ -4816,12 +4816,12 @@ msgstr "Redu saturare HSV"
 #: pigment/compositeops/KoCompositeOps.h:205
 #: pigment/KoCompositeOpRegistry.cpp:129
 msgid "Increase Value"
-msgstr "Creşte valoare"
+msgstr "Crește valoare"
 
 #: pigment/compositeops/KoCompositeOps.h:206
 #: pigment/KoCompositeOpRegistry.cpp:128
 msgid "Decrease Value"
-msgstr "Descreşte valoare"
+msgstr "Descrește valoare"
 
 #: pigment/KoBasicHistogramProducers.cpp:364
 #: pigment/KoBasicHistogramProducers.cpp:431
@@ -4874,7 +4874,7 @@ msgstr "Scală gri"
 
 #: pigment/KoColorModelStandardIds.cpp:31
 msgid "Grayscale (without transparency)"
-msgstr "Scală gri (fără transparenţă)"
+msgstr "Scală gri (fără transparență)"
 
 #: pigment/KoColorModelStandardIds.cpp:32
 msgid "YCbCr"
@@ -4886,21 +4886,21 @@ msgstr "8 biți"
 
 #: pigment/KoColorModelStandardIds.cpp:35
 msgid "16 Bits"
-msgstr "16 biţi"
+msgstr "16 biți"
 
 #: pigment/KoColorModelStandardIds.cpp:36
 msgid "16 Bits Float"
-msgstr "16 biţi flotant"
+msgstr "16 biți flotant"
 
 #: pigment/KoColorModelStandardIds.cpp:37
 msgid "32 Bits Float"
-msgstr "32 biţi flotant"
+msgstr "32 biți flotant"
 
 #: pigment/KoColorModelStandardIds.cpp:38
 #, fuzzy
 #| msgid "16 Bits Float"
 msgid "64 Bits Float"
-msgstr "16 biţi flotant"
+msgstr "16 biți flotant"
 
 #: pigment/KoCompositeOp.cpp:34 pigment/KoCompositeOpRegistry.cpp:33
 msgid "Arithmetic"
@@ -4965,11 +4965,11 @@ msgstr "Degrade SVG"
 
 #: rdf/InsertSemanticObjectReferenceAction.cpp:56
 msgid "Select the object you want to reference"
-msgstr "Selectaţi obiectul pe care doriţi să-l indicaţi"
+msgstr "Selectați obiectul pe care doriți să-l indicați"
 
 #: rdf/KoDocumentRdf.cpp:604
 msgid "Reference"
-msgstr "Referinţă"
+msgstr "Referință"
 
 #: rdf/KoDocumentRdfEditWidget.cpp:242
 msgid "Set For All Existing"
@@ -4982,16 +4982,16 @@ msgid "<qt>Edits will be lost.<p>There is %1 invalid statement left.</qt>"
 msgid_plural ""
 "<qt>Edits will be lost.<p>There are %1 invalid statements left.</qt>"
 msgstr[0] ""
-"<qt>Editările vor fi pierdute.<p>A rămas %1 instrucţiune invalidă</qt>"
+"<qt>Editările vor fi pierdute.<p>A rămas %1 instrucțiune invalidă</qt>"
 msgstr[1] ""
-"<qt>Editările vor fi pierdute.<p>Au rămas %1 instrucţiuni invalide</qt>"
+"<qt>Editările vor fi pierdute.<p>Au rămas %1 instrucțiuni invalide</qt>"
 msgstr[2] ""
-"<qt>Editările vor fi pierdute.<p>Au rămas %1 de instrucţiuni invalide</qt>"
+"<qt>Editările vor fi pierdute.<p>Au rămas %1 de instrucțiuni invalide</qt>"
 
 #: rdf/KoDocumentRdfEditWidget.cpp:308
 msgctxt "statement is an Rdf related term"
 msgid "Discard invalid statements?"
-msgstr "Anulaţi propoziţiile invalide?"
+msgstr "Anulați propozițiile invalide?"
 
 #: rdf/KoDocumentRdfEditWidget.cpp:348
 msgid "Rdf"
@@ -5021,12 +5021,12 @@ msgstr "copiază"
 #: rdf/KoDocumentRdfEditWidget.ui:53 rdf/KoDocumentRdfEditWidget.ui:91
 #: rdf/KoSemanticStylesheetsEditor.ui:84
 msgid "delete"
-msgstr "şterge"
+msgstr "șterge"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
 #: rdf/KoDocumentRdfEditWidget.ui:76
 msgid "Namespaces"
-msgstr "Spaţii de nume"
+msgstr "Spații de nume"
 
 #. i18n: ectx: property (text), widget (QTreeWidget, m_namespaceView)
 #: rdf/KoDocumentRdfEditWidget.ui:123
@@ -5036,7 +5036,7 @@ msgstr "Prefix"
 #. i18n: ectx: property (text), widget (QTreeWidget, m_namespaceView)
 #: rdf/KoDocumentRdfEditWidget.ui:128
 msgid "Namespace"
-msgstr "Spaţiu de nume"
+msgstr "Spațiu de nume"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_3)
 #: rdf/KoDocumentRdfEditWidget.ui:137
@@ -5115,8 +5115,8 @@ msgstr ""
 "size:9pt; font-weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
 "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Verdana'; font-size:13pt;\"># Inseraţi aici queryul dumneavoastră "
-"SPARQL<br /># Rezultatele sunt afişate dedesupt.</span></p>\n"
+"family:'Verdana'; font-size:13pt;\"># Inserați aici queryul dumneavoastră "
+"SPARQL<br /># Rezultatele sunt afișate dedesupt.</span></p>\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
 "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
 "family:'Verdana'; font-size:13pt;\"></p>\n"
@@ -5179,9 +5179,9 @@ msgid ""
 "the stylesheet for all existing semantic objects to the new default "
 "stylesheet as well."
 msgstr ""
-"Setaţi foaia de stil implicită în acest document. Noile obiecte RDF vor "
-"folosi automat această foaie de stil. Butoanele vă permit să setaţi foaia de "
-"stil pentru toate obiectele semantice existente şi în noua foaie de stil "
+"Setați foaia de stil implicită în acest document. Noile obiecte RDF vor "
+"folosi automat această foaie de stil. Butoanele vă permit să setați foaia de "
+"stil pentru toate obiectele semantice existente și în noua foaie de stil "
 "implicită."
 
 #: rdf/KoRdfSemanticTreeWidgetItem.cpp:114
@@ -5214,7 +5214,7 @@ msgstr "Editează %1"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: rdf/KoSemanticStylesheetsEditor.ui:17
 msgid "Stylesheet Definition"
-msgstr "Definiţie foaie stiluri"
+msgstr "Definiție foaie stiluri"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: rdf/KoSemanticStylesheetsEditor.ui:29
@@ -5411,7 +5411,7 @@ msgstr "Recent:"
 
 #: widgets/KoColorSetWidget.cpp:175
 msgid "Add / Remove Colors..."
-msgstr "Adaugă/şterge culori..."
+msgstr "Adaugă/șterge culori..."
 
 #: widgets/KoConfigAuthorPage.cpp:62
 msgid "Add new author profile (starts out as a copy of current)"
@@ -5421,7 +5421,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Delete the current page"
 msgid "Delete the author profile"
-msgstr "Şterge pagina curentă"
+msgstr "Șterge pagina curentă"
 
 #: widgets/KoConfigAuthorPage.cpp:140
 msgid "Name (not duplicate or blank name):"
@@ -5539,8 +5539,8 @@ msgid ""
 "Please check the ranges you specified. The start value must be lower than "
 "the end value."
 msgstr ""
-"Verificaţi aria specificată. Valoarea de început trebuie să fie mai mică "
-"decât valoarea de sfârşit."
+"Verificați aria specificată. Valoarea de început trebuie să fie mai mică "
+"decât valoarea de sfârșit."
 
 #: widgets/KoCsvImportDialog.cpp:767
 #, kde-format
@@ -5560,12 +5560,12 @@ msgstr "&Codare:"
 #. i18n: ectx: property (text), widget (QCheckBox, m_firstRowHeader)
 #: widgets/KoCsvImportDialog.ui:107
 msgid "First row contains headers"
-msgstr "Primul rând conţine antete"
+msgstr "Primul rând conține antete"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_firstColHeader)
 #: widgets/KoCsvImportDialog.ui:120
 msgid "First column contains headers"
-msgstr "Prima coloana conţine antete"
+msgstr "Prima coloana conține antete"
 
 #. i18n: ectx: attribute (title), widget (QWidget, m_formatTab)
 #: widgets/KoCsvImportDialog.ui:144
@@ -5585,7 +5585,7 @@ msgstr "Virgulă"
 #. i18n: ectx: property (text), widget (QRadioButton, m_radioSemicolon)
 #: widgets/KoCsvImportDialog.ui:172
 msgid "Semicolon"
-msgstr "Punct şi virgulă"
+msgstr "Punct și virgulă"
 
 #. i18n: ectx: property (text), widget (QRadioButton, m_radioOther)
 #: widgets/KoCsvImportDialog.ui:179
@@ -5630,7 +5630,7 @@ msgstr "Separator de mii:"
 #. i18n: ectx: property (text), widget (QCheckBox, m_ignoreDuplicates)
 #: widgets/KoCsvImportDialog.ui:363
 msgid "Ignore duplicate delimiters"
-msgstr "Ignoră delimitatorii duplicaţi"
+msgstr "Ignoră delimitatorii duplicați"
 
 #. i18n: ectx: property (text), widget (QLabel, label1)
 #: widgets/KoCsvImportDialog.ui:370
@@ -5668,7 +5668,7 @@ msgstr "la"
 #| msgid "Show Dockers"
 msgctxt "@info:tooltip"
 msgid "Float Docker"
-msgstr "Afișează ataşamentele"
+msgstr "Afișează atașamentele"
 
 #: widgets/KoDockWidgetTitleBar.cpp:61
 #, fuzzy
@@ -5681,14 +5681,14 @@ msgstr "Deschide document"
 #| msgid "Tool Bars Docker"
 msgctxt "@info:tooltip"
 msgid "Collapse Docker"
-msgstr "Ataşamente bări instrumente"
+msgstr "Atașamente bări instrumente"
 
 #: widgets/KoDockWidgetTitleBar.cpp:81
 #, fuzzy
 #| msgid "Show Dockers"
 msgctxt "@info:tooltip"
 msgid "Lock Docker"
-msgstr "Afișează ataşamentele"
+msgstr "Afișează atașamentele"
 
 #. i18n: ectx: property (text), widget (QPushButton, pbEncrypt)
 #: widgets/koDocumentInfoAboutWidget.ui:23 widgets/KoDocumentInfoDlg.cpp:236
@@ -5778,7 +5778,7 @@ msgstr "Ultima pagină"
 
 #: widgets/KoDocumentInfoDlg.cpp:191
 msgid "Use ';' (Example: Office;KDE;Calligra)"
-msgstr "Folosiţi ';' (exemplu: birou;KDE;Calligra)"
+msgstr "Folosiți ';' (exemplu: birou;KDE;Calligra)"
 
 #: widgets/KoDocumentInfoDlg.cpp:220 widgets/KoDocumentInfoDlg.cpp:318
 msgid "This document will be decrypted"
@@ -5786,7 +5786,7 @@ msgstr "Acest document va fi decriptat"
 
 #: widgets/KoDocumentInfoDlg.cpp:222 widgets/KoDocumentInfoDlg.cpp:320
 msgid "Do not decrypt"
-msgstr "Nu decriptaţi"
+msgstr "Nu decriptați"
 
 #: widgets/KoDocumentInfoDlg.cpp:224 widgets/KoDocumentInfoDlg.cpp:322
 msgid "This document is encrypted"
@@ -5802,7 +5802,7 @@ msgstr "Acest document va fi criptat."
 
 #: widgets/KoDocumentInfoDlg.cpp:232 widgets/KoDocumentInfoDlg.cpp:330
 msgid "Do not encrypt"
-msgstr "Nu criptaţi"
+msgstr "Nu criptați"
 
 #: widgets/KoDocumentInfoDlg.cpp:234 widgets/KoDocumentInfoDlg.cpp:332
 msgid "This document is not encrypted"
@@ -5817,8 +5817,8 @@ msgid ""
 "<qt>Decrypting the document will remove the password protection from it."
 "<p>Do you still want to decrypt the file?</qt>"
 msgstr ""
-"<qt>Decriptarea documentului va şterge parola care îl protejează.<p>Doriţi "
-"să decriptaţi fişierul?</qt>"
+"<qt>Decriptarea documentului va șterge parola care îl protejează.<p>Doriți "
+"să decriptați fișierul?</qt>"
 
 #: widgets/KoDocumentInfoDlg.cpp:356
 msgid "Confirm Decrypt"
@@ -5834,7 +5834,7 @@ msgid ""
 "decryption, please save the document.</qt>"
 msgstr ""
 "<qt>Documentul dumneavoastră nu s-a putut salva automat.<p>Pentru a finaliza "
-"decriptarea, salvaţi documentul.</qt>"
+"decriptarea, salvați documentul.</qt>"
 
 #: widgets/KoDocumentInfoDlg.cpp:370 widgets/KoDocumentInfoDlg.cpp:378
 #: widgets/KoDocumentInfoDlg.cpp:411 widgets/KoDocumentInfoDlg.cpp:419
@@ -5848,7 +5848,7 @@ msgid ""
 "document now?</qt>"
 msgstr ""
 "<qt>De când a fost deschis, documentul a fost modificat. Pentru a finaliza "
-"decriptarea documentul trebuie salvat.<p>Doriţi să salvaţi acum documentul?</"
+"decriptarea documentul trebuie salvat.<p>Doriți să salvați acum documentul?</"
 "qt>"
 
 #: widgets/KoDocumentInfoDlg.cpp:393
@@ -5859,8 +5859,8 @@ msgid ""
 "file to OASIS OpenDocument?</qt>"
 msgstr ""
 "<qt>Momentan, documenutul este salvat ca %1. Documentul trebuie să fie "
-"modificat în <b>OASIS DeschidereDocument</b> pentru a fi criptat.<p>Doriţi "
-"să modificaţi fişierul în OASIS DeschidereDocument</qt>"
+"modificat în <b>OASIS DeschidereDocument</b> pentru a fi criptat.<p>Doriți "
+"să modificați fișierul în OASIS DeschidereDocument</qt>"
 
 #: widgets/KoDocumentInfoDlg.cpp:395
 msgid "Change Filetype"
@@ -5876,7 +5876,7 @@ msgid ""
 "encryption, please save the document.</qt>"
 msgstr ""
 "<qt>Documentul dumneavoastră nu s-a putut salva automat.<p>Pentru a finaliza "
-"criptarea, salvaţi documentul.</qt>"
+"criptarea, salvați documentul.</qt>"
 
 #: widgets/KoDocumentInfoDlg.cpp:417
 msgid ""
@@ -5885,7 +5885,7 @@ msgid ""
 "document now?</qt>"
 msgstr ""
 "<qt>De când a fost deschis, documentul a fost modificat. Pentru a finaliza "
-"criptarea documentul trebuie salvat.<p>Doriţi să salvaţi acum documentul?</"
+"criptarea documentul trebuie salvat.<p>Doriți să salvați acum documentul?</"
 "qt>"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, remove)
@@ -5921,7 +5921,7 @@ msgstr "Adaugă culoare la paletă"
 #, kde-format
 msgid "Cannot write to palette file %1. Maybe it is read-only. "
 msgstr ""
-"Nu s-a putut scrie în paletă fişierul %1. Poate este protejat la scriere."
+"Nu s-a putut scrie în paletă fișierul %1. Poate este protejat la scriere."
 
 #: widgets/KoEditColorSetDialog.cpp:199
 msgid "Palette"
@@ -6196,7 +6196,7 @@ msgstr "Unitate:"
 #. i18n: ectx: property (text), widget (QLabel, stylesLabel)
 #: widgets/KoPageLayoutWidget.ui:45
 msgid "Follow style:"
-msgstr "Urmăreşte stil:"
+msgstr "Urmărește stil:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: widgets/KoPageLayoutWidget.ui:61
@@ -6306,7 +6306,7 @@ msgstr "Împarte resurse"
 #| msgid "Choose File to Add"
 msgctxt "@title:window"
 msgid "Choose File to Add"
-msgstr "Alege fişierul de adăugat"
+msgstr "Alege fișierul de adăugat"
 
 #: widgets/KoResourceItemChooserContextMenu.cpp:133
 #: widgets/KoTagToolButton.cpp:64
@@ -6377,7 +6377,7 @@ msgstr ""
 
 #: widgets/KoStrokeConfigWidget.cpp:95
 msgid "Butt cap"
-msgstr "Vârf ascuţit"
+msgstr "Vârf ascuțit"
 
 #: widgets/KoStrokeConfigWidget.cpp:102
 msgid "Round cap"
@@ -6397,7 +6397,7 @@ msgstr "Unire rotundă"
 
 #: widgets/KoStrokeConfigWidget.cpp:134
 msgid "Bevel join"
-msgstr "Uneşte înclinare"
+msgstr "Unește înclinare"
 
 #: widgets/KoStrokeConfigWidget.cpp:144
 #, fuzzy
@@ -6411,7 +6411,7 @@ msgstr ""
 
 #: widgets/KoStrokeConfigWidget.cpp:225
 msgid "Set line width of actual selection"
-msgstr "Setează laţimea liniei pentru selecţia actuală"
+msgstr "Setează lațimea liniei pentru selecția actuală"
 
 #: widgets/KoStrokeConfigWidget.cpp:241
 msgid "Change the color of the line/border"
@@ -6469,7 +6469,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Rename Page"
 msgid "Rename tag"
-msgstr "Redenumeşte pagină"
+msgstr "Redenumește pagină"
 
 #: widgets/KoTagToolButton.cpp:84
 #, fuzzy
@@ -6485,7 +6485,7 @@ msgstr ""
 #, fuzzy
 #| msgid "delete"
 msgid "Undelete"
-msgstr "şterge"
+msgstr "șterge"
 
 #: widgets/KoToolBox.cpp:332
 #, fuzzy
@@ -6519,7 +6519,7 @@ msgstr "Opțiuni instrument"
 #, fuzzy
 #| msgid "Toggles organising the options in tabs or not"
 msgid "Toggles organizing the options in tabs or not"
-msgstr "Comută sau nu organizarea opţiunilor în cateogrii"
+msgstr "Comută sau nu organizarea opțiunilor în cateogrii"
 
 #: widgets/KoViewItemContextBar.cpp:200
 #, fuzzy
@@ -6544,7 +6544,7 @@ msgstr "%1%"
 
 #: widgets/KoZoomMode.cpp:27
 msgid "Fit Page Width"
-msgstr "Potrivire la lăţimea paginii"
+msgstr "Potrivire la lățimea paginii"
 
 #: widgets/KoZoomMode.cpp:28
 msgid "Fit Page"
@@ -6558,15 +6558,15 @@ msgstr "Pixeli actuali"
 #, fuzzy
 #| msgid "Fit Page Width"
 msgid "Fit Text Width"
-msgstr "Potrivire la lăţimea paginii"
+msgstr "Potrivire la lățimea paginii"
 
 #: widgets/KoZoomWidget.cpp:81
 msgid "Use same aspect as pixels"
-msgstr "Foloseşte acelaşi aspect ca pixeli"
+msgstr "Folosește același aspect ca pixeli"
 
 #: widgets/KoZoomWidget.cpp:90
 msgid "Zoom to Selection"
-msgstr "Apropie selecţia"
+msgstr "Apropie selecția"
 
 #: widgets/KoZoomWidget.cpp:99
 msgid "Zoom to All"
@@ -6648,7 +6648,7 @@ msgstr "%1%"
 #~ msgid ""
 #~ "The manifest file seems to be corrupted. The document could not be opened."
 #~ msgstr ""
-#~ "Fişierul manifest pare a fi malformat. Documnetul nu s-a putut deschide."
+#~ "Fișierul manifest pare a fi malformat. Documnetul nu s-a putut deschide."
 
 #~ msgid "Color Selector"
 #~ msgstr "Selector culoare"
@@ -6676,7 +6676,7 @@ msgstr "%1%"
 #, fuzzy
 #~| msgid "Could not read the beginning of the file."
 #~ msgid "Could not gain exclusive access for writing the file."
-#~ msgstr "Nu s-a putut citi inceputul fişierului."
+#~ msgstr "Nu s-a putut citi inceputul fișierului."
 
 #, fuzzy
 #~| msgid "Could not load picture."
@@ -6694,19 +6694,19 @@ msgstr "%1%"
 #~ msgstr "Fișierul %1 nu există."
 
 #~ msgid "Track Total"
-#~ msgstr "Urmăreşte total"
+#~ msgstr "Urmărește total"
 
 #~ msgid "Track Builtin Format"
-#~ msgstr "Urmăreşte formatul integrat"
+#~ msgstr "Urmărește formatul integrat"
 
 #~ msgid "Use Sub Total"
-#~ msgstr "Foloseşte subtotal"
+#~ msgstr "Folosește subtotal"
 
 #~ msgid "Track Total Format"
-#~ msgstr "Urmăreşte formatul total"
+#~ msgstr "Urmărește formatul total"
 
 #~ msgid "Grid Snap"
-#~ msgstr "Îmbinare reţea"
+#~ msgstr "Îmbinare rețea"
 
 #, fuzzy
 #~| msgid "Format"
@@ -6742,7 +6742,7 @@ msgstr "%1%"
 #~ msgstr "Creează cale"
 
 #~ msgid "Red Green Blue"
-#~ msgstr "Roşu verde albastru"
+#~ msgstr "Roșu verde albastru"
 
 #~ msgid "L a* b*"
 #~ msgstr "L a*b*"
@@ -6779,23 +6779,23 @@ msgstr "%1%"
 #~ "Could not save iCal file\n"
 #~ "%1"
 #~ msgstr ""
-#~ "Nu s-a putut salva fişierul iCal\n"
+#~ "Nu s-a putut salva fișierul iCal\n"
 #~ "%1"
 
 #~ msgid "&Summary:"
 #~ msgstr "&Sumar:"
 
 #~ msgid "&Location:"
-#~ msgstr "Lo&caţie:"
+#~ msgstr "Lo&cație:"
 
 #~ msgid "&Start:"
 #~ msgstr "În&ceput: "
 
 #~ msgid "&End:"
-#~ msgstr "&Sfârşit:"
+#~ msgstr "&Sfârșit:"
 
 #~ msgid "Time and Date"
-#~ msgstr "Oră şi dată"
+#~ msgstr "Oră și dată"
 
 #~ msgid "Timezone"
 #~ msgstr "Ora zonală"
@@ -6807,7 +6807,7 @@ msgstr "%1%"
 #~ msgstr "Importă evenimentul în calendar"
 
 #~ msgid "Export event to iCal file..."
-#~ msgstr "Exportă eveniment către fişier iCal..."
+#~ msgstr "Exportă eveniment către fișier iCal..."
 
 #~ msgid "&Name:"
 #~ msgstr "Num&e:"
@@ -6837,13 +6837,13 @@ msgstr "%1%"
 #~ msgstr "Pământul"
 
 #~ msgid "The Marble widget displays a virtual globe."
-#~ msgstr "Widget-ul Marble afişează un glob pământesc virtual."
+#~ msgstr "Widget-ul Marble afișează un glob pământesc virtual."
 
 #~ msgid "Navigation Control"
 #~ msgstr "Control navigare"
 
 #~ msgid "Use this control to navigate."
-#~ msgstr "Folosiţi acest control pentru a naviga"
+#~ msgstr "Folosiți acest control pentru a naviga"
 
 #~ msgid "Latitude"
 #~ msgstr "Latitudine"
@@ -6865,13 +6865,13 @@ msgstr "%1%"
 #~ "Îl suprascrieți?"
 
 #~ msgid "Unknown Calligra MimeType %1. Check your installation."
-#~ msgstr "Calligra MimeType %1 nucunoscut. Verificaţi instalarea."
+#~ msgstr "Calligra MimeType %1 nucunoscut. Verificați instalarea."
 
 #~ msgid "%1 (Uncompressed XML Files)"
-#~ msgstr "%1 (fişiere XML necompresate)"
+#~ msgstr "%1 (fișiere XML necompresate)"
 
 #~ msgid "%1 (Flat XML File)"
-#~ msgstr "%1 (fişier XML simplu)"
+#~ msgstr "%1 (fișier XML simplu)"
 
 #~ msgid "%1 (Encrypted)"
 #~ msgstr "%1 (criptat)"
@@ -6951,7 +6951,7 @@ msgstr "%1%"
 #, fuzzy
 #~| msgid "Shadow Offset:"
 #~ msgid "Offset:"
-#~ msgstr "Compensaţie umbră:"
+#~ msgstr "Compensație umbră:"
 
 #, fuzzy
 #~ msgid "Color:"
@@ -6967,7 +6967,7 @@ msgstr "%1%"
 #~ msgstr "Vârf:"
 
 #~ msgid "Join:"
-#~ msgstr "Uneşte:"
+#~ msgstr "Unește:"
 
 #~ msgid "Set miter limit"
 #~ msgstr "Setează limită matrice"
@@ -6991,7 +6991,7 @@ msgstr "%1%"
 #~ msgstr "Inserează coloană dreapta"
 
 #~ msgid "Delete Column"
-#~ msgstr "Şterge coloană"
+#~ msgstr "Șterge coloană"
 
 #~ msgid "Delete Row"
 #~ msgstr "Șterge rând"
@@ -7028,13 +7028,13 @@ msgstr "%1%"
 #~ msgstr "Instrument fundal"
 
 #~ msgid "Use the styles docker to manipulate the background."
-#~ msgstr "Utilizaţi ataşamentele stilurilor pentru a manevra fundalul."
+#~ msgstr "Utilizați atașamentele stilurilor pentru a manevra fundalul."
 
 #~ msgid "Background editing tool"
 #~ msgstr "Instrument editare fundal"
 
 #~ msgid "Use master background"
-#~ msgstr "Foloseşte fundal părinte"
+#~ msgstr "Folosește fundal părinte"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Separate paths"
@@ -7046,15 +7046,15 @@ msgstr "%1%"
 #~ "Do you want to open it?"
 #~ msgstr ""
 #~ "Există un fișier autosalvat pentru un document nedenumit în %1.\n"
-#~ "Fişierul este datat %2\n"
-#~ "Doriți să îl deschideţi pe acesta?"
+#~ "Fișierul este datat %2\n"
+#~ "Doriți să îl deschideți pe acesta?"
 
 #~ msgid "&Delete Personal Data"
-#~ msgstr "Şt&erge date personale"
+#~ msgstr "Șt&erge date personale"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Delete shapes"
-#~ msgstr "Şterge forme"
+#~ msgstr "Șterge forme"
 
 #~ msgid "Substract"
 #~ msgstr "Scădere"
@@ -7067,8 +7067,8 @@ msgstr "%1%"
 #~ "option                                     \"Set as Personal Contact Data"
 #~ "\" from the \"Edit\"     menu in KAddressbook to set one."
 #~ msgstr ""
-#~ "Nu s-au setat date de contact personale, utilizaţi "
-#~ "opţiunea                                     \"Setează ca date de contact "
+#~ "Nu s-au setat date de contact personale, utilizați "
+#~ "opțiunea                                     \"Setează ca date de contact "
 #~ "personale\" din meniul \"Editare\"    în KAdressbook pentru a le seta."
 
 #~ msgid "Hide colors with bad contrast"
@@ -7084,7 +7084,7 @@ msgstr "%1%"
 #~ msgstr "Culoare umbră:"
 
 #~ msgid "Toggles showing a title bar"
-#~ msgstr "Comută afişarea bării de titlu"
+#~ msgstr "Comută afișarea bării de titlu"
 
 #~ msgctxt "(qtundo-format)"
 #~ msgid "Set border"

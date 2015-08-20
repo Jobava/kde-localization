@@ -609,7 +609,7 @@ msgstr ""
 #, fuzzy
 #| msgid "<no lecture files available>"
 msgid "No Courses Available"
-msgstr "<prelegeri ale fişierleor nevalabile>"
+msgstr "<prelegeri ale fișierleor nevalabile>"
 
 #: src/qml/NoCoursesMessage.qml:69
 msgid ""
@@ -689,7 +689,7 @@ msgstr "Creeaza o nouă tastatură"
 #, fuzzy
 #| msgid "Open a lecture file:"
 msgid "Use Selected Profile"
-msgstr "Dschide o prelegere a fişieruluiŞ"
+msgstr "Dschide o prelegere a fișieruluiȘ"
 
 #: src/qml/ScoreScreen.qml:149
 msgid "All Lessons"
@@ -1958,16 +1958,16 @@ msgstr ""
 #~ "This is not a valid unicode number. Please correct the number or enter a "
 #~ "character."
 #~ msgstr ""
-#~ "Acesta nu este un număr de unicod valid. Vă rugăm corectaţi numărul sau "
-#~ "pune-ţi un caracter."
+#~ "Acesta nu este un număr de unicod valid. Vă rugăm corectați numărul sau "
+#~ "pune-ți un caracter."
 
 #, fuzzy
 #~ msgid "Please enter either a character or a unicode number."
-#~ msgstr "Vă rugăm introduce-ţi un caracter sau un număr de unicod."
+#~ msgstr "Vă rugăm introduce-ți un caracter sau un număr de unicod."
 
 #, fuzzy
 #~ msgid "Delete all key connections for this key?"
-#~ msgstr "Ştergeţi toate conexiunile cheie pentru această cheie."
+#~ msgstr "Ștergeți toate conexiunile cheie pentru această cheie."
 
 #, fuzzy
 #~ msgid "KTouch keyboard editor error"
@@ -1979,11 +1979,11 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Open Keyboard File"
-#~ msgstr "Deschide fişierul tastaturii"
+#~ msgstr "Deschide fișierul tastaturii"
 
 #, fuzzy
 #~ msgid "Which keyboard file would you like to edit?"
-#~ msgstr "Ce fişier al tastaturii ţi-ar plăcea sa modifici?"
+#~ msgstr "Ce fișier al tastaturii ți-ar plăcea sa modifici?"
 
 #, fuzzy
 #~ msgid "Edit current keyboard:"
@@ -1991,11 +1991,11 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Open a default keyboard:"
-#~ msgstr "Deschide o tastatură implicităŞ"
+#~ msgstr "Deschide o tastatură implicităȘ"
 
 #, fuzzy
 #~ msgid "Open a keyboard file:"
-#~ msgstr "Deschide un fişier al tastaturii:"
+#~ msgstr "Deschide un fișier al tastaturii:"
 
 #, fuzzy
 #~ msgid "<no keyboard files available>"
@@ -2004,14 +2004,14 @@ msgstr ""
 #, fuzzy
 #~ msgid "Could not open the keyboard file, creating a new one instead."
 #~ msgstr ""
-#~ "Nu se poate deschide un fişier al tastaturii, creeează unul nou in schimb."
+#~ "Nu se poate deschide un fișier al tastaturii, creeează unul nou in schimb."
 
 #, fuzzy
 #~ msgid ""
 #~ "There were warnings while reading the keyboard file '%1':\n"
 #~ "%2"
 #~ msgstr ""
-#~ "Aici sunt avertizări in timpul citirii fişierului tastaturii '%1':/n%2"
+#~ "Aici sunt avertizări in timpul citirii fișierului tastaturii '%1':/n%2"
 
 #, fuzzy
 #~ msgid " (modified)"
@@ -2027,20 +2027,20 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "<unnamed keyboard file>"
-#~ msgstr "<fişier al tastaturii nedenumit>"
+#~ msgstr "<fișier al tastaturii nedenumit>"
 
 #, fuzzy
 #~ msgid "The keyboard has been changed. Do you want to save the changes?"
-#~ msgstr "Tastatura a fost schimbată. Doreşti să salvezi schimbările?"
+#~ msgstr "Tastatura a fost schimbată. Dorești să salvezi schimbările?"
 
 #, fuzzy
 #~ msgid "Could not read the keyboard layout file '%1'. %2"
-#~ msgstr "Nu se poate citi aspectul fişierului tastaturii '%1' . %2"
+#~ msgstr "Nu se poate citi aspectul fișierului tastaturii '%1' . %2"
 
 #, fuzzy
 #~ msgid "Could not download/open keyboard layout file from '%1'."
 #~ msgstr ""
-#~ "Nu se poate descărca/deschide aspectul fişierului tastaturii de la  '%1'."
+#~ "Nu se poate descărca/deschide aspectul fișierului tastaturii de la  '%1'."
 
 #, fuzzy
 #~ msgid ""
@@ -2049,7 +2049,7 @@ msgstr ""
 #~ "preferences dialog."
 #~ msgstr ""
 #~ "Eroare în citirea aspetului tastaturii; în schimb va fi creat numărul "
-#~ "implicit al tastaturii. Poţi alege  un alt aspect al  tastaturii in "
+#~ "implicit al tastaturii. Poți alege  un alt aspect al  tastaturii in "
 #~ "preferintele de dialog."
 
 #, fuzzy
@@ -2066,7 +2066,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "<new unnamed lecture file>"
-#~ msgstr "<un nou fişier de prelegere nedenumit>"
+#~ msgstr "<un nou fișier de prelegere nedenumit>"
 
 #, fuzzy
 #~ msgid "Data of Level %1"
@@ -2082,11 +2082,11 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Open Lecture File"
-#~ msgstr "Deschide prelegerea fişierului"
+#~ msgstr "Deschide prelegerea fișierului"
 
 #, fuzzy
 #~ msgid "Which Lecture File Would You Like to Edit?"
-#~ msgstr "Ce prelegere a fişierului ţi-ar plăcea sa deschizi_"
+#~ msgstr "Ce prelegere a fișierului ți-ar plăcea sa deschizi_"
 
 #, fuzzy
 #~ msgid "Edit current lecture:"
@@ -2099,7 +2099,7 @@ msgstr ""
 #, fuzzy
 #~ msgid "Could not open the lecture file, creating a new one instead."
 #~ msgstr ""
-#~ "Nu se poate deschide prelegerea fişierlui, în schimb creează unul nou."
+#~ "Nu se poate deschide prelegerea fișierlui, în schimb creează unul nou."
 
 #, fuzzy
 #~ msgid "The lecture has been changed. Do you want to save the changes?"
@@ -2118,8 +2118,8 @@ msgstr ""
 #~ "successfully completed the default lecture. Hurray!!!"
 #~ msgstr ""
 #~ "Acesta este un mic text. Daca doresti/nsă incepi să utilizezi scrierea "
-#~ "prin atingere, deschide/no prelegere/un fişier de pregătire din meniul "
-#~ "principal./nDacă apeşi Enter după următoarea linie ai completat/ncu "
+#~ "prin atingere, deschide/no prelegere/un fișier de pregătire din meniul "
+#~ "principal./nDacă apeși Enter după următoarea linie ai completat/ncu "
 #~ "succes prelegerea implicită. Uraaa!!!"
 
 #, fuzzy
@@ -2129,11 +2129,11 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "<no default files available>"
-#~ msgstr "<fişiere implicite nevalabile>"
+#~ msgstr "<fișiere implicite nevalabile>"
 
 #, fuzzy
 #~ msgid "Please select or enter a file name."
-#~ msgstr "Vă rugăam selectaţi sau introduceţi un nume."
+#~ msgstr "Vă rugăam selectați sau introduceți un nume."
 
 #, fuzzy
 #~ msgid "The URL seems to be malformed; please correct it."

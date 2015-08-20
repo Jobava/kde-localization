@@ -66,10 +66,10 @@ msgid ""
 "or relative) to a package. If not provided, then an attempt is made to load "
 "a package from the current directory."
 msgstr ""
-"Numele miniaplicaţiei de afișat; poate fi numele plugin-ului sau o cale "
+"Numele miniaplicației de afișat; poate fi numele plugin-ului sau o cale "
 "(absolută sau relativă) a unui pachet. Dacă nu e specificat, atunci se va "
 "încerca încărcarea unui pachet din directorul actual."
 
 #: main.cpp:51
 msgid "Optional arguments for the applet to add"
-msgstr "Argumente opționale pentru miniaplicaţia de adăugat"
+msgstr "Argumente opționale pentru miniaplicația de adăugat"

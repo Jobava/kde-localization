@@ -6,7 +6,7 @@
 # Claudiu Costin <claudiuc@kde.org>, 2003, 2004, 2005.
 # Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
 # Sergiu Bivol <sergiu@ase.md>, 2008.
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2009.
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2009.
 # Cristian Oneț <onet.cristian@gmail.com>, 2011.
 msgid ""
 msgstr ""
