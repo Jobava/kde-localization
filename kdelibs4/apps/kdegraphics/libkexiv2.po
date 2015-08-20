@@ -22,7 +22,7 @@
 # disponerea tastaturii românească standard, codarea de caractere UTF-8 și
 # asigurați-vă că fonturile utilizate sînt cu virgulițe, NU CU SEDILE!
 # Exemplu:
-#          font incorect (cu sedile): şŞ ţŢ
+#          font incorect (cu sedile): șȘ țȚ
 #          font corect (cu virgule): șȘ țȚ
 #
 # Pentru a vă asigura că folosiți fonturile corecte, vizitați:

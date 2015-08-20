@@ -2,14 +2,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Sergiu Bivol <sergiu@ase.md>, 2009.
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2009.
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_translatoid\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2013-11-22 01:50+0000\n"
 "PO-Revision-Date: 2009-09-02 00:54-0600\n"
-"Last-Translator: Laurenţiu Buzdugan <lbuz@rolix.org>\n"
+"Last-Translator: Laurențiu Buzdugan <lbuz@rolix.org>\n"
 "Language-Team: Română <kde-i18n-ro@kde.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"

@@ -5,7 +5,7 @@
 # kipiplugin_acquireimages package.
 #
 #
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008.
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2008.
 # Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
 # Sergiu Bivol <sergiu@ase.md>, 2008, 2009, 2012.
 # Florin Cătălin RUSSEN <cfrussen@yahoo.co.uk>, 2011.

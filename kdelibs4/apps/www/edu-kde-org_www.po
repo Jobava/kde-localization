@@ -356,7 +356,7 @@ msgid ""
 "And you are even more encouraged to contribute your own files or improve the "
 "existing ones! Visit the <a href=\"../get_involved/\">Get Involved page</a>."
 msgstr ""
-"Şi sunteți chiar mai mult incurajat să contribuiți la propriile voaste "
+"Și sunteți chiar mai mult incurajat să contribuiți la propriile voaste "
 "fișiere sau să le imbunătățiți pe cele existente!Vizitați <a href=\"../"
 "get_involved/\">Get Involved page</a>."
 
@@ -649,7 +649,7 @@ msgstr ""
 "Toate fișierele de aici sunt distribuite cu licența gratuită. În caz contrar "
 "declarați că acesta este <b>GNU General Public License</b>. Sunteți "
 "incurajat să decărcații și să folosiți aceste fișiere in conformitate cu "
-"licența.<br /><b>Şi sunteți chiar mai mult incurajat să contribuiți la "
+"licența.<br /><b>Și sunteți chiar mai mult incurajat să contribuiți la "
 "propriile voaste fișiere sau să le imbunătățiți pe cele existente!</b>"
 
 #: contrib/kvtml.php:1051 get_involved/kvtml.php:49
@@ -863,7 +863,7 @@ msgstr "Calitatea conținutului (vocabular, precizia producției, etc.)"
 #: get_involved/index.php:34
 #, fuzzy
 msgid "Possible targets to use the application for."
-msgstr "Ţinte posibile pentru a folosi aplicația pentru."
+msgstr "Ținte posibile pentru a folosi aplicația pentru."
 
 #: get_involved/index.php:35
 #, fuzzy
@@ -2426,7 +2426,7 @@ msgid ""
 "tries.</p>"
 msgstr ""
 "<p><strong>KHangMan</strong> este un joc bazat pe un binecunoscutul joc "
-"spîzurîtoarea. Ţintește asupra copiilor de cel puțin 6 ani. Jocul are "
+"spîzurîtoarea. Țintește asupra copiilor de cel puțin 6 ani. Jocul are "
 "diverse categorii de cuvinte cu care vă puteți juca, de exemplu:Animale"
 "(cuvinte animale)și trei cateogii de dificultate:Ușor, Mediu și Greu. Un "
 "cuvînt este ales aleator, literele sunt ascunse, și dumneavoastră trebuie să "
@@ -3435,7 +3435,7 @@ msgstr "Aspect, Grafică și Sunete"
 #: messages.inc:262
 #, fuzzy
 msgid "GPL'ed his 'Steve' font so that we could use it"
-msgstr "Şi GPL-it fontul 'Steve' pentru a-l putea folosi"
+msgstr "Și GPL-it fontul 'Steve' pentru a-l putea folosi"
 
 #: messages.inc:263
 #, fuzzy
@@ -4441,7 +4441,7 @@ msgstr "Grădiniță"
 #: site_includes/applications.inc:120
 #, fuzzy
 msgid "School"
-msgstr "Şcoală"
+msgstr "Școală"
 
 #: site_includes/applications.inc:121
 #, fuzzy
@@ -4461,7 +4461,7 @@ msgstr "Matematică"
 #: site_includes/applications.inc:125
 #, fuzzy
 msgid "Science"
-msgstr "Ştiință"
+msgstr "Știință"
 
 #: site_includes/class_eduappdata.inc:33
 #, fuzzy
@@ -4630,11 +4630,11 @@ msgstr "KDE-Edu pe Windows"
 
 #, fuzzy
 #~ msgid "Download"
-#~ msgstr "Descărcaţi"
+#~ msgstr "Descărcați"
 
 #, fuzzy
 #~ msgid "Marble is available in two flavours: The Marble-KDE and Marble-Qt:"
-#~ msgstr "Marble este disponibil in versiuni: Marble-KDE şi Marble-Qt:"
+#~ msgstr "Marble este disponibil in versiuni: Marble-KDE și Marble-Qt:"
 
 #, fuzzy
 #~ msgid ""
@@ -4648,29 +4648,29 @@ msgstr "KDE-Edu pe Windows"
 #~ "users,\n"
 #~ "      Windows and Mac OS X)."
 #~ msgstr ""
-#~ "<b>Marble-Qt</b> necesită doar Qt ca o dependenţă. Singura inconvenienţă "
+#~ "<b>Marble-Qt</b> necesită doar Qt ca o dependență. Singura inconveniență "
 #~ "este că\n"
-#~ "      Marble-Qt nu furnizează toată funcţionalitatea Marble-ulului(e.g.\n"
+#~ "      Marble-Qt nu furnizează toată funcționalitatea Marble-ulului(e.g.\n"
 #~ "      dialogul de setări sau descărcarea automatică prin \"GHNS\")</p>\n"
-#~ "      Dacă folosiţi o platformă unde KDE 4 nu este instalat deja\n"
+#~ "      Dacă folosiți o platformă unde KDE 4 nu este instalat deja\n"
 #~ "      aceasta ar putea fi alegerea corectă (e.g. pentru utilizatori KDE "
 #~ "3.5, utilizatorii Gnome\n"
-#~ "      Windows şi Mac OS X)."
+#~ "      Windows și Mac OS X)."
 
 #, fuzzy
 #~ msgid ""
 #~ "<b>Marble-KDE</b> provides the full experience. It provides all of\n"
 #~ "      the user interface and is the recommended flavour."
 #~ msgstr ""
-#~ "<b>Marble-KDE</b> furnizează o experienţă completă. Furnizează toate\n"
-#~ "      interfeţele userului şi este versiunea recomandată."
+#~ "<b>Marble-KDE</b> furnizează o experiență completă. Furnizează toate\n"
+#~ "      interfețele userului și este versiunea recomandată."
 
 #, fuzzy
 #~ msgid ""
 #~ "If you want to download sources, please check our <a href=\"./obtain.php"
 #~ "\">Compiling Marble</a> section."
 #~ msgstr ""
-#~ "Dacă vreţi să descărcaţi sursele, verificaţi secţiunea noastră <a href="
+#~ "Dacă vreți să descărcați sursele, verificați secțiunea noastră <a href="
 #~ "\"./obtain.php\">Compiling Marble</a> ."
 
 #, fuzzy
@@ -4683,9 +4683,9 @@ msgstr "KDE-Edu pe Windows"
 #~ "download. Please provide feedback, as these packages worked for us but we "
 #~ "can't ensure that they'll work elsewhere:"
 #~ msgstr ""
-#~ "Pentru MS Windows, MacOSX şi Maemo (Nokia N900) furnizăm pachete pentru "
-#~ "descărcare. Furnizaţi feedback, după cum aceste pachete au funcţionat "
-#~ "pentru noi dar nu ne putem asigura că vor funcţiona oriunde."
+#~ "Pentru MS Windows, MacOSX și Maemo (Nokia N900) furnizăm pachete pentru "
+#~ "descărcare. Furnizați feedback, după cum aceste pachete au funcționat "
+#~ "pentru noi dar nu ne putem asigura că vor funcționa oriunde."
 
 #, fuzzy
 #~ msgid ""
@@ -4694,10 +4694,10 @@ msgstr "KDE-Edu pe Windows"
 #~ "additional maps can be added from the package manager by installing the "
 #~ "Marble Maps package in the Navigation section."
 #~ msgstr ""
-#~ "Marble este disponibil in depozit. Instalaţi-l convenabil din secţiunea "
-#~ "de Navigare din pachetul director al lui N900. Multe hărţi suplimentare "
+#~ "Marble este disponibil in depozit. Instalați-l convenabil din secțiunea "
+#~ "de Navigare din pachetul director al lui N900. Multe hărți suplimentare "
 #~ "pot fi adăugate din pachetul director instalând pachetul Marble Maps în "
-#~ "secţiunea de Navigare."
+#~ "secțiunea de Navigare."
 
 #, fuzzy
 #~ msgid "For the <b>Asus EeePC</b> there are packages available at:"
@@ -4720,7 +4720,7 @@ msgstr "KDE-Edu pe Windows"
 #~ "To install Marble-KDE we suggest that you obtain Marble and KDE 4.8 from "
 #~ "<a href=\"http://www.kde.org/download/\">your favourite distributor.</a>"
 #~ msgstr ""
-#~ "Pentru a instala Marble-KDE sugerăm să obţineţi Marble si KDE 4.6 de la "
+#~ "Pentru a instala Marble-KDE sugerăm să obțineți Marble si KDE 4.6 de la "
 #~ "<a href=\"http://www.kde.org/download/\">furnizorul vostru favorit.</a>"
 
 #, fuzzy
@@ -4749,7 +4749,7 @@ msgstr "KDE-Edu pe Windows"
 #~ msgstr ""
 #~ "<a href=\"http://www.osgeo.org\">OSGeo</a> a fost publicat <a href="
 #~ "\"http://wiki.osgeo.org/wiki/Live_GIS_Disc\">Live DVD</a> care conduce cu "
-#~ "Marble şi alte Software-uri Geospatiale Gratuite."
+#~ "Marble și alte Software-uri Geospatiale Gratuite."
 
 #, fuzzy
 #~ msgid "Marble 1.2 Source Code"
@@ -4764,7 +4764,7 @@ msgstr "KDE-Edu pe Windows"
 #~ msgstr ""
 #~ "Aici este codul sursă pentru eticheta lansării sale. De obicei acesta "
 #~ "este singurul pachet folositor. Dacă este un dezvolator software atunci "
-#~ "iţi sugerăm sa foloseşti <a href=\"http://edu.kde.org/marble/obtain.php"
+#~ "iți sugerăm sa folosești <a href=\"http://edu.kde.org/marble/obtain.php"
 #~ "\">depozitul Marble</a> pentru accesarea codului sursă direct."
 
 #, fuzzy
@@ -4777,7 +4777,7 @@ msgstr "KDE-Edu pe Windows"
 
 #, fuzzy
 #~ msgid "Latest news"
-#~ msgstr "Ultimele noutăţi"
+#~ msgstr "Ultimele noutăți"
 
 #, fuzzy
 #~ msgid ""
@@ -4787,7 +4787,7 @@ msgstr "KDE-Edu pe Windows"
 #~ "\">slides</a></b> of our <b>presentation about Marble</b> at <a href="
 #~ "\"http://www.grancanariadesktopsummit.org/\">Akademy / GCDS 2009</a>."
 #~ msgstr ""
-#~ "Pentru o scurtă introducere în Marble poate aţi vrea sa aruncaţi o "
+#~ "Pentru o scurtă introducere în Marble poate ați vrea sa aruncați o "
 #~ "privirie la\n"
 #~ "<b><a href=\"http://developer.kde.org/~tackat/marble-akademy2009.pdf"
 #~ "\">slides</a></b> of our <b>presentation about Marble</b> at <a href="
@@ -4820,9 +4820,9 @@ msgstr "KDE-Edu pe Windows"
 #~ "roads. A mouse click on a place label will provide the respective <a href="
 #~ "\"http://www.wikipedia.org\">Wikipedia</a> article."
 #~ msgstr ""
-#~ "Marble este un Glob Virtual şi un Atlas al Lumii pe care îl puteţi folosi "
-#~ "să invăţaţi mai multe desre Pământ: Puteţi vizualiza şi mări peste tot şi "
-#~ "puteţi să priviţi diferite privelişti şi drumuri. Un click de mouse pe o "
+#~ "Marble este un Glob Virtual și un Atlas al Lumii pe care îl puteți folosi "
+#~ "să invățați mai multe desre Pământ: Puteți vizualiza și mări peste tot și "
+#~ "puteți să priviți diferite priveliști și drumuri. Un click de mouse pe o "
 #~ "etichetă vă va furniza respectivul articol  <a href=\"http://www."
 #~ "wikipedia.org\">Wikipedia</a>."
 
@@ -4837,14 +4837,14 @@ msgstr "KDE-Edu pe Windows"
 #~ "purposes you can also change date and time and watch how the starry sky "
 #~ "and the twilight zone on the map change."
 #~ msgstr ""
-#~ "Desigur că este de asemenea posibil să măsori distanţa dintre locaţii sau "
-#~ "să priviţi actuala innourare. Marble oferă diferite hărţi tematice: Un "
+#~ "Desigur că este de asemenea posibil să măsori distanța dintre locații sau "
+#~ "să priviți actuala innourare. Marble oferă diferite hărți tematice: Un "
 #~ "stil de clasă  <i>hartă topografică</i>, a <i>imagine din satelit</i>, "
-#~ "<i>hartă de străzi</i>, <i>pămantul noapte</i> şi <i>hărţi ale "
-#~ "temperaturii şi precipitaţiilor</i>. Toate hărţile includ o cheie "
-#~ "obişnuită de hartă, pentru a putea fi de asemenea folosită ca o unealtă "
-#~ "educaţională in sala de clasă. Pentru scopuri educaţionale puteţi de "
-#~ "asemenea schimba date şi timp şi privi cum cerul instelat in zona de "
+#~ "<i>hartă de străzi</i>, <i>pămantul noapte</i> și <i>hărți ale "
+#~ "temperaturii și precipitațiilor</i>. Toate hărțile includ o cheie "
+#~ "obișnuită de hartă, pentru a putea fi de asemenea folosită ca o unealtă "
+#~ "educațională in sala de clasă. Pentru scopuri educaționale puteți de "
+#~ "asemenea schimba date și timp și privi cum cerul instelat in zona de "
 #~ "amurg se schimbă."
 
 #, fuzzy
@@ -4854,7 +4854,7 @@ msgstr "KDE-Edu pe Windows"
 #~ "Globe."
 #~ msgstr ""
 #~ "Contrat celorlalte globuri virtuale Marble carcaterizează de asemenea "
-#~ "proiecte multimple: Alelegeţi intre o Hartă Plată((\"Plate carré\"), "
+#~ "proiecte multimple: Alelegeți intre o Hartă Plată((\"Plate carré\"), "
 #~ "Mercator sau Glob."
 
 #, fuzzy
@@ -4865,7 +4865,7 @@ msgstr "KDE-Edu pe Windows"
 #~ "Windows and Mac OS X)."
 #~ msgstr ""
 #~ "Cea mai bună dintre toate: Marble este un Software Gratuit / Software "
-#~ "Open Source şi promovează utilizarea  <a href=\"http://www.openstreetmap."
+#~ "Open Source și promovează utilizarea  <a href=\"http://www.openstreetmap."
 #~ "org\">free maps</a>. Este disponibil pentru toate sistemele de operare "
 #~ "majore (Linux/Unix, MS Windows and Mac OS X)."
 
@@ -4884,15 +4884,15 @@ msgstr "KDE-Edu pe Windows"
 #~ "solution for displaying maps and locations. This includes support for GPS "
 #~ "tracking and importing KML/GPX files."
 #~ msgstr ""
-#~ "Marble este componentă generică uşoară a hărţii ca poate fi folosită în "
-#~ "aplicaţia dumneavoastră Qt 4.x/C++. MarbleWidget furnizează o soluţie "
-#~ "gata făcută pentru afişa hărţi şi locaţii. Aceasta include suport pentru "
-#~ "fişierele GPS de depistare şi importare KML/GPX."
+#~ "Marble este componentă generică ușoară a hărții ca poate fi folosită în "
+#~ "aplicația dumneavoastră Qt 4.x/C++. MarbleWidget furnizează o soluție "
+#~ "gata făcută pentru afișa hărți și locații. Aceasta include suport pentru "
+#~ "fișierele GPS de depistare și importare KML/GPX."
 
 #, fuzzy
 #~ msgid "Marble is cross platform and runs on Windows, Linux and Mac OS X."
 #~ msgstr ""
-#~ "Marble este o platformă de trecere care rulează pe Windows, Linux şi Mac "
+#~ "Marble este o platformă de trecere care rulează pe Windows, Linux și Mac "
 #~ "OS X."
 
 #, fuzzy
@@ -4901,8 +4901,8 @@ msgstr "KDE-Edu pe Windows"
 #~ "Qt's Arthur API as a painting backend. Optional OpenGL support is being "
 #~ "worked on."
 #~ msgstr ""
-#~ "Marble rulează decent chiar şi fără accelerare hardware. Foloseşte doar "
-#~ "Qt's Arthur API ca un server extern de descriere. Opţional  suportul "
+#~ "Marble rulează decent chiar și fără accelerare hardware. Folosește doar "
+#~ "Qt's Arthur API ca un server extern de descriere. Opțional  suportul "
 #~ "OpenGL este folosit."
 
 #, fuzzy
@@ -4910,7 +4910,7 @@ msgstr "KDE-Edu pe Windows"
 #~ "Marble uses vector as well as bitmap data. Marble pulls much of its data "
 #~ "from internet servers but can also be used offline."
 #~ msgstr ""
-#~ "Marble foloseşte vectori la fel ca datele bitmap. Marble işi obţine multe "
+#~ "Marble folosește vectori la fel ca datele bitmap. Marble iși obține multe "
 #~ "din date din serverele de pe internet, dar poate de asemenea să fie "
 #~ "folosit offline."
 
@@ -4919,7 +4919,7 @@ msgstr "KDE-Edu pe Windows"
 #~ "Marble provides a plugin architecture and can easily be extended for lots "
 #~ "of use cases."
 #~ msgstr ""
-#~ "Marble furnizează un arhitectură plugin şi poate fi uşor extinsă pentru "
+#~ "Marble furnizează un arhitectură plugin și poate fi ușor extinsă pentru "
 #~ "multe din cazuri."
 
 #, fuzzy
@@ -4935,12 +4935,12 @@ msgstr "KDE-Edu pe Windows"
 #~ "Marble can use several projections: Globe, Flat (\"Plate Carree\") and "
 #~ "Mercator."
 #~ msgstr ""
-#~ "Marble poate folosi diverse proiecţii: Globe, Flat (\"Plate Carree\") and "
+#~ "Marble poate folosi diverse proiecții: Globe, Flat (\"Plate Carree\") and "
 #~ "Mercator."
 
 #, fuzzy
 #~ msgid "Marble starts up very quickly"
-#~ msgstr "Marble porneşte foarte repede"
+#~ msgstr "Marble pornește foarte repede"
 
 #, fuzzy
 #~ msgid ""
@@ -4951,8 +4951,8 @@ msgstr "KDE-Edu pe Windows"
 #~ "Tutorial</a>."
 #~ msgstr ""
 #~ "Sunt câteva <a href=\"http://techbase.kde.org/Projects/Marble/MarbleUsedBy"
-#~ "\">Success Stories</a> despre aplicaţiile pe care le foloseşte Marble. "
-#~ "Pentru mai multe informaţii puteţi arunca o privire la <a href=\"http://"
+#~ "\">Success Stories</a> despre aplicațiile pe care le folosește Marble. "
+#~ "Pentru mai multe informații puteți arunca o privire la <a href=\"http://"
 #~ "techbase.kde.org/Projects/Marble/MarbleCPlusPlus\">Marble Widget "
 #~ "Tutorial</a>."
 
@@ -4962,9 +4962,9 @@ msgstr "KDE-Edu pe Windows"
 #~ "version of Marble. You can install this data manually. Users of the KDE "
 #~ "version can get these maps with \"Download maps...\" in the \"File\" menu."
 #~ msgstr ""
-#~ "Această pagină conţine câteva pachete ce conţin date de hărţi pentru "
-#~ "versiune Qt-Only a lui Marble. Puteţi instala aceste date manual. "
-#~ "Utilizatorii vesiunii KDE pot obţine aceste hărţi cu  \"Download maps..."
+#~ "Această pagină conține câteva pachete ce conțin date de hărți pentru "
+#~ "versiune Qt-Only a lui Marble. Puteți instala aceste date manual. "
+#~ "Utilizatorii vesiunii KDE pot obține aceste hărți cu  \"Download maps..."
 #~ "\" în meniul \"File\" ."
 
 #, fuzzy
@@ -4974,21 +4974,21 @@ msgstr "KDE-Edu pe Windows"
 #~ "in $XDG_DATA_HOME/marble/maps while $XDG_DATA_HOME is usually ~/.local/"
 #~ "share."
 #~ msgstr ""
-#~ "Aveţi de extras aceste fişiere in directorul de hărţi Marble. Pe Windows "
-#~ "acestea sunt date/hărţi în instalarea Marble. Pe Linux il veţi găsi in "
+#~ "Aveți de extras aceste fișiere in directorul de hărți Marble. Pe Windows "
+#~ "acestea sunt date/hărți în instalarea Marble. Pe Linux il veți găsi in "
 #~ "$XDG_DATA_HOME/marble/maps while $XDG_DATA_HOME is usually ~/.local/share."
 
 #, fuzzy
 #~ msgid "Map packages"
-#~ msgstr "Pachete hărţi"
+#~ msgstr "Pachete hărți"
 
 #, fuzzy
 #~ msgid "Marble - Maps for Download"
-#~ msgstr "Marble - Hărţi de Descărcat"
+#~ msgstr "Marble - Hărți de Descărcat"
 
 #, fuzzy
 #~ msgid "Build and Install Marble"
-#~ msgstr "Formează şi Instalează Marble"
+#~ msgstr "Formează și Instalează Marble"
 
 #, fuzzy
 #~ msgid ""
@@ -4996,8 +4996,8 @@ msgstr "KDE-Edu pe Windows"
 #~ "system</b>, please have a look at our <a href=\"./download.php\">Download "
 #~ "section</a>."
 #~ msgstr ""
-#~ "Pentru a obţine <b> pachete gata-construite Marble pentru sistemul "
-#~ "dumneavoastră de operare favorit</b>, aruncaţi o privire la secţiunea "
+#~ "Pentru a obține <b> pachete gata-construite Marble pentru sistemul "
+#~ "dumneavoastră de operare favorit</b>, aruncați o privire la secțiunea "
 #~ "noastră de Descărcare <a href=\"./download.php\"></a>."
 
 #, fuzzy
@@ -5006,7 +5006,7 @@ msgstr "KDE-Edu pe Windows"
 #~ "href=\"https://projects.kde.org/projects/kde/kde-edu/marble/repository/"
 #~ "revisions/master/entry/INSTALL\">here</a>"
 #~ msgstr ""
-#~ "Aţi putea să obţineţi o versiune mai recentă a acestul document <a href="
+#~ "Ați putea să obțineți o versiune mai recentă a acestul document <a href="
 #~ "\"https://projects.kde.org/projects/kde/kde-edu/marble/repository/"
 #~ "revisions/master/entry/INSTALL\">aici</a>"
 
@@ -5021,15 +5021,15 @@ msgstr "KDE-Edu pe Windows"
 #~ "instead read the file INSTALL in the top level directory of this module "
 #~ "and ignore this one. This is most likely ../INSTALL."
 #~ msgstr ""
-#~ "Acest fişier descrie cum să construieşti Marble ca aplicaţie de sine "
-#~ "statatoare. Dacă construiţi Marble ca o parte a unui modul KDE-EDU, "
-#~ "atunci ar trebui să citiţi instant fişierul INSTALL la nivelul ghid maxim "
-#~ "a acestui modul şi să o ignoraţi pe aceasta. Aceasta este mai "
+#~ "Acest fișier descrie cum să construiești Marble ca aplicație de sine "
+#~ "statatoare. Dacă construiți Marble ca o parte a unui modul KDE-EDU, "
+#~ "atunci ar trebui să citiți instant fișierul INSTALL la nivelul ghid maxim "
+#~ "a acestui modul și să o ignorați pe aceasta. Aceasta este mai "
 #~ "convenabilă ../INSTALL."
 
 #, fuzzy
 #~ msgid "Prerequisites for building Marble are:"
-#~ msgstr "Cerinţele preliminare pentru a construi Marble sunt:"
+#~ msgstr "Cerințele preliminare pentru a construi Marble sunt:"
 
 #, fuzzy
 #~ msgid "Qt 4.6 or newer"
@@ -5041,27 +5041,27 @@ msgstr "KDE-Edu pe Windows"
 
 #, fuzzy
 #~ msgid "(optional): kdelibs (including the kdelibs-dev package)."
-#~ msgstr "(opţioanal): kdelibs (incluzând pachetul kdelibs-dev)."
+#~ msgstr "(opțioanal): kdelibs (incluzând pachetul kdelibs-dev)."
 
 #, fuzzy
 #~ msgid "And of course you need the Marble source code."
-#~ msgstr "Şi desigur vă trebuie Codul sursă Marble"
+#~ msgstr "Și desigur vă trebuie Codul sursă Marble"
 
 #, fuzzy
 #~ msgid "1. Getting the Marble Source Code"
-#~ msgstr "1. Obţinerea Codului Sursă Marble"
+#~ msgstr "1. Obținerea Codului Sursă Marble"
 
 #, fuzzy
 #~ msgid ""
 #~ "You can check out the <i>unstable</i> development version (\"Marble trunk"
 #~ "\" using the git tool via the command:"
 #~ msgstr ""
-#~ "Puteţi verifica dezvoltarea instabilă a versiunii  (\"Marble trunk\" "
+#~ "Puteți verifica dezvoltarea instabilă a versiunii  (\"Marble trunk\" "
 #~ "folosind ustensila git prin comanda:"
 
 #, fuzzy
 #~ msgid "If you have a KDE developer account you might want to use:"
-#~ msgstr "Dacă aveţi un cont de dezvolator KDE aşi putea dori sa folosiţi:"
+#~ msgstr "Dacă aveți un cont de dezvolator KDE ași putea dori sa folosiți:"
 
 #, fuzzy
 #~| msgid ""
@@ -5075,10 +5075,10 @@ msgstr "KDE-Edu pe Windows"
 #~ "these commands (depending on whether you've got a developer account or "
 #~ "not):"
 #~ msgstr ""
-#~ "Dacă doriţi să verificaţi ultima versiune <i>stabilă</i> verificaţi "
+#~ "Dacă doriți să verificați ultima versiune <i>stabilă</i> verificați "
 #~ "ramura KDE/4.6(pentru Marble 1.0) sau ramura KDE/4.7(pentru Marbile 1.2). "
-#~ "Puteţi să faceţi acest lucru folosind una din comenzile (în funcţie dacă "
-#~ "aveţi un cont de dezvoltator sau nu):"
+#~ "Puteți să faceți acest lucru folosind una din comenzile (în funcție dacă "
+#~ "aveți un cont de dezvoltator sau nu):"
 
 #, fuzzy
 #~ msgid "or"
@@ -5086,7 +5086,7 @@ msgstr "KDE-Edu pe Windows"
 
 #, fuzzy
 #~ msgid "In case you have a KDE developer account the git command is:"
-#~ msgstr "În caz că aveţi un cont de dezvoltator KDE comanda git este:"
+#~ msgstr "În caz că aveți un cont de dezvoltator KDE comanda git este:"
 
 #, fuzzy
 #~ msgid ""
@@ -5095,9 +5095,9 @@ msgstr "KDE-Edu pe Windows"
 #~ "recommend to get it from git as updating the source code later on will be "
 #~ "much more convenient."
 #~ msgstr ""
-#~ "Ca o soluţie altenativă puteşi descărca o arhivă comprimată a codului "
+#~ "Ca o soluție altenativă puteși descărca o arhivă comprimată a codului "
 #~ "sursă de pe  <a href=\"./download.php\">Pagina de Descărcare</a>. În "
-#~ "orice caz noi recomandăm să îl obţineţi din git actualizând codul sursă "
+#~ "orice caz noi recomandăm să îl obțineți din git actualizând codul sursă "
 #~ "mai târziu va fi mult mai convenabil."
 
 #, fuzzy
@@ -5106,15 +5106,15 @@ msgstr "KDE-Edu pe Windows"
 
 #, fuzzy
 #~ msgid "You can build and install Marble in two different ways:"
-#~ msgstr "Poţi construi şi instala Marble în două moduri diferite:"
+#~ msgstr "Poți construi și instala Marble în două moduri diferite:"
 
 #, fuzzy
 #~ msgid "As a Qt-only application."
-#~ msgstr "Ca o singură aplicaţie Qt"
+#~ msgstr "Ca o singură aplicație Qt"
 
 #, fuzzy
 #~ msgid "As a KDE application, using kdelibs and KDE based classes."
-#~ msgstr "Ca o aplicaţie KDE, folosind kdelibs şi clase de bază KDE."
+#~ msgstr "Ca o aplicație KDE, folosind kdelibs și clase de bază KDE."
 
 #, fuzzy
 #~ msgid ""
@@ -5124,27 +5124,27 @@ msgstr "KDE-Edu pe Windows"
 #~ "section \"3. Adjust Marble's search path for the maps and data\" into "
 #~ "account."
 #~ msgstr ""
-#~ "Alegeţi una din ele şi urmăriţi instrucţiunile despre cum se face. Dacă "
-#~ "vreţi să instalaţi datele Marble intr-un ghid pentru sistemul implicit(e."
-#~ "g. ghidul dumneavoastră de acasă), apoi vă sugerăm să alegeţi secţia \"3. "
-#~ "Ajustaţi metoda de cautare Marble pentru hărţi şi date \" în cont."
+#~ "Alegeți una din ele și urmăriți instrucțiunile despre cum se face. Dacă "
+#~ "vreți să instalați datele Marble intr-un ghid pentru sistemul implicit(e."
+#~ "g. ghidul dumneavoastră de acasă), apoi vă sugerăm să alegeți secția \"3. "
+#~ "Ajustați metoda de cautare Marble pentru hărți și date \" în cont."
 
 #, fuzzy
 #~ msgid ""
 #~ "If you wish to build Marble with debug info include the argument\n"
 #~ "      -DCMAKE_BUILD_TYPE=debug in the cmake command below."
 #~ msgstr ""
-#~ "Dacă doriţi să construiţi Marble cu informaţii de corectare includeţi "
+#~ "Dacă doriți să construiți Marble cu informații de corectare includeți "
 #~ "argumentul\n"
 #~ "      -DCMAKE_BUILD_TYPE=corectare în comanda cmake de dedesubt."
 
 #, fuzzy
 #~ msgid "A. Build Marble as a Qt only application."
-#~ msgstr "A. Construiţi Marble ca o singură aplicaţie Qt."
+#~ msgstr "A. Construiți Marble ca o singură aplicație Qt."
 
 #, fuzzy
 #~ msgid "1. Create a build directory"
-#~ msgstr "1. Crearea unui ghid de construcţie"
+#~ msgstr "1. Crearea unui ghid de construcție"
 
 #, fuzzy
 #~ msgid ""
@@ -5152,44 +5152,44 @@ msgstr "KDE-Edu pe Windows"
 #~ "the source directory is named 'marble'. Then create a new directory "
 #~ "called 'marble-build'."
 #~ msgstr ""
-#~ "Creaţi un ghid de construcţie paralel pentru sursa ghid. Presupunem că "
-#~ "sursa ghid este numită 'marble'. Atunci creaţi un nou ghid numit 'marble-"
+#~ "Creați un ghid de construcție paralel pentru sursa ghid. Presupunem că "
+#~ "sursa ghid este numită 'marble'. Atunci creați un nou ghid numit 'marble-"
 #~ "construit'."
 
 #, fuzzy
 #~ msgid "2. Configure the build tree"
-#~ msgstr "2. Configuraţi arborele de construcţie"
+#~ msgstr "2. Configurați arborele de construcție"
 
 #, fuzzy
 #~ msgid "Go into the build directory and type"
-#~ msgstr "Mergeţi în ghidul de construcţie şi tastaţi "
+#~ msgstr "Mergeți în ghidul de construcție și tastați "
 
 #, fuzzy
 #~ msgid "3. Build marble"
-#~ msgstr "3. Construiţi marble"
+#~ msgstr "3. Construiți marble"
 
 #, fuzzy
 #~ msgid "Also in the build directory, type:"
-#~ msgstr "De asemenea in ghidul de construcţie, tastaţi:"
+#~ msgstr "De asemenea in ghidul de construcție, tastați:"
 
 #, fuzzy
 #~ msgid "4. Install marble"
-#~ msgstr "4. Instalaţi marble"
+#~ msgstr "4. Instalați marble"
 
 #, fuzzy
 #~ msgid "Finally, also from the build directory, type:"
-#~ msgstr "În final, de asemenea din ghidul de construcţie, tastaţi:"
+#~ msgstr "În final, de asemenea din ghidul de construcție, tastați:"
 
 #, fuzzy
 #~ msgid "and start Marble either from the menu or via the command line:"
-#~ msgstr "şi porniţi Marble ori din meniu ori prin linia de comandă:"
+#~ msgstr "și porniți Marble ori din meniu ori prin linia de comandă:"
 
 #, fuzzy
 #~ msgid ""
 #~ "If you're on (K)Ubuntu or Debian you need to adjust your LD_LIBRARY_PATH "
 #~ "environment variable:"
 #~ msgstr ""
-#~ "Dacă sunteţi pe (K)Ubuntu sau Debian trebuie să ajustaţi mediul "
+#~ "Dacă sunteți pe (K)Ubuntu sau Debian trebuie să ajustați mediul "
 #~ "LD_LIBRARY_PATH a variabilei dumneavoastră:"
 
 #, fuzzy
@@ -5197,17 +5197,17 @@ msgstr "KDE-Edu pe Windows"
 #~ "To make this change persistent you need to add this line to your .bashrc "
 #~ "or your \"/etc/environment\" file."
 #~ msgstr ""
-#~ "Pentru a face această modificare persistentă trebuie să adăugaţi această "
-#~ "linie la în .bashrc sau în fişierului  \"/etc/environment\" "
+#~ "Pentru a face această modificare persistentă trebuie să adăugați această "
+#~ "linie la în .bashrc sau în fișierului  \"/etc/environment\" "
 #~ "dumneavoastră ."
 
 #, fuzzy
 #~ msgid "B. Build Marble as a KDE application."
-#~ msgstr "B. Construiţi Marble ca o aplicaţie KDE."
+#~ msgstr "B. Construiți Marble ca o aplicație KDE."
 
 #, fuzzy
 #~ msgid "This is the same step as for a Qt-only build:"
-#~ msgstr "Acesta este acelaşi pas ca şi la construirea Qt-only:"
+#~ msgstr "Acesta este același pas ca și la construirea Qt-only:"
 
 #, fuzzy
 #~ msgid ""
@@ -5215,17 +5215,17 @@ msgstr "KDE-Edu pe Windows"
 #~ "the source directory is named 'marble'. Then create a new directory "
 #~ "called 'marble-build'."
 #~ msgstr ""
-#~ "Creaţi un ghid de construcţie paralel pentru sursa ghid. Presupunem că "
-#~ "sursa ghid este numită 'marble'. Atunci creaţi un nou ghid numit 'marble-"
+#~ "Creați un ghid de construcție paralel pentru sursa ghid. Presupunem că "
+#~ "sursa ghid este numită 'marble'. Atunci creați un nou ghid numit 'marble-"
 #~ "construit'."
 
 #, fuzzy
 #~ msgid "From now on the steps are the same as for a Qt-only build."
-#~ msgstr "De acum paşii sunt la fel ca la construirea Qt-only."
+#~ msgstr "De acum pașii sunt la fel ca la construirea Qt-only."
 
 #, fuzzy
 #~ msgid "3 Adjust Marble's search path for the maps and data"
-#~ msgstr "3. Ajustaţi metoda de căutare Marble pentru hărţi şi date"
+#~ msgstr "3. Ajustați metoda de căutare Marble pentru hărți și date"
 
 #, fuzzy
 #~ msgid ""
@@ -5233,9 +5233,9 @@ msgstr "KDE-Edu pe Windows"
 #~ "system default then read on: There are several ways to adjust the path "
 #~ "where Marble is drawing it's data from:"
 #~ msgstr ""
-#~ "Dacă vreţi să instalaţi datele Marble intr-un alt loc decât sistemul "
-#~ "implicit atunci citiţi: Sunt diverse moduri de a ajusta calea de unde "
-#~ "Marble işi extrage datele:"
+#~ "Dacă vreți să instalați datele Marble intr-un alt loc decât sistemul "
+#~ "implicit atunci citiți: Sunt diverse moduri de a ajusta calea de unde "
+#~ "Marble iși extrage datele:"
 
 #, fuzzy
 #~ msgid "3.1 At Compiletime"
@@ -5246,8 +5246,8 @@ msgstr "KDE-Edu pe Windows"
 #~ "Use the cmake option -DMARBLE_DATA_PATH to specify the built-in system "
 #~ "path that Marble gathers its data from:"
 #~ msgstr ""
-#~ "Folosiţi opţiunea cmake  -DMARBLE_DATA_PATH pentru a specifica calea "
-#~ "sistemului construit-în de unde Marble işi obţine datele:"
+#~ "Folosiți opțiunea cmake  -DMARBLE_DATA_PATH pentru a specifica calea "
+#~ "sistemului construit-în de unde Marble iși obține datele:"
 
 #, fuzzy
 #~ msgid "Example:"
@@ -5262,25 +5262,25 @@ msgstr "KDE-Edu pe Windows"
 #~ "There are two solutions to adjust the data path for a precompiled Marble "
 #~ "binary:"
 #~ msgstr ""
-#~ "Sunt două soluţii de a ajusta calea de date pentru o Marble binar "
+#~ "Sunt două soluții de a ajusta calea de date pentru o Marble binar "
 #~ "precompilat:"
 
 #, fuzzy
 #~ msgid "a) Enter a key and a value"
-#~ msgstr "a)Introduceţi o cheie şi o valoare"
+#~ msgstr "a)Introduceți o cheie și o valoare"
 
 #, fuzzy
 #~ msgid ""
 #~ "to the config file \"marblerc\" or \"~/.config/KDE/Marble\\Desktop\\Globe."
 #~ "conf\" and (re)start the application."
 #~ msgstr ""
-#~ "la fişierul de configuraţie \"marblerc\" sau \"~/.config/KDE/Marble"
-#~ "\\Desktop\\Globe.conf\" şi porniţi(restartaţi) aplicaţia."
+#~ "la fișierul de configurație \"marblerc\" sau \"~/.config/KDE/Marble"
+#~ "\\Desktop\\Globe.conf\" și porniți(restartați) aplicația."
 
 #, fuzzy
 #~ msgid "b) Start Marble using the command line option --marbleDataPath:"
 #~ msgstr ""
-#~ "b) Porniţi Marble folosind opţiunea de linie de comandă --marbleDataPath:"
+#~ "b) Porniți Marble folosind opțiunea de linie de comandă --marbleDataPath:"
 
 #, fuzzy
 #~ msgid "Marble - Voice Guidance Speakers for Download"
@@ -5297,9 +5297,9 @@ msgstr "KDE-Edu pe Windows"
 #~ "professors to show the results of a graph algorithm and also helping "
 #~ "students to do the algorithms.</p>"
 #~ msgstr ""
-#~ "<p><strong>Rocs</strong> ţinteşte a fi un IDE pentru Teoria Grafurilor "
+#~ "<p><strong>Rocs</strong> țintește a fi un IDE pentru Teoria Grafurilor "
 #~ "pentru ajutarea profesorilor să arate rezultatele unui algoritm a unu "
-#~ "grafic şi de asemenea să îi ajute pe studenţi să facă algoritmul.</p>"
+#~ "grafic și de asemenea să îi ajute pe studenți să facă algoritmul.</p>"
 
 #, fuzzy
 #~ msgid "Preview"
@@ -5326,8 +5326,8 @@ msgstr "KDE-Edu pe Windows"
 #~ "Natural Earth III portrays the world environment in an idealized manner "
 #~ "with little human influence."
 #~ msgstr ""
-#~ "Natural Earth III portretizează mediul inconjurător şi il idealizează cu "
-#~ "o mică influenţă umană."
+#~ "Natural Earth III portretizează mediul inconjurător și il idealizează cu "
+#~ "o mică influență umană."
 
 #, fuzzy
 #~ msgid "Version: 0.1"
@@ -5370,7 +5370,7 @@ msgstr "KDE-Edu pe Windows"
 
 #, fuzzy
 #~ msgid "Moon - Elevation"
-#~ msgstr "Elevaţie - Luna"
+#~ msgstr "Elevație - Luna"
 
 #, fuzzy
 #~ msgid "NASA/SDIO, Courtesy USGS Astrogeology Research Program"
@@ -5378,7 +5378,7 @@ msgstr "KDE-Edu pe Windows"
 
 #, fuzzy
 #~ msgid "Color-coded elevation data of the Moon."
-#~ msgstr "Culoare-date de elevaţie codate a Lunii."
+#~ msgstr "Culoare-date de elevație codate a Lunii."
 
 #, fuzzy
 #~ msgid "Version: 0.2"
@@ -5405,7 +5405,7 @@ msgstr "KDE-Edu pe Windows"
 #~ "The OpenCycleMap was created by Andy Allan and Dave Stubbs, License: "
 #~ "Creative Commons by-SA 2.0"
 #~ msgstr ""
-#~ "OpenCycleMap a fost creat de Andy Allan si Dave Stubbs, Licenţă: Creative "
+#~ "OpenCycleMap a fost creat de Andy Allan si Dave Stubbs, Licență: Creative "
 #~ "Commons by-SA 2.0"
 
 #, fuzzy
@@ -5459,12 +5459,12 @@ msgstr "KDE-Edu pe Windows"
 #~ "with little human influence. This version displays oceans with layered "
 #~ "depth."
 #~ msgstr ""
-#~ "Natural Earth III portretizează mediul inconjurător şi il idealizează cu "
-#~ "o mică influenţă umană. Această versiune expune oceanele cu adâncimi mari."
+#~ "Natural Earth III portretizează mediul inconjurător și il idealizează cu "
+#~ "o mică influență umană. Această versiune expune oceanele cu adâncimi mari."
 
 #, fuzzy
 #~ msgid "Natural Earth II - Oceans with blended depth tints and shading."
-#~ msgstr "Natural Earth II - Oceane cu adăncime mixtă nuanţată şi umbrite."
+#~ msgstr "Natural Earth II - Oceane cu adăncime mixtă nuanțată și umbrite."
 
 #, fuzzy
 #~ msgid ""
@@ -5472,6 +5472,6 @@ msgstr "KDE-Edu pe Windows"
 #~ "with little human influence. This version displays oceans with blended "
 #~ "depth tints and shading."
 #~ msgstr ""
-#~ "Natural Earth III portretizează mediul inconjurător şi il idealizează cu "
-#~ "o mică influenţă umană. Această versiune dispune oceanele cu adâncie "
-#~ "mixtă nuanţată şi umbrite."
+#~ "Natural Earth III portretizează mediul inconjurător și il idealizează cu "
+#~ "o mică influență umană. Această versiune dispune oceanele cu adâncie "
+#~ "mixtă nuanțată și umbrite."

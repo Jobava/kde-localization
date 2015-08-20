@@ -15258,7 +15258,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, rememberCheckBox)
 #: transcoding/TranscodingAssistantDialog.ui:275
 msgid "Remember this choice for the next time"
-msgstr "Ţine minte această alegere pentru data viitoare"
+msgstr "Ține minte această alegere pentru data viitoare"
 
 #: transcoding/TranscodingOptionsStackedWidget.cpp:56
 msgid ""

@@ -1,7 +1,7 @@
 # Translation of ginkgo.po to Romanian
 # Copyright (c) 1999-2010 Mandriva
 #
-# Vă rugăm să nu actualizaţi fișierul, cu excepția cazului în care sînteți
+# Vă rugăm să nu actualizați fișierul, cu excepția cazului în care sînteți
 # sigur de calitatea traducerii dumneavoastră, de gramatică și de ortografie.
 # Acestea din urmă sînt de prea multe ori aproximative.
 # Corectarea lor ulterioară nu are nici un alt rezultat decît acela de
@@ -22,7 +22,7 @@
 # disponerea tastaturii românească standard, codarea de caractere UTF-8 și
 # asigurați-vă că fonturile utilizate sînt cu virgulițe, NU CU SEDILE!
 # Exemplu:
-#          font incorect (cu sedile): şŞ ţŢ
+#          font incorect (cu sedile): șȘ țȚ
 #          font corect (cu virgule): șȘ țȚ
 #
 # Pentru a vă asigura că folosiți fonturile corecte, vizitați:

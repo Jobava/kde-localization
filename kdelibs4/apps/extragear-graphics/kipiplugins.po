@@ -4,7 +4,7 @@
 #
 # Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
 # Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2009.
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2009.
 # Florin Cătălin RUSSEN <cfrussen@yahoo.co.uk>, 2011.
 # Cristian Oneț <onet.cristian@gmail.com>, 2011.
 msgid ""

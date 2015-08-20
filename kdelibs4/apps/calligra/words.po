@@ -2121,7 +2121,7 @@ msgstr "Alt text"
 #~ msgstr "Includeți text din "
 
 #~ msgid "Characters without spaces:"
-#~ msgstr "Caractere fără spaţii:"
+#~ msgstr "Caractere fără spații:"
 
 #~ msgid "Characters incl. spaces"
 #~ msgstr "Caractere incluzând spații"

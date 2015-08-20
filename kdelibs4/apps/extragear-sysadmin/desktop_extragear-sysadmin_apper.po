@@ -2,7 +2,7 @@
 # Copyright (C) 2008 This_file_is_part_of_KDE
 # This file is distributed under the same license as the desktop_playground-sysadmin package.
 #
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008".
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2008".
 # Sergiu Bivol <sergiu@ase.md>, 2008, 2009, 2013, 2014.
 msgid ""
 msgstr ""

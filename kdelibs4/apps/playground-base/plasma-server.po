@@ -54,7 +54,7 @@ msgstr "Autor original"
 
 #: main.cpp:128
 msgid "Displays a list of known applets"
-msgstr "Afișează o listă cu miniaplicaţiile cunoscute"
+msgstr "Afișează o listă cu miniaplicațiile cunoscute"
 
 #: main.cpp:129
 msgid ""
@@ -68,7 +68,7 @@ msgstr ""
 
 #: main.cpp:132
 msgid "Optional arguments of the applet to share"
-msgstr "Argumente opționale pentru miniaplicaţia de partajat"
+msgstr "Argumente opționale pentru miniaplicația de partajat"
 
 #: main.cpp:133
 msgid "List zeroconf announced remote widgets"

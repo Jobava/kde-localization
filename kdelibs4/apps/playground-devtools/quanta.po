@@ -2457,22 +2457,22 @@ msgstr "Bara navigatorului"
 #~ msgid "ă (&#259;) Small a, romanian accent"
 #~ msgstr "ă (&#259;) A mic, accent românesc"
 
-#~ msgid "Ş (&#350;) Capital S, cedilla accent"
-#~ msgstr "Ş (&#350;) S mare, accent cu sedilă"
+#~ msgid "Ș (&#350;) Capital S, cedilla accent"
+#~ msgstr "Ș (&#350;) S mare, accent cu sedilă"
 
-#~ msgid "ş (&#351;) Small s, cedilla accent"
+#~ msgid "ș (&#351;) Small s, cedilla accent"
 #~ msgstr "ș (&#351;) S mic, accent cu sedilă"
 
-#~ msgid "Ţ (&#354;) Capital T, cedilla accent"
-#~ msgstr "Ţ (&#354;) T mare, accent cu sedilă"
+#~ msgid "Ț (&#354;) Capital T, cedilla accent"
+#~ msgstr "Ț (&#354;) T mare, accent cu sedilă"
 
-#~ msgid "ţ (&#355;) Small t, cedilla accent"
+#~ msgid "ț (&#355;) Small t, cedilla accent"
 #~ msgstr "ț (&#355;) T mic, accent cu sedilă"
 
-#~ msgid "Ş (&#536;) Capital S, comma accent below"
+#~ msgid "Ș (&#536;) Capital S, comma accent below"
 #~ msgstr "Ș (&#536;) S mare, accent cu virgulă desubt"
 
-#~ msgid "ş (&#537;) Small s, comma accent below"
+#~ msgid "ș (&#537;) Small s, comma accent below"
 #~ msgstr "ș (&#537;) S mic, accent cu virgulă desubt"
 
 #, fuzzy

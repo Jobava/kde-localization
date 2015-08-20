@@ -1,6 +1,6 @@
 # translation of desktop_extragear-office_kile.po to Romanian
 #
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008.
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2008.
 # Sergiu Bivol <sergiu@ase.md>, 2008.
 msgid ""
 msgstr ""

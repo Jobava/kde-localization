@@ -24,7 +24,7 @@
 # disponerea tastaturii românească standard, codarea de caractere UTF-8 și
 # asigurați-vă că fonturile utilizate sînt cu virgulițe, NU CU SEDILE!
 # Exemplu:
-#          font incorect (cu sedile): şŞ ţŢ
+#          font incorect (cu sedile): șȘ țȚ
 #          font corect (cu virgule): șȘ țȚ
 #
 # Pentru a vă asigura că folosiți fonturile corecte, vizitați:
@@ -35,7 +35,7 @@
 #                                                       www.KDE.org
 #
 # Traducători de-a lungul timpului:
-# Laurenţiu Buzdugan <lbuz@rolix.org>, 2008.
+# Laurențiu Buzdugan <lbuz@rolix.org>, 2008.
 # Sergiu Bivol <sergiu-bivol@mail.md>, 2008.
 # Sergiu Bivol <sergiu@ase.md>, 2008.
 # Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2010.
