@@ -12,7 +12,7 @@ while read reponame repourl
 do
     if [[ -n "$reponame" && -n "$repourl" && $reponame != "reponame" && $repourl != "repourl" ]]; then
         echo "Creating $reponame ..."
-        echo "$reponame" >> .gitignore
+        #echo "$reponame" >> .gitignore
         rm -rf "$reponame" 
         mkdir -p "$reponame"
         svn checkout "$repourl" "$reponame"
