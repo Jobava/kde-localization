@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-13 06:56+0000\n"
+"POT-Creation-Date: 2015-08-29 06:12+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-doc@kde.org>\n"
@@ -242,12 +242,12 @@ msgctxt "Name"
 msgid "System Bell"
 msgstr "Clopoțel de sistem"
 
-#: kcontrol/bell/bell.desktop:106
+#: kcontrol/bell/bell.desktop:107
 msgctxt "Comment"
 msgid "System Bell Configuration"
 msgstr "Configurare Clopoțel de sistem"
 
-#: kcontrol/bell/bell.desktop:197
+#: kcontrol/bell/bell.desktop:198
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Bell,Audio,Sound,Volume,Pitch,Duration,PC Speaker,Internal Speaker,Speaker,"
@@ -4075,7 +4075,7 @@ msgctxt "Name"
 msgid "CPU Monitor"
 msgstr "Monitor de procesor"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:64
+#: plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:65
 msgctxt "Comment"
 msgid "A CPU usage monitor"
 msgstr "Monitor de utilizare a procesorului"
@@ -4107,7 +4107,7 @@ msgctxt "Name"
 msgid "Hardware Info"
 msgstr "Informații echipament"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:63
+#: plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:64
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "Afișează informații despre echipamentul fizic"
@@ -4137,7 +4137,7 @@ msgctxt "Name"
 msgid "Hardware Temperature"
 msgstr "Temperatură echipament"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:62
+#: plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:63
 msgctxt "Comment"
 msgid "A system temperature monitor"
 msgstr "Monitor de temperatură a sistemului"

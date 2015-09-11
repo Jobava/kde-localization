@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-17 06:10+0000\n"
+"POT-Creation-Date: 2015-08-29 06:11+0000\n"
 "PO-Revision-Date: 2013-10-13 12:34+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -25,7 +25,7 @@ msgctxt "Name"
 msgid "Dolphin"
 msgstr "Dolphin"
 
-#: dolphin/src/dolphin.desktop:90
+#: dolphin/src/dolphin.desktop:93
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr "Gestionar de fișiere"
@@ -35,17 +35,17 @@ msgctxt "Name"
 msgid "Dolphin View"
 msgstr "Vizualizare Dolphin"
 
-#: dolphin/src/dolphinpart.desktop:93
+#: dolphin/src/dolphinpart.desktop:96
 msgctxt "Name"
 msgid "Icons"
 msgstr "Pictograme"
 
-#: dolphin/src/dolphinpart.desktop:185
+#: dolphin/src/dolphinpart.desktop:192
 msgctxt "Name"
 msgid "Compact"
 msgstr "Compact"
 
-#: dolphin/src/dolphinpart.desktop:239
+#: dolphin/src/dolphinpart.desktop:247
 msgctxt "Name"
 msgid "Details"
 msgstr "Detalii"
@@ -55,26 +55,26 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "Dolphin General"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:66
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:70
 msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr ""
 "Acest serviciu permite configurarea opțiunilor generale ale lui Dolphin."
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:142
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:148
 msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "General"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:210
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:219
 msgctxt "Comment"
 msgid "Configure general file manager settings"
 msgstr "Configurează opțiunile generale ale gestionarul de fișiere"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:275
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:274
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:235
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:273
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:286
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:286
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:240
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:284
 msgctxt "X-KDE-Keywords"
 msgid "file manager"
 msgstr "gestionar de fișiere"
@@ -84,17 +84,17 @@ msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr "Dolphin Navigare"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:67
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:70
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "Acest serviciu permite configurarea navigării Dolphin."
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:142
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:147
 msgctxt "Name"
 msgid "Navigation"
 msgstr "Navigare"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:209
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:217
 msgctxt "Comment"
 msgid "Configure file manager navigation"
 msgstr "Configurează navigarea gestionarului de fișiere"
@@ -104,14 +104,14 @@ msgctxt "Name"
 msgid "Dolphin Services"
 msgstr "Servicii Dolphin"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:78
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:80
 #: konqueror/sidebar/default_entries/services.desktop:4
 #: konqueror/sidebar/trees/init/services/.directory:3
 msgctxt "Name"
 msgid "Services"
 msgstr "Servicii"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:169
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:171
 msgctxt "Comment"
 msgid "Configure file manager services"
 msgstr "Configurează serviciile gestionarului de fișiere"
@@ -121,18 +121,18 @@ msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr "Regimuri de vizualizare Dolphin"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:67
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:70
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr ""
 "Acest serviciu permite configurarea regimurilor de vizualizare Dolphin."
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:141
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:146
 msgctxt "Name"
 msgid "View Modes"
 msgstr "Regimuri de vizualizare"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:207
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:215
 msgctxt "Comment"
 msgid "Configure file manager view modes"
 msgstr "Configurează regimurile de vizualizare ale gestionarului de fișiere"

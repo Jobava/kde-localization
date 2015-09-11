@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-13 06:42+0000\n"
+"POT-Creation-Date: 2015-09-07 05:12+0000\n"
 "PO-Revision-Date: 2010-01-19 23:12+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
 "Language-Team: Română <kde-i18n-ro@kde.org>\n"
@@ -194,7 +194,7 @@ msgstr "Modificare"
 msgid "Kompare Model Update"
 msgstr ""
 
-#: patchreview.cpp:280 patchreview.cpp:468 patchreview.cpp:507
+#: patchreview.cpp:280 patchreview.cpp:468 patchreview.cpp:525
 msgid "Patch Review"
 msgstr ""
 

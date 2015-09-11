@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdetoys\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"POT-Creation-Date: 2015-08-27 06:31+0000\n"
 "PO-Revision-Date: 2011-01-18 22:40+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
@@ -79,7 +79,7 @@ msgctxt "Description"
 msgid "Neko Kuro"
 msgstr "Neko Kuro"
 
-#: data/nekokurorc:57
+#: data/nekokurorc:58
 msgctxt "About"
 msgid ""
 "Artwork from oneko by Masayuki Koba\\nAMOR'd by Chris Spiegel\\nKuro (Black) "
