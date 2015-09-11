@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ro\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-20 01:58+0000\n"
+"POT-Creation-Date: 2015-09-03 01:58+0000\n"
 "PO-Revision-Date: 2014-09-30 23:27+0300\n"
 "Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -10177,11 +10177,11 @@ msgstr "Nici una"
 msgid "Unknown"
 msgstr "Necunoscut(ă)"
 
-#: kmymoney/mymoney/payeeidentifier/payeeidentifierloader.cpp:129
+#: kmymoney/mymoney/payeeidentifier/payeeidentifierloader.cpp:130
 msgid "IBAN and BIC"
 msgstr ""
 
-#: kmymoney/mymoney/payeeidentifier/payeeidentifierloader.cpp:131
+#: kmymoney/mymoney/payeeidentifier/payeeidentifierloader.cpp:132
 #, fuzzy
 #| msgid "Account Number"
 msgid "National Account Number"

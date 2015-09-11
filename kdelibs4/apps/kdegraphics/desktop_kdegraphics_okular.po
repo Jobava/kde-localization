@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdegraphics\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-27 02:08+0000\n"
+"POT-Creation-Date: 2015-09-11 02:26+0000\n"
 "PO-Revision-Date: 2012-12-27 08:09+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -90,7 +90,7 @@ msgid "File format backend for Okular"
 msgstr "Platformă Okular pentru formate de fișiere"
 
 #: generators/chm/active-documentviewer_chm.desktop:153
-#: generators/chm/okularApplication_chm.desktop:133
+#: generators/chm/okularApplication_chm.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "chm"
 msgstr "chm"
@@ -167,8 +167,31 @@ msgctxt "GenericName"
 msgid "Document Viewer"
 msgstr "Vizualizor de documente"
 
+#: generators/chm/okularApplication_chm.desktop:127
+#: generators/comicbook/okularApplication_comicbook.desktop:127
+#: generators/djvu/okularApplication_djvu.desktop:127
+#: generators/dvi/okularApplication_dvi.desktop:127
+#: generators/epub/okularApplication_epub.desktop:127
+#: generators/fax/okularApplication_fax.desktop:127
+#: generators/fictionbook/okularApplication_fb.desktop:127
+#: generators/kimgio/okularApplication_kimgio.desktop:127
+#: generators/mobipocket/okularApplication_mobi.desktop:127
+#: generators/ooo/okularApplication_ooo.desktop:127
+#: generators/plucker/okularApplication_plucker.desktop:127
+#: generators/poppler/okularApplication_pdf.desktop:127
+#: generators/spectre/okularApplication_ghostview.desktop:127
+#: generators/tiff/okularApplication_tiff.desktop:127
+#: generators/txt/okularApplication_txt.desktop:127
+#: generators/xps/okularApplication_xps.desktop:127 shell/okular.desktop:126
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Document viewer"
+msgctxt "Comment"
+msgid "Universal document viewer"
+msgstr "Vizualizor de documente"
+
 #: generators/comicbook/active-documentviewer_comicbook.desktop:153
-#: generators/comicbook/okularApplication_comicbook.desktop:133
+#: generators/comicbook/okularApplication_comicbook.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "cbr, cbz, cbt, Comic Book"
 msgstr "cbr, cbz, cbt, benzi desenate, comic"
@@ -184,7 +207,7 @@ msgid "Comic book backend for Okular"
 msgstr "Platformă de benzi desenate pentru Okular"
 
 #: generators/djvu/active-documentviewer_djvu.desktop:153
-#: generators/djvu/okularApplication_djvu.desktop:133
+#: generators/djvu/okularApplication_djvu.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "djvu"
 msgstr "djvu"
@@ -200,7 +223,7 @@ msgid "DjVu backend for Okular"
 msgstr "Platformă DjVu pentru Okular"
 
 #: generators/dvi/active-documentviewer_dvi.desktop:153
-#: generators/dvi/okularApplication_dvi.desktop:133
+#: generators/dvi/okularApplication_dvi.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "dvi"
 msgstr "dvi"
@@ -216,7 +239,7 @@ msgid "DVI backend for Okular"
 msgstr "Platformă DVI pentru Okular"
 
 #: generators/epub/active-documentviewer_epub.desktop:153
-#: generators/epub/okularApplication_epub.desktop:133
+#: generators/epub/okularApplication_epub.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "epub, e-book"
 msgstr "epub, e-book"
@@ -242,7 +265,7 @@ msgid "G3/G4 Fax backend for Okular"
 msgstr "Platformă fax G3/G4 pentru Okular"
 
 #: generators/fictionbook/active-documentviewer_fb.desktop:153
-#: generators/fictionbook/okularApplication_fb.desktop:133
+#: generators/fictionbook/okularApplication_fb.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "FictionBook, e-book, fb2"
 msgstr "FictionBook, e-book, fb2"
@@ -283,7 +306,7 @@ msgctxt "Comment"
 msgid "Mobipocket backend for Okular"
 msgstr "Platformă OpenDocument pentru Okular"
 
-#: generators/mobipocket/okularApplication_mobi.desktop:134
+#: generators/mobipocket/okularApplication_mobi.desktop:151
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Plucker document"
@@ -302,7 +325,7 @@ msgid "OpenDocument backend for Okular"
 msgstr "Platformă OpenDocument pentru Okular"
 
 #: generators/plucker/active-documentviewer_plucker.desktop:153
-#: generators/plucker/okularApplication_plucker.desktop:133
+#: generators/plucker/okularApplication_plucker.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "plucker"
 msgstr "plucker"
@@ -318,7 +341,7 @@ msgid "Plucker backend for Okular"
 msgstr "Platformă Plucker pentru Okular"
 
 #: generators/poppler/active-documentviewer_pdf.desktop:153
-#: generators/poppler/okularApplication_pdf.desktop:132
+#: generators/poppler/okularApplication_pdf.desktop:149
 msgctxt "X-KDE-Keywords"
 msgid "PDF, Portable Document Format"
 msgstr "PDF, Portable Document Format"
@@ -334,7 +357,7 @@ msgid "PDF backend for Okular using poppler"
 msgstr "Platformă PDF pentru Okular utilizînd poppler"
 
 #: generators/spectre/active-documentviewer_ghostview.desktop:153
-#: generators/spectre/okularApplication_ghostview.desktop:132
+#: generators/spectre/okularApplication_ghostview.desktop:149
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "PostScript Info"
@@ -363,7 +386,7 @@ msgid "TIFF backend for Okular"
 msgstr "Platformă TIFF pentru Okular"
 
 #: generators/txt/active-documentviewer_txt.desktop:153
-#: generators/txt/okularApplication_txt.desktop:133
+#: generators/txt/okularApplication_txt.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "txt"
 msgstr ""
@@ -382,7 +405,7 @@ msgid "Txt backend for Okular"
 msgstr "Platformă TIFF pentru Okular"
 
 #: generators/xps/active-documentviewer_xps.desktop:153
-#: generators/xps/okularApplication_xps.desktop:132
+#: generators/xps/okularApplication_xps.desktop:149
 msgctxt "X-KDE-Keywords"
 msgid "XPS"
 msgstr "XPS"

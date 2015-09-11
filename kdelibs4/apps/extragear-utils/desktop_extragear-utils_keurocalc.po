@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_extragear-utils_keurocalc\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"POT-Creation-Date: 2015-08-29 02:23+0000\n"
 "PO-Revision-Date: 2008-03-10 16:08+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu-bivol@mail.md>\n"
 "Language-Team: Română <kde-i18n-ro@kde.org>\n"
@@ -34,7 +34,7 @@ msgctxt "GenericName"
 msgid "Currency converter and calculator"
 msgstr "Un calculator și convertor de valută"
 
-#: keurocalc/keurocalc.desktop:86
+#: keurocalc/keurocalc.desktop:87
 #, fuzzy
 #| msgctxt "Keywords"
 #| msgid "converter,euro,money,cash,calculator"

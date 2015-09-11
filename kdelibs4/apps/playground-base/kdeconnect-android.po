@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-06-07 02:06+0000\n"
+"POT-Creation-Date: 2015-09-09 01:59+0000\n"
 "PO-Revision-Date: 2014-03-25 16:55+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -510,6 +510,20 @@ msgctxt "custom_devices_settings"
 msgid "Custom device list"
 msgstr "Niciun dispozitiv"
 
+#, fuzzy
+#| msgctxt "pair_device"
+#| msgid "Pair device"
+msgctxt "pair_device_action"
+msgid "Pair a new device"
+msgstr "Asociază dispozitiv"
+
+#, fuzzy, c-format
+#| msgctxt "device_menu_unpair"
+#| msgid "Unpair"
+msgctxt "unpair_device_action"
+msgid "Unpair %s"
+msgstr "Dezasociază"
+
 msgctxt "custom_device_list"
 msgid "Add devices by IP"
 msgstr ""
@@ -583,6 +597,69 @@ msgstr ""
 #, c-format
 msgctxt "mpris_player_on_device"
 msgid "%1$s on %2$s"
+msgstr ""
+
+#, fuzzy
+#| msgctxt "pairing_request_from"
+#| msgid "Pairing request from %1s"
+msgctxt "send_files"
+msgid "Send files"
+msgstr "Cerere de asociere de la %1s"
+
+#, fuzzy
+#| msgctxt "category_connected_devices"
+#| msgid "Connected devices"
+msgctxt "pairing_title"
+msgid "KDE Connect Devices"
+msgstr "Dispozitive conectate"
+
+msgctxt "pairing_description"
+msgid ""
+"Other devices running KDE Connect in your same network should appear here."
+msgstr ""
+
+#, fuzzy
+#| msgctxt "device_not_paired"
+#| msgid "Device not paired"
+msgctxt "device_paired"
+msgid "Device paired"
+msgstr "Dispozitiv neasociat"
+
+#, fuzzy
+#| msgctxt "category_remembered_devices"
+#| msgid "Remembered devices"
+msgctxt "device_rename_title"
+msgid "Rename device"
+msgstr "Dispozitive memorizate"
+
+msgctxt "device_rename_confirm"
+msgid "Rename"
+msgstr ""
+
+msgctxt "refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "unreachable_description"
+msgid ""
+"This paired device is not reachable. Make sure it is connected to your same "
+"network."
+msgstr ""
+
+msgctxt "no_file_browser"
+msgid "There are no file browsers installed."
+msgstr ""
+
+msgctxt "pref_plugin_telepathy"
+msgid "Send SMS"
+msgstr ""
+
+msgctxt "pref_plugin_telepathy_desc"
+msgid "Send text messages from your desktop"
+msgstr ""
+
+msgctxt "plugin_not_supported"
+msgid "This plugin is not supported by the device"
 msgstr ""
 
 #~ msgctxt "open_mpris_controls"

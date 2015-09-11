@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_playground-sysadmin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-13 02:37+0000\n"
+"POT-Creation-Date: 2015-08-29 02:23+0000\n"
 "PO-Revision-Date: 2014-04-14 12:06+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -147,12 +147,12 @@ msgctxt "Name"
 msgid "Limba Package Installer"
 msgstr "Instalator de pachete Linstaller"
 
-#: AppSetup/apper_appsetup.desktop:30
+#: AppSetup/apper_appsetup.desktop:31
 msgctxt "GenericName"
 msgid "3rd-party software installer"
 msgstr "Instalator de aplicații de la părți terțe"
 
-#: AppSetup/apper_appsetup.desktop:67
+#: AppSetup/apper_appsetup.desktop:68
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Tool to install new 3rd-party software"
