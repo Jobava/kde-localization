@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-01 08:47+0000\n"
+"POT-Creation-Date: 2015-09-10 09:33+0000\n"
 "PO-Revision-Date: 2014-03-25 17:14+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -23,12 +23,12 @@ msgctxt "Name"
 msgid "KDE Connect Application"
 msgstr "KDE Connect"
 
-#: app/org.kde.kdeconnect.app.desktop:19
+#: app/org.kde.kdeconnect.app.desktop:21
 msgctxt "GenericName"
 msgid "Device Synchronization"
 msgstr ""
 
-#: app/org.kde.kdeconnect.app.desktop:36
+#: app/org.kde.kdeconnect.app.desktop:40
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Notifications from your devices"
@@ -45,7 +45,6 @@ msgid "KDEConnect daemon"
 msgstr "KDE Connect"
 
 #: daemon/kdeconnect.desktop:12 kcm/kcm_kdeconnect.desktop:13
-#: kcm/kdeconnect.desktop:6 kdeconnect-non-plasma.desktop:2
 #: plasmoid/package/metadata.desktop:2 plugins/kdeconnect.notifyrc:3
 msgctxt "Name"
 msgid "KDE Connect"
@@ -77,12 +76,20 @@ msgctxt "Comment"
 msgid "Connect and sync your devices"
 msgstr "Notificări de pe dispozitivele dumneavoastră"
 
-#: kcm/kcm_kdeconnect.desktop:59
+#: kcm/kcm_kdeconnect.desktop:61
 msgctxt "X-KDE-Keywords"
 msgid "Network,Android,Devices"
 msgstr ""
 
-#: kcm/kdeconnect.desktop:33
+#: kcm/kdeconnect.desktop:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDE Connect"
+msgctxt "Name"
+msgid "KDE Connect Settings"
+msgstr "KDE Connect"
+
+#: kcm/kdeconnect.desktop:14
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Notifications from your devices"
@@ -90,12 +97,20 @@ msgctxt "GenericName"
 msgid "Connect and sync your devices"
 msgstr "Notificări de pe dispozitivele dumneavoastră"
 
-#: kdeconnect-non-plasma.desktop:29
+#: kdeconnect-non-plasma.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDE Connect"
+msgctxt "Name"
+msgid "KDE Connect Monitor"
+msgstr "KDE Connect"
+
+#: kdeconnect-non-plasma.desktop:10
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Notifications from your devices"
 msgctxt "Comment"
-msgid "Reach out to your devices"
+msgid "Display information about your devices"
 msgstr "Notificări de pe dispozitivele dumneavoastră"
 
 #: plasmoid/package/metadata.desktop:29
@@ -217,6 +232,13 @@ msgstr ""
 msgctxt "Name"
 msgid "Share plugin settings"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Notifications from your devices"
+#~ msgctxt "Comment"
+#~ msgid "Reach out to your devices"
+#~ msgstr "Notificări de pe dispozitivele dumneavoastră"
 
 #~ msgctxt "Name"
 #~ msgid "Battery monitor"

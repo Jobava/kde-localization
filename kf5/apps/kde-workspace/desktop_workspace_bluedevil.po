@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-20 09:13+0000\n"
+"POT-Creation-Date: 2015-09-03 08:52+0000\n"
 "PO-Revision-Date: 2015-04-26 14:56+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: src/applet/package/metadata.desktop:41
+#: src/applet/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Bluetooth status and control"
 msgstr "Starea și controlul Bluetooth"
@@ -31,57 +31,57 @@ msgctxt "Comment"
 msgid "Bluetooth system"
 msgstr "Sistem Bluetooth"
 
-#: src/bluedevil.notifyrc:43
+#: src/bluedevil.notifyrc:44
 msgctxt "Name"
 msgid "Authorization Requested"
 msgstr "Se cere autorizare"
 
-#: src/bluedevil.notifyrc:79
+#: src/bluedevil.notifyrc:81
 msgctxt "Comment"
 msgid "A device wants to connect"
 msgstr "Un dispozitiv vrea să se conecteze"
 
-#: src/bluedevil.notifyrc:119
+#: src/bluedevil.notifyrc:122
 msgctxt "Name"
 msgid "Confirm PIN"
 msgstr "Confirmare PIN"
 
-#: src/bluedevil.notifyrc:156
+#: src/bluedevil.notifyrc:160
 msgctxt "Comment"
 msgid "Confirm a device request using matching PINs"
 msgstr "Confirmați o cerere de dispozitiv folosind PIN-uri potrivite"
 
-#: src/bluedevil.notifyrc:196
+#: src/bluedevil.notifyrc:201
 msgctxt "Name"
 msgid "Request PIN"
 msgstr "Cere PIN"
 
-#: src/bluedevil.notifyrc:233
+#: src/bluedevil.notifyrc:239
 msgctxt "Comment"
 msgid "A PIN is needed"
 msgstr "Este necesar un PIN"
 
-#: src/bluedevil.notifyrc:275
+#: src/bluedevil.notifyrc:282
 msgctxt "Name"
 msgid "Incoming File"
 msgstr "Fișier de intrare"
 
-#: src/bluedevil.notifyrc:312
+#: src/bluedevil.notifyrc:320
 msgctxt "Comment"
 msgid "Incoming file transfer"
 msgstr "Transfer de fișiere de intrare"
 
-#: src/bluedevil.notifyrc:353
+#: src/bluedevil.notifyrc:362
 msgctxt "Name"
 msgid "Connection Failed"
 msgstr "Conectarea a eșuat"
 
-#: src/bluedevil.notifyrc:387
+#: src/bluedevil.notifyrc:397
 msgctxt "Comment"
 msgid "Connection to device failed"
 msgstr "Conectarea la dispozitiv a eșuat"
 
-#: src/daemon/kded/bluedevil.desktop:49
+#: src/daemon/kded/bluedevil.desktop:50
 msgctxt "Comment"
 msgid "Handles Bluetooth events"
 msgstr "Manipulează evenimente Bluetooth"
@@ -91,7 +91,7 @@ msgctxt "Name"
 msgid "Send file via Bluetooth"
 msgstr "Trimite fișier prin Bluetooth"
 
-#: src/fileitemactionplugin/bluedevilsendfile.desktop:42
+#: src/fileitemactionplugin/bluedevilsendfile.desktop:43
 msgctxt "X-KDE-Submenu"
 msgid "Bluetooth"
 msgstr "Bluetooth"
@@ -101,7 +101,7 @@ msgctxt "Name"
 msgid "Adapters"
 msgstr "Adaptoare"
 
-#: src/kcmodule/bluedeviladapters.desktop:53
+#: src/kcmodule/bluedeviladapters.desktop:54
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure Bluetooth adapters"
@@ -109,9 +109,9 @@ msgctxt "Comment"
 msgid "Bluetooth Adapters"
 msgstr "Configurează adaptoare Bluetooth"
 
-#: src/kcmodule/bluedeviladapters.desktop:79
-#: src/kcmodule/bluedevildevices.desktop:79
-#: src/kcmodule/bluedevilglobal.desktop:66
+#: src/kcmodule/bluedeviladapters.desktop:84
+#: src/kcmodule/bluedevildevices.desktop:84
+#: src/kcmodule/bluedevilglobal.desktop:74
 msgctxt "X-KDE-Keywords"
 msgid "Network,Connectivity,Bluetooth"
 msgstr "Rețea,Conectivitate,Bluetooth"
@@ -121,7 +121,7 @@ msgctxt "Name"
 msgid "Devices"
 msgstr "Dispozitive"
 
-#: src/kcmodule/bluedevildevices.desktop:53
+#: src/kcmodule/bluedevildevices.desktop:54
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Manage Bluetooth devices"
@@ -134,7 +134,7 @@ msgctxt "Name"
 msgid "Advanced Settings"
 msgstr ""
 
-#: src/kcmodule/bluedevilglobal.desktop:40
+#: src/kcmodule/bluedevilglobal.desktop:44
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Handles Bluetooth events"
@@ -147,7 +147,7 @@ msgctxt "Name"
 msgid "Bluetooth File Transfer"
 msgstr "Transfer de fișiere Bluetooth"
 
-#: src/kio/obexftp/daemon/obexftpdaemon.desktop:48
+#: src/kio/obexftp/daemon/obexftpdaemon.desktop:49
 msgctxt "Comment"
 msgid "Supports Bluetooth file transfer using ObexFTP"
 msgstr "Susține transfer de fișiere Bluetooth folosind ObexFTP"
@@ -157,12 +157,12 @@ msgctxt "Name"
 msgid "BlueDevil Send File"
 msgstr "Expediere fișier BlueDevil"
 
-#: src/sendfile/org.kde.bluedevilsendfile.desktop:36
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:37
 msgctxt "GenericName"
 msgid "BlueDevil Send File"
 msgstr "Expediere fișier BlueDevil"
 
-#: src/sendfile/org.kde.bluedevilsendfile.desktop:70
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:72
 msgctxt "Comment"
 msgid "BlueDevil Send File"
 msgstr "Expediere fișier BlueDevil"
@@ -172,12 +172,12 @@ msgctxt "Name"
 msgid "BlueDevil Wizard"
 msgstr "Asistent BlueDevil"
 
-#: src/wizard/org.kde.bluedevilwizard.desktop:37
+#: src/wizard/org.kde.bluedevilwizard.desktop:38
 msgctxt "GenericName"
 msgid "BlueDevil Wizard"
 msgstr "Asistent BlueDevil"
 
-#: src/wizard/org.kde.bluedevilwizard.desktop:73
+#: src/wizard/org.kde.bluedevilwizard.desktop:75
 msgctxt "Comment"
 msgid "BlueDevil Wizard"
 msgstr "Asistent BlueDevil"

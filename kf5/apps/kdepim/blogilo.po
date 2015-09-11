@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-20 08:56+0000\n"
+"POT-Creation-Date: 2015-09-09 08:18+0000\n"
 "PO-Revision-Date: 2012-12-22 11:55+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -18,36 +18,36 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
 
-#: src/addeditblog.cpp:107
+#: src/addeditblog.cpp:108
 msgid "Edit blog settings"
 msgstr "Modifică configurările blogului"
 
-#: src/addeditblog.cpp:124
+#: src/addeditblog.cpp:125
 msgid "Add a new blog"
 msgstr "Adaugă blog nou"
 
-#: src/addeditblog.cpp:151
+#: src/addeditblog.cpp:152
 msgid "You have to set the username, password and URL of your blog or website."
 msgstr ""
 "Trebuie să stabiliți un utilizator, o parolă și un URL al blogului sau "
 "saitului dumneavoastră."
 
-#: src/addeditblog.cpp:152
+#: src/addeditblog.cpp:153
 msgid "Incomplete fields"
 msgstr "Cîmpuri incomplete"
 
-#: src/addeditblog.cpp:155
+#: src/addeditblog.cpp:156
 msgid "Trying to guess blog and API type..."
 msgstr "Se încearcă ghicirea tipului de blog și API..."
 
-#: src/addeditblog.cpp:205 src/addeditblog.cpp:270
+#: src/addeditblog.cpp:206 src/addeditblog.cpp:271
 msgid ""
 "Auto configuration failed. You have to set Blog API on Advanced tab manually."
 msgstr ""
 "Configurarea automată a eșuat. Trebuie să stabiliți manual API-ul blogului "
 "în fila Avansat."
 
-#: src/addeditblog.cpp:273
+#: src/addeditblog.cpp:274
 msgid ""
 "The program could not guess the API of your blog, but has found an XMLRPC "
 "interface and is trying to use it.\n"
@@ -56,15 +56,15 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, operationNameLabel)
-#: src/addeditblog.cpp:323 src/ui/waitwidgetbase.ui:19
+#: src/addeditblog.cpp:324 src/ui/waitwidgetbase.ui:19
 msgid "Please wait..."
 msgstr "Așteptați..."
 
-#: src/addeditblog.cpp:325
+#: src/addeditblog.cpp:326
 msgid "Fetching Blog Id..."
 msgstr "Se preia identificatorul blogului..."
 
-#: src/addeditblog.cpp:340
+#: src/addeditblog.cpp:341
 msgid ""
 "Fetching the blog id timed out. Check your Internet connection,and your "
 "homepage URL, username or password.\n"
@@ -73,17 +73,17 @@ msgid ""
 "Publishing in its configuration."
 msgstr ""
 
-#: src/addeditblog.cpp:353
+#: src/addeditblog.cpp:354
 msgid ""
 "The API guess function has failed, please check your Internet connection. "
 "Otherwise, you have to set the API type manually on the Advanced tab."
 msgstr ""
 
-#: src/addeditblog.cpp:355
+#: src/addeditblog.cpp:356
 msgid "Auto Configuration Failed"
 msgstr "Configurarea automată a eșuat"
 
-#: src/addeditblog.cpp:364
+#: src/addeditblog.cpp:365
 msgid ""
 "Fetching BlogID Failed.\n"
 "Please check your Internet connection."
@@ -92,41 +92,41 @@ msgstr ""
 "Verificați conexiunea la Internet."
 
 #. i18n: ectx: property (text), widget (QTreeWidget, localEntries)
-#: src/addeditblog.cpp:386 src/blogsettings.cpp:44 src/ui/toolboxbase.ui:546
+#: src/addeditblog.cpp:387 src/blogsettings.cpp:44 src/ui/toolboxbase.ui:546
 #, fuzzy
 #| msgctxt "noun, the post title"
 #| msgid "Title:"
 msgid "Title"
 msgstr "Titlu:"
 
-#: src/addeditblog.cpp:386
-msgid "Url"
+#: src/addeditblog.cpp:387 src/blogsettings.cpp:44
+msgid "URL"
 msgstr ""
 
-#: src/addeditblog.cpp:403
+#: src/addeditblog.cpp:404
 msgid "Which blog?"
 msgstr "Care blog?"
 
-#: src/addeditblog.cpp:425
+#: src/addeditblog.cpp:426
 msgid "Sorry, No blog found with the specified account info."
 msgstr "Nu a fost găsit niciun blog cu informațiile de cont specificate."
 
-#: src/addeditblog.cpp:488
+#: src/addeditblog.cpp:489
 msgctxt "Supported feature or Not"
 msgid "Yes"
 msgstr "Da"
 
-#: src/addeditblog.cpp:490
+#: src/addeditblog.cpp:491
 msgctxt "Supported feature or Not"
 msgid "No, API does not support it"
 msgstr "Nu, API-ul nu susține"
 
-#: src/addeditblog.cpp:491
+#: src/addeditblog.cpp:492
 msgctxt "Supported feature or Not"
 msgid "No, Blogilo does not yet support it"
 msgstr "Nu, Blogilo încă nu susține"
 
-#: src/addeditblog.cpp:570
+#: src/addeditblog.cpp:571
 msgid ""
 "Blog ID has not yet been retrieved.\n"
 "You can fetch the blog ID by clicking on \"Auto Configure\" or the \"Fetch ID"
@@ -151,65 +151,65 @@ msgid ""
 "objects."
 msgstr ""
 
-#: src/backend.cpp:208 src/backend.cpp:215
+#: src/backend.cpp:209 src/backend.cpp:216
 #, kde-format
 msgid ""
 "Uploading media failed: Cannot read the media file, please check if it "
 "exists. Path: %1"
 msgstr ""
 
-#: src/backend.cpp:229
+#: src/backend.cpp:230
 #, kde-format
 msgid ""
 "Uploading media failed: Media file checksum is zero, please check file path. "
 "Path: %1"
 msgstr ""
 
-#: src/backend.cpp:239
+#: src/backend.cpp:240
 msgid ""
 "INTERNAL ERROR: MWBlog is NULL: casting has not worked, this should NEVER "
 "happen."
 msgstr ""
 
-#: src/backend.cpp:252
+#: src/backend.cpp:253
 msgid "API type is not set correctly."
 msgstr "Tipul de API nu este indicat corect."
 
-#: src/backend.cpp:272
+#: src/backend.cpp:273
 #, kde-format
 msgid "Uploading media failed: %1"
 msgstr "Încărcarea materialului a eșuat: %1"
 
-#: src/backend.cpp:281
+#: src/backend.cpp:282
 #, kde-format
 msgid "Uploading media failed: Checksum error. Returned error: %1"
 msgstr ""
 
-#: src/backend.cpp:363
+#: src/backend.cpp:364
 msgid "Server (XMLRPC) error: "
 msgstr "Eroare pe server (XMLRPC): "
 
-#: src/backend.cpp:366
+#: src/backend.cpp:367
 msgid "Server (Atom) error: "
 msgstr "Eroare pe server (Atom): "
 
-#: src/backend.cpp:369
+#: src/backend.cpp:370
 msgid "Parsing error: "
 msgstr "Eroare de parcurgere: "
 
-#: src/backend.cpp:372
+#: src/backend.cpp:373
 msgid "Authentication error: "
 msgstr "Eroare de autentificare: "
 
-#: src/backend.cpp:375
+#: src/backend.cpp:376
 msgid "Not supported error: "
 msgstr ""
 
-#: src/backend.cpp:378
+#: src/backend.cpp:379
 msgid "Unknown error: "
 msgstr "Eroare necunoscută: "
 
-#: src/backend.cpp:387
+#: src/backend.cpp:388
 msgid "post is NULL"
 msgstr ""
 
@@ -251,43 +251,39 @@ msgstr "Configurări"
 msgid "Toolbar"
 msgstr "Bara de unelte"
 
-#: src/blogsettings.cpp:44
-msgid "URL"
-msgstr ""
-
 #: src/blogsettings.cpp:97
 msgid "Are you sure you want to remove the selected blog?"
 msgstr "Sigur doriți să eliminați blogul ales?"
 
-#: src/composer/bilbobrowser.cpp:67
+#: src/composer/bilbobrowser.cpp:66
 msgid "Get blog style"
 msgstr "Obține stilul blogului"
 
-#: src/composer/bilbobrowser.cpp:70
+#: src/composer/bilbobrowser.cpp:69
 msgid "View post in the blog style"
 msgstr "Vezi postarea în stilul blogului"
 
-#: src/composer/bilbobrowser.cpp:108
+#: src/composer/bilbobrowser.cpp:107
 msgid "loading page items..."
 msgstr "se încarcă elementele paginii..."
 
-#: src/composer/bilbobrowser.cpp:127
+#: src/composer/bilbobrowser.cpp:126
 msgid "Please select a blog, then try again."
 msgstr "Alegeți un blog, apoi reîncercați."
 
-#: src/composer/bilbobrowser.cpp:128
+#: src/composer/bilbobrowser.cpp:127
 msgid "Select a blog"
 msgstr "Alege un blog"
 
-#: src/composer/bilbobrowser.cpp:132
+#: src/composer/bilbobrowser.cpp:131
 msgid "Fetching blog style from the web..."
 msgstr "Se preia stilul blogului din Internet..."
 
-#: src/composer/bilbobrowser.cpp:146
+#: src/composer/bilbobrowser.cpp:145
 msgid "Blog style fetched."
 msgstr "Stilul blogului a fost preluat."
 
-#: src/composer/bilbobrowser.cpp:158 src/composer/stylegetter.cpp:246
+#: src/composer/bilbobrowser.cpp:157 src/composer/stylegetter.cpp:234
 #: src/toolbox.cpp:229
 msgid "An error occurred in the latest transaction."
 msgstr "A intervenit o eroare în ultima tranzacție."
@@ -313,15 +309,15 @@ msgstr "Arată numerele liniilor"
 msgid "Options"
 msgstr "Opțiuni"
 
-#: src/composer/stylegetter.cpp:55
+#: src/composer/stylegetter.cpp:56
 msgid "Cannot fetch the selected blog style."
 msgstr "Stilul de blog ales nu poate fi obținut."
 
-#: src/composer/stylegetter.cpp:172
+#: src/composer/stylegetter.cpp:160
 msgid "Cannot get html file."
 msgstr "Fișierul HTML ales nu poate fi obținut."
 
-#: src/composer/stylegetter.cpp:202 src/composer/stylegetter.cpp:207
+#: src/composer/stylegetter.cpp:190 src/composer/stylegetter.cpp:195
 #, kde-format
 msgid "Cannot write data to file %1"
 msgstr "Nu se pot scrie date în fișierul %1"
@@ -380,54 +376,54 @@ msgstr ""
 msgid "There is no local post with the requested ID "
 msgstr ""
 
-#: src/main.cpp:44 src/mainwindow.cpp:87 src/mainwindow.cpp:426
+#: src/main.cpp:45 src/mainwindow.cpp:87 src/mainwindow.cpp:426
 msgid "Blogilo"
 msgstr "Blogilo"
 
-#: src/main.cpp:44 src/mainwindow.cpp:426
+#: src/main.cpp:45 src/mainwindow.cpp:426
 msgid "A KDE Blogging Client"
 msgstr "Client de bloguri pentru KDE"
 
-#: src/main.cpp:45
+#: src/main.cpp:46
 #, fuzzy
 #| msgid "Copyright © 2008–2010 Blogilo authors"
 msgid "Copyright © 2008–2014 Blogilo authors"
 msgstr "Drept de autor © 2008–2010 Autorii Blogilo"
 
-#: src/main.cpp:47
+#: src/main.cpp:48
 msgid "Mehrdad Momeny"
 msgstr "Mehrdad Momeny"
 
-#: src/main.cpp:47 src/main.cpp:48 src/main.cpp:49
+#: src/main.cpp:48 src/main.cpp:49 src/main.cpp:50
 msgid "Core Developer"
 msgstr "Dezvoltator principal"
 
-#: src/main.cpp:48
+#: src/main.cpp:49
 msgid "Golnaz Nilieh"
 msgstr "Golnaz Nilieh"
 
-#: src/main.cpp:49
+#: src/main.cpp:50
 msgid "Laurent Montel"
 msgstr ""
 
-#: src/main.cpp:50
+#: src/main.cpp:51
 msgid "Roozbeh Shafiee"
 msgstr "Roozbeh Shafiee"
 
-#: src/main.cpp:50 src/main.cpp:51
+#: src/main.cpp:51 src/main.cpp:52
 msgid "Icon designer"
 msgstr ""
 
-#: src/main.cpp:51
+#: src/main.cpp:52
 msgid "Sajjad Baroodkoo"
 msgstr "Sajjad Baroodkoo"
 
-#: src/main.cpp:53
+#: src/main.cpp:54
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Sergiu Bivol"
 
-#: src/main.cpp:54
+#: src/main.cpp:55
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "sergiu@ase.md"

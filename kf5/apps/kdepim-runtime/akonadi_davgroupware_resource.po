@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-20 08:58+0000\n"
+"POT-Creation-Date: 2015-09-06 08:50+0000\n"
 "PO-Revision-Date: 2013-02-04 18:13+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -48,8 +48,8 @@ msgid ""
 "The server returned more information:\n"
 msgstr ""
 
-#: ../common/davcollectionsfetchjob.cpp:144 ../common/davitemfetchjob.cpp:84
-#: ../common/davitemsfetchjob.cpp:77 ../common/davitemslistjob.cpp:104
+#: ../common/davcollectionsfetchjob.cpp:145 ../common/davitemfetchjob.cpp:84
+#: ../common/davitemsfetchjob.cpp:77 ../common/davitemslistjob.cpp:117
 #: ../common/davprincipalhomesetsfetchjob.cpp:85
 #: ../common/davprincipalsearchjob.cpp:97
 #: ../common/davprincipalsearchjob.cpp:236
@@ -59,16 +59,16 @@ msgid ""
 "%1 (%2)."
 msgstr ""
 
-#: ../common/davcollectionsfetchjob.cpp:156
-#: ../common/davcollectionsfetchjob.cpp:189
+#: ../common/davcollectionsfetchjob.cpp:157
+#: ../common/davcollectionsfetchjob.cpp:190
 msgid "Invalid responses from backend"
 msgstr ""
 
-#: ../common/davcollectionsfetchjob.cpp:168
+#: ../common/davcollectionsfetchjob.cpp:169
 msgid "Error setting focus for XQuery"
 msgstr ""
 
-#: ../common/davcollectionsfetchjob.cpp:176
+#: ../common/davcollectionsfetchjob.cpp:177
 msgid "Invalid XQuery submitted by DAV implementation"
 msgstr ""
 
@@ -250,7 +250,7 @@ msgid "Limit CalDav retrieval time range"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
-#: configdialog.ui:255
+#: configdialog.ui:258
 msgid "Only sync events more recent than"
 msgstr ""
 
@@ -277,55 +277,55 @@ msgstr "Elementul adăugat „%1” nu a putut fi preluat."
 msgid "Fetching collections"
 msgstr "Se preiau colecțiile"
 
-#: davgroupwareresource.cpp:287
+#: davgroupwareresource.cpp:293
 #, kde-format
 msgid "Asked to retrieve items for an unknown collection: %1"
 msgstr ""
 
-#: davgroupwareresource.cpp:345
+#: davgroupwareresource.cpp:352
 #, kde-format
 msgid "Invalid collection for item %1."
 msgstr "Colecție nevalidă pentru elementul %1."
 
-#: davgroupwareresource.cpp:591
+#: davgroupwareresource.cpp:623
 #, kde-format
 msgid "Unable to remove collection: %1"
 msgstr "Colecția nu poate fi eliminată: %1"
 
-#: davgroupwareresource.cpp:611
+#: davgroupwareresource.cpp:643
 #, kde-format
 msgid "Unable to retrieve collections: %1"
 msgstr ""
 
-#: davgroupwareresource.cpp:732 davgroupwareresource.cpp:820
+#: davgroupwareresource.cpp:765 davgroupwareresource.cpp:857
 #, kde-format
 msgid "Unable to retrieve items: %1"
 msgstr ""
 
-#: davgroupwareresource.cpp:892
+#: davgroupwareresource.cpp:933
 #, kde-format
 msgid "Unable to retrieve item: %1"
 msgstr ""
 
-#: davgroupwareresource.cpp:939
+#: davgroupwareresource.cpp:982
 #, kde-format
 msgid "Unable to add item: %1"
 msgstr "Elementul nu poate fi adăugat: %1"
 
-#: davgroupwareresource.cpp:975 davgroupwareresource.cpp:1088
-#: davgroupwareresource.cpp:1100
+#: davgroupwareresource.cpp:1020 davgroupwareresource.cpp:1128
+#: davgroupwareresource.cpp:1140
 #, fuzzy, kde-format
 #| msgid "Unable to add item: %1"
 msgid "Unable to change item: %1"
 msgstr "Elementul nu poate fi adăugat: %1"
 
-#: davgroupwareresource.cpp:1056 davgroupwareresource.cpp:1119
+#: davgroupwareresource.cpp:1102 davgroupwareresource.cpp:1159
 #, fuzzy, kde-format
 #| msgid "Unable to add item: %1"
 msgid "Unable to remove item: %1"
 msgstr "Elementul nu poate fi adăugat: %1"
 
-#: davgroupwareresource.cpp:1204 davgroupwareresource.cpp:1205
+#: davgroupwareresource.cpp:1245 davgroupwareresource.cpp:1246
 msgid "The resource is not configured yet"
 msgstr "Resursa nu este configurată încă"
 
@@ -451,12 +451,12 @@ msgstr "o persoană cu numele"
 msgid "a contact with email"
 msgstr "un contact cu poșta"
 
-#: settings.cpp:624
+#: settings.cpp:627
 #, kde-format
 msgid "A password is required for user %1"
 msgstr "Este necesară o parolă pentru utilizatorul %1"
 
-#: settings.cpp:630
+#: settings.cpp:633
 msgid "Password: "
 msgstr "Parolă: "
 

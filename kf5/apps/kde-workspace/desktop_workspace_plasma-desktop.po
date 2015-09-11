@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-15 09:10+0000\n"
+"POT-Creation-Date: 2015-09-10 09:34+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -118,7 +118,7 @@ msgctxt "Name"
 msgid "Folder View"
 msgstr "Vizualizator de fonturi"
 
-#: containments/folder/metadata.desktop:36
+#: containments/folder/metadata.desktop:37
 msgctxt "Comment"
 msgid "Display the contents of folders"
 msgstr ""
@@ -146,22 +146,22 @@ msgctxt "Comment"
 msgid "Desktop view furniture"
 msgstr "Lupă de mărit pentru ecran"
 
-#: kcms/access/kaccess.desktop:3
+#: kaccess/kaccess.desktop:3
 msgctxt "Name"
 msgid "KDE Accessibility Tool"
 msgstr "Utilitar de accesibilitate pentru KDE"
 
-#: kcms/access/kaccess.notifyrc:3
+#: kaccess/kaccess.notifyrc:3
 msgctxt "Comment"
 msgid "Accessibility"
 msgstr "Accesibilitate"
 
-#: kcms/access/kaccess.notifyrc:95
+#: kaccess/kaccess.notifyrc:95
 msgctxt "Name"
 msgid "A modifier key has become active"
 msgstr "Un modificator de taste a devenit activ"
 
-#: kcms/access/kaccess.notifyrc:173
+#: kaccess/kaccess.notifyrc:173
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
@@ -169,12 +169,12 @@ msgstr ""
 "Un modificator de taste (cum ar fi Shift sau Ctrl) și-a schimbat starea și "
 "este acum activ"
 
-#: kcms/access/kaccess.notifyrc:252
+#: kaccess/kaccess.notifyrc:252
 msgctxt "Name"
 msgid "A modifier key has become inactive"
 msgstr "Un modificator de taste a devenit inactiv"
 
-#: kcms/access/kaccess.notifyrc:330
+#: kaccess/kaccess.notifyrc:330
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
@@ -182,12 +182,12 @@ msgstr ""
 "Un modificator de taste (cum ar fi Shift sau Ctrl) și-a schimbat starea și "
 "este acum inactiv"
 
-#: kcms/access/kaccess.notifyrc:409
+#: kaccess/kaccess.notifyrc:409
 msgctxt "Name"
 msgid "A modifier key has been locked"
 msgstr "Un modificator de taste a fost blocat"
 
-#: kcms/access/kaccess.notifyrc:487
+#: kaccess/kaccess.notifyrc:487
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
@@ -196,12 +196,12 @@ msgstr ""
 "Un modificator de taste (cum ar fi Shift sau Ctrl) a fost blocat și este "
 "acum activ pentru următoarele apăsări de taste"
 
-#: kcms/access/kaccess.notifyrc:566
+#: kaccess/kaccess.notifyrc:566
 msgctxt "Name"
 msgid "A lock key has been activated"
 msgstr "O tastă de blocare a fost activată"
 
-#: kcms/access/kaccess.notifyrc:645
+#: kaccess/kaccess.notifyrc:645
 msgctxt "Comment"
 msgid ""
 "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
@@ -210,12 +210,12 @@ msgstr ""
 "O tastă de blocare (cum ar fi Caps Lock sau Num Lock) și-a schimbat starea "
 "și este acum activă"
 
-#: kcms/access/kaccess.notifyrc:724
+#: kaccess/kaccess.notifyrc:724
 msgctxt "Name"
 msgid "A lock key has been deactivated"
 msgstr "O tastă de blocare a fost dezactivată"
 
-#: kcms/access/kaccess.notifyrc:803
+#: kaccess/kaccess.notifyrc:803
 msgctxt "Comment"
 msgid ""
 "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
@@ -224,42 +224,42 @@ msgstr ""
 "O tastă de blocare (cum ar fi Caps Lock sau Num Lock) și-a schimbat starea "
 "și este acum inactivă"
 
-#: kcms/access/kaccess.notifyrc:882
+#: kaccess/kaccess.notifyrc:882
 msgctxt "Name"
 msgid "Sticky keys has been enabled or disabled"
 msgstr "Taste lipicioase au fost activate sau dezactivate"
 
-#: kcms/access/kaccess.notifyrc:958
+#: kaccess/kaccess.notifyrc:958
 msgctxt "Comment"
 msgid "Sticky keys has been enabled or disabled"
 msgstr "Taste lipicioase au fost activate sau dezactivate"
 
-#: kcms/access/kaccess.notifyrc:1039
+#: kaccess/kaccess.notifyrc:1039
 msgctxt "Name"
 msgid "Slow keys has been enabled or disabled"
 msgstr "Taste lente (Slow keys) au fost activate sau dezactivate"
 
-#: kcms/access/kaccess.notifyrc:1114
+#: kaccess/kaccess.notifyrc:1114
 msgctxt "Comment"
 msgid "Slow keys has been enabled or disabled"
 msgstr "Taste lente (Slow keys) au fost activate sau dezactivate"
 
-#: kcms/access/kaccess.notifyrc:1194
+#: kaccess/kaccess.notifyrc:1194
 msgctxt "Name"
 msgid "Bounce keys has been enabled or disabled"
 msgstr "Taste săltărețe (Bounce keys) au fost activate sau dezactivate"
 
-#: kcms/access/kaccess.notifyrc:1270
+#: kaccess/kaccess.notifyrc:1270
 msgctxt "Comment"
 msgid "Bounce keys has been enabled or disabled"
 msgstr "Taste săltărețe (Bounce keys) au fost activate sau dezactivate"
 
-#: kcms/access/kaccess.notifyrc:1351
+#: kaccess/kaccess.notifyrc:1351
 msgctxt "Name"
 msgid "Mouse keys has been enabled or disabled"
 msgstr "Taste de maus au fost activate sau dezactivate"
 
-#: kcms/access/kaccess.notifyrc:1427
+#: kaccess/kaccess.notifyrc:1427
 msgctxt "Comment"
 msgid "Mouse keys has been enabled or disabled"
 msgstr "Taste de maus au fost activate sau dezactivate"
@@ -320,7 +320,7 @@ msgctxt "Name"
 msgid "File Search"
 msgstr "Calea fișierului"
 
-#: kcms/baloo/kcm_baloofile.desktop:50
+#: kcms/baloo/kcm_baloofile.desktop:51
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the spell checker"
@@ -328,7 +328,7 @@ msgctxt "Comment"
 msgid "Configure File Search"
 msgstr "Configurează verificatorul ortografic"
 
-#: kcms/baloo/kcm_baloofile.desktop:85
+#: kcms/baloo/kcm_baloofile.desktop:87
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo"
 msgstr ""
@@ -553,12 +553,12 @@ msgctxt "Name"
 msgid "Locations"
 msgstr "Gestiune notificări"
 
-#: kcms/desktoppaths/desktoppath.desktop:46
+#: kcms/desktoppaths/desktoppath.desktop:48
 msgctxt "Comment"
 msgid "Location for Personal Files"
 msgstr ""
 
-#: kcms/desktoppaths/desktoppath.desktop:77
+#: kcms/desktoppaths/desktoppath.desktop:81
 #, fuzzy
 #| msgctxt "X-KDE-Keywords"
 #| msgid "konqueror,filemanager,paths,desktop,directories,autostart"
@@ -749,6 +749,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Keyboard Daemon"
 msgstr "Demon de tastatură"
+
+#: kcms/keyboard/keyboard.desktop:76
+msgctxt "Comment"
+msgid "Enables switching keyboard layout through shortcuts or system tray"
+msgstr ""
 
 #: kcms/keys/keys.desktop:14
 msgctxt "Name"
@@ -1295,12 +1300,12 @@ msgctxt "Comment"
 msgid "Shows current touchpad state"
 msgstr ""
 
-#: kcms/touchpad/src/applet/qml/metadata.desktop:34
+#: kcms/touchpad/src/applet/qml/metadata.desktop:37
 msgctxt "Keywords"
 msgid "Touchpad"
 msgstr ""
 
-#: kcms/touchpad/src/applet/qml/metadata.desktop:64
+#: kcms/touchpad/src/applet/qml/metadata.desktop:70
 #: kcms/touchpad/src/kcm/kcm_touchpad.desktop:16
 #: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:2
 #: kcms/touchpad/src/kded/kded_touchpad.desktop:8
@@ -1308,7 +1313,7 @@ msgctxt "Name"
 msgid "Touchpad"
 msgstr ""
 
-#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:46
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:49
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Mouse settings"
@@ -1316,37 +1321,37 @@ msgctxt "Comment"
 msgid "Touchpad settings"
 msgstr "Configurări maus"
 
-#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:77
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:82
 msgctxt "X-KDE-Keywords"
 msgid "Touchpad,Synaptics"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:33
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:36
 msgctxt "Comment"
 msgid "Touchpad"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:65
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:71
 msgctxt "Name"
 msgid "Touchpad was disabled"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:94
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:104
 msgctxt "Comment"
 msgid "Touchpad was disabled because mouse is detected"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:128
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:141
 msgctxt "Name"
 msgid "Touchpad was enabled"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:157
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:174
 msgctxt "Comment"
 msgid "Touchpad was enabled because the mouse was unplugged"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kded_touchpad.desktop:38
+#: kcms/touchpad/src/kded/kded_touchpad.desktop:41
 msgctxt "Comment"
 msgid "Enables or disables touchpad"
 msgstr ""
@@ -1361,12 +1366,12 @@ msgctxt "Name"
 msgid "Password and User Account"
 msgstr ""
 
-#: kcms/useraccount/kcm_useraccount.desktop:46
+#: kcms/useraccount/kcm_useraccount.desktop:47
 msgctxt "X-KDE-Keywords"
 msgid "password,email,name,organization,realname,login image,face,echo mode"
 msgstr ""
 
-#: kcms/useraccount/kcm_useraccount.desktop:76
+#: kcms/useraccount/kcm_useraccount.desktop:78
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr ""
@@ -1415,6 +1420,34 @@ msgstr "Învelișul de birou Plasma"
 msgctxt "Comment"
 msgid "Interact with the Plasma desktop shell"
 msgstr "Interacționați cu învelișul de birou Plasma"
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:9
+msgctxt "X-KDE-Keywords"
+msgid "Mount,Removable,Devices,Automatic"
+msgstr ""
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:34
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Removable"
+msgctxt "Name"
+msgid "Removable Devices"
+msgstr "Amovibil"
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:58
+msgctxt "Comment"
+msgid "Configure automatic handling of removable storage media"
+msgstr ""
+
+#: solid-device-automounter/kded/device_automounter.desktop:9
+msgctxt "Name"
+msgid "Removable Device Automounter"
+msgstr ""
+
+#: solid-device-automounter/kded/device_automounter.desktop:33
+msgctxt "Comment"
+msgid "Automatically mounts devices as needed"
+msgstr ""
 
 #: toolboxes/desktoptoolbox/metadata.desktop:2
 #, fuzzy

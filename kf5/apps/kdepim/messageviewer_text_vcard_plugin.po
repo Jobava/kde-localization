@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmail_text_vcard_plugin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-22 08:26+0000\n"
+"POT-Creation-Date: 2015-08-24 08:16+0000\n"
 "PO-Revision-Date: 2008-12-15 13:30+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 "X-Generator: Lokalize 0.2\n"
 
-#: text_vcard.cpp:111
+#: text_vcard.cpp:112
 #, fuzzy
 #| msgid "Attached business cards"
 msgid "Attached business card"
@@ -29,65 +29,65 @@ msgstr[0] "Cărți de afaceri atașate"
 msgstr[1] "Cărți de afaceri atașate"
 msgstr[2] "Cărți de afaceri atașate"
 
-#: text_vcard.cpp:153
+#: text_vcard.cpp:154
 #, fuzzy
 #| msgid "[Add this contact to the addressbook]"
 msgid "[Add this contact to the address book]"
 msgstr "[Adaugă acest contact la cartea de adrese]"
 
-#: text_vcard.cpp:162
+#: text_vcard.cpp:163
 #, fuzzy
 #| msgid "[Add this contact to the addressbook]"
 msgid "[Update this contact to the address book]"
 msgstr "[Adaugă acest contact la cartea de adrese]"
 
-#: text_vcard.cpp:170
+#: text_vcard.cpp:171
 #, fuzzy
 #| msgid "[Add this contact to the addressbook]"
 msgid "[This contact is already in addressbook]"
 msgstr "[Adaugă acest contact la cartea de adrese]"
 
-#: text_vcard.cpp:245
+#: text_vcard.cpp:246
 #, fuzzy
 #| msgid "Attached business cards"
 msgid "View Business Card"
 msgstr "Cărți de afaceri atașate"
 
-#: text_vcard.cpp:247
+#: text_vcard.cpp:248
 #, fuzzy
 #| msgid "Attached business cards"
 msgid "Save Business Card As..."
 msgstr "Cărți de afaceri atașate"
 
-#: text_vcard.cpp:264
+#: text_vcard.cpp:265
 msgid "Add this contact to the address book."
 msgstr "Adaugă acest contact la cartea de adrese."
 
-#: text_vcard.cpp:264
+#: text_vcard.cpp:265
 #, fuzzy
 #| msgid "[Add this contact to the addressbook]"
 msgid "Update this contact to the address book."
 msgstr "[Adaugă acest contact la cartea de adrese]"
 
-#: text_vcard.cpp:266
+#: text_vcard.cpp:267
 #, fuzzy, kde-format
 #| msgid "Add this contact to the address book."
 msgid "Add \"%1\" to the address book."
 msgstr "Adaugă acest contact la cartea de adrese."
 
-#: text_vcard.cpp:266
+#: text_vcard.cpp:267
 #, fuzzy, kde-format
 #| msgid "Add this contact to the address book."
 msgid "Update \"%1\" to the address book."
 msgstr "Adaugă acest contact la cartea de adrese."
 
-#: text_vcard.cpp:291
+#: text_vcard.cpp:292
 #, fuzzy
 #| msgid "Attached business cards"
 msgid "Save Business Card"
 msgstr "Cărți de afaceri atașate"
 
-#: text_vcard.cpp:296
+#: text_vcard.cpp:297
 #, kde-format
 msgid "%1 already exists. Do you want to overwrite it?"
 msgstr ""

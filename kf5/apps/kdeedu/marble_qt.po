@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: marble\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-10 08:30+0000\n"
+"POT-Creation-Date: 2015-09-09 08:14+0000\n"
 "PO-Revision-Date: 2012-12-22 11:56+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -977,10 +977,11 @@ msgid "Please specify a URL for this link."
 msgstr ""
 
 #: src/lib/marble/AddLinkDialog.cpp:75
-#: src/lib/marble/EditPlacemarkDialog.cpp:326
+#: src/lib/marble/EditPlacemarkDialog.cpp:375
+#: src/lib/marble/osm/OsmRelationEditorDialog.cpp:85
 #: src/plugins/render/annotate/EditGroundOverlayDialog.cpp:118
-#: src/plugins/render/annotate/EditPolygonDialog.cpp:250
-#: src/plugins/render/annotate/EditPolylineDialog.cpp:240
+#: src/plugins/render/annotate/EditPolygonDialog.cpp:297
+#: src/plugins/render/annotate/EditPolylineDialog.cpp:288
 msgid "No name specified"
 msgstr ""
 
@@ -1343,6 +1344,21 @@ msgstr ""
 msgid "Converting data ..."
 msgstr ""
 
+#: src/lib/marble/declarative/MarbleQuickItem.cpp:142
+#: src/lib/marble/MarbleControlBox.cpp:198
+#: src/lib/marble/routing/RoutingInputWidget.cpp:320
+#: src/lib/marble/routing/RoutingManager.cpp:555
+#: src/lib/marble/routing/RoutingManager.cpp:558
+msgid "Current Location"
+msgstr "Poziția curentă pe hartă"
+
+#: src/lib/marble/declarative/Placemark.cpp:78
+#, qt-format
+msgctxt ""
+"House number (first argument) and street name (second argument) in an adress"
+msgid "%1 %2"
+msgstr ""
+
 #: src/lib/marble/DownloadRegionDialog.cpp:117
 msgid "Visible region"
 msgstr ""
@@ -1395,53 +1411,67 @@ msgstr ""
 msgid "Estimated download size: %1 kB"
 msgstr ""
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:105
+#: src/lib/marble/EditPlacemarkDialog.cpp:128
 #, fuzzy
 #| msgid "Search line"
 msgid "Untitled Placemark"
 msgstr "Linie de căutare"
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:145
+#: src/lib/marble/EditPlacemarkDialog.cpp:170
+#: src/plugins/render/annotate/EditPolygonDialog.cpp:98
+#: src/plugins/render/annotate/EditPolylineDialog.cpp:97
+msgid "Tags"
+msgstr ""
+
+#: src/lib/marble/EditPlacemarkDialog.cpp:176
+#: src/plugins/render/annotate/EditPolygonDialog.cpp:104
+#: src/plugins/render/annotate/EditPolylineDialog.cpp:103
+#, fuzzy
+#| msgid "Elevation:"
+msgid "Relations"
+msgstr "Înălțime:"
+
+#: src/lib/marble/EditPlacemarkDialog.cpp:185
 #: src/plugins/render/annotate/NodeModel.cpp:92
 #, fuzzy
 #| msgid "Elevation:"
 msgid "Elevation"
 msgstr "Înălțime:"
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:327
+#: src/lib/marble/EditPlacemarkDialog.cpp:376
 msgid "Please specify a name for this placemark."
 msgstr ""
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:330
+#: src/lib/marble/EditPlacemarkDialog.cpp:379
 msgid "No ID specified"
 msgstr ""
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:331
+#: src/lib/marble/EditPlacemarkDialog.cpp:380
 msgid "Please specify a ID for this placemark."
 msgstr ""
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:334
+#: src/lib/marble/EditPlacemarkDialog.cpp:383
 msgid "ID is invalid"
 msgstr ""
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:335
+#: src/lib/marble/EditPlacemarkDialog.cpp:384
 msgid "Please specify a valid ID for this placemark."
 msgstr ""
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:338
+#: src/lib/marble/EditPlacemarkDialog.cpp:387
 #: src/plugins/render/annotate/EditGroundOverlayDialog.cpp:122
 msgid "No image specified"
 msgstr ""
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:339
-msgid "Please specify an icon for this placemark."
+#: src/lib/marble/EditPlacemarkDialog.cpp:388
+msgid "Please specify an icon for this placemark or add a valid tag."
 msgstr ""
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:342
+#: src/lib/marble/EditPlacemarkDialog.cpp:391
 msgid "Invalid icon path"
 msgstr ""
 
-#: src/lib/marble/EditPlacemarkDialog.cpp:343
+#: src/lib/marble/EditPlacemarkDialog.cpp:392
 msgid "Please specify a valid path for the icon file."
 msgstr ""
 
@@ -1624,6 +1654,7 @@ msgstr "Acest fișier nu este unul DGML 2.0 valid"
 
 #: src/lib/marble/GeoDataTreeModel.cpp:214
 #: src/lib/marble/MapThemeManager.cpp:407
+#: src/lib/marble/osm/OsmRelationEditorDialog.cpp:39
 #: src/plugins/runner/monav/MonavMapsModel.cpp:46
 msgid "Name"
 msgstr "Nume"
@@ -1697,10 +1728,12 @@ msgstr ""
 
 #: src/lib/marble/MapThemeDownloadDialog.cpp:247
 #: src/lib/marble/MapThemeDownloadDialog.cpp:286
+#: src/lib/marble/osm/OsmRelationManagerWidget.cpp:131
+#: src/lib/marble/osm/OsmRelationManagerWidget.cpp:139
 #: src/plugins/render/annotate/AnnotatePlugin.cpp:1046
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1160
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1294
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1535
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1165
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1299
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1544
 #, fuzzy
 #| msgid "Flat Map"
 msgid "Remove"
@@ -2626,14 +2659,7 @@ msgstr "Navigare"
 msgid "File View"
 msgstr "Vizualizează fișiere"
 
-#: src/lib/marble/MarbleControlBox.cpp:198
-#: src/lib/marble/routing/RoutingInputWidget.cpp:320
-#: src/lib/marble/routing/RoutingManager.cpp:555
-#: src/lib/marble/routing/RoutingManager.cpp:558
-msgid "Current Location"
-msgstr "Poziția curentă pe hartă"
-
-#: src/lib/marble/MarbleGlobal.h:268
+#: src/lib/marble/MarbleGlobal.h:269
 msgid "not available"
 msgstr ""
 
@@ -2718,8 +2744,8 @@ msgstr ""
 
 #: src/lib/marble/MarbleWebView.cpp:23
 #: src/plugins/render/annotate/AnnotatePlugin.cpp:1042
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1290
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1531
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1295
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1540
 #, fuzzy
 #| msgid "&Copy Map"
 msgid "Copy"
@@ -2881,6 +2907,43 @@ msgstr ""
 
 #: src/lib/marble/NewstuffModel.cpp:718 src/lib/marble/NewstuffModel.cpp:727
 msgid "Installation aborted by user."
+msgstr ""
+
+#: src/lib/marble/osm/OsmRelationEditorDialog.cpp:86
+#, fuzzy
+#| msgid "Alternative name of the location."
+msgid "Please specify a name for this relation."
+msgstr "Nume alternativ al poziției pe hartă."
+
+#: src/lib/marble/osm/OsmRelationEditorDialog.cpp:90
+msgid "No type tag specified"
+msgstr ""
+
+#: src/lib/marble/osm/OsmRelationEditorDialog.cpp:91
+msgid "Please add a type tag for this relation."
+msgstr ""
+
+#: src/lib/marble/osm/OsmRelationManagerWidget.cpp:57
+#: src/lib/marble/osm/OsmRelationManagerWidget_p.cpp:111
+#, fuzzy
+#| msgid "Nation"
+msgid "New Relation"
+msgstr "Națiune"
+
+#: src/lib/marble/osm/OsmRelationManagerWidget.cpp:132
+#: src/lib/marble/osm/OsmRelationManagerWidget.cpp:143
+#, fuzzy
+#| msgid "&Edit"
+msgid "Edit"
+msgstr "&Editare"
+
+#: src/lib/marble/osm/OsmTagEditorWidget.cpp:86
+#: src/lib/marble/osm/OsmTagEditorWidget_p.cpp:128
+msgid "value"
+msgstr ""
+
+#: src/lib/marble/osm/OsmTagEditorWidget_p.cpp:30
+msgid "Add custom tag..."
 msgstr ""
 
 #: src/lib/marble/PlacemarkEditHeader.cpp:222
@@ -3983,8 +4046,8 @@ msgstr ""
 #: src/plugins/render/annotate/AnnotatePlugin.cpp:767
 #: src/plugins/render/annotate/AnnotatePlugin.cpp:772
 #: src/plugins/render/annotate/AnnotatePlugin.cpp:777
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1424
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1508
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1431
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1517
 msgid "Operation not permitted"
 msgstr ""
 
@@ -4056,57 +4119,57 @@ msgid "Paste"
 msgstr ""
 
 #: src/plugins/render/annotate/AnnotatePlugin.cpp:1038
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1286
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1527
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1291
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1536
 #, fuzzy
 #| msgid "Country"
 msgid "Cut"
 msgstr "Țara"
 
 #: src/plugins/render/annotate/AnnotatePlugin.cpp:1052
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1154
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1300
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1541
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1159
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1305
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1550
 msgid "Properties"
 msgstr ""
 
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1179
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1184
 #, fuzzy
 #| msgid "&Remove Measure Points"
 msgid "Untitled Ground Overlay"
 msgstr "&Șterge punctele de măsură"
 
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1276
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1517
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1281
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1526
 msgid "Deselect All Nodes"
 msgstr ""
 
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1280
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1521
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1285
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1530
 #, fuzzy
 #| msgid "Flat Map"
 msgid "Delete All Selected Nodes"
 msgstr "Hartă plană"
 
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1425
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1509
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1432
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1518
 msgid ""
 "Cannot delete one of the selected nodes. Most probably this would make the "
 "polygon's outer boundary not contain all its inner boundary nodes."
 msgstr ""
 
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1451
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1472
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1460
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1481
 #, fuzzy
 #| msgid "Show elevation model"
 msgid "Select Node"
 msgstr "Afișează modelul de elevație"
 
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1455
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1464
 msgid "Delete Node"
 msgstr ""
 
-#: src/plugins/render/annotate/AnnotatePlugin.cpp:1472
+#: src/plugins/render/annotate/AnnotatePlugin.cpp:1481
 msgid "Deselect Node"
 msgstr ""
 
@@ -4126,36 +4189,36 @@ msgstr ""
 msgid "Please specify a valid path for the image file."
 msgstr ""
 
-#: src/plugins/render/annotate/EditPolygonDialog.cpp:84
+#: src/plugins/render/annotate/EditPolygonDialog.cpp:122
 #, fuzzy
 #| msgid "Flat Map"
 msgid "Untitled Polygon"
 msgstr "Hartă plană"
 
-#: src/plugins/render/annotate/EditPolygonDialog.cpp:251
+#: src/plugins/render/annotate/EditPolygonDialog.cpp:298
 msgid "Please specify a name for this polygon."
 msgstr ""
 
-#: src/plugins/render/annotate/EditPolygonDialog.cpp:258
-#: src/plugins/render/annotate/EditPolylineDialog.cpp:248
+#: src/plugins/render/annotate/EditPolygonDialog.cpp:305
+#: src/plugins/render/annotate/EditPolylineDialog.cpp:296
 msgid "Not enough nodes specified."
 msgstr ""
 
-#: src/plugins/render/annotate/EditPolygonDialog.cpp:259
+#: src/plugins/render/annotate/EditPolygonDialog.cpp:306
 msgid "Please specify at least 3 nodes for the polygon by clicking on the map."
 msgstr ""
 
-#: src/plugins/render/annotate/EditPolylineDialog.cpp:82
+#: src/plugins/render/annotate/EditPolylineDialog.cpp:117
 #, fuzzy
 #| msgid "Search line"
 msgid "Untitled Path"
 msgstr "Linie de căutare"
 
-#: src/plugins/render/annotate/EditPolylineDialog.cpp:241
+#: src/plugins/render/annotate/EditPolylineDialog.cpp:289
 msgid "Please specify a name for this polyline."
 msgstr ""
 
-#: src/plugins/render/annotate/EditPolylineDialog.cpp:249
+#: src/plugins/render/annotate/EditPolylineDialog.cpp:297
 msgid "Please specify at least 2 nodes for the path by clicking on the map."
 msgstr ""
 
@@ -6855,9 +6918,6 @@ msgstr ""
 #~ msgid "Ocean"
 #~ msgstr "Ocean"
 
-#~ msgid "Nation"
-#~ msgstr "Națiune"
-
 #~ msgid "Continent"
 #~ msgstr "Continent"
 
@@ -7816,9 +7876,6 @@ msgstr ""
 
 #~ msgid "Alternative name"
 #~ msgstr "Nume alternativ"
-
-#~ msgid "Alternative name of the location."
-#~ msgstr "Nume alternativ al poziției pe hartă."
 
 #~ msgid "Alternative Name"
 #~ msgstr "Nume alternativ"

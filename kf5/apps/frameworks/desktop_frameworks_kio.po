@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-10 08:57+0000\n"
+"POT-Creation-Date: 2015-09-09 08:45+0000\n"
 "PO-Revision-Date: 2013-11-23 19:27+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -30,22 +30,6 @@ msgstr ""
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr ""
-
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Cookies"
-msgctxt "Name"
-msgid "Cookie Jar"
-msgstr "Cookie-uri"
-
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:47
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Stores website icons"
-msgctxt "Comment"
-msgid "Stores network cookies"
-msgstr "Stochează pictogramele siturilor"
 
 #: src/ioslaves/mailto/kmailservice5.desktop:11
 #, fuzzy
@@ -458,22 +442,6 @@ msgid ""
 "Shortcuts"
 msgstr ""
 
-#: src/kpac/proxyscout.desktop:3
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Nepomuk Server Configuration"
-msgctxt "Name"
-msgid "Network Proxy Configuration"
-msgstr "Configurare server Nepomuk"
-
-#: src/kpac/proxyscout.desktop:46
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Fetchmail Configuration"
-msgctxt "Comment"
-msgid "Automatic proxy configuration"
-msgstr "Configurează programul Fetchmail"
-
 #: src/kpac/proxyscout.notifyrc:3
 #, fuzzy
 #| msgctxt "Comment"
@@ -514,29 +482,6 @@ msgstr ""
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "A avut loc o eroare gravă ce a determinat ieșirea programului"
-
-#: src/kpasswdserver/kpasswdserver.desktop:3
-msgctxt "Name"
-msgid "Password Caching"
-msgstr "Stocare parole"
-
-#: src/kpasswdserver/kpasswdserver.desktop:69
-msgctxt "Comment"
-msgid "Temporary password caching"
-msgstr "Stocarea temporară a parolelor"
-
-#: src/kssld/kssld.desktop:6
-msgctxt "Name"
-msgid "SSL Certificate Policy"
-msgstr ""
-
-#: src/kssld/kssld.desktop:48
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Provides sound system policy to applications"
-msgctxt "Comment"
-msgid "Provides SSL certificate policy to applications"
-msgstr "Oferă applicațiilor politica sistemului de sunet"
 
 #: src/urifilters/fixhost/fixhosturifilter.desktop:3
 msgctxt "Name"
@@ -2005,6 +1950,49 @@ msgstr ""
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Navigare cu file"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Cookies"
+#~ msgctxt "Name"
+#~ msgid "Cookie Jar"
+#~ msgstr "Cookie-uri"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Stores website icons"
+#~ msgctxt "Comment"
+#~ msgid "Stores network cookies"
+#~ msgstr "Stochează pictogramele siturilor"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Nepomuk Server Configuration"
+#~ msgctxt "Name"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "Configurare server Nepomuk"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Fetchmail Configuration"
+#~ msgctxt "Comment"
+#~ msgid "Automatic proxy configuration"
+#~ msgstr "Configurează programul Fetchmail"
+
+#~ msgctxt "Name"
+#~ msgid "Password Caching"
+#~ msgstr "Stocare parole"
+
+#~ msgctxt "Comment"
+#~ msgid "Temporary password caching"
+#~ msgstr "Stocarea temporară a parolelor"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Provides sound system policy to applications"
+#~ msgctxt "Comment"
+#~ msgid "Provides SSL certificate policy to applications"
+#~ msgstr "Oferă applicațiilor politica sistemului de sunet"
 
 #~ msgctxt "Name"
 #~ msgid "Social Desktop"

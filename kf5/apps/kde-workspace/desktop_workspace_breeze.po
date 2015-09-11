@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-10 08:57+0000\n"
+"POT-Creation-Date: 2015-09-09 08:46+0000\n"
 "PO-Revision-Date: 2015-04-20 14:41+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -34,22 +34,23 @@ msgctxt "Name"
 msgid "Breeze Snow"
 msgstr "Briză Zăpadă"
 
-#: icons-dark/index.theme:2
+#: icons-dark/index.theme:2 lookandfeel.dark/metadata.desktop:26
 msgctxt "Name"
 msgid "Breeze Dark"
 msgstr "Briză Întunecat"
 
 #: icons-dark/index.theme:40
 msgctxt "Comment"
-msgid "Breeze icon theme for dark color schemes by the KDE Visual Design Group"
+msgid "KDE Plasma 5 Icon Theme for Dark themes"
 msgstr ""
-"Temă de pictograme Briză pentru scheme de culori întunecate, de „KDE Visual "
-"Design Group”"
 
 #: icons/index.theme:43
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDE Plasma Cursor Theme"
 msgctxt "Comment"
-msgid "Default Plasma 5 Theme"
-msgstr "Tema implicită pentru Plasma 5"
+msgid "KDE Plasma 5 Icon Theme"
+msgstr "Temă de cursori pentru KDE Plasma"
 
 #: kdecoration/config/breezedecorationconfig.desktop:12
 msgctxt "Name"
@@ -86,7 +87,23 @@ msgctxt "X-KDE-Keywords"
 msgid "breeze,widget,style"
 msgstr "briză,breeze,widget,stil"
 
+#: lookandfeel.dark/metadata.desktop:2
+msgctxt "Comment"
+msgid "Breeze Dark Desktop Design Language by the KDE VDG"
+msgstr ""
+
 #: wallpapers/Next/metadata.desktop:2
 msgctxt "Name"
 msgid "Next"
 msgstr "Următor"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Breeze icon theme for dark color schemes by the KDE Visual Design Group"
+#~ msgstr ""
+#~ "Temă de pictograme Briză pentru scheme de culori întunecate, de „KDE "
+#~ "Visual Design Group”"
+
+#~ msgctxt "Comment"
+#~ msgid "Default Plasma 5 Theme"
+#~ msgstr "Tema implicită pentru Plasma 5"

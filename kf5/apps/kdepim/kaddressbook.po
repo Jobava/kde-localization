@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kaddressbook\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-20 08:56+0000\n"
+"POT-Creation-Date: 2015-09-09 08:18+0000\n"
 "PO-Revision-Date: 2013-10-13 13:07+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -287,7 +287,7 @@ msgid "Gravatarupdatedialog_Gui"
 msgstr ""
 
 #: gravatar/tests/gravatarupdatedialog_gui.cpp:30
-msgid "Test for gravatar update dialog"
+msgid "Test for Gravatar update dialog"
 msgstr ""
 
 #: gravatar/tests/gravatarupdatedialog_gui.cpp:36
@@ -297,7 +297,7 @@ msgid "Email address"
 msgstr "Adresa Email:"
 
 #: gravatar/widgets/gravatarupdatedialog.cpp:35
-msgid "Check and update gravatar"
+msgid "Check and update Gravatar"
 msgstr ""
 
 #: gravatar/widgets/gravatarupdatedialog.cpp:42
@@ -308,8 +308,11 @@ msgid "Save Image"
 msgstr "Salvează tipul..."
 
 #: gravatar/widgets/gravatarupdatedialog.cpp:47
-msgid "Save Image Url"
-msgstr ""
+#, fuzzy
+#| msgctxt "@action:button"
+#| msgid "Save Template..."
+msgid "Save Image URL"
+msgstr "Salvează tipul..."
 
 #: gravatar/widgets/gravatarupdatewidget.cpp:39
 msgid "Email:"
@@ -337,11 +340,11 @@ msgstr ""
 msgid "Search"
 msgstr "&Căutare"
 
-#: gravatar/widgets/gravatarupdatewidget.cpp:135
+#: gravatar/widgets/gravatarupdatewidget.cpp:136
 msgid "Search is impossible."
 msgstr ""
 
-#: gravatar/widgets/gravatarupdatewidget.cpp:153
+#: gravatar/widgets/gravatarupdatewidget.cpp:154
 msgid "No Gravatar Found."
 msgstr ""
 
@@ -455,7 +458,7 @@ msgctxt "@info:whatsthis"
 msgid "Choose this option to synchronize your groupware contacts."
 msgstr ""
 
-#: mainwidget.cpp:382
+#: mainwidget.cpp:381
 #, fuzzy, kde-format
 #| msgctxt "Search contacts in list"
 #| msgid "Search"
@@ -463,209 +466,215 @@ msgctxt "@label Search contacts in list"
 msgid "Search...<%1>"
 msgstr "Cautare"
 
-#: mainwidget.cpp:582
+#: mainwidget.cpp:581
 msgid "&Themes"
 msgstr ""
 
-#: mainwidget.cpp:593
+#: mainwidget.cpp:592
 #, fuzzy
 #| msgid "Print the complete address book or a selected number of contacts."
 msgctxt "@info:whatsthis"
 msgid "Print the complete address book or a selected number of contacts."
 msgstr "Tipăreşte cartea de adrese complet sau un număr selectat de contacte."
 
-#: mainwidget.cpp:600
+#: mainwidget.cpp:599
 msgid "Quick search"
 msgstr "Căutare rapidă"
 
-#: mainwidget.cpp:605
+#: mainwidget.cpp:604
 #, fuzzy
 msgid "Category filter"
 msgstr "Categorii"
 
-#: mainwidget.cpp:610
+#: mainwidget.cpp:609
 msgid "Select All"
 msgstr "Selectează tot"
 
-#: mainwidget.cpp:612
+#: mainwidget.cpp:611
 msgid "Select all contacts in the current address book view."
 msgstr "Selectează toate persoanele de contact din vizualizarea curentă."
 
-#: mainwidget.cpp:618
+#: mainwidget.cpp:617
 msgid "Show QR Codes"
 msgstr "Afişare Coduri QR"
 
-#: mainwidget.cpp:619
+#: mainwidget.cpp:618
 msgid "Show QR Codes in the contact."
 msgstr "Afişare Coduri QR în contact."
 
-#: mainwidget.cpp:625
+#: mainwidget.cpp:624
 msgctxt "@action:inmenu"
 msgid "Simple (one column)"
 msgstr ""
 
-#: mainwidget.cpp:629
+#: mainwidget.cpp:628
 msgid "Show a simple mode of the address book view."
 msgstr "Arată un mod simplu de vedere a agendei."
 
-#: mainwidget.cpp:632
+#: mainwidget.cpp:631
 msgctxt "@action:inmenu"
 msgid "Two Columns"
 msgstr ""
 
-#: mainwidget.cpp:638
+#: mainwidget.cpp:637
 msgctxt "@action:inmenu"
 msgid "Three Columns"
 msgstr ""
 
-#: mainwidget.cpp:648
+#: mainwidget.cpp:647
 msgid "Import vCard..."
 msgstr "&Importă  lista..."
 
-#: mainwidget.cpp:649
+#: mainwidget.cpp:648
 msgid "Import contacts from a vCard file."
 msgstr "Importa contacte din o lista"
 
-#: mainwidget.cpp:653
+#: mainwidget.cpp:652
 msgid "Import CSV file..."
 msgstr "&Importă fișier CSV..."
 
-#: mainwidget.cpp:654
+#: mainwidget.cpp:653
 msgid "Import contacts from a file in comma separated value format."
 msgstr ""
 "Date de contact importate dintr-un fişier în format separat prin virgula."
 
-#: mainwidget.cpp:658
+#: mainwidget.cpp:657
 msgid "Import LDIF file..."
 msgstr "Importă fișier &LDIF"
 
-#: mainwidget.cpp:659
+#: mainwidget.cpp:658
 msgid "Import contacts from an LDIF file."
 msgstr "Importă contacte dintr-un fișier LDIF"
 
-#: mainwidget.cpp:663
+#: mainwidget.cpp:662
 #, fuzzy
 #| msgid "Import from LDAP server..."
 msgid "Import From LDAP server..."
 msgstr "Importa-ți de pe serverul LDAP ..."
 
-#: mainwidget.cpp:664
+#: mainwidget.cpp:663
 msgid "Import contacts from an LDAP server."
 msgstr "Importa contacte dintr-un fisier LDAP"
 
-#: mainwidget.cpp:668
+#: mainwidget.cpp:667
 msgid "Import GMX file..."
 msgstr "&Importă fisier GMX..."
 
-#: mainwidget.cpp:669
+#: mainwidget.cpp:668
 msgid "Import contacts from a GMX address book file."
 msgstr "Date de contact importate dintr-un fişier GMX."
 
-#: mainwidget.cpp:674
+#: mainwidget.cpp:673
 #, fuzzy
 #| msgid "Export vCard 3.0..."
 msgid "Export vCard 4.0..."
 msgstr "&Exporteaza lista 3.0..."
 
-#: mainwidget.cpp:675
+#: mainwidget.cpp:674
 #, fuzzy
 #| msgid "Export contacts to a vCard 3.0 file."
 msgid "Export contacts to a vCard 4.0 file."
 msgstr "&Exportă contacte la o lista 3.0..."
 
-#: mainwidget.cpp:679
+#: mainwidget.cpp:678
 msgid "Export vCard 3.0..."
 msgstr "&Exporteaza lista 3.0..."
 
-#: mainwidget.cpp:680
+#: mainwidget.cpp:679
 msgid "Export contacts to a vCard 3.0 file."
 msgstr "&Exportă contacte la o lista 3.0..."
 
-#: mainwidget.cpp:684
+#: mainwidget.cpp:683
 msgid "Export vCard 2.1..."
 msgstr "&Exporta lista 2.1..."
 
-#: mainwidget.cpp:685
+#: mainwidget.cpp:684
 msgid "Export contacts to a vCard 2.1 file."
 msgstr "&Exportă contacte intr-o lista 2.1..."
 
-#: mainwidget.cpp:689
+#: mainwidget.cpp:688
 msgid "Export CSV file..."
 msgstr "&Exportă fișier CSV..."
 
-#: mainwidget.cpp:690
+#: mainwidget.cpp:689
 msgid "Export contacts to a file in comma separated value format."
 msgstr ""
 "Export date de contact într-un fişier în formate separate prin virgulă."
 
-#: mainwidget.cpp:694
+#: mainwidget.cpp:693
 msgid "Export LDIF file..."
 msgstr "Exportă fișier &LDIF"
 
-#: mainwidget.cpp:695
+#: mainwidget.cpp:694
 msgid "Export contacts to an LDIF file."
 msgstr "Exportă contacte la un fișier &LDIF"
 
-#: mainwidget.cpp:699
+#: mainwidget.cpp:698
 msgid "Export GMX file..."
 msgstr "Exportă &fișier GMX"
 
-#: mainwidget.cpp:700
+#: mainwidget.cpp:699
 msgid "Export contacts to a GMX address book file."
 msgstr "Exportă date de contact într-un fişier GMX."
 
-#: mainwidget.cpp:709
+#: mainwidget.cpp:708
 #, fuzzy
 msgid "Merge Contacts..."
 msgstr "Toate cîmpurile de contact"
 
-#: mainwidget.cpp:713
+#: mainwidget.cpp:712
 #, fuzzy
 #| msgid "Select Contacts"
 msgid "Search Duplicate Contacts..."
 msgstr "Selectează &contact"
 
-#: mainwidget.cpp:716
+#: mainwidget.cpp:715
 msgid "Set Focus to Quick Search"
 msgstr ""
 
-#: mainwidget.cpp:723
+#: mainwidget.cpp:722
 #, fuzzy
 msgid "Send an email..."
 msgstr "Contact &nou"
 
-#: mainwidget.cpp:728
+#: mainwidget.cpp:727
 #, fuzzy
 #| msgid "Import vCard..."
 msgid "Send vCards..."
 msgstr "&Importă  lista..."
 
-#: mainwidget.cpp:739
+#: mainwidget.cpp:738
 msgid "Serverside Subscription..."
 msgstr ""
 
-#: mainwidget.cpp:744
-msgid "Check gravatar..."
+#: mainwidget.cpp:743
+msgid "Check Gravatar..."
 msgstr ""
 
-#: mainwidget.cpp:751 mainwidget.cpp:772
+#: mainwidget.cpp:750 mainwidget.cpp:771
 msgid "Address Book"
 msgstr "Carte de adrese"
 
-#: mainwidget.cpp:778 printing/printingwizard.cpp:58
+#: mainwidget.cpp:777 printing/printingwizard.cpp:58
 msgid "Print Contacts"
 msgstr "Imprima contacte"
 
-#: mainwidget.cpp:1068
+#: mainwidget.cpp:1067
 #, fuzzy
 #| msgid "You have not selected any contacts to export."
 msgid "You have not selected any contacts."
 msgstr "Nu ați selectat nici un contact la export."
 
-#: mainwidget.cpp:1148
+#: mainwidget.cpp:1147
 #, fuzzy
 msgid "No email found for this contact."
 msgstr "Contact &nou"
+
+#: mainwidget.cpp:1186
+#, fuzzy
+#| msgid "Any contact selected"
+msgid "A contact group was selected."
+msgstr "Niciun contact ales"
 
 #: mainwindow.cpp:70
 #, fuzzy
@@ -1088,7 +1097,7 @@ msgstr "Selectați contactele pentru imprimare"
 msgid "Choose Printing Style"
 msgstr "Alege-ți stilul de imprimare"
 
-#: printing/printingwizard.cpp:220
+#: printing/printingwizard.cpp:219
 msgid "Print Progress"
 msgstr "Progresul imprimari"
 
@@ -1389,123 +1398,123 @@ msgctxt "@label"
 msgid "Importing contacts"
 msgstr "Importa contacte"
 
-#: xxport/csv/csvimportdialog.cpp:298
+#: xxport/csv/csvimportdialog.cpp:295
 msgctxt "@label"
 msgid "File to import:"
 msgstr "Fișier de importat:"
 
-#: xxport/csv/csvimportdialog.cpp:307
+#: xxport/csv/csvimportdialog.cpp:304
 #, fuzzy
 #| msgid "Select vCard to Import"
 msgctxt "@info:tooltip"
 msgid "Select a csv file to import"
 msgstr "Selectați lista de importat:"
 
-#: xxport/csv/csvimportdialog.cpp:310
+#: xxport/csv/csvimportdialog.cpp:307
 msgctxt "@info:whatsthis"
 msgid ""
 "Click this button to start a file chooser that will allow you to select a "
 "csv file to import."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:317
+#: xxport/csv/csvimportdialog.cpp:314
 msgctxt "@title:group"
 msgid "Delimiter"
 msgstr "&Delimitator..."
 
-#: xxport/csv/csvimportdialog.cpp:327
+#: xxport/csv/csvimportdialog.cpp:324
 msgctxt "@option:radio Field separator"
 msgid "Comma"
 msgstr "Firmâ"
 
-#: xxport/csv/csvimportdialog.cpp:329
+#: xxport/csv/csvimportdialog.cpp:326
 #, fuzzy
 #| msgid "Select the field you want to remove:"
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a comma"
 msgstr "Alegeți cîmpul de eliminat:"
 
-#: xxport/csv/csvimportdialog.cpp:332
+#: xxport/csv/csvimportdialog.cpp:329
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the comma as a field separator."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:337
+#: xxport/csv/csvimportdialog.cpp:334
 msgctxt "@option:radio Field separator"
 msgid "Semicolon"
 msgstr "Punct și virgulă"
 
-#: xxport/csv/csvimportdialog.cpp:339
+#: xxport/csv/csvimportdialog.cpp:336
 #, fuzzy
 #| msgid "Select the field you want to remove:"
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a semicolon"
 msgstr "Alegeți cîmpul de eliminat:"
 
-#: xxport/csv/csvimportdialog.cpp:342
+#: xxport/csv/csvimportdialog.cpp:339
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the semicolon as a field separator."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:346
+#: xxport/csv/csvimportdialog.cpp:343
 msgctxt "@option:radio Field separator"
 msgid "Tabulator"
 msgstr "Tabulator"
 
-#: xxport/csv/csvimportdialog.cpp:348
+#: xxport/csv/csvimportdialog.cpp:345
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a tab character"
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:351
+#: xxport/csv/csvimportdialog.cpp:348
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the tab character as a field "
 "separator."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:355
+#: xxport/csv/csvimportdialog.cpp:352
 msgctxt "@option:radio Field separator"
 msgid "Space"
 msgstr "Spațiu"
 
-#: xxport/csv/csvimportdialog.cpp:357
+#: xxport/csv/csvimportdialog.cpp:354
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a space character"
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:360
+#: xxport/csv/csvimportdialog.cpp:357
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the space character as a field "
 "separator."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:364
+#: xxport/csv/csvimportdialog.cpp:361
 msgctxt "@option:radio Custum field separator"
 msgid "Other"
 msgstr "Altul"
 
-#: xxport/csv/csvimportdialog.cpp:366
+#: xxport/csv/csvimportdialog.cpp:363
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a custom character"
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:369
+#: xxport/csv/csvimportdialog.cpp:366
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if to use some other character as the field delimiter for "
 "the data in your csv file."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:377
+#: xxport/csv/csvimportdialog.cpp:374
 msgctxt "@info:tooltip"
 msgid "Set the custom delimiter character"
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:380
+#: xxport/csv/csvimportdialog.cpp:377
 msgctxt "@info:whatsthis"
 msgid ""
 "Enter a custom character to use as the delimiter character. If you enter "
@@ -1513,19 +1522,19 @@ msgid ""
 "characters will be ignored."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:386
+#: xxport/csv/csvimportdialog.cpp:383
 msgctxt "@label:listbox"
 msgid "Text quote:"
 msgstr "&Textul citat:"
 
-#: xxport/csv/csvimportdialog.cpp:393
+#: xxport/csv/csvimportdialog.cpp:390
 #, fuzzy
 #| msgid "Select the key type:"
 msgctxt "@info:tooltip"
 msgid "Select the quote character"
 msgstr "Alege tipul cheii:"
 
-#: xxport/csv/csvimportdialog.cpp:396
+#: xxport/csv/csvimportdialog.cpp:393
 msgctxt "@info:whatsthis"
 msgid ""
 "Choose the character that your csv data uses to \"quote\" the field "
@@ -1534,27 +1543,27 @@ msgid ""
 "will be \"quoted\" by the character specified here."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:401
+#: xxport/csv/csvimportdialog.cpp:398
 msgctxt "@item:inlistbox Qoute character option"
 msgid "\""
 msgstr "\""
 
-#: xxport/csv/csvimportdialog.cpp:402
+#: xxport/csv/csvimportdialog.cpp:399
 msgctxt "@item:inlistbox Quote character option"
 msgid "'"
 msgstr "'"
 
-#: xxport/csv/csvimportdialog.cpp:403
+#: xxport/csv/csvimportdialog.cpp:400
 msgctxt "@item:inlistbox Quote character option"
 msgid "None"
 msgstr "Nimic"
 
-#: xxport/csv/csvimportdialog.cpp:407
+#: xxport/csv/csvimportdialog.cpp:404
 msgctxt "@label:listbox"
 msgid "Date format:"
 msgstr "Format dată:"
 
-#: xxport/csv/csvimportdialog.cpp:416
+#: xxport/csv/csvimportdialog.cpp:413
 msgctxt "@info:tooltip"
 msgid ""
 "<para><list><item>y: year with 2 digits</item><item>Y: year with 4 digits</"
@@ -1569,7 +1578,7 @@ msgstr ""
 "item><item>H: ore cu 2 cifre</item><item>I: minute cu 2 cifre</item><item>S: "
 "secunde cu 2 cifre</item></list></para>"
 
-#: xxport/csv/csvimportdialog.cpp:428
+#: xxport/csv/csvimportdialog.cpp:425
 #, fuzzy
 #| msgctxt "@info:tooltip"
 #| msgid ""
@@ -1596,29 +1605,29 @@ msgstr ""
 "item><item>H: ore cu 2 cifre</item><item>I: minute cu 2 cifre</item><item>S: "
 "secunde cu 2 cifre</item></list></para>"
 
-#: xxport/csv/csvimportdialog.cpp:444
+#: xxport/csv/csvimportdialog.cpp:441
 msgctxt "@label:listbox"
 msgid "Text codec:"
 msgstr "&Text codec:"
 
-#: xxport/csv/csvimportdialog.cpp:451
+#: xxport/csv/csvimportdialog.cpp:448
 #, fuzzy
 #| msgid "Select the key type:"
 msgctxt "@info:tooltip"
 msgid "Select the text codec"
 msgstr "Alege tipul cheii:"
 
-#: xxport/csv/csvimportdialog.cpp:454
+#: xxport/csv/csvimportdialog.cpp:451
 msgctxt "@info:whatsthis"
 msgid "Choose the character encoding of the data in your csv file."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:458
+#: xxport/csv/csvimportdialog.cpp:455
 msgctxt "@option:check"
 msgid "Skip first row of file"
 msgstr "Treci peste primul râand din fișier"
 
-#: xxport/csv/csvimportdialog.cpp:461
+#: xxport/csv/csvimportdialog.cpp:458
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Skip first row of file"
@@ -1626,7 +1635,7 @@ msgctxt "@info:tooltip"
 msgid "Skip first row of csv file when importing"
 msgstr "Treci peste primul râand din fișier"
 
-#: xxport/csv/csvimportdialog.cpp:464
+#: xxport/csv/csvimportdialog.cpp:461
 msgctxt "@info:whatsthis"
 msgid ""
 "Check this box if you want the import to skip over the first row of the csv "
@@ -1634,38 +1643,38 @@ msgid ""
 "describing the order of the data fields included in the file."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:480
+#: xxport/csv/csvimportdialog.cpp:477
 msgctxt "@action:button"
 msgid "Apply Template..."
 msgstr "Aplica tipul..."
 
-#: xxport/csv/csvimportdialog.cpp:481
+#: xxport/csv/csvimportdialog.cpp:478
 msgctxt "@action:button"
 msgid "Save Template..."
 msgstr "Salvează tipul..."
 
-#: xxport/csv/csvimportdialog.cpp:500
+#: xxport/csv/csvimportdialog.cpp:499
 #, kde-format
 msgctxt "@item:inlistbox Codec setting"
 msgid "Local (%1)"
 msgstr "Local (%1)"
 
-#: xxport/csv/csvimportdialog.cpp:502
+#: xxport/csv/csvimportdialog.cpp:501
 msgctxt "@item:inlistbox Codec setting"
 msgid "Latin1"
 msgstr "Latin1"
 
-#: xxport/csv/csvimportdialog.cpp:503
+#: xxport/csv/csvimportdialog.cpp:502
 msgctxt "@item:inlistbox Codec setting"
 msgid "Unicode"
 msgstr "Unicode"
 
-#: xxport/csv/csvimportdialog.cpp:504
+#: xxport/csv/csvimportdialog.cpp:503
 msgctxt "@item:inlistbox Codec setting"
 msgid "Microsoft Unicode"
 msgstr "Microsoft Unicode"
 
-#: xxport/csv/csvimportdialog.cpp:609
+#: xxport/csv/csvimportdialog.cpp:608
 #, fuzzy
 #| msgctxt "@info:status"
 #| msgid "You have to assign at least one column."
@@ -1673,27 +1682,27 @@ msgctxt "@info:status"
 msgid "You must assign at least one column."
 msgstr "Trebuie să alocaţi cel puţin o coloană."
 
-#: xxport/csv/csvimportdialog.cpp:621
+#: xxport/csv/csvimportdialog.cpp:620
 msgctxt "@label"
 msgid "There are no templates available yet."
 msgstr "Nu există şabloane disponibile încă."
 
-#: xxport/csv/csvimportdialog.cpp:622
+#: xxport/csv/csvimportdialog.cpp:621
 msgctxt "@title:window"
 msgid "No templates available"
 msgstr "Nici un șablon disponibil"
 
-#: xxport/csv/csvimportdialog.cpp:688
+#: xxport/csv/csvimportdialog.cpp:687
 msgctxt "@title:window"
 msgid "Template Name"
 msgstr "Numele șablonului"
 
-#: xxport/csv/csvimportdialog.cpp:689
+#: xxport/csv/csvimportdialog.cpp:688
 msgctxt "@info"
 msgid "Please enter a name for the template:"
 msgstr "Vă rugăm să introduceţi un nume pentru şablon:"
 
-#: xxport/csv/csvimportdialog.cpp:738
+#: xxport/csv/csvimportdialog.cpp:737
 msgctxt "@info:status"
 msgid "Cannot open input file."
 msgstr "Nu poate fii deschis fisierul de intrare."

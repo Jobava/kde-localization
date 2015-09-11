@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: khotkeys\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-26 09:26+0000\n"
+"POT-Creation-Date: 2015-08-23 08:22+0000\n"
 "PO-Revision-Date: 2013-01-30 22:44+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -388,37 +388,33 @@ msgstr "Accelerator global"
 msgid "Window Action"
 msgstr "Acțiune pentru fereastră"
 
-#: kcm_hotkeys/hotkeys_context_menu.cpp:187
-msgid "Mouse Gesture Action"
-msgstr "Acțiune pentru gest maus"
-
-#: kcm_hotkeys/hotkeys_context_menu.cpp:268
+#: kcm_hotkeys/hotkeys_context_menu.cpp:269
 msgid "Command/URL"
 msgstr "Comandă/URL"
 
-#: kcm_hotkeys/hotkeys_context_menu.cpp:275
+#: kcm_hotkeys/hotkeys_context_menu.cpp:276
 msgid "D-Bus Command"
 msgstr "Comandă D-Bus"
 
-#: kcm_hotkeys/hotkeys_context_menu.cpp:282
+#: kcm_hotkeys/hotkeys_context_menu.cpp:283
 msgid "K-Menu Entry"
 msgstr "Înregistrare meniu K"
 
-#: kcm_hotkeys/hotkeys_context_menu.cpp:289
+#: kcm_hotkeys/hotkeys_context_menu.cpp:290
 msgid "Send Keyboard Input"
 msgstr "Trimite intrare de tastatură"
 
 #. i18n: ectx: attribute (title), widget (QWidget, comment_tab)
-#: kcm_hotkeys/hotkeys_context_menu.cpp:311
-#: kcm_hotkeys/hotkeys_context_menu.cpp:340
-#: kcm_hotkeys/hotkeys_context_menu.cpp:369 kcm_hotkeys/hotkeys_model.cpp:91
+#: kcm_hotkeys/hotkeys_context_menu.cpp:312
+#: kcm_hotkeys/hotkeys_context_menu.cpp:341
+#: kcm_hotkeys/hotkeys_context_menu.cpp:370 kcm_hotkeys/hotkeys_model.cpp:91
 #: kcm_hotkeys/hotkeys_widget_base.ui:23
 msgid "Comment"
 msgstr "Comentariu"
 
-#: kcm_hotkeys/hotkeys_context_menu.cpp:311
-#: kcm_hotkeys/hotkeys_context_menu.cpp:340
-#: kcm_hotkeys/hotkeys_context_menu.cpp:369
+#: kcm_hotkeys/hotkeys_context_menu.cpp:312
+#: kcm_hotkeys/hotkeys_context_menu.cpp:341
+#: kcm_hotkeys/hotkeys_context_menu.cpp:370
 msgid "New Action"
 msgstr "Acțiune nouă"
 
@@ -745,13 +741,16 @@ msgstr "Accelerator declanșator: "
 msgid "Voice trigger: "
 msgstr "Declanșator vocal: "
 
-#: libkhotkeysprivate/triggers/window_trigger.cpp:150
+#: libkhotkeysprivate/triggers/window_trigger.cpp:151
 msgid "Window trigger: "
 msgstr "Declanșator fereastră: "
 
 #: libkhotkeysprivate/windows_helper/window_selection_rules.cpp:82
 msgid "Window simple: "
 msgstr "Simplu fereastră: "
+
+#~ msgid "Mouse Gesture Action"
+#~ msgstr "Acțiune pentru gest maus"
 
 #, fuzzy
 #~| msgid "Normal"

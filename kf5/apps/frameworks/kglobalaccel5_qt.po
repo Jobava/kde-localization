@@ -20,12 +20,12 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 "X-Qt-Contexts: true\n"
 
-#: kglobalaccel.cpp:520
+#: kglobalaccel.cpp:535
 msgctxt "KGlobalAccel|"
 msgid "Conflict with Global Shortcut"
 msgstr "Conflict cu un accelerator global"
 
-#: kglobalaccel.cpp:521
+#: kglobalaccel.cpp:536
 #, fuzzy, qt-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
@@ -41,12 +41,12 @@ msgstr ""
 "%3.\n"
 "Doriți să o reatribuiți de la acea acțiune la aceasta curentă?"
 
-#: kglobalaccel.cpp:530 kglobalaccel.cpp:574
+#: kglobalaccel.cpp:545 kglobalaccel.cpp:589
 msgctxt "KGlobalAccel|"
 msgid "Reassign"
 msgstr "Reatribuie"
 
-#: kglobalaccel.cpp:552
+#: kglobalaccel.cpp:567
 #, fuzzy, qt-format
 #| msgid ""
 #| "The '%1' key combination is registered by application %2 for action %3:"
@@ -56,14 +56,14 @@ msgstr ""
 "Combinația de taste „%1” este înregistrată de aplicația %2 pentru acțiunea "
 "%3:"
 
-#: kglobalaccel.cpp:559
+#: kglobalaccel.cpp:574
 #, fuzzy, qt-format
 #| msgid "In context '%1' for action '%2'\n"
 msgctxt "KGlobalAccel|"
 msgid "In context '%1' for action '%2'\n"
 msgstr "În contextul „%1” pentru acțiunea „%2”\n"
 
-#: kglobalaccel.cpp:563
+#: kglobalaccel.cpp:578
 #, fuzzy, qt-format
 #| msgid ""
 #| "The '%1' key combination is registered by application %2.\n"
@@ -76,7 +76,7 @@ msgstr ""
 "Combinația de taste „%1” este înregistrată de aplicația %2.\n"
 "%3"
 
-#: kglobalaccel.cpp:569
+#: kglobalaccel.cpp:584
 #, fuzzy
 #| msgid "Conflict With Registered Global Shortcut"
 msgctxt "KGlobalAccel|"

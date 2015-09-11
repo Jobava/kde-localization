@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-19 08:56+0000\n"
+"POT-Creation-Date: 2015-08-24 08:16+0000\n"
 "PO-Revision-Date: 2011-01-08 02:27+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -18,30 +18,30 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
 
-#: cryptopageplugin.cpp:59
+#: cryptopageplugin.cpp:58
 msgid "Allowed Protocols"
 msgstr "Protocoale permise"
 
-#: cryptopageplugin.cpp:74
+#: cryptopageplugin.cpp:73
 msgid "Preferred OpenPGP encryption key:"
 msgstr "Cheia de criptare OpenPGP preferată:"
 
-#: cryptopageplugin.cpp:80
+#: cryptopageplugin.cpp:79
 msgid "Preferred S/MIME encryption certificate:"
 msgstr "Certificatul de criptare S/MIME preferat:"
 
-#: cryptopageplugin.cpp:86
+#: cryptopageplugin.cpp:85
 msgid "Message Preference"
 msgstr "Preferință mesaj"
 
-#: cryptopageplugin.cpp:95
+#: cryptopageplugin.cpp:94
 msgid "Sign:"
 msgstr "Semnează:"
 
-#: cryptopageplugin.cpp:112
+#: cryptopageplugin.cpp:111
 msgid "Encrypt:"
 msgstr "Criptează:"
 
-#: cryptopageplugin.cpp:132
+#: cryptopageplugin.cpp:131
 msgid "Crypto Settings"
 msgstr "Configurări criptografice"

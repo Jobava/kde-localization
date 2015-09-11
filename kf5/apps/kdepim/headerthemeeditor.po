@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-20 09:15+0000\n"
+"POT-Creation-Date: 2015-08-27 09:07+0000\n"
 "PO-Revision-Date: 2013-09-15 12:29+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -42,23 +42,23 @@ msgstr "Editor"
 msgid "&Display"
 msgstr ""
 
-#: main.cpp:42
+#: main.cpp:43
 msgid "Header Theme Editor"
 msgstr ""
 
-#: main.cpp:44
+#: main.cpp:45
 msgid "Messageviewer Header Theme Editor"
 msgstr ""
 
-#: main.cpp:46
+#: main.cpp:47
 msgid "Copyright © 2013-2015 headerthemeeditor authors"
 msgstr ""
 
-#: main.cpp:47
+#: main.cpp:48
 msgid "Laurent Montel"
 msgstr "Laurent Montel"
 
-#: main.cpp:47
+#: main.cpp:48
 msgid "Maintainer"
 msgstr "Responsabil"
 

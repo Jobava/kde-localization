@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libkleopatra\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-20 08:57+0000\n"
+"POT-Creation-Date: 2015-09-03 08:34+0000\n"
 "PO-Revision-Date: 2013-02-16 10:55+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -17,28 +17,28 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
 
-#: backends/chiasmus/chiasmusbackend.cpp:444
+#: backends/chiasmus/chiasmusbackend.cpp:411
 msgid "General"
 msgstr "General"
 
-#: backends/chiasmus/chiasmusbackend.cpp:528
-#: backends/chiasmus/chiasmusbackend.cpp:715
+#: backends/chiasmus/chiasmusbackend.cpp:495
+#: backends/chiasmus/chiasmusbackend.cpp:682
 msgid "Chiasmus"
 msgstr "Chiasmus"
 
-#: backends/chiasmus/chiasmusbackend.cpp:602
+#: backends/chiasmus/chiasmusbackend.cpp:569
 msgid "Chiasmus command line tool"
 msgstr ""
 
-#: backends/chiasmus/chiasmusbackend.cpp:741
-#: backends/chiasmus/chiasmusbackend.cpp:749
-#: backends/chiasmus/chiasmusbackend.cpp:783
-#: backends/qgpgme/qgpgmebackend.cpp:456
+#: backends/chiasmus/chiasmusbackend.cpp:708
+#: backends/chiasmus/chiasmusbackend.cpp:716
+#: backends/chiasmus/chiasmusbackend.cpp:750
+#: backends/qgpgme/qgpgmebackend.cpp:463
 #, kde-format
 msgid "Unsupported protocol \"%1\""
 msgstr ""
 
-#: backends/chiasmus/chiasmusbackend.cpp:767
+#: backends/chiasmus/chiasmusbackend.cpp:734
 #, kde-format
 msgid "File \"%1\" does not exist or is not executable."
 msgstr ""
@@ -79,32 +79,32 @@ msgstr ""
 msgid "Scanning directory %1..."
 msgstr ""
 
-#: backends/qgpgme/qgpgmebackend.cpp:92 ui/keyselectiondialog.cpp:267
-#: ui/keyselectiondialog.cpp:269 ui/keyselectiondialog.cpp:276
-#: ui/keyselectiondialog.cpp:278 ui/keyselectiondialog.cpp:279
+#: backends/qgpgme/qgpgmebackend.cpp:92 ui/keyselectiondialog.cpp:271
+#: ui/keyselectiondialog.cpp:273 ui/keyselectiondialog.cpp:280
+#: ui/keyselectiondialog.cpp:282 ui/keyselectiondialog.cpp:283
 msgid "unknown"
 msgstr "necunoscut"
 
-#: backends/qgpgme/qgpgmebackend.cpp:395
+#: backends/qgpgme/qgpgmebackend.cpp:402
 msgid "GpgME"
 msgstr "GpgME"
 
-#: backends/qgpgme/qgpgmebackend.cpp:424
+#: backends/qgpgme/qgpgmebackend.cpp:431
 #, kde-format
 msgid "GPGME was compiled without support for %1."
 msgstr ""
 
-#: backends/qgpgme/qgpgmebackend.cpp:426
+#: backends/qgpgme/qgpgmebackend.cpp:433
 #, kde-format
 msgid "Engine %1 is not installed properly."
 msgstr ""
 
-#: backends/qgpgme/qgpgmebackend.cpp:428
+#: backends/qgpgme/qgpgmebackend.cpp:435
 #, kde-format
 msgid "Engine %1 version %2 installed, but at least version %3 is required."
 msgstr ""
 
-#: backends/qgpgme/qgpgmebackend.cpp:432
+#: backends/qgpgme/qgpgmebackend.cpp:439
 #, kde-format
 msgid "Unknown problem with engine for protocol %1."
 msgstr ""
@@ -137,7 +137,7 @@ msgstr ""
 
 #: backends/qgpgme/qgpgmekeylistjob.cpp:163
 #: backends/qgpgme/qgpgmelistallkeysjob.cpp:165 ui/keyrequester.cpp:246
-#: ui/keyselectiondialog.cpp:640
+#: ui/keyselectiondialog.cpp:644
 #, kde-format
 msgid ""
 "<qt><p>An error occurred while fetching the keys from the backend:</p><p><b>"
@@ -417,11 +417,11 @@ msgstr ""
 msgid "&Reset"
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:163
+#: ui/cryptoconfigmodule.cpp:160
 msgid "GpgConf Error"
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:220
+#: ui/cryptoconfigmodule.cpp:216
 #, kde-format
 msgid ""
 "The gpgconf tool used to provide the information for this dialog does not "
@@ -429,7 +429,7 @@ msgid ""
 "\"%1\" on the command line for more information."
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:497
+#: ui/cryptoconfigmodule.cpp:492
 msgctxt ""
 "Translate this to 'yes' or 'no' (use the English words!) depending on "
 "whether your language uses Sentence style capitalisation in GUI labels (yes) "
@@ -440,47 +440,47 @@ msgctxt ""
 msgid "yes"
 msgstr "yes"
 
-#: ui/cryptoconfigmodule.cpp:547
+#: ui/cryptoconfigmodule.cpp:542
 msgid "0 - None (no debugging at all)"
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:548
+#: ui/cryptoconfigmodule.cpp:543
 msgid "1 - Basic (some basic debug messages)"
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:549
+#: ui/cryptoconfigmodule.cpp:544
 msgid "2 - Advanced (more verbose debug messages)"
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:550
+#: ui/cryptoconfigmodule.cpp:545
 msgid "3 - Expert (even more detailed messages)"
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:551
+#: ui/cryptoconfigmodule.cpp:546
 msgid "4 - Guru (all of the debug messages you can get)"
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:560
+#: ui/cryptoconfigmodule.cpp:555
 msgid "Set the debugging level to"
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:892
+#: ui/cryptoconfigmodule.cpp:785
 msgid "Show..."
 msgstr "Arată..."
 
-#: ui/cryptoconfigmodule.cpp:892 ui/cryptoconfigmodule.cpp:961
+#: ui/cryptoconfigmodule.cpp:785 ui/cryptoconfigmodule.cpp:875
 msgid "Edit..."
 msgstr "Modificare..."
 
-#: ui/cryptoconfigmodule.cpp:924
+#: ui/cryptoconfigmodule.cpp:840
 msgid "Configure LDAP Servers"
 msgstr "Configurare servere LDAP"
 
-#: ui/cryptoconfigmodule.cpp:947
+#: ui/cryptoconfigmodule.cpp:861
 msgid "No server configured yet"
 msgstr "Niciun server configurat deocamdată"
 
-#: ui/cryptoconfigmodule.cpp:949
+#: ui/cryptoconfigmodule.cpp:863
 #, kde-format
 msgid "1 server configured"
 msgid_plural "%1 servers configured"
@@ -488,11 +488,11 @@ msgstr[0] "1 server configurat"
 msgstr[1] "%1 servere configurate"
 msgstr[2] "%1 de servere configurate"
 
-#: ui/cryptoconfigmodule.cpp:964
+#: ui/cryptoconfigmodule.cpp:878
 msgid "Use keyserver at"
 msgstr ""
 
-#: ui/cryptoconfigmodule.cpp:1048
+#: ui/cryptoconfigmodule.cpp:967
 msgid "Configure Keyservers"
 msgstr ""
 
@@ -581,47 +581,47 @@ msgctxt "amended tooltip; %1: original tooltip"
 msgid "%1 (read-only)"
 msgstr "%1 (numai citire)"
 
-#: ui/directoryserviceswidget.cpp:965
+#: ui/directoryserviceswidget.cpp:963
 msgid ""
 "Select the access scheme (scheme) that the directory service is available "
 "through."
 msgstr ""
 
-#: ui/directoryserviceswidget.cpp:967
+#: ui/directoryserviceswidget.cpp:965
 msgid ""
 "Enter the name or IP address of the server hosting the directory service."
 msgstr ""
 
-#: ui/directoryserviceswidget.cpp:969
+#: ui/directoryserviceswidget.cpp:967
 msgid ""
 "<b>(Optional, the default is fine in most cases)</b> Pick the port number "
 "the directory service is listening on."
 msgstr ""
 
-#: ui/directoryserviceswidget.cpp:972
+#: ui/directoryserviceswidget.cpp:970
 msgid ""
 "<b>(Only for LDAP)</b> Enter the base DN for this LDAP server to limit "
 "searches to only that subtree of the directory."
 msgstr ""
 
-#: ui/directoryserviceswidget.cpp:975
+#: ui/directoryserviceswidget.cpp:973
 msgid "<b>(Optional)</b> Enter your user name here, if needed."
 msgstr ""
 
-#: ui/directoryserviceswidget.cpp:977
+#: ui/directoryserviceswidget.cpp:975
 msgid ""
 "<b>(Optional, not recommended)</b> Enter your password here, if needed. Note "
 "that the password will be saved in the clear in a config file in your home "
 "directory."
 msgstr ""
 
-#: ui/directoryserviceswidget.cpp:981
+#: ui/directoryserviceswidget.cpp:979
 msgid ""
 "Check this column if this directory service is providing S/MIME (X.509) "
 "certificates."
 msgstr ""
 
-#: ui/directoryserviceswidget.cpp:983
+#: ui/directoryserviceswidget.cpp:981
 msgid ""
 "Check this column if this directory service is providing OpenPGP "
 "certificates."
@@ -791,12 +791,12 @@ msgstr "Curăță"
 msgid "Change..."
 msgstr "Modifică..."
 
-#: ui/keyrequester.cpp:232 ui/keyselectiondialog.cpp:237
+#: ui/keyrequester.cpp:232 ui/keyselectiondialog.cpp:241
 msgid "<placeholder>unknown</placeholder>"
 msgstr "<placeholder>necunoscut</placeholder>"
 
 #: ui/keyrequester.cpp:251 ui/keyrequester.cpp:283 ui/keyrequester.cpp:306
-#: ui/keyselectiondialog.cpp:609 ui/keyselectiondialog.cpp:645
+#: ui/keyselectiondialog.cpp:613 ui/keyselectiondialog.cpp:649
 msgid "Key Listing Failed"
 msgstr "Enumerarea cheilor a eșuat"
 
@@ -834,19 +834,19 @@ msgstr ""
 msgid "Please select an (OpenPGP or S/MIME) key to use."
 msgstr "Alegeți o cheie OpenPGP sau S/MIME de utilizat."
 
-#: ui/keyselectiondialog.cpp:211
+#: ui/keyselectiondialog.cpp:215
 msgid "Key ID"
 msgstr "ID cheie"
 
-#: ui/keyselectiondialog.cpp:212
+#: ui/keyselectiondialog.cpp:216
 msgid "User ID"
 msgstr "ID utilizator"
 
-#: ui/keyselectiondialog.cpp:260
+#: ui/keyselectiondialog.cpp:264
 msgid "never"
 msgstr "niciodată"
 
-#: ui/keyselectiondialog.cpp:263
+#: ui/keyselectiondialog.cpp:267
 #, kde-format
 msgid ""
 "OpenPGP key for %1\n"
@@ -855,7 +855,7 @@ msgid ""
 "Fingerprint: %4"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:271
+#: ui/keyselectiondialog.cpp:275
 #, kde-format
 msgid ""
 "S/MIME key for %1\n"
@@ -865,53 +865,53 @@ msgid ""
 "Issuer: %5"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:428
+#: ui/keyselectiondialog.cpp:432
 msgid "Search for &External Certificates"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:443
+#: ui/keyselectiondialog.cpp:447
 msgid "&Search for:"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:467
+#: ui/keyselectiondialog.cpp:471
 msgid "&Remember choice"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:470
+#: ui/keyselectiondialog.cpp:474
 msgid ""
 "<qt><p>If you check this box your choice will be stored and you will not be "
 "asked again.</p></qt>"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:486
+#: ui/keyselectiondialog.cpp:490
 msgid "&Reread Keys"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:487
+#: ui/keyselectiondialog.cpp:491
 msgid "&Start Certificate Manager"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:607
+#: ui/keyselectiondialog.cpp:611
 msgid "No backends found for listing keys. Check your installation."
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:627
+#: ui/keyselectiondialog.cpp:631
 msgid "Could not start certificate manager; please check your installation."
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:629
+#: ui/keyselectiondialog.cpp:633
 msgid "Certificate Manager Error"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:686
+#: ui/keyselectiondialog.cpp:690
 msgid "Checking selected keys..."
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:686
+#: ui/keyselectiondialog.cpp:690
 msgid "Fetching keys..."
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:717
+#: ui/keyselectiondialog.cpp:721
 #, kde-format
 msgid ""
 "<qt>One backend returned truncated output.<p>Not all available keys are "
@@ -923,11 +923,11 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: ui/keyselectiondialog.cpp:722
+#: ui/keyselectiondialog.cpp:726
 msgid "Key List Result"
 msgstr ""
 
-#: ui/keyselectiondialog.cpp:842
+#: ui/keyselectiondialog.cpp:846
 msgid "Recheck Key"
 msgstr ""
 

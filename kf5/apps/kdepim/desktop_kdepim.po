@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdepim\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-11 12:00+0000\n"
+"POT-Creation-Date: 2015-09-09 08:45+0000\n"
 "PO-Revision-Date: 2012-12-22 11:38+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -299,31 +299,10 @@ msgid "Metakit storage backend"
 msgstr "Platformă de stocare Metakit"
 
 #: akregator/plugins/mk4storage/akregator_mk4storage_plugin.desktop:63
-#: akregator/plugins/onlinesync/akregator_onlinesync_plugin.desktop:52
 #: akregator/src/akregator_plugin.desktop:4
 msgctxt "Comment"
 msgid "Plugin for Akregator"
 msgstr "Modul pentru Akregator"
-
-#: akregator/plugins/onlinesync/akregator_config_onlinesync.desktop:11
-msgctxt "X-KDE-Keywords"
-msgid "akregator, configure, settings, online readers"
-msgstr "akregator, configurare, setări, opțiuni, cititor online"
-
-#: akregator/plugins/onlinesync/akregator_config_onlinesync.desktop:57
-msgctxt "Name"
-msgid "Online Readers"
-msgstr "Cititori online"
-
-#: akregator/plugins/onlinesync/akregator_config_onlinesync.desktop:106
-msgctxt "Comment"
-msgid "Configure Online Readers"
-msgstr "Configurează cititorii online"
-
-#: akregator/plugins/onlinesync/akregator_onlinesync_plugin.desktop:3
-msgctxt "Name"
-msgid "Akregator Online Feed Reader Support"
-msgstr "Suport pentru citire de fluxuri online în Akregator"
 
 #: akregator/src/akregator.notifyrc:3
 msgctxt "Comment"
@@ -591,7 +570,7 @@ msgctxt "Description"
 msgid "Default kaddressbook theme."
 msgstr ""
 
-#: kalarm/kalarm.autostart.desktop:3 kalarm/org.kde.kalarm.desktop:3
+#: kalarm/kalarm.autostart.desktop:3 kalarm/org.kde.kalarm.desktop:2
 #: kalarm/rtcwakeaction.actions:2
 msgctxt "Name"
 msgid "KAlarm"
@@ -602,7 +581,7 @@ msgctxt "Comment"
 msgid "KAlarm autostart at login"
 msgstr "Pornire automată KAlarm la autentificare"
 
-#: kalarm/org.kde.kalarm.desktop:77
+#: kalarm/org.kde.kalarm.desktop:76
 msgctxt "GenericName"
 msgid "Personal Alarm Scheduler"
 msgstr "Programator personal de alarme"
@@ -1171,13 +1150,13 @@ msgctxt "GenericName"
 msgid "Personal Information Manager"
 msgstr "Gestionar de informații personale"
 
-#: korgac/org.kde.korgac.desktop:3
+#: korgac/org.kde.korgac.desktop:2
 #, fuzzy
 msgctxt "Name"
 msgid "KOrganizer Reminder Client"
 msgstr "Client de alarmare KOrganizer"
 
-#: korgac/org.kde.korgac.desktop:65
+#: korgac/org.kde.korgac.desktop:64
 #, fuzzy
 msgctxt "GenericName"
 msgid "KOrganizer Reminder Daemon Client"
@@ -1595,6 +1574,49 @@ msgctxt "Name"
 msgid "MBoxImporter"
 msgstr ""
 
+#: messageviewer/header/allheaderstyleplugin/messageviewer_allheaderstyleplugin.desktop:5
+msgctxt "Name"
+msgid "All Header Style"
+msgstr ""
+
+#: messageviewer/header/briefheaderstyleplugin/messageviewer_briefheaderstyleplugin.desktop:5
+msgctxt "Name"
+msgid "Brief Header Style"
+msgstr ""
+
+#: messageviewer/header/customheaderstyleplugin/messageviewer_customheaderstyleplugin.desktop:5
+msgctxt "Name"
+msgid "Custom Header Style"
+msgstr ""
+
+#: messageviewer/header/enterpriseheaderstyleplugin/messageviewer_enterpriseheaderstyleplugin.desktop:5
+msgctxt "Name"
+msgid "Enterprise Header Style"
+msgstr ""
+
+#: messageviewer/header/fancyheaderstyleplugin/messageviewer_fancyheaderstyleplugin.desktop:5
+msgctxt "Name"
+msgid "Fancy Header Style"
+msgstr ""
+
+#: messageviewer/header/grantleeheaderstyleplugin/messageviewer_grantleeheaderstyleplugin.desktop:5
+msgctxt "Name"
+msgid "Grantlee Header Style"
+msgstr ""
+
+#: messageviewer/header/longheaderstyleplugin/messageviewer_longheaderstyleplugin.desktop:5
+msgctxt "Name"
+msgid "Long Header Style"
+msgstr ""
+
+#: messageviewer/header/standardsheaderstyleplugin/messageviewer_standardsheaderstyleplugin.desktop:5
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Standard profile"
+msgctxt "Name"
+msgid "Standards Header Style"
+msgstr "Profil standard"
+
 #: messageviewer/notify/messageviewer.notifyrc:3
 #, fuzzy
 msgctxt "Comment"
@@ -1645,6 +1667,16 @@ msgstr "Simplă"
 #: messageviewer/themes/example/header.desktop:42
 msgctxt "Description"
 msgid "Example theme for header."
+msgstr ""
+
+#: pimcommon/customtools/shorturlplugin/pimcommon_shorturlplugin.desktop:5
+msgctxt "Name"
+msgid "Shorturl"
+msgstr ""
+
+#: pimcommon/customtools/translatorplugin/pimcommon_translatorplugin.desktop:5
+msgctxt "Name"
+msgid "Translator"
 msgstr ""
 
 #: pimsettingexporter/gui/org.kde.pimsettingexporter.desktop:2
@@ -1746,6 +1778,22 @@ msgstr "Un manager KDE pentru dispozitive mobile"
 msgctxt "GenericName"
 msgid "Cloud Storage Manager"
 msgstr "Un manager KDE pentru dispozitive mobile"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "akregator, configure, settings, online readers"
+#~ msgstr "akregator, configurare, setări, opțiuni, cititor online"
+
+#~ msgctxt "Name"
+#~ msgid "Online Readers"
+#~ msgstr "Cititori online"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Online Readers"
+#~ msgstr "Configurează cititorii online"
+
+#~ msgctxt "Name"
+#~ msgid "Akregator Online Feed Reader Support"
+#~ msgstr "Suport pentru citire de fluxuri online în Akregator"
 
 #~ msgctxt "Name"
 #~ msgid "Share Services"
@@ -3116,10 +3164,6 @@ msgstr "Un manager KDE pentru dispozitive mobile"
 #~ msgctxt "Name"
 #~ msgid "eGroupware Server (via XML-RPC)"
 #~ msgstr "Server eGroupware (via XML-RPC)"
-
-#~ msgctxt "Comment"
-#~ msgid "Standard profile"
-#~ msgstr "Profil standard"
 
 #~ msgctxt "Name"
 #~ msgid "High Contrast"

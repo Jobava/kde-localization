@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-05 08:08+0000\n"
+"POT-Creation-Date: 2015-09-06 09:06+0000\n"
 "PO-Revision-Date: 2015-04-20 14:42+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -20,24 +20,22 @@ msgctxt "Name"
 msgid "Baloo File Daemon"
 msgstr "Demon de fișiere Baloo"
 
-#: src/file/inotify/org.kde.baloo.filewatch.actions:2
-msgctxt "Name"
-msgid "Folder Watch Limit"
-msgstr "Limita de urmărire a dosarelor"
-
-#: src/file/inotify/org.kde.baloo.filewatch.actions:41
-msgctxt "Description"
-msgid "To avoid missing file changes, raise the inotify folder watch limit"
-msgstr ""
-"Pentru a nu rata schimbări în fișiere, măriți limita inotify de urmărire a "
-"dosarelor"
-
-#: src/kioslaves/kded/baloosearchfolderupdater.desktop:11
+#: src/kioslaves/kded/baloosearchmodule.desktop:11
 msgctxt "Name"
 msgid "Search Folder Updater"
 msgstr "Actualizator pentru dosare de căutare"
 
-#: src/kioslaves/kded/baloosearchfolderupdater.desktop:45
+#: src/kioslaves/kded/baloosearchmodule.desktop:45
 msgctxt "Comment"
 msgid "Allows automatic updates of Search Folders"
 msgstr "Permite actualizarea automată a dosarelor de căutare"
+
+#~ msgctxt "Name"
+#~ msgid "Folder Watch Limit"
+#~ msgstr "Limita de urmărire a dosarelor"
+
+#~ msgctxt "Description"
+#~ msgid "To avoid missing file changes, raise the inotify folder watch limit"
+#~ msgstr ""
+#~ "Pentru a nu rata schimbări în fișiere, măriți limita inotify de urmărire "
+#~ "a dosarelor"

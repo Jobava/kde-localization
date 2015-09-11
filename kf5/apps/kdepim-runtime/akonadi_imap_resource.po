@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-30 08:56+0000\n"
+"POT-Creation-Date: 2015-09-02 08:17+0000\n"
 "PO-Revision-Date: 2011-10-14 04:24+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -410,7 +410,7 @@ msgstr "Intrare"
 msgid "Shared Folders"
 msgstr "Dosare partajate"
 
-#: retrieveitemstask.cpp:505
+#: retrieveitemstask.cpp:507
 #, kde-format
 msgctxt "@info:status"
 msgid "Fetching missing mail bodies in %3: %1/%2"
@@ -577,18 +577,20 @@ msgctxt "Authentication method"
 msgid "Anonymous"
 msgstr "Anonim"
 
-#: setupserver.cpp:138
-msgid "Folder Archive"
-msgstr ""
+#: setupserver.cpp:140
+#, fuzzy
+#| msgid "Shared Folders"
+msgid "Archive Folder"
+msgstr "Dosare partajate"
 
-#: setupserver.cpp:150
+#: setupserver.cpp:152
 msgid " minute"
 msgid_plural " minutes"
 msgstr[0] " minut"
 msgstr[1] " minute"
 msgstr[2] " de minute"
 
-#: setupserver.cpp:384
+#: setupserver.cpp:386
 msgid ""
 "Could not access KWallet. If you want to store the password permanently then "
 "you have to activate it. If you do not want to use KWallet, check the box "
@@ -598,23 +600,23 @@ msgstr ""
 "trebuie să-l activați. Dacă nu doriți să utilizați KWallet, bifați caseta de "
 "mai jos, dar rețineți că vi se va cere parola ori de cîte ori este necesară."
 
-#: setupserver.cpp:389
+#: setupserver.cpp:391
 msgid "Do not use KWallet"
 msgstr "Nu utiliza KWallet"
 
-#: setupserver.cpp:497
+#: setupserver.cpp:499
 msgid "Unable to connect to the server, please verify the server address."
 msgstr "Conectarea la server este imposibilă. Verificați adresa serverului."
 
-#: setupserver.cpp:509
+#: setupserver.cpp:511
 msgid "<qt><b>TLS is supported and recommended.</b></qt>"
 msgstr "<qt><b>TLS este susținut și recomandat.</b></qt>"
 
-#: setupserver.cpp:512
+#: setupserver.cpp:514
 msgid "<qt><b>SSL is supported and recommended.</b></qt>"
 msgstr "<qt><b>SSL este susținut și recomandat.</b></qt>"
 
-#: setupserver.cpp:515
+#: setupserver.cpp:517
 msgid ""
 "<qt><b>No security is supported. It is not recommended to connect to this "
 "server.</b></qt>"
@@ -622,11 +624,11 @@ msgstr ""
 "<qt><b>Nu este susținută nicio securitate. Conectarea la acest server nu "
 "este recomandată.</b></qt>"
 
-#: setupserver.cpp:518
+#: setupserver.cpp:520
 msgid "<qt><b>It is not possible to use this server.</b></qt>"
 msgstr "<qt><b>Utilizarea acestui server este imposibilă.</b></qt>"
 
-#: setupserver.cpp:618
+#: setupserver.cpp:620
 #, fuzzy
 #| msgid "Serverside Subscription..."
 msgid "Serverside Subscription"

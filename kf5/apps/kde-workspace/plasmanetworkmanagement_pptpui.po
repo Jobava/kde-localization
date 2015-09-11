@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-09 08:13+0000\n"
+"POT-Creation-Date: 2015-08-26 08:46+0000\n"
 "PO-Revision-Date: 2013-10-24 14:34+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -134,12 +134,6 @@ msgstr "Autentificare PPTP"
 msgid "Password:"
 msgstr "Parolă:"
 
-#. i18n: ectx: property (text), widget (QCheckBox, chkShowPassword)
-#. i18n: ectx: property (text), widget (QCheckBox, cb_showPassword)
-#: pptpauth.ui:51 pptpprop.ui:152
-msgid "Show password"
-msgstr "Arată parola"
-
 #. i18n: ectx: property (windowTitle), widget (QWidget, PptpProp)
 #: pptpprop.ui:14
 msgid "PPTP Settings"
@@ -183,14 +177,17 @@ msgid "Not Required"
 msgstr "Nu este necesar"
 
 #. i18n: ectx: property (text), widget (QLabel, lbl_ntdomain)
-#: pptpprop.ui:173
+#: pptpprop.ui:166
 #, fuzzy
 #| msgid "NT Domain:"
-msgid "NT Do&main:"
+msgid "NT Domain:"
 msgstr "Domeniu NT:"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnAdvanced)
-#: pptpprop.ui:220
+#: pptpprop.ui:213
 msgctxt "like in Advanced settings"
 msgid "Advanced..."
 msgstr "Avansat..."
+
+#~ msgid "Show password"
+#~ msgstr "Arată parola"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-16 08:54+0000\n"
+"POT-Creation-Date: 2015-08-25 10:43+0000\n"
 "PO-Revision-Date: 2014-05-02 12:07+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -18,11 +18,11 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:239
+#: platformtheme/kdeplatformfiledialoghelper.cpp:241
 msgid "Opening..."
 msgstr "Se deschide..."
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:239
+#: platformtheme/kdeplatformfiledialoghelper.cpp:241
 msgid "Saving..."
 msgstr "Se salvează..."
 

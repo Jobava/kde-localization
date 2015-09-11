@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-05 07:59+0000\n"
+"POT-Creation-Date: 2015-09-10 09:21+0000\n"
 "PO-Revision-Date: 2015-04-20 13:52+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -107,42 +107,12 @@ msgstr ""
 msgid "Cancel"
 msgstr "Anulează"
 
-#: updater/UpdateModel/UpdateModel.cpp:116
-msgctxt "@label Column label"
-msgid "Updates"
-msgstr "Actualizări"
-
-#: updater/UpdateModel/UpdateModel.cpp:118
-msgctxt "@label Column label"
-msgid "Version"
-msgstr "Versiune"
-
-#: updater/UpdateModel/UpdateModel.cpp:120
-msgctxt "@label Column label"
-msgid "Download Size"
-msgstr "Dimensiune descărcare"
-
-#: updater/UpdateModel/UpdateModel.cpp:228
-msgctxt "@item:inlistbox"
-msgid "Important Security Updates"
-msgstr "Actualizări importante de securitate"
-
-#: updater/UpdateModel/UpdateModel.cpp:231
-msgctxt "@item:inlistbox"
-msgid "Application Updates"
-msgstr "Actualizări de programe"
-
-#: updater/UpdateModel/UpdateModel.cpp:234
-msgctxt "@item:inlistbox"
-msgid "System Updates"
-msgstr "Actualizări de sistem"
-
 #. i18n: ectx: property (text), widget (QPushButton, more)
 #: updater/UpdaterCentralWidget.ui:23 updaterrc.cpp:6
 msgid "More..."
 msgstr "Mai mult..."
 
-#: updater/UpdaterWidget.cpp:72
+#: updater/UpdaterWidget.cpp:73
 msgctxt "@label"
 msgid ""
 "<em>Some packages were not marked for update.</em><p/>The update of these "
@@ -153,11 +123,11 @@ msgstr ""
 ">Actualizarea acestor pachete necesită instalarea sau eliminarea altora.<p/"
 ">Doriți să le actualizați și pe acelea?"
 
-#: updater/UpdaterWidget.cpp:75
+#: updater/UpdaterWidget.cpp:76
 msgid "Mark All"
 msgstr "Marchează tot"
 
-#: updater/UpdaterWidget.cpp:89
+#: updater/UpdaterWidget.cpp:90
 msgid ""
 "<p><b>New software is available for your computer</b></p><p>Click 'Install "
 "Updates' to keep your system up-to-date and safe</p>"
@@ -166,37 +136,61 @@ msgstr ""
 "p><p>Apăsați pe „Instalează actualizări”pentru a vă păstra sistemul "
 "actualizat și în siguranță</p>"
 
-#: updater/UpdaterWidget.cpp:218
+#: updater/UpdaterWidget.cpp:216
 msgctxt "@info"
 msgid "It is unknown when the last check for updates was."
 msgstr "Momentul ultimei verificări pentru actualizări este necunoscut."
 
-#: updater/UpdaterWidget.cpp:219 updater/UpdaterWidget.cpp:237
+#: updater/UpdaterWidget.cpp:217 updater/UpdaterWidget.cpp:235
 msgctxt "@info"
 msgid "Please click <em>Check for Updates</em> to check."
 msgstr "Apăsați pe <em>Caută actualizări</em> pentru a verifica."
 
-#: updater/UpdaterWidget.cpp:226
+#: updater/UpdaterWidget.cpp:224
 msgctxt "@info"
 msgid "The software on this computer is up to date."
 msgstr "Programele de pe acest calculator sînt actuale."
 
-#: updater/UpdaterWidget.cpp:227 updater/UpdaterWidget.cpp:232
+#: updater/UpdaterWidget.cpp:225 updater/UpdaterWidget.cpp:230
 #, kde-format
 msgctxt "@info"
 msgid "Last checked %1 ago."
 msgstr "Verificat ultima dată cu %1 în urmă."
 
-#: updater/UpdaterWidget.cpp:231
+#: updater/UpdaterWidget.cpp:229
 msgctxt "@info"
 msgid "No updates are available."
 msgstr "Nu sînt disponibile actualizări."
 
-#: updater/UpdaterWidget.cpp:236
+#: updater/UpdaterWidget.cpp:234
 msgctxt "@info"
 msgid "The last check for updates was over a week ago."
 msgstr ""
 "Ultima verificare pentru actualizări a fost cu peste o săptămînă în urmă."
+
+#~ msgctxt "@label Column label"
+#~ msgid "Updates"
+#~ msgstr "Actualizări"
+
+#~ msgctxt "@label Column label"
+#~ msgid "Version"
+#~ msgstr "Versiune"
+
+#~ msgctxt "@label Column label"
+#~ msgid "Download Size"
+#~ msgstr "Dimensiune descărcare"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Important Security Updates"
+#~ msgstr "Actualizări importante de securitate"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Application Updates"
+#~ msgstr "Actualizări de programe"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "System Updates"
+#~ msgstr "Actualizări de sistem"
 
 #~ msgctxt "@title:window"
 #~ msgid "Muon Preferences"

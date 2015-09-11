@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-25 09:04+0000\n"
+"POT-Creation-Date: 2015-09-02 08:17+0000\n"
 "PO-Revision-Date: 2014-10-03 11:01+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Lokalize 1.5\n"
 
 #: gmailconfigdialog.cpp:61
-msgid "Folder Archive"
+msgid "Archive Folder"
 msgstr ""
 
 #: gmailconfigdialog.cpp:63

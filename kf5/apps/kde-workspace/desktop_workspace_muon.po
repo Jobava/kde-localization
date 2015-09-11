@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-10 08:57+0000\n"
+"POT-Creation-Date: 2015-09-10 09:34+0000\n"
 "PO-Revision-Date: 2014-04-14 12:06+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -25,22 +25,17 @@ msgctxt "Comment"
 msgid "Intended as Application dashboard default"
 msgstr "Implicit pentru tabloul de bord cu aplicații"
 
-#: discover/muon-discover-category.desktop:2
-msgctxt "Name"
-msgid "Install More..."
-msgstr "Instalează mai multe..."
-
-#: discover/muon-discover.desktop:2
+#: discover/org.kde.discover.desktop:2
 msgctxt "Name"
 msgid "Muon Discover"
 msgstr "Descoperire Muon"
 
-#: discover/muon-discover.desktop:50
+#: discover/org.kde.discover.desktop:50
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr "Centrul de Aplicații"
 
-#: discover/muon-discover.desktop:97
+#: discover/org.kde.discover.desktop:97
 msgctxt "Keywords"
 msgid ""
 "program;software;repository;package;install;remove;update;apps;applications;"
@@ -244,6 +239,10 @@ msgstr "Administratorul de actualizări Muon"
 msgctxt "GenericName"
 msgid "Update Manager"
 msgstr "Administrator de actualizări"
+
+#~ msgctxt "Name"
+#~ msgid "Install More..."
+#~ msgstr "Instalează mai multe..."
 
 #~ msgctxt "Name"
 #~ msgid "Muon Software Center"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_pager\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-11 11:48+0000\n"
+"POT-Creation-Date: 2015-09-08 10:58+0000\n"
 "PO-Revision-Date: 2013-11-23 20:38+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -28,43 +28,39 @@ msgstr ""
 msgid "General"
 msgstr "General"
 
-#: package/contents/ui/configGeneral.qml:84
+#: package/contents/ui/configGeneral.qml:82
 #, fuzzy
 #| msgid "Display Text:"
 msgid "Display:"
 msgstr "Text afișat:"
 
-#: package/contents/ui/configGeneral.qml:90
+#: package/contents/ui/configGeneral.qml:88
 msgid "Desktop number"
 msgstr "Numărul biroului"
 
-#: package/contents/ui/configGeneral.qml:101
+#: package/contents/ui/configGeneral.qml:99
 msgid "Desktop name"
 msgstr "Numele biroului"
 
-#: package/contents/ui/configGeneral.qml:107
+#: package/contents/ui/configGeneral.qml:105
 msgid "No text"
 msgstr "Fără text"
 
-#: package/contents/ui/configGeneral.qml:118
+#: package/contents/ui/configGeneral.qml:116
 msgid "Icons"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:122
+#: package/contents/ui/configGeneral.qml:120
 msgid "Selecting current desktop:"
 msgstr "Alegerea biroului curent:"
 
-#: package/contents/ui/configGeneral.qml:128
+#: package/contents/ui/configGeneral.qml:126
 msgid "Does nothing"
 msgstr "Nu face nimic"
 
-#: package/contents/ui/configGeneral.qml:139
+#: package/contents/ui/configGeneral.qml:137
 msgid "Shows desktop"
 msgstr "Arată biroul"
-
-#: package/contents/ui/configGeneral.qml:145
-msgid "Shows the dashboard"
-msgstr "Arată tabloul de bord"
 
 #: package/contents/ui/main.qml:98
 #, fuzzy
@@ -84,7 +80,7 @@ msgstr "&Elimină ultimul birou virtual"
 msgid "Configure Desktops"
 msgstr "Configurare birouri..."
 
-#: package/contents/ui/main.qml:216
+#: package/contents/ui/main.qml:218
 #, fuzzy, kde-format
 #| msgid "One window:"
 #| msgid_plural "%1 windows:"
@@ -94,7 +90,7 @@ msgstr[0] "O fereastră:"
 msgstr[1] "O fereastră:"
 msgstr[2] "O fereastră:"
 
-#: package/contents/ui/main.qml:229
+#: package/contents/ui/main.qml:231
 #, fuzzy, kde-format
 #| msgid "and 1 other"
 #| msgid_plural "and %1 others"
@@ -103,6 +99,9 @@ msgid_plural "and %1 other windows"
 msgstr[0] "și încă 1"
 msgstr[1] "și încă 1"
 msgstr[2] "și încă 1"
+
+#~ msgid "Shows the dashboard"
+#~ msgstr "Arată tabloul de bord"
 
 #~ msgid "Display icons:"
 #~ msgstr "Afișare pictograme:"

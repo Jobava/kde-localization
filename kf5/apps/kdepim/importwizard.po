@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-12 08:55+0000\n"
+"POT-Creation-Date: 2015-08-27 09:07+0000\n"
 "PO-Revision-Date: 2013-01-13 22:19+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -206,7 +206,7 @@ msgstr "Fișierul cu filtre nu a fost găsit"
 msgid "No program found."
 msgstr "Nu s-a găsit niciun program"
 
-#: importwizard.cpp:66 main.cpp:42 main.cpp:44
+#: importwizard.cpp:66 main.cpp:43 main.cpp:45
 msgid "PIM Import Tool"
 msgstr "Unealtă de import PIM"
 
@@ -284,21 +284,21 @@ msgstr "Import configurări din %1..."
 msgid "Import calendar from %1..."
 msgstr "Import calendar din %1..."
 
-#: main.cpp:46
+#: main.cpp:47
 #, fuzzy
 #| msgid "Copyright © 2012-2013 importwizard authors"
 msgid "Copyright © 2012-2015 importwizard authors"
 msgstr "Drept de autor © 2012-2013, Autorii importwizard"
 
-#: main.cpp:48
+#: main.cpp:49
 msgid "Laurent Montel"
 msgstr "Laurent Montel"
 
-#: main.cpp:48
+#: main.cpp:49
 msgid "Maintainer"
 msgstr "Responsabil"
 
-#: main.cpp:55
+#: main.cpp:56
 msgid "Mode"
 msgstr ""
 

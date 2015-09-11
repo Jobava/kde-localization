@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: knotes\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-12 08:25+0000\n"
+"POT-Creation-Date: 2015-08-30 09:00+0000\n"
 "PO-Revision-Date: 2014-10-03 11:30+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -39,11 +39,11 @@ msgstr "KNotițe: Notițe lipicioase pentru KDE"
 msgid "New Note"
 msgstr "Notiță nouă"
 
-#: apps/knotesapp.cpp:122 kontactplugin/knotes_part.cpp:195
+#: apps/knotesapp.cpp:122 kontactplugin/knotes_part.cpp:194
 msgid "New Note From Clipboard"
 msgstr "Notiță nouă din clipboard"
 
-#: apps/knotesapp.cpp:128 kontactplugin/knotes_part.cpp:200
+#: apps/knotesapp.cpp:128 kontactplugin/knotes_part.cpp:199
 #, fuzzy
 #| msgid "New Note From Clipboard"
 msgid "New Note From Text File..."
@@ -57,7 +57,7 @@ msgstr "Arată toate notițele"
 msgid "Hide All Notes"
 msgstr "Ascunde toate notițele"
 
-#: apps/knotesapp.cpp:144 kontactplugin/knotes_part.cpp:160
+#: apps/knotesapp.cpp:144 kontactplugin/knotes_part.cpp:159
 #, fuzzy
 #| msgid "Print Note"
 #| msgid_plural "Print %1 notes"
@@ -73,144 +73,144 @@ msgctxt "@action:inmenu"
 msgid "Delete Selected Notes..."
 msgstr "Tipărește notița"
 
-#: apps/knotesapp.cpp:394 kontactplugin/knotes_part.cpp:875
+#: apps/knotesapp.cpp:394 kontactplugin/knotes_part.cpp:874
 #, fuzzy
 #| msgid "Select recipient:"
 msgid "Select Text File"
 msgstr "Alegeți destinatarul:"
 
-#: apps/knotesapp.cpp:395 kontactplugin/knotes_part.cpp:876
+#: apps/knotesapp.cpp:395 kontactplugin/knotes_part.cpp:875
 msgid "Text File (*.txt)"
 msgstr ""
 
-#: apps/knotesapp.cpp:401 kontactplugin/knotes_part.cpp:882
+#: apps/knotesapp.cpp:401 kontactplugin/knotes_part.cpp:881
 #, kde-format
 msgid "Error during open text file: %1"
 msgstr ""
 
-#: apps/knotesapp.cpp:401 kontactplugin/knotes_part.cpp:882
+#: apps/knotesapp.cpp:401 kontactplugin/knotes_part.cpp:881
 #, fuzzy
 #| msgid "Text Size"
 msgid "Open Text File"
 msgstr "Dimensiune text"
 
-#: apps/knotesapp.cpp:404 kontactplugin/knotes_part.cpp:885
+#: apps/knotesapp.cpp:404 kontactplugin/knotes_part.cpp:884
 #, kde-format
 msgid "Note from file '%1'"
 msgstr ""
 
-#: apps/knotesapp.cpp:493
+#: apps/knotesapp.cpp:497
 msgid "No Notes"
 msgstr "Nicio notiță"
 
-#: apps/knotesapp.cpp:546 kontactplugin/knotes_part.cpp:635
+#: apps/knotesapp.cpp:550 kontactplugin/knotes_part.cpp:634
 msgid "Settings"
 msgstr "Configurări"
 
 #. i18n: ectx: Menu (knotes_context)
-#: apps/main.cpp:52 data/knotesappui.rc:5 data/knotesappui.rc:6
+#: apps/main.cpp:53 data/knotesappui.rc:5 data/knotesappui.rc:6
 msgid "KNotes"
 msgstr "KNotițe"
 
-#: apps/main.cpp:54
+#: apps/main.cpp:55
 msgid "KDE Notes"
 msgstr "Notițe pentru KDE"
 
-#: apps/main.cpp:56
+#: apps/main.cpp:57
 #, fuzzy
 #| msgid "Copyright © 1997–2010 KNotes authors"
 msgid "Copyright © 1997–2015 KNotes authors"
 msgstr "Drept de autor © 1997–2010, Autorii KNotes"
 
-#: apps/main.cpp:110 kontactplugin/kcmknotessummary.cpp:66
+#: apps/main.cpp:111 kontactplugin/kcmknotessummary.cpp:66
 msgid "Laurent Montel"
 msgstr "Laurent Montel"
 
-#: apps/main.cpp:111
+#: apps/main.cpp:112
 msgid "Maintainer"
 msgstr "Responsabil"
 
-#: apps/main.cpp:113
+#: apps/main.cpp:114
 msgid "Guillermo Antonio Amaral Bastidas"
 msgstr "Guillermo Antonio Amaral Bastidas"
 
-#: apps/main.cpp:114 apps/main.cpp:117
+#: apps/main.cpp:115 apps/main.cpp:118
 msgid "Previous Maintainer"
 msgstr "Fostul responsabil"
 
-#: apps/main.cpp:116
+#: apps/main.cpp:117
 msgid "Michael Brade"
 msgstr "Michael Brade"
 
-#: apps/main.cpp:119
+#: apps/main.cpp:120
 msgid "Bernd Johannes Wuebben"
 msgstr "Bernd Johannes Wuebben"
 
-#: apps/main.cpp:120
+#: apps/main.cpp:121
 msgid "Original KNotes Author"
 msgstr "Autor original KNotes"
 
-#: apps/main.cpp:122
+#: apps/main.cpp:123
 msgid "Wynn Wilkes"
 msgstr "Wynn Wilkes"
 
-#: apps/main.cpp:123
+#: apps/main.cpp:124
 msgid "Ported KNotes to KDE 2"
 msgstr "Portare KNotes la KDE 2"
 
-#: apps/main.cpp:125
+#: apps/main.cpp:126
 msgid "Daniel Martin"
 msgstr "Daniel Martin"
 
-#: apps/main.cpp:126
+#: apps/main.cpp:127
 msgid "Network Interface"
 msgstr "Interfață de rețea"
 
-#: apps/main.cpp:128
+#: apps/main.cpp:129
 msgid "Bo Thorsen"
 msgstr "Bo Thorsen"
 
-#: apps/main.cpp:129
+#: apps/main.cpp:130
 msgid "Started KDE Resource Framework Integration"
 msgstr "A început integrarea platformei de resurse KDE"
 
-#: apps/main.cpp:131
+#: apps/main.cpp:132
 msgid "Bera Debajyoti"
 msgstr "Bera Debajyoti"
 
-#: apps/main.cpp:132
+#: apps/main.cpp:133
 msgid "Idea and initial code for the new look & feel"
 msgstr "Ideea și codul inițial pentru noul aspect"
 
-#: apps/main.cpp:134
+#: apps/main.cpp:135
 msgid "Matthias Ettrich"
 msgstr "Matthias Ettrich"
 
-#: apps/main.cpp:137
+#: apps/main.cpp:138
 msgid "David Faure"
 msgstr "David Faure"
 
-#: apps/main.cpp:140
+#: apps/main.cpp:141
 msgid "Matthias Kiefer"
 msgstr "Matthias Kiefer"
 
-#: apps/main.cpp:143
+#: apps/main.cpp:144
 msgid "Luboš Luňák"
 msgstr "Luboš Luňák"
 
-#: apps/main.cpp:145
+#: apps/main.cpp:146
 msgid "Dirk A. Mueller"
 msgstr "Dirk A. Mueller"
 
-#: apps/main.cpp:148
+#: apps/main.cpp:149
 msgid "Carsten Pfeiffer"
 msgstr "Carsten Pfeiffer"
 
-#: apps/main.cpp:151
+#: apps/main.cpp:152
 msgid "Harri Porten"
 msgstr "Harri Porten"
 
-#: apps/main.cpp:154
+#: apps/main.cpp:155
 msgid "Espen Sand"
 msgstr "Espen Sand"
 
@@ -492,65 +492,65 @@ msgstr ""
 msgid "Copyright © 2013-2015 Laurent Montel <montel@kde.org>"
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:116
+#: kontactplugin/knotes_part.cpp:115
 msgctxt "@action:inmenu create new popup note"
 msgid "&New"
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:124
+#: kontactplugin/knotes_part.cpp:123
 msgctxt "@info:whatsthis"
 msgid "You will be presented with a dialog where you can add a new popup note."
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:127 kontactplugin/knotes_part.cpp:604
-#: kontactplugin/knotes_part.cpp:606 kontactplugin/knotes_part.cpp:791
+#: kontactplugin/knotes_part.cpp:126 kontactplugin/knotes_part.cpp:603
+#: kontactplugin/knotes_part.cpp:605 kontactplugin/knotes_part.cpp:790
 #, fuzzy
 #| msgid "Editor"
 msgctxt "@action:inmenu"
 msgid "Edit..."
 msgstr "Editor"
 
-#: kontactplugin/knotes_part.cpp:134
+#: kontactplugin/knotes_part.cpp:133
 msgctxt "@info:whatsthis"
 msgid ""
 "You will be presented with a dialog where you can modify an existing popup "
 "note."
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:137
+#: kontactplugin/knotes_part.cpp:136
 #, fuzzy
 #| msgid "Rename..."
 msgctxt "@action:inmenu"
 msgid "Rename..."
 msgstr "Redenumire..."
 
-#: kontactplugin/knotes_part.cpp:145
+#: kontactplugin/knotes_part.cpp:144
 msgctxt "@info:whatsthis"
 msgid ""
 "You will be presented with a dialog where you can rename an existing popup "
 "note."
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:148
+#: kontactplugin/knotes_part.cpp:147
 #, fuzzy
 #| msgid "Delete"
 msgctxt "@action:inmenu"
 msgid "Delete"
 msgstr "Șterge"
 
-#: kontactplugin/knotes_part.cpp:156
+#: kontactplugin/knotes_part.cpp:155
 msgctxt "@info:whatsthis"
 msgid ""
 "You will be prompted if you really want to permanently remove the selected "
 "popup note."
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:167
+#: kontactplugin/knotes_part.cpp:166
 msgctxt "@info:whatsthis"
 msgid "You will be prompted to print the selected popup note."
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:169
+#: kontactplugin/knotes_part.cpp:168
 #, fuzzy
 #| msgid "Print Note"
 #| msgid_plural "Print %1 notes"
@@ -558,52 +558,52 @@ msgctxt "@action:inmenu"
 msgid "Print Preview Selected Notes..."
 msgstr "Tipărește notița"
 
-#: kontactplugin/knotes_part.cpp:174
+#: kontactplugin/knotes_part.cpp:173
 #, fuzzy
 #| msgid "Style Settings"
 msgid "Note settings..."
 msgstr "Setări stil"
 
-#: kontactplugin/knotes_part.cpp:178
+#: kontactplugin/knotes_part.cpp:177
 #, fuzzy
 #| msgid "Preferences..."
 msgid "Preferences KNotes..."
 msgstr "Preferințe..."
 
-#: kontactplugin/knotes_part.cpp:182 notes/knote.cpp:717
+#: kontactplugin/knotes_part.cpp:181 notes/knote.cpp:717
 msgid "Mail..."
 msgstr "Poștă..."
 
-#: kontactplugin/knotes_part.cpp:186 notes/knote.cpp:713
+#: kontactplugin/knotes_part.cpp:185 notes/knote.cpp:713
 msgid "Send..."
 msgstr "Trimite..."
 
-#: kontactplugin/knotes_part.cpp:190 notes/knote.cpp:708
+#: kontactplugin/knotes_part.cpp:189 notes/knote.cpp:708
 msgid "Set Alarm..."
 msgstr "Stabilire alarmă..."
 
-#: kontactplugin/knotes_part.cpp:204 notes/knote.cpp:721
+#: kontactplugin/knotes_part.cpp:203 notes/knote.cpp:721
 msgid "Save As..."
 msgstr "Salvare ca..."
 
-#: kontactplugin/knotes_part.cpp:208 notes/knote.cpp:694
+#: kontactplugin/knotes_part.cpp:207 notes/knote.cpp:694
 msgid "Lock"
 msgstr "Blochează"
 
-#: kontactplugin/knotes_part.cpp:211 notes/knote.cpp:697
+#: kontactplugin/knotes_part.cpp:210 notes/knote.cpp:697
 msgid "Unlock"
 msgstr "Deblochează"
 
-#: kontactplugin/knotes_part.cpp:239
+#: kontactplugin/knotes_part.cpp:238
 msgid "Set Focus to Quick Search"
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:321
+#: kontactplugin/knotes_part.cpp:320
 msgctxt "@info"
 msgid "To print notes, first select the notes to print from the list."
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:322
+#: kontactplugin/knotes_part.cpp:321
 #, fuzzy
 #| msgid "Print Note"
 #| msgid_plural "Print %1 notes"
@@ -611,17 +611,17 @@ msgctxt "@title:window"
 msgid "Print Popup Notes"
 msgstr "Tipărește notița"
 
-#: kontactplugin/knotes_part.cpp:366
+#: kontactplugin/knotes_part.cpp:365
 msgid "Note was not created."
 msgstr ""
 
-#: kontactplugin/knotes_part.cpp:366
+#: kontactplugin/knotes_part.cpp:365
 #, fuzzy
 #| msgid "Select recipient:"
 msgid "Create new note"
 msgstr "Alegeți destinatarul:"
 
-#: kontactplugin/knotes_part.cpp:388
+#: kontactplugin/knotes_part.cpp:387
 #: kontactplugin/knotesselectdeletenotesdialog.cpp:73
 #, fuzzy, kde-format
 #| msgid "<qt>Do you really want to delete note <b>%1</b>?</qt>"
@@ -632,7 +632,7 @@ msgstr[0] "<qt>Sigur ștergeți notița <b>%1</b>?</qt>"
 msgstr[1] "<qt>Sigur ștergeți notița <b>%1</b>?</qt>"
 msgstr[2] "<qt>Sigur ștergeți notița <b>%1</b>?</qt>"
 
-#: kontactplugin/knotes_part.cpp:390
+#: kontactplugin/knotes_part.cpp:389
 #: kontactplugin/knotesselectdeletenotesdialog.cpp:59
 #, fuzzy
 #| msgid "Confirm Delete"
@@ -640,35 +640,35 @@ msgctxt "@title:window"
 msgid "Confirm Delete"
 msgstr "Confirmare ștergere"
 
-#: kontactplugin/knotes_part.cpp:581
+#: kontactplugin/knotes_part.cpp:580
 #, fuzzy
 #| msgid "Select recipient:"
 msgctxt "@title:window"
 msgid "Rename Popup Note"
 msgstr "Alegeți destinatarul:"
 
-#: kontactplugin/knotes_part.cpp:582
+#: kontactplugin/knotes_part.cpp:581
 #, fuzzy
 #| msgid "New Note"
 msgctxt "@label:textbox"
 msgid "New Name:"
 msgstr "Notiță nouă"
 
-#: kontactplugin/knotes_part.cpp:604 kontactplugin/knotes_part.cpp:791
+#: kontactplugin/knotes_part.cpp:603 kontactplugin/knotes_part.cpp:790
 #, fuzzy
 #| msgid "Show All Notes"
 msgid "Show Note..."
 msgstr "Arată toate notițele"
 
-#: kontactplugin/knotes_part.cpp:740 notes/knote.cpp:516
+#: kontactplugin/knotes_part.cpp:739 notes/knote.cpp:516
 msgid "Save note as plain text"
 msgstr "Salvează notița ca text simplu"
 
-#: kontactplugin/knotes_part.cpp:744 notes/knote.cpp:521
+#: kontactplugin/knotes_part.cpp:743 notes/knote.cpp:521
 msgid "Save As"
 msgstr "Salvează ca"
 
-#: kontactplugin/knotes_part.cpp:760 notes/knote.cpp:538
+#: kontactplugin/knotes_part.cpp:759 notes/knote.cpp:538
 #, kde-format
 msgid ""
 "<qt>A file named <b>%1</b> already exists.<br />Are you sure you want to "
@@ -916,7 +916,7 @@ msgstr "Alarmă"
 msgid "Note is locked"
 msgstr ""
 
-#: print/knoteprinter.cpp:135
+#: print/knoteprinter.cpp:134
 #, kde-format
 msgid "Print Note"
 msgid_plural "Print %1 notes"
@@ -924,11 +924,11 @@ msgstr[0] "Tipărește notița"
 msgstr[1] "Tipărește %1 notițe"
 msgstr[2] "Tipărește %1 de notițe"
 
-#: print/knoteprinter.cpp:143
+#: print/knoteprinter.cpp:142
 msgid "Printing theme was not found."
 msgstr ""
 
-#: print/knoteprinter.cpp:143
+#: print/knoteprinter.cpp:142
 msgid "Printing error"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akregator\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-17 08:33+0000\n"
+"POT-Creation-Date: 2015-08-30 08:59+0000\n"
 "PO-Revision-Date: 2012-12-11 09:10+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -702,165 +702,6 @@ msgstr ""
 msgid "Metakit"
 msgstr "Metakit"
 
-#: plugins/onlinesync/akregator_config_onlinesync.cpp:45
-msgid "kcmakronlinesyncconfig"
-msgstr "kcmakronlinesyncconfig"
-
-#: plugins/onlinesync/akregator_config_onlinesync.cpp:46
-msgid "Configure Online Readers"
-msgstr "Configurează cititorii online"
-
-#: plugins/onlinesync/akregator_config_onlinesync.cpp:48
-msgid "(c), 2008 Didier Hoarau"
-msgstr "(c), 2008 Didier Hoarau"
-
-#: plugins/onlinesync/akregator_config_onlinesync.cpp:50
-msgid "Didier Hoarau"
-msgstr "Didier Hoarau"
-
-#. i18n: ectx: Menu (file)
-#: plugins/onlinesync/akregator_onlinesync_plugin.rc:4
-#: src/akregator_shell.rc:4
-msgid "&File"
-msgstr "&Fișier"
-
-#: plugins/onlinesync/onlinesyncplugin.cpp:59
-msgid "Synchronize Feeds"
-msgstr "Sincronizează fluxurile"
-
-#: plugins/onlinesync/onlinesyncplugin.cpp:95
-#, kde-format
-msgid "Get from %1"
-msgstr "Obține de la %1"
-
-#: plugins/onlinesync/onlinesyncplugin.cpp:104
-#, kde-format
-msgid "Send to %1"
-msgstr "Trimite la %1"
-
-#: plugins/onlinesync/onlinesyncplugin.cpp:113
-msgid "Manage..."
-msgstr "Gestionare..."
-
-#. i18n: ectx: label, entry, group (Foo)
-#: plugins/onlinesync/onlinesyncsettings.kcfg:9
-msgid "Bar Settings"
-msgstr ""
-
-#. i18n: ectx: whatsthis, entry, group (Foo)
-#: plugins/onlinesync/onlinesyncsettings.kcfg:10
-msgid "Bar!"
-msgstr ""
-
-#: plugins/onlinesync/sync/feedsync.cpp:161
-msgid ""
-"Some categories and feeds have been marked for removal. Do you want to "
-"delete them?"
-msgstr ""
-
-#: plugins/onlinesync/sync/feedsync.cpp:163
-msgid "Remove nothing"
-msgstr "Nu elimina nimic"
-
-#: plugins/onlinesync/sync/feedsync.cpp:164
-msgid "Remove only categories"
-msgstr "Elimină numai categoriile"
-
-#: plugins/onlinesync/sync/feedsync.cpp:165
-msgid "Remove feeds"
-msgstr "Elimină fluxurile"
-
-#: plugins/onlinesync/sync/feedsync.cpp:221
-msgid "An error occurred, synchronization aborted."
-msgstr "A intervenit o eroare, sincronizare abandonată."
-
-#: plugins/onlinesync/sync/googlereader.cpp:275
-msgid "Authentication failed, synchronization aborted."
-msgstr "Autentificare eșuată, sincronizare abandonată."
-
-#: plugins/onlinesync/ui/configurationdialog.cpp:37
-msgid "Online Reader Configuration"
-msgstr ""
-
-#: plugins/onlinesync/ui/configurationdialogadd.cpp:40
-msgid "Modify Online Reader Account"
-msgstr ""
-
-#: plugins/onlinesync/ui/configurationdialogadd.cpp:41
-msgid "Google Reader"
-msgstr "Cititor Google"
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: plugins/onlinesync/ui/configurationdialogadd.ui:27
-msgid "Type:"
-msgstr "Tip:"
-
-#. i18n: ectx: property (text), widget (QLabel, lAccountGoogleReader)
-#: plugins/onlinesync/ui/configurationdialogadd.ui:52
-msgid "Login:"
-msgstr "Utilizator:"
-
-#. i18n: ectx: property (text), widget (QLabel, lPasswordGoogleReader)
-#: plugins/onlinesync/ui/configurationdialogadd.ui:69
-msgid "Password:"
-msgstr "Parolă:"
-
-#. i18n: ectx: property (text), widget (QLabel, label_3)
-#: plugins/onlinesync/ui/configurationdialogadd.ui:87
-msgid "File:"
-msgstr "Fișier:"
-
-#: plugins/onlinesync/ui/configurationwidget.cpp:42
-msgid "Nothing"
-msgstr "Nimic"
-
-#: plugins/onlinesync/ui/configurationwidget.cpp:43
-msgid "Categories"
-msgstr "Categorii"
-
-#: plugins/onlinesync/ui/configurationwidget.cpp:44 src/akregator_part.cpp:100
-msgid "Feeds"
-msgstr "Fluxuri"
-
-#: plugins/onlinesync/ui/configurationwidget.cpp:45
-msgid "Ask"
-msgstr "Întreabă"
-
-#. i18n: ectx: property (text), widget (QLabel, lConfigName)
-#: plugins/onlinesync/ui/configurationwidget.ui:18
-msgid "Online reader accounts:"
-msgstr "Conturi în cititoare on-line:"
-
-#. i18n: ectx: property (text), widget (QTreeWidget, list_readerList)
-#: plugins/onlinesync/ui/configurationwidget.ui:36
-msgid "Type"
-msgstr "Tip"
-
-#. i18n: ectx: property (text), widget (QTreeWidget, list_readerList)
-#: plugins/onlinesync/ui/configurationwidget.ui:41
-msgid "Description"
-msgstr "Descriere"
-
-#. i18n: ectx: property (text), widget (QPushButton, b_add)
-#: plugins/onlinesync/ui/configurationwidget.ui:51
-msgid "Add..."
-msgstr "Adăugare..."
-
-#. i18n: ectx: property (text), widget (QPushButton, b_update)
-#: plugins/onlinesync/ui/configurationwidget.ui:58
-msgid "Modify..."
-msgstr "Modificare..."
-
-#. i18n: ectx: property (text), widget (QPushButton, b_remove)
-#: plugins/onlinesync/ui/configurationwidget.ui:65
-msgid "Remove"
-msgstr "Elimină"
-
-#. i18n: ectx: property (text), widget (QLabel, lDeletePolicy)
-#: plugins/onlinesync/ui/configurationwidget.ui:94
-msgid "Delete feeds:"
-msgstr "Șterge fluxuri:"
-
 #: src/aboutdata.cpp:36 src/articleviewer.cpp:666 src/trayicon.cpp:56
 #: src/trayicon.cpp:57 src/trayicon.cpp:68
 msgid "Akregator"
@@ -1298,128 +1139,132 @@ msgstr "La adăugarea fluxurilor, plasează-le în acest grup"
 msgid "Hide main window on startup"
 msgstr "Ascunde fereastra principală la pornire"
 
-#: src/akregator_part.cpp:127
+#: src/akregator_part.cpp:102
+msgid "Feeds"
+msgstr "Fluxuri"
+
+#: src/akregator_part.cpp:129
 msgid "KDE Dot News"
 msgstr "Știrile KDE"
 
-#: src/akregator_part.cpp:132
+#: src/akregator_part.cpp:134
 msgid "Linux.com"
 msgstr "Linux.com"
 
-#: src/akregator_part.cpp:137
+#: src/akregator_part.cpp:139
 msgid "Planet KDE"
 msgstr "Planeta KDE"
 
-#: src/akregator_part.cpp:142
+#: src/akregator_part.cpp:144
 msgid "Planet KDE PIM"
 msgstr "Planeta KDE PIM"
 
-#: src/akregator_part.cpp:147
+#: src/akregator_part.cpp:149
 msgid "KDE Apps"
 msgstr "Aplicații KDE"
 
-#: src/akregator_part.cpp:152
+#: src/akregator_part.cpp:154
 msgid "KDE Look"
 msgstr "Aspect KDE"
 
-#: src/akregator_part.cpp:158
+#: src/akregator_part.cpp:160
 msgid "Hungarian feeds"
 msgstr "Fluxuri maghiare"
 
-#: src/akregator_part.cpp:162
+#: src/akregator_part.cpp:164
 msgid "KDE.HU"
 msgstr "KDE.HU"
 
-#: src/akregator_part.cpp:168
+#: src/akregator_part.cpp:170
 msgid "Spanish feeds"
 msgstr "Fluxuri spaniole"
 
-#: src/akregator_part.cpp:172
+#: src/akregator_part.cpp:174
 msgid "Planet KDE España"
 msgstr "Planeta KDE España"
 
-#: src/akregator_part.cpp:244
+#: src/akregator_part.cpp:246
 #, kde-format
 msgid "Unable to load storage backend plugin \"%1\". No feeds are archived."
 msgstr ""
 
-#: src/akregator_part.cpp:244
+#: src/akregator_part.cpp:246
 msgid "Plugin error"
 msgstr "Eroare modul"
 
-#: src/akregator_part.cpp:516
+#: src/akregator_part.cpp:518
 #, kde-format
 msgid ""
 "Access denied: Cannot save feed list to <b>%1</b>. Please check your "
 "permissions."
 msgstr ""
 
-#: src/akregator_part.cpp:517 src/akregator_part.cpp:575
+#: src/akregator_part.cpp:519 src/akregator_part.cpp:577
 msgid "Write Error"
 msgstr "Eroare de scriere"
 
-#: src/akregator_part.cpp:549 src/loadfeedlistcommand.cpp:81
+#: src/akregator_part.cpp:551 src/loadfeedlistcommand.cpp:81
 msgid "OPML Parsing Error"
 msgstr "Eroare de parcurgere OPML"
 
-#: src/akregator_part.cpp:549
+#: src/akregator_part.cpp:551
 #, kde-format
 msgid "Could not import the file %1 (no valid OPML)"
 msgstr ""
 
-#: src/akregator_part.cpp:552 src/loadfeedlistcommand.cpp:160
+#: src/akregator_part.cpp:554 src/loadfeedlistcommand.cpp:160
 msgid "Read Error"
 msgstr "Eroare de citire"
 
-#: src/akregator_part.cpp:552
+#: src/akregator_part.cpp:554
 #, kde-format
 msgid ""
 "The file %1 could not be read, check if it exists or if it is readable for "
 "the current user."
 msgstr ""
 
-#: src/akregator_part.cpp:567
+#: src/akregator_part.cpp:569
 #, kde-format
 msgid "The file %1 already exists; do you want to overwrite it?"
 msgstr "Fișierul %1 există deja; îl suprascrieți?"
 
-#: src/akregator_part.cpp:568
+#: src/akregator_part.cpp:570
 msgid "Export"
 msgstr "Exportă"
 
-#: src/akregator_part.cpp:575
+#: src/akregator_part.cpp:577
 #, kde-format
 msgid "Access denied: cannot write to file %1. Please check your permissions."
 msgstr ""
 
-#: src/akregator_part.cpp:597 src/akregator_part.cpp:606
+#: src/akregator_part.cpp:592 src/akregator_part.cpp:601
 msgid "OPML Outlines (*.opml, *.xml);;All Files (*)"
 msgstr ""
 
-#: src/akregator_part.cpp:762
+#: src/akregator_part.cpp:757
 msgid "Imported Folder"
 msgstr "Dosar importat"
 
-#: src/akregator_part.cpp:815
+#: src/akregator_part.cpp:810
 msgid ""
 "Akregator did not close correctly. Would you like to restore the previous "
 "session?"
 msgstr ""
 "Akregator nu s-a închis corect. Doriți să restabiliți sesiunea precedentă?"
 
-#: src/akregator_part.cpp:816
+#: src/akregator_part.cpp:811
 msgid "Restore Session?"
 msgstr "Restabiliți sesiunea?"
 
-#: src/akregator_part.cpp:817
+#: src/akregator_part.cpp:812
 msgid "Restore Session"
 msgstr "Restabilesc sesiunea"
 
-#: src/akregator_part.cpp:818
+#: src/akregator_part.cpp:813
 msgid "Do Not Restore"
 msgstr "Nu restabilesc"
 
-#: src/akregator_part.cpp:819
+#: src/akregator_part.cpp:814
 msgid "Ask Me Later"
 msgstr "Întreabă-mă mai tîrziu"
 
@@ -1467,6 +1312,11 @@ msgstr "Bara navigatorului"
 #: src/akregator_part.rc:103 src/akregator_shell.rc:54
 msgid "Speech Toolbar"
 msgstr "Bara de vorbire"
+
+#. i18n: ectx: Menu (file)
+#: src/akregator_shell.rc:4
+msgid "&File"
+msgstr "&Fișier"
 
 #: src/akregatortexttospeech.cpp:57
 msgid "Next Article: "
@@ -2138,6 +1988,90 @@ msgid_plural "%1 unread articles"
 msgstr[0] "1 articol necitit"
 msgstr[1] "%1 articole necitite"
 msgstr[2] "%1 de articole necitite"
+
+#~ msgid "kcmakronlinesyncconfig"
+#~ msgstr "kcmakronlinesyncconfig"
+
+#~ msgid "Configure Online Readers"
+#~ msgstr "Configurează cititorii online"
+
+#~ msgid "(c), 2008 Didier Hoarau"
+#~ msgstr "(c), 2008 Didier Hoarau"
+
+#~ msgid "Didier Hoarau"
+#~ msgstr "Didier Hoarau"
+
+#~ msgid "Synchronize Feeds"
+#~ msgstr "Sincronizează fluxurile"
+
+#~ msgid "Get from %1"
+#~ msgstr "Obține de la %1"
+
+#~ msgid "Send to %1"
+#~ msgstr "Trimite la %1"
+
+#~ msgid "Manage..."
+#~ msgstr "Gestionare..."
+
+#~ msgid "Remove nothing"
+#~ msgstr "Nu elimina nimic"
+
+#~ msgid "Remove only categories"
+#~ msgstr "Elimină numai categoriile"
+
+#~ msgid "Remove feeds"
+#~ msgstr "Elimină fluxurile"
+
+#~ msgid "An error occurred, synchronization aborted."
+#~ msgstr "A intervenit o eroare, sincronizare abandonată."
+
+#~ msgid "Authentication failed, synchronization aborted."
+#~ msgstr "Autentificare eșuată, sincronizare abandonată."
+
+#~ msgid "Google Reader"
+#~ msgstr "Cititor Google"
+
+#~ msgid "Type:"
+#~ msgstr "Tip:"
+
+#~ msgid "Login:"
+#~ msgstr "Utilizator:"
+
+#~ msgid "Password:"
+#~ msgstr "Parolă:"
+
+#~ msgid "File:"
+#~ msgstr "Fișier:"
+
+#~ msgid "Nothing"
+#~ msgstr "Nimic"
+
+#~ msgid "Categories"
+#~ msgstr "Categorii"
+
+#~ msgid "Ask"
+#~ msgstr "Întreabă"
+
+#~ msgid "Online reader accounts:"
+#~ msgstr "Conturi în cititoare on-line:"
+
+#~ msgid "Type"
+#~ msgstr "Tip"
+
+#~ msgid "Description"
+#~ msgstr "Descriere"
+
+#~ msgid "Add..."
+#~ msgstr "Adăugare..."
+
+#~ msgid "Modify..."
+#~ msgstr "Modificare..."
+
+#~ msgid "Remove"
+#~ msgstr "Elimină"
+
+#~ msgid "Delete feeds:"
+#~ msgstr "Șterge fluxuri:"
 
 #~ msgid "&Speak Selected Articles"
 #~ msgstr "&Vorbește articolele alese"

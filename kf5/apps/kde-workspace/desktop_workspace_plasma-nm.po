@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-26 18:45+0000\n"
+"POT-Creation-Date: 2015-08-28 08:57+0000\n"
 "PO-Revision-Date: 2013-10-13 12:58+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -23,7 +23,7 @@ msgctxt "Name"
 msgid "Networks"
 msgstr "Rețea"
 
-#: applet/metadata.desktop:42
+#: applet/metadata.desktop:43
 msgctxt "Comment"
 msgid "Network status and control"
 msgstr "Starea și controlul rețelei"
@@ -36,12 +36,12 @@ msgctxt "Name"
 msgid "kde5-nm-connection-editor"
 msgstr "kde-nm-connection-editor"
 
-#: editor/kde5-nm-connection-editor.desktop:40
+#: editor/kde5-nm-connection-editor.desktop:41
 msgctxt "GenericName"
 msgid "Connection editor"
 msgstr "Redactor de conexiuni"
 
-#: editor/kde5-nm-connection-editor.desktop:83
+#: editor/kde5-nm-connection-editor.desktop:84
 msgctxt "Comment"
 msgid "Edit your network connections"
 msgstr "Redactați-vă conexiunile de rețea"
@@ -64,7 +64,7 @@ msgctxt "Name"
 msgid "Network management"
 msgstr "Gestiunea rețelei"
 
-#: kded/networkmanagement.notifyrc:42
+#: kded/networkmanagement.notifyrc:43
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Network Management"
@@ -72,7 +72,7 @@ msgctxt "Comment"
 msgid "Network management"
 msgstr "Gestiunea rețelei"
 
-#: kded/networkmanagement.notifyrc:83
+#: kded/networkmanagement.notifyrc:85
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Connection editor"
@@ -80,7 +80,7 @@ msgctxt "Name"
 msgid "Connection activated"
 msgstr "Redactor de conexiuni"
 
-#: kded/networkmanagement.notifyrc:126
+#: kded/networkmanagement.notifyrc:129
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Connection editor"
@@ -88,7 +88,7 @@ msgctxt "Name"
 msgid "Connection deactivated"
 msgstr "Redactor de conexiuni"
 
-#: kded/networkmanagement.notifyrc:168
+#: kded/networkmanagement.notifyrc:172
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Connection editor"
@@ -96,7 +96,7 @@ msgctxt "Name"
 msgid "Connection added"
 msgstr "Redactor de conexiuni"
 
-#: kded/networkmanagement.notifyrc:210
+#: kded/networkmanagement.notifyrc:215
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Connection editor"
@@ -104,7 +104,7 @@ msgctxt "Name"
 msgid "Connection removed"
 msgstr "Redactor de conexiuni"
 
-#: kded/networkmanagement.notifyrc:252
+#: kded/networkmanagement.notifyrc:258
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Connection editor"
@@ -112,7 +112,7 @@ msgctxt "Name"
 msgid "Connection updated"
 msgstr "Redactor de conexiuni"
 
-#: kded/networkmanagement.notifyrc:294
+#: kded/networkmanagement.notifyrc:301
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device failed to activate"
@@ -120,7 +120,7 @@ msgctxt "Name"
 msgid "Device failed"
 msgstr "Activarea dispozitivului a eșuat"
 
-#: kded/networkmanagement.notifyrc:337
+#: kded/networkmanagement.notifyrc:345
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device failed to activate"
@@ -128,12 +128,12 @@ msgctxt "Name"
 msgid "Failed to activate connection"
 msgstr "Activarea dispozitivului a eșuat"
 
-#: kded/networkmanagement.notifyrc:379
+#: kded/networkmanagement.notifyrc:388
 msgctxt "Name"
 msgid "Failed to add connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:421
+#: kded/networkmanagement.notifyrc:431
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device failed to activate"
@@ -141,7 +141,7 @@ msgctxt "Name"
 msgid "Failed to deactivate connection"
 msgstr "Activarea dispozitivului a eșuat"
 
-#: kded/networkmanagement.notifyrc:462
+#: kded/networkmanagement.notifyrc:473
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device failed to activate"
@@ -149,12 +149,12 @@ msgctxt "Name"
 msgid "Failed to remove connection"
 msgstr "Activarea dispozitivului a eșuat"
 
-#: kded/networkmanagement.notifyrc:503
+#: kded/networkmanagement.notifyrc:515
 msgctxt "Name"
 msgid "Failed to request scan"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:544
+#: kded/networkmanagement.notifyrc:557
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device failed to activate"
@@ -162,7 +162,7 @@ msgctxt "Name"
 msgid "Failed to get secrets"
 msgstr "Activarea dispozitivului a eșuat"
 
-#: kded/networkmanagement.notifyrc:583
+#: kded/networkmanagement.notifyrc:597
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device failed to activate"
@@ -170,7 +170,7 @@ msgctxt "Name"
 msgid "Failed to update connection"
 msgstr "Activarea dispozitivului a eșuat"
 
-#: kded/networkmanagement.notifyrc:624
+#: kded/networkmanagement.notifyrc:639
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "OpenVPN plugin"
@@ -243,7 +243,7 @@ msgctxt "Name"
 msgid "SSH"
 msgstr ""
 
-#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:45
+#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:48
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PPTP Plugin"
@@ -256,7 +256,7 @@ msgctxt "Name"
 msgid "SSTP"
 msgstr ""
 
-#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:44
+#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:47
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PPTP Plugin"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-31 08:25+0000\n"
+"POT-Creation-Date: 2015-08-30 08:59+0000\n"
 "PO-Revision-Date: 2013-02-04 18:08+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -100,29 +100,29 @@ msgstr ""
 msgid "Lookup configuration: Mozilla database"
 msgstr ""
 
-#: ispdb/main.cpp:72
+#: ispdb/main.cpp:73
 #, fuzzy
 #| msgid "Loading Assistant"
 msgid "ISPDB Assistant"
 msgstr "Se încarcă asistentul"
 
-#: ispdb/main.cpp:74 main.cpp:43
+#: ispdb/main.cpp:75 main.cpp:44
 msgid "Helps setting up PIM accounts"
 msgstr ""
 
-#: ispdb/main.cpp:76
+#: ispdb/main.cpp:77
 msgid "(c) 2010 Omat Holding B.V."
 msgstr ""
 
-#: ispdb/main.cpp:78 main.cpp:47
+#: ispdb/main.cpp:79 main.cpp:48
 msgid "Author"
 msgstr "Autor"
 
-#: ispdb/main.cpp:78
+#: ispdb/main.cpp:79
 msgid "Tom Albers"
 msgstr ""
 
-#: ispdb/main.cpp:86
+#: ispdb/main.cpp:87
 msgid "Tries to fetch the settings for that email address"
 msgstr ""
 
@@ -175,33 +175,33 @@ msgstr "Se încarcă scriptul „%1”..."
 msgid "Failed to load script: '%1'."
 msgstr ""
 
-#: main.cpp:41
+#: main.cpp:42
 msgid "Account Assistant"
 msgstr "Asistentul de conturi"
 
-#: main.cpp:45
+#: main.cpp:46
 #, fuzzy
 #| msgid "(c) 2009 the Akonadi developers"
 msgid "(c) 2009-2015 the Akonadi developers"
 msgstr "(c) 2009 Dezvoltatorii Akonadi"
 
-#: main.cpp:47
+#: main.cpp:48
 msgid "Volker Krause"
 msgstr "Volker Krause"
 
-#: main.cpp:48
+#: main.cpp:49
 msgid "Laurent Montel"
 msgstr "Laurent Montel"
 
-#: main.cpp:56
+#: main.cpp:57
 msgid "Only offer accounts that support the given type."
 msgstr ""
 
-#: main.cpp:57
+#: main.cpp:58
 msgid "Run the specified assistant."
 msgstr "Rulează asistentul specificat."
 
-#: main.cpp:58
+#: main.cpp:59
 msgid "unpack fullpath on startup and launch that assistant"
 msgstr ""
 

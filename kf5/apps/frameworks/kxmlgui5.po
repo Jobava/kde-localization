@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-01 08:57+0000\n"
+"POT-Creation-Date: 2015-08-25 10:49+0000\n"
 "PO-Revision-Date: 2014-03-26 19:20+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1170,19 +1170,19 @@ msgstr ""
 msgid "Application Language Changed"
 msgstr "Limba aplicației a fost modificată"
 
-#: kswitchlanguagedialog_p.cpp:365
+#: kswitchlanguagedialog_p.cpp:396
 msgid "Primary language:"
 msgstr "Limba principală:"
 
-#: kswitchlanguagedialog_p.cpp:365
+#: kswitchlanguagedialog_p.cpp:396
 msgid "Fallback language:"
 msgstr "Limba de rezervă:"
 
-#: kswitchlanguagedialog_p.cpp:384
+#: kswitchlanguagedialog_p.cpp:415
 msgid "Remove"
 msgstr "Elimină"
 
-#: kswitchlanguagedialog_p.cpp:395
+#: kswitchlanguagedialog_p.cpp:426
 msgid ""
 "This is the main application language which will be used first, before any "
 "other languages."
@@ -1190,7 +1190,7 @@ msgstr ""
 "Aceasta este limba principală a aplicațiilor, care se va folosi înaintea "
 "oricărei alte limbi."
 
-#: kswitchlanguagedialog_p.cpp:396
+#: kswitchlanguagedialog_p.cpp:427
 msgid ""
 "This is the language which will be used if any previous languages do not "
 "contain a proper translation."

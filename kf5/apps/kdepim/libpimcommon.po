@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-17 08:34+0000\n"
+"POT-Creation-Date: 2015-09-09 08:20+0000\n"
 "PO-Revision-Date: 2013-09-15 12:14+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -18,11 +18,11 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: acl/aclentrydialog.cpp:102
+#: acl/aclentrydialog.cpp:103
 msgid "&User identifier:"
 msgstr ""
 
-#: acl/aclentrydialog.cpp:110
+#: acl/aclentrydialog.cpp:111
 msgctxt "@info:whatsthis"
 msgid ""
 "The User Identifier is the login of the user on the IMAP server. This can be "
@@ -30,16 +30,16 @@ msgid ""
 "own account on the server will tell you which one it is."
 msgstr ""
 
-#: acl/aclentrydialog.cpp:114
+#: acl/aclentrydialog.cpp:115
 msgctxt "select an email address"
 msgid "Se&lect..."
 msgstr ""
 
-#: acl/aclentrydialog.cpp:117
+#: acl/aclentrydialog.cpp:118
 msgid "Permissions"
 msgstr "Permisiuni"
 
-#: acl/aclentrydialog.cpp:136
+#: acl/aclentrydialog.cpp:137
 msgid "<b>Note: </b>Renaming requires write permissions on the parent folder."
 msgstr ""
 
@@ -119,7 +119,7 @@ msgstr "Toate"
 msgid "Custom Permissions (%1)"
 msgstr "Permisiuni personalizate (%1)"
 
-#: acl/collectionaclpage.cpp:46
+#: acl/collectionaclpage.cpp:58
 msgid "Access Control"
 msgstr "Control acces"
 
@@ -395,15 +395,32 @@ msgstr "Exportă..."
 msgid "Import..."
 msgstr "Importă..."
 
-#: baloodebug/baloodebugdialog.cpp:90
+#: baloodebug/baloodebugdialog.cpp:104
 msgid "Text Files (*.txt);;All Files (*)"
 msgstr ""
 
-#: folderdialog/checkedcollectionwidget.cpp:72
+#: customtools/shorturlplugin/shorturlplugin.cpp:51
+#: customtools/translatorplugin/translatorplugin.cpp:51
+#, fuzzy
+#| msgid "Translate"
+msgid "Translator"
+msgstr "Tradu"
+
+#: customtools/shorturlplugin/shorturlview.cpp:55
+msgid "Generate Shortened URL"
+msgstr ""
+
+#: customtools/translatorplugin/translatorview.cpp:69
+#, fuzzy
+#| msgid "Translate"
+msgid "&Translator"
+msgstr "Tradu"
+
+#: folderdialog/checkedcollectionwidget.cpp:92
 msgid "Search..."
 msgstr ""
 
-#: folderdialog/selectmulticollectiondialog.cpp:49
+#: folderdialog/selectmulticollectiondialog.cpp:64
 msgid "Select Multiple Folders"
 msgstr ""
 
@@ -432,57 +449,57 @@ msgstr ""
 msgid "No Gravatar found."
 msgstr ""
 
-#: manageserversidesubscription/manageserversidesubscriptionjob.cpp:71
+#: manageserversidesubscription/manageserversidesubscriptionjob.cpp:84
 msgid ""
 "IMAP server not configured yet. Please configure the server in the IMAP "
 "account before setting up server-side subscription."
 msgstr ""
 
-#: manageserversidesubscription/manageserversidesubscriptionjob.cpp:73
+#: manageserversidesubscription/manageserversidesubscriptionjob.cpp:86
 msgid ""
 "Log in failed, please configure the IMAP account before setting up server-"
 "side subscription."
 msgstr ""
 
-#: shareserviceurl/shareserviceurlmanager.cpp:82
+#: shareserviceurl/shareserviceurlmanager.cpp:94
 msgid "Facebook"
 msgstr ""
 
-#: shareserviceurl/shareserviceurlmanager.cpp:85
+#: shareserviceurl/shareserviceurlmanager.cpp:97
 msgid "Twitter"
 msgstr ""
 
-#: shareserviceurl/shareserviceurlmanager.cpp:88
+#: shareserviceurl/shareserviceurlmanager.cpp:100
 msgid "Google Plus"
 msgstr ""
 
-#: shareserviceurl/shareserviceurlmanager.cpp:91
+#: shareserviceurl/shareserviceurlmanager.cpp:103
 msgid "Mail"
 msgstr ""
 
-#: shareserviceurl/shareserviceurlmanager.cpp:94
+#: shareserviceurl/shareserviceurlmanager.cpp:106
 msgid "LinkedIn"
 msgstr ""
 
-#: shareserviceurl/shareserviceurlmanager.cpp:97
+#: shareserviceurl/shareserviceurlmanager.cpp:109
 msgid "Evernote"
 msgstr ""
 
-#: shareserviceurl/shareserviceurlmanager.cpp:100
+#: shareserviceurl/shareserviceurlmanager.cpp:112
 msgid "Pocket"
 msgstr ""
 
-#: shareserviceurl/shareserviceurlmanager.cpp:103
+#: shareserviceurl/shareserviceurlmanager.cpp:115
 msgid "LiveJournal"
 msgstr ""
 
-#: shareserviceurl/shareserviceurlmanager.cpp:113
+#: shareserviceurl/shareserviceurlmanager.cpp:125
 #, fuzzy
 #| msgid "Name:"
 msgid "Share On..."
 msgstr "Denumire:"
 
-#: shareserviceurl/shareserviceurlmanager.cpp:116
+#: shareserviceurl/shareserviceurlmanager.cpp:128
 #, kde-format
 msgctxt "@action:inmenu Share On..."
 msgid "%1"
@@ -499,7 +516,7 @@ msgstr ""
 msgid "Configure engine"
 msgstr ""
 
-#: shorturl/shorturlconfigurewidget.cpp:35
+#: shorturl/shorturlconfigurewidget.cpp:49
 msgid "Select Short URL server:"
 msgstr ""
 
@@ -527,25 +544,25 @@ msgstr ""
 msgid "IsGd"
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:57 shorturl/shorturlwidget.cpp:59
+#: shorturl/shorturlwidget.cpp:58 shorturl/shorturlwidget.cpp:60
 #: texteditor/commonwidget/texteditfindbarbase.cpp:49
 #: texteditor/commonwidget/texteditfindbarbase.cpp:52
-#: texteditor/commonwidget/textgotolinewidget.cpp:41
-#: texteditor/commonwidget/textgotolinewidget.cpp:44
-#: texttospeech/texttospeechwidget.cpp:45 translator/translatorwidget.cpp:229
-#: translator/translatorwidget.cpp:232
+#: texteditor/commonwidget/textgotolinewidget.cpp:56
+#: texteditor/commonwidget/textgotolinewidget.cpp:59
+#: texttospeech/texttospeechwidget.cpp:70 translator/translatorwidget.cpp:228
+#: translator/translatorwidget.cpp:231
 msgid "Close"
 msgstr "Închide"
 
-#: shorturl/shorturlwidget.cpp:66
+#: shorturl/shorturlwidget.cpp:67
 msgid "In progress to generate short url..."
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:69 texttospeech/texttospeechwidget.cpp:72
+#: shorturl/shorturlwidget.cpp:70 texttospeech/texttospeechwidget.cpp:97
 msgid "Configure..."
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:76
+#: shorturl/shorturlwidget.cpp:77
 #, fuzzy
 #| msgctxt ""
 #| "Invert language choices so that from becomes to and to becomes from"
@@ -553,41 +570,37 @@ msgstr ""
 msgid "Convert"
 msgstr "Inversează"
 
-#: shorturl/shorturlwidget.cpp:80
-msgid "Insert Short Url"
+#: shorturl/shorturlwidget.cpp:81
+msgid "Insert Short URL"
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:84
+#: shorturl/shorturlwidget.cpp:85
 msgid "Original url:"
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:94
+#: shorturl/shorturlwidget.cpp:95
 msgid "Copy to clipboard"
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:98
+#: shorturl/shorturlwidget.cpp:99
 msgid "Short url:"
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:106
-msgid "Open Short Url"
+#: shorturl/shorturlwidget.cpp:107
+msgid "Open Short URL"
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:160
+#: shorturl/shorturlwidget.cpp:161
 msgid "No network connection detected, we cannot shorten url."
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:160 translator/translatorwidget.cpp:374
+#: shorturl/shorturlwidget.cpp:161 translator/translatorwidget.cpp:363
 msgid "No network"
 msgstr ""
 
-#: shorturl/shorturlwidget.cpp:200
+#: shorturl/shorturlwidget.cpp:201
 #, kde-format
 msgid "An error occurs: \"%1\""
-msgstr ""
-
-#: shorturl/shorturlwidget.cpp:225
-msgid "Generate Shorten Url"
 msgstr ""
 
 #: storageservice/authdialog/logindialog.cpp:35
@@ -927,17 +940,17 @@ msgid "Unable to get account information."
 msgstr ""
 
 #: storageservice/settings/storageservicesettingswidget.cpp:140
-#: storageservice/settings/storageservicesettingswidget.cpp:369
+#: storageservice/settings/storageservicesettingswidget.cpp:370
 msgid "Account size:"
 msgstr ""
 
 #: storageservice/settings/storageservicesettingswidget.cpp:141
-#: storageservice/settings/storageservicesettingswidget.cpp:374
+#: storageservice/settings/storageservicesettingswidget.cpp:375
 msgid "Quota:"
 msgstr ""
 
 #: storageservice/settings/storageservicesettingswidget.cpp:142
-#: storageservice/settings/storageservicesettingswidget.cpp:379
+#: storageservice/settings/storageservicesettingswidget.cpp:380
 #, fuzzy
 #| msgid "Name:"
 msgid "Shared:"
@@ -955,73 +968,73 @@ msgstr "Doriți să ștergeți șablonul ales?"
 msgid "Delete Service"
 msgstr "Șterge șablonul"
 
-#: storageservice/settings/storageservicesettingswidget.cpp:315
+#: storageservice/settings/storageservicesettingswidget.cpp:316
 msgid "Authentication Failed"
 msgstr ""
 
-#: storageservice/settings/storageservicesettingswidget.cpp:338
+#: storageservice/settings/storageservicesettingswidget.cpp:339
 #, fuzzy, kde-format
 #| msgid "Name:"
 msgid "Name: %1"
 msgstr "Denumire:"
 
-#: storageservice/settings/storageservicesettingswidget.cpp:367
+#: storageservice/settings/storageservicesettingswidget.cpp:368
 #, kde-format
 msgid "Account size: %1"
 msgstr ""
 
-#: storageservice/settings/storageservicesettingswidget.cpp:372
+#: storageservice/settings/storageservicesettingswidget.cpp:373
 #, kde-format
 msgid "Quota: %1"
 msgstr ""
 
-#: storageservice/settings/storageservicesettingswidget.cpp:377
+#: storageservice/settings/storageservicesettingswidget.cpp:378
 #, fuzzy, kde-format
 #| msgid "Name:"
 msgid "Shared: %1"
 msgstr "Denumire:"
 
-#: storageservice/storageservicemanager.cpp:150
+#: storageservice/storageservicemanager.cpp:167
 msgid "Storage service"
 msgstr ""
 
-#: storageservice/storageservicemanager.cpp:152
+#: storageservice/storageservicemanager.cpp:169
 msgid "No Storage service configured"
 msgstr ""
 
-#: storageservice/storageservicemanager.cpp:180
+#: storageservice/storageservicemanager.cpp:197
 #, fuzzy
 #| msgid "Delete template"
 msgid "Delete Folder..."
 msgstr "Șterge șablonul"
 
-#: storageservice/storageservicemanager.cpp:184
+#: storageservice/storageservicemanager.cpp:201
 msgid "Download File..."
 msgstr ""
 
-#: storageservice/storageservicemanager.cpp:188
+#: storageservice/storageservicemanager.cpp:205
 msgid "Upload File..."
 msgstr ""
 
-#: storageservice/storageservicemanager.cpp:192
+#: storageservice/storageservicemanager.cpp:209
 msgid "Share File..."
 msgstr ""
 
-#: storageservice/storageservicemanager.cpp:196
+#: storageservice/storageservicemanager.cpp:213
 #, fuzzy
 #| msgid "Delete template"
 msgid "Delete File..."
 msgstr "Șterge șablonul"
 
-#: storageservice/storageservicemanager.cpp:200
+#: storageservice/storageservicemanager.cpp:217
 msgid "Account Info..."
 msgstr ""
 
-#: storageservice/storageservicemanager.cpp:219
+#: storageservice/storageservicemanager.cpp:236
 msgid "There is still an upload in progress."
 msgstr ""
 
-#: storageservice/storageservicemanager.cpp:221
+#: storageservice/storageservicemanager.cpp:238
 msgid "File to upload"
 msgstr ""
 
@@ -1187,12 +1200,12 @@ msgstr ""
 msgid "Download new Templates..."
 msgstr ""
 
-#: templatewidgets/templatelistwidget.cpp:224
+#: templatewidgets/templatelistwidget.cpp:225
 #, kde-format
 msgid "'%1' is not a template file"
 msgstr ""
 
-#: templatewidgets/templatelistwidget.cpp:224
+#: templatewidgets/templatelistwidget.cpp:225
 #, fuzzy
 #| msgid "Template"
 msgid "Load Template"
@@ -1258,11 +1271,11 @@ msgstr "Sensibil la registru"
 msgid "Whole word"
 msgstr ""
 
-#: texteditor/commonwidget/textgotolinewidget.cpp:51
+#: texteditor/commonwidget/textgotolinewidget.cpp:66
 msgid "Go to Line:"
 msgstr ""
 
-#: texteditor/commonwidget/textgotolinewidget.cpp:58
+#: texteditor/commonwidget/textgotolinewidget.cpp:73
 msgid "Go"
 msgstr ""
 
@@ -1319,7 +1332,7 @@ msgid "Configure Text-To-Speech"
 msgstr ""
 
 #: texttospeech/texttospeechconfigwidget.cpp:43
-#: texttospeech/texttospeechwidget.cpp:50
+#: texttospeech/texttospeechwidget.cpp:75
 msgid "Volume:"
 msgstr ""
 
@@ -1589,52 +1602,46 @@ msgstr "Galeză"
 msgid "Yiddish"
 msgstr "Idiș"
 
-#: translator/translatorwidget.cpp:135
+#: translator/translatorwidget.cpp:134
 msgid "Problem when connecting to the translator web site."
 msgstr "Problemă la conectarea cu saitul de traducere."
 
-#: translator/translatorwidget.cpp:238
+#: translator/translatorwidget.cpp:237
 msgctxt "Translate from language"
 msgid "From:"
 msgstr "Din:"
 
-#: translator/translatorwidget.cpp:244
+#: translator/translatorwidget.cpp:243
 msgctxt "Translate to language"
 msgid "To:"
 msgstr "În:"
 
-#: translator/translatorwidget.cpp:257
+#: translator/translatorwidget.cpp:256
 msgctxt "Invert language choices so that from becomes to and to becomes from"
 msgid "Invert"
 msgstr "Inversează"
 
-#: translator/translatorwidget.cpp:262 translator/translatorwidget.cpp:265
+#: translator/translatorwidget.cpp:261 translator/translatorwidget.cpp:264
 msgid "Clear"
 msgstr "Curăță"
 
-#: translator/translatorwidget.cpp:270 translator/translatorwidget.cpp:273
+#: translator/translatorwidget.cpp:269 translator/translatorwidget.cpp:272
 msgid "Translate"
 msgstr "Tradu"
 
-#: translator/translatorwidget.cpp:281
+#: translator/translatorwidget.cpp:280
 msgid "Debug"
 msgstr "Depanare"
 
-#: translator/translatorwidget.cpp:299
+#: translator/translatorwidget.cpp:298
 msgid "Drag text that you want to translate."
 msgstr "Trageți textul pe care doriți să-l traduceți."
 
-#: translator/translatorwidget.cpp:329
-#, fuzzy
-#| msgid "Translate"
-msgid "&Translator"
-msgstr "Tradu"
-
-#: translator/translatorwidget.cpp:374
+#: translator/translatorwidget.cpp:363
 msgid "No network connection detected, we cannot translate text."
 msgstr ""
 
-#: translator/translatorwidget.cpp:410
+#: translator/translatorwidget.cpp:399
 msgid "Translate error"
 msgstr "Eroare de traducere"
 
@@ -1702,18 +1709,18 @@ msgstr ""
 msgid "Load File Error"
 msgstr ""
 
-#: webshortcut/webshortcutmenumanager.cpp:80
+#: webshortcut/webshortcutmenumanager.cpp:92
 #, kde-format
 msgid "Search for '%1' with"
 msgstr ""
 
-#: webshortcut/webshortcutmenumanager.cpp:85
+#: webshortcut/webshortcutmenumanager.cpp:97
 #, kde-format
 msgctxt "@action:inmenu Search for <text> with"
 msgid "%1"
 msgstr ""
 
-#: webshortcut/webshortcutmenumanager.cpp:94
+#: webshortcut/webshortcutmenumanager.cpp:106
 msgid "Configure Web Shortcuts..."
 msgstr ""
 
@@ -1789,25 +1796,25 @@ msgstr ""
 msgid "Open Address Book"
 msgstr ""
 
-#: widgets/kactionmenuchangecase.cpp:26
+#: widgets/kactionmenuchangecase.cpp:45
 #, fuzzy
 #| msgid "Change Value"
 msgid "Change Case"
 msgstr "Modifică valoarea"
 
-#: widgets/kactionmenuchangecase.cpp:27
+#: widgets/kactionmenuchangecase.cpp:46
 msgid "Uppercase"
 msgstr ""
 
-#: widgets/kactionmenuchangecase.cpp:30
+#: widgets/kactionmenuchangecase.cpp:49
 msgid "Sentence case"
 msgstr ""
 
-#: widgets/kactionmenuchangecase.cpp:33
+#: widgets/kactionmenuchangecase.cpp:52
 msgid "Lowercase"
 msgstr ""
 
-#: widgets/kactionmenuchangecase.cpp:36
+#: widgets/kactionmenuchangecase.cpp:55
 msgid "Reverse Case"
 msgstr ""
 
@@ -1815,13 +1822,13 @@ msgstr ""
 msgid "Clear History"
 msgstr ""
 
-#: widgets/manageaccountwidget.cpp:175
+#: widgets/manageaccountwidget.cpp:198
 #, fuzzy, kde-format
 #| msgid "Do you want to delete selected template?"
 msgid "Do you want to remove account '%1'?"
 msgstr "Doriți să ștergeți șablonul ales?"
 
-#: widgets/manageaccountwidget.cpp:176
+#: widgets/manageaccountwidget.cpp:199
 #, fuzzy
 #| msgid "Remove Entry"
 msgid "Remove account?"

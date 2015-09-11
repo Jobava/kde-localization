@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmaccess\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-01 09:11+0000\n"
+"POT-Creation-Date: 2015-08-29 09:09+0000\n"
 "PO-Revision-Date: 2009-01-14 15:03+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
@@ -37,7 +37,7 @@ msgstr "Clopoțel"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, systemBell)
 #. i18n: ectx: property (toolTip), widget (QCheckBox, gestures)
-#: accessibility.ui:33 accessibility.ui:576
+#: accessibility.ui:33 accessibility.ui:582
 #, fuzzy
 #| msgid ""
 #| "If this option is checked, the default system bell will be used. See the "
@@ -59,7 +59,7 @@ msgstr "Utilizează &clopoțel de sistem"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, customBell)
 #. i18n: ectx: property (toolTip), widget (QCheckBox, accessxBeep)
-#: accessibility.ui:43 accessibility.ui:660
+#: accessibility.ui:43 accessibility.ui:666
 #, fuzzy
 #| msgid ""
 #| "<p>Check this option if you want to use a customized bell, playing a "
@@ -84,7 +84,7 @@ msgstr "Utilizează sunet &personalizat"
 #. i18n: ectx: property (toolTip), widget (QLabel, soundLabel)
 #. i18n: ectx: property (toolTip), widget (QLineEdit, soundEdit)
 #. i18n: ectx: property (toolTip), widget (QPushButton, soundButton)
-#: accessibility.ui:71 accessibility.ui:84 accessibility.ui:91
+#: accessibility.ui:71 accessibility.ui:90 accessibility.ui:97
 msgid ""
 "If the option \"Use customized bell\" is enabled, you can choose a sound "
 "file here. Click \"Browse...\" to choose a sound file using the file dialog."
@@ -99,17 +99,17 @@ msgid "Sound &to play:"
 msgstr "Sunet de &redat:"
 
 #. i18n: ectx: property (text), widget (QPushButton, soundButton)
-#: accessibility.ui:94
+#: accessibility.ui:100
 msgid "Browse..."
 msgstr "Răsfoiește..."
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: accessibility.ui:106
+#: accessibility.ui:112
 msgid "Visible Bell"
 msgstr "Sunet vizibil"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, visibleBell)
-#: accessibility.ui:112
+#: accessibility.ui:118
 msgid ""
 "This option will turn on the \"visible bell\", i.e. a visible notification "
 "shown every time that normally just a bell would occur. This is especially "
@@ -120,12 +120,12 @@ msgstr ""
 "în special persoanelor cu probleme de auz."
 
 #. i18n: ectx: property (text), widget (QCheckBox, visibleBell)
-#: accessibility.ui:115
+#: accessibility.ui:121
 msgid "&Use visible bell"
 msgstr "&Utilizează sunet vizibil"
 
 #. i18n: ectx: property (toolTip), widget (QRadioButton, flashScreen)
-#: accessibility.ui:122
+#: accessibility.ui:128
 msgid ""
 "The screen will turn to a custom color for the amount of time specified "
 "below."
@@ -134,12 +134,12 @@ msgstr ""
 "specificat mai jos."
 
 #. i18n: ectx: property (text), widget (QRadioButton, flashScreen)
-#: accessibility.ui:125
+#: accessibility.ui:131
 msgid "F&lash screen"
 msgstr "Ecran &clipitor"
 
 #. i18n: ectx: property (toolTip), widget (QRadioButton, invertScreen)
-#: accessibility.ui:132
+#: accessibility.ui:138
 msgid ""
 "All screen colors will be inverted for the amount of time specified below."
 msgstr ""
@@ -147,12 +147,12 @@ msgstr ""
 "specificat mai jos."
 
 #. i18n: ectx: property (text), widget (QRadioButton, invertScreen)
-#: accessibility.ui:135
+#: accessibility.ui:141
 msgid "I&nvert screen"
 msgstr "&Inversează ecranul"
 
 #. i18n: ectx: property (toolTip), widget (KColorButton, colorButton)
-#: accessibility.ui:158
+#: accessibility.ui:164
 msgid ""
 "Click here to choose the color used for the \"flash screen\" visible bell."
 msgstr ""
@@ -160,7 +160,7 @@ msgstr ""
 "\"ecran clipitor\"."
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: accessibility.ui:165
+#: accessibility.ui:171
 #, fuzzy
 #| msgid "Duration:"
 msgid "&Duration:"
@@ -170,8 +170,8 @@ msgstr "Durata:"
 #. i18n: ectx: property (toolTip), widget (QSpinBox, slowKeysDelay)
 #. i18n: ectx: property (toolTip), widget (QSpinBox, bounceKeysDelay)
 #. i18n: ectx: property (toolTip), widget (QSpinBox, timeoutDelay)
-#: accessibility.ui:178 accessibility.ui:389 accessibility.ui:486
-#: accessibility.ui:614
+#: accessibility.ui:184 accessibility.ui:395 accessibility.ui:492
+#: accessibility.ui:620
 msgid ""
 "Here you can customize the duration of the \"visible bell\" effect being "
 "shown."
@@ -180,141 +180,140 @@ msgstr "Aici puteți personaliza durata efectului de \"sunetul vizibil\"."
 #. i18n: ectx: property (suffix), widget (QSpinBox, duration)
 #. i18n: ectx: property (suffix), widget (QSpinBox, slowKeysDelay)
 #. i18n: ectx: property (suffix), widget (QSpinBox, bounceKeysDelay)
-#: accessibility.ui:181 accessibility.ui:392 accessibility.ui:489
+#: accessibility.ui:187 accessibility.ui:398 accessibility.ui:495
 msgid " msec"
 msgstr " ms"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabModifier)
-#: accessibility.ui:224
+#: accessibility.ui:230
 #, fuzzy
 #| msgid "&Modifier Keys"
 msgid "Modifier Keys"
 msgstr "Taste &modificatoare"
 
 #. i18n: ectx: property (title), widget (QGroupBox, sticky)
-#: accessibility.ui:230
+#: accessibility.ui:236
 #, fuzzy
 #| msgid "S&ticky Keys"
 msgid "Sticky Keys"
 msgstr "Taste &comutator"
 
 #. i18n: ectx: property (text), widget (QCheckBox, stickyKeys)
-#: accessibility.ui:236
+#: accessibility.ui:242
 msgid "Use &sticky keys"
 msgstr "Utilizează taste &comutator"
 
 #. i18n: ectx: property (text), widget (QCheckBox, stickyKeysLock)
-#: accessibility.ui:263
+#: accessibility.ui:269
 msgid "&Lock sticky keys"
 msgstr "&Blochează tastele comutator"
 
 #. i18n: ectx: property (text), widget (QCheckBox, stickyKeysAutoOff)
-#: accessibility.ui:270
+#: accessibility.ui:276
 msgid "Turn sticky keys off when two keys are pressed simultaneously"
 msgstr "Dezactivează tastele lipicioase cînd două taste sînt apăsate simultan"
 
 #. i18n: ectx: property (text), widget (QCheckBox, stickyKeysBeep)
-#: accessibility.ui:277
+#: accessibility.ui:283
 msgid "Use system bell whenever a modifier gets latched, locked or unlocked"
 msgstr ""
 "Folosește clopoțelul de sistem oricînd un modificator este angajat, blocat "
 "sau deblocat"
 
 #. i18n: ectx: property (title), widget (QGroupBox, locking)
-#: accessibility.ui:291
+#: accessibility.ui:297
 msgid "Locking Keys"
 msgstr "Taste de blocare"
 
 #. i18n: ectx: property (text), widget (QCheckBox, toggleKeysBeep)
-#: accessibility.ui:297
+#: accessibility.ui:303
 msgid "Use system bell whenever a locking key gets activated or deactivated"
 msgstr ""
 "Folosește clopoțelul de sistem oricînd o tastă de blocare este activată sau "
 "dezactivată"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kNotifyModifiers)
-#: accessibility.ui:304
+#: accessibility.ui:310
 #, fuzzy
 #| msgid ""
 #| "Use KDE's system notification mechanism whenever a modifier or locking "
 #| "key changes its state"
 msgid ""
-"Use Plasma's system notification mechanism whenever a modifier or locking "
-"key changes its state"
+"Use Plasma's notification mechanism for modifier or locking key state changes"
 msgstr ""
 "Folosește mecanismul de notificare a sistemului KDE oricînd o tastă de "
 "modificare sau blocare își schimbă starea"
 
 #. i18n: ectx: property (text), widget (QPushButton, kNotifyModifiersButton)
 #. i18n: ectx: property (text), widget (QPushButton, kNotifyAccessButton)
-#: accessibility.ui:329 accessibility.ui:706
+#: accessibility.ui:335 accessibility.ui:712
 msgid "Configure &Notifications..."
 msgstr "Configurare &notificări..."
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabKeyFilters)
-#: accessibility.ui:368
+#: accessibility.ui:374
 msgid "&Keyboard Filters"
 msgstr "Filtre de &tastatură"
 
 #. i18n: ectx: property (title), widget (QGroupBox, slowkeys)
-#: accessibility.ui:374
+#: accessibility.ui:380
 msgid "Slo&w Keys"
 msgstr "Taste &lente"
 
 #. i18n: ectx: property (text), widget (QCheckBox, slowKeys)
-#: accessibility.ui:382
+#: accessibility.ui:388
 msgid "&Use slow keys"
 msgstr "Utilizează taste l&ente"
 
 #. i18n: ectx: property (text), widget (QCheckBox, slowKeysPressBeep)
-#: accessibility.ui:443
+#: accessibility.ui:449
 msgid "&Use system bell whenever a key is pressed"
 msgstr "&Folosește clopoțelul de sistem oricînd este apăsată o tastă"
 
 #. i18n: ectx: property (text), widget (QCheckBox, slowKeysAcceptBeep)
-#: accessibility.ui:450
+#: accessibility.ui:456
 msgid "&Use system bell whenever a key is accepted"
 msgstr "&Folosește clopoțelul de sistem oricînd este acceptată o tastă"
 
 #. i18n: ectx: property (text), widget (QCheckBox, slowKeysRejectBeep)
-#: accessibility.ui:457
+#: accessibility.ui:463
 msgid "&Use system bell whenever a key is rejected"
 msgstr "&Folosește clopoțelul de sistem oricînd este respinsă o tastă"
 
 #. i18n: ectx: property (title), widget (QGroupBox, bouncekeys)
-#: accessibility.ui:471
+#: accessibility.ui:477
 msgid "Bounce Keys"
 msgstr "Taste salt"
 
 #. i18n: ectx: property (text), widget (QCheckBox, bounceKeys)
-#: accessibility.ui:479
+#: accessibility.ui:485
 msgid "Use bou&nce keys"
 msgstr "Folosește taste salt"
 
 #. i18n: ectx: property (text), widget (QCheckBox, bounceKeysRejectBeep)
-#: accessibility.ui:538
+#: accessibility.ui:544
 msgid "Use the system bell whenever a key is rejected"
 msgstr "Folosește clopoțelul de sistem oricînd este respinsă o tastă"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabActivationGestures)
-#: accessibility.ui:564
+#: accessibility.ui:570
 #, fuzzy
 #| msgid "Activation Gestures"
 msgid "&Activation Gestures"
 msgstr "Gesturi de activare"
 
 #. i18n: ectx: property (title), widget (QGroupBox, activationgestures)
-#: accessibility.ui:570
+#: accessibility.ui:576
 msgid "Activation Gestures"
 msgstr "Gesturi de activare"
 
 #. i18n: ectx: property (text), widget (QCheckBox, gestures)
-#: accessibility.ui:579
+#: accessibility.ui:585
 msgid "Use gestures for activating sticky keys and slow keys"
 msgstr "Utilizează gesturi pentru activarea tastelor lipicioase și lente"
 
 #. i18n: ectx: property (text), widget (QCheckBox, timeout)
-#: accessibility.ui:589
+#: accessibility.ui:595
 msgid ""
 "Turn sticky keys and slow keys off after a certain period of inactivity."
 msgstr ""
@@ -322,26 +321,30 @@ msgstr ""
 "inactivitate."
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, timeoutDelay)
-#: accessibility.ui:617
+#: accessibility.ui:623
 msgid " min"
 msgstr " min"
 
 #. i18n: ectx: property (title), widget (QGroupBox, notification)
-#: accessibility.ui:654
+#: accessibility.ui:660
 msgid "Notification"
 msgstr "Notificare"
 
 #. i18n: ectx: property (text), widget (QCheckBox, accessxBeep)
-#: accessibility.ui:663
+#: accessibility.ui:669
+#, fuzzy
+#| msgid ""
+#| "Use the system bell whenever a gesture is used to turn an accessibility "
+#| "feature on or off"
 msgid ""
-"Use the system bell whenever a gesture is used to turn an accessibility "
-"feature on or off"
+"Use the system bell whenever a gesture is used to toggle an accessibility "
+"feature"
 msgstr ""
 "Folosește clopoțelul de sistem oricînd este folosit un gest pentru a activa "
 "sau dezactiva o capabilitate de accesibilitate"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, gestureConfirmation)
-#: accessibility.ui:671
+#: accessibility.ui:677
 msgid ""
 "If this option is checked, KDE will show a confirmation dialog whenever a "
 "keyboard accessibility feature is turned on or off.\n"
@@ -354,39 +357,43 @@ msgstr ""
 "accesibilitate ale tastaturii vor fi aplicate întotdeauna fără confirmare."
 
 #. i18n: ectx: property (text), widget (QCheckBox, gestureConfirmation)
-#: accessibility.ui:674
+#: accessibility.ui:680
+#, fuzzy
+#| msgid ""
+#| "Show a confirmation dialog whenever a keyboard accessibility feature is "
+#| "turned on or off"
 msgid ""
 "Show a confirmation dialog whenever a keyboard accessibility feature is "
-"turned on or off"
+"toggled"
 msgstr ""
 "Afișează un dialog de confirmare oricînd o capabilitate de accesibilitate "
 "este activată sau dezactivată"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kNotifyAccess)
-#: accessibility.ui:681
+#: accessibility.ui:687
 #, fuzzy
 #| msgid ""
 #| "Use KDE's system notification mechanism whenever a keyboard accessibility "
 #| "feature is turned on or off"
 msgid ""
-"Use Plasma's system notification mechanism whenever a keyboard accessibility "
-"feature is turned on or off"
+"Use Plasma's notification mechanism whenever a keyboard accessibility "
+"feature is toggled"
 msgstr ""
 "Folosește mecanismul de notificare a sistemului KDE oricînd o capabilitate "
 "de accesibilitate este activată sau dezactivată."
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabScreenReader)
-#: accessibility.ui:745
+#: accessibility.ui:751
 msgid "Screen Reader"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, screenReaderEnabled)
-#: accessibility.ui:751
+#: accessibility.ui:757
 msgid "Screen reader enabled"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
-#: accessibility.ui:758
+#: accessibility.ui:764
 msgid ""
 "Please note that you may have to log out once to allow the screen reader to "
 "work properly."

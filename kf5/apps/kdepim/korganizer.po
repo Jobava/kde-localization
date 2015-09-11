@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: korganizer-1.1.1\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-17 08:33+0000\n"
+"POT-Creation-Date: 2015-09-04 08:06+0000\n"
 "PO-Revision-Date: 2013-02-16 10:43+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -45,7 +45,7 @@ msgstr ""
 #: aboutdata.cpp:56 kontactplugin/korganizer/kcmapptsummary.cpp:170
 #: kontactplugin/korganizer/kcmtodosummary.cpp:166
 #: kontactplugin/specialdates/kcmsdsummary.cpp:184
-#: kontactplugin/specialdates/specialdates_plugin.cpp:62
+#: kontactplugin/specialdates/specialdates_plugin.cpp:61
 msgid "Allen Winter"
 msgstr "Allen Winter"
 
@@ -221,138 +221,138 @@ msgstr "Thomas Zander"
 msgid "Fester Zigterman"
 msgstr "Fester Zigterman"
 
-#: actionmanager.cpp:145
+#: actionmanager.cpp:148
 #, kde-format
 msgid ""
 "<qt>This will hide the menu bar completely. You can show it again by typing "
 "%1.</qt>"
 msgstr ""
 
-#: actionmanager.cpp:147
+#: actionmanager.cpp:150
 #, fuzzy
 msgid "Hide menu bar"
 msgstr "Bară de timp"
 
-#: actionmanager.cpp:280
+#: actionmanager.cpp:278
 msgid "Import &Calendar..."
 msgstr "Importă &calendar..."
 
-#: actionmanager.cpp:281
+#: actionmanager.cpp:279
 #, fuzzy
 msgid "Merge the contents of another iCalendar"
 msgstr "Însoțitori"
 
-#: actionmanager.cpp:283
+#: actionmanager.cpp:281
 msgid ""
 "Select this menu entry if you would like to merge the contents of another "
 "iCalendar into your current calendar."
 msgstr ""
 
-#: actionmanager.cpp:288
+#: actionmanager.cpp:286
 #, fuzzy
 msgid "&Import From UNIX Ical Tool"
 msgstr "&Importă din Ical"
 
-#: actionmanager.cpp:289
+#: actionmanager.cpp:287
 msgid "Import a calendar in another format"
 msgstr "Importă un calendar în alt format"
 
-#: actionmanager.cpp:291
+#: actionmanager.cpp:289
 msgid ""
 "Select this menu entry if you would like to import the contents of a non-"
 "iCalendar formatted file into your current calendar."
 msgstr ""
 
-#: actionmanager.cpp:296
+#: actionmanager.cpp:294
 msgid "Get &Hot New Stuff..."
 msgstr "&Preia lucruri noi..."
 
-#: actionmanager.cpp:300
+#: actionmanager.cpp:298
 #, fuzzy
 msgid "Export &Web Page..."
 msgstr "Pagină de web..."
 
-#: actionmanager.cpp:304
+#: actionmanager.cpp:302
 msgid "Export as &iCalendar..."
 msgstr "Export ca &iCalendar..."
 
-#: actionmanager.cpp:308
+#: actionmanager.cpp:306
 msgid "Export as &vCalendar..."
 msgstr "Export ca &vCalendar..."
 
-#: actionmanager.cpp:317
+#: actionmanager.cpp:315
 msgid "Archive O&ld Entries..."
 msgstr "Arhivează înregistrări&le vechi..."
 
-#: actionmanager.cpp:321
+#: actionmanager.cpp:319
 #, fuzzy
 msgid "Pur&ge Completed To-dos"
 msgstr "Ștergere terminată"
 
 #. i18n: ectx: property (text), widget (QPushButton, mDeleteButton)
-#: actionmanager.cpp:348 actionmanager.cpp:564 actionmanager.cpp:1503
+#: actionmanager.cpp:346 actionmanager.cpp:562 actionmanager.cpp:1503
 #: actionmanager.cpp:1534 ui/filteredit_base.ui:44
 msgid "&Delete"
 msgstr "Ș&terge"
 
-#: actionmanager.cpp:369
+#: actionmanager.cpp:367
 msgid "What's &Next"
 msgstr "Ce &urmează"
 
-#: actionmanager.cpp:374
+#: actionmanager.cpp:372
 msgid "&Month"
 msgstr "&Luna"
 
-#: actionmanager.cpp:379
+#: actionmanager.cpp:377
 msgid "&Agenda"
 msgstr "&Agendă"
 
-#: actionmanager.cpp:384
+#: actionmanager.cpp:382
 msgid "&Event List"
 msgstr "Listă &evenimente"
 
-#: actionmanager.cpp:389
+#: actionmanager.cpp:387
 msgid "&To-do List"
 msgstr "Lis&ta de sarcini"
 
-#: actionmanager.cpp:394
+#: actionmanager.cpp:392
 msgid "&Journal"
 msgstr "&Jurnal"
 
-#: actionmanager.cpp:399
+#: actionmanager.cpp:397
 msgid "Time&line"
 msgstr "Crono&logie"
 
-#: actionmanager.cpp:404
+#: actionmanager.cpp:402
 #, fuzzy
 msgid "Time&spent"
 msgstr "Bară de timp"
 
-#: actionmanager.cpp:410
+#: actionmanager.cpp:408
 msgid "&Refresh"
 msgstr "&Actualizează"
 
-#: actionmanager.cpp:416
+#: actionmanager.cpp:414
 msgid "F&ilter"
 msgstr "&Filtru"
 
-#: actionmanager.cpp:429
+#: actionmanager.cpp:427
 msgid "In Horizontally"
 msgstr "Intrare orizontal"
 
-#: actionmanager.cpp:435
+#: actionmanager.cpp:433
 msgid "Out Horizontally"
 msgstr "Ieșire orizontal"
 
-#: actionmanager.cpp:441
+#: actionmanager.cpp:439
 msgid "In Vertically"
 msgstr "Intrare vertical"
 
-#: actionmanager.cpp:447
+#: actionmanager.cpp:445
 msgid "Out Vertically"
 msgstr "Ieșire vertical"
 
-#: actionmanager.cpp:457
+#: actionmanager.cpp:455
 #, fuzzy
 #| msgid "day"
 msgctxt "@action Jump to today"
@@ -360,47 +360,47 @@ msgid "To &Today"
 msgstr "zi"
 
 #. i18n: ectx: property (text), widget (QPushButton, mTodayBtn)
-#: actionmanager.cpp:458 views/collectionview/quickview.ui:82
+#: actionmanager.cpp:456 views/collectionview/quickview.ui:82
 msgid "Today"
 msgstr "Azi"
 
-#: actionmanager.cpp:459
+#: actionmanager.cpp:457
 msgid "Scroll to Today"
 msgstr "Derulează la azi"
 
-#: actionmanager.cpp:464
+#: actionmanager.cpp:462
 msgctxt "scroll backward"
 msgid "&Backward"
 msgstr "Înap&oi"
 
-#: actionmanager.cpp:465
+#: actionmanager.cpp:463
 msgctxt "scroll backward"
 msgid "Back"
 msgstr "Înapoi"
 
-#: actionmanager.cpp:466
+#: actionmanager.cpp:464
 msgid "Scroll Backward"
 msgstr "Derulează înapoi"
 
-#: actionmanager.cpp:479
+#: actionmanager.cpp:477
 msgctxt "scroll forward"
 msgid "&Forward"
 msgstr "Î&nainte"
 
-#: actionmanager.cpp:480
+#: actionmanager.cpp:478
 msgctxt "scoll forward"
 msgid "Forward"
 msgstr "Înainte"
 
-#: actionmanager.cpp:481
+#: actionmanager.cpp:479
 msgid "Scroll Forward"
 msgstr "Derulează înainte"
 
-#: actionmanager.cpp:489
+#: actionmanager.cpp:487
 msgid "&Day"
 msgstr "&Ziua"
 
-#: actionmanager.cpp:500 actionmanager.cpp:1218 calendarview.cpp:1933
+#: actionmanager.cpp:498 actionmanager.cpp:1218 calendarview.cpp:1933
 #, kde-format
 msgid "&Next Day"
 msgid_plural "&Next %1 Days"
@@ -408,154 +408,154 @@ msgstr[0] "Ziua &următoare"
 msgstr[1] "&Următoarele %1 zile"
 msgstr[2] "&Următoarele %1 de zile"
 
-#: actionmanager.cpp:502
+#: actionmanager.cpp:500
 msgid "W&ork Week"
 msgstr "Săptămîna de l&ucru"
 
-#: actionmanager.cpp:508
+#: actionmanager.cpp:506
 msgid "&Week"
 msgstr "&Săptămîna"
 
-#: actionmanager.cpp:515 kodaymatrix.cpp:523
+#: actionmanager.cpp:513 kodaymatrix.cpp:523
 msgid "New E&vent..."
 msgstr "E&veniment nou..."
 
-#: actionmanager.cpp:517
+#: actionmanager.cpp:515
 msgid "Create a new Event"
 msgstr "Creează eveniment nou"
 
-#: actionmanager.cpp:523 kodaymatrix.cpp:525
+#: actionmanager.cpp:521 kodaymatrix.cpp:525
 msgid "New &To-do..."
 msgstr "&De-făcut nou..."
 
-#: actionmanager.cpp:525
+#: actionmanager.cpp:523
 #, fuzzy
 msgid "Create a new To-do"
 msgstr "Șterge lucrare"
 
-#: actionmanager.cpp:530
+#: actionmanager.cpp:528
 #, fuzzy
 msgid "New Su&b-to-do..."
 msgstr "Sub-lucrare nouă..."
 
-#: actionmanager.cpp:538 kodaymatrix.cpp:527
+#: actionmanager.cpp:536 kodaymatrix.cpp:527
 msgid "New &Journal..."
 msgstr "&Jurnal nou..."
 
-#: actionmanager.cpp:540
+#: actionmanager.cpp:538
 msgid "Create a new Journal"
 msgstr "Creează jurnal nou"
 
-#: actionmanager.cpp:545
+#: actionmanager.cpp:543
 msgid "Configure View..."
 msgstr "Configurare vizualizare..."
 
-#: actionmanager.cpp:546
+#: actionmanager.cpp:544
 msgid "Configure"
 msgstr "Configurează"
 
-#: actionmanager.cpp:547
+#: actionmanager.cpp:545
 msgid "Configure the view"
 msgstr "Configurează vizualizarea"
 
-#: actionmanager.cpp:554 actionmanager.cpp:1497 actionmanager.cpp:1532
+#: actionmanager.cpp:552 actionmanager.cpp:1497 actionmanager.cpp:1532
 #: koeventpopupmenu.cpp:57
 msgid "&Show"
 msgstr "&Arată"
 
-#: actionmanager.cpp:559 actionmanager.cpp:1500 actionmanager.cpp:1533
+#: actionmanager.cpp:557 actionmanager.cpp:1500 actionmanager.cpp:1533
 #: koeventpopupmenu.cpp:60
 msgid "&Edit..."
 msgstr "&Editare..."
 
-#: actionmanager.cpp:570
+#: actionmanager.cpp:568
 msgid "&Make Sub-to-do Independent"
 msgstr ""
 
-#: actionmanager.cpp:584
+#: actionmanager.cpp:582
 msgid "&Publish Item Information..."
 msgstr ""
 
-#: actionmanager.cpp:590
+#: actionmanager.cpp:588
 msgid "Send &Invitation to Attendees"
 msgstr "Trimite &invitație către participanți"
 
-#: actionmanager.cpp:597
+#: actionmanager.cpp:595
 msgid "Re&quest Update"
 msgstr "Cere &actualizare"
 
-#: actionmanager.cpp:604
+#: actionmanager.cpp:602
 msgid "Send &Cancellation to Attendees"
 msgstr "Trimite anulare &către participanți"
 
-#: actionmanager.cpp:612
+#: actionmanager.cpp:610
 msgid "Send Status &Update"
 msgstr "Trimite act&ualizare a stării"
 
-#: actionmanager.cpp:619
+#: actionmanager.cpp:617
 msgctxt "counter proposal"
 msgid "Request Chan&ge"
 msgstr "Cere &modificare"
 
-#: actionmanager.cpp:626
+#: actionmanager.cpp:624
 #, fuzzy
 msgid "&Mail Free Busy Information..."
 msgstr "Confirmare Organizator"
 
-#: actionmanager.cpp:631
+#: actionmanager.cpp:629
 #, fuzzy
 msgid "&Send as iCalendar..."
 msgstr "Trimite ca iCalendar..."
 
-#: actionmanager.cpp:636
+#: actionmanager.cpp:634
 #, fuzzy
 msgid "&Upload Free Busy Information"
 msgstr "Confirmare Organizator"
 
-#: actionmanager.cpp:642
+#: actionmanager.cpp:640
 #, fuzzy
 msgid "&Address Book"
 msgstr "Carte de adrese"
 
-#: actionmanager.cpp:650
+#: actionmanager.cpp:648
 msgid "Show Date Navigator"
 msgstr ""
 
-#: actionmanager.cpp:654
+#: actionmanager.cpp:652
 #, fuzzy
 msgid "Show To-do View"
 msgstr "L&ista de lucrări"
 
-#: actionmanager.cpp:658
+#: actionmanager.cpp:656
 #, fuzzy
 msgid "Show Item Viewer"
 msgstr "Vizualizor evenimente"
 
-#: actionmanager.cpp:674
+#: actionmanager.cpp:672
 #, fuzzy
 msgid "Show Calendar Manager"
 msgstr "Exportă calendar ca pagină de web"
 
-#: actionmanager.cpp:687
+#: actionmanager.cpp:685
 msgid "Configure &Date && Time..."
 msgstr "Configurare &dată și oră..."
 
-#: actionmanager.cpp:696
+#: actionmanager.cpp:694
 #, fuzzy
 msgid "Manage View &Filters..."
 msgstr "Editează filtre"
 
-#: actionmanager.cpp:701
+#: actionmanager.cpp:699
 #, fuzzy
 msgid "Manage C&ategories..."
 msgstr "Editează categorii"
 
-#: actionmanager.cpp:707
+#: actionmanager.cpp:705
 #, fuzzy
 msgid "&Configure KOrganizer..."
 msgstr "Confirmat"
 
-#: actionmanager.cpp:763
+#: actionmanager.cpp:761
 #, kde-format
 msgid "1 incidence was imported successfully."
 msgid_plural "%1 incidences were imported successfully."
@@ -563,21 +563,21 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: actionmanager.cpp:765
+#: actionmanager.cpp:763
 #, kde-format
 msgid "There was an error while merging the calendar: %1"
 msgstr ""
 
-#: actionmanager.cpp:776
+#: actionmanager.cpp:774
 msgid "New calendar added successfully"
 msgstr ""
 
-#: actionmanager.cpp:778
+#: actionmanager.cpp:776
 #, fuzzy, kde-format
 msgid "Could not add a calendar. Error: %1"
 msgstr "Nu pot deschide calendarul '%1'.\n"
 
-#: actionmanager.cpp:876
+#: actionmanager.cpp:874
 msgid ""
 "You have no ical file in your home directory.\n"
 "Import cannot proceed.\n"
@@ -585,7 +585,7 @@ msgstr ""
 "Nu aveți un fișier \"ical\" în directorul dumneavoastră\n"
 "personal. Nu pot face importarea.\n"
 
-#: actionmanager.cpp:896
+#: actionmanager.cpp:894
 #, fuzzy
 msgid ""
 "KOrganizer encountered some unknown fields while parsing your .calendar ical "
@@ -597,7 +597,7 @@ msgstr ""
 "am fost nevoit să le ignor. Verificați vă rog dacă\n"
 "am fost importate corect toate datele relevante.\n"
 
-#: actionmanager.cpp:905
+#: actionmanager.cpp:903
 #, fuzzy
 msgid ""
 "KOrganizer encountered an error parsing your .calendar file from ical; "
@@ -606,7 +606,7 @@ msgstr ""
 "Am întîlnit cîteva erori la analiza fișierului\n"
 "\".calendar\" sin \"ical\".  Importarea a eșuat.\n"
 
-#: actionmanager.cpp:908
+#: actionmanager.cpp:906
 #, fuzzy
 msgid ""
 "KOrganizer does not think that your .calendar file is a valid ical calendar; "
@@ -615,22 +615,22 @@ msgstr ""
 "Nu cred că fișierul dumneavoastră \".calendar\"\n"
 "este un fișier \"ical\" valid. Importarea a eșuat.\n"
 
-#: actionmanager.cpp:944
+#: actionmanager.cpp:942
 #, kde-format
 msgid "An error occurred: %1"
 msgstr ""
 
-#: actionmanager.cpp:964
+#: actionmanager.cpp:962
 msgid ""
 "Your calendar will be saved in iCalendar format. Use 'Export vCalendar' to "
 "save in vCalendar format."
 msgstr ""
 
-#: actionmanager.cpp:966
+#: actionmanager.cpp:964
 msgid "Format Conversion"
 msgstr ""
 
-#: actionmanager.cpp:966 calendarview.cpp:1879
+#: actionmanager.cpp:964 calendarview.cpp:1879
 msgid "Proceed"
 msgstr "Execută"
 
@@ -817,7 +817,7 @@ msgstr ""
 msgid "Add as new calendar"
 msgstr "Adaugă ca un calendar nou"
 
-#: akonadicollectionview.cpp:518
+#: akonadicollectionview.cpp:523
 #, fuzzy
 #| msgctxt "@label in QuickSearchLine"
 #| msgid "Search"
@@ -825,13 +825,13 @@ msgctxt "@info/plain Displayed grayed-out inside the textbox, verb to search"
 msgid "Search"
 msgstr "Caută"
 
-#: akonadicollectionview.cpp:600
+#: akonadicollectionview.cpp:605
 #, fuzzy
 #| msgid "Go &Forward"
 msgid "searching..."
 msgstr "Încarc..."
 
-#: akonadicollectionview.cpp:660
+#: akonadicollectionview.cpp:665
 #, fuzzy, kde-format
 #| msgctxt "@title"
 #| msgid "Properties for %1"
@@ -839,44 +839,44 @@ msgctxt "@title:window"
 msgid "Properties of Calendar Folder %1"
 msgstr "Proprietăți pentru %1"
 
-#: akonadicollectionview.cpp:673
+#: akonadicollectionview.cpp:678
 #, fuzzy
 msgid "&Disable Color"
 msgstr "Culoare selectat"
 
-#: akonadicollectionview.cpp:680
+#: akonadicollectionview.cpp:685
 msgid "&Assign Color..."
 msgstr ""
 
-#: akonadicollectionview.cpp:686
+#: akonadicollectionview.cpp:691
 #, fuzzy
 msgid "Use as &Default Calendar"
 msgstr "Format implicit calendar"
 
-#: akonadicollectionview.cpp:693
+#: akonadicollectionview.cpp:698
 #, fuzzy
 msgid "Remove from list"
 msgstr "Șablon nou"
 
-#: akonadicollectionview.cpp:698
+#: akonadicollectionview.cpp:703
 msgid "Add to list permanently"
 msgstr ""
 
-#: akonadicollectionview.cpp:701
+#: akonadicollectionview.cpp:706
 msgid "Serverside Subscription..."
 msgstr ""
 
-#: akonadicollectionview.cpp:865
+#: akonadicollectionview.cpp:870
 #, fuzzy
 msgid "Add Calendar"
 msgstr "Calendar nou"
 
-#: akonadicollectionview.cpp:907
+#: akonadicollectionview.cpp:912
 #, fuzzy, kde-format
 msgid "Do you really want to delete calendar %1?"
 msgstr "Nu pot deschide cartea de adrese."
 
-#: akonadicollectionview.cpp:908
+#: akonadicollectionview.cpp:913
 #, fuzzy
 msgid "Delete Calendar"
 msgstr "Format implicit calendar"
@@ -1623,35 +1623,35 @@ msgstr "Nu pot deschide cartea de adrese."
 msgid "Unable to write the temporary file for uploading."
 msgstr ""
 
-#: job/htmlexportjob.cpp:167
+#: job/htmlexportjob.cpp:169
 #, fuzzy
 msgid "Unable to upload the export file."
 msgstr "Un fișier calendar de încărcat"
 
-#: job/htmlexportjob.cpp:182
+#: job/htmlexportjob.cpp:184
 #, kde-format
 msgid "Web page successfully written to \"%1\". Do you want to show it?"
 msgstr ""
 
-#: job/htmlexportjob.cpp:184
+#: job/htmlexportjob.cpp:186
 #, kde-format
 msgid "Export failed. %1"
 msgstr ""
 
-#: job/htmlexportjob.cpp:192 job/htmlexportjob.cpp:198
+#: job/htmlexportjob.cpp:194 job/htmlexportjob.cpp:200
 #, fuzzy
 #| msgid "Export"
 msgctxt "@title:window"
 msgid "Export Status"
 msgstr "Exportă"
 
-#: job/htmlexportjob.cpp:192
+#: job/htmlexportjob.cpp:194
 #, fuzzy
 #| msgid "Show as: Free"
 msgid "Show page Web"
 msgstr "Arată ca: Liber"
 
-#: job/htmlexportjob.cpp:204
+#: job/htmlexportjob.cpp:206
 #, fuzzy, kde-format
 #| msgctxt "@item:inlistbox range is computed automatically"
 #| msgid "Automatic"
@@ -1659,7 +1659,7 @@ msgctxt "@info:status"
 msgid "Automatic Export: %1"
 msgstr "Automat"
 
-#: job/htmlexportjob.cpp:319
+#: job/htmlexportjob.cpp:321
 #, fuzzy, kde-format
 #| msgctxt "monthname year"
 #| msgid "%1 %2"
@@ -1667,21 +1667,21 @@ msgctxt "@title month and year"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: job/htmlexportjob.cpp:398
+#: job/htmlexportjob.cpp:400
 #, fuzzy
 #| msgid "Start Time"
 msgctxt "@title:column event start time"
 msgid "Start Time"
 msgstr "Timp de început"
 
-#: job/htmlexportjob.cpp:400
+#: job/htmlexportjob.cpp:402
 #, fuzzy
 #| msgid "End Time"
 msgctxt "@title:column event end time"
 msgid "End Time"
 msgstr "Timp de sfîrșit"
 
-#: job/htmlexportjob.cpp:402
+#: job/htmlexportjob.cpp:404
 #, fuzzy
 #| msgctxt "@action:intoolbar create a new event"
 #| msgid "Event"
@@ -1689,41 +1689,41 @@ msgctxt "@title:column event description"
 msgid "Event"
 msgstr "Eveniment"
 
-#: job/htmlexportjob.cpp:405
+#: job/htmlexportjob.cpp:407
 #, fuzzy
 #| msgid "Locations"
 msgctxt "@title:column event locatin"
 msgid "Location"
 msgstr "Locații"
 
-#: job/htmlexportjob.cpp:410
+#: job/htmlexportjob.cpp:412
 #, fuzzy
 #| msgid "Categories"
 msgctxt "@title:column event categories"
 msgid "Categories"
 msgstr "Categorii"
 
-#: job/htmlexportjob.cpp:415
+#: job/htmlexportjob.cpp:417
 #, fuzzy
 msgctxt "@title:column event attendees"
 msgid "Attendees"
 msgstr "Însoțitori"
 
-#: job/htmlexportjob.cpp:532
+#: job/htmlexportjob.cpp:534
 #, fuzzy
 #| msgid "To-do"
 msgctxt "@title:column"
 msgid "To-do"
 msgstr "De făcut"
 
-#: job/htmlexportjob.cpp:533
+#: job/htmlexportjob.cpp:535
 #, fuzzy
 #| msgid "Priority"
 msgctxt "@title:column to-do priority"
 msgid "Priority"
 msgstr "Prioritate"
 
-#: job/htmlexportjob.cpp:535
+#: job/htmlexportjob.cpp:537
 #, fuzzy
 #| msgctxt "@title:column percent complete"
 #| msgid "Complete"
@@ -1731,45 +1731,45 @@ msgctxt "@title:column to-do percent completed"
 msgid "Completed"
 msgstr "Încheiat"
 
-#: job/htmlexportjob.cpp:537
+#: job/htmlexportjob.cpp:539
 #, fuzzy
 msgctxt "@title:column to-do due date"
 msgid "Due Date"
 msgstr "Dată execuție"
 
-#: job/htmlexportjob.cpp:541
+#: job/htmlexportjob.cpp:543
 #, fuzzy
 #| msgid "Locations"
 msgctxt "@title:column to-do location"
 msgid "Location"
 msgstr "Locații"
 
-#: job/htmlexportjob.cpp:545
+#: job/htmlexportjob.cpp:547
 #, fuzzy
 #| msgid "Categories"
 msgctxt "@title:column to-do categories"
 msgid "Categories"
 msgstr "Categorii"
 
-#: job/htmlexportjob.cpp:549
+#: job/htmlexportjob.cpp:551
 #, fuzzy
 msgctxt "@title:column to-do attendees"
 msgid "Attendees"
 msgstr "Însoțitori"
 
-#: job/htmlexportjob.cpp:579
+#: job/htmlexportjob.cpp:581
 #, fuzzy
 msgctxt "@title:column sub-to-dos of the parent to-do"
 msgid "Sub-To-dos of: "
 msgstr "Lucrare"
 
-#: job/htmlexportjob.cpp:637
+#: job/htmlexportjob.cpp:639
 #, fuzzy
 msgctxt "@title:column sub-to-dos of the parent to-do"
 msgid "Sub-To-dos"
 msgstr "Lucrare"
 
-#: job/htmlexportjob.cpp:655
+#: job/htmlexportjob.cpp:657
 #, fuzzy, kde-format
 #| msgctxt "Percent complete"
 #| msgid "%1 %"
@@ -1777,44 +1777,44 @@ msgctxt "@info to-do percent complete"
 msgid "%1 %"
 msgstr "%1 %"
 
-#: job/htmlexportjob.cpp:809
+#: job/htmlexportjob.cpp:811
 msgctxt "@info"
 msgid "This page was created "
 msgstr ""
 
-#: job/htmlexportjob.cpp:818
+#: job/htmlexportjob.cpp:820
 #, kde-format
 msgctxt "@info/plain page creator email link with name"
 msgid "by <link url='mailto:%1'>%2</link> "
 msgstr ""
 
-#: job/htmlexportjob.cpp:822
+#: job/htmlexportjob.cpp:824
 #, kde-format
 msgctxt "@info/plain page creator email link"
 msgid "by <link url='mailto:%1'>%2</link> "
 msgstr ""
 
-#: job/htmlexportjob.cpp:828
+#: job/htmlexportjob.cpp:830
 #, fuzzy, kde-format
 #| msgid "- %1"
 msgctxt "@info page creator name only"
 msgid "by %1 "
 msgstr "- %1"
 
-#: job/htmlexportjob.cpp:834
+#: job/htmlexportjob.cpp:836
 #, kde-format
 msgctxt "@info/plain page credit with name and link"
 msgid "with <link url='%1'>%2</link>"
 msgstr ""
 
-#: job/htmlexportjob.cpp:838
+#: job/htmlexportjob.cpp:840
 #, fuzzy, kde-format
 #| msgid "Edit %1"
 msgctxt "@info page credit name only"
 msgid "with %1"
 msgstr "Editează %1"
 
-#: job/htmlexportjob.cpp:905
+#: job/htmlexportjob.cpp:907
 #, fuzzy, kde-format
 msgctxt "@info holiday by date and name"
 msgid "%1, %2"
@@ -1867,7 +1867,7 @@ msgstr "Tobias König"
 #: kcmdesignerfields.cpp:159 kontactplugin/korganizer/kcmapptsummary.cpp:169
 #: kontactplugin/korganizer/kcmtodosummary.cpp:164
 #: kontactplugin/specialdates/kcmsdsummary.cpp:182
-#: kontactplugin/specialdates/specialdates_plugin.cpp:64
+#: kontactplugin/specialdates/specialdates_plugin.cpp:63
 #, fuzzy
 #| msgid "Tobias König"
 msgid "Tobias Koenig"
@@ -2279,39 +2279,39 @@ msgstr "Întîlnire"
 msgid "Edit Event: \"%1\""
 msgstr "Editează evenimentul"
 
-#: kontactplugin/korganizer/journalplugin.cpp:51
+#: kontactplugin/korganizer/journalplugin.cpp:50
 #, fuzzy
 #| msgid "New &Journal..."
 msgctxt "@action:inmenu"
 msgid "New Journal..."
 msgstr "&Jurnal nou..."
 
-#: kontactplugin/korganizer/journalplugin.cpp:54
+#: kontactplugin/korganizer/journalplugin.cpp:53
 #, fuzzy
 #| msgid "Create a new Journal"
 msgctxt "@info:status"
 msgid "Create a new journal"
 msgstr "Creează jurnal nou"
 
-#: kontactplugin/korganizer/journalplugin.cpp:60
+#: kontactplugin/korganizer/journalplugin.cpp:59
 msgctxt "@info:whatsthis"
 msgid ""
 "You will be presented with a dialog where you can create a new journal entry."
 msgstr ""
 
-#: kontactplugin/korganizer/journalplugin.cpp:67
+#: kontactplugin/korganizer/journalplugin.cpp:66
 #, fuzzy
 #| msgid "Journal"
 msgctxt "@action:inmenu"
 msgid "Sync Journal"
 msgstr "Jurnal"
 
-#: kontactplugin/korganizer/journalplugin.cpp:69
+#: kontactplugin/korganizer/journalplugin.cpp:68
 msgctxt "@info:status"
 msgid "Synchronize groupware journal"
 msgstr ""
 
-#: kontactplugin/korganizer/journalplugin.cpp:75
+#: kontactplugin/korganizer/journalplugin.cpp:74
 msgctxt "@info:whatsthis"
 msgid "Choose this option to synchronize your groupware journal entries."
 msgstr ""
@@ -2343,45 +2343,45 @@ msgstr ""
 msgid "Pending To-dos Configuration Dialog"
 msgstr ""
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:65
+#: kontactplugin/korganizer/korganizerplugin.cpp:64
 #, fuzzy
 #| msgid "New E&vent..."
 msgctxt "@action:inmenu"
 msgid "New Event..."
 msgstr "E&veniment nou..."
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:68
+#: kontactplugin/korganizer/korganizerplugin.cpp:67
 #, fuzzy
 #| msgid "Create a new Event"
 msgctxt "@info:status"
 msgid "Create a new event"
 msgstr "Creează eveniment nou"
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:74
+#: kontactplugin/korganizer/korganizerplugin.cpp:73
 msgctxt "@info:whatsthis"
 msgid ""
 "You will be presented with a dialog where you can create a new event item."
 msgstr ""
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:80
+#: kontactplugin/korganizer/korganizerplugin.cpp:79
 #, fuzzy
 #| msgid "New Calendar"
 msgctxt "@action:inmenu"
 msgid "Sync Calendar"
 msgstr "Calendar nou"
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:82
+#: kontactplugin/korganizer/korganizerplugin.cpp:81
 msgctxt "@info:status"
 msgid "Synchronize groupware calendar"
 msgstr ""
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:88
+#: kontactplugin/korganizer/korganizerplugin.cpp:87
 msgctxt "@info:whatsthis"
 msgid "Choose this option to synchronize your groupware events."
 msgstr ""
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:207
-#: kontactplugin/korganizer/todoplugin.cpp:216
+#: kontactplugin/korganizer/korganizerplugin.cpp:206
+#: kontactplugin/korganizer/todoplugin.cpp:215
 #, fuzzy
 #| msgctxt "incidence category"
 #| msgid "Meeting"
@@ -2389,22 +2389,22 @@ msgctxt "@item"
 msgid "Meeting"
 msgstr "Întrevedere"
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:223
-#: kontactplugin/korganizer/todoplugin.cpp:231
+#: kontactplugin/korganizer/korganizerplugin.cpp:222
+#: kontactplugin/korganizer/todoplugin.cpp:230
 #, fuzzy, kde-format
 #| msgid "Notes:"
 msgctxt "@item"
 msgid "Note: %1"
 msgstr "Observații:"
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:247
-#: kontactplugin/korganizer/todoplugin.cpp:254
+#: kontactplugin/korganizer/korganizerplugin.cpp:246
+#: kontactplugin/korganizer/todoplugin.cpp:253
 msgctxt "@info"
 msgid "Dropping multiple mails is not supported."
 msgstr ""
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:250
-#: kontactplugin/korganizer/todoplugin.cpp:257
+#: kontactplugin/korganizer/korganizerplugin.cpp:249
+#: kontactplugin/korganizer/todoplugin.cpp:256
 #, fuzzy, kde-format
 #| msgid "From: %1   To: %2   %3"
 msgctxt "@item"
@@ -2414,27 +2414,27 @@ msgid ""
 "Subject: %3"
 msgstr "De la: %1   La: %2   %3"
 
-#: kontactplugin/korganizer/korganizerplugin.cpp:259
-#: kontactplugin/korganizer/todoplugin.cpp:267
+#: kontactplugin/korganizer/korganizerplugin.cpp:258
+#: kontactplugin/korganizer/todoplugin.cpp:266
 #, fuzzy, kde-format
 #| msgid "KMail"
 msgctxt "@item"
 msgid "Mail: %1"
 msgstr "KMail"
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:203
+#: kontactplugin/korganizer/summaryeventinfo.cpp:204
 #, fuzzy
 #| msgid "Today"
 msgctxt "the appointment is today"
 msgid "Today"
 msgstr "Azi"
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:206
+#: kontactplugin/korganizer/summaryeventinfo.cpp:207
 msgctxt "the appointment is tomorrow"
 msgid "Tomorrow"
 msgstr ""
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:230
+#: kontactplugin/korganizer/summaryeventinfo.cpp:231
 #: kontactplugin/korganizer/todosummarywidget.cpp:231
 #: kontactplugin/specialdates/sdsummarywidget.cpp:502
 #, fuzzy, kde-format
@@ -2446,12 +2446,12 @@ msgstr[0] "1 zi"
 msgstr[1] "%1 zile"
 msgstr[2] "%1 de zile"
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:243
+#: kontactplugin/korganizer/summaryeventinfo.cpp:244
 msgctxt "eg. in 1 hour 2 minutes"
 msgid "in "
 msgstr ""
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:247
+#: kontactplugin/korganizer/summaryeventinfo.cpp:248
 #, kde-format
 msgctxt "use abbreviation for hour to keep the text short"
 msgid "1 hr"
@@ -2460,7 +2460,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:254
+#: kontactplugin/korganizer/summaryeventinfo.cpp:255
 #, fuzzy, kde-format
 #| msgid "1 minute"
 #| msgid_plural "%1 minutes"
@@ -2471,56 +2471,56 @@ msgstr[0] "1 minut"
 msgstr[1] "%1 minute"
 msgstr[2] "%1 de minute"
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:257
+#: kontactplugin/korganizer/summaryeventinfo.cpp:258
 #: kontactplugin/specialdates/sdsummarywidget.cpp:500
 msgid "now"
 msgstr ""
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:260
+#: kontactplugin/korganizer/summaryeventinfo.cpp:261
 #, fuzzy
 #| msgid "1 day"
 #| msgid_plural "%1 days"
 msgid "all day"
 msgstr "1 zi"
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:296
+#: kontactplugin/korganizer/summaryeventinfo.cpp:297
 #, fuzzy, kde-format
 #| msgid "%1 - %2"
 msgctxt "Time from - to"
 msgid "%1 - %2"
 msgstr "%1 - %2"
 
-#: kontactplugin/korganizer/summaryeventinfo.cpp:314
+#: kontactplugin/korganizer/summaryeventinfo.cpp:315
 #, fuzzy, kde-format
 msgctxt "next occurrence"
 msgid "Next: %1"
 msgstr "Re-face: %1"
 
-#: kontactplugin/korganizer/todoplugin.cpp:63
+#: kontactplugin/korganizer/todoplugin.cpp:62
 #, fuzzy
 msgctxt "@action:inmenu"
 msgid "New To-do..."
 msgstr "Lucrare nouă..."
 
-#: kontactplugin/korganizer/todoplugin.cpp:66
+#: kontactplugin/korganizer/todoplugin.cpp:65
 #, fuzzy
 msgctxt "@info:status"
 msgid "Create a new to-do"
 msgstr "Șterge lucrare"
 
-#: kontactplugin/korganizer/todoplugin.cpp:72
+#: kontactplugin/korganizer/todoplugin.cpp:71
 msgctxt "@info:whatsthis"
 msgid ""
 "You will be presented with a dialog where you can create a new to-do item."
 msgstr ""
 
-#: kontactplugin/korganizer/todoplugin.cpp:78
+#: kontactplugin/korganizer/todoplugin.cpp:77
 #, fuzzy
 msgctxt "@action:inmenu"
 msgid "Sync To-do List"
 msgstr "Lista de lucrări"
 
-#: kontactplugin/korganizer/todoplugin.cpp:79
+#: kontactplugin/korganizer/todoplugin.cpp:78
 #, fuzzy
 #| msgctxt "@item@intable N days/hours/minutes before/after the start/end"
 #| msgid "%1 after the start"
@@ -2528,7 +2528,7 @@ msgctxt "@info:status"
 msgid "Synchronize groupware to-do list"
 msgstr "%1 după început"
 
-#: kontactplugin/korganizer/todoplugin.cpp:84
+#: kontactplugin/korganizer/todoplugin.cpp:83
 msgctxt "@info:whatsthis"
 msgid "Choose this option to synchronize your groupware to-do list."
 msgstr ""
@@ -3072,21 +3072,21 @@ msgstr "Vizualizare coloane"
 msgid "Mail to:\"%1\""
 msgstr ""
 
-#: kontactplugin/specialdates/specialdates_plugin.cpp:56
+#: kontactplugin/specialdates/specialdates_plugin.cpp:55
 msgid "Special Dates Summary"
 msgstr ""
 
-#: kontactplugin/specialdates/specialdates_plugin.cpp:58
+#: kontactplugin/specialdates/specialdates_plugin.cpp:57
 msgid "Kontact Special Dates Summary"
 msgstr ""
 
-#: kontactplugin/specialdates/specialdates_plugin.cpp:60
+#: kontactplugin/specialdates/specialdates_plugin.cpp:59
 msgid ""
 "Copyright © 2003 Tobias Koenig\n"
 "Copyright © 2004–2010 Allen Winter"
 msgstr ""
 
-#: kontactplugin/specialdates/specialdates_plugin.cpp:63
+#: kontactplugin/specialdates/specialdates_plugin.cpp:62
 #, fuzzy
 #| msgid "Former Maintainer"
 msgid "Current Maintainer"
@@ -4962,7 +4962,7 @@ msgstr "Nici un eveniment selectat."
 
 #. i18n: ectx: label, entry (ShowTodosAgendaView), group (Agenda View)
 #. i18n: ectx: label, entry (ShowTodosMonthView), group (Month View)
-#: settings/korganizer.kcfg:175 settings/korganizer.kcfg:279
+#: settings/korganizer.kcfg:175 settings/korganizer.kcfg:273
 #, fuzzy
 msgid "Show to-dos"
 msgstr "Afișează..."
@@ -5033,7 +5033,7 @@ msgstr ""
 
 #. i18n: ectx: label, entry, group (Agenda View)
 #. i18n: ectx: label, entry, group (Month View)
-#: settings/korganizer.kcfg:203 settings/korganizer.kcfg:299
+#: settings/korganizer.kcfg:203 settings/korganizer.kcfg:293
 #, fuzzy
 #| msgctxt "@title:tab"
 #| msgid "Colors"
@@ -5042,7 +5042,7 @@ msgstr "Culori"
 
 #. i18n: ectx: label, entry, group (Agenda View)
 #. i18n: ectx: label, entry, group (Month View)
-#: settings/korganizer.kcfg:206 settings/korganizer.kcfg:302
+#: settings/korganizer.kcfg:206 settings/korganizer.kcfg:296
 msgid "Category inside, calendar outside"
 msgstr ""
 
@@ -5064,7 +5064,7 @@ msgstr ""
 
 #. i18n: ectx: label, entry, group (Agenda View)
 #. i18n: ectx: label, entry, group (Month View)
-#: settings/korganizer.kcfg:211 settings/korganizer.kcfg:307
+#: settings/korganizer.kcfg:211 settings/korganizer.kcfg:301
 #, fuzzy
 msgid "Calendar inside, category outside"
 msgstr "iCalendar"
@@ -5087,7 +5087,7 @@ msgstr ""
 
 #. i18n: ectx: label, entry, group (Agenda View)
 #. i18n: ectx: label, entry, group (Month View)
-#: settings/korganizer.kcfg:216 settings/korganizer.kcfg:312
+#: settings/korganizer.kcfg:216 settings/korganizer.kcfg:306
 #, fuzzy
 msgid "Only category"
 msgstr "Categorii"
@@ -5107,7 +5107,7 @@ msgstr ""
 
 #. i18n: ectx: label, entry, group (Agenda View)
 #. i18n: ectx: label, entry, group (Month View)
-#: settings/korganizer.kcfg:221 settings/korganizer.kcfg:317
+#: settings/korganizer.kcfg:221 settings/korganizer.kcfg:311
 #, fuzzy
 msgid "Only calendar"
 msgstr "iCalendar"
@@ -5193,21 +5193,8 @@ msgstr ""
 msgid "Tab through calendars"
 msgstr "Calendar combinat"
 
-#. i18n: ectx: label, entry (EnableMonthScroll), group (Month View)
-#: settings/korganizer.kcfg:259
-#, fuzzy
-msgid "Enable scrollbars in month view cells"
-msgstr "Activează bare de defilare în celule vizualizare lunară"
-
-#. i18n: ectx: whatsthis, entry (EnableMonthScroll), group (Month View)
-#: settings/korganizer.kcfg:260
-msgid ""
-"Check this box to display scrollbars when clicking on a cell in the month "
-"view; they will only appear when needed though."
-msgstr ""
-
 #. i18n: ectx: label, entry (EnableMonthItemIcons), group (Month View)
-#: settings/korganizer.kcfg:265
+#: settings/korganizer.kcfg:259
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Show in the month view"
@@ -5215,19 +5202,19 @@ msgid "Show icons in month view items"
 msgstr "Arată în vizualizarea lunară"
 
 #. i18n: ectx: whatsthis, entry (EnableMonthItemIcons), group (Month View)
-#: settings/korganizer.kcfg:266
+#: settings/korganizer.kcfg:260
 msgid ""
 "Check this box to display icons (alarm, recursion, etc.) in month view items."
 msgstr ""
 
 #. i18n: ectx: tooltip, entry (EnableMonthItemIcons), group (Month View)
-#: settings/korganizer.kcfg:267
+#: settings/korganizer.kcfg:261
 #, fuzzy
 msgid "Display icons in month view items"
 msgstr "Activează bare de defilare în celule vizualizare lunară"
 
 #. i18n: ectx: label, entry (ShowTimeInMonthView), group (Month View)
-#: settings/korganizer.kcfg:272
+#: settings/korganizer.kcfg:266
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Show in the month view"
@@ -5235,54 +5222,54 @@ msgid "Show time in month view items"
 msgstr "Arată în vizualizarea lunară"
 
 #. i18n: ectx: whatsthis, entry (ShowTimeInMonthView), group (Month View)
-#: settings/korganizer.kcfg:273
+#: settings/korganizer.kcfg:267
 #, fuzzy
 msgid "Check this box to display the time in month view items."
 msgstr "Activează bare de defilare în celule vizualizare lunară"
 
 #. i18n: ectx: tooltip, entry (ShowTimeInMonthView), group (Month View)
-#: settings/korganizer.kcfg:274
+#: settings/korganizer.kcfg:268
 #, fuzzy
 msgid "Display time in month view items"
 msgstr "Activează bare de defilare în celule vizualizare lunară"
 
 #. i18n: ectx: whatsthis, entry (ShowTodosMonthView), group (Month View)
-#: settings/korganizer.kcfg:280
+#: settings/korganizer.kcfg:274
 #, fuzzy
 msgid "Check this box to display to-dos in the month view."
 msgstr "Activează bare de defilare în celule vizualizare lunară"
 
 #. i18n: ectx: tooltip, entry (ShowTodosMonthView), group (Month View)
-#: settings/korganizer.kcfg:281
+#: settings/korganizer.kcfg:275
 #, fuzzy
 msgid "Display to-dos in the month view"
 msgstr "Activează bare de defilare în celule vizualizare lunară"
 
 #. i18n: ectx: label, entry (ShowJournalsMonthView), group (Month View)
-#: settings/korganizer.kcfg:286
+#: settings/korganizer.kcfg:280
 #, fuzzy
 msgid "Show journals"
 msgstr "&Jurnal"
 
 #. i18n: ectx: whatsthis, entry (ShowJournalsMonthView), group (Month View)
-#: settings/korganizer.kcfg:287
+#: settings/korganizer.kcfg:281
 msgid "Check this box to display journals in the month view."
 msgstr ""
 
 #. i18n: ectx: tooltip, entry (ShowJournalsMonthView), group (Month View)
-#: settings/korganizer.kcfg:288
+#: settings/korganizer.kcfg:282
 #, fuzzy
 msgid "Display journals in the month view"
 msgstr "Activează bare de defilare în celule vizualizare lunară"
 
 #. i18n: ectx: label, entry, group (Month View)
-#: settings/korganizer.kcfg:293
+#: settings/korganizer.kcfg:287
 #, fuzzy
 msgid "Month view uses full window"
 msgstr "Vizualizarea lunară utilizează întreaga fereastră"
 
 #. i18n: ectx: whatsthis, entry, group (Month View)
-#: settings/korganizer.kcfg:294
+#: settings/korganizer.kcfg:288
 msgid ""
 "Check this box to use the full KOrganizer window when displaying the month "
 "view. If this box is checked, you will gain some space for the monthly view, "
@@ -5291,7 +5278,7 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Month View)
-#: settings/korganizer.kcfg:303
+#: settings/korganizer.kcfg:297
 msgid ""
 "Select the \"Category inside, calendar outside\" option if you would like to "
 "draw calendar items in their associated category color, with the item's "
@@ -5300,14 +5287,14 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: tooltip, entry, group (Month View)
-#: settings/korganizer.kcfg:304
+#: settings/korganizer.kcfg:298
 msgid ""
 "Draw month items in their category color inside and calendar color for their "
 "border"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Month View)
-#: settings/korganizer.kcfg:308
+#: settings/korganizer.kcfg:302
 msgid ""
 "Select the \"Calendar inside, category outside\" option if you would like to "
 "draw calendar items in their associated calendar color, with the item's "
@@ -5316,14 +5303,14 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: tooltip, entry, group (Month View)
-#: settings/korganizer.kcfg:309
+#: settings/korganizer.kcfg:303
 msgid ""
 "Draw month items in their calendar color inside and category color for their "
 "border"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Month View)
-#: settings/korganizer.kcfg:313
+#: settings/korganizer.kcfg:307
 msgid ""
 "Select the \"Only category\" option if you would like to draw calendar items "
 "(both inside and border) in the color of their associated category.  Please "
@@ -5331,12 +5318,12 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: tooltip, entry, group (Month View)
-#: settings/korganizer.kcfg:314
+#: settings/korganizer.kcfg:308
 msgid "Draw month items using their category color for the inside and border"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Month View)
-#: settings/korganizer.kcfg:318
+#: settings/korganizer.kcfg:312
 msgid ""
 "Select the \"Only calendar\" option if you would like to draw calendar items "
 "(both inside and border) in the color of their calendar.  Please use the "
@@ -5344,43 +5331,43 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: tooltip, entry, group (Month View)
-#: settings/korganizer.kcfg:319
+#: settings/korganizer.kcfg:313
 msgid "Draw month items using their calendar color for the inside and border"
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Todo View)
-#: settings/korganizer.kcfg:329
+#: settings/korganizer.kcfg:323
 msgid "Always display completed to-dos at the bottom of the list"
 msgstr ""
 
 #. i18n: ectx: tooltip, entry, group (Todo View)
-#: settings/korganizer.kcfg:330
+#: settings/korganizer.kcfg:324
 msgid ""
 "Completed to-dos are displayed at the bottom of the list, regardless of "
 "priority"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Todo View)
-#: settings/korganizer.kcfg:331
+#: settings/korganizer.kcfg:325
 msgid ""
 "Check this box if you want all completed to-dos to be always grouped at the "
 "bottom of the to-do list."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Todo View)
-#: settings/korganizer.kcfg:336
+#: settings/korganizer.kcfg:330
 #, fuzzy
 msgid "To-do list view uses full window"
 msgstr "Vizualizarea lucrărilor utilizează întreaga fereastră"
 
 #. i18n: ectx: tooltip, entry, group (Todo View)
-#: settings/korganizer.kcfg:337
+#: settings/korganizer.kcfg:331
 #, fuzzy
 msgid "Display to-do list in a full KOrganizer window"
 msgstr "Vizualizarea lucrărilor utilizează întreaga fereastră"
 
 #. i18n: ectx: whatsthis, entry, group (Todo View)
-#: settings/korganizer.kcfg:338
+#: settings/korganizer.kcfg:332
 msgid ""
 "Check this box to use the full KOrganizer window when displaying the to-do "
 "list view. If this box is checked, you will gain some space for the to-do "
@@ -5389,31 +5376,31 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Todo View)
-#: settings/korganizer.kcfg:343
+#: settings/korganizer.kcfg:337
 #, fuzzy
 msgid "Display to-dos in a flat list"
 msgstr "Activează bare de defilare în celule vizualizare lunară"
 
 #. i18n: ectx: tooltip, entry, group (Todo View)
-#: settings/korganizer.kcfg:344
+#: settings/korganizer.kcfg:338
 msgid "Display to-dos as a flat list instead of a hierarchical tree"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Todo View)
-#: settings/korganizer.kcfg:345
+#: settings/korganizer.kcfg:339
 msgid ""
 "Check this box if you want to see all your to-dos in a flat list instead of "
 "being arranged in a hierarchical tree."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Todo View)
-#: settings/korganizer.kcfg:350
+#: settings/korganizer.kcfg:344
 #, fuzzy
 msgid "Record completed to-dos in journal entries"
 msgstr "Șterg toate lucrările completate?"
 
 #. i18n: ectx: whatsthis, entry, group (Todo View)
-#: settings/korganizer.kcfg:351
+#: settings/korganizer.kcfg:345
 msgid ""
 "Check this box to record the completion of a to-do in a new entry of your "
 "journal automatically."
@@ -5422,8 +5409,8 @@ msgstr ""
 #. i18n: ectx: label, entry, group (Colors)
 #. i18n: ectx: label, entry, group (Theming)
 #. i18n: ectx: label, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:359 settings/korganizer.kcfg:590
-#: settings/korganizer.kcfg:694
+#: settings/korganizer.kcfg:353 settings/korganizer.kcfg:570
+#: settings/korganizer.kcfg:674
 #, fuzzy
 msgid "Holiday color"
 msgstr "Culoare vacanță"
@@ -5431,8 +5418,8 @@ msgstr "Culoare vacanță"
 #. i18n: ectx: whatsthis, entry, group (Colors)
 #. i18n: ectx: whatsthis, entry, group (Theming)
 #. i18n: ectx: whatsthis, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:360 settings/korganizer.kcfg:591
-#: settings/korganizer.kcfg:695
+#: settings/korganizer.kcfg:354 settings/korganizer.kcfg:571
+#: settings/korganizer.kcfg:675
 msgid ""
 "Select the holiday color here. The holiday color will be used for the "
 "holiday name in the month view and the holiday number in the date navigator."
@@ -5440,44 +5427,44 @@ msgstr ""
 
 #. i18n: ectx: label, entry (AgendaBgColor), group (Colors)
 #. i18n: ectx: label, entry, group (Theming)
-#: settings/korganizer.kcfg:365 settings/korganizer.kcfg:505
+#: settings/korganizer.kcfg:359 settings/korganizer.kcfg:499
 #, fuzzy
 msgid "Agenda view background color"
 msgstr "Culoare de fundal pentru agendă"
 
 #. i18n: ectx: whatsthis, entry (AgendaBgColor), group (Colors)
 #. i18n: ectx: whatsthis, entry, group (Theming)
-#: settings/korganizer.kcfg:366 settings/korganizer.kcfg:506
+#: settings/korganizer.kcfg:360 settings/korganizer.kcfg:500
 #, fuzzy
 msgid "Select the agenda view background color here."
 msgstr "Culoare de fundal pentru agendă"
 
 #. i18n: ectx: label, entry, group (Colors)
-#: settings/korganizer.kcfg:371
+#: settings/korganizer.kcfg:365
 #, fuzzy
 msgid "Agenda view current-time line color"
 msgstr "Ora implicită pentru întîlnire:"
 
 #. i18n: ectx: whatsthis, entry, group (Colors)
-#: settings/korganizer.kcfg:372
+#: settings/korganizer.kcfg:366
 #, fuzzy
 msgid "Select a color to use for the current-time (Marcus Bains) line."
 msgstr "Dezvoltator curent"
 
 #. i18n: ectx: tooltip, entry, group (Colors)
-#: settings/korganizer.kcfg:373
+#: settings/korganizer.kcfg:367
 #, fuzzy
 msgid "Use this color for the Agenda View current-time (Marcus Bains) line"
 msgstr "Dezvoltator curent"
 
 #. i18n: ectx: label, entry (ViewBgBusyColor), group (Colors)
-#: settings/korganizer.kcfg:378
+#: settings/korganizer.kcfg:372
 #, fuzzy
 msgid "Busy days background color"
 msgstr "Culoare de fundal pentru agendă"
 
 #. i18n: ectx: whatsthis, entry (ViewBgBusyColor), group (Colors)
-#: settings/korganizer.kcfg:379
+#: settings/korganizer.kcfg:373
 msgid ""
 "When you have an all day event marked as busy, you can have a different "
 "agenda or month view background color for that day. Select the color here."
@@ -5485,61 +5472,53 @@ msgstr ""
 
 #. i18n: ectx: label, entry, group (Colors)
 #. i18n: ectx: label, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:384 settings/korganizer.kcfg:614
+#: settings/korganizer.kcfg:378 settings/korganizer.kcfg:594
 #, fuzzy
 msgid "Working hours color"
 msgstr "Culoare ore de lucru"
 
 #. i18n: ectx: whatsthis, entry, group (Colors)
-#: settings/korganizer.kcfg:385
+#: settings/korganizer.kcfg:379
 #, fuzzy
 msgid "Select the working hours color for the agenda view here."
 msgstr "Culoare de fundal pentru agendă"
 
 #. i18n: ectx: label, entry (TodoDueTodayColor), group (Colors)
-#. i18n: ectx: label, entry, group (Theming)
 #. i18n: ectx: label, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:390 settings/korganizer.kcfg:559
-#: settings/korganizer.kcfg:665
+#: settings/korganizer.kcfg:384 settings/korganizer.kcfg:645
 #, fuzzy
 msgid "To-do due today color"
 msgstr "Culoare vacanță"
 
 #. i18n: ectx: whatsthis, entry (TodoDueTodayColor), group (Colors)
-#. i18n: ectx: whatsthis, entry, group (Theming)
 #. i18n: ectx: whatsthis, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:391 settings/korganizer.kcfg:560
-#: settings/korganizer.kcfg:666
+#: settings/korganizer.kcfg:385 settings/korganizer.kcfg:646
 #, fuzzy
 msgid "Select the to-do due today color here."
 msgstr "Culoare vacanță"
 
 #. i18n: ectx: label, entry (TodoOverdueColor), group (Colors)
-#. i18n: ectx: label, entry, group (Theming)
 #. i18n: ectx: label, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:396 settings/korganizer.kcfg:574
-#: settings/korganizer.kcfg:679
+#: settings/korganizer.kcfg:390 settings/korganizer.kcfg:659
 #, fuzzy
 msgid "To-do overdue color"
 msgstr "Culoare vacanță"
 
 #. i18n: ectx: whatsthis, entry (TodoOverdueColor), group (Colors)
-#. i18n: ectx: whatsthis, entry, group (Theming)
 #. i18n: ectx: whatsthis, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:397 settings/korganizer.kcfg:575
-#: settings/korganizer.kcfg:680
+#: settings/korganizer.kcfg:391 settings/korganizer.kcfg:660
 #, fuzzy
 msgid "Select the to-do overdue color here."
 msgstr "Culoare vacanță"
 
 #. i18n: ectx: label, entry, group (Fonts)
-#: settings/korganizer.kcfg:405
+#: settings/korganizer.kcfg:399
 #, fuzzy
 msgid "Time bar"
 msgstr "Bară de timp"
 
 #. i18n: ectx: whatsthis, entry, group (Fonts)
-#: settings/korganizer.kcfg:406
+#: settings/korganizer.kcfg:400
 msgid ""
 "Press this button to configure the time bar font. The time bar is the widget "
 "that shows the hours in the agenda view. This button will open the \"Select "
@@ -5547,13 +5526,13 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Fonts)
-#: settings/korganizer.kcfg:410
+#: settings/korganizer.kcfg:404
 #, fuzzy
 msgid "Month view"
 msgstr "Vizualizor lună"
 
 #. i18n: ectx: whatsthis, entry, group (Fonts)
-#: settings/korganizer.kcfg:411
+#: settings/korganizer.kcfg:405
 msgid ""
 "Press this button to configure the month view font. This button will open "
 "the \"Select Font\" dialog, allowing you to choose the font for the items in "
@@ -5561,13 +5540,13 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Fonts)
-#: settings/korganizer.kcfg:415
+#: settings/korganizer.kcfg:409
 #, fuzzy
 msgid "Agenda view"
 msgstr "Vizualizor agendă"
 
 #. i18n: ectx: whatsthis, entry, group (Fonts)
-#: settings/korganizer.kcfg:416
+#: settings/korganizer.kcfg:410
 msgid ""
 "Press this button to configure the agenda view font. This button will open "
 "the \"Select Font\" dialog, allowing you to choose the font for the events "
@@ -5575,13 +5554,13 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Fonts)
-#: settings/korganizer.kcfg:420
+#: settings/korganizer.kcfg:414
 #, fuzzy
 msgid "Current-time line"
 msgstr "Dezvoltator curent"
 
 #. i18n: ectx: whatsthis, entry, group (Fonts)
-#: settings/korganizer.kcfg:421
+#: settings/korganizer.kcfg:415
 msgid ""
 "Press this button to configure the current-time line font. This button will "
 "open the \"Select Font\" dialog, allowing you to choose the font for the "
@@ -5589,80 +5568,80 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: label, entry (DefaultTodoAttachMethod), group (Hidden Options)
-#: settings/korganizer.kcfg:445
+#: settings/korganizer.kcfg:439
 #, fuzzy
 msgid "Default todo attachment method"
 msgstr "Ora implicită pentru întîlnire:"
 
 #. i18n: ectx: whatsthis, entry (DefaultTodoAttachMethod), group (Hidden Options)
-#: settings/korganizer.kcfg:446
+#: settings/korganizer.kcfg:440
 msgid "The default way of attaching dropped emails to a task"
 msgstr ""
 
 #. i18n: ectx: label, entry (DefaultTodoAttachMethod), group (Hidden Options)
-#: settings/korganizer.kcfg:449
+#: settings/korganizer.kcfg:443
 #, fuzzy
 msgid "Always ask"
 msgstr "Întreabă întotdeauna"
 
 #. i18n: ectx: label, entry (DefaultTodoAttachMethod), group (Hidden Options)
-#: settings/korganizer.kcfg:452
+#: settings/korganizer.kcfg:446
 msgid "Only attach link to message"
 msgstr ""
 
 #. i18n: ectx: label, entry (DefaultTodoAttachMethod), group (Hidden Options)
-#: settings/korganizer.kcfg:455
+#: settings/korganizer.kcfg:449
 #, fuzzy
 msgid "Attach complete message"
 msgstr "Însoțitori"
 
 #. i18n: ectx: label, entry, group (Theming)
 #. i18n: ectx: label, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:512 settings/korganizer.kcfg:609
+#: settings/korganizer.kcfg:506 settings/korganizer.kcfg:589
 #, fuzzy
 msgid "Highlight color"
 msgstr "Culoare evidențiere"
 
 #. i18n: ectx: whatsthis, entry, group (Theming)
-#: settings/korganizer.kcfg:513
+#: settings/korganizer.kcfg:507
 msgid ""
 "Select the highlight color here. The highlight color will be used for "
 "marking the currently selected area in your agenda and in the date navigator."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:602
+#: settings/korganizer.kcfg:582
 #, fuzzy
 msgid "Month view background color"
 msgstr "Culoare de fundal pentru agendă"
 
 #. i18n: ectx: whatsthis, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:603
+#: settings/korganizer.kcfg:583
 #, fuzzy
 msgid "Select the Month view background color here."
 msgstr "Culoare de fundal pentru agendă"
 
 #. i18n: ectx: whatsthis, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:610
+#: settings/korganizer.kcfg:590
 msgid ""
 "Select the highlight color here. The highlight color will be used for "
 "marking the currently selected area in your Month and in the date navigator."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:615
+#: settings/korganizer.kcfg:595
 #, fuzzy
 msgid "Select the working hours background color for the Month view here."
 msgstr "Culoare de fundal pentru agendă"
 
 #. i18n: ectx: label, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:637
+#: settings/korganizer.kcfg:617
 #, fuzzy
 msgid "Default event color"
 msgstr "Culoare eveniment implicit"
 
 #. i18n: ectx: whatsthis, entry, group (Theme/Month view)
-#: settings/korganizer.kcfg:638
+#: settings/korganizer.kcfg:618
 msgid ""
 "Select the default event color here. The default event color will be used "
 "for events categories in your Month. Note that you can specify a separate "
@@ -6533,6 +6512,10 @@ msgstr "De făcut: %1"
 msgctxt "4 digit year"
 msgid "%1"
 msgstr "De făcut: %1"
+
+#, fuzzy
+#~ msgid "Enable scrollbars in month view cells"
+#~ msgstr "Activează bare de defilare în celule vizualizare lunară"
 
 #, fuzzy
 #~| msgctxt "@title:group"

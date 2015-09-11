@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-12 08:25+0000\n"
+"POT-Creation-Date: 2015-09-08 10:44+0000\n"
 "PO-Revision-Date: 2013-01-12 05:04+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -88,11 +88,11 @@ msgctxt "@label:textbox Name of the folder."
 msgid "&Name:"
 msgstr "De&numire:"
 
-#: collectionpage/collectiongeneralpage.cpp:108
+#: collectionpage/collectiongeneralpage.cpp:110
 msgid "Act on new/unread mail in this folder"
 msgstr "Acționează la mesaje noi/necitite în acest dosar"
 
-#: collectionpage/collectiongeneralpage.cpp:110
+#: collectionpage/collectiongeneralpage.cpp:112
 msgid ""
 "<qt><p>If this option is enabled then you will be notified about new/unread "
 "mail in this folder. Moreover, going to the next/previous folder with unread "
@@ -103,11 +103,11 @@ msgid ""
 "spam folder.</p></qt>"
 msgstr ""
 
-#: collectionpage/collectiongeneralpage.cpp:124
+#: collectionpage/collectiongeneralpage.cpp:126
 msgid "Keep replies in this folder"
 msgstr "Păstrează răspunsurile în acest dosar"
 
-#: collectionpage/collectiongeneralpage.cpp:126
+#: collectionpage/collectiongeneralpage.cpp:128
 msgid ""
 "Check this option if you want replies you write to mails in this folder to "
 "be put in this same folder after sending, instead of in the configured sent-"
@@ -117,26 +117,26 @@ msgstr ""
 "dosar vor fi salvate direct în el. De regulă ele sînt salvate în dosarul "
 "„trimise”."
 
-#: collectionpage/collectiongeneralpage.cpp:135
+#: collectionpage/collectiongeneralpage.cpp:137
 msgid "Hide this folder in the folder selection dialog"
 msgstr "Ascunde acest dosar în dialogul de alegere a dosarului"
 
-#: collectionpage/collectiongeneralpage.cpp:138
+#: collectionpage/collectiongeneralpage.cpp:140
 msgctxt "@info:whatsthis"
 msgid ""
 "Check this option if you do not want this folder to be shown in folder "
 "selection dialogs, such as the <interface>Jump to Folder</interface> dialog."
 msgstr ""
 
-#: collectionpage/collectiongeneralpage.cpp:153
+#: collectionpage/collectiongeneralpage.cpp:155
 msgid "Use &default identity"
 msgstr "Folosește i&dentitatea implicită"
 
-#: collectionpage/collectiongeneralpage.cpp:157
+#: collectionpage/collectiongeneralpage.cpp:159
 msgid "&Sender identity:"
 msgstr "Identitate e&xpeditor:"
 
-#: collectionpage/collectiongeneralpage.cpp:163
+#: collectionpage/collectiongeneralpage.cpp:165
 msgid ""
 "Select the sender identity to be used when writing new mail or replying to "
 "mail in this folder. This means that if you are in one of your work folders, "
@@ -151,18 +151,18 @@ msgstr ""
 "corespunzătoare. Identitățile pot fi setate în dialogul de configurare "
 "principal. (Setări -> Configurează KMail...)"
 
-#: collectionpage/collectiongeneralpage.cpp:215
+#: collectionpage/collectiongeneralpage.cpp:217
 msgid "Share unread state with all users"
 msgstr "Partajează starea necitită cu toți utilizatorii"
 
-#: collectionpage/collectiongeneralpage.cpp:220
+#: collectionpage/collectiongeneralpage.cpp:222
 msgid ""
 "If enabled, the unread state of messages in this folder will be the same for "
 "all users having access to this folder. If disabled (the default), every "
 "user with access to this folder has their own unread state."
 msgstr ""
 
-#: collectionpage/collectiongeneralpage.cpp:366
+#: collectionpage/collectiongeneralpage.cpp:368
 msgid ""
 "You have configured this folder to contain groupware information. That means "
 "that this folder will disappear once the configuration dialog is closed."
@@ -236,27 +236,27 @@ msgctxt "type of folder content"
 msgid "Unknown"
 msgstr "Necunoscut"
 
-#: collectionpage/contenttypewidget.cpp:35
+#: collectionpage/contenttypewidget.cpp:48
 msgid "&Folder contents:"
 msgstr "Conținut &dosar:"
 
-#: collectionpage/incidencesforwidget.cpp:35
+#: collectionpage/incidencesforwidget.cpp:45
 msgid "Generate free/&busy and activate alarms for:"
 msgstr "Generează liber/&ocupat și activează alarmele pentru:"
 
-#: collectionpage/incidencesforwidget.cpp:43
+#: collectionpage/incidencesforwidget.cpp:53
 msgid "Nobody"
 msgstr "Nimeni"
 
-#: collectionpage/incidencesforwidget.cpp:44
+#: collectionpage/incidencesforwidget.cpp:54
 msgid "Admins of This Folder"
 msgstr "Administratorii acestui dosar"
 
-#: collectionpage/incidencesforwidget.cpp:45
+#: collectionpage/incidencesforwidget.cpp:55
 msgid "All Readers of This Folder"
 msgstr "Toți cititorii acestui dosar"
 
-#: collectionpage/incidencesforwidget.cpp:47
+#: collectionpage/incidencesforwidget.cpp:57
 msgid ""
 "This setting defines which users sharing this folder should get \"busy\" "
 "periods in their freebusy lists and should see the alarms for the events or "
@@ -288,7 +288,7 @@ msgstr ""
 "folosească \"Nimeni\" deoarece nu se știe cine va veni la acele evenimente."
 
 #: filter/dialog/filteractionmissingargumentdialog.cpp:51
-#: folder/folderrequester.cpp:61 folder/folderrequester.cpp:93
+#: folder/folderrequester.cpp:78 folder/folderrequester.cpp:110
 msgid "Select Folder"
 msgstr "Alege dosarul"
 
@@ -302,7 +302,7 @@ msgid "The following folders can be used for this filter:"
 msgstr "Următoarele dosare pot fi folosite pentru acest filtru:"
 
 #: filter/dialog/filteractionmissingargumentdialog.cpp:89
-#: folder/folderrequester.cpp:145 folder/folderrequester.cpp:162
+#: folder/folderrequester.cpp:163 folder/folderrequester.cpp:180
 msgid "Please select a folder"
 msgstr "Alegeți un dosar"
 
@@ -399,7 +399,7 @@ msgstr ""
 msgid "Select thunderbird filter files"
 msgstr "Alegeți fișiere cu filtre Thunderbird"
 
-#: filter/dialog/selectthunderbirdfilterfileswidget.cpp:41
+#: filter/dialog/selectthunderbirdfilterfileswidget.cpp:42
 msgid " (default)"
 msgstr " (implicit)"
 
@@ -424,7 +424,7 @@ msgstr ""
 msgid "The header value was missing."
 msgstr ""
 
-#: filter/filteractions/filteractionaddtag.cpp:37 tag/addtagdialog.cpp:39
+#: filter/filteractions/filteractionaddtag.cpp:37 tag/addtagdialog.cpp:57
 msgid "Add Tag"
 msgstr "Adaugă marcaj"
 
@@ -599,25 +599,25 @@ msgstr ""
 msgid "Set Reply-To To"
 msgstr "Stabilește „Răspunde la” la"
 
-#: filter/filteractions/filteractionrewriteheader.cpp:40
+#: filter/filteractions/filteractionrewriteheader.cpp:39
 msgid "Rewrite Header"
 msgstr "Rescrie antetul"
 
-#: filter/filteractions/filteractionrewriteheader.cpp:62
+#: filter/filteractions/filteractionrewriteheader.cpp:61
 #, fuzzy
 #| msgid "Sound file was \"%1\"."
 msgid "Header not defined"
 msgstr "Fișierul de sunet era „%1”."
 
-#: filter/filteractions/filteractionrewriteheader.cpp:68
+#: filter/filteractions/filteractionrewriteheader.cpp:67
 msgid "Search string is empty."
 msgstr ""
 
-#: filter/filteractions/filteractionrewriteheader.cpp:129
+#: filter/filteractions/filteractionrewriteheader.cpp:128
 msgid "Replace:"
 msgstr "Înlocuiește:"
 
-#: filter/filteractions/filteractionrewriteheader.cpp:138
+#: filter/filteractions/filteractionrewriteheader.cpp:139
 msgid "With:"
 msgstr "Cu:"
 
@@ -763,7 +763,7 @@ msgstr "Selectați o acțiune."
 msgid "Help"
 msgstr ""
 
-#: filter/filteractions/filteractionwithurl.cpp:81
+#: filter/filteractions/filteractionwithurl.cpp:82
 msgid "You can get specific header when you use %{headername}."
 msgstr ""
 
@@ -777,11 +777,11 @@ msgstr ""
 msgid "Save..."
 msgstr "Redenumire..."
 
-#: filter/filterconverter/filterconverttosieveresultdialog.cpp:72
+#: filter/filterconverter/filterconverttosieveresultdialog.cpp:74
 msgid "Sieve Files (*.siv);;All Files (*)"
 msgstr ""
 
-#: filter/filterconverter/filterconverttosieveresultdialog.cpp:74
+#: filter/filterconverter/filterconverttosieveresultdialog.cpp:76
 msgctxt "@title:window"
 msgid "Convert to Script Sieve"
 msgstr ""
@@ -810,44 +810,34 @@ msgstr ""
 msgid "Import KMail Filters"
 msgstr "Importă filtre KMail"
 
-#: filter/filterimporterexporter.cpp:179
-msgid "Import Thunderbird Filters"
-msgstr "Importă filtre Thunderbird"
-
-#: filter/filterimporterexporter.cpp:183
+#: filter/filterimporterexporter.cpp:182
 msgid "Import Evolution Filters"
 msgstr "Importă filtre Evolution"
 
-#: filter/filterimporterexporter.cpp:187
+#: filter/filterimporterexporter.cpp:186
 msgid "Import Sylpheed Filters"
 msgstr "Importă filtre Sylpheed"
 
-#: filter/filterimporterexporter.cpp:191
+#: filter/filterimporterexporter.cpp:190
 msgid "Import Procmail Filters"
 msgstr "Importă filtre Procmail"
 
-#: filter/filterimporterexporter.cpp:195
+#: filter/filterimporterexporter.cpp:194
 msgid "Import Balsa Filters"
 msgstr "Importă filtre Balsa"
 
-#: filter/filterimporterexporter.cpp:199
+#: filter/filterimporterexporter.cpp:198
 msgid "Import Claws Mail Filters"
 msgstr "Importă filtre Claws Mail"
 
-#: filter/filterimporterexporter.cpp:203
-#, fuzzy
-#| msgid "Import Sylpheed Filters"
-msgid "Import Icedove Filters"
-msgstr "Importă filtre Sylpheed"
-
-#: filter/filterimporterexporter.cpp:207
+#: filter/filterimporterexporter.cpp:202
 #, fuzzy
 #| msgid "Import KMail Filters"
 msgid "Import Gmail Filters"
 msgstr "Importă filtre KMail"
 
-#: filter/filterimporterexporter.cpp:222 filter/filterimporterexporter.cpp:250
-#: filter/filterimporterexporter.cpp:273
+#: filter/filterimporterexporter.cpp:217 filter/filterimporterexporter.cpp:245
+#: filter/filterimporterexporter.cpp:268
 msgid ""
 "The selected file is not readable. Your file access permissions might be "
 "insufficient."
@@ -855,7 +845,7 @@ msgstr ""
 "Fișierul ales nu este citibil. Permisiunile dumneavoastră de acces la fișier "
 "pot fi insuficiente."
 
-#: filter/filterimporterexporter.cpp:357
+#: filter/filterimporterexporter.cpp:352
 msgid "Export Filters"
 msgstr "Exportă filtre"
 
@@ -864,7 +854,7 @@ msgid "Select Filters"
 msgstr "Alege filtrele"
 
 #: filter/filterselectiondialog.cpp:52 filter/kmfilterlistbox.cpp:137
-#: folder/foldertreewidget.cpp:110
+#: folder/foldertreewidget.cpp:111
 #, fuzzy
 #| msgctxt ""
 #| "@info/plain Displayed grayed-out inside the textbox, verb to search"
@@ -1476,15 +1466,15 @@ msgstr "Alegeți fișierul:"
 msgid "Select file from config:"
 msgstr "Alegeți fișier din configurare:"
 
-#: folder/accountconfigorderdialog.cpp:49
+#: folder/accountconfigorderdialog.cpp:67
 msgid "Edit Accounts Order"
 msgstr ""
 
-#: folder/accountconfigorderdialog.cpp:66
+#: folder/accountconfigorderdialog.cpp:84
 msgid "Use custom order"
 msgstr ""
 
-#: folder/accountconfigorderdialog.cpp:83
+#: folder/accountconfigorderdialog.cpp:101
 #, fuzzy
 #| msgctxt "Move selected filter up."
 #| msgid "Up"
@@ -1492,7 +1482,7 @@ msgctxt "Move selected account up."
 msgid "Up"
 msgstr "Sus"
 
-#: folder/accountconfigorderdialog.cpp:91
+#: folder/accountconfigorderdialog.cpp:109
 #, fuzzy
 #| msgctxt "Move selected filter down."
 #| msgid "Down"
@@ -1500,7 +1490,7 @@ msgctxt "Move selected account down."
 msgid "Down"
 msgstr "Jos"
 
-#: folder/folderrequester.cpp:135
+#: folder/folderrequester.cpp:153
 msgid "Local Folders"
 msgstr "Dosare locale"
 
@@ -1585,11 +1575,11 @@ msgstr "Mergi"
 msgid "Do Not Go To"
 msgstr "Nu sări"
 
-#: folder/foldertreewidget.cpp:102 folder/foldertreewidget.cpp:362
+#: folder/foldertreewidget.cpp:103 folder/foldertreewidget.cpp:363
 msgid "You can start typing to filter the list of folders."
 msgstr "Puteți începe să tastați pentru a filtra lista dosarelor."
 
-#: folder/foldertreewidget.cpp:363
+#: folder/foldertreewidget.cpp:364
 #, kde-format
 msgid "Path: (%1)"
 msgstr "Cale: (%1)"
@@ -1739,15 +1729,15 @@ msgstr "Ștergerea mesajelor vechi din dosarul %1 a eșuat."
 msgid "Moving old messages from folder %1 to folder %2 failed."
 msgstr "Mutarea mesajelor vechi din dosarul %1 în dosarul %2 a eșuat."
 
-#: kernel/mailkernel.cpp:173 kernel/mailkernel.cpp:197
+#: kernel/mailkernel.cpp:211 kernel/mailkernel.cpp:235
 msgid "You do not have read/write permission to your inbox folder."
 msgstr "Nu aveți drepturi de citire/scriere în dosarul „intrare”."
 
-#: kernel/mailkernel.cpp:219
+#: kernel/mailkernel.cpp:257
 msgid "The Email program encountered a fatal error and will terminate now"
 msgstr "Programul Email a întîlnit o eroare fatală și se va termina acum"
 
-#: kernel/mailkernel.cpp:221
+#: kernel/mailkernel.cpp:259
 #, kde-format
 msgid ""
 "The Email program encountered a fatal error and will terminate now.\n"
@@ -1902,7 +1892,7 @@ msgid "is in category"
 msgstr "este în categoria"
 
 #: search/searchrule/searchrule.cpp:220
-#: search/widgethandler/messagerulewidgethandler.cpp:42
+#: search/widgethandler/messagerulewidgethandler.cpp:40
 #: search/widgethandler/messagerulewidgethandler.cpp:168
 msgid "has an attachment"
 msgstr "are un atașament"
@@ -1942,10 +1932,10 @@ msgid "none"
 msgstr ""
 
 #: search/searchrule/searchrule.cpp:241
-#: search/widgethandler/headersrulerwidgethandler.cpp:38
-#: search/widgethandler/messagerulewidgethandler.cpp:38
-#: search/widgethandler/tagrulewidgethandler.cpp:105
-#: search/widgethandler/textrulerwidgethandler.cpp:39
+#: search/widgethandler/headersrulerwidgethandler.cpp:37
+#: search/widgethandler/messagerulewidgethandler.cpp:36
+#: search/widgethandler/tagrulewidgethandler.cpp:104
+#: search/widgethandler/textrulerwidgethandler.cpp:37
 msgid "contains"
 msgstr "conține"
 
@@ -2094,13 +2084,13 @@ msgid "String is empty."
 msgstr ""
 
 #: search/widgethandler/daterulewidgethandler.cpp:36
-#: search/widgethandler/numericdoublerulewidgethandler.cpp:35
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:33
 #: search/widgethandler/numericrulewidgethandler.cpp:34
 msgid "is equal to"
 msgstr "este egal cu"
 
 #: search/widgethandler/daterulewidgethandler.cpp:37
-#: search/widgethandler/numericdoublerulewidgethandler.cpp:36
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:34
 #: search/widgethandler/numericrulewidgethandler.cpp:35
 msgid "is not equal to"
 msgstr "diferit de"
@@ -2121,95 +2111,95 @@ msgstr "este înaintea"
 msgid "is after or equal to"
 msgstr "este după sau egal cu"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:39
-#: search/widgethandler/messagerulewidgethandler.cpp:39
-#: search/widgethandler/tagrulewidgethandler.cpp:106
-#: search/widgethandler/textrulerwidgethandler.cpp:40
+#: search/widgethandler/headersrulerwidgethandler.cpp:38
+#: search/widgethandler/messagerulewidgethandler.cpp:37
+#: search/widgethandler/tagrulewidgethandler.cpp:105
+#: search/widgethandler/textrulerwidgethandler.cpp:38
 msgid "does not contain"
 msgstr "nu conține"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:40
-#: search/widgethandler/tagrulewidgethandler.cpp:107
-#: search/widgethandler/textrulerwidgethandler.cpp:41
+#: search/widgethandler/headersrulerwidgethandler.cpp:39
+#: search/widgethandler/tagrulewidgethandler.cpp:106
+#: search/widgethandler/textrulerwidgethandler.cpp:39
 msgid "equals"
 msgstr "este egal cu"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:41
-#: search/widgethandler/tagrulewidgethandler.cpp:108
-#: search/widgethandler/textrulerwidgethandler.cpp:42
+#: search/widgethandler/headersrulerwidgethandler.cpp:40
+#: search/widgethandler/tagrulewidgethandler.cpp:107
+#: search/widgethandler/textrulerwidgethandler.cpp:40
 msgid "does not equal"
 msgstr "este diferit de"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:42
-#: search/widgethandler/textrulerwidgethandler.cpp:43
+#: search/widgethandler/headersrulerwidgethandler.cpp:41
+#: search/widgethandler/textrulerwidgethandler.cpp:41
 msgid "starts with"
 msgstr "începe cu"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:43
-#: search/widgethandler/textrulerwidgethandler.cpp:44
+#: search/widgethandler/headersrulerwidgethandler.cpp:42
+#: search/widgethandler/textrulerwidgethandler.cpp:42
 msgid "does not start with"
 msgstr "nu începe cu"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:44
-#: search/widgethandler/textrulerwidgethandler.cpp:45
+#: search/widgethandler/headersrulerwidgethandler.cpp:43
+#: search/widgethandler/textrulerwidgethandler.cpp:43
 msgid "ends with"
 msgstr "se termină cu"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:45
-#: search/widgethandler/textrulerwidgethandler.cpp:46
+#: search/widgethandler/headersrulerwidgethandler.cpp:44
+#: search/widgethandler/textrulerwidgethandler.cpp:44
 msgid "does not end with"
 msgstr "nu se termină cu"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:47
-#: search/widgethandler/messagerulewidgethandler.cpp:40
-#: search/widgethandler/tagrulewidgethandler.cpp:109
-#: search/widgethandler/textrulerwidgethandler.cpp:48
+#: search/widgethandler/headersrulerwidgethandler.cpp:46
+#: search/widgethandler/messagerulewidgethandler.cpp:38
+#: search/widgethandler/tagrulewidgethandler.cpp:108
+#: search/widgethandler/textrulerwidgethandler.cpp:46
 msgid "matches regular expr."
 msgstr "se potrivește cu expresia regulată"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:48
-#: search/widgethandler/messagerulewidgethandler.cpp:41
-#: search/widgethandler/tagrulewidgethandler.cpp:110
-#: search/widgethandler/textrulerwidgethandler.cpp:49
+#: search/widgethandler/headersrulerwidgethandler.cpp:47
+#: search/widgethandler/messagerulewidgethandler.cpp:39
+#: search/widgethandler/tagrulewidgethandler.cpp:109
+#: search/widgethandler/textrulerwidgethandler.cpp:47
 msgid "does not match reg. expr."
 msgstr "nu se potrivește cu expresia regulată"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:49
-#: search/widgethandler/headersrulerwidgethandler.cpp:177
+#: search/widgethandler/headersrulerwidgethandler.cpp:48
+#: search/widgethandler/headersrulerwidgethandler.cpp:178
 msgid "is in address book"
 msgstr "este în cartea de adrese"
 
-#: search/widgethandler/headersrulerwidgethandler.cpp:50
-#: search/widgethandler/headersrulerwidgethandler.cpp:179
+#: search/widgethandler/headersrulerwidgethandler.cpp:49
+#: search/widgethandler/headersrulerwidgethandler.cpp:180
 msgid "is not in address book"
 msgstr "nu este în cartea de adrese"
 
-#: search/widgethandler/messagerulewidgethandler.cpp:43
+#: search/widgethandler/messagerulewidgethandler.cpp:41
 #: search/widgethandler/messagerulewidgethandler.cpp:170
 msgid "has no attachment"
 msgstr "nu are atașamente"
 
-#: search/widgethandler/numericdoublerulewidgethandler.cpp:37
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:35
 #: search/widgethandler/numericrulewidgethandler.cpp:36
 msgid "is greater than"
 msgstr "este mai mare ca"
 
-#: search/widgethandler/numericdoublerulewidgethandler.cpp:38
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:36
 #: search/widgethandler/numericrulewidgethandler.cpp:37
 msgid "is less than or equal to"
 msgstr "este mai mic sau egal cu"
 
-#: search/widgethandler/numericdoublerulewidgethandler.cpp:39
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:37
 #: search/widgethandler/numericrulewidgethandler.cpp:38
 msgid "is less than"
 msgstr "este mai mic cu"
 
-#: search/widgethandler/numericdoublerulewidgethandler.cpp:40
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:38
 #: search/widgethandler/numericrulewidgethandler.cpp:39
 msgid "is greater than or equal to"
 msgstr "este mai mare sau egal cu"
 
-#: search/widgethandler/numericdoublerulewidgethandler.cpp:185
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:183
 msgctxt "spinbox suffix: unit for kilobyte"
 msgid " kB"
 msgstr " kO"
@@ -2379,37 +2369,37 @@ msgstr "&Fragment:"
 msgid "Sh&ortcut:"
 msgstr "Sc&urtătură::"
 
-#: tag/addtagdialog.cpp:78
+#: tag/addtagdialog.cpp:97
 #, kde-format
 msgid "Tag %1 already exists"
 msgstr ""
 
-#: tag/tagwidget.cpp:52
+#: tag/tagwidget.cpp:87
 msgctxt "@label:listbox Name of the tag"
 msgid "Name:"
 msgstr "Denumire:"
 
-#: tag/tagwidget.cpp:60
+#: tag/tagwidget.cpp:95
 msgid "Change te&xt color:"
 msgstr "Schimbă culoarea te&xtului:"
 
-#: tag/tagwidget.cpp:75
+#: tag/tagwidget.cpp:110
 msgid "Change &background color:"
 msgstr "Schim&bă culoarea fundalului:"
 
-#: tag/tagwidget.cpp:91
+#: tag/tagwidget.cpp:126
 msgid "Change fo&nt:"
 msgstr "Schimbă fo&ntul:"
 
-#: tag/tagwidget.cpp:114
+#: tag/tagwidget.cpp:149
 msgid "Message tag &icon:"
 msgstr "P&ictograma marcajului de mesaj:"
 
-#: tag/tagwidget.cpp:127
+#: tag/tagwidget.cpp:162
 msgid "Shortc&ut:"
 msgstr "Sc&urtătură:"
 
-#: tag/tagwidget.cpp:139
+#: tag/tagwidget.cpp:174
 msgid "Enable &toolbar button"
 msgstr "Activează bu&tonul pe bara de unelte"
 
@@ -2437,47 +2427,47 @@ msgstr "Dimensiune pictogramă"
 msgid "Drop your favorite folders here..."
 msgstr "Lăsați aici dosarele favorite..."
 
-#: widgets/redirectdialog.cpp:100
+#: widgets/redirectdialog.cpp:103
 msgid "Resend-To:"
 msgstr ""
 
-#: widgets/redirectdialog.cpp:103
+#: widgets/redirectdialog.cpp:106
 msgid "Resend-Cc:"
 msgstr ""
 
-#: widgets/redirectdialog.cpp:106
+#: widgets/redirectdialog.cpp:109
 msgid "Resend-Bcc:"
 msgstr ""
 
-#: widgets/redirectdialog.cpp:134
+#: widgets/redirectdialog.cpp:137
 msgid "Redirect Message"
 msgstr "Redirectare mesaj"
 
-#: widgets/redirectdialog.cpp:156
+#: widgets/redirectdialog.cpp:159
 msgid "Select the recipient addresses to redirect:"
 msgstr ""
 
-#: widgets/redirectdialog.cpp:176
+#: widgets/redirectdialog.cpp:179
 msgid "Identity:"
 msgstr "Identitate:"
 
-#: widgets/redirectdialog.cpp:184
+#: widgets/redirectdialog.cpp:187
 msgid "Transport:"
 msgstr "Transport:"
 
-#: widgets/redirectdialog.cpp:190
+#: widgets/redirectdialog.cpp:193
 msgid "&Send Now"
 msgstr "Trimite &acum"
 
-#: widgets/redirectdialog.cpp:191
+#: widgets/redirectdialog.cpp:194
 msgid "Send &Later"
 msgstr "T&rimite mai tîrziu"
 
-#: widgets/redirectdialog.cpp:240
+#: widgets/redirectdialog.cpp:243
 msgid "You cannot redirect the message without an address."
 msgstr "Nu puteți redirecta un mesaj fără o adresă."
 
-#: widgets/redirectdialog.cpp:241
+#: widgets/redirectdialog.cpp:244
 msgid "Empty Redirection Address"
 msgstr "Adresă de redirectare goală"
 
@@ -2493,9 +2483,16 @@ msgstr ""
 "Acest buton deschide un dialog separat în care puteți alege destinatarii "
 "dintre toate adresele disponibile."
 
-#: widgets/regexplineedit.cpp:78
-msgid "Edit..."
-msgstr "Editare..."
+#~ msgid "Edit..."
+#~ msgstr "Editare..."
+
+#~ msgid "Import Thunderbird Filters"
+#~ msgstr "Importă filtre Thunderbird"
+
+#, fuzzy
+#~| msgid "Import Sylpheed Filters"
+#~ msgid "Import Icedove Filters"
+#~ msgstr "Importă filtre Sylpheed"
 
 #~ msgid "Beep"
 #~ msgstr "Bip"

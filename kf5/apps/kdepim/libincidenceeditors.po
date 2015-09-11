@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-18 11:11+0000\n"
+"POT-Creation-Date: 2015-09-10 09:13+0000\n"
 "PO-Revision-Date: 2011-01-09 12:38+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -61,303 +61,6 @@ msgstr "Pînă la sfîrșitul evenimentului"
 #: alarmdialog.cpp:248
 msgid "After the event ends"
 msgstr "După sfîrșitul evenimentului"
-
-#. i18n: ectx: property (windowTitle), widget (QWidget, AlarmDialog)
-#: alarmdialog.ui:14
-msgid "Alarms"
-msgstr "Alarme"
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: alarmdialog.ui:20
-msgid "When:"
-msgstr "Cînd:"
-
-#. i18n: ectx: property (toolTip), widget (QSpinBox, mAlarmOffset)
-#: alarmdialog.ui:35
-msgid "Set the reminder trigger time"
-msgstr "Stabilește ora de declanșare memento"
-
-#. i18n: ectx: property (whatsThis), widget (QSpinBox, mAlarmOffset)
-#: alarmdialog.ui:38
-msgid ""
-"This spinbox allows you to set the reminder trigger time. The time unit is "
-"set in the combobox immediately adjacent."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (KComboBox, mOffsetUnit)
-#: alarmdialog.ui:60
-#, fuzzy
-#| msgid "Set the reminder trigger time"
-msgid "Select the reminder trigger time unit"
-msgstr "Stabilește ora de declanșare memento"
-
-#. i18n: ectx: property (whatsThis), widget (KComboBox, mOffsetUnit)
-#: alarmdialog.ui:63
-msgid ""
-"This combobox allows you to set the units for the reminder trigger time. The "
-"trigger time value is set in the spinbox immediately adjacent."
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mOffsetUnit)
-#: alarmdialog.ui:70
-msgctxt "@item:inlistbox alarm offset expressed in minutes"
-msgid "minute(s)"
-msgstr "minut(e)"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mOffsetUnit)
-#: alarmdialog.ui:75
-msgctxt "@item:inlistbox alarm offset expressed in hours"
-msgid "hour(s)"
-msgstr "oră(e)"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mOffsetUnit)
-#: alarmdialog.ui:80
-msgctxt "@item:inlistbox alarm offset expressed in days"
-msgid "day(s)"
-msgstr "zi(le)"
-
-#. i18n: ectx: property (toolTip), widget (KComboBox, mBeforeAfter)
-#: alarmdialog.ui:88
-#, fuzzy
-#| msgid "Set the reminder trigger time"
-msgid "Select the reminder trigger relative to the start or end time"
-msgstr "Stabilește ora de declanșare memento"
-
-#. i18n: ectx: property (whatsThis), widget (KComboBox, mBeforeAfter)
-#: alarmdialog.ui:91
-msgid ""
-"Use this combobox to specify if you want the reminder to trigger before or "
-"after the start or end time."
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
-#: alarmdialog.ui:95
-msgid "before the event starts"
-msgstr "pînă la începerea evenimentului"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
-#: alarmdialog.ui:100
-msgid "after the event starts"
-msgstr "după începerea evenimentului"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
-#: alarmdialog.ui:105
-msgid "before the event ends"
-msgstr "pînă la sfîrșitul evenimentului"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
-#: alarmdialog.ui:110
-msgid "after the event ends"
-msgstr "după sfîrșitul evenimentului"
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: alarmdialog.ui:120
-msgid "Repeat:"
-msgstr "Repetare:"
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, mRepeats)
-#: alarmdialog.ui:135
-msgid "Set the reminder to repeat"
-msgstr "Stabilește repetarea memento"
-
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, mRepeats)
-#: alarmdialog.ui:138
-msgid "Check this if you want to the reminder to recur on a periodic interval."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QSpinBox, mRepeatCount)
-#: alarmdialog.ui:151
-#, fuzzy
-#| msgid "Set the reminder to repeat"
-msgid "Select how often the reminder should repeat"
-msgstr "Stabilește repetarea memento"
-
-#. i18n: ectx: property (whatsThis), widget (QSpinBox, mRepeatCount)
-#: alarmdialog.ui:154
-msgid ""
-"Use this selector to choose how many times you want the recurring reminder "
-"to repeat."
-msgstr ""
-
-#. i18n: ectx: property (suffix), widget (QSpinBox, mRepeatCount)
-#: alarmdialog.ui:157
-msgid " time(s)"
-msgstr " ori"
-
-#. i18n: ectx: property (toolTip), widget (QSpinBox, mRepeatInterval)
-#: alarmdialog.ui:173
-#, fuzzy
-#| msgid "Set the reminder to repeat"
-msgid "Select the time between reminder repeats"
-msgstr "Stabilește repetarea memento"
-
-#. i18n: ectx: property (whatsThis), widget (QSpinBox, mRepeatInterval)
-#: alarmdialog.ui:176
-msgid "Use this selector to choose the time between repeating reminders."
-msgstr ""
-
-#. i18n: ectx: property (suffix), widget (QSpinBox, mRepeatInterval)
-#: alarmdialog.ui:179
-msgctxt "@label:spinbox repeat interval expressed in minutes"
-msgid " Minute(s)"
-msgstr " Minut(e)"
-
-#. i18n: ectx: property (prefix), widget (QSpinBox, mRepeatInterval)
-#: alarmdialog.ui:182
-msgctxt "repeat every X minutes"
-msgid "every "
-msgstr "la fiecare "
-
-#. i18n: ectx: property (text), widget (QLabel, label_3)
-#: alarmdialog.ui:203
-msgid "What:"
-msgstr "Ce:"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mTypeCombo)
-#: alarmdialog.ui:220
-msgid "Display text"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mTypeCombo)
-#: alarmdialog.ui:225
-msgid "Play sound file"
-msgstr "Redă fișier sonor"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mTypeCombo)
-#: alarmdialog.ui:230
-msgid "Run application / script"
-msgstr "Execută aplicație / script"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mTypeCombo)
-#: alarmdialog.ui:235
-msgid "Send email"
-msgstr "Expediază poștă"
-
-#. i18n: ectx: property (whatsThis), widget (KTextEdit, mDisplayText)
-#: alarmdialog.ui:259
-#, fuzzy
-#| msgid "Specify a file containing a sound to play when the reminder triggers"
-msgid ""
-"Specify any text you desire to display in the popup notice when the reminder "
-"triggers."
-msgstr ""
-"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
-"memento"
-
-#. i18n: ectx: property (text), widget (QLabel, mSoundFileLabel)
-#: alarmdialog.ui:273
-msgid "Audio File:"
-msgstr "Fișier audio:"
-
-#. i18n: ectx: property (toolTip), widget (KUrlRequester, mSoundFile)
-#: alarmdialog.ui:286
-msgid "Specify a file containing a sound to play when the reminder triggers"
-msgstr ""
-"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
-"memento"
-
-#. i18n: ectx: property (whatsThis), widget (KUrlRequester, mSoundFile)
-#: alarmdialog.ui:289
-msgid ""
-"Use the adjacent file browser to help you find the file you want to use when "
-"playing a sound when the reminder triggers."
-msgstr ""
-
-#. i18n: ectx: property (filter), widget (KUrlRequester, mSoundFile)
-#: alarmdialog.ui:292
-msgid "audio/x-wav audio/x-mp3 application/ogg"
-msgstr "audio/x-wav audio/x-mp3 application/ogg"
-
-#. i18n: ectx: property (text), widget (QLabel, mApplicationLabel)
-#: alarmdialog.ui:322
-msgid "&Application / Script:"
-msgstr "&Aplicație / script:"
-
-#. i18n: ectx: property (toolTip), widget (KUrlRequester, mApplication)
-#: alarmdialog.ui:332
-#, fuzzy
-#| msgid "Specify a file containing a sound to play when the reminder triggers"
-msgid ""
-"Specify a file containing the application to run when the reminder triggers"
-msgstr ""
-"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
-"memento"
-
-#. i18n: ectx: property (whatsThis), widget (KUrlRequester, mApplication)
-#: alarmdialog.ui:335
-msgid ""
-"Use the adjacent file browser to help you find the file you want to use when "
-"running an application when the reminder triggers."
-msgstr ""
-
-#. i18n: ectx: property (filter), widget (KUrlRequester, mApplication)
-#: alarmdialog.ui:338
-#, fuzzy
-#| msgid "*.*|All files"
-msgid "*|All files"
-msgstr "*.*|Toate fișierele"
-
-#. i18n: ectx: property (text), widget (QLabel, mAppArgumentsLabel)
-#: alarmdialog.ui:345
-msgid "Ar&guments:"
-msgstr "Ar&gumente:"
-
-#. i18n: ectx: property (toolTip), widget (QLineEdit, mAppArguments)
-#: alarmdialog.ui:355
-#, fuzzy
-#| msgid "Specify a file containing a sound to play when the reminder triggers"
-msgid "Specify arguments to pass to the application when the reminder triggers"
-msgstr ""
-"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
-"memento"
-
-#. i18n: ectx: property (whatsThis), widget (QLineEdit, mAppArguments)
-#: alarmdialog.ui:358
-msgid ""
-"Enter the application arguments to use when running an application when the "
-"reminder triggers."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mEmailToLabel)
-#: alarmdialog.ui:388
-msgid "&To:"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (KPIM::AddresseeLineEdit, mEmailAddress)
-#: alarmdialog.ui:400
-msgid ""
-"Specify a list of addresses to send email when the reminder triggers.\n"
-"If the 'To:' field stays empty the email reminder will be sent to the\n"
-"default email configured in Kmail (Settings menu/Configure Kmail/Identities)."
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (KPIM::AddresseeLineEdit, mEmailAddress)
-#: alarmdialog.ui:403
-msgid ""
-"Enter a list comma-separated addresses to which an email will be sent when "
-"the reminder triggers"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mEmailTextLabel)
-#: alarmdialog.ui:410
-msgid "&Message:"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (KTextEdit, mEmailText)
-#: alarmdialog.ui:423
-#, fuzzy
-#| msgid "Specify a file containing a sound to play when the reminder triggers"
-msgid "Specify text of an email message to send when the reminder triggers"
-msgstr ""
-"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
-"memento"
-
-#. i18n: ectx: property (whatsThis), widget (KTextEdit, mEmailText)
-#: alarmdialog.ui:426
-msgid ""
-"Enter any text you desire for the email message that will be sent when the "
-"alarm triggers."
-msgstr ""
 
 #: alarmpresets.cpp:107
 msgctxt "@item:inlistbox"
@@ -447,97 +150,6 @@ msgctxt "@label"
 msgid "New attachment"
 msgstr "Atașament nou"
 
-#. i18n: ectx: property (toolTip), widget (KLineEdit, mLabelEdit)
-#: attachmenteditdialog.ui:26
-msgctxt "@info:tooltip"
-msgid "Give the attachment a name"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (KLineEdit, mLabelEdit)
-#: attachmenteditdialog.ui:29
-msgctxt "@info:whatsthis"
-msgid "Type any string you desire here for the name of the attachment"
-msgstr ""
-
-#. i18n: ectx: property (placeholderText), widget (KLineEdit, mLabelEdit)
-#: attachmenteditdialog.ui:32
-#, fuzzy
-#| msgctxt "@label"
-#| msgid "New attachment"
-msgctxt "@label"
-msgid "Attachment name"
-msgstr "Atașament nou"
-
-#. i18n: ectx: property (text), widget (QLabel, mTypeLabel)
-#: attachmenteditdialog.ui:50
-#, fuzzy
-#| msgctxt "@label unknown mimetype"
-#| msgid "Unknown"
-msgctxt "@label File type of attachment is unknown"
-msgid "Unknown"
-msgstr "Necunoscut"
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, mInlineCheck)
-#: attachmenteditdialog.ui:57
-msgctxt "@info:tooltip"
-msgid "Store the attachment file inside the calendar"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, mInlineCheck)
-#: attachmenteditdialog.ui:60
-msgctxt "@info:whatsthis"
-msgid ""
-"Checking this option will cause the attachment to be stored inside your "
-"calendar, which can take a lot of space depending on the size of the "
-"attachment. If this option is not checked, then only a link pointing to the "
-"attachment will be stored.  Do not use a link for attachments that change "
-"often or may be moved (or removed) from their current location."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, mInlineCheck)
-#: attachmenteditdialog.ui:63
-#, fuzzy
-#| msgctxt "@label"
-#| msgid "New attachment"
-msgctxt "@option:check"
-msgid "Store attachment inline"
-msgstr "Atașament nou"
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: attachmenteditdialog.ui:108
-msgid "Location:"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (KUrlRequester, mURLRequester)
-#: attachmenteditdialog.ui:118
-msgctxt "@info:tooltip"
-msgid "Provide a location for the attachment file"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (KUrlRequester, mURLRequester)
-#: attachmenteditdialog.ui:121
-msgctxt "@info:whatsthis"
-msgid ""
-"Enter the path to the attachment file or use the file browser by pressing "
-"the adjacent button"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_3)
-#: attachmenteditdialog.ui:144
-msgctxt "@label"
-msgid "Size:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mSizeLabel)
-#: attachmenteditdialog.ui:151
-msgid "0 KB"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: attachmenteditdialog.ui:168
-msgid "Type:"
-msgstr ""
-
 #: attendeeline.cpp:169 incidenceattendee.cpp:82
 #, fuzzy
 #| msgid "Request Response"
@@ -586,64 +198,64 @@ msgid ""
 "concerning attendance."
 msgstr ""
 
-#: attendeetablemodel.cpp:81
+#: attendeetablemodel.cpp:82
 msgid "Free"
 msgstr ""
 
-#: attendeetablemodel.cpp:83
+#: attendeetablemodel.cpp:84
 msgid "Busy"
 msgstr ""
 
-#: attendeetablemodel.cpp:85
+#: attendeetablemodel.cpp:86
 msgid "Accepted"
 msgstr ""
 
-#: attendeetablemodel.cpp:87 attendeetablemodel.cpp:89
+#: attendeetablemodel.cpp:88 attendeetablemodel.cpp:90
 #, fuzzy
 #| msgctxt "@label unknown mimetype"
 #| msgid "Unknown"
 msgid "Unknown"
 msgstr "Necunoscut"
 
-#: attendeetablemodel.cpp:168
+#: attendeetablemodel.cpp:169
 msgctxt "vCard attendee role"
 msgid "Role"
 msgstr ""
 
-#: attendeetablemodel.cpp:170
+#: attendeetablemodel.cpp:171
 msgctxt "Attendees  (name+emailaddress)"
 msgid "Name"
 msgstr ""
 
-#: attendeetablemodel.cpp:172
+#: attendeetablemodel.cpp:173
 msgctxt "Is attendee available for incidence"
 msgid "Available"
 msgstr ""
 
-#: attendeetablemodel.cpp:174
+#: attendeetablemodel.cpp:175
 msgctxt ""
 "Status of attendee in an incidence (accepted, declined, delegated, ...)"
 msgid "Status"
 msgstr ""
 
-#: attendeetablemodel.cpp:176
+#: attendeetablemodel.cpp:177
 msgctxt "Type of calendar user (vCard attribute)"
 msgid "User Type"
 msgstr ""
 
-#: attendeetablemodel.cpp:178
+#: attendeetablemodel.cpp:179
 #, fuzzy
 #| msgid "Request Response"
 msgctxt "Has attendee to respond to the invitation"
 msgid "Response"
 msgstr "Cere răspuns"
 
-#: attendeetablemodel.cpp:180
+#: attendeetablemodel.cpp:181
 msgctxt "Attendee name"
 msgid "Name"
 msgstr ""
 
-#: attendeetablemodel.cpp:182
+#: attendeetablemodel.cpp:183
 #, fuzzy
 #| msgid "Send email"
 msgctxt "Attendee email"
@@ -655,20 +267,13 @@ msgid "Click to add a new category"
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, CategoryDialog_base)
-#: categorydialog.cpp:237 categorydialog_base.ui:14
-#: categoryselectdialog.cpp:170 categoryselectdialog_base.ui:13
+#: categorydialog.cpp:237 categoryselectdialog.cpp:170
+#: ui/categorydialog_base.ui:14 ui/categoryselectdialog_base.ui:13
 msgid "Select Categories"
 msgstr "Alege categorii"
 
-#. i18n: ectx: property (text), widget (IncidenceEditorNG::AutoCheckTreeWidget, mCategories)
-#: categorydialog_base.ui:24 categoryselectdialog_base.ui:29
-#, fuzzy
-#| msgid "New category"
-msgid "Category"
-msgstr "Categorie nouă"
-
 #. i18n: ectx: property (windowTitle), widget (QWidget, CategoryEditDialog_base)
-#: categoryeditdialog.cpp:48 categoryeditdialog_base.ui:13
+#: categoryeditdialog.cpp:48 ui/categoryeditdialog_base.ui:13
 msgid "Edit Categories"
 msgstr "Modifică categoriile"
 
@@ -706,719 +311,6 @@ msgstr "Categorie nouă"
 msgid "New subcategory"
 msgstr "Subcategorie nouă"
 
-#. i18n: ectx: property (toolTip), widget (QLineEdit, mEdit)
-#: categoryeditdialog_base.ui:28
-#, fuzzy
-#| msgid "New category"
-msgid "New category entry"
-msgstr "Categorie nouă"
-
-#. i18n: ectx: property (whatsThis), widget (QLineEdit, mEdit)
-#: categoryeditdialog_base.ui:31
-msgid "Type in any text you want to use as a new category or sub-category."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, mButtonAdd)
-#: categoryeditdialog_base.ui:46
-msgid "Add the entry to the category list"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, mButtonAdd)
-#: categoryeditdialog_base.ui:49
-msgid "Click this button to insert the entry into the category list."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mButtonAdd)
-#: categoryeditdialog_base.ui:52
-msgid "A&dd"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, mButtonAddSubcategory)
-#: categoryeditdialog_base.ui:59
-msgid "Add the entry as a subcategory of the selected category"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, mButtonAddSubcategory)
-#: categoryeditdialog_base.ui:62
-msgid ""
-"Click this button to insert the entry as a subcategory of the currently "
-"selected category."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mButtonAddSubcategory)
-#: categoryeditdialog_base.ui:65
-#, fuzzy
-#| msgid "New subcategory"
-msgid "Add &Subcategory"
-msgstr "Subcategorie nouă"
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, mButtonRemove)
-#: categoryeditdialog_base.ui:72
-msgid "Remove the selected category"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, mButtonRemove)
-#: categoryeditdialog_base.ui:75
-msgid ""
-"Click this button to remove the selected category from the category list."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mButtonRemove)
-#. i18n: ectx: property (text), widget (QPushButton, m_buttonRemove)
-#: categoryeditdialog_base.ui:78 template_management_dialog_base.ui:78
-msgid "&Remove"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (IncidenceEditorNG::AutoCheckTreeWidget, mCategories)
-#: categoryeditdialog_base.ui:103
-#, fuzzy
-#| msgid "Edit Categories"
-msgid "Category list"
-msgstr "Modifică categoriile"
-
-#. i18n: ectx: property (whatsThis), widget (IncidenceEditorNG::AutoCheckTreeWidget, mCategories)
-#: categoryeditdialog_base.ui:106
-msgid ""
-"This is a list of all the categories available. You can create as many sub-"
-"categories as you want here."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (IncidenceEditorNG::AutoCheckTreeWidget, mCategories)
-#: categoryeditdialog_base.ui:122
-#, fuzzy
-#| msgid "Select Categories"
-msgid "Default Category"
-msgstr "Alege categorii"
-
-#. i18n: ectx: property (text), widget (QPushButton, mButtonClear)
-#: categoryselectdialog_base.ui:61
-msgid "&Clear Selection"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mButtonEdit)
-#: categoryselectdialog_base.ui:68
-#, fuzzy
-#| msgid "Edit Categories"
-msgid "&Edit Categories..."
-msgstr "Modifică categoriile"
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: dialogdesktop.ui:40
-msgctxt "@label:listbox The calendar to which the todo or event must be added"
-msgid "Calendar:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_7)
-#: dialogdesktop.ui:68
-msgctxt "@info"
-msgid "You are Invited, what do you want to do?"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, mAcceptInvitationButton)
-#: dialogdesktop.ui:75
-msgctxt "@info:tooltip"
-msgid "Accept the invitation"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, mAcceptInvitationButton)
-#: dialogdesktop.ui:78
-msgctxt "@info:whatsthis"
-msgid "Click this button to accept the invitation."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mAcceptInvitationButton)
-#: dialogdesktop.ui:81
-msgctxt "@action:button Accept an invitation"
-msgid "Accept"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mDeclineInvitationButton)
-#: dialogdesktop.ui:88
-msgctxt "@action:button decline an invitation"
-msgid "Decline"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QLabel, label_2)
-#. i18n: ectx: property (toolTip), widget (QLineEdit, mSummaryEdit)
-#: dialogdesktop.ui:123 dialogdesktop.ui:151
-msgctxt "@info:tooltip"
-msgid "Set the title"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QLabel, label_2)
-#. i18n: ectx: property (whatsThis), widget (QLineEdit, mSummaryEdit)
-#: dialogdesktop.ui:126 dialogdesktop.ui:154
-msgctxt "@info:whatsthis"
-msgid "Sets the Title of this event or to-do."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: dialogdesktop.ui:132
-msgctxt "@label"
-msgid "T&itle:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mLocationLabel)
-#: dialogdesktop.ui:170
-msgctxt "@label"
-msgid "&Location:"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QLineEdit, mLocationEdit)
-#: dialogdesktop.ui:189
-msgctxt "@info:tooltip"
-msgid "Set the location"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QLineEdit, mLocationEdit)
-#: dialogdesktop.ui:192
-msgctxt "@info:whatsthis"
-msgid "Sets where the event or to-do will take place."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mTaskLabel)
-#: dialogdesktop.ui:206
-msgctxt "@label line containing to-do specific ui controls"
-msgid "Completion:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mCompletedLabel)
-#: dialogdesktop.ui:259
-msgctxt "@label:slider Showed after the to-do percentage completed slider"
-msgid "completed"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_9)
-#: dialogdesktop.ui:266
-msgctxt "@label:listbox priority of a to-do"
-msgid "Priority:"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:277
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "unspecified"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:282
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "1 (highest)"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:287
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "2"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:292
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "3"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:297
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "4"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:302
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "5 (medium)"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:307
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "6"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:312
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "7"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:317
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "8"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
-#: dialogdesktop.ui:322
-msgctxt "@item:inlistbox Priority of a to-do"
-msgid "9 (lowest)"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, mWholeDayCheck)
-#: dialogdesktop.ui:341
-msgctxt "@info:whatsthis"
-msgid ""
-"Set if this to-do's start and due dates have times associated with them."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, mWholeDayCheck)
-#: dialogdesktop.ui:344
-msgctxt "@option:check"
-msgid "All Day"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, mFreeBusyCheck)
-#: dialogdesktop.ui:370
-#, fuzzy
-#| msgid "Before the event ends"
-msgctxt "@option:check"
-msgid "Blocks me for other events"
-msgstr "Pînă la sfîrșitul evenimentului"
-
-#. i18n: ectx: property (text), widget (QLabel, mStartLabel)
-#: dialogdesktop.ui:401
-msgctxt "@label Start date/time of the event or todo"
-msgid "&Start:"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (KDateComboBox, mStartDateEdit)
-#: dialogdesktop.ui:429
-msgctxt "@info:tooltip"
-msgid "Set the start date"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (KDateComboBox, mStartDateEdit)
-#: dialogdesktop.ui:432
-msgctxt "@info:whatsthis"
-msgid "Sets the start date for this to-do"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (KTimeComboBox, mStartTimeEdit)
-#: dialogdesktop.ui:448
-msgctxt "@info:whatsthis"
-msgid "Sets the start time for this to-do."
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (IncidenceEditorNG::KTimeZoneComboBox, mTimeZoneComboStart)
-#. i18n: ectx: property (whatsThis), widget (IncidenceEditorNG::KTimeZoneComboBox, mTimeZoneComboEnd)
-#: dialogdesktop.ui:464 dialogdesktop.ui:579
-msgctxt "@info:whatsthis"
-msgid "Select the timezone for this event. It will also affect recurrences"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mTimeZoneLabel)
-#: dialogdesktop.ui:482
-msgctxt "@action"
-msgid "<a href=\"hide\"><font color='blue'>&lt;&lt; Time zones</font></a>"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mEndLabel)
-#: dialogdesktop.ui:519
-msgctxt "@label end date/time for an event or to-do"
-msgid "&End:"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (KDateComboBox, mEndDateEdit)
-#: dialogdesktop.ui:547
-msgctxt "@info:whatsthis"
-msgid "Sets the due date for this to-do."
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (KTimeComboBox, mEndTimeEdit)
-#: dialogdesktop.ui:563
-msgctxt "@info:whatsthis"
-msgid "Sets the due time for this to-do."
-msgstr ""
-
-#. i18n: ectx: attribute (title), widget (QWidget, mGeneralTab)
-#: dialogdesktop.ui:612
-msgctxt "@title:tab General settings for an event or to-do"
-msgid "General"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QLabel, mSecrecyLabel)
-#. i18n: ectx: property (toolTip), widget (KComboBox, mSecrecyCombo)
-#: dialogdesktop.ui:627 dialogdesktop.ui:705
-msgctxt "@info:tooltip"
-msgid "Set the secrecy level"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QLabel, mSecrecyLabel)
-#. i18n: ectx: property (whatsThis), widget (KComboBox, mSecrecyCombo)
-#: dialogdesktop.ui:630 dialogdesktop.ui:708
-msgctxt "@info:whatsthis"
-msgid ""
-"Sets whether the access to this event or to-do is restricted. Please note "
-"that KOrganizer currently does not use this setting, so the implementation "
-"of the restrictions will depend on the groupware server. This means that "
-"events or to-dos marked as private or confidential may be visible to others."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mSecrecyLabel)
-#: dialogdesktop.ui:633
-msgctxt "@label:listbox sets the privacy option of the event or to-do"
-msgid "Access:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mRichTextLabel)
-#: dialogdesktop.ui:654
-msgctxt "@label"
-msgid "<a href=\\\"hide\\\"><font color='blue'>Rich text &gt;&gt;</font></a>"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (KRichTextWidget, mDescriptionEdit)
-#: dialogdesktop.ui:679
-msgctxt "@info:tooltip"
-msgid "Set the description in plain text or rich text."
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (KRichTextWidget, mDescriptionEdit)
-#: dialogdesktop.ui:682
-msgctxt "@info:whatsthis"
-msgid ""
-"Sets the description for this event, to-do or journal. This will be "
-"displayed in a reminder if one is set, as well as in a tooltip when you "
-"hover over the event."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
-#: dialogdesktop.ui:698
-#, fuzzy
-#| msgid "Edit Categories"
-msgctxt "@label"
-msgid "Categories:"
-msgstr "Modifică categoriile"
-
-#. i18n: ectx: attribute (title), widget (QWidget, mAttendeesTab)
-#: dialogdesktop.ui:716
-#, fuzzy
-#| msgid "Select Categories"
-msgctxt "@title:tab attendees of this event or to-do"
-msgid "Attendees"
-msgstr "Alege categorii"
-
-#. i18n: ectx: property (text), widget (QLabel, label_3)
-#: dialogdesktop.ui:732
-msgctxt "@label:listbox"
-msgid "Meeting organizer:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_5)
-#: dialogdesktop.ui:742
-msgctxt "@label participants of this event or to-do"
-msgid "Participants:"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, mSolveButton)
-#: dialogdesktop.ui:761
-msgctxt "@info:tooltip"
-msgid "Schedule the meeting with your attendees."
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, mSolveButton)
-#: dialogdesktop.ui:764
-msgctxt "@info:whatsthis"
-msgid ""
-"Opens the scheduling dialog, which will assist in picking a time slot that "
-"works for all attendees."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mSolveButton)
-#: dialogdesktop.ui:767
-msgctxt "@action:button"
-msgid "Schedule..."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mGroupSubstitution)
-#: dialogdesktop.ui:790
-msgid "Substitute with group members"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, mSelectButton)
-#: dialogdesktop.ui:797
-msgctxt "@info:tooltip"
-msgid "Select attendees from your address book."
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, mSelectButton)
-#: dialogdesktop.ui:800
-msgctxt "@info:whatsthis"
-msgid "Opens your address book, allowing you to select new attendees from it."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mSelectButton)
-#: dialogdesktop.ui:803
-#, fuzzy
-#| msgid "Select Categories"
-msgctxt "@action:button"
-msgid "Select Attendees..."
-msgstr "Alege categorii"
-
-#. i18n: ectx: property (toolTip), widget (KComboBox, mOrganizerCombo)
-#: dialogdesktop.ui:843
-#, fuzzy
-#| msgid "Set the reminder trigger time"
-msgctxt "@info:tooltip"
-msgid "Set the organizer identity"
-msgstr "Stabilește ora de declanșare memento"
-
-#. i18n: ectx: property (whatsThis), widget (KComboBox, mOrganizerCombo)
-#: dialogdesktop.ui:846
-msgctxt "@info:whatsthis"
-msgid ""
-"Sets the identity corresponding to the organizer of this to-do or event. "
-"Identities can be set in the 'Personal' section of the KOrganizer "
-"configuration, or in the Personal'->'About Me'->'Password & User Account' "
-"section of the System Settings. In addition, identities are gathered from "
-"your KMail settings and from your address book. If you choose to set it "
-"globally for KDE in the System Settings, be sure to check 'Use email "
-"settings from System Settings' in the 'Personal' section of the KOrganizer "
-"configuration."
-msgstr ""
-
-#. i18n: ectx: attribute (title), widget (QWidget, mResourceTab)
-#: dialogdesktop.ui:887
-msgid "Resources"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mBookResourceButton)
-#: dialogdesktop.ui:927
-msgid "Book resource"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mFindResourcesButton)
-#: dialogdesktop.ui:956
-msgid "Find Resources..."
-msgstr ""
-
-#. i18n: ectx: attribute (title), widget (QWidget, mReminderTab)
-#: dialogdesktop.ui:966
-msgctxt "@title:tab Tab to configure reminders for events or to-do"
-msgid "Reminder"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mQuickAddReminderLabel)
-#: dialogdesktop.ui:978
-#, fuzzy
-#| msgid "Edit existing alarm"
-msgctxt "@label"
-msgid "Add default reminder:"
-msgstr "Modifică alarmă existentă"
-
-#. i18n: ectx: property (text), widget (QPushButton, mAlarmAddPresetButton)
-#: dialogdesktop.ui:1001
-msgctxt "@action:button Adds an reminder"
-msgid "Add"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mAlarmNewButton)
-#: dialogdesktop.ui:1028
-msgctxt "@action:button Create a new reminder"
-msgid "New"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mAlarmConfigureButton)
-#: dialogdesktop.ui:1035
-msgctxt "@action:button Configures selected reminder"
-msgid "Configure"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mAlarmToggleButton)
-#: dialogdesktop.ui:1042
-msgctxt "@action:button disables selected reminder"
-msgid "Disable"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mAlarmRemoveButton)
-#: dialogdesktop.ui:1049
-msgctxt "@action:button removes selected reminders"
-msgid "Remove"
-msgstr ""
-
-#. i18n: ectx: attribute (title), widget (QWidget, mRecurrenceTab)
-#: dialogdesktop.ui:1070
-msgctxt "@title:tab"
-msgid "Recurrence"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mRepeatLabel)
-#: dialogdesktop.ui:1082
-#, fuzzy
-#| msgid "Repeat:"
-msgctxt "@label whether or not this event or to-do repeats"
-msgid "Repeats:"
-msgstr "Repetare:"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
-#: dialogdesktop.ui:1101
-#, fuzzy
-#| msgctxt "repeat every X minutes"
-#| msgid "every "
-msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
-msgid "Never"
-msgstr "la fiecare "
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
-#: dialogdesktop.ui:1106
-msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
-msgid "Daily"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
-#: dialogdesktop.ui:1111
-msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
-msgid "Weekly"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
-#: dialogdesktop.ui:1116
-msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
-msgid "Monthly"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
-#: dialogdesktop.ui:1121
-msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
-msgid "Yearly"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mFrequencyLabel)
-#: dialogdesktop.ui:1135
-#, fuzzy
-#| msgctxt "repeat every X minutes"
-#| msgid "every "
-msgctxt "@label repeats every [various options]"
-msgid "every"
-msgstr "la fiecare "
-
-#. i18n: ectx: property (text), widget (QLabel, mRecurrenceRuleLabel)
-#: dialogdesktop.ui:1167
-#, fuzzy
-#| msgctxt "@item:inlistbox alarm offset expressed in days"
-#| msgid "day(s)"
-msgctxt "@label Event or todo recurs every n day(s)"
-msgid "day(s)"
-msgstr "zi(le)"
-
-#. i18n: ectx: property (text), widget (QCheckBox, mThisAndFutureCheck)
-#: dialogdesktop.ui:1174
-msgid "This and future occurrences."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mRecurrenceEndLabel)
-#: dialogdesktop.ui:1345
-msgctxt "@label recurrence ends on|after"
-msgid "Ends:"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceEndCombo)
-#: dialogdesktop.ui:1367
-#, fuzzy
-#| msgctxt "repeat every X minutes"
-#| msgid "every "
-msgctxt "@item:inlistbox Speficies when a recurring events end"
-msgid "never"
-msgstr "la fiecare "
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceEndCombo)
-#: dialogdesktop.ui:1372
-msgctxt "@item:inlistbox Speficies when a recurring events end"
-msgid "on"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceEndCombo)
-#: dialogdesktop.ui:1377
-msgctxt "@item:inlistbox Speficies when a recurring events end"
-msgid "after"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (KDateComboBox, mRecurrenceEndDate)
-#: dialogdesktop.ui:1432
-msgctxt "@info:whatsthis"
-msgid "Date after which the event or to-do should stop recurring"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mRecurrenceOccurrencesLabel)
-#: dialogdesktop.ui:1487
-msgctxt "@label"
-msgid "occurrence(s)"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mExceptionsLabel)
-#: dialogdesktop.ui:1506
-msgctxt "@label exceptions for the recurrence"
-msgid "Exceptions:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mExceptionAddButton)
-#: dialogdesktop.ui:1531
-msgctxt "@action:button adds an exception on the recurrence"
-msgid "Add"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mOnLabel)
-#: dialogdesktop.ui:1566
-msgctxt "@label The event ends on [different options]"
-msgid "on:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mExceptionRemoveButton)
-#: dialogdesktop.ui:1581
-msgctxt "@action:button removes an exception"
-msgid "Remove"
-msgstr ""
-
-#. i18n: ectx: attribute (title), widget (QWidget, mAttachmentsTab)
-#: dialogdesktop.ui:1604
-#, fuzzy
-#| msgctxt "@label"
-#| msgid "New attachment"
-msgctxt "@title:tab configure attachments of an event or todo"
-msgid "Attachments"
-msgstr "Atașament nou"
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, mAddButton)
-#: dialogdesktop.ui:1626
-#, fuzzy
-#| msgctxt "@label"
-#| msgid "New attachment"
-msgctxt "@info:tooltip"
-msgid "Add an attachment"
-msgstr "Atașament nou"
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, mAddButton)
-#: dialogdesktop.ui:1629
-msgctxt "@info:whatsthis"
-msgid ""
-"Shows a dialog used to select an attachment to add to this event or to-do as "
-"link or as inline data."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mAddButton)
-#: dialogdesktop.ui:1632
-msgctxt "@action:button adds an attachment"
-msgid "Add"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, mRemoveButton)
-#: dialogdesktop.ui:1648
-msgctxt "@info:tooltip"
-msgid "Remove the selected attachment"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, mRemoveButton)
-#: dialogdesktop.ui:1651
-msgctxt "@info:whatsthis"
-msgid ""
-"Removes the attachment selected in the list above from this event or to-do."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, mRemoveButton)
-#: dialogdesktop.ui:1654
-msgctxt "@action:button remove an attachment"
-msgid "Remove"
-msgstr ""
-
 #: editoritemmanager.cpp:240
 msgid ""
 "The item has been changed by another application.\n"
@@ -1433,27 +325,27 @@ msgstr ""
 msgid "Ignore and Overwrite changes"
 msgstr ""
 
-#: freebusyganttproxymodel.cpp:86
+#: freebusyganttproxymodel.cpp:87
 msgctxt "@info:tooltip"
 msgid "Free/Busy Period"
 msgstr ""
 
-#: freebusyganttproxymodel.cpp:89
+#: freebusyganttproxymodel.cpp:90
 msgctxt "@info:tooltip"
 msgid "Summary:"
 msgstr ""
 
-#: freebusyganttproxymodel.cpp:94
+#: freebusyganttproxymodel.cpp:95
 msgctxt "@info:tooltip"
 msgid "Location:"
 msgstr ""
 
-#: freebusyganttproxymodel.cpp:98
+#: freebusyganttproxymodel.cpp:99
 msgctxt "@info:tooltip period start time"
 msgid "Start:"
 msgstr ""
 
-#: freebusyganttproxymodel.cpp:101
+#: freebusyganttproxymodel.cpp:102
 msgctxt "@info:tooltip period end time"
 msgid "End:"
 msgstr ""
@@ -1648,69 +540,69 @@ msgstr ""
 msgid "%1 when the event ends (Disabled)"
 msgstr ""
 
-#: incidenceattachment.cpp:147
+#: incidenceattachment.cpp:146
 msgctxt "@title"
 msgid "Add Attachment"
 msgstr ""
 
-#: incidenceattachment.cpp:207
+#: incidenceattachment.cpp:206
 #, kde-format
 msgctxt "@info"
 msgid "Do you really want to remove these attachments?<nl/>%1"
 msgstr ""
 
-#: incidenceattachment.cpp:208
+#: incidenceattachment.cpp:207
 msgctxt "@title:window"
 msgid "Remove Attachments?"
 msgstr ""
 
-#: incidenceattachment.cpp:245
+#: incidenceattachment.cpp:244
 msgctxt "@title"
 msgid "Save Attachment"
 msgstr ""
 
-#: incidenceattachment.cpp:252
+#: incidenceattachment.cpp:251
 #, kde-format
 msgctxt "@info"
 msgid "%1 already exists. Do you want to overwrite it?"
 msgstr ""
 
-#: incidenceattachment.cpp:424
+#: incidenceattachment.cpp:423
 msgctxt "@action:inmenu"
 msgid "&Link here"
 msgstr ""
 
-#: incidenceattachment.cpp:433 incidenceattachment.cpp:436
+#: incidenceattachment.cpp:432 incidenceattachment.cpp:435
 msgctxt "@action:inmenu"
 msgid "&Copy here"
 msgstr ""
 
-#: incidenceattachment.cpp:440
+#: incidenceattachment.cpp:439
 msgctxt "@action:inmenu"
 msgid "C&ancel"
 msgstr ""
 
-#: incidenceattachment.cpp:489
+#: incidenceattachment.cpp:488
 msgctxt "@action:inmenu open the attachment in a viewer"
 msgid "&Open"
 msgstr ""
 
-#: incidenceattachment.cpp:495
+#: incidenceattachment.cpp:494
 msgctxt "@action:inmenu save the attachment to a file"
 msgid "Save As..."
 msgstr ""
 
-#: incidenceattachment.cpp:513
+#: incidenceattachment.cpp:512
 msgctxt "@action:inmenu remove the attachment"
 msgid "&Remove"
 msgstr ""
 
-#: incidenceattachment.cpp:521
+#: incidenceattachment.cpp:520
 msgctxt "@action:inmenu show a dialog used to edit the attachment"
 msgid "&Properties..."
 msgstr ""
 
-#: incidenceattachment.cpp:531
+#: incidenceattachment.cpp:530
 msgctxt "@info:whatsthis"
 msgid ""
 "Displays items (files, mail, etc.) that have been associated with this event "
@@ -1730,7 +622,7 @@ msgctxt "@title:window"
 msgid "Invalid Email Address"
 msgstr ""
 
-#: incidenceattendee.cpp:644
+#: incidenceattendee.cpp:640
 #, kde-format
 msgctxt "@label Shows the number of scheduling conflicts"
 msgid "%1 conflict"
@@ -1739,7 +631,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: incidenceattendee.cpp:820
+#: incidenceattendee.cpp:816
 msgctxt "@option"
 msgid ""
 "You are changing the organizer of this event. Since the organizer is also "
@@ -1815,12 +707,12 @@ msgctxt "@label"
 msgid "no (valid) identities found"
 msgstr ""
 
-#: incidencedefaults.cpp:309
+#: incidencedefaults.cpp:299
 msgctxt "@label attachment contains binary data"
 msgid "[Binary data]"
 msgstr ""
 
-#: incidencedefaults.cpp:446
+#: incidencedefaults.cpp:436
 msgctxt "@label invalid email address marker"
 msgid "invalid@email.address"
 msgstr ""
@@ -1897,40 +789,40 @@ msgctxt "@info"
 msgid "Template does not contain a valid incidence."
 msgstr ""
 
-#: incidencedialog.cpp:427
+#: incidencedialog.cpp:426
 #, kde-format
 msgctxt "@title:tab Tab to modify attachments of an event or todo"
 msgid "Attac&hments (%1)"
 msgstr ""
 
-#: incidencedialog.cpp:432
+#: incidencedialog.cpp:431
 msgctxt "@title:tab Tab to modify attachments of an event or todo"
 msgid "Attac&hments"
 msgstr ""
 
-#: incidencedialog.cpp:442
+#: incidencedialog.cpp:441
 #, kde-format
 msgctxt "@title:tab Tab to modify attendees of an event or todo"
 msgid "&Attendees (%1)"
 msgstr ""
 
-#: incidencedialog.cpp:447
+#: incidencedialog.cpp:446
 msgctxt "@title:tab Tab to modify attendees of an event or todo"
 msgid "&Attendees"
 msgstr ""
 
-#: incidencedialog.cpp:457
+#: incidencedialog.cpp:456
 #, kde-format
 msgctxt "@title:tab Tab to modify attendees of an event or todo"
 msgid "&Resources (%1)"
 msgstr ""
 
-#: incidencedialog.cpp:462
+#: incidencedialog.cpp:461
 msgctxt "@title:tab Tab to modify attendees of an event or todo"
 msgid "&Resources"
 msgstr ""
 
-#: incidencedialog.cpp:487
+#: incidencedialog.cpp:486
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1939,32 +831,32 @@ msgid ""
 " Reason: %1"
 msgstr ""
 
-#: incidencedialog.cpp:687
+#: incidencedialog.cpp:686
 msgctxt "@info:tooltip"
 msgid "Save current changes"
 msgstr ""
 
-#: incidencedialog.cpp:689
+#: incidencedialog.cpp:688
 msgctxt "@action:button"
 msgid "Save changes and close dialog"
 msgstr ""
 
-#: incidencedialog.cpp:691
+#: incidencedialog.cpp:690
 msgctxt "@action:button"
 msgid "Discard changes and close dialog"
 msgstr ""
 
-#: incidencedialog.cpp:695
+#: incidencedialog.cpp:694
 msgctxt "@action:button"
 msgid "&Templates..."
 msgstr ""
 
-#: incidencedialog.cpp:699
+#: incidencedialog.cpp:698
 msgctxt "@info:tooltip"
 msgid "Manage templates for this item"
 msgstr ""
 
-#: incidencedialog.cpp:702
+#: incidencedialog.cpp:701
 msgctxt "@info:whatsthis"
 msgid ""
 "Push this button to show a dialog that helps you manage a set of templates. "
@@ -1972,12 +864,12 @@ msgid ""
 "favorite default values into the editor automatically."
 msgstr ""
 
-#: incidencedialog.cpp:823 incidencedialog.cpp:845
+#: incidencedialog.cpp:822 incidencedialog.cpp:844
 msgctxt "@info"
 msgid "Do you really want to cancel?"
 msgstr ""
 
-#: incidencedialog.cpp:824 incidencedialog.cpp:846
+#: incidencedialog.cpp:823 incidencedialog.cpp:845
 msgctxt "@title:window"
 msgid "KOrganizer Confirmation"
 msgstr ""
@@ -2012,7 +904,7 @@ msgstr ""
 msgid "Attach message without attachments"
 msgstr ""
 
-#: incidencerecurrence.cpp:129
+#: incidencerecurrence.cpp:127
 msgctxt ""
 "In several of the messages below, an ordinal number is substituted into the "
 "message. Translate this as \"0\" if English ordinal suffixes should be added "
@@ -2021,83 +913,83 @@ msgctxt ""
 msgid "0"
 msgstr ""
 
-#: incidencerecurrence.cpp:431
+#: incidencerecurrence.cpp:429
 msgid ""
 "A recurring event or to-do must occur at least once. Adjust the recurring "
 "parameters."
 msgstr ""
 
-#: incidencerecurrence.cpp:437
+#: incidencerecurrence.cpp:435
 msgid "The incidence's start date is invalid."
 msgstr ""
 
-#: incidencerecurrence.cpp:488
+#: incidencerecurrence.cpp:485
 #, kde-format
 msgctxt "example: the 30th"
 msgid "the %1"
 msgstr ""
 
-#: incidencerecurrence.cpp:492
+#: incidencerecurrence.cpp:489
 #, kde-format
 msgctxt "example: the 4th to last day"
 msgid "the %1 to last day"
 msgstr ""
 
-#: incidencerecurrence.cpp:496
+#: incidencerecurrence.cpp:493
 #, kde-format
 msgctxt "example: the 5th Wednesday"
 msgid "the %1 %2"
 msgstr ""
 
-#: incidencerecurrence.cpp:502
+#: incidencerecurrence.cpp:498
 #, kde-format
 msgctxt "example: the last Wednesday"
 msgid "the last %1"
 msgstr ""
 
-#: incidencerecurrence.cpp:507
+#: incidencerecurrence.cpp:502
 #, kde-format
 msgctxt "example: the 5th to last Wednesday"
 msgid "the %1 to last %2"
 msgstr ""
 
-#: incidencerecurrence.cpp:523
+#: incidencerecurrence.cpp:517
 #, kde-format
 msgctxt "example: the 5th of June"
 msgid "the %1 of %2"
 msgstr ""
 
-#: incidencerecurrence.cpp:528
+#: incidencerecurrence.cpp:522
 #, kde-format
 msgctxt "example: the 3rd to last day of June"
 msgid "the %1 to last day of %2"
 msgstr ""
 
-#: incidencerecurrence.cpp:533
+#: incidencerecurrence.cpp:527
 #, kde-format
 msgctxt "example: the 4th Wednesday of June"
 msgid "the %1 %2 of %3"
 msgstr ""
 
-#: incidencerecurrence.cpp:539
+#: incidencerecurrence.cpp:533
 #, kde-format
 msgctxt "example: the last Wednesday of June"
 msgid "the last %1 of %2"
 msgstr ""
 
-#: incidencerecurrence.cpp:544
+#: incidencerecurrence.cpp:538
 #, kde-format
 msgctxt "example: the 4th to last Wednesday of June"
 msgid "the %1 to last %2 of %3 "
 msgstr ""
 
-#: incidencerecurrence.cpp:552
+#: incidencerecurrence.cpp:546
 #, kde-format
 msgctxt "example: the 15th day of the year"
 msgid "the %1 day of the year"
 msgstr ""
 
-#: incidencerecurrence.cpp:569
+#: incidencerecurrence.cpp:563
 msgctxt "Recurrence ends after n occurrences"
 msgid "occurrence"
 msgid_plural "occurrences"
@@ -2105,7 +997,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: incidencerecurrence.cpp:595
+#: incidencerecurrence.cpp:589
 msgctxt "repeat every N >weeks<"
 msgid "week"
 msgid_plural "weeks"
@@ -2113,7 +1005,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: incidencerecurrence.cpp:599
+#: incidencerecurrence.cpp:593
 msgctxt "repeat every N >months<"
 msgid "month"
 msgid_plural "months"
@@ -2121,7 +1013,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: incidencerecurrence.cpp:603
+#: incidencerecurrence.cpp:597
 msgctxt "repeat every N >years<"
 msgid "year"
 msgid_plural "years"
@@ -2129,7 +1021,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: incidencerecurrence.cpp:607
+#: incidencerecurrence.cpp:601
 msgctxt "repeat every N >days<"
 msgid "day"
 msgid_plural "days"
@@ -2137,7 +1029,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: incidencerecurrence.cpp:615
+#: incidencerecurrence.cpp:609
 msgctxt ""
 "repeat >every< N years/months/...; dynamic context 'type': 'd' days, 'w' "
 "weeks, 'm' months, 'y' years"
@@ -2243,21 +1135,6 @@ msgctxt "ldap attribute mobile"
 msgid "Mobile"
 msgstr ""
 
-#: ldaputils.cpp:54
-msgctxt "kolabldap"
-msgid "Number of seats"
-msgstr ""
-
-#: ldaputils.cpp:56
-msgctxt "kolabldap"
-msgid "Beamer"
-msgstr ""
-
-#: ldaputils.cpp:58
-msgctxt "kolabldap"
-msgid "Conference phone"
-msgstr ""
-
 #: main.cpp:44
 msgid "KOrganizer"
 msgstr ""
@@ -2321,17 +1198,7 @@ msgctxt "@action:button add resource to attendeelist"
 msgid "Book resource"
 msgstr ""
 
-#. i18n: ectx: property (title), widget (QGroupBox, groupDetails)
-#: resourcemanagement.ui:52
-msgid "Details"
-msgstr ""
-
-#. i18n: ectx: property (title), widget (QGroupBox, groupOwner)
-#: resourcemanagement.ui:70
-msgid "Owner"
-msgstr ""
-
-#: schedulingdialog.cpp:189
+#: schedulingdialog.cpp:188
 #, kde-format
 msgctxt ""
 "@label Day of week followed by day of the month, then the month. Example: "
@@ -2339,165 +1206,12 @@ msgctxt ""
 msgid "%1, %2 %3"
 msgstr ""
 
-#: schedulingdialog.cpp:210
+#: schedulingdialog.cpp:209
 #, kde-format
 msgctxt ""
 "@label This is a suffix following a time selecting widget. Example: "
 "[timeedit] to 10:00am"
 msgid "to %1"
-msgstr ""
-
-#. i18n: ectx: property (windowTitle), widget (QWidget, Dialog)
-#: schedulingdialog.ui:14
-msgid "Schedule a time"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: schedulingdialog.ui:27
-#, fuzzy
-#| msgid "Before the to-do starts"
-msgid "Earliest time to start:"
-msgstr "Pînă la începerea activității"
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: schedulingdialog.ui:47
-#, fuzzy
-#| msgid "after the event ends"
-msgid "Latest time to end:"
-msgstr "după sfîrșitul evenimentului"
-
-#. i18n: ectx: property (toolTip), widget (QLabel, label_3)
-#. i18n: ectx: property (toolTip), widget (KPIM::KWeekdayCheckCombo, mWeekdayCombo)
-#: schedulingdialog.ui:71 schedulingdialog.ui:96
-msgid "Check the weekdays to include in the search."
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QLabel, label_3)
-#. i18n: ectx: property (whatsThis), widget (KPIM::KWeekdayCheckCombo, mWeekdayCombo)
-#: schedulingdialog.ui:77 schedulingdialog.ui:99
-msgid ""
-"Only the checked weekdays will be included in the free time slot search."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_3)
-#: schedulingdialog.ui:80
-msgid "Allowed weekdays:"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QLabel, label_5)
-#. i18n: ectx: property (toolTip), widget (KPIM::KCheckComboBox, mRolesCombo)
-#: schedulingdialog.ui:106 schedulingdialog.ui:128
-msgid "Check the roles to include in the search."
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QLabel, label_5)
-#. i18n: ectx: property (whatsThis), widget (KPIM::KCheckComboBox, mRolesCombo)
-#: schedulingdialog.ui:109 schedulingdialog.ui:131
-msgid ""
-"Only the participants with the checked roles will be considered in the free "
-"time slot search."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_5)
-#: schedulingdialog.ui:112
-msgid "Mandatory roles:"
-msgstr ""
-
-#. i18n: ectx: attribute (title), widget (QWidget, mTextTab)
-#: schedulingdialog.ui:146
-msgid "Automatic Search"
-msgstr ""
-
-#. i18n: ectx: attribute (title), widget (QWidget, mGanttTab)
-#: schedulingdialog.ui:181
-msgid "Visual Search"
-msgstr ""
-
-#. i18n: ectx: property (title), widget (QGroupBox, mMoveApptGroupBox)
-#: schedulingdialog.ui:189
-msgid "Move your appointment to:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mMoveDayLabel)
-#: schedulingdialog.ui:210
-msgid "Monday, 12th June"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, mMoveEndTimeLabel)
-#: schedulingdialog.ui:223
-msgid "to 10:00am"
-msgstr ""
-
-#. i18n: ectx: property (windowTitle), widget (QWidget, TemplateManagementDialog_base)
-#: template_management_dialog_base.ui:14
-msgid "Template Management"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, m_introLabel)
-#: template_management_dialog_base.ui:26
-msgctxt "@label"
-msgid ""
-"Select a template and click <i>Apply</i> to apply it to this item. Click "
-"<i>New</i> to create a new template based on the current item settings."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QListWidget, m_listBox)
-#: template_management_dialog_base.ui:42
-msgid "The list of managed templates"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QListWidget, m_listBox)
-#: template_management_dialog_base.ui:45
-msgid ""
-"This is a list of all the templates you have currently accessible for "
-"creating new calendar items."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, m_buttonAdd)
-#: template_management_dialog_base.ui:56
-msgid "Create a new template from the current settings"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, m_buttonAdd)
-#: template_management_dialog_base.ui:59
-msgid ""
-"Click on this button to create a new template based on the current settings "
-"in the editor. You can use this template to quickly add new items in the "
-"future."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, m_buttonAdd)
-#: template_management_dialog_base.ui:62
-msgid "&New..."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, m_buttonRemove)
-#: template_management_dialog_base.ui:72
-msgid "Remove the currently selected template"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, m_buttonRemove)
-#: template_management_dialog_base.ui:75
-msgid ""
-"Clicking this button will permanently remove the selected template from your "
-"list of managed templates."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, m_buttonApply)
-#: template_management_dialog_base.ui:85
-msgid "Apply the selected template settings"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, m_buttonApply)
-#: template_management_dialog_base.ui:88
-msgid ""
-"Clicking this button will apply the settings from the selected template to "
-"the item you are currently editing."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, m_buttonApply)
-#: template_management_dialog_base.ui:91
-msgid "Apply"
 msgstr ""
 
 #: templatemanagementdialog.cpp:60
@@ -2549,6 +1263,1277 @@ msgstr ""
 
 #: tests/resourcemanagment_gui.cpp:35
 msgid "Test for resourceManagement"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, AlarmDialog)
+#: ui/alarmdialog.ui:14
+msgid "Alarms"
+msgstr "Alarme"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: ui/alarmdialog.ui:20
+msgid "When:"
+msgstr "Cînd:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, mAlarmOffset)
+#: ui/alarmdialog.ui:35
+msgid "Set the reminder trigger time"
+msgstr "Stabilește ora de declanșare memento"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, mAlarmOffset)
+#: ui/alarmdialog.ui:38
+msgid ""
+"This spinbox allows you to set the reminder trigger time. The time unit is "
+"set in the combobox immediately adjacent."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, mOffsetUnit)
+#: ui/alarmdialog.ui:60
+#, fuzzy
+#| msgid "Set the reminder trigger time"
+msgid "Select the reminder trigger time unit"
+msgstr "Stabilește ora de declanșare memento"
+
+#. i18n: ectx: property (whatsThis), widget (KComboBox, mOffsetUnit)
+#: ui/alarmdialog.ui:63
+msgid ""
+"This combobox allows you to set the units for the reminder trigger time. The "
+"trigger time value is set in the spinbox immediately adjacent."
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mOffsetUnit)
+#: ui/alarmdialog.ui:70
+msgctxt "@item:inlistbox alarm offset expressed in minutes"
+msgid "minute(s)"
+msgstr "minut(e)"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mOffsetUnit)
+#: ui/alarmdialog.ui:75
+msgctxt "@item:inlistbox alarm offset expressed in hours"
+msgid "hour(s)"
+msgstr "oră(e)"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mOffsetUnit)
+#: ui/alarmdialog.ui:80
+msgctxt "@item:inlistbox alarm offset expressed in days"
+msgid "day(s)"
+msgstr "zi(le)"
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, mBeforeAfter)
+#: ui/alarmdialog.ui:88
+#, fuzzy
+#| msgid "Set the reminder trigger time"
+msgid "Select the reminder trigger relative to the start or end time"
+msgstr "Stabilește ora de declanșare memento"
+
+#. i18n: ectx: property (whatsThis), widget (KComboBox, mBeforeAfter)
+#: ui/alarmdialog.ui:91
+msgid ""
+"Use this combobox to specify if you want the reminder to trigger before or "
+"after the start or end time."
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
+#: ui/alarmdialog.ui:95
+msgid "before the event starts"
+msgstr "pînă la începerea evenimentului"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
+#: ui/alarmdialog.ui:100
+msgid "after the event starts"
+msgstr "după începerea evenimentului"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
+#: ui/alarmdialog.ui:105
+msgid "before the event ends"
+msgstr "pînă la sfîrșitul evenimentului"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
+#: ui/alarmdialog.ui:110
+msgid "after the event ends"
+msgstr "după sfîrșitul evenimentului"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: ui/alarmdialog.ui:120
+msgid "Repeat:"
+msgstr "Repetare:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mRepeats)
+#: ui/alarmdialog.ui:135
+msgid "Set the reminder to repeat"
+msgstr "Stabilește repetarea memento"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mRepeats)
+#: ui/alarmdialog.ui:138
+msgid "Check this if you want to the reminder to recur on a periodic interval."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, mRepeatCount)
+#: ui/alarmdialog.ui:151
+#, fuzzy
+#| msgid "Set the reminder to repeat"
+msgid "Select how often the reminder should repeat"
+msgstr "Stabilește repetarea memento"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, mRepeatCount)
+#: ui/alarmdialog.ui:154
+msgid ""
+"Use this selector to choose how many times you want the recurring reminder "
+"to repeat."
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, mRepeatCount)
+#: ui/alarmdialog.ui:157
+msgid " time(s)"
+msgstr " ori"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, mRepeatInterval)
+#: ui/alarmdialog.ui:173
+#, fuzzy
+#| msgid "Set the reminder to repeat"
+msgid "Select the time between reminder repeats"
+msgstr "Stabilește repetarea memento"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, mRepeatInterval)
+#: ui/alarmdialog.ui:176
+msgid "Use this selector to choose the time between repeating reminders."
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, mRepeatInterval)
+#: ui/alarmdialog.ui:179
+msgctxt "@label:spinbox repeat interval expressed in minutes"
+msgid " Minute(s)"
+msgstr " Minut(e)"
+
+#. i18n: ectx: property (prefix), widget (QSpinBox, mRepeatInterval)
+#: ui/alarmdialog.ui:182
+msgctxt "repeat every X minutes"
+msgid "every "
+msgstr "la fiecare "
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: ui/alarmdialog.ui:203
+msgid "What:"
+msgstr "Ce:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mTypeCombo)
+#: ui/alarmdialog.ui:220
+msgid "Display text"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mTypeCombo)
+#: ui/alarmdialog.ui:225
+msgid "Play sound file"
+msgstr "Redă fișier sonor"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mTypeCombo)
+#: ui/alarmdialog.ui:230
+msgid "Run application / script"
+msgstr "Execută aplicație / script"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mTypeCombo)
+#: ui/alarmdialog.ui:235
+msgid "Send email"
+msgstr "Expediază poștă"
+
+#. i18n: ectx: property (whatsThis), widget (KTextEdit, mDisplayText)
+#: ui/alarmdialog.ui:259
+#, fuzzy
+#| msgid "Specify a file containing a sound to play when the reminder triggers"
+msgid ""
+"Specify any text you desire to display in the popup notice when the reminder "
+"triggers."
+msgstr ""
+"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
+"memento"
+
+#. i18n: ectx: property (text), widget (QLabel, mSoundFileLabel)
+#: ui/alarmdialog.ui:273
+msgid "Audio File:"
+msgstr "Fișier audio:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, mSoundFile)
+#: ui/alarmdialog.ui:286
+msgid "Specify a file containing a sound to play when the reminder triggers"
+msgstr ""
+"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
+"memento"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, mSoundFile)
+#: ui/alarmdialog.ui:289
+msgid ""
+"Use the adjacent file browser to help you find the file you want to use when "
+"playing a sound when the reminder triggers."
+msgstr ""
+
+#. i18n: ectx: property (filter), widget (KUrlRequester, mSoundFile)
+#: ui/alarmdialog.ui:292
+msgid "audio/x-wav audio/x-mp3 application/ogg"
+msgstr "audio/x-wav audio/x-mp3 application/ogg"
+
+#. i18n: ectx: property (text), widget (QLabel, mApplicationLabel)
+#: ui/alarmdialog.ui:322
+msgid "&Application / Script:"
+msgstr "&Aplicație / script:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, mApplication)
+#: ui/alarmdialog.ui:332
+#, fuzzy
+#| msgid "Specify a file containing a sound to play when the reminder triggers"
+msgid ""
+"Specify a file containing the application to run when the reminder triggers"
+msgstr ""
+"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
+"memento"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, mApplication)
+#: ui/alarmdialog.ui:335
+msgid ""
+"Use the adjacent file browser to help you find the file you want to use when "
+"running an application when the reminder triggers."
+msgstr ""
+
+#. i18n: ectx: property (filter), widget (KUrlRequester, mApplication)
+#: ui/alarmdialog.ui:338
+#, fuzzy
+#| msgid "*.*|All files"
+msgid "*|All files"
+msgstr "*.*|Toate fișierele"
+
+#. i18n: ectx: property (text), widget (QLabel, mAppArgumentsLabel)
+#: ui/alarmdialog.ui:345
+msgid "Ar&guments:"
+msgstr "Ar&gumente:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mAppArguments)
+#: ui/alarmdialog.ui:355
+#, fuzzy
+#| msgid "Specify a file containing a sound to play when the reminder triggers"
+msgid "Specify arguments to pass to the application when the reminder triggers"
+msgstr ""
+"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
+"memento"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mAppArguments)
+#: ui/alarmdialog.ui:358
+msgid ""
+"Enter the application arguments to use when running an application when the "
+"reminder triggers."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mEmailToLabel)
+#: ui/alarmdialog.ui:388
+msgid "&To:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPIM::AddresseeLineEdit, mEmailAddress)
+#: ui/alarmdialog.ui:400
+msgid ""
+"Specify a list of addresses to send email when the reminder triggers.\n"
+"If the 'To:' field stays empty the email reminder will be sent to the\n"
+"default email configured in Kmail (Settings menu/Configure Kmail/Identities)."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KPIM::AddresseeLineEdit, mEmailAddress)
+#: ui/alarmdialog.ui:403
+msgid ""
+"Enter a list comma-separated addresses to which an email will be sent when "
+"the reminder triggers"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mEmailTextLabel)
+#: ui/alarmdialog.ui:410
+msgid "&Message:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KTextEdit, mEmailText)
+#: ui/alarmdialog.ui:423
+#, fuzzy
+#| msgid "Specify a file containing a sound to play when the reminder triggers"
+msgid "Specify text of an email message to send when the reminder triggers"
+msgstr ""
+"Specifică un fișier care conține un sunet de redat la declanșarea acestui "
+"memento"
+
+#. i18n: ectx: property (whatsThis), widget (KTextEdit, mEmailText)
+#: ui/alarmdialog.ui:426
+msgid ""
+"Enter any text you desire for the email message that will be sent when the "
+"alarm triggers."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, mLabelEdit)
+#: ui/attachmenteditdialog.ui:26
+msgctxt "@info:tooltip"
+msgid "Give the attachment a name"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KLineEdit, mLabelEdit)
+#: ui/attachmenteditdialog.ui:29
+msgctxt "@info:whatsthis"
+msgid "Type any string you desire here for the name of the attachment"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, mLabelEdit)
+#: ui/attachmenteditdialog.ui:32
+#, fuzzy
+#| msgctxt "@label"
+#| msgid "New attachment"
+msgctxt "@label"
+msgid "Attachment name"
+msgstr "Atașament nou"
+
+#. i18n: ectx: property (text), widget (QLabel, mTypeLabel)
+#: ui/attachmenteditdialog.ui:50
+#, fuzzy
+#| msgctxt "@label unknown mimetype"
+#| msgid "Unknown"
+msgctxt "@label File type of attachment is unknown"
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mInlineCheck)
+#: ui/attachmenteditdialog.ui:57
+msgctxt "@info:tooltip"
+msgid "Store the attachment file inside the calendar"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mInlineCheck)
+#: ui/attachmenteditdialog.ui:60
+msgctxt "@info:whatsthis"
+msgid ""
+"Checking this option will cause the attachment to be stored inside your "
+"calendar, which can take a lot of space depending on the size of the "
+"attachment. If this option is not checked, then only a link pointing to the "
+"attachment will be stored.  Do not use a link for attachments that change "
+"often or may be moved (or removed) from their current location."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mInlineCheck)
+#: ui/attachmenteditdialog.ui:63
+#, fuzzy
+#| msgctxt "@label"
+#| msgid "New attachment"
+msgctxt "@option:check"
+msgid "Store attachment inline"
+msgstr "Atașament nou"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: ui/attachmenteditdialog.ui:108
+msgid "Location:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, mURLRequester)
+#: ui/attachmenteditdialog.ui:118
+msgctxt "@info:tooltip"
+msgid "Provide a location for the attachment file"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, mURLRequester)
+#: ui/attachmenteditdialog.ui:121
+msgctxt "@info:whatsthis"
+msgid ""
+"Enter the path to the attachment file or use the file browser by pressing "
+"the adjacent button"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: ui/attachmenteditdialog.ui:144
+msgctxt "@label"
+msgid "Size:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mSizeLabel)
+#: ui/attachmenteditdialog.ui:151
+msgid "0 KB"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: ui/attachmenteditdialog.ui:168
+msgid "Type:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (IncidenceEditorNG::AutoCheckTreeWidget, mCategories)
+#: ui/categorydialog_base.ui:24 ui/categoryselectdialog_base.ui:29
+#, fuzzy
+#| msgid "New category"
+msgid "Category"
+msgstr "Categorie nouă"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mEdit)
+#: ui/categoryeditdialog_base.ui:28
+#, fuzzy
+#| msgid "New category"
+msgid "New category entry"
+msgstr "Categorie nouă"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mEdit)
+#: ui/categoryeditdialog_base.ui:31
+msgid "Type in any text you want to use as a new category or sub-category."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mButtonAdd)
+#: ui/categoryeditdialog_base.ui:46
+msgid "Add the entry to the category list"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mButtonAdd)
+#: ui/categoryeditdialog_base.ui:49
+msgid "Click this button to insert the entry into the category list."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mButtonAdd)
+#: ui/categoryeditdialog_base.ui:52
+msgid "A&dd"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mButtonAddSubcategory)
+#: ui/categoryeditdialog_base.ui:59
+msgid "Add the entry as a subcategory of the selected category"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mButtonAddSubcategory)
+#: ui/categoryeditdialog_base.ui:62
+msgid ""
+"Click this button to insert the entry as a subcategory of the currently "
+"selected category."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mButtonAddSubcategory)
+#: ui/categoryeditdialog_base.ui:65
+#, fuzzy
+#| msgid "New subcategory"
+msgid "Add &Subcategory"
+msgstr "Subcategorie nouă"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mButtonRemove)
+#: ui/categoryeditdialog_base.ui:72
+msgid "Remove the selected category"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mButtonRemove)
+#: ui/categoryeditdialog_base.ui:75
+msgid ""
+"Click this button to remove the selected category from the category list."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mButtonRemove)
+#. i18n: ectx: property (text), widget (QPushButton, m_buttonRemove)
+#: ui/categoryeditdialog_base.ui:78 ui/template_management_dialog_base.ui:78
+msgid "&Remove"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (IncidenceEditorNG::AutoCheckTreeWidget, mCategories)
+#: ui/categoryeditdialog_base.ui:103
+#, fuzzy
+#| msgid "Edit Categories"
+msgid "Category list"
+msgstr "Modifică categoriile"
+
+#. i18n: ectx: property (whatsThis), widget (IncidenceEditorNG::AutoCheckTreeWidget, mCategories)
+#: ui/categoryeditdialog_base.ui:106
+msgid ""
+"This is a list of all the categories available. You can create as many sub-"
+"categories as you want here."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (IncidenceEditorNG::AutoCheckTreeWidget, mCategories)
+#: ui/categoryeditdialog_base.ui:122
+#, fuzzy
+#| msgid "Select Categories"
+msgid "Default Category"
+msgstr "Alege categorii"
+
+#. i18n: ectx: property (text), widget (QPushButton, mButtonClear)
+#: ui/categoryselectdialog_base.ui:61
+msgid "&Clear Selection"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mButtonEdit)
+#: ui/categoryselectdialog_base.ui:68
+#, fuzzy
+#| msgid "Edit Categories"
+msgid "&Edit Categories..."
+msgstr "Modifică categoriile"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: ui/dialogdesktop.ui:40
+msgctxt "@label:listbox The calendar to which the todo or event must be added"
+msgid "Calendar:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: ui/dialogdesktop.ui:68
+msgctxt "@info"
+msgid "You are Invited, what do you want to do?"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mAcceptInvitationButton)
+#: ui/dialogdesktop.ui:75
+msgctxt "@info:tooltip"
+msgid "Accept the invitation"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mAcceptInvitationButton)
+#: ui/dialogdesktop.ui:78
+msgctxt "@info:whatsthis"
+msgid "Click this button to accept the invitation."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mAcceptInvitationButton)
+#: ui/dialogdesktop.ui:81
+msgctxt "@action:button Accept an invitation"
+msgid "Accept"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mDeclineInvitationButton)
+#: ui/dialogdesktop.ui:88
+msgctxt "@action:button decline an invitation"
+msgid "Decline"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label_2)
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mSummaryEdit)
+#: ui/dialogdesktop.ui:123 ui/dialogdesktop.ui:151
+msgctxt "@info:tooltip"
+msgid "Set the title"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_2)
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mSummaryEdit)
+#: ui/dialogdesktop.ui:126 ui/dialogdesktop.ui:154
+msgctxt "@info:whatsthis"
+msgid "Sets the Title of this event or to-do."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: ui/dialogdesktop.ui:132
+msgctxt "@label"
+msgid "T&itle:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mLocationLabel)
+#: ui/dialogdesktop.ui:170
+msgctxt "@label"
+msgid "&Location:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mLocationEdit)
+#: ui/dialogdesktop.ui:189
+msgctxt "@info:tooltip"
+msgid "Set the location"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mLocationEdit)
+#: ui/dialogdesktop.ui:192
+msgctxt "@info:whatsthis"
+msgid "Sets where the event or to-do will take place."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mTaskLabel)
+#: ui/dialogdesktop.ui:206
+msgctxt "@label line containing to-do specific ui controls"
+msgid "Completion:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mCompletedLabel)
+#: ui/dialogdesktop.ui:259
+msgctxt "@label:slider Showed after the to-do percentage completed slider"
+msgid "completed"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: ui/dialogdesktop.ui:266
+msgctxt "@label:listbox priority of a to-do"
+msgid "Priority:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:277
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "unspecified"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:282
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "1 (highest)"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:287
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "2"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:292
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "3"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:297
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "4"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:302
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "5 (medium)"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:307
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "6"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:312
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "7"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:317
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "8"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mPriorityCombo)
+#: ui/dialogdesktop.ui:322
+msgctxt "@item:inlistbox Priority of a to-do"
+msgid "9 (lowest)"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mWholeDayCheck)
+#: ui/dialogdesktop.ui:341
+msgctxt "@info:whatsthis"
+msgid ""
+"Set if this to-do's start and due dates have times associated with them."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mWholeDayCheck)
+#: ui/dialogdesktop.ui:344
+msgctxt "@option:check"
+msgid "All Day"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mFreeBusyCheck)
+#: ui/dialogdesktop.ui:370
+#, fuzzy
+#| msgid "Before the event ends"
+msgctxt "@option:check"
+msgid "Blocks me for other events"
+msgstr "Pînă la sfîrșitul evenimentului"
+
+#. i18n: ectx: property (text), widget (QLabel, mStartLabel)
+#: ui/dialogdesktop.ui:401
+msgctxt "@label Start date/time of the event or todo"
+msgid "&Start:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KDateComboBox, mStartDateEdit)
+#: ui/dialogdesktop.ui:429
+msgctxt "@info:tooltip"
+msgid "Set the start date"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KDateComboBox, mStartDateEdit)
+#: ui/dialogdesktop.ui:432
+msgctxt "@info:whatsthis"
+msgid "Sets the start date for this to-do"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KTimeComboBox, mStartTimeEdit)
+#: ui/dialogdesktop.ui:448
+msgctxt "@info:whatsthis"
+msgid "Sets the start time for this to-do."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (IncidenceEditorNG::KTimeZoneComboBox, mTimeZoneComboStart)
+#. i18n: ectx: property (whatsThis), widget (IncidenceEditorNG::KTimeZoneComboBox, mTimeZoneComboEnd)
+#: ui/dialogdesktop.ui:464 ui/dialogdesktop.ui:579
+msgctxt "@info:whatsthis"
+msgid "Select the timezone for this event. It will also affect recurrences"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mTimeZoneLabel)
+#: ui/dialogdesktop.ui:482
+msgctxt "@action"
+msgid "<a href=\"hide\"><font color='blue'>&lt;&lt; Time zones</font></a>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mEndLabel)
+#: ui/dialogdesktop.ui:519
+msgctxt "@label end date/time for an event or to-do"
+msgid "&End:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KDateComboBox, mEndDateEdit)
+#: ui/dialogdesktop.ui:547
+msgctxt "@info:whatsthis"
+msgid "Sets the due date for this to-do."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KTimeComboBox, mEndTimeEdit)
+#: ui/dialogdesktop.ui:563
+msgctxt "@info:whatsthis"
+msgid "Sets the due time for this to-do."
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, mGeneralTab)
+#: ui/dialogdesktop.ui:612
+msgctxt "@title:tab General settings for an event or to-do"
+msgid "General"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, mSecrecyLabel)
+#. i18n: ectx: property (toolTip), widget (KComboBox, mSecrecyCombo)
+#: ui/dialogdesktop.ui:627 ui/dialogdesktop.ui:705
+msgctxt "@info:tooltip"
+msgid "Set the secrecy level"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, mSecrecyLabel)
+#. i18n: ectx: property (whatsThis), widget (KComboBox, mSecrecyCombo)
+#: ui/dialogdesktop.ui:630 ui/dialogdesktop.ui:708
+msgctxt "@info:whatsthis"
+msgid ""
+"Sets whether the access to this event or to-do is restricted. Please note "
+"that KOrganizer currently does not use this setting, so the implementation "
+"of the restrictions will depend on the groupware server. This means that "
+"events or to-dos marked as private or confidential may be visible to others."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mSecrecyLabel)
+#: ui/dialogdesktop.ui:633
+msgctxt "@label:listbox sets the privacy option of the event or to-do"
+msgid "Access:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mRichTextLabel)
+#: ui/dialogdesktop.ui:654
+msgctxt "@label"
+msgid "<a href=\\\"hide\\\"><font color='blue'>Rich text &gt;&gt;</font></a>"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KRichTextWidget, mDescriptionEdit)
+#: ui/dialogdesktop.ui:679
+msgctxt "@info:tooltip"
+msgid "Set the description in plain text or rich text."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KRichTextWidget, mDescriptionEdit)
+#: ui/dialogdesktop.ui:682
+msgctxt "@info:whatsthis"
+msgid ""
+"Sets the description for this event, to-do or journal. This will be "
+"displayed in a reminder if one is set, as well as in a tooltip when you "
+"hover over the event."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
+#: ui/dialogdesktop.ui:698
+#, fuzzy
+#| msgid "Edit Categories"
+msgctxt "@label"
+msgid "Categories:"
+msgstr "Modifică categoriile"
+
+#. i18n: ectx: attribute (title), widget (QWidget, mAttendeesTab)
+#: ui/dialogdesktop.ui:716
+#, fuzzy
+#| msgid "Select Categories"
+msgctxt "@title:tab attendees of this event or to-do"
+msgid "Attendees"
+msgstr "Alege categorii"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: ui/dialogdesktop.ui:732
+msgctxt "@label:listbox"
+msgid "Meeting organizer:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: ui/dialogdesktop.ui:742
+msgctxt "@label participants of this event or to-do"
+msgid "Participants:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mSolveButton)
+#: ui/dialogdesktop.ui:761
+msgctxt "@info:tooltip"
+msgid "Schedule the meeting with your attendees."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mSolveButton)
+#: ui/dialogdesktop.ui:764
+msgctxt "@info:whatsthis"
+msgid ""
+"Opens the scheduling dialog, which will assist in picking a time slot that "
+"works for all attendees."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mSolveButton)
+#: ui/dialogdesktop.ui:767
+msgctxt "@action:button"
+msgid "Schedule..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mGroupSubstitution)
+#: ui/dialogdesktop.ui:790
+msgid "Substitute with group members"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mSelectButton)
+#: ui/dialogdesktop.ui:797
+msgctxt "@info:tooltip"
+msgid "Select attendees from your address book."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mSelectButton)
+#: ui/dialogdesktop.ui:800
+msgctxt "@info:whatsthis"
+msgid "Opens your address book, allowing you to select new attendees from it."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mSelectButton)
+#: ui/dialogdesktop.ui:803
+#, fuzzy
+#| msgid "Select Categories"
+msgctxt "@action:button"
+msgid "Select Attendees..."
+msgstr "Alege categorii"
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, mOrganizerCombo)
+#: ui/dialogdesktop.ui:843
+#, fuzzy
+#| msgid "Set the reminder trigger time"
+msgctxt "@info:tooltip"
+msgid "Set the organizer identity"
+msgstr "Stabilește ora de declanșare memento"
+
+#. i18n: ectx: property (whatsThis), widget (KComboBox, mOrganizerCombo)
+#: ui/dialogdesktop.ui:846
+msgctxt "@info:whatsthis"
+msgid ""
+"Sets the identity corresponding to the organizer of this to-do or event. "
+"Identities can be set in the 'Personal' section of the KOrganizer "
+"configuration, or in the Personal'->'About Me'->'Password & User Account' "
+"section of the System Settings. In addition, identities are gathered from "
+"your KMail settings and from your address book. If you choose to set it "
+"globally for KDE in the System Settings, be sure to check 'Use email "
+"settings from System Settings' in the 'Personal' section of the KOrganizer "
+"configuration."
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, mResourceTab)
+#: ui/dialogdesktop.ui:887
+msgid "Resources"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mBookResourceButton)
+#: ui/dialogdesktop.ui:927
+msgid "Book resource"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mFindResourcesButton)
+#: ui/dialogdesktop.ui:956
+msgid "Find Resources..."
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, mReminderTab)
+#: ui/dialogdesktop.ui:966
+msgctxt "@title:tab Tab to configure reminders for events or to-do"
+msgid "Reminder"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mQuickAddReminderLabel)
+#: ui/dialogdesktop.ui:978
+#, fuzzy
+#| msgid "Edit existing alarm"
+msgctxt "@label"
+msgid "Add default reminder:"
+msgstr "Modifică alarmă existentă"
+
+#. i18n: ectx: property (text), widget (QPushButton, mAlarmAddPresetButton)
+#: ui/dialogdesktop.ui:1001
+msgctxt "@action:button Adds an reminder"
+msgid "Add"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mAlarmNewButton)
+#: ui/dialogdesktop.ui:1028
+msgctxt "@action:button Create a new reminder"
+msgid "New"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mAlarmConfigureButton)
+#: ui/dialogdesktop.ui:1035
+msgctxt "@action:button Configures selected reminder"
+msgid "Configure"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mAlarmToggleButton)
+#: ui/dialogdesktop.ui:1042
+msgctxt "@action:button disables selected reminder"
+msgid "Disable"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mAlarmRemoveButton)
+#: ui/dialogdesktop.ui:1049
+msgctxt "@action:button removes selected reminders"
+msgid "Remove"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, mRecurrenceTab)
+#: ui/dialogdesktop.ui:1070
+msgctxt "@title:tab"
+msgid "Recurrence"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mRepeatLabel)
+#: ui/dialogdesktop.ui:1082
+#, fuzzy
+#| msgid "Repeat:"
+msgctxt "@label whether or not this event or to-do repeats"
+msgid "Repeats:"
+msgstr "Repetare:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
+#: ui/dialogdesktop.ui:1101
+#, fuzzy
+#| msgctxt "repeat every X minutes"
+#| msgid "every "
+msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
+msgid "Never"
+msgstr "la fiecare "
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
+#: ui/dialogdesktop.ui:1106
+msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
+msgid "Daily"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
+#: ui/dialogdesktop.ui:1111
+msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
+msgid "Weekly"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
+#: ui/dialogdesktop.ui:1116
+msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
+msgid "Monthly"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceTypeCombo)
+#: ui/dialogdesktop.ui:1121
+msgctxt "@item:inlistbox Lets the user chose how often an event recurs"
+msgid "Yearly"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mFrequencyLabel)
+#: ui/dialogdesktop.ui:1135
+#, fuzzy
+#| msgctxt "repeat every X minutes"
+#| msgid "every "
+msgctxt "@label repeats every [various options]"
+msgid "every"
+msgstr "la fiecare "
+
+#. i18n: ectx: property (text), widget (QLabel, mRecurrenceRuleLabel)
+#: ui/dialogdesktop.ui:1167
+#, fuzzy
+#| msgctxt "@item:inlistbox alarm offset expressed in days"
+#| msgid "day(s)"
+msgctxt "@label Event or todo recurs every n day(s)"
+msgid "day(s)"
+msgstr "zi(le)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mThisAndFutureCheck)
+#: ui/dialogdesktop.ui:1174
+msgid "This and future occurrences."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mRecurrenceEndLabel)
+#: ui/dialogdesktop.ui:1345
+msgctxt "@label recurrence ends on|after"
+msgid "Ends:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceEndCombo)
+#: ui/dialogdesktop.ui:1367
+#, fuzzy
+#| msgctxt "repeat every X minutes"
+#| msgid "every "
+msgctxt "@item:inlistbox Speficies when a recurring events end"
+msgid "never"
+msgstr "la fiecare "
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceEndCombo)
+#: ui/dialogdesktop.ui:1372
+msgctxt "@item:inlistbox Speficies when a recurring events end"
+msgid "on"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mRecurrenceEndCombo)
+#: ui/dialogdesktop.ui:1377
+msgctxt "@item:inlistbox Speficies when a recurring events end"
+msgid "after"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KDateComboBox, mRecurrenceEndDate)
+#: ui/dialogdesktop.ui:1432
+msgctxt "@info:whatsthis"
+msgid "Date after which the event or to-do should stop recurring"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mRecurrenceOccurrencesLabel)
+#: ui/dialogdesktop.ui:1487
+msgctxt "@label"
+msgid "occurrence(s)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mExceptionsLabel)
+#: ui/dialogdesktop.ui:1506
+msgctxt "@label exceptions for the recurrence"
+msgid "Exceptions:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mExceptionAddButton)
+#: ui/dialogdesktop.ui:1531
+msgctxt "@action:button adds an exception on the recurrence"
+msgid "Add"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mOnLabel)
+#: ui/dialogdesktop.ui:1566
+msgctxt "@label The event ends on [different options]"
+msgid "on:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mExceptionRemoveButton)
+#: ui/dialogdesktop.ui:1581
+msgctxt "@action:button removes an exception"
+msgid "Remove"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, mAttachmentsTab)
+#: ui/dialogdesktop.ui:1604
+#, fuzzy
+#| msgctxt "@label"
+#| msgid "New attachment"
+msgctxt "@title:tab configure attachments of an event or todo"
+msgid "Attachments"
+msgstr "Atașament nou"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mAddButton)
+#: ui/dialogdesktop.ui:1626
+#, fuzzy
+#| msgctxt "@label"
+#| msgid "New attachment"
+msgctxt "@info:tooltip"
+msgid "Add an attachment"
+msgstr "Atașament nou"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mAddButton)
+#: ui/dialogdesktop.ui:1629
+msgctxt "@info:whatsthis"
+msgid ""
+"Shows a dialog used to select an attachment to add to this event or to-do as "
+"link or as inline data."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mAddButton)
+#: ui/dialogdesktop.ui:1632
+msgctxt "@action:button adds an attachment"
+msgid "Add"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mRemoveButton)
+#: ui/dialogdesktop.ui:1648
+msgctxt "@info:tooltip"
+msgid "Remove the selected attachment"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mRemoveButton)
+#: ui/dialogdesktop.ui:1651
+msgctxt "@info:whatsthis"
+msgid ""
+"Removes the attachment selected in the list above from this event or to-do."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mRemoveButton)
+#: ui/dialogdesktop.ui:1654
+msgctxt "@action:button remove an attachment"
+msgid "Remove"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupDetails)
+#: ui/resourcemanagement.ui:52
+msgid "Details"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupOwner)
+#: ui/resourcemanagement.ui:70
+msgid "Owner"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, Dialog)
+#: ui/schedulingdialog.ui:14
+msgid "Schedule a time"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: ui/schedulingdialog.ui:27
+#, fuzzy
+#| msgid "Before the to-do starts"
+msgid "Earliest time to start:"
+msgstr "Pînă la începerea activității"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: ui/schedulingdialog.ui:47
+#, fuzzy
+#| msgid "after the event ends"
+msgid "Latest time to end:"
+msgstr "după sfîrșitul evenimentului"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label_3)
+#. i18n: ectx: property (toolTip), widget (KPIM::KWeekdayCheckCombo, mWeekdayCombo)
+#: ui/schedulingdialog.ui:71 ui/schedulingdialog.ui:96
+msgid "Check the weekdays to include in the search."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_3)
+#. i18n: ectx: property (whatsThis), widget (KPIM::KWeekdayCheckCombo, mWeekdayCombo)
+#: ui/schedulingdialog.ui:77 ui/schedulingdialog.ui:99
+msgid ""
+"Only the checked weekdays will be included in the free time slot search."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: ui/schedulingdialog.ui:80
+msgid "Allowed weekdays:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label_5)
+#. i18n: ectx: property (toolTip), widget (KPIM::KCheckComboBox, mRolesCombo)
+#: ui/schedulingdialog.ui:106 ui/schedulingdialog.ui:128
+msgid "Check the roles to include in the search."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_5)
+#. i18n: ectx: property (whatsThis), widget (KPIM::KCheckComboBox, mRolesCombo)
+#: ui/schedulingdialog.ui:109 ui/schedulingdialog.ui:131
+msgid ""
+"Only the participants with the checked roles will be considered in the free "
+"time slot search."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: ui/schedulingdialog.ui:112
+msgid "Mandatory roles:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, mTextTab)
+#: ui/schedulingdialog.ui:146
+msgid "Automatic Search"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, mGanttTab)
+#: ui/schedulingdialog.ui:181
+msgid "Visual Search"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, mMoveApptGroupBox)
+#: ui/schedulingdialog.ui:189
+msgid "Move your appointment to:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mMoveDayLabel)
+#: ui/schedulingdialog.ui:210
+msgid "Monday, 12th June"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mMoveEndTimeLabel)
+#: ui/schedulingdialog.ui:223
+msgid "to 10:00am"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, TemplateManagementDialog_base)
+#: ui/template_management_dialog_base.ui:14
+msgid "Template Management"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, m_introLabel)
+#: ui/template_management_dialog_base.ui:26
+msgctxt "@label"
+msgid ""
+"Select a template and click <i>Apply</i> to apply it to this item. Click "
+"<i>New</i> to create a new template based on the current item settings."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QListWidget, m_listBox)
+#: ui/template_management_dialog_base.ui:42
+msgid "The list of managed templates"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QListWidget, m_listBox)
+#: ui/template_management_dialog_base.ui:45
+msgid ""
+"This is a list of all the templates you have currently accessible for "
+"creating new calendar items."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, m_buttonAdd)
+#: ui/template_management_dialog_base.ui:56
+msgid "Create a new template from the current settings"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, m_buttonAdd)
+#: ui/template_management_dialog_base.ui:59
+msgid ""
+"Click on this button to create a new template based on the current settings "
+"in the editor. You can use this template to quickly add new items in the "
+"future."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, m_buttonAdd)
+#: ui/template_management_dialog_base.ui:62
+msgid "&New..."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, m_buttonRemove)
+#: ui/template_management_dialog_base.ui:72
+msgid "Remove the currently selected template"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, m_buttonRemove)
+#: ui/template_management_dialog_base.ui:75
+msgid ""
+"Clicking this button will permanently remove the selected template from your "
+"list of managed templates."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, m_buttonApply)
+#: ui/template_management_dialog_base.ui:85
+msgid "Apply the selected template settings"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, m_buttonApply)
+#: ui/template_management_dialog_base.ui:88
+msgid ""
+"Clicking this button will apply the settings from the selected template to "
+"the item you are currently editing."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, m_buttonApply)
+#: ui/template_management_dialog_base.ui:91
+msgid "Apply"
 msgstr ""
 
 #: visualfreebusywidget.cpp:163

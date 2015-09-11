@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libkmime\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-13 09:49+0000\n"
+"POT-Creation-Date: 2015-09-07 08:00+0000\n"
 "PO-Revision-Date: 2009-01-14 11:49+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
@@ -20,28 +20,28 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 "X-Generator: Lokalize 0.3\n"
 
-#: kmime_dateformatter.cpp:195
+#: kmime_dateformatter.cpp:270
 msgctxt "invalid time specified"
 msgid "unknown"
 msgstr "necunoscut"
 
-#: kmime_dateformatter.cpp:211
+#: kmime_dateformatter.cpp:286
 #, kde-format
 msgid "Today %1"
 msgstr "Astăzi %1"
 
-#: kmime_dateformatter.cpp:215
+#: kmime_dateformatter.cpp:290
 #, kde-format
 msgid "Yesterday %1"
 msgstr "Ieri %1"
 
-#: kmime_dateformatter.cpp:220
+#: kmime_dateformatter.cpp:295
 #, kde-format
 msgctxt "1. weekday, 2. time"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: kmime_mdn.cpp:58
+#: kmime_mdn.cpp:59
 msgid ""
 "The message sent on ${date} to ${to} with subject \"${subject}\" has been "
 "displayed. This is no guarantee that the message has been read or understood."
@@ -49,7 +49,7 @@ msgstr ""
 "Mesajul expediat la ${date} către ${to} cu subiectul „${subject}” a fost "
 "afișat. Aceasta nu este o garanție că mesajul a fost citit sau înțeles."
 
-#: kmime_mdn.cpp:64
+#: kmime_mdn.cpp:65
 msgid ""
 "The message sent on ${date} to ${to} with subject \"${subject}\" has been "
 "deleted unseen. This is no guarantee that the message will not be \"undeleted"
@@ -59,7 +59,7 @@ msgstr ""
 "șters fără să fie văzut. Aceasta nu este o garanție că mesajul nu va fi "
 "recuperat și citit totuși mai tîrziu."
 
-#: kmime_mdn.cpp:71
+#: kmime_mdn.cpp:72
 msgid ""
 "The message sent on ${date} to ${to} with subject \"${subject}\" has been "
 "dispatched. This is no guarantee that the message will not be read later on."
@@ -68,7 +68,7 @@ msgstr ""
 "redirecționat. Aceasta nu este o garanție că mesajul nu va fi citit mai "
 "tîrziu."
 
-#: kmime_mdn.cpp:77
+#: kmime_mdn.cpp:78
 msgid ""
 "The message sent on ${date} to ${to} with subject \"${subject}\" has been "
 "processed by some automatic means."
@@ -76,7 +76,7 @@ msgstr ""
 "Mesajul expediat la ${date} către ${to} cu subiectul „${subject}” a fost "
 "procesat printr-un mijloc automatizat."
 
-#: kmime_mdn.cpp:82
+#: kmime_mdn.cpp:83
 msgid ""
 "The message sent on ${date} to ${to} with subject \"${subject}\" has been "
 "acted upon. The sender does not wish to disclose more details to you than "
@@ -85,7 +85,7 @@ msgstr ""
 "Mesajul expediat la ${date} către ${to} cu subiectul „${subject}” a fost "
 "prelucrat. Expeditorul nu vrea să vă ofere mai multe detalii."
 
-#: kmime_mdn.cpp:88
+#: kmime_mdn.cpp:89
 msgid ""
 "Generation of a Message Disposition Notification for the message sent on "
 "${date} to ${to} with subject \"${subject}\" failed. Reason is given in the "

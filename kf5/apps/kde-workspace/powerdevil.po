@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-19 08:29+0000\n"
+"POT-Creation-Date: 2015-09-03 08:43+0000\n"
 "PO-Revision-Date: 2013-11-26 22:58+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -178,7 +178,7 @@ msgstr ""
 "Nu sînt disponibile module de suport valide pentru gestiunea alimentării. O "
 "nouă instalare ar putea rezolva această problemă."
 
-#: powerdevilcore.cpp:288
+#: powerdevilcore.cpp:290
 #, kde-format
 msgid ""
 "The profile \"%1\" has been selected, but it does not exist.\n"
@@ -187,20 +187,20 @@ msgstr ""
 "A fost ales profilul „%1”, dar acesta nu există.\n"
 "Verificați configurația PowerDevil."
 
-#: powerdevilcore.cpp:352 powerdevilcore.cpp:364
+#: powerdevilcore.cpp:354 powerdevilcore.cpp:366
 msgid "Activity Manager"
 msgstr "Gestionar de activități"
 
-#: powerdevilcore.cpp:353
+#: powerdevilcore.cpp:355
 msgid "This activity's policies prevent the system from suspending"
 msgstr "Politicile acestei activități împiedică sistemul să se suspende"
 
-#: powerdevilcore.cpp:365
+#: powerdevilcore.cpp:367
 msgid "This activity's policies prevent screen power management"
 msgstr ""
 "Politicile acestei activități împiedică gestiunea alimentării ecranului"
 
-#: powerdevilcore.cpp:409
+#: powerdevilcore.cpp:411
 msgid ""
 "Could not connect to battery interface.\n"
 "Please check your system configuration"
@@ -208,22 +208,22 @@ msgstr ""
 "Nu m-am putut conecta la interfața acumulatorului.\n"
 "Verificați configurația sistemului"
 
-#: powerdevilcore.cpp:430
+#: powerdevilcore.cpp:432
 #, fuzzy
 #| msgid "Critical battery level"
 msgid "Additional Battery Added"
 msgstr "Nivel critic al acumulatorului"
 
-#: powerdevilcore.cpp:431 powerdevilcore.cpp:546
+#: powerdevilcore.cpp:433 powerdevilcore.cpp:548
 msgid "All pending suspend actions have been canceled."
 msgstr "Toate acțiunile de suspendare în așteptare au fost anulate."
 
-#: powerdevilcore.cpp:487
+#: powerdevilcore.cpp:489
 #, kde-format
 msgid "Battery Low (%1% Remaining)"
 msgstr "Acumulator scăzut (%1% rămas)"
 
-#: powerdevilcore.cpp:488
+#: powerdevilcore.cpp:490
 msgid ""
 "Your battery is low. If you need to continue using your computer, either "
 "plug in your computer, or shut it down and then change the battery."
@@ -232,12 +232,12 @@ msgstr ""
 "calculatorului, conectați-l la priză sau deconectați-l și schimbați "
 "acumulatorul."
 
-#: powerdevilcore.cpp:499
+#: powerdevilcore.cpp:501
 #, kde-format
 msgid "Battery Critical (%1% Remaining)"
 msgstr "Acumulator critic (%1% rămas)"
 
-#: powerdevilcore.cpp:501
+#: powerdevilcore.cpp:503
 #, fuzzy
 #| msgctxt "Interrupts the suspension/shutdown process"
 #| msgid "Cancel"
@@ -246,7 +246,7 @@ msgctxt ""
 msgid "Cancel"
 msgstr "Renunță"
 
-#: powerdevilcore.cpp:510
+#: powerdevilcore.cpp:512
 #, fuzzy
 #| msgid ""
 #| "Your battery level is critical, the computer will be halted in 30 seconds."
@@ -256,7 +256,7 @@ msgstr ""
 "Nivelul acumulatorului este critic, calculatorul va fi deconectat în 30 de "
 "secunde."
 
-#: powerdevilcore.cpp:515
+#: powerdevilcore.cpp:517
 #, fuzzy
 #| msgid ""
 #| "Your battery level is critical, the computer will be hibernated in 30 "
@@ -267,7 +267,7 @@ msgid ""
 msgstr ""
 "Nivelul acumulatorului este critic, calculatorul va hiberna în 30 de secunde."
 
-#: powerdevilcore.cpp:520
+#: powerdevilcore.cpp:522
 #, fuzzy
 #| msgid ""
 #| "Your battery level is critical, the computer will be suspended in 30 "
@@ -278,31 +278,31 @@ msgstr ""
 "Nivelul acumulatorului este critic, calculatorul va fi suspendat în 30 de "
 "secunde."
 
-#: powerdevilcore.cpp:525
+#: powerdevilcore.cpp:527
 msgid "Your battery level is critical, save your work as soon as possible."
 msgstr "Nivelul acumulatorului este critic, salvați-vă lucrul cît mai curînd."
 
-#: powerdevilcore.cpp:545
+#: powerdevilcore.cpp:547
 msgid "AC Adapter Plugged In"
 msgstr "Adaptorul de alimentare este atașat"
 
-#: powerdevilcore.cpp:548
+#: powerdevilcore.cpp:550
 msgid "Running on AC power"
 msgstr "Rulează alimentat de la priză"
 
-#: powerdevilcore.cpp:548
+#: powerdevilcore.cpp:550
 msgid "The power adaptor has been plugged in."
 msgstr "Adaptorul de alimentare a fost atașat."
 
-#: powerdevilcore.cpp:551
+#: powerdevilcore.cpp:553
 msgid "Running on Battery Power"
 msgstr "Rulează alimentat de la acumulator"
 
-#: powerdevilcore.cpp:551
+#: powerdevilcore.cpp:553
 msgid "The power adaptor has been unplugged."
 msgstr "Adaptorul de alimentare a fost detașat."
 
-#: powerdevilcore.cpp:557
+#: powerdevilcore.cpp:559
 #, kde-format
 msgid ""
 "KDE Power Management System could not be initialized. The backend reported "
@@ -313,11 +313,11 @@ msgstr ""
 "a raportat următoarea eroare: %1\n"
 "Verificați configurația sistemului"
 
-#: powerdevilcore.cpp:604
+#: powerdevilcore.cpp:606
 msgid "Charge Complete"
 msgstr "Încărcare încheiată"
 
-#: powerdevilcore.cpp:604
+#: powerdevilcore.cpp:606
 msgid "Your battery is now fully charged."
 msgstr "Acumulatorul este acum complet încărcat."
 

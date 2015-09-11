@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-22 08:59+0000\n"
+"POT-Creation-Date: 2015-09-10 09:16+0000\n"
 "PO-Revision-Date: 2014-03-25 16:46+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -42,19 +42,23 @@ msgstr ""
 msgid "Albert Vaca Cintora"
 msgstr ""
 
-#: kcm.cpp:209 kcm.cpp:268
+#: kcm.cpp:212 kcm.cpp:278
 msgid "(paired)"
 msgstr "(asociat)"
 
-#: kcm.cpp:209 kcm.cpp:268
+#: kcm.cpp:212 kcm.cpp:278
 msgid "(unpaired)"
 msgstr "(neasociat)"
 
-#: kcm.cpp:218
-msgid "Plugins"
-msgstr "Extensii"
+#: kcm.cpp:228
+msgid "Available plugins"
+msgstr ""
 
-#: kcm.cpp:255
+#: kcm.cpp:229
+msgid "Plugins unsupported by the device"
+msgstr ""
+
+#: kcm.cpp:265
 #, kde-format
 msgid "Error trying to pair: %1"
 msgstr "Eroare la încercarea de asociere: %1"
@@ -109,6 +113,9 @@ msgid ""
 "kde.kdeconnect_tp\"><span style=\" text-decoration: underline; color:#0000ff;"
 "\">from F-Droid</span></a>)."
 msgstr ""
+
+#~ msgid "Plugins"
+#~ msgstr "Extensii"
 
 #~ msgid "Browse"
 #~ msgstr "Răsfoiește"

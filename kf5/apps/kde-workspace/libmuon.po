@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-07 08:41+0000\n"
+"POT-Creation-Date: 2015-09-10 09:21+0000\n"
 "PO-Revision-Date: 2014-05-02 12:03+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1528,6 +1528,50 @@ msgctxt "@info:status"
 msgid "Done"
 msgstr "Gata"
 
+#: libmuon/UpdateModel/UpdateModel.cpp:154
+#, fuzzy
+#| msgctxt "@item:inlistbox Filters updates in the history view"
+#| msgid "Updates"
+msgctxt "@label Column label"
+msgid "Updates"
+msgstr "Actualizări"
+
+#: libmuon/UpdateModel/UpdateModel.cpp:156
+#, fuzzy
+#| msgctxt "@title:tab"
+#| msgid "Versions"
+msgctxt "@label Column label"
+msgid "Version"
+msgstr "Versiuni"
+
+#: libmuon/UpdateModel/UpdateModel.cpp:158
+#, fuzzy
+#| msgctxt "@info:status"
+#| msgid "Downloading"
+msgctxt "@label Column label"
+msgid "Download Size"
+msgstr "Se descarcă"
+
+#: libmuon/UpdateModel/UpdateModel.cpp:266
+msgctxt "@item:inlistbox"
+msgid "Important Security Updates"
+msgstr ""
+
+#: libmuon/UpdateModel/UpdateModel.cpp:269
+#, fuzzy
+#| msgid "Applications"
+msgctxt "@item:inlistbox"
+msgid "Application Updates"
+msgstr "Aplicații"
+
+#: libmuon/UpdateModel/UpdateModel.cpp:272
+#, fuzzy
+#| msgctxt "@item:inlistbox Filters updates in the history view"
+#| msgid "Updates"
+msgctxt "@item:inlistbox"
+msgid "System Updates"
+msgstr "Actualizări"
+
 #: libmuonapt/ChangesDialog.cpp:39
 msgctxt "@title:window"
 msgid "Confirm Additional Changes"
@@ -2394,7 +2438,7 @@ msgctxt "@title:window"
 msgid "Packages Could Not be Found"
 msgstr "Pachetul nu poate fi găsit"
 
-#: libmuonapt/QAptActions.cpp:484
+#: libmuonapt/QAptActions.cpp:481
 msgctxt "@title:window"
 msgid "Package History"
 msgstr "Istoric pachet"
@@ -2841,10 +2885,6 @@ msgstr "Istoric pachet"
 #~ msgctxt "@title:tab"
 #~ msgid "Dependencies"
 #~ msgstr "Dependențe"
-
-#~ msgctxt "@title:tab"
-#~ msgid "Versions"
-#~ msgstr "Versiuni"
 
 #~ msgctxt "@title:tab"
 #~ msgid "Installed Files"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-12 08:02+0000\n"
+"POT-Creation-Date: 2015-09-05 08:48+0000\n"
 "PO-Revision-Date: 2013-10-27 11:29+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -45,7 +45,7 @@ msgid "Switch to activity \"%1\""
 msgstr "Comută la activitatea „%1”"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:110
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:111
 #: workspace/kio/KioActivities.cpp:306
 #: workspace/settings/ExtraActivitiesInterface.cpp:45
 #: workspace/settings/ui/MainConfigurationWidgetBase.ui:21
@@ -54,33 +54,33 @@ msgstr "Comută la activitatea „%1”"
 msgid "Activities"
 msgstr "Activități..."
 
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:113
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:114
 msgid "Loading..."
 msgstr ""
 
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:140
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:141
 #, fuzzy
 #| msgid "Activity manager is not running properly."
 msgid "The Activity Manager is not running"
 msgstr "Administratorul de activități nu rulează corespunzător."
 
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:184
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:251
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:187
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:254
 msgid "Link to the current activity"
 msgstr "Leagă de activitatea curentă"
 
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:187
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:256
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:190
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:259
 msgid "Unlink from the current activity"
 msgstr "Dezleagă de activitatea curentă"
 
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:190
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:260
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:193
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:263
 msgid "Link to:"
 msgstr "Leagă la:"
 
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:195
-#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:268
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:198
+#: workspace/fileitemplugin/FileItemLinkingPlugin.cpp:271
 msgid "Unlink from:"
 msgstr "Dezleagă de la:"
 
@@ -163,6 +163,10 @@ msgstr ""
 
 #: workspace/settings/qml/ActivityCreationDialog.qml:110
 msgid "Create"
+msgstr ""
+
+#: workspace/settings/qml/ActivityDeletionDialog.qml:68
+msgid "Are you sure you want to delete this activity?"
 msgstr ""
 
 #: workspace/settings/qml/ActivityDeletionDialog.qml:72

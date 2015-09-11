@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-20 09:16+0000\n"
+"POT-Creation-Date: 2015-09-05 09:03+0000\n"
 "PO-Revision-Date: 2013-02-04 17:53+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -23,7 +23,7 @@ msgid "Select a MailDir folder"
 msgstr "Alegeți un dosar MailDir"
 
 #: configdialog.cpp:48
-msgid "Folder Archive"
+msgid "Archive Folder"
 msgstr ""
 
 #: configdialog.cpp:94
@@ -46,45 +46,45 @@ msgstr "Calea aleasă nu există încă, va fi creat un nou MailDir."
 msgid "The selected path does not exist."
 msgstr "Calea aleasă nu există."
 
-#: libmaildir/maildir.cpp:251 libmaildir/maildir.cpp:256
+#: libmaildir/maildir.cpp:256 libmaildir/maildir.cpp:261
 #, kde-format
 msgid "Error opening %1; this folder is missing."
 msgstr ""
 
-#: libmaildir/maildir.cpp:261
+#: libmaildir/maildir.cpp:266
 #, kde-format
 msgid ""
 "Error opening %1; either this is not a valid maildir folder, or you do not "
 "have sufficient access permissions."
 msgstr ""
 
-#: libmaildir/maildir.cpp:486 libmaildir/maildir.cpp:507
-#: libmaildir/maildir.cpp:525 libmaildir/maildir.cpp:545
-#: libmaildir/maildir.cpp:565 libmaildir/maildir.cpp:589
-#: libmaildir/maildir.cpp:664 libmaildir/maildir.cpp:816
+#: libmaildir/maildir.cpp:491 libmaildir/maildir.cpp:512
+#: libmaildir/maildir.cpp:530 libmaildir/maildir.cpp:550
+#: libmaildir/maildir.cpp:570 libmaildir/maildir.cpp:594
+#: libmaildir/maildir.cpp:669 libmaildir/maildir.cpp:821
 #, fuzzy, kde-format
 #| msgid "Unable to create maildir '%1'."
 msgid "Cannot locate mail file %1."
 msgstr "Imposibil de creat maildir „%1”."
 
-#: libmaildir/maildir.cpp:492 libmaildir/maildir.cpp:513
+#: libmaildir/maildir.cpp:497 libmaildir/maildir.cpp:518
 #, fuzzy, kde-format
 #| msgid "Unable to create maildir '%1'."
 msgid "Cannot open mail file %1."
 msgstr "Imposibil de creat maildir „%1”."
 
-#: libmaildir/maildir.cpp:597 libmaildir/maildir.cpp:624
+#: libmaildir/maildir.cpp:602 libmaildir/maildir.cpp:629
 #, fuzzy, kde-format
 #| msgid "Unable to create maildir '%1'."
 msgid "Cannot write to mail file %1."
 msgstr "Imposibil de creat maildir „%1”."
 
-#: libmaildir/maildir.cpp:638
+#: libmaildir/maildir.cpp:643
 #, kde-format
 msgid "Failed to create mail file %1. The error was: %2"
 msgstr ""
 
-#: libmaildir/maildir.cpp:735
+#: libmaildir/maildir.cpp:740
 #, kde-format
 msgid "Failed to update the file name %1 to %2 on the disk. The error was: %3."
 msgstr ""

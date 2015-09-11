@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdegames\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-03 08:30+0000\n"
+"POT-Creation-Date: 2015-08-31 09:29+0000\n"
 "PO-Revision-Date: 2014-03-26 19:06+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -25,6 +25,11 @@ msgstr "Domnul Cartof"
 msgctxt "GenericName"
 msgid "Picture Game for Children"
 msgstr "Joc cu imagini pentru copii"
+
+#: org.kde.ktuberling.desktop:124
+msgctxt "Comment"
+msgid "A simple constructor game suitable for children and adults alike"
+msgstr ""
 
 #: pics/butterflies.desktop:2
 msgctxt "Name"

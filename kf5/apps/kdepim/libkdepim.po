@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libkdepim\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-20 08:57+0000\n"
+"POT-Creation-Date: 2015-09-09 08:19+0000\n"
 "PO-Revision-Date: 2013-01-10 15:02+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -39,9 +39,9 @@ msgstr "Configurează ordinea completării..."
 msgid "Configure Email Blacklist..."
 msgstr ""
 
-#: addressline/addresslineedit/addresseelineedit_p.cpp:145
-#: addressline/addresslineedit/addresseelineedit_p.cpp:851
+#: addressline/addresslineedit/addresseelineedit_p.cpp:146
 #: addressline/addresslineedit/addresseelineedit_p.cpp:852
+#: addressline/addresslineedit/addresseelineedit_p.cpp:853
 msgctxt "@title:group"
 msgid "Contacts found in your data"
 msgstr "Contacte găsite în datele dumneavoastră"
@@ -52,7 +52,7 @@ msgstr "Contacte găsite în datele dumneavoastră"
 msgid "LDAP server: %1"
 msgstr "Server LDAP %1"
 
-#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletiondialog.cpp:37
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletiondialog.cpp:48
 msgid "Blacklist Email Completion"
 msgstr ""
 
@@ -74,37 +74,55 @@ msgstr ""
 msgid "Search"
 msgstr "&Caută"
 
-#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:76
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:67
+#, fuzzy
+#| msgid "Email Address"
+msgid "Show Blacklisted Emails"
+msgstr "Adresă de e-mail"
+
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:81
 #, fuzzy
 #| msgid "Loading..."
 msgid "Search in result..."
 msgstr "Încărcare..."
 
-#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:83
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:92
 #, fuzzy
 #| msgid "Selection"
 msgid "&Select"
 msgstr "Selecție"
 
-#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:88
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:97
 #, fuzzy
 #| msgid "Unselect All"
 msgid "&Unselect"
 msgstr "Deselectează tot"
 
-#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:93
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:102
 msgid "<qt><a href=\"more_result\">More result...</a></qt>"
 msgstr ""
 
-#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:108
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:117
 msgid "Exclude domain names:"
 msgstr ""
 
-#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:117
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:126
 #, fuzzy, kde-format
 #| msgid "Send mail to '%1'"
 msgid "Separate domain with '%1'"
 msgstr "Trimite scrisoare către „%1”"
+
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:205
+msgid "No email found."
+msgstr ""
+
+#: addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:207
+#, kde-format
+msgid "1 email found"
+msgid_plural "%1 emails found"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #: addressline/blacklistbaloocompletion/blacklistbalooemaillist.cpp:129
 msgid "No result found"
@@ -143,7 +161,7 @@ msgstr "Adrese recente"
 msgid "Blacklist Email Address"
 msgstr "Adresă de e-mail"
 
-#: addressline/completionorder/completionordereditor.cpp:58
+#: addressline/completionorder/completionordereditor.cpp:70
 msgid "Edit Completion Order"
 msgstr "Modifică ordinea completării"
 
@@ -152,7 +170,7 @@ msgstr "Modifică ordinea completării"
 msgid "LDAP server %1"
 msgstr "Server LDAP %1"
 
-#: addressline/completionorder/completionorderwidget.cpp:312
+#: addressline/completionorder/completionorderwidget.cpp:318
 msgid "Recent Addresses"
 msgstr "Adrese recente"
 
@@ -182,29 +200,29 @@ msgstr[2] ""
 msgid "Remove"
 msgstr "&Elimină"
 
-#: freebusymodel/freebusycalendar.cpp:118
+#: freebusymodel/freebusycalendar.cpp:133
 msgid "Free"
 msgstr ""
 
-#: freebusymodel/freebusycalendar.cpp:121
+#: freebusymodel/freebusycalendar.cpp:136
 msgid "Busy"
 msgstr ""
 
-#: freebusymodel/freebusycalendar.cpp:124
+#: freebusymodel/freebusycalendar.cpp:139
 #, fuzzy
 #| msgid "Available Pages"
 msgid "Unavailable"
 msgstr "Pagini disponibile"
 
-#: freebusymodel/freebusycalendar.cpp:127
+#: freebusymodel/freebusycalendar.cpp:142
 msgid "Tentative"
 msgstr ""
 
-#: freebusymodel/freebusycalendar.cpp:130
+#: freebusymodel/freebusycalendar.cpp:145
 msgid "Unknown"
 msgstr "Necunoscut"
 
-#: freebusymodel/freebusyitemmodel.cpp:211
+#: freebusymodel/freebusyitemmodel.cpp:230
 #, fuzzy
 #| msgid "Attendees"
 msgid "Attendee"
@@ -330,7 +348,7 @@ msgstr ""
 msgid "Contact created successfully"
 msgstr ""
 
-#: ldap/addhostdialog.cpp:40
+#: ldap/addhostdialog.cpp:54
 msgid "Add Host"
 msgstr "Adaugă gazdă"
 
@@ -488,103 +506,103 @@ msgctxt "@title:column Column containing title of the person"
 msgid "Title"
 msgstr "Titlu"
 
-#: ldap/ldapsearchdialog.cpp:528
+#: ldap/ldapsearchdialog.cpp:538
 msgid "Import Contacts from LDAP"
 msgstr "Importă contacte din LDAP"
 
-#: ldap/ldapsearchdialog.cpp:550
+#: ldap/ldapsearchdialog.cpp:560
 msgid "Search for Addresses in Directory"
 msgstr "Caută adrese în Directoriu"
 
-#: ldap/ldapsearchdialog.cpp:556
+#: ldap/ldapsearchdialog.cpp:566
 msgid "Search for:"
 msgstr "Caută după:"
 
-#: ldap/ldapsearchdialog.cpp:564
+#: ldap/ldapsearchdialog.cpp:574
 msgctxt "In LDAP attribute"
 msgid "in"
 msgstr "în"
 
-#: ldap/ldapsearchdialog.cpp:568
+#: ldap/ldapsearchdialog.cpp:578
 msgctxt "@item:inlistbox Name of the contact"
 msgid "Name"
 msgstr "Nume"
 
-#: ldap/ldapsearchdialog.cpp:569
+#: ldap/ldapsearchdialog.cpp:579
 msgctxt "@item:inlistbox email address of the contact"
 msgid "Email"
 msgstr "Email"
 
-#: ldap/ldapsearchdialog.cpp:570
+#: ldap/ldapsearchdialog.cpp:580
 msgctxt "@item:inlistbox"
 msgid "Home Number"
 msgstr "Telefon acasă"
 
-#: ldap/ldapsearchdialog.cpp:571
+#: ldap/ldapsearchdialog.cpp:581
 msgctxt "@item:inlistbox"
 msgid "Work Number"
 msgstr "Telefon la serviciu"
 
-#: ldap/ldapsearchdialog.cpp:573
+#: ldap/ldapsearchdialog.cpp:583
 msgctxt "@action:button Start searching"
 msgid "&Search"
 msgstr "&Caută"
 
-#: ldap/ldapsearchdialog.cpp:589
+#: ldap/ldapsearchdialog.cpp:599
 msgid "Recursive search"
 msgstr "Căutare recursivă"
 
-#: ldap/ldapsearchdialog.cpp:594
+#: ldap/ldapsearchdialog.cpp:604
 msgid "Contains"
 msgstr "Conține"
 
-#: ldap/ldapsearchdialog.cpp:595
+#: ldap/ldapsearchdialog.cpp:605
 msgid "Starts With"
 msgstr "Începe cu"
 
-#: ldap/ldapsearchdialog.cpp:605
+#: ldap/ldapsearchdialog.cpp:615
 msgid "Search in result"
 msgstr ""
 
-#: ldap/ldapsearchdialog.cpp:635
+#: ldap/ldapsearchdialog.cpp:645
 #, fuzzy
 #| msgid "Loading..."
 msgid "Searching..."
 msgstr "Încărcare..."
 
-#: ldap/ldapsearchdialog.cpp:639
+#: ldap/ldapsearchdialog.cpp:649
 msgid "Select All"
 msgstr "Selectează tot"
 
-#: ldap/ldapsearchdialog.cpp:642
+#: ldap/ldapsearchdialog.cpp:652
 msgid "Unselect All"
 msgstr "Deselectează tot"
 
-#: ldap/ldapsearchdialog.cpp:648
+#: ldap/ldapsearchdialog.cpp:658
 msgid "Add Selected"
 msgstr "Adaugă selecție"
 
-#: ldap/ldapsearchdialog.cpp:649
+#: ldap/ldapsearchdialog.cpp:659
 msgid "Configure LDAP Servers..."
 msgstr "Configurare servere LDAP..."
 
-#: ldap/ldapsearchdialog.cpp:685
+#: ldap/ldapsearchdialog.cpp:695
 #, fuzzy
 #| msgid "Copy rule"
 msgid "Copy"
 msgstr "Copiază regula"
 
-#: ldap/ldapsearchdialog.cpp:804
+#: ldap/ldapsearchdialog.cpp:814
 msgid "You must select an LDAP server before searching."
 msgstr "Trebuie să alegeți un server LDAP înainte de a căuta."
 
-#: ldap/ldapsearchdialog.cpp:899
+#: ldap/ldapsearchdialog.cpp:909
 #, kde-format
 msgctxt "arguments are host name, datetime"
 msgid "Imported from LDAP directory %1 on %2"
 msgstr "Importat din directoriul LDAP %1 pe %2"
 
-#: ldap/ldapsearchdialog.cpp:917
+#: ldap/ldapsearchdialog.cpp:927
 msgid "Configure the Address Book LDAP Settings"
 msgstr "Configurează parametrii LDAP pentru Cartea de adrese"
 
@@ -620,27 +638,27 @@ msgstr "Restabilire implicite"
 msgid "Cancel this operation."
 msgstr "Anulează această operație."
 
-#: progresswidget/progressmanager.cpp:133
+#: progresswidget/progressmanager.cpp:138
 msgid "Aborting..."
 msgstr "Abandonare..."
 
-#: progresswidget/ssllabel.cpp:61
+#: progresswidget/ssllabel.cpp:62
 msgid "Connection is encrypted"
 msgstr "Conexiunea este criptată"
 
-#: progresswidget/ssllabel.cpp:66
+#: progresswidget/ssllabel.cpp:67
 msgid "Connection is unencrypted"
 msgstr "Conexiunea nu este criptată"
 
-#: progresswidget/statusbarprogresswidget.cpp:90
+#: progresswidget/statusbarprogresswidget.cpp:89
 msgid "Open detailed progress dialog"
 msgstr "Deschide dialogul de progres detaliat"
 
-#: progresswidget/statusbarprogresswidget.cpp:299
+#: progresswidget/statusbarprogresswidget.cpp:298
 msgid "Hide detailed progress window"
 msgstr "Ascunde fereastra de progres detaliat"
 
-#: progresswidget/statusbarprogresswidget.cpp:303
+#: progresswidget/statusbarprogresswidget.cpp:302
 msgid "Show detailed progress window"
 msgstr "Arată fereastra de progres detaliat"
 

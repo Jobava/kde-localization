@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletmanager\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-08 09:13+0000\n"
+"POT-Creation-Date: 2015-08-25 11:02+0000\n"
 "PO-Revision-Date: 2013-10-13 12:47+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -18,6 +18,14 @@ msgstr ""
 "X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Claudiu Costin,Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ",sergiu@ase.md"
 
 #: allyourbase.cpp:234
 #, kde-format
@@ -462,15 +470,55 @@ msgstr "Înregistrare &nouă"
 msgid "Wallet Manager"
 msgstr "Gestionarul de portofele KDE"
 
+#: main.cpp:48
+msgid "KDE Wallet Management Tool"
+msgstr "Utilitar KDE de administrat portofele"
+
+#: main.cpp:50
+msgid "Copyright ©2013–2015, KWallet Manager authors"
+msgstr ""
+
+#: main.cpp:54
+msgid "Valentin Rusu"
+msgstr "Valentin Rusu"
+
 #: main.cpp:55
+msgid "Maintainer, user interface refactoring"
+msgstr "Responsabil, reproiectarea interfeței cu utilizatorul"
+
+#: main.cpp:57
+msgid "George Staikos"
+msgstr "George Staikos"
+
+#: main.cpp:58
+msgid "Original author and former maintainer"
+msgstr "Autor original și fost responsabil"
+
+#: main.cpp:60
+msgid "Michael Leupold"
+msgstr "Michael Leupold"
+
+#: main.cpp:61
+msgid "Developer and former maintainer"
+msgstr "Dezvoltator și fost responsabil"
+
+#: main.cpp:63
+msgid "Isaac Clerencia"
+msgstr "Isaac Clerencia"
+
+#: main.cpp:64
+msgid "Developer"
+msgstr "Dezvoltator"
+
+#: main.cpp:77
 msgid "Show window on startup"
 msgstr "Arată fereastra la pornire"
 
-#: main.cpp:56
+#: main.cpp:78
 msgid "For use by kwalletd only"
 msgstr "Pentru utilizare doar de către kwalletd"
 
-#: main.cpp:57
+#: main.cpp:79
 msgid "A wallet name"
 msgstr "Un nume de portofel"
 
@@ -548,43 +596,8 @@ msgstr "&Desfă"
 msgid "&Save"
 msgstr "&Salvează"
 
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "Claudiu Costin,Sergiu Bivol"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr ",sergiu@ase.md"
-
-#~ msgid "KDE Wallet Management Tool"
-#~ msgstr "Utilitar KDE de administrat portofele"
-
 #~ msgid "(c) 2003,2004 George Staikos"
 #~ msgstr "(c) 2003,2004 George Staikos"
-
-#~ msgid "Valentin Rusu"
-#~ msgstr "Valentin Rusu"
-
-#~ msgid "Maintainer, user interface refactoring"
-#~ msgstr "Responsabil, reproiectarea interfeței cu utilizatorul"
-
-#~ msgid "George Staikos"
-#~ msgstr "George Staikos"
-
-#~ msgid "Original author and former maintainer"
-#~ msgstr "Autor original și fost responsabil"
-
-#~ msgid "Michael Leupold"
-#~ msgstr "Michael Leupold"
-
-#~ msgid "Developer and former maintainer"
-#~ msgstr "Dezvoltator și fost responsabil"
-
-#~ msgid "Isaac Clerencia"
-#~ msgstr "Isaac Clerencia"
-
-#~ msgid "Developer"
-#~ msgstr "Dezvoltator"
 
 #~ msgid "Maintainer"
 #~ msgstr "Responsabil"

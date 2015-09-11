@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-23 08:55+0000\n"
+"POT-Creation-Date: 2015-08-26 08:46+0000\n"
 "PO-Revision-Date: 2014-03-25 16:39+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -22,15 +22,11 @@ msgstr ""
 msgid "Contacting host, please wait..."
 msgstr "Se contactează gazda, așteptați..."
 
-#: openconnectauth.cpp:435
-msgid "&Show password"
-msgstr "&Arată parola"
-
-#: openconnectauth.cpp:492
+#: openconnectauth.cpp:483
 msgid "Login"
 msgstr "Autentificare"
 
-#: openconnectauth.cpp:549
+#: openconnectauth.cpp:540
 #, kde-format
 msgid ""
 "Check failed for certificate from VPN server \"%1\".\n"
@@ -38,7 +34,7 @@ msgid ""
 "Accept it anyway?"
 msgstr ""
 
-#: openconnectauth.cpp:649
+#: openconnectauth.cpp:640
 msgid "Connection attempt was unsuccessful."
 msgstr "Tentativa de conectare a eșuat."
 
@@ -157,3 +153,6 @@ msgstr "Cheie privată:"
 #: openconnectprop.ui:129
 msgid "Use FSID for key passphrase"
 msgstr ""
+
+#~ msgid "&Show password"
+#~ msgstr "&Arată parola"

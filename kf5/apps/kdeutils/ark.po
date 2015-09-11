@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ark\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-30 08:57+0000\n"
+"POT-Creation-Date: 2015-08-23 08:18+0000\n"
 "PO-Revision-Date: 2012-10-20 10:34+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -239,38 +239,38 @@ msgstr ""
 "Conținutul arhivei va fi citit și dacă arhiva nu va fi uni-dosar, va fi "
 "creat un subdosar cu denumirea arhivei."
 
-#: app/mainwindow.cpp:146
+#: app/mainwindow.cpp:147
 msgid "Unable to find Ark's KPart component, please check your installation."
 msgstr "Imposibil de găsit componenta KPart. Verificați instalare."
 
-#: app/mainwindow.cpp:171
+#: app/mainwindow.cpp:172
 msgctxt "action, to open an archive"
 msgid "Open"
 msgstr "Deschide"
 
-#: app/mainwindow.cpp:172
+#: app/mainwindow.cpp:173
 msgid ""
 "Click to open an archive, click and hold to open a recently-opened archive"
 msgstr ""
 "Faceți clic pentru a deschide o arhivă; țineți apăsat clic pentru a deschide "
 "o arhivă deschisă recent"
 
-#: app/mainwindow.cpp:173
+#: app/mainwindow.cpp:174
 msgid "Open an archive"
 msgstr "Deschide o arhivă"
 
-#: app/mainwindow.cpp:223
+#: app/mainwindow.cpp:224
 #, fuzzy
 #| msgid "Open an archive"
 msgctxt "to open an archive"
 msgid "Open Archive"
 msgstr "Deschide o arhivă"
 
-#: app/mainwindow.cpp:232
+#: app/mainwindow.cpp:233
 msgid "All supported archives ("
 msgstr ""
 
-#: app/mainwindow.cpp:312
+#: app/mainwindow.cpp:314
 #, fuzzy
 #| msgid "Open an archive"
 msgid "Create a new Archive"
@@ -628,11 +628,11 @@ msgstr ""
 msgid " megabytes"
 msgstr ""
 
-#: kerfuffle/queries.cpp:94
+#: kerfuffle/queries.cpp:93
 msgid "File already exists"
 msgstr "Fișierul există deja"
 
-#: kerfuffle/queries.cpp:177
+#: kerfuffle/queries.cpp:176
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -642,71 +642,71 @@ msgstr ""
 "Arhiva <filename>%1</filename> este protejată prin parolă. Introduceți "
 "parola pentru a extrage fișierul."
 
-#: kerfuffle/queries.cpp:181
+#: kerfuffle/queries.cpp:180
 msgid "Incorrect password, please try again."
 msgstr "Parolă greșită, reîncercați."
 
-#: part/archivemodel.cpp:394
+#: part/archivemodel.cpp:396
 msgctxt "Name of a file inside an archive"
 msgid "Name"
 msgstr "Nume"
 
-#: part/archivemodel.cpp:396
+#: part/archivemodel.cpp:398
 msgctxt "Uncompressed size of a file inside an archive"
 msgid "Size"
 msgstr "Mărime "
 
-#: part/archivemodel.cpp:398
+#: part/archivemodel.cpp:400
 msgctxt "Compressed size of a file inside an archive"
 msgid "Compressed"
 msgstr "Comprimat"
 
-#: part/archivemodel.cpp:400
+#: part/archivemodel.cpp:402
 msgctxt "Compression rate of file"
 msgid "Rate"
 msgstr "Rată"
 
-#: part/archivemodel.cpp:402
+#: part/archivemodel.cpp:404
 msgctxt "File's owner username"
 msgid "Owner"
 msgstr "Proprietar"
 
-#: part/archivemodel.cpp:404
+#: part/archivemodel.cpp:406
 msgctxt "File's group"
 msgid "Group"
 msgstr "Grup"
 
-#: part/archivemodel.cpp:406
+#: part/archivemodel.cpp:408
 msgctxt "File permissions"
 msgid "Mode"
 msgstr "Regim"
 
-#: part/archivemodel.cpp:408
+#: part/archivemodel.cpp:410
 msgctxt "CRC hash code"
 msgid "CRC"
 msgstr "CRC"
 
-#: part/archivemodel.cpp:410
+#: part/archivemodel.cpp:412
 msgctxt "Compression method"
 msgid "Method"
 msgstr "Metodă"
 
-#: part/archivemodel.cpp:413
+#: part/archivemodel.cpp:415
 msgctxt "File version"
 msgid "Version"
 msgstr "Versiune"
 
-#: part/archivemodel.cpp:415
+#: part/archivemodel.cpp:417
 msgctxt "Timestamp"
 msgid "Date"
 msgstr "Dată"
 
-#: part/archivemodel.cpp:417
+#: part/archivemodel.cpp:419
 msgctxt "File comment"
 msgid "Comment"
 msgstr "Comentariu"
 
-#: part/archivemodel.cpp:419
+#: part/archivemodel.cpp:421
 msgctxt "Unnamed column"
 msgid "??"
 msgstr "??"
@@ -765,19 +765,19 @@ msgstr ""
 msgid "The internal viewer cannot preview this file."
 msgstr "Vizualizatorul intern nu poate previzualiza acest fișier."
 
-#: part/infopanel.cpp:69
+#: part/infopanel.cpp:70
 msgid "No archive loaded"
 msgstr "Nicio arhivă încărcată"
 
-#: part/infopanel.cpp:118
+#: part/infopanel.cpp:119
 msgid "Symbolic Link"
 msgstr "Legătură simbolică"
 
-#: part/infopanel.cpp:123
+#: part/infopanel.cpp:124
 msgid "Unknown size"
 msgstr "Dimensiune necunoscută"
 
-#: part/infopanel.cpp:145
+#: part/infopanel.cpp:146
 #, kde-format
 msgid "One file selected"
 msgid_plural "%1 files selected"
@@ -785,27 +785,27 @@ msgstr[0] "Un fișier selectat"
 msgstr[1] "%1 fișiere selectate"
 msgstr[2] "%1 de fișiere selectate"
 
-#: part/infopanel.cpp:194
+#: part/infopanel.cpp:195
 #, kde-format
 msgid "<b>Type:</b> %1<br/>"
 msgstr "<b>Tip:</b> %1<br/>"
 
-#: part/infopanel.cpp:197
+#: part/infopanel.cpp:198
 #, kde-format
 msgid "<b>Owner:</b> %1<br/>"
 msgstr "<b>Proprietar:</b> %1<br/>"
 
-#: part/infopanel.cpp:201
+#: part/infopanel.cpp:202
 #, kde-format
 msgid "<b>Group:</b> %1<br/>"
 msgstr "<b>Grup:</b> %1<br/>"
 
-#: part/infopanel.cpp:205
+#: part/infopanel.cpp:206
 #, kde-format
 msgid "<b>Target:</b> %1<br/>"
 msgstr "<b>Țintă:</b> %1<br/>"
 
-#: part/infopanel.cpp:209
+#: part/infopanel.cpp:210
 msgid "<b>Password protected:</b> Yes<br/>"
 msgstr "<b>Protejat prin parolă:</b> Da<br/>"
 
@@ -844,40 +844,40 @@ msgstr "<b>Descriere sarcină</b>"
 msgid "Some Information about the job"
 msgstr "Cîteva informații despre sarcină"
 
-#: part/part.cpp:164
+#: part/part.cpp:165
 msgid "ArkPart"
 msgstr "Arhivator"
 
-#: part/part.cpp:271
+#: part/part.cpp:273
 msgctxt "@action:inmenu"
 msgid "Show information panel"
 msgstr "Arată panoul informativ"
 
-#: part/part.cpp:280
+#: part/part.cpp:282
 msgctxt "open a file with external program"
 msgid "Open &With..."
 msgstr ""
 
-#: part/part.cpp:282
+#: part/part.cpp:284
 #, fuzzy
 #| msgid "Click to preview the selected file"
 msgid "Click to open the selected file with an external program"
 msgstr "Faceți clic pentru a previzualiza fișierul selectat"
 
-#: part/part.cpp:286
+#: part/part.cpp:288
 msgctxt "to preview a file inside an archive"
 msgid "Pre&view"
 msgstr "Pre&vizualizare"
 
-#: part/part.cpp:288
+#: part/part.cpp:290
 msgid "Click to preview the selected file"
 msgstr "Faceți clic pentru a previzualiza fișierul selectat"
 
-#: part/part.cpp:294
+#: part/part.cpp:296
 msgid "E&xtract"
 msgstr "E&xtrage"
 
-#: part/part.cpp:296
+#: part/part.cpp:298
 msgid ""
 "Click to open an extraction dialog, where you can choose to extract either "
 "all files or just the selected ones"
@@ -885,45 +885,45 @@ msgstr ""
 "Apăsați pentru a deschide dialogul de extragere, în care puteți alege să "
 "extrageți toate fișierele sau numai pe cele selectate"
 
-#: part/part.cpp:303
+#: part/part.cpp:305
 msgid "Add &File..."
 msgstr "Adaugă &fișier..."
 
-#: part/part.cpp:304
+#: part/part.cpp:306
 msgid "Click to add files to the archive"
 msgstr "Faceți clic pentru a adăuga fișiere în arhivă"
 
-#: part/part.cpp:310
+#: part/part.cpp:312
 msgid "Add Fo&lder..."
 msgstr "Adaugă &dosar..."
 
-#: part/part.cpp:311
+#: part/part.cpp:313
 msgid "Click to add a folder to the archive"
 msgstr "Faceți clic pentru a adăuga un dosar la arhivă"
 
-#: part/part.cpp:317
+#: part/part.cpp:319
 msgid "De&lete"
 msgstr "Ș&terge"
 
-#: part/part.cpp:319
+#: part/part.cpp:321
 msgid "Click to delete the selected files"
 msgstr "Faceți clic pentru a șterge fișierele selectate"
 
-#: part/part.cpp:350
+#: part/part.cpp:352
 msgid "Extract To..."
 msgstr "Extrage la..."
 
-#: part/part.cpp:357
+#: part/part.cpp:359
 msgid "Quick Extract To..."
 msgstr "Extragere rapidă în..."
 
-#: part/part.cpp:437
+#: part/part.cpp:439
 #, kde-format
 msgctxt "@info"
 msgid "<filename>%1</filename> is a directory."
 msgstr "<filename>%1</filename> este un dosar."
 
-#: part/part.cpp:444
+#: part/part.cpp:446
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -932,32 +932,32 @@ msgid ""
 msgstr ""
 "Arhiva <filename>%1</filename> există deja. Doriți să o deschideți în schimb?"
 
-#: part/part.cpp:444
+#: part/part.cpp:446
 msgctxt "@title:window"
 msgid "File Exists"
 msgstr "Fișierul există"
 
-#: part/part.cpp:444
+#: part/part.cpp:446
 msgid "Open File"
 msgstr "Deschide fișier"
 
-#: part/part.cpp:452
+#: part/part.cpp:454
 #, kde-format
 msgctxt "@info"
 msgid "The archive <filename>%1</filename> was not found."
 msgstr "Arhiva <filename>%1</filename> nu a fost găsită."
 
-#: part/part.cpp:452 part/part.cpp:503 part/part.cpp:565
+#: part/part.cpp:454 part/part.cpp:505 part/part.cpp:567
 msgctxt "@title:window"
 msgid "Error Opening Archive"
 msgstr "Eroare la deschiderea arhivei"
 
-#: part/part.cpp:485
+#: part/part.cpp:487
 msgctxt "@title:window"
 msgid "Invalid Archive Type"
 msgstr "Tip de arhivă nevalid"
 
-#: part/part.cpp:486
+#: part/part.cpp:488
 #, fuzzy
 #| msgctxt "@info"
 #| msgid ""
@@ -971,12 +971,12 @@ msgstr ""
 "Ark nu poate crea arhive de tipul ales.<nl/><nl/>Alegeți de mai jos alt tip "
 "de arhivă."
 
-#: part/part.cpp:489
+#: part/part.cpp:491
 msgctxt "@title:window"
 msgid "Unable to Determine Archive Type"
 msgstr "Imposibil de determinat tipul arhivei"
 
-#: part/part.cpp:490
+#: part/part.cpp:492
 #, fuzzy
 #| msgctxt "@info"
 #| msgid ""
@@ -990,7 +990,7 @@ msgstr ""
 "Ark nu a putut să determine tipul de arhivă al fișierului.<nl/><nl/>Alegeți "
 "tipul corect de arhivă mai jos."
 
-#: part/part.cpp:503
+#: part/part.cpp:505
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1000,20 +1000,20 @@ msgstr ""
 "Ark nu a putut deschide arhiva <filename>%1</filename>. Nu a fost găsită "
 "niciun modul capabil să mînuiască arhiva."
 
-#: part/part.cpp:546
+#: part/part.cpp:548
 #, fuzzy
 #| msgid "Extraction Dialog"
 msgid "Extraction settings"
 msgstr "Dialog de extragere"
 
-#: part/part.cpp:547
+#: part/part.cpp:549
 #, fuzzy
 #| msgctxt "@action:button"
 #| msgid "Preview as Text"
 msgid "Preview settings"
 msgstr "Previzualizează ca text"
 
-#: part/part.cpp:562
+#: part/part.cpp:564
 #, fuzzy, kde-format
 #| msgctxt "@info"
 #| msgid ""
@@ -1027,38 +1027,38 @@ msgstr ""
 "Încărcarea arhivei <filename>%1</filename> a eșuat cu următoarea eroare "
 "<message>%2</message>"
 
-#: part/part.cpp:633
+#: part/part.cpp:635
 msgid "Preview is not possible for symlinks."
 msgstr ""
 
-#: part/part.cpp:899
+#: part/part.cpp:901
 msgctxt "@title:window"
 msgid "Add Files"
 msgstr "Adaugă fișiere"
 
-#: part/part.cpp:906
+#: part/part.cpp:908
 msgctxt "@title:window"
 msgid "Add Folder"
 msgstr "Adaugă dosar"
 
-#: part/part.cpp:931
+#: part/part.cpp:933
 msgid "Deleting these files is not undoable. Are you sure you want to do this?"
 msgstr ""
 "Ștergerea fișierelor nu poate fi revocată. Sigur doriți să faceți asta?"
 
-#: part/part.cpp:932
+#: part/part.cpp:934
 msgctxt "@title:window"
 msgid "Delete files"
 msgstr "Șterge fișiere"
 
-#: part/part.cpp:964
+#: part/part.cpp:966
 #, fuzzy
 #| msgid "Source archive"
 msgctxt "@title:window"
 msgid "Save Archive As"
 msgstr "Arhiva sursă"
 
-#: part/part.cpp:971
+#: part/part.cpp:973
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1068,7 +1068,7 @@ msgstr ""
 "Există deja o arhivă cu denumirea <filename>%1</filename>. Sigur doriți să-l "
 "suprascrieți?"
 
-#: part/part.cpp:985
+#: part/part.cpp:987
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1078,7 +1078,7 @@ msgstr ""
 "Arhiva <filename>%1</filename> nu poate fi copiat în locația specificată. "
 "Arhiva nu mai există."
 
-#: part/part.cpp:999
+#: part/part.cpp:1001
 #, kde-format
 msgctxt "@info"
 msgid ""

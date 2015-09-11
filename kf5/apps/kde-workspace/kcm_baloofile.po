@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-18 08:11+0000\n"
+"POT-Creation-Date: 2015-09-10 09:22+0000\n"
 "PO-Revision-Date: 2015-04-20 13:26+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -34,7 +34,7 @@ msgstr ""
 "Căutarea de fișiere vă ajută să localizați rapid toate fișierele pe baza "
 "conținutului acestora"
 
-#. i18n: ectx: property (title), widget (QGroupBox, m_groupBox)
+#. i18n: ectx: property (title), widget (QGroupBox, m_excludeFolders_GB)
 #: configwidget.ui:45
 msgid "Do not search in these locations"
 msgstr "Nu căuta în aceste locuri"

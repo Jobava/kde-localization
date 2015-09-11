@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-16 08:01+0000\n"
+"POT-Creation-Date: 2015-09-04 07:54+0000\n"
 "PO-Revision-Date: 2014-10-18 01:16+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1634,12 +1634,16 @@ msgid "Files: %1"
 msgstr "Fișiere: %1"
 
 #: krusader/DiskUsage/radialMap/widgetEvents.cpp:169
-msgid "Open &Konqueror Here"
+#, fuzzy
+#| msgid "Open &Konqueror Here"
+msgid "Open File Manager Here"
 msgstr "Deschide &Konqueror aici"
 
 #: krusader/DiskUsage/radialMap/widgetEvents.cpp:171
-msgid "Open &Konsole Here"
-msgstr "Deschide &Konsole aici"
+#, fuzzy
+#| msgid "Start Terminal Here"
+msgid "Open Terminal Here"
+msgstr "Pornește terminal aici"
 
 #: krusader/DiskUsage/radialMap/widgetEvents.cpp:175
 msgid "&Center Map Here"
@@ -4807,47 +4811,47 @@ msgstr "Tastele funcționale permit efectuarea de operații rapizi pe fișiere."
 msgid "Horizontal Mode"
 msgstr "Modul orizontal."
 
-#: krusader/KViewer/krviewer.cpp:94
+#: krusader/KViewer/krviewer.cpp:92
 msgid "&Generic Viewer"
 msgstr "Vizualizor &generic"
 
-#: krusader/KViewer/krviewer.cpp:95
+#: krusader/KViewer/krviewer.cpp:93
 msgid "&Text Viewer"
 msgstr "Vizualizor &text"
 
-#: krusader/KViewer/krviewer.cpp:96
+#: krusader/KViewer/krviewer.cpp:94
 msgid "&Hex Viewer"
 msgstr "Vizualizor &hexa"
 
-#: krusader/KViewer/krviewer.cpp:97
+#: krusader/KViewer/krviewer.cpp:95
 msgid "&Lister"
 msgstr "&Modul listare"
 
-#: krusader/KViewer/krviewer.cpp:100
+#: krusader/KViewer/krviewer.cpp:98
 msgid "Text &Editor"
 msgstr "&Editor text"
 
-#: krusader/KViewer/krviewer.cpp:124
+#: krusader/KViewer/krviewer.cpp:122
 msgid "&Detach Tab"
 msgstr "&Detașare filă"
 
-#: krusader/KViewer/krviewer.cpp:134
+#: krusader/KViewer/krviewer.cpp:132
 msgid "&Close Current Tab"
 msgstr "În&chide fila curentă"
 
-#: krusader/KViewer/krviewer.cpp:140
+#: krusader/KViewer/krviewer.cpp:138
 msgid "&Next Tab"
 msgstr "Fila &următoare"
 
-#: krusader/KViewer/krviewer.cpp:144
+#: krusader/KViewer/krviewer.cpp:142
 msgid "&Previous Tab"
 msgstr "Fila &anterioară"
 
-#: krusader/KViewer/krviewer.cpp:221
+#: krusader/KViewer/krviewer.cpp:219
 msgid "&KrViewer"
 msgstr "&KrViewer"
 
-#: krusader/KViewer/krviewer.cpp:333
+#: krusader/KViewer/krviewer.cpp:331
 #, kde-format
 msgctxt "Arg is a string containing the bad quoting."
 msgid ""
@@ -4855,33 +4859,33 @@ msgid ""
 "%1"
 msgstr ""
 
-#: krusader/KViewer/krviewer.cpp:340
+#: krusader/KViewer/krviewer.cpp:338
 #, kde-format
 msgid "Can not open \"%1\""
 msgstr "Nu s-a putut deschide „%1”"
 
-#: krusader/KViewer/krviewer.cpp:651
+#: krusader/KViewer/krviewer.cpp:649
 #, fuzzy, kde-format
 #| msgid "Editing"
 msgctxt "filename (filestate)"
 msgid "%1 (Editing)"
 msgstr "Se editează"
 
-#: krusader/KViewer/krviewer.cpp:652
+#: krusader/KViewer/krviewer.cpp:650
 #, fuzzy, kde-format
 #| msgid "Viewing"
 msgctxt "filename (filestate)"
 msgid "%1 (Viewing)"
 msgstr "Se vizualizează"
 
-#: krusader/KViewer/krviewer.cpp:659
+#: krusader/KViewer/krviewer.cpp:657
 #, fuzzy, kde-format
 #| msgid "Editing"
 msgctxt "filestate: filename"
 msgid "Editing: %1"
 msgstr "Se editează"
 
-#: krusader/KViewer/krviewer.cpp:660
+#: krusader/KViewer/krviewer.cpp:658
 #, fuzzy, kde-format
 #| msgid "View: %1"
 msgctxt "filestate: filename"
@@ -8551,6 +8555,9 @@ msgstr "Destinație"
 msgctxt "@title job"
 msgid "Moving"
 msgstr "Mutare"
+
+#~ msgid "Open &Konsole Here"
+#~ msgstr "Deschide &Konsole aici"
 
 #~ msgid "Bookmark Current"
 #~ msgstr "Pune semn de carte aici"

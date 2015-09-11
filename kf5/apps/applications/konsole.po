@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-18 10:48+0000\n"
+"POT-Creation-Date: 2015-09-05 08:39+0000\n"
 "PO-Revision-Date: 2014-07-04 14:21+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -380,11 +380,11 @@ msgstr "Listă de combinații de taste nouă"
 msgid "Edit Key Binding List"
 msgstr "Editează lista combinațiilor de taste"
 
-#: EditProfileDialog.cpp:1223
+#: EditProfileDialog.cpp:1231
 msgid "Select Fixed Width Font"
 msgstr "Alegeți un font de lățime fixă"
 
-#: EditProfileDialog.cpp:1271
+#: EditProfileDialog.cpp:1279
 msgid "AaZz09..."
 msgstr ""
 
@@ -864,49 +864,61 @@ msgstr "Textul ales va necesita tasta Control și clic pentru a fi tras."
 msgid "Require Ctrl key for drag and drop"
 msgstr "Cere tasta Ctrl pentru „Drag and Drop”"
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, enableMouseWheelZoomButton)
+#. i18n: ectx: property (toolTip), widget (QCheckBox, dropUrlsAsText)
 #: EditProfileDialog.ui:1020
+msgid ""
+"Always paste dropped URLs as text without offering move, copy and link "
+"actions."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, dropUrlsAsText)
+#: EditProfileDialog.ui:1023
+msgid "Disable drag and drop menu for URLs and files"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, enableMouseWheelZoomButton)
+#: EditProfileDialog.ui:1030
 msgid "Pressing Ctrl+scrollwheel will increase/decrease the text size."
 msgstr "Apăsarea Ctrl+rotița mausului va mări/micșora mărimea textului."
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableMouseWheelZoomButton)
-#: EditProfileDialog.ui:1023
+#: EditProfileDialog.ui:1033
 msgid "Allow Ctrl+scrollwheel to zoom text size"
 msgstr "Permite Ctrl+rotiță pentru scalarea dimensiunii textului"
 
 #. i18n: ectx: attribute (title), widget (QWidget, advancedTab)
-#: EditProfileDialog.ui:1047
+#: EditProfileDialog.ui:1057
 msgctxt "@title:tab Complex options"
 msgid "Advanced"
 msgstr "Avansat"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
-#: EditProfileDialog.ui:1053
+#: EditProfileDialog.ui:1063
 msgid "Terminal Features"
 msgstr "Proprietăți terminal"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, enableBlinkingTextButton)
-#: EditProfileDialog.ui:1068
+#: EditProfileDialog.ui:1078
 msgid "Allow terminal programs to create blinking sections of text"
 msgstr "Permite programelor din terminal să creeze secțiuni clipitoare de text"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableBlinkingTextButton)
-#: EditProfileDialog.ui:1071
+#: EditProfileDialog.ui:1081
 msgid "Allow blinking text"
 msgstr "Permite text clipitor"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, enableFlowControlButton)
-#: EditProfileDialog.ui:1084
+#: EditProfileDialog.ui:1094
 msgid "Allow the output to be suspended by pressing Ctrl+S"
 msgstr "Permite suspendarea ieșirii prin apăsarea Ctrl+S"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableFlowControlButton)
-#: EditProfileDialog.ui:1087
+#: EditProfileDialog.ui:1097
 msgid "Enable flow control using Ctrl+S, Ctrl+Q"
 msgstr "Activează controlul scurgerii utilizînd Ctrl+S, Ctrl+Q"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, enableBidiRenderingButton)
-#: EditProfileDialog.ui:1100
+#: EditProfileDialog.ui:1110
 msgid ""
 "Enable Bi-Directional display on terminals (valid for Arabic, Farsi or "
 "Hebrew only)"
@@ -915,100 +927,100 @@ msgstr ""
 "farsi și ebraică)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableBidiRenderingButton)
-#: EditProfileDialog.ui:1103
+#: EditProfileDialog.ui:1113
 msgid "Enable Bi-Directional text rendering"
 msgstr "Activează prelucrarea BiDi a textului"
 
 #. i18n: ectx: property (text), widget (QLabel, lineSpacingLabel)
-#: EditProfileDialog.ui:1112
+#: EditProfileDialog.ui:1122
 msgid "Line Spacing:"
 msgstr "Spațiere linii:"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, lineSpacingSpinner)
-#: EditProfileDialog.ui:1119
+#: EditProfileDialog.ui:1129
 msgid "The number of pixels between two lines"
 msgstr "Numărul de pixeli dintre două linii"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_8)
-#: EditProfileDialog.ui:1150
+#: EditProfileDialog.ui:1160
 msgid "Cursor"
 msgstr "Cursor"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, enableBlinkingCursorButton)
-#: EditProfileDialog.ui:1165
+#: EditProfileDialog.ui:1175
 msgid "Make the cursor blink regularly"
 msgstr "Fă cursorul să clipească regulat"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableBlinkingCursorButton)
-#: EditProfileDialog.ui:1168
+#: EditProfileDialog.ui:1178
 msgid "Blinking cursor"
 msgstr "Cursor clipitor"
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: EditProfileDialog.ui:1177
+#: EditProfileDialog.ui:1187
 msgid "Cursor shape:"
 msgstr "Formă cursor:"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, cursorShapeCombo)
-#: EditProfileDialog.ui:1184
+#: EditProfileDialog.ui:1194
 msgid "Change the shape of the cursor"
 msgstr "Schimbă forma cursorului"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, cursorShapeCombo)
-#: EditProfileDialog.ui:1188
+#: EditProfileDialog.ui:1198
 msgctxt "The shape of the cursor"
 msgid "Block"
 msgstr "Bloc"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, cursorShapeCombo)
-#: EditProfileDialog.ui:1193
+#: EditProfileDialog.ui:1203
 msgctxt "The shape of the cursor, similar to a capital I"
 msgid "I-Beam"
 msgstr "I-Beam"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, cursorShapeCombo)
-#: EditProfileDialog.ui:1198
+#: EditProfileDialog.ui:1208
 msgctxt "The shape of the cursor"
 msgid "Underline"
 msgstr "Subliniere"
 
 #. i18n: ectx: property (toolTip), widget (QRadioButton, autoCursorColorButton)
-#: EditProfileDialog.ui:1227
+#: EditProfileDialog.ui:1237
 msgid "Set the cursor to match the color of the character underneath it."
 msgstr "Potrivește cursorul la culoarea caracterului de sub el."
 
 #. i18n: ectx: property (text), widget (QRadioButton, autoCursorColorButton)
-#: EditProfileDialog.ui:1230
+#: EditProfileDialog.ui:1240
 msgid "Set cursor color to match current character"
 msgstr "Potrivește culoarea cursorului la caracterul curent"
 
 #. i18n: ectx: property (toolTip), widget (QRadioButton, customCursorColorButton)
-#: EditProfileDialog.ui:1245
+#: EditProfileDialog.ui:1255
 msgid "Use a custom, fixed color for the cursor"
 msgstr "Folosește o culoare particularizată pentru cursor"
 
 #. i18n: ectx: property (text), widget (QRadioButton, customCursorColorButton)
-#: EditProfileDialog.ui:1248
+#: EditProfileDialog.ui:1258
 msgid "Custom cursor color:"
 msgstr "Culoare cursor particularizată:"
 
 #. i18n: ectx: property (toolTip), widget (KColorButton, customColorSelectButton)
-#: EditProfileDialog.ui:1261
+#: EditProfileDialog.ui:1271
 msgid "Select the color used to draw the cursor"
 msgstr "Alegeți culoarea folosită pentru a desena cursorul"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_11)
-#: EditProfileDialog.ui:1289
+#: EditProfileDialog.ui:1299
 msgid "Encoding"
 msgstr "Codare"
 
 #. i18n: ectx: property (text), widget (QLabel, label_14)
-#: EditProfileDialog.ui:1298
+#: EditProfileDialog.ui:1308
 msgid "Default character encoding:"
 msgstr "Codarea implicită a caracterelor:"
 
 #. i18n: ectx: property (text), widget (QPushButton, selectEncodingButton)
-#: EditProfileDialog.ui:1318
+#: EditProfileDialog.ui:1328
 msgctxt "@action:button Pick an encoding"
 msgid "Select"
 msgstr "Alege"
@@ -1740,7 +1752,7 @@ msgstr "Regim nesolicitant pentru imprimantă (text negru, &fără fundal)"
 msgid "&Scale output"
 msgstr "&Scalează ieșirea"
 
-#: Profile.cpp:145
+#: Profile.cpp:146
 #, fuzzy
 #| msgid "&Set as Default"
 msgctxt "Name of the default/builtin profile"
@@ -2190,10 +2202,12 @@ msgstr ""
 msgid "Use system &location"
 msgstr "Li&pește amplasarea"
 
-#. i18n: ectx: property (text), widget (QRadioButton, kcfg_scrollbackUseUsersHomeLocation)
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_scrollbackUseCacheLocation)
 #: settings/FileLocationSettings.ui:85
-msgid "Use user's ho&me location"
-msgstr ""
+#, fuzzy
+#| msgid "&Paste Location"
+msgid "Use user specific location"
+msgstr "Li&pește amplasarea"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: settings/FileLocationSettings.ui:133
@@ -2323,9 +2337,9 @@ msgstr "Controlează unde să fie pusă fila nouă"
 msgid "For scrollback files, use system-wide folder location"
 msgstr ""
 
-#. i18n: ectx: label, entry (scrollbackUseUsersHomeLocation), group (FileLocation)
+#. i18n: ectx: label, entry (scrollbackUseCacheLocation), group (FileLocation)
 #: settings/konsole.kcfg:98
-msgid "For scrollback files, use user's home folder location"
+msgid "For scrollback files, use user's specific folder location"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_1)
@@ -2451,16 +2465,16 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr "Inserează formatul titlului distant"
 
-#: TerminalDisplay.cpp:1236 TerminalDisplay.cpp:1237
+#: TerminalDisplay.cpp:1256 TerminalDisplay.cpp:1257
 msgid "Size: XXX x XXX"
 msgstr "Mărime: XXX x XXX"
 
-#: TerminalDisplay.cpp:1248
+#: TerminalDisplay.cpp:1268
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr "Mărime: %1 x %2"
 
-#: TerminalDisplay.cpp:2801
+#: TerminalDisplay.cpp:2821
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
@@ -2468,11 +2482,11 @@ msgstr[0] "Sigur lipiți %1 caracter?"
 msgstr[1] "Sigur lipiți %1 caractere?"
 msgstr[2] "Sigur lipiți %1 de caractere?"
 
-#: TerminalDisplay.cpp:2804
+#: TerminalDisplay.cpp:2824
 msgid "Confirm Paste"
 msgstr "Confirmă lipirea"
 
-#: TerminalDisplay.cpp:2993
+#: TerminalDisplay.cpp:3013
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/"
 "Software_flow_control\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</"
@@ -2482,11 +2496,11 @@ msgstr ""
 "Software_flow_control\">suspendată</a> de apăsarea Ctrl+S.  Apăsați <b>Ctrl"
 "+Q</b> pentru a relua. Acest mesaj va dispărea în 10 secunde.</qt>"
 
-#: TerminalDisplay.cpp:3261
+#: TerminalDisplay.cpp:3281
 msgid "&Paste Location"
 msgstr "Li&pește amplasarea"
 
-#: TerminalDisplay.cpp:3278
+#: TerminalDisplay.cpp:3298
 msgid "Change &Directory To"
 msgstr "Schimbă &dosarul la"
 

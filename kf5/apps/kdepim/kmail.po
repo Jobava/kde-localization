@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmail\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-19 08:13+0000\n"
+"POT-Creation-Date: 2015-09-10 09:13+0000\n"
 "PO-Revision-Date: 2014-03-26 13:37+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -110,7 +110,7 @@ msgid "Multiple encryption keys per address"
 msgstr "Chei de criptare multiple per adresă"
 
 #: aboutdata.cpp:364 collectionpage/collectionmailinglistpage.cpp:104
-#: editor/kmcomposewin.cpp:2139 kmmainwin.cpp:66 kmsystemtray.cpp:73
+#: editor/kmcomposewin.cpp:2128 kmmainwin.cpp:66 kmsystemtray.cpp:73
 #: kmsystemtray.cpp:114
 msgid "KMail"
 msgstr "KMail"
@@ -603,8 +603,8 @@ msgid "Receiver"
 msgstr "Destinatar"
 
 #: collectionpage/collectionviewpage.cpp:132
-#: configuredialog/configureappearancepage.cpp:109
-#: configuredialog/configureappearancepage.cpp:143
+#: configuredialog/configureappearancepage.cpp:112
+#: configuredialog/configureappearancepage.cpp:146
 msgid "Message List"
 msgstr "Lista de mesaje"
 
@@ -648,7 +648,7 @@ msgid "Common Options"
 msgstr "Opțiuni comune"
 
 #. i18n: ectx: label, entry (ConfirmBeforeSend), group (Composer)
-#: configuredialog/configureaccountpage.cpp:105 settings/kmail.kcfg.cmake:222
+#: configuredialog/configureaccountpage.cpp:105 settings/kmail.kcfg.cmake:214
 msgid "Confirm &before send"
 msgstr "&Confirmă înainte de a trimite"
 
@@ -685,21 +685,21 @@ msgstr "&Trimite mesajele din dosarul \"trimitere\":"
 msgid "Defa&ult send method:"
 msgstr "&Metoda de transmitere implicită:"
 
-#: configuredialog/configureaccountpage.cpp:247
+#: configuredialog/configureaccountpage.cpp:252
 msgctxt "Label to a checkbox, so is either checked/unchecked"
 msgid "Include in Manual Mail Check"
 msgstr "Include în verificarea manuală a poștei"
 
-#: configuredialog/configureaccountpage.cpp:256
+#: configuredialog/configureaccountpage.cpp:261
 msgctxt "Label to a checkbox, so is either checked/unchecked"
 msgid "Switch offline on KMail Shutdown"
 msgstr "Deconectează la închiderea KMail"
 
-#: configuredialog/configureaccountpage.cpp:264
+#: configuredialog/configureaccountpage.cpp:269
 msgid "Check mail on startup"
 msgstr "Verifică poșta la pornire"
 
-#: configuredialog/configureaccountpage.cpp:312
+#: configuredialog/configureaccountpage.cpp:316
 msgid ""
 "New Mail Notifier Agent not registered. Please contact your administrator."
 msgstr ""
@@ -708,252 +708,252 @@ msgstr ""
 msgid "Description:"
 msgstr "Descriere:"
 
-#: configuredialog/configureappearancepage.cpp:91
+#: configuredialog/configureappearancepage.cpp:94
 msgid "Fonts"
 msgstr "Fonturi"
 
-#: configuredialog/configureappearancepage.cpp:97
+#: configuredialog/configureappearancepage.cpp:100
 msgid "Colors"
 msgstr "Culori"
 
-#: configuredialog/configureappearancepage.cpp:103
+#: configuredialog/configureappearancepage.cpp:106
 msgid "Layout"
 msgstr "Aranjament"
 
-#: configuredialog/configureappearancepage.cpp:115
+#: configuredialog/configureappearancepage.cpp:118
 msgid "Message Window"
 msgstr "Fereastra de mesaje"
 
-#: configuredialog/configureappearancepage.cpp:122
+#: configuredialog/configureappearancepage.cpp:125
 msgid "System Tray"
 msgstr "Tavă de sistem"
 
-#: configuredialog/configureappearancepage.cpp:128
+#: configuredialog/configureappearancepage.cpp:131
 msgid "Message Tags"
 msgstr "Marcaje mesaj"
 
-#: configuredialog/configureappearancepage.cpp:142
+#: configuredialog/configureappearancepage.cpp:145
 msgid "Message Body"
 msgstr "Corpul mesajului"
 
-#: configuredialog/configureappearancepage.cpp:144
+#: configuredialog/configureappearancepage.cpp:147
 msgid "Message List - Unread Messages"
 msgstr "Lista de mesaje - Mesaje necitite"
 
-#: configuredialog/configureappearancepage.cpp:145
+#: configuredialog/configureappearancepage.cpp:148
 msgid "Message List - Important Messages"
 msgstr "Lista de mesaje - Mesaje importante"
 
-#: configuredialog/configureappearancepage.cpp:146
+#: configuredialog/configureappearancepage.cpp:149
 #, fuzzy
 #| msgid "Message List - New Messages"
 msgid "Message List - Action Item Messages"
 msgstr "Lista de mesaje - Mesaje noi"
 
 #. i18n: ectx: label, entry (FolderList), group (Geometry)
-#: configuredialog/configureappearancepage.cpp:147
-#: settings/kmail.kcfg.cmake:374
+#: configuredialog/configureappearancepage.cpp:150
+#: settings/kmail.kcfg.cmake:357
 msgid "Folder List"
 msgstr "Lista de dosare"
 
-#: configuredialog/configureappearancepage.cpp:148
-#: configuredialog/configureappearancepage.cpp:330
+#: configuredialog/configureappearancepage.cpp:151
+#: configuredialog/configureappearancepage.cpp:333
 msgid "Quoted Text - First Level"
 msgstr "Text citat - Primul nivel"
 
-#: configuredialog/configureappearancepage.cpp:149
-#: configuredialog/configureappearancepage.cpp:331
+#: configuredialog/configureappearancepage.cpp:152
+#: configuredialog/configureappearancepage.cpp:334
 msgid "Quoted Text - Second Level"
 msgstr "Text citat - Al doilea nivel"
 
-#: configuredialog/configureappearancepage.cpp:150
-#: configuredialog/configureappearancepage.cpp:332
+#: configuredialog/configureappearancepage.cpp:153
+#: configuredialog/configureappearancepage.cpp:335
 msgid "Quoted Text - Third Level"
 msgstr "Text citat - Al treilea nivel"
 
-#: configuredialog/configureappearancepage.cpp:151
+#: configuredialog/configureappearancepage.cpp:154
 msgid "Fixed Width Font"
 msgstr "Font lățime fixă"
 
-#: configuredialog/configureappearancepage.cpp:152 editor/kmcomposewin.cpp:415
+#: configuredialog/configureappearancepage.cpp:155 editor/kmcomposewin.cpp:412
 msgid "Composer"
 msgstr "Compunere"
 
-#: configuredialog/configureappearancepage.cpp:153
+#: configuredialog/configureappearancepage.cpp:156
 msgid "Printing Output"
 msgstr "Rezultat tipărire"
 
-#: configuredialog/configureappearancepage.cpp:164
+#: configuredialog/configureappearancepage.cpp:167
 msgid "&Use custom fonts"
 msgstr "&Utilizează fonturi personalizate"
 
-#: configuredialog/configureappearancepage.cpp:184
+#: configuredialog/configureappearancepage.cpp:187
 msgid "Apply &to:"
 msgstr "&Aplică la:"
 
-#: configuredialog/configureappearancepage.cpp:333
+#: configuredialog/configureappearancepage.cpp:336
 msgid "Link"
 msgstr "Legătură URL"
 
-#: configuredialog/configureappearancepage.cpp:334
+#: configuredialog/configureappearancepage.cpp:337
 msgid "Followed Link"
 msgstr "Legătură URL vizitată"
 
-#: configuredialog/configureappearancepage.cpp:335
+#: configuredialog/configureappearancepage.cpp:338
 msgid "Misspelled Words"
 msgstr "Cuvinte ortografiate greșit"
 
-#: configuredialog/configureappearancepage.cpp:336
+#: configuredialog/configureappearancepage.cpp:339
 msgid "Unread Message"
 msgstr "Mesaj necitit"
 
-#: configuredialog/configureappearancepage.cpp:337
+#: configuredialog/configureappearancepage.cpp:340
 msgid "Important Message"
 msgstr "Mesaj important"
 
-#: configuredialog/configureappearancepage.cpp:338
+#: configuredialog/configureappearancepage.cpp:341
 msgid "Action Item Message"
 msgstr "Mesaj de acțiune"
 
-#: configuredialog/configureappearancepage.cpp:339
+#: configuredialog/configureappearancepage.cpp:342
 msgid "OpenPGP Message - Encrypted"
 msgstr "Mesaj OpenPGP - Criptat"
 
-#: configuredialog/configureappearancepage.cpp:340
+#: configuredialog/configureappearancepage.cpp:343
 msgid "OpenPGP Message - Valid Signature with Trusted Key"
 msgstr "Mesaj OpenPGP - Semnătură validă cu cheie de încredere"
 
-#: configuredialog/configureappearancepage.cpp:341
+#: configuredialog/configureappearancepage.cpp:344
 msgid "OpenPGP Message - Valid Signature with Untrusted Key"
 msgstr "Mesaj OpenPGP - Semnătură validă cu cheie necunoscută"
 
-#: configuredialog/configureappearancepage.cpp:342
+#: configuredialog/configureappearancepage.cpp:345
 msgid "OpenPGP Message - Unchecked Signature"
 msgstr "Mesaj OpenPGP - Semnătură neverificată"
 
-#: configuredialog/configureappearancepage.cpp:343
+#: configuredialog/configureappearancepage.cpp:346
 msgid "OpenPGP Message - Bad Signature"
 msgstr "Mesaj OpenPGP - Semnătură falsă"
 
-#: configuredialog/configureappearancepage.cpp:344
+#: configuredialog/configureappearancepage.cpp:347
 msgid "Border Around Warning Prepending HTML Messages"
 msgstr "Cadru în jurul avertizării ce precede mesajele HTML"
 
-#: configuredialog/configureappearancepage.cpp:345
+#: configuredialog/configureappearancepage.cpp:348
 msgid "Folder Name and Size When Close to Quota"
 msgstr "Denumire și dimendiune dosar la apropierea de cotă"
 
-#: configuredialog/configureappearancepage.cpp:346
+#: configuredialog/configureappearancepage.cpp:349
 msgid "HTML Status Bar Background - No HTML Message"
 msgstr "Fundal bară de stare HTML - Nu este mesaj HTML"
 
-#: configuredialog/configureappearancepage.cpp:347
+#: configuredialog/configureappearancepage.cpp:350
 msgid "HTML Status Bar Foreground - No HTML Message"
 msgstr "Text bară de stare HTML - Nu este mesaj HTML"
 
-#: configuredialog/configureappearancepage.cpp:348
+#: configuredialog/configureappearancepage.cpp:351
 msgid "HTML Status Bar Background - HTML Message"
 msgstr "Fundal bară de stare HTML - Mesaj HTML"
 
-#: configuredialog/configureappearancepage.cpp:349
+#: configuredialog/configureappearancepage.cpp:352
 msgid "HTML Status Bar Foreground - HTML Message"
 msgstr "Text bară de stare HTML - Mesaj HTML"
 
-#: configuredialog/configureappearancepage.cpp:350
+#: configuredialog/configureappearancepage.cpp:353
 msgid "Broken Account - Folder Text Color"
 msgstr "Cont deteriorat - Culoarea textului dosarului"
 
-#: configuredialog/configureappearancepage.cpp:351
+#: configuredialog/configureappearancepage.cpp:354
 msgid "Background Color"
 msgstr "Culoare fundal"
 
-#: configuredialog/configureappearancepage.cpp:360
+#: configuredialog/configureappearancepage.cpp:363
 msgid "&Use custom colors"
 msgstr "&Utilizează culori personalizate"
 
-#: configuredialog/configureappearancepage.cpp:375
+#: configuredialog/configureappearancepage.cpp:378
 msgid "Recycle colors on deep &quoting"
 msgstr "&Reciclează culorile la citare adîncă"
 
-#: configuredialog/configureappearancepage.cpp:384
+#: configuredialog/configureappearancepage.cpp:387
 msgid "Close to quota threshold:"
 msgstr "Prag arpopiere de cotă:"
 
-#: configuredialog/configureappearancepage.cpp:391
+#: configuredialog/configureappearancepage.cpp:394
 msgid "%"
 msgstr "%"
 
-#: configuredialog/configureappearancepage.cpp:541
+#: configuredialog/configureappearancepage.cpp:544
 msgid "Show folder quick search field"
 msgstr "Arată cîmpul de căutarea rapidă al dosarului"
 
-#: configuredialog/configureappearancepage.cpp:548
+#: configuredialog/configureappearancepage.cpp:551
 msgid "Show Favorite Folders View"
 msgstr "Arată vizualizarea de dosare favorite"
 
-#: configuredialog/configureappearancepage.cpp:554
-#: configuredialog/configureappearancepage.cpp:580
+#: configuredialog/configureappearancepage.cpp:557
+#: configuredialog/configureappearancepage.cpp:583
 msgid "Never"
 msgstr "Niciodată"
 
-#: configuredialog/configureappearancepage.cpp:558
+#: configuredialog/configureappearancepage.cpp:561
 msgid "As icons"
 msgstr "Ca pictograme"
 
-#: configuredialog/configureappearancepage.cpp:562
+#: configuredialog/configureappearancepage.cpp:565
 msgid "As list"
 msgstr "Ca listă"
 
-#: configuredialog/configureappearancepage.cpp:570
+#: configuredialog/configureappearancepage.cpp:573
 msgid "Folder Tooltips"
 msgstr "Indicii dosar"
 
-#: configuredialog/configureappearancepage.cpp:576
+#: configuredialog/configureappearancepage.cpp:579
 msgid "Always"
 msgstr "Întotdeauna"
 
-#: configuredialog/configureappearancepage.cpp:631
+#: configuredialog/configureappearancepage.cpp:634
 #, kde-format
 msgid "Sta&ndard format (%1)"
 msgstr "Format &standard (%1)"
 
-#: configuredialog/configureappearancepage.cpp:632
+#: configuredialog/configureappearancepage.cpp:635
 #, kde-format
 msgid "Locali&zed format (%1)"
 msgstr "Format &localizat (%1)"
 
-#: configuredialog/configureappearancepage.cpp:633
+#: configuredialog/configureappearancepage.cpp:636
 #, kde-format
 msgid "Smart for&mat (%1)"
 msgstr "For&mat inteligent (%1)"
 
-#: configuredialog/configureappearancepage.cpp:634
+#: configuredialog/configureappearancepage.cpp:637
 msgid "C&ustom format:"
 msgstr "Format &personalizat:"
 
-#: configuredialog/configureappearancepage.cpp:646
+#: configuredialog/configureappearancepage.cpp:649
 msgctxt "General options for the message list."
 msgid "General"
 msgstr "General"
 
-#: configuredialog/configureappearancepage.cpp:674
+#: configuredialog/configureappearancepage.cpp:677
 msgid "Default aggregation:"
 msgstr "Agregarea implicită:"
 
-#: configuredialog/configureappearancepage.cpp:695
+#: configuredialog/configureappearancepage.cpp:698
 msgid "Default theme:"
 msgstr "Tema implicită:"
 
-#: configuredialog/configureappearancepage.cpp:716
+#: configuredialog/configureappearancepage.cpp:719
 msgid "Date Display"
 msgstr "Afișare dată"
 
-#: configuredialog/configureappearancepage.cpp:749
+#: configuredialog/configureappearancepage.cpp:752
 msgid "<qt><a href=\"whatsthis1\">Custom format information...</a></qt>"
 msgstr ""
 "<qt><a href=\"whatsthis1\">Informații de format personalizate...</a></qt>"
 
-#: configuredialog/configureappearancepage.cpp:756
+#: configuredialog/configureappearancepage.cpp:759
 msgid ""
 "<qt><p><strong>These expressions may be used for the date:</strong></"
 "p><ul><li>d - the day as a number without a leading zero (1-31)</li><li>dd - "
@@ -998,119 +998,119 @@ msgstr ""
 "numerică (-0500)</li> </ul> <p><strong>Toate celelalte caractere introduse "
 "vor fi ignorate.</strong></p> </qt>"
 
-#: configuredialog/configureappearancepage.cpp:906
+#: configuredialog/configureappearancepage.cpp:909
 msgid ""
 "Close the standalone message window after replying or forwarding the message"
 msgstr ""
 "Închide fereastra separată a mesajului după răspuns sau înaintarea acestuia"
 
 #. i18n: ectx: label, entry (SystemTrayEnabled), group (General)
-#: configuredialog/configureappearancepage.cpp:952
+#: configuredialog/configureappearancepage.cpp:955
 #: settings/kmail.kcfg.cmake:84
 msgid "Enable system tray icon"
 msgstr "Activează pictograma din tava de sistem"
 
-#: configuredialog/configureappearancepage.cpp:957
+#: configuredialog/configureappearancepage.cpp:960
 msgid "Show unread mail in tray icon"
 msgstr "Arată poșta necitită în pictograma din tavă"
 
-#: configuredialog/configureappearancepage.cpp:969
+#: configuredialog/configureappearancepage.cpp:972
 msgid "System Tray Mode"
 msgstr "Regim tavă de sistem"
 
-#: configuredialog/configureappearancepage.cpp:977
+#: configuredialog/configureappearancepage.cpp:980
 msgid "Always show KMail in system tray"
 msgstr "Afișează întotdeauna KMail în tava de sistem"
 
-#: configuredialog/configureappearancepage.cpp:980
+#: configuredialog/configureappearancepage.cpp:983
 msgid "Only show KMail in system tray if there are unread messages"
 msgstr "Afișează KMail în tava de sistem numai dacă există mesaje necitite"
 
-#: configuredialog/configureappearancepage.cpp:1042
+#: configuredialog/configureappearancepage.cpp:1045
 msgid "A&vailable Tags"
 msgstr "&Etichete disponibile"
 
-#: configuredialog/configureappearancepage.cpp:1055
+#: configuredialog/configureappearancepage.cpp:1058
 msgid "Add new tag"
 msgstr "Adaugă marcaj nou"
 
-#: configuredialog/configureappearancepage.cpp:1060
+#: configuredialog/configureappearancepage.cpp:1063
 msgid "Remove selected tag"
 msgstr "Elimină marcajul ales"
 
-#: configuredialog/configureappearancepage.cpp:1069
+#: configuredialog/configureappearancepage.cpp:1072
 msgid "Increase tag priority"
 msgstr "Mărește prioritatea marcajului"
 
-#: configuredialog/configureappearancepage.cpp:1075
+#: configuredialog/configureappearancepage.cpp:1078
 msgid "Decrease tag priority"
 msgstr "Micșorează pioritatea marcajului"
 
-#: configuredialog/configureappearancepage.cpp:1098
+#: configuredialog/configureappearancepage.cpp:1101
 msgid "Ta&g Settings"
 msgstr "Confi&gurări marcaj"
 
-#: configuredialog/configureappearancepage.cpp:1286
+#: configuredialog/configureappearancepage.cpp:1289
 #, fuzzy, kde-format
 #| msgid "Do you want to remove account '%1'?"
 msgid "Do you want to remove tag '%1'?"
 msgstr "Doriți să ștergeți contul „%1”?"
 
-#: configuredialog/configureappearancepage.cpp:1332
-#: configuredialog/configureappearancepage.cpp:1368
+#: configuredialog/configureappearancepage.cpp:1335
+#: configuredialog/configureappearancepage.cpp:1371
 msgid "We cannot create tag. A tag with same name already exists."
 msgstr ""
 "Eticheta nu poate fi creată. Există deja o etichetă cu aceeași denumire."
 
-#: configuredialog/configurecomposerpage.cpp:78
+#: configuredialog/configurecomposerpage.cpp:77
 msgctxt "General settings for the composer."
 msgid "General"
 msgstr "General"
 
-#: configuredialog/configurecomposerpage.cpp:85
+#: configuredialog/configurecomposerpage.cpp:84
 msgid "Standard Templates"
 msgstr "Șabloane standard"
 
-#: configuredialog/configurecomposerpage.cpp:91
+#: configuredialog/configurecomposerpage.cpp:90
 msgid "Custom Templates"
 msgstr "Șabloane personalizate"
 
-#: configuredialog/configurecomposerpage.cpp:97
+#: configuredialog/configurecomposerpage.cpp:96
 msgctxt "Settings regarding the subject when composing a message."
 msgid "Subject"
 msgstr "Subiect"
 
-#: configuredialog/configurecomposerpage.cpp:104
+#: configuredialog/configurecomposerpage.cpp:103
 msgid "Charset"
 msgstr "Set de caractere"
 
-#: configuredialog/configurecomposerpage.cpp:110
+#: configuredialog/configurecomposerpage.cpp:109
 msgid "Headers"
 msgstr "Antete"
 
-#: configuredialog/configurecomposerpage.cpp:116
+#: configuredialog/configurecomposerpage.cpp:115
 msgctxt "Config->Composer->Attachments"
 msgid "Attachments"
 msgstr "Atașamente"
 
-#: configuredialog/configurecomposerpage.cpp:122
+#: configuredialog/configurecomposerpage.cpp:121
 msgid "Autocorrection"
 msgstr "Corectare automată"
 
-#: configuredialog/configurecomposerpage.cpp:128
+#: configuredialog/configurecomposerpage.cpp:127
 msgid "Auto Resize Image"
 msgstr "Redimensionare automată a imaginii"
 
-#: configuredialog/configurecomposerpage.cpp:133
+#: configuredialog/configurecomposerpage.cpp:132
 msgid "External Editor"
 msgstr "Editor extern"
 
-#: configuredialog/configurecomposerpage.cpp:150
+#: configuredialog/configurecomposerpage.cpp:149
 msgctxt "@title:group"
 msgid "Signature"
 msgstr "Semnătură"
 
-#: configuredialog/configurecomposerpage.cpp:158
+#: configuredialog/configurecomposerpage.cpp:157
 msgid ""
 "Automatically insert the configured signature\n"
 "when starting to compose a message"
@@ -1118,11 +1118,11 @@ msgstr ""
 "Inserează automat semnătura configurată\n"
 "la începerea compunerii unui mesaj"
 
-#: configuredialog/configurecomposerpage.cpp:172
+#: configuredialog/configurecomposerpage.cpp:171
 msgid "Insert the signature above any quoted text"
 msgstr "Inserează semnătura deasupra oricărui text citat"
 
-#: configuredialog/configurecomposerpage.cpp:187
+#: configuredialog/configurecomposerpage.cpp:186
 msgid ""
 "Insert the RFC-compliant signature separator\n"
 "(two dashes and a space on a line) before the signature"
@@ -1130,16 +1130,16 @@ msgstr ""
 "Inserează separatorul conform cu RFC\n"
 "(două cratime și un spațiu pe o linie) înainte de semnătură"
 
-#: configuredialog/configurecomposerpage.cpp:202
+#: configuredialog/configurecomposerpage.cpp:201
 msgid "When replying, do not quote any existing signature"
 msgstr "La răspuns, nu cita nicio semnătură existentă"
 
-#: configuredialog/configurecomposerpage.cpp:214
+#: configuredialog/configurecomposerpage.cpp:213
 msgctxt "@title:group"
 msgid "Format"
 msgstr "Format"
 
-#: configuredialog/configurecomposerpage.cpp:221
+#: configuredialog/configurecomposerpage.cpp:220
 msgid ""
 "When replying, only quote the selected text\n"
 "(instead of the complete message), if\n"
@@ -1149,7 +1149,7 @@ msgstr ""
 "(în loc de întregul mesaj) atunci cînd\n"
 "este text evidențiat în fereastra mesajului."
 
-#: configuredialog/configurecomposerpage.cpp:235
+#: configuredialog/configurecomposerpage.cpp:234
 msgid ""
 "When replying, add quote signs in front of all lines of the quoted text,\n"
 "even when the line was created by adding an additional line break while\n"
@@ -1160,15 +1160,15 @@ msgstr ""
 "suplimentar\n"
 "în timpul limitării dinamice a textului."
 
-#: configuredialog/configurecomposerpage.cpp:250
+#: configuredialog/configurecomposerpage.cpp:249
 msgid "Enable automatic word wrapping at the specified width"
 msgstr ""
 
-#: configuredialog/configurecomposerpage.cpp:261
+#: configuredialog/configurecomposerpage.cpp:260
 msgid "Set the text width for automatic word wrapping"
 msgstr ""
 
-#: configuredialog/configurecomposerpage.cpp:282
+#: configuredialog/configurecomposerpage.cpp:281
 #, fuzzy
 #| msgid ""
 #| "When replying or forwarding, only quote the message in the original "
@@ -1182,18 +1182,18 @@ msgstr ""
 "La răspuns sau înaintare, citează mesajul numai în formatul original în care "
 "a fost primit sau, dacă nu e bifat, se va răspunde implicit ca text simplu"
 
-#: configuredialog/configurecomposerpage.cpp:297
+#: configuredialog/configurecomposerpage.cpp:296
 msgid ""
 "Format the plain text part of a message from the HTML markup.\n"
 "Bold, italic and underlined text, lists, and external references\n"
 "are supported."
 msgstr ""
 
-#: configuredialog/configurecomposerpage.cpp:318
+#: configuredialog/configurecomposerpage.cpp:317
 msgid "No autosave"
 msgstr "Nu salva automat"
 
-#: configuredialog/configurecomposerpage.cpp:319
+#: configuredialog/configurecomposerpage.cpp:318
 msgctxt "Interval suffix"
 msgid " minute"
 msgid_plural " minutes"
@@ -1201,48 +1201,48 @@ msgstr[0] " minut"
 msgstr[1] " minute"
 msgstr[2] " de minute"
 
-#: configuredialog/configurecomposerpage.cpp:321
+#: configuredialog/configurecomposerpage.cpp:320
 msgid "Automatically save the message at this specified interval"
 msgstr "Salvează mesajul automat la acest interval specificat"
 
-#: configuredialog/configurecomposerpage.cpp:339
+#: configuredialog/configurecomposerpage.cpp:338
 msgctxt "@item:inlistbox Inline mail forwarding"
 msgid "Inline"
 msgstr "În linie"
 
-#: configuredialog/configurecomposerpage.cpp:340
+#: configuredialog/configurecomposerpage.cpp:339
 msgid "As Attachment"
 msgstr "Ca atașament"
 
-#: configuredialog/configurecomposerpage.cpp:342
+#: configuredialog/configurecomposerpage.cpp:341
 msgid "Set the default forwarded message format"
 msgstr "Stabilește formatul implicit pentru mesaje înaintate"
 
-#: configuredialog/configurecomposerpage.cpp:346
+#: configuredialog/configurecomposerpage.cpp:345
 msgid "Default forwarding type:"
 msgstr "Tip de înaintare implicit:"
 
-#: configuredialog/configurecomposerpage.cpp:361
+#: configuredialog/configurecomposerpage.cpp:360
 msgctxt "@title:group"
 msgid "Recipients"
 msgstr "Destinatari"
 
-#: configuredialog/configurecomposerpage.cpp:369
+#: configuredialog/configurecomposerpage.cpp:368
 msgid ""
 "By default, request an MDN when starting to compose a message.\n"
 "You can select this on a per-message basis using \"Options - Request "
 "Disposition Notification\""
 msgstr ""
 
-#: configuredialog/configurecomposerpage.cpp:399
+#: configuredialog/configurecomposerpage.cpp:398
 msgid "Warn if too many recipients are specified"
 msgstr "Atenționează dacă sînt specificați prea mulți destinatari"
 
-#: configuredialog/configurecomposerpage.cpp:410
+#: configuredialog/configurecomposerpage.cpp:409
 msgid "Set the maximum number of recipients for the warning"
 msgstr "Stabilește numărul maxim de destinatari pentru avertizare"
 
-#: configuredialog/configurecomposerpage.cpp:432
+#: configuredialog/configurecomposerpage.cpp:431
 msgid ""
 "Only allow this many recipients to be specified for the message.\n"
 "This applies to doing a \"Reply to All\", entering recipients manually\n"
@@ -1252,34 +1252,34 @@ msgid ""
 "mailing lists."
 msgstr ""
 
-#: configuredialog/configurecomposerpage.cpp:459
+#: configuredialog/configurecomposerpage.cpp:458
 msgid ""
 "Remember recent addresses entered,\n"
 "and offer them for recipient completion"
 msgstr ""
 
-#: configuredialog/configurecomposerpage.cpp:473
+#: configuredialog/configurecomposerpage.cpp:472
 msgctxt "No addresses are retained"
 msgid "No save"
 msgstr "Fără salvare"
 
-#: configuredialog/configurecomposerpage.cpp:476
+#: configuredialog/configurecomposerpage.cpp:475
 msgid "Maximum recent addresses retained:"
 msgstr "Maximum adrese recente reținute:"
 
-#: configuredialog/configurecomposerpage.cpp:480
+#: configuredialog/configurecomposerpage.cpp:479
 msgid ""
 "The maximum number of recently entered addresses that will\n"
 "be remembered for completion"
 msgstr ""
 
-#: configuredialog/configurecomposerpage.cpp:497
+#: configuredialog/configurecomposerpage.cpp:496
 #, fuzzy
 #| msgid "Configure Completion Order..."
 msgid "Configure Completion..."
 msgstr "Configurează ordinea completării..."
 
-#: configuredialog/configurecomposerpage.cpp:677
+#: configuredialog/configurecomposerpage.cpp:676
 msgid ""
 "<b>%f</b> will be replaced with the filename to edit.<br /><b>%w</b> will be "
 "replaced with the window id.<br /><b>%l</b> will be replaced with the line "
@@ -1289,12 +1289,12 @@ msgstr ""
 "va fi înlocuit cu identificatorul ferestrei.<br /><b>%l</b> va fi înlocuit "
 "cu numărul liniei."
 
-#: configuredialog/configurecomposerpage.cpp:776
+#: configuredialog/configurecomposerpage.cpp:775
 msgid "Repl&y Subject Prefixes"
 msgstr "&Prefixe subiect răspuns"
 
-#: configuredialog/configurecomposerpage.cpp:780
-#: configuredialog/configurecomposerpage.cpp:812
+#: configuredialog/configurecomposerpage.cpp:779
+#: configuredialog/configurecomposerpage.cpp:811
 msgid ""
 "Recognize any sequence of the following prefixes\n"
 "(entries are case-insensitive regular expressions):"
@@ -1302,53 +1302,53 @@ msgstr ""
 "Recunoaște orice secvență a prefixelor următoare\n"
 "(expresii regulate insensibile la registru):"
 
-#: configuredialog/configurecomposerpage.cpp:790
-#: configuredialog/configurecomposerpage.cpp:883
-#: configuredialog/configurecomposerpage.cpp:1276
+#: configuredialog/configurecomposerpage.cpp:789
+#: configuredialog/configurecomposerpage.cpp:882
+#: configuredialog/configurecomposerpage.cpp:1275
 #: mailmerge/widgets/mailmergewidget.cpp:75
 msgid "A&dd..."
 msgstr "A&dăugare..."
 
-#: configuredialog/configurecomposerpage.cpp:790
-#: configuredialog/configurecomposerpage.cpp:1043
-#: configuredialog/configurecomposerpage.cpp:1276
+#: configuredialog/configurecomposerpage.cpp:789
+#: configuredialog/configurecomposerpage.cpp:1042
+#: configuredialog/configurecomposerpage.cpp:1275
 #: mailmerge/widgets/mailmergewidget.cpp:75
 msgid "Re&move"
 msgstr "Eli&mină"
 
-#: configuredialog/configurecomposerpage.cpp:791
-#: configuredialog/configurecomposerpage.cpp:1277
+#: configuredialog/configurecomposerpage.cpp:790
+#: configuredialog/configurecomposerpage.cpp:1276
 #: mailmerge/widgets/mailmergewidget.cpp:76
 msgid "Mod&ify..."
 msgstr "Mo&difică..."
 
-#: configuredialog/configurecomposerpage.cpp:792
+#: configuredialog/configurecomposerpage.cpp:791
 msgid "Enter new reply prefix:"
 msgstr "Introduceți noul prefix pentru răspuns:"
 
-#: configuredialog/configurecomposerpage.cpp:808
+#: configuredialog/configurecomposerpage.cpp:807
 msgid "For&ward Subject Prefixes"
 msgstr "Prefixe subiect în&aintare"
 
-#: configuredialog/configurecomposerpage.cpp:820 identity/identitypage.cpp:278
+#: configuredialog/configurecomposerpage.cpp:819 identity/identitypage.cpp:278
 msgid "Add..."
 msgstr "Adăugare..."
 
 #. i18n: ectx: property (text), widget (QPushButton, mRemoveButton)
-#: configuredialog/configurecomposerpage.cpp:821
-#: configuredialog/configurecomposerpage.cpp:883 ui/identitypage.ui:66
+#: configuredialog/configurecomposerpage.cpp:820
+#: configuredialog/configurecomposerpage.cpp:882 ui/identitypage.ui:66
 msgid "Remo&ve"
 msgstr "Elimi&nă"
 
-#: configuredialog/configurecomposerpage.cpp:822 identity/identitypage.cpp:280
+#: configuredialog/configurecomposerpage.cpp:821 identity/identitypage.cpp:280
 msgid "Modify..."
 msgstr "Modificare..."
 
-#: configuredialog/configurecomposerpage.cpp:823
+#: configuredialog/configurecomposerpage.cpp:822
 msgid "Enter new forward prefix:"
 msgstr "Introduceți noul prefix pentru înaintare:"
 
-#: configuredialog/configurecomposerpage.cpp:875
+#: configuredialog/configurecomposerpage.cpp:874
 msgid ""
 "This list is checked for every outgoing message from the top to the bottom "
 "for a charset that contains all required characters."
@@ -1358,65 +1358,65 @@ msgstr ""
 "mesajului."
 
 #. i18n: ectx: property (text), widget (QPushButton, mModifyButton)
-#: configuredialog/configurecomposerpage.cpp:884 ui/identitypage.ui:40
+#: configuredialog/configurecomposerpage.cpp:883 ui/identitypage.ui:40
 msgid "&Modify..."
 msgstr "&Modificare..."
 
-#: configuredialog/configurecomposerpage.cpp:884
+#: configuredialog/configurecomposerpage.cpp:883
 msgid "Enter charset:"
 msgstr "Introduceți setul de caractere:"
 
-#: configuredialog/configurecomposerpage.cpp:891
+#: configuredialog/configurecomposerpage.cpp:890
 msgid "&Keep original charset when replying or forwarding (if possible)"
 msgstr ""
 "&La răspuns sau înaintare păstrează setul de caractere original (dacă e "
 "posibil)"
 
-#: configuredialog/configurecomposerpage.cpp:929
+#: configuredialog/configurecomposerpage.cpp:928
 msgid "This charset is not supported."
 msgstr "Acest set de caractere nu este suportat."
 
-#: configuredialog/configurecomposerpage.cpp:992
+#: configuredialog/configurecomposerpage.cpp:991
 msgid "&Use custom message-id suffix"
 msgstr "&Utilizează sufix \"Message-Id\" personalizat"
 
-#: configuredialog/configurecomposerpage.cpp:1006
+#: configuredialog/configurecomposerpage.cpp:1005
 msgid "Custom message-&id suffix:"
 msgstr "&Sufix \"Message-Id\" personalizat:"
 
-#: configuredialog/configurecomposerpage.cpp:1021
+#: configuredialog/configurecomposerpage.cpp:1020
 msgid "Define custom mime header fields:"
 msgstr "Definește antete MIME personalizate:"
 
-#: configuredialog/configurecomposerpage.cpp:1029
+#: configuredialog/configurecomposerpage.cpp:1028
 msgctxt "@title:column Name of the mime header."
 msgid "Name"
 msgstr "Denumire"
 
-#: configuredialog/configurecomposerpage.cpp:1030
+#: configuredialog/configurecomposerpage.cpp:1029
 msgctxt "@title:column Value of the mimeheader."
 msgid "Value"
 msgstr "Valoare"
 
-#: configuredialog/configurecomposerpage.cpp:1039
+#: configuredialog/configurecomposerpage.cpp:1038
 msgctxt "@action:button Add new mime header field."
 msgid "Ne&w"
 msgstr "N&ou"
 
-#: configuredialog/configurecomposerpage.cpp:1053
+#: configuredialog/configurecomposerpage.cpp:1052
 msgctxt "@label:textbox Name of the mime header."
 msgid "&Name:"
 msgstr "De&numire:"
 
-#: configuredialog/configurecomposerpage.cpp:1064
+#: configuredialog/configurecomposerpage.cpp:1063
 msgid "&Value:"
 msgstr "&Valoare:"
 
-#: configuredialog/configurecomposerpage.cpp:1244
+#: configuredialog/configurecomposerpage.cpp:1243
 msgid "Outlook-compatible attachment naming"
 msgstr "Atașamente denumite în mod compatibil cu Outlook"
 
-#: configuredialog/configurecomposerpage.cpp:1247
+#: configuredialog/configurecomposerpage.cpp:1246
 msgid ""
 "Turn this option on to make Outlook(tm) understand attachment names "
 "containing non-English characters"
@@ -1424,34 +1424,34 @@ msgstr ""
 "Activați această opțiune pentru a permite Outlook(tm) să înțeleagă numele de "
 "atașamente ce conțin caractere non-ASCII"
 
-#: configuredialog/configurecomposerpage.cpp:1258
+#: configuredialog/configurecomposerpage.cpp:1257
 msgid "E&nable detection of missing attachments"
 msgstr "Activează &detecția atașamentelor lipsă"
 
-#: configuredialog/configurecomposerpage.cpp:1265
+#: configuredialog/configurecomposerpage.cpp:1264
 msgid "Recognize any of the following key words as intention to attach a file:"
 msgstr ""
 "Recunoaște oricare dintre cuvintele cheie ca intenție de atașare a unui "
 "fișier:"
 
-#: configuredialog/configurecomposerpage.cpp:1278
+#: configuredialog/configurecomposerpage.cpp:1277
 msgid "Enter new key word:"
 msgstr "Introduceți noul cuvînt cheie:"
 
-#: configuredialog/configurecomposerpage.cpp:1289
+#: configuredialog/configurecomposerpage.cpp:1288
 msgid "Offer to share for files larger than:"
 msgstr "Oferă partajarea pentru fișiere mai mare de:"
 
-#: configuredialog/configurecomposerpage.cpp:1296
+#: configuredialog/configurecomposerpage.cpp:1295
 msgctxt "spinbox suffix: unit for kilobyte"
 msgid " kB"
 msgstr " kO"
 
-#: configuredialog/configurecomposerpage.cpp:1299
+#: configuredialog/configurecomposerpage.cpp:1298
 msgid "No limit"
 msgstr "Fără limită"
 
-#: configuredialog/configurecomposerpage.cpp:1333
+#: configuredialog/configurecomposerpage.cpp:1332
 msgid ""
 "You have chosen to encode attachment names containing non-English characters "
 "in a way that is understood by Outlook(tm) and other mail clients that do "
@@ -1500,59 +1500,59 @@ msgstr "Configurări agent"
 msgid "Printing"
 msgstr "Tipărire"
 
-#: configuredialog/configuresecuritypage.cpp:54
+#: configuredialog/configuresecuritypage.cpp:53
 msgid "Reading"
 msgstr "Citire"
 
-#: configuredialog/configuresecuritypage.cpp:56
+#: configuredialog/configuresecuritypage.cpp:55
 msgid "Message Disposition Notifications"
 msgstr "Notificări prelucrare mesaj"
 
-#: configuredialog/configuresecuritypage.cpp:62
+#: configuredialog/configuresecuritypage.cpp:61
 msgid "Composing"
 msgstr "Compunere"
 
-#: configuredialog/configuresecuritypage.cpp:68
+#: configuredialog/configuresecuritypage.cpp:67
 msgid "Miscellaneous"
 msgstr "Diverse"
 
-#: configuredialog/configuresecuritypage.cpp:74
+#: configuredialog/configuresecuritypage.cpp:73
 msgid "S/MIME Validation"
 msgstr "Validare S/MIME"
 
-#: configuredialog/configuresecuritypage.cpp:77
+#: configuredialog/configuresecuritypage.cpp:76
 msgid "Ad block"
 msgstr ""
 
-#: configuredialog/configuresecuritypage.cpp:127
+#: configuredialog/configuresecuritypage.cpp:126
 msgid ""
 "Changing the global HTML setting will override all folder specific values."
 msgstr ""
 "Modificarea setării de HTML la nivel global va anula valorile specifice "
 "fiecărui dosar."
 
-#: configuredialog/configuresecuritypage.cpp:369
-#: configuredialog/configuresecuritypage.cpp:372
-#: configuredialog/configuresecuritypage.cpp:374
-#: configuredialog/configuresecuritypage.cpp:376
-#: configuredialog/configuresecuritypage.cpp:379
-#: configuredialog/configuresecuritypage.cpp:381
+#: configuredialog/configuresecuritypage.cpp:368
+#: configuredialog/configuresecuritypage.cpp:371
+#: configuredialog/configuresecuritypage.cpp:373
+#: configuredialog/configuresecuritypage.cpp:375
+#: configuredialog/configuresecuritypage.cpp:378
+#: configuredialog/configuresecuritypage.cpp:380
 msgid " day"
 msgid_plural " days"
 msgstr[0] " zi"
 msgstr[1] " zile"
 msgstr[2] " de zile"
 
-#: configuredialog/configuresecuritypage.cpp:481
+#: configuredialog/configuresecuritypage.cpp:480
 msgid "This option requires dirmngr >= 0.9.0"
 msgstr "Această opțiune necesită dirmngr >= 0.9.0"
 
 #. i18n: ectx: property (text), widget (QLabel, systemHTTPProxy)
-#: configuredialog/configuresecuritypage.cpp:598 ui/smimeconfiguration.ui:183
+#: configuredialog/configuresecuritypage.cpp:597 ui/smimeconfiguration.ui:183
 msgid "no proxy"
 msgstr "fără proxy"
 
-#: configuredialog/configuresecuritypage.cpp:600
+#: configuredialog/configuresecuritypage.cpp:599
 #, kde-format
 msgid "(Current system setting: %1)"
 msgstr "(Configurare de sistem curentă: %1)"
@@ -1592,7 +1592,7 @@ msgctxt "@title:window for archiving a folder"
 msgid "Archive Folder"
 msgstr "Arhivare dosar"
 
-#: dialog/archivefolderdialog.cpp:73 kmmainwidget.cpp:3540
+#: dialog/archivefolderdialog.cpp:73 kmmainwidget.cpp:3549
 msgctxt "@action"
 msgid "Archive"
 msgstr "Arhivează"
@@ -1671,357 +1671,357 @@ msgctxt "Menu item"
 msgid "Encoding"
 msgstr "Codare"
 
-#: editor/kmcomposewin.cpp:279
+#: editor/kmcomposewin.cpp:276
 #, fuzzy
 #| msgid "KMail"
 msgid "KMail2"
 msgstr "KMail"
 
-#: editor/kmcomposewin.cpp:299
+#: editor/kmcomposewin.cpp:296
 msgid "Select an identity for this message"
 msgstr "Alegeți o identitate pentru acest mesaj"
 
-#: editor/kmcomposewin.cpp:306
+#: editor/kmcomposewin.cpp:303
 msgid "Select the dictionary to use when spell-checking this message"
 msgstr ""
 "Alegeți dicționarul de utilizat la verificarea ortografică a acestui mesaj"
 
-#: editor/kmcomposewin.cpp:313
+#: editor/kmcomposewin.cpp:310
 msgid "Select the sent-mail folder where a copy of this message will be saved"
 msgstr ""
 "Alegeți dosarul cu scrisori expediate în care va fi salvată o copie a "
 "acestui mesaj"
 
-#: editor/kmcomposewin.cpp:317
+#: editor/kmcomposewin.cpp:314
 msgid "Select the outgoing account to use for sending this message"
 msgstr "Alegeți contul de trimitere utilizat la expedierea acestui mesaj"
 
-#: editor/kmcomposewin.cpp:324
+#: editor/kmcomposewin.cpp:321
 msgid "Set the \"From:\" email address for this message"
 msgstr "Stabiliți adresa „De la:” pentru acest mesaj"
 
-#: editor/kmcomposewin.cpp:328
+#: editor/kmcomposewin.cpp:325
 msgid "Set the \"Reply-To:\" email address for this message"
 msgstr ""
 
-#: editor/kmcomposewin.cpp:339
+#: editor/kmcomposewin.cpp:336
 msgid "Set a subject for this message"
 msgstr "Stabilește subiectul mesajului"
 
-#: editor/kmcomposewin.cpp:341
+#: editor/kmcomposewin.cpp:338
 msgid "&Identity:"
 msgstr "&Identitate:"
 
-#: editor/kmcomposewin.cpp:342
+#: editor/kmcomposewin.cpp:339
 msgid "&Dictionary:"
 msgstr "&Dicționar:"
 
-#: editor/kmcomposewin.cpp:343
+#: editor/kmcomposewin.cpp:340
 msgid "&Sent-Mail folder:"
 msgstr "Dosar „trimi&se”:"
 
-#: editor/kmcomposewin.cpp:344
+#: editor/kmcomposewin.cpp:341
 msgid "&Mail transport:"
 msgstr "Transport e-&mail:"
 
-#: editor/kmcomposewin.cpp:345
+#: editor/kmcomposewin.cpp:342
 msgctxt "sender address field"
 msgid "&From:"
 msgstr "&De la:"
 
-#: editor/kmcomposewin.cpp:346
+#: editor/kmcomposewin.cpp:343
 msgid "&Reply to:"
 msgstr "&Răspuns către:"
 
-#: editor/kmcomposewin.cpp:347
+#: editor/kmcomposewin.cpp:344
 msgctxt "@label:textbox Subject of email."
 msgid "S&ubject:"
 msgstr "S&ubiect:"
 
-#: editor/kmcomposewin.cpp:348
+#: editor/kmcomposewin.cpp:345
 msgctxt "@option:check Sticky identity."
 msgid "Sticky"
 msgstr "Lipicios"
 
-#: editor/kmcomposewin.cpp:350
+#: editor/kmcomposewin.cpp:347
 msgid "Use the selected value as your identity for future messages"
 msgstr "Utilizează valoarea aleasă ca identitate pentru mesajele ulterioare"
 
-#: editor/kmcomposewin.cpp:352
+#: editor/kmcomposewin.cpp:349
 msgid "Use the selected value as your sent-mail folder for future messages"
 msgstr ""
 "Utilizează valoarea aleasă ca dosar cu scrisori expediate pentru mesajele "
 "ulterioare"
 
-#: editor/kmcomposewin.cpp:354
+#: editor/kmcomposewin.cpp:351
 msgid "Use the selected value as your outgoing account for future messages"
 msgstr ""
 "Utilizează valoarea aleasă ca cont de expediere pentru mesajele ulterioare"
 
-#: editor/kmcomposewin.cpp:356
+#: editor/kmcomposewin.cpp:353
 msgid "Use the selected value as your dictionary for future messages"
 msgstr "Utilizează valoarea aleasă ca dicționar pentru mesajele ulterioare"
 
-#: editor/kmcomposewin.cpp:1097 editor/kmcomposewin.cpp:1137
+#: editor/kmcomposewin.cpp:1094 editor/kmcomposewin.cpp:1134
 msgid "&Send Mail"
 msgstr "&Trimite poșta"
 
-#: editor/kmcomposewin.cpp:1101
+#: editor/kmcomposewin.cpp:1098
 msgid "Send Mail Using Shortcut"
 msgstr ""
 
-#: editor/kmcomposewin.cpp:1109 editor/kmcomposewin.cpp:1144
+#: editor/kmcomposewin.cpp:1106 editor/kmcomposewin.cpp:1141
 msgid "&Send Mail Via"
 msgstr "&Trimite poșta prin"
 
-#: editor/kmcomposewin.cpp:1111
+#: editor/kmcomposewin.cpp:1108
 msgid "Send"
 msgstr "Trimite"
 
-#: editor/kmcomposewin.cpp:1114 editor/kmcomposewin.cpp:1127
+#: editor/kmcomposewin.cpp:1111 editor/kmcomposewin.cpp:1124
 #: editor/kmcomposewin.cpp:2805
 msgid "Send &Later"
 msgstr "T&rimite mai tîrziu"
 
-#: editor/kmcomposewin.cpp:1120 editor/kmcomposewin.cpp:1134
+#: editor/kmcomposewin.cpp:1117 editor/kmcomposewin.cpp:1131
 msgid "Send &Later Via"
 msgstr "T&rimite mai tîrziu prin"
 
-#: editor/kmcomposewin.cpp:1122
+#: editor/kmcomposewin.cpp:1119
 msgctxt "Queue the message for sending at a later date"
 msgid "Queue"
 msgstr "Așează la coadă"
 
-#: editor/kmcomposewin.cpp:1157
+#: editor/kmcomposewin.cpp:1154
 msgid "Save as &Draft"
 msgstr "&Salvează ca ciornă"
 
-#: editor/kmcomposewin.cpp:1159
+#: editor/kmcomposewin.cpp:1156
 msgid "Save email in Draft folder"
 msgstr "Salvează scrisoarea în dosarul cu ciorne"
 
-#: editor/kmcomposewin.cpp:1163
+#: editor/kmcomposewin.cpp:1160
 msgid "Save as &Template"
 msgstr "Salvează ca șa&blon"
 
-#: editor/kmcomposewin.cpp:1164
+#: editor/kmcomposewin.cpp:1161
 msgid "Save email in Template folder"
 msgstr "Salvează scrisoarea în dosarul cu șabloane"
 
-#: editor/kmcomposewin.cpp:1168
+#: editor/kmcomposewin.cpp:1165
 msgid "Save as &File"
 msgstr "Salvează ca &fișier"
 
-#: editor/kmcomposewin.cpp:1169
+#: editor/kmcomposewin.cpp:1166
 msgid "Save email as text or html file"
 msgstr "Salvează scrisoarea ca fișier textual sau HTML"
 
-#: editor/kmcomposewin.cpp:1173 kmmainwidget.cpp:3394
+#: editor/kmcomposewin.cpp:1170 kmmainwidget.cpp:3403
 msgid "New AddressBook Contact..."
 msgstr "Contact nou în cartea de adrese..."
 
-#: editor/kmcomposewin.cpp:1177
+#: editor/kmcomposewin.cpp:1174
 msgid "&Insert Text File..."
 msgstr "&Inserare fișier textual..."
 
-#: editor/kmcomposewin.cpp:1182
+#: editor/kmcomposewin.cpp:1179
 msgid "&Insert Recent Text File"
 msgstr "&Inserează fișier textual recent"
 
-#: editor/kmcomposewin.cpp:1188 kmmainwidget.cpp:2879
+#: editor/kmcomposewin.cpp:1185 kmmainwidget.cpp:2888
 msgid "&Address Book"
 msgstr "Cartea de &adrese"
 
-#: editor/kmcomposewin.cpp:1189
+#: editor/kmcomposewin.cpp:1186
 msgid "Open Address Book"
 msgstr "Deschide cartea de adrese"
 
-#: editor/kmcomposewin.cpp:1195
+#: editor/kmcomposewin.cpp:1192
 msgid "&New Composer"
 msgstr "Compunere &nouă"
 
-#: editor/kmcomposewin.cpp:1201
+#: editor/kmcomposewin.cpp:1198
 msgid "Select &Recipients..."
 msgstr "Alege destinata&ri..."
 
-#: editor/kmcomposewin.cpp:1205
+#: editor/kmcomposewin.cpp:1202
 msgid "Save &Distribution List..."
 msgstr "Salvează lista de &distribuție..."
 
-#: editor/kmcomposewin.cpp:1228
+#: editor/kmcomposewin.cpp:1225
 msgid "Paste as Attac&hment"
 msgstr "Lipește ca atașa&ment"
 
-#: editor/kmcomposewin.cpp:1232
+#: editor/kmcomposewin.cpp:1229
 msgid "Cl&ean Spaces"
 msgstr "Curăță spațiil&e"
 
-#: editor/kmcomposewin.cpp:1236
+#: editor/kmcomposewin.cpp:1233
 msgid "Use Fi&xed Font"
 msgstr "Folosește font de lățime fi&xă"
 
-#: editor/kmcomposewin.cpp:1243
+#: editor/kmcomposewin.cpp:1240
 msgctxt "@action:inmenu Mark the email as urgent."
 msgid "&Urgent"
 msgstr "&Urgent"
 
-#: editor/kmcomposewin.cpp:1245
+#: editor/kmcomposewin.cpp:1242
 msgid "&Request Disposition Notification"
 msgstr "Ce&re notificare de primire"
 
-#: editor/kmcomposewin.cpp:1251
+#: editor/kmcomposewin.cpp:1248
 msgid "&Wordwrap"
 msgstr "&Limitare cuvinte"
 
-#: editor/kmcomposewin.cpp:1256
+#: editor/kmcomposewin.cpp:1253
 msgid "&Snippets"
 msgstr "&Fragmente"
 
-#: editor/kmcomposewin.cpp:1262
+#: editor/kmcomposewin.cpp:1259
 msgid "&Automatic Spellchecking"
 msgstr "Verificare ortografică &automată"
 
-#: editor/kmcomposewin.cpp:1279
+#: editor/kmcomposewin.cpp:1276
 msgid "Rich Text Editing"
 msgstr "Redactare text complex"
 
-#: editor/kmcomposewin.cpp:1281
+#: editor/kmcomposewin.cpp:1278
 msgid "Rich Text"
 msgstr "Text complex"
 
-#: editor/kmcomposewin.cpp:1282
+#: editor/kmcomposewin.cpp:1279
 msgid "Toggle rich text editing mode"
 msgstr "Comută regimul de redactare a textului complex"
 
-#: editor/kmcomposewin.cpp:1286
+#: editor/kmcomposewin.cpp:1283
 msgid "&All Fields"
 msgstr "To&ate cîmpurile"
 
-#: editor/kmcomposewin.cpp:1289
+#: editor/kmcomposewin.cpp:1286
 msgid "&Identity"
 msgstr "&Identitate"
 
-#: editor/kmcomposewin.cpp:1292
+#: editor/kmcomposewin.cpp:1289
 msgid "&Dictionary"
 msgstr "&Dicționar"
 
-#: editor/kmcomposewin.cpp:1295
+#: editor/kmcomposewin.cpp:1292
 msgid "&Sent-Mail Folder"
 msgstr "Do&sar „trimise”"
 
-#: editor/kmcomposewin.cpp:1298
+#: editor/kmcomposewin.cpp:1295
 msgid "&Mail Transport"
 msgstr "T&ransport poștal"
 
-#: editor/kmcomposewin.cpp:1301
+#: editor/kmcomposewin.cpp:1298
 msgid "&From"
 msgstr "&De la"
 
-#: editor/kmcomposewin.cpp:1304
+#: editor/kmcomposewin.cpp:1301
 msgid "&Reply To"
 msgstr "&Răspunde la"
 
-#: editor/kmcomposewin.cpp:1308
+#: editor/kmcomposewin.cpp:1305
 msgctxt "@action:inmenu Show the subject in the composer window."
 msgid "S&ubject"
 msgstr "S&ubiect"
 
-#: editor/kmcomposewin.cpp:1313
+#: editor/kmcomposewin.cpp:1310
 msgid "Append S&ignature"
 msgstr "Atașează &semnătura"
 
-#: editor/kmcomposewin.cpp:1317
+#: editor/kmcomposewin.cpp:1314
 msgid "Pr&epend Signature"
 msgstr "Atașează s&emnătura la început"
 
-#: editor/kmcomposewin.cpp:1321
+#: editor/kmcomposewin.cpp:1318
 msgid "Insert Signature At C&ursor Position"
 msgstr "Inserează semnătura la poziția c&ursorului"
 
-#: editor/kmcomposewin.cpp:1325
+#: editor/kmcomposewin.cpp:1322
 msgid "Insert Special Character..."
 msgstr "Inserează caracter special..."
 
-#: editor/kmcomposewin.cpp:1329
+#: editor/kmcomposewin.cpp:1326
 msgid "Uppercase"
 msgstr "Majuscule"
 
-#: editor/kmcomposewin.cpp:1349
+#: editor/kmcomposewin.cpp:1346
 msgid "&Spellchecker..."
 msgstr "Verificator &ortografic..."
 
-#: editor/kmcomposewin.cpp:1350
+#: editor/kmcomposewin.cpp:1347
 msgid "Spellchecker"
 msgstr "Verificator ortografic"
 
-#: editor/kmcomposewin.cpp:1360
+#: editor/kmcomposewin.cpp:1351
 msgid "&Encrypt Message"
 msgstr "&Criptează mesajul"
 
-#: editor/kmcomposewin.cpp:1361
+#: editor/kmcomposewin.cpp:1352
 msgid "Encrypt"
 msgstr "Criptează"
 
-#: editor/kmcomposewin.cpp:1363
+#: editor/kmcomposewin.cpp:1354
 msgid "&Sign Message"
 msgstr "&Semnează mesajul"
 
-#: editor/kmcomposewin.cpp:1364
+#: editor/kmcomposewin.cpp:1355
 msgid "Sign"
 msgstr "Semnează"
 
-#: editor/kmcomposewin.cpp:1387
+#: editor/kmcomposewin.cpp:1378
 msgid "&Cryptographic Message Format"
 msgstr "Format mesaj &criptografic"
 
-#: editor/kmcomposewin.cpp:1390
+#: editor/kmcomposewin.cpp:1381
 msgid "Select a cryptographic format for this message"
 msgstr "Alegeți un format criptografic pentru acest mesaj"
 
-#: editor/kmcomposewin.cpp:1397
+#: editor/kmcomposewin.cpp:1388
 msgid "Follow Up Mail..."
 msgstr ""
 
-#: editor/kmcomposewin.cpp:1410
+#: editor/kmcomposewin.cpp:1401
 msgid "Configure KMail..."
 msgstr "Configurare KMail..."
 
-#: editor/kmcomposewin.cpp:1446 editor/kmcomposewin.cpp:3206
+#: editor/kmcomposewin.cpp:1437 editor/kmcomposewin.cpp:3206
 #, kde-format
 msgctxt "Shows the linenumber of the cursor position."
 msgid " Line: %1 "
 msgstr " Linia: %1 "
 
-#: editor/kmcomposewin.cpp:1451 editor/kmcomposewin.cpp:3208
+#: editor/kmcomposewin.cpp:1442 editor/kmcomposewin.cpp:3208
 #, kde-format
 msgid " Column: %1 "
 msgstr " Coloana: %1 "
 
-#: editor/kmcomposewin.cpp:1456
+#: editor/kmcomposewin.cpp:1447
 msgid "OVR"
 msgstr "SUP"
 
-#: editor/kmcomposewin.cpp:1456
+#: editor/kmcomposewin.cpp:1447
 msgid "INS"
 msgstr "INS"
 
-#: editor/kmcomposewin.cpp:1461
+#: editor/kmcomposewin.cpp:1452
 msgid "Spellcheck: on"
 msgstr "Verificare ortografică: activată"
 
-#: editor/kmcomposewin.cpp:1461
+#: editor/kmcomposewin.cpp:1452
 msgid "Spellcheck: off"
 msgstr "Verificare ortografică: dezactivată"
 
-#: editor/kmcomposewin.cpp:1863
+#: editor/kmcomposewin.cpp:1852
 msgid "Re&save as Template"
 msgstr "Re&salvează ca șablon"
 
-#: editor/kmcomposewin.cpp:1864
+#: editor/kmcomposewin.cpp:1853
 msgid "&Save as Draft"
 msgstr "&Salvează ca ciornă"
 
-#: editor/kmcomposewin.cpp:1866
+#: editor/kmcomposewin.cpp:1855
 msgid ""
 "Resave this message in the Templates folder. It can then be used at a later "
 "time."
@@ -2029,7 +2029,7 @@ msgstr ""
 "Resalvează acest mesaj în dosarul Șabloane. Acesta poate fi utilizats la un "
 "moment ulterior."
 
-#: editor/kmcomposewin.cpp:1868
+#: editor/kmcomposewin.cpp:1857
 msgid ""
 "Save this message in the Drafts folder. It can then be edited and sent at a "
 "later time."
@@ -2037,49 +2037,49 @@ msgstr ""
 "Salvează acest mesaj în dosarul „ciorne”. Poate fi redactat și trimis la un "
 "moment ulterior."
 
-#: editor/kmcomposewin.cpp:1872
+#: editor/kmcomposewin.cpp:1861
 msgid "Do you want to save the message for later or discard it?"
 msgstr "Doriți să salvez mesajul pentru mai tîrziu sau să-l șterg?"
 
-#: editor/kmcomposewin.cpp:1873
+#: editor/kmcomposewin.cpp:1862
 msgid "Close Composer"
 msgstr "Închide fereastra de compunere"
 
-#: editor/kmcomposewin.cpp:1943
+#: editor/kmcomposewin.cpp:1932
 msgid "Autosave Message Failed"
 msgstr "Salvarea automată a mesajului a eșuat"
 
-#: editor/kmcomposewin.cpp:1943
+#: editor/kmcomposewin.cpp:1932
 msgid "Sending Message Failed"
 msgstr "Expedierea mesajului a eșuat"
 
-#: editor/kmcomposewin.cpp:2092
+#: editor/kmcomposewin.cpp:2081
 #, fuzzy
 #| msgid "Insert File Content"
 msgctxt "@title:window"
 msgid "Insert File"
 msgstr "Inserează conținutul fișierului"
 
-#: editor/kmcomposewin.cpp:2122
+#: editor/kmcomposewin.cpp:2111
 msgid "Add as &Inline Image"
 msgstr "Adaugă ca mesaj în l&inie"
 
-#: editor/kmcomposewin.cpp:2123
+#: editor/kmcomposewin.cpp:2112
 msgid "Add as &Attachment"
 msgstr "Adaugă ca &atașament"
 
-#: editor/kmcomposewin.cpp:2139 editor/kmcomposewin.cpp:2218
+#: editor/kmcomposewin.cpp:2128 editor/kmcomposewin.cpp:2218
 msgid "Name of the attachment:"
 msgstr "Denumirea atașamentului:"
 
-#: editor/kmcomposewin.cpp:2177
+#: editor/kmcomposewin.cpp:2166
 msgid "Add URL into Message"
 msgid_plural "Add URLs into Message"
 msgstr[0] "Adaugă URL în mesaj"
 msgstr[1] "Adaugă URL-uri în mesaj"
 msgstr[2] "Adaugă URL-uri în mesaj"
 
-#: editor/kmcomposewin.cpp:2178
+#: editor/kmcomposewin.cpp:2167
 msgid "Add File as &Attachment"
 msgid_plural "Add Files as &Attachment"
 msgstr[0] "Adaugă fișier ca &atașament"
@@ -3131,11 +3131,11 @@ msgstr ""
 msgid "Failed to store contact"
 msgstr "Imposibil de editat atașamentul"
 
-#: job/removecollectionjob.cpp:70
+#: job/removecollectionjob.cpp:71
 msgid "Delete Search"
 msgstr "Șterge căutarea"
 
-#: job/removecollectionjob.cpp:71
+#: job/removecollectionjob.cpp:72
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to delete the search <b>%1</b>?<br />Any messages "
@@ -3144,21 +3144,21 @@ msgstr ""
 "<qt>Sigur doriți să ștergeți căutarea <b>%1</b>?<br />Mesajele afișate în ea "
 "vor fi disponibile în dosarul lor original.</qt>"
 
-#: job/removecollectionjob.cpp:74
+#: job/removecollectionjob.cpp:75
 msgctxt "@action:button Delete search"
 msgid "&Delete"
 msgstr "Ș&terge"
 
-#: job/removecollectionjob.cpp:76
+#: job/removecollectionjob.cpp:77
 msgid "Delete Folder"
 msgstr "Ștergere dosar"
 
-#: job/removecollectionjob.cpp:80
+#: job/removecollectionjob.cpp:81
 #, kde-format
 msgid "<qt>Are you sure you want to delete the empty folder <b>%1</b>?</qt>"
 msgstr "<qt>Sigur doriți să șterg dosarul gol <b>%1</b>?</qt>"
 
-#: job/removecollectionjob.cpp:84
+#: job/removecollectionjob.cpp:85
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to delete the empty folder <resource>%1</resource> "
@@ -3171,7 +3171,7 @@ msgstr ""
 "lor va fi de asemenea șters. <p><b>Aveți în vedere</b> că mesajele eliminate "
 "nu sînt salvate în coșul de gunoi și sînt șterse permanent.</p></qt>"
 
-#: job/removecollectionjob.cpp:93
+#: job/removecollectionjob.cpp:94
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to delete the folder <resource>%1</resource>, "
@@ -3182,7 +3182,7 @@ msgstr ""
 "conținutul lui? <p><b>Aveți în vedere</b> că mesajele eliminate nu sînt "
 "salvate în coșul de gunoi și sînt șterse permanent.</p></qt>"
 
-#: job/removecollectionjob.cpp:99
+#: job/removecollectionjob.cpp:100
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to delete the folder <resource>%1</resource> and "
@@ -3195,7 +3195,7 @@ msgstr ""
 "mesajele eliminate nu sînt salvate în coșul de gunoi și sînt șterse "
 "permanent.</p></qt>"
 
-#: job/removecollectionjob.cpp:106
+#: job/removecollectionjob.cpp:107
 msgctxt "@action:button Delete folder"
 msgid "&Delete"
 msgstr "Ș&terge"
@@ -3330,7 +3330,7 @@ msgid "&Forward"
 msgstr "Î&naintează"
 
 #. i18n: ectx: Menu (apply_filter_actions)
-#: kmail_part.rc:168 kmmainwidget.cpp:3218 kmmainwin.rc:168
+#: kmail_part.rc:168 kmmainwidget.cpp:3227 kmmainwin.rc:168
 msgid "A&pply Filter"
 msgstr "&Aplică filtrul"
 
@@ -3456,30 +3456,30 @@ msgstr "Bara de unelte HTML"
 msgid "Text Direction Toolbar"
 msgstr ""
 
-#: kmkernel.cpp:611
+#: kmkernel.cpp:608
 #, fuzzy, kde-format
 #| msgid "Are you sure you want to empty the trash folder?"
 msgid "Do you want to attach this folder \"%1\"?"
 msgstr "Sigur doriți să golesc coșul de gunoi?"
 
-#: kmkernel.cpp:611
+#: kmkernel.cpp:608
 #, fuzzy
 #| msgid "Archive Folder"
 msgid "Attach Folder"
 msgstr "Arhivează dosar"
 
-#: kmkernel.cpp:1009
+#: kmkernel.cpp:1006
 msgid "KMail is set to be offline; all network jobs are suspended"
 msgstr ""
 "KMail este stabilit să fie deconectat; toate sarcinile de rețea sînt "
 "suspendate"
 
-#: kmkernel.cpp:1042
+#: kmkernel.cpp:1039
 msgid "KMail is set to be online; all network jobs resumed"
 msgstr ""
 "KMail este stabilit să fie conectat; toate sarcinile de rețea sînt reluate"
 
-#: kmkernel.cpp:1044
+#: kmkernel.cpp:1041
 #, fuzzy
 #| msgid "KMail is set to be online; all network jobs resumed"
 msgid ""
@@ -3488,30 +3488,30 @@ msgid ""
 msgstr ""
 "KMail este stabilit să fie conectat; toate sarcinile de rețea sînt reluate"
 
-#: kmkernel.cpp:1118
+#: kmkernel.cpp:1115
 msgid "KMail is currently in offline mode. How do you want to proceed?"
 msgstr "KMail se află în regim deconectat. Cum doriți să procedați?"
 
-#: kmkernel.cpp:1120
+#: kmkernel.cpp:1117
 msgid "Online/Offline"
 msgstr "Conectat/deconectat"
 
-#: kmkernel.cpp:1121 kmmainwidget.cpp:2313
+#: kmkernel.cpp:1118 kmmainwidget.cpp:2322
 msgid "Work Online"
 msgstr "Lucrează conectat"
 
-#: kmkernel.cpp:1122 kmmainwidget.cpp:2310
+#: kmkernel.cpp:1119 kmmainwidget.cpp:2319
 msgid "Work Offline"
 msgstr "Lucrează deconectat"
 
-#: kmkernel.cpp:1147
+#: kmkernel.cpp:1144
 #, fuzzy
 #| msgid "KMail is set to be online; all network jobs resumed"
 msgid "Network connection detected, all network jobs resumed"
 msgstr ""
 "KMail este stabilit să fie conectat; toate sarcinile de rețea sînt reluate"
 
-#: kmkernel.cpp:1151
+#: kmkernel.cpp:1148
 #, fuzzy
 #| msgid "KMail is set to be offline; all network jobs are suspended"
 msgid "No network connection detected, all network jobs are suspended"
@@ -3519,20 +3519,20 @@ msgstr ""
 "KMail este stabilit să fie deconectat; toate sarcinile de rețea sînt "
 "suspendate"
 
-#: kmkernel.cpp:1246
+#: kmkernel.cpp:1243
 #, kde-format
 msgid ""
 "Failed to open autosave file at %1.\n"
 "Reason: %2"
 msgstr ""
 
-#: kmkernel.cpp:1248
+#: kmkernel.cpp:1245
 #, fuzzy
 #| msgid "Autosaving Failed"
 msgid "Opening Autosave File Failed"
 msgstr "Salvare automată eșuată"
 
-#: kmkernel.cpp:1762
+#: kmkernel.cpp:1759
 #, kde-format
 msgid "This identity has been changed to use the default transport:"
 msgid_plural ""
@@ -3544,7 +3544,7 @@ msgstr[1] ""
 msgstr[2] ""
 "Aceste %1 de identități au fost schimbate să utilizeze transportul implicit:"
 
-#: kmkernel.cpp:1787
+#: kmkernel.cpp:1784
 #, kde-format
 msgid "This identity has been changed to use the modified transport:"
 msgid_plural ""
@@ -3556,20 +3556,20 @@ msgstr[1] ""
 msgstr[2] ""
 "Aceste %1 de identități au fost schimbate să utilizeze transportul implicit:"
 
-#: kmkernel.cpp:1802
+#: kmkernel.cpp:1799
 msgid "Sending messages"
 msgstr "Trimit mesajele"
 
-#: kmkernel.cpp:1803
+#: kmkernel.cpp:1800
 msgid "Initiating sending process..."
 msgstr "Se inițializează procesul de trimitere..."
 
-#: kmkernel.cpp:1872
+#: kmkernel.cpp:1869
 #, kde-format
 msgid "Resource %1 is broken."
 msgstr ""
 
-#: kmkernel.cpp:2027 kmkernel.cpp:2037
+#: kmkernel.cpp:2024 kmkernel.cpp:2034
 #, kde-format
 msgctxt "<source>: <error message>"
 msgid "%1: %2"
@@ -3600,7 +3600,7 @@ msgstr ""
 "Nu pot porni vizualizorul de jurnal GnuPG (kwatchgnupg). Verificați "
 "instalarea programului."
 
-#: kmlaunchexternalcomponent.cpp:100 kmmainwidget.cpp:324
+#: kmlaunchexternalcomponent.cpp:100 kmmainwidget.cpp:323
 #, fuzzy
 #| msgid "Could not start certificate manager. Please check your installation."
 msgid "Could not start the import wizard. Please check your installation."
@@ -3608,7 +3608,7 @@ msgstr ""
 "Nu am putut porni gestionarul de certificate. Verificați instalarea "
 "programului."
 
-#: kmlaunchexternalcomponent.cpp:102 kmmainwidget.cpp:326
+#: kmlaunchexternalcomponent.cpp:102 kmmainwidget.cpp:325
 #, fuzzy
 #| msgid "Unable to start account wizard"
 msgid "Unable to start import wizard"
@@ -3656,48 +3656,48 @@ msgstr ""
 msgid "Unable to start account wizard"
 msgstr "Expertul de conturi nu a putut fi pornit"
 
-#: kmmainwidget.cpp:321
+#: kmmainwidget.cpp:320
 msgid "Another mailer was found on system. Do you want to import data from it?"
 msgstr ""
 
-#: kmmainwidget.cpp:1375
+#: kmmainwidget.cpp:1384
 msgid "No Subject"
 msgstr "Fără subiect"
 
-#: kmmainwidget.cpp:1389
+#: kmmainwidget.cpp:1398
 msgid "(no templates)"
 msgstr "(niciun șablon)"
 
-#: kmmainwidget.cpp:1442
+#: kmmainwidget.cpp:1451
 msgid "This folder does not have any expiry options set"
 msgstr "Acest dosar nu are setate opțiuni de expirare"
 
-#: kmmainwidget.cpp:1451
+#: kmmainwidget.cpp:1460
 #, kde-format
 msgid "<qt>Are you sure you want to expire the folder <b>%1</b>?</qt>"
 msgstr "<qt>Sigur doriți să expir dosarul <b>%1</b>?</qt>"
 
-#: kmmainwidget.cpp:1453
+#: kmmainwidget.cpp:1462
 msgid "Expire Folder"
 msgstr "Expirare dosar"
 
-#: kmmainwidget.cpp:1454
+#: kmmainwidget.cpp:1463
 msgid "&Expire"
 msgstr "&Expiră"
 
-#: kmmainwidget.cpp:1477
+#: kmmainwidget.cpp:1486
 msgid "Empty Trash"
 msgstr "Golire gunoi"
 
-#: kmmainwidget.cpp:1477
+#: kmmainwidget.cpp:1486
 msgid "Move to Trash"
 msgstr "Mută în coșul de gunoi"
 
-#: kmmainwidget.cpp:1479
+#: kmmainwidget.cpp:1488
 msgid "Are you sure you want to empty the trash folder?"
 msgstr "Sigur doriți să golesc coșul de gunoi?"
 
-#: kmmainwidget.cpp:1480
+#: kmmainwidget.cpp:1489
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to move all messages from folder <b>%1</b> to the "
@@ -3706,23 +3706,23 @@ msgstr ""
 "<qt>Sigur doriți să mut toate mesajele dosarului <b>%1</b> în coșul de gunoi?"
 "</qt>"
 
-#: kmmainwidget.cpp:1505
+#: kmmainwidget.cpp:1514
 msgid "Moved all messages to the trash"
 msgstr "Am mutat toate mesajele în coșul de gunoi"
 
-#: kmmainwidget.cpp:1558
+#: kmmainwidget.cpp:1567
 msgid "Are you sure you want to expire all old messages?"
 msgstr "Sigur doriți să expir toate mesajele vechi?"
 
-#: kmmainwidget.cpp:1559
+#: kmmainwidget.cpp:1568
 msgid "Expire Old Messages?"
 msgstr "Expirare mesaje vechi"
 
-#: kmmainwidget.cpp:1559
+#: kmmainwidget.cpp:1568
 msgid "Expire"
 msgstr "Expiră"
 
-#: kmmainwidget.cpp:1574
+#: kmmainwidget.cpp:1583
 msgid ""
 "Loading external references in html mail will make you more vulnerable to "
 "\"spam\" and may increase the likelihood that your system will be "
@@ -3733,15 +3733,15 @@ msgstr ""
 "dumneavoastră să fie compromis de exploatări ale slăbiciunilor de securitate "
 "prezente și anticipate."
 
-#: kmmainwidget.cpp:1577 kmmainwidget.cpp:4488
+#: kmmainwidget.cpp:1586 kmmainwidget.cpp:4499
 msgid "Security Warning"
 msgstr "Avertizare securitate"
 
-#: kmmainwidget.cpp:1578
+#: kmmainwidget.cpp:1587
 msgid "Load External References"
 msgstr "Încarcă referințele externe"
 
-#: kmmainwidget.cpp:1671
+#: kmmainwidget.cpp:1680
 #, kde-format
 msgid ""
 "<qt>Do you really want to delete the selected message?<br />Once deleted, it "
@@ -3759,341 +3759,341 @@ msgstr[2] ""
 "<qt>Sigur doriți să ștergeți cele %1 de mesaje alese?<br />Odată șterse, "
 "acestea nu mai pot fi recuperate.</qt>"
 
-#: kmmainwidget.cpp:1677
+#: kmmainwidget.cpp:1686
 msgid "Delete Messages"
 msgstr "Ștergere mesaje"
 
-#: kmmainwidget.cpp:1677
+#: kmmainwidget.cpp:1686
 msgid "Delete Message"
 msgstr "Șterge mesaj"
 
-#: kmmainwidget.cpp:1697
+#: kmmainwidget.cpp:1706
 msgid "Moving messages..."
 msgstr "Mutare mesaje..."
 
-#: kmmainwidget.cpp:1699
+#: kmmainwidget.cpp:1708
 msgid "Deleting messages..."
 msgstr "Ștergere mesaje..."
 
-#: kmmainwidget.cpp:1713
+#: kmmainwidget.cpp:1722
 msgid "Messages deleted successfully."
 msgstr "Mesaje șterse cu succes."
 
-#: kmmainwidget.cpp:1715
+#: kmmainwidget.cpp:1724
 msgid "Messages moved successfully."
 msgstr "Mesaje mutate cu succes."
 
-#: kmmainwidget.cpp:1720
+#: kmmainwidget.cpp:1729
 msgid "Deleting messages failed."
 msgstr "Ștergerea mesajelor a eșuat."
 
-#: kmmainwidget.cpp:1722
+#: kmmainwidget.cpp:1731
 msgid "Deleting messages canceled."
 msgstr "Ștergerea mesajelor a fost anulată."
 
-#: kmmainwidget.cpp:1726
+#: kmmainwidget.cpp:1735
 msgid "Moving messages failed."
 msgstr "Mutarea mesajelor a eșuat."
 
-#: kmmainwidget.cpp:1728
+#: kmmainwidget.cpp:1737
 msgid "Moving messages canceled."
 msgstr "Mutarea mesajelor a fost anulată."
 
-#: kmmainwidget.cpp:1778
+#: kmmainwidget.cpp:1787
 msgid "Move Messages to Folder"
 msgstr "Mută mesajele în dosar"
 
-#: kmmainwidget.cpp:1808
+#: kmmainwidget.cpp:1817
 msgid "Copying messages..."
 msgstr "Copiere mesaje..."
 
-#: kmmainwidget.cpp:1815
+#: kmmainwidget.cpp:1824
 msgid "Messages copied successfully."
 msgstr "Mesaje copiate cu succes."
 
-#: kmmainwidget.cpp:1818
+#: kmmainwidget.cpp:1827
 msgid "Copying messages failed."
 msgstr "Copierea mesajelor a eșuat."
 
-#: kmmainwidget.cpp:1820
+#: kmmainwidget.cpp:1829
 msgid "Copying messages canceled."
 msgstr "Copierea mesajelor a fost anulată."
 
-#: kmmainwidget.cpp:1829
+#: kmmainwidget.cpp:1838
 msgid "Copy Messages to Folder"
 msgstr "Copiază mesajele în dosar"
 
-#: kmmainwidget.cpp:1868
+#: kmmainwidget.cpp:1877
 msgid "Moving messages to trash..."
 msgstr "Mutare mesaje la gunoi..."
 
-#: kmmainwidget.cpp:1877
+#: kmmainwidget.cpp:1886
 msgid "Messages moved to trash successfully."
 msgstr "Mesaje mutate cu succes la gunoi."
 
-#: kmmainwidget.cpp:1880
+#: kmmainwidget.cpp:1889
 msgid "Moving messages to trash failed."
 msgstr "Mutarea mesajelor la gunoi a eșuat."
 
-#: kmmainwidget.cpp:1882
+#: kmmainwidget.cpp:1891
 msgid "Moving messages to trash canceled."
 msgstr "Mutarea mesajelor la gunoi a fost anulată."
 
-#: kmmainwidget.cpp:2153
+#: kmmainwidget.cpp:2162
 msgid "Jump to Folder"
 msgstr "Sari la dosarul"
 
-#: kmmainwidget.cpp:2824
+#: kmmainwidget.cpp:2833
 msgid "Save &As..."
 msgstr "Salv&are ca..."
 
-#: kmmainwidget.cpp:2838
+#: kmmainwidget.cpp:2847
 msgid "&Expire All Folders"
 msgstr "E&xpiră toate dosarele"
 
-#: kmmainwidget.cpp:2843
+#: kmmainwidget.cpp:2852
 msgid "Check &Mail"
 msgstr "Verifică &poșta"
 
-#: kmmainwidget.cpp:2851
+#: kmmainwidget.cpp:2860
 msgid "Check Mail In"
 msgstr "Verifică poșta în"
 
-#: kmmainwidget.cpp:2853 kmmainwidget.cpp:2854
+#: kmmainwidget.cpp:2862 kmmainwidget.cpp:2863
 msgid "Check Mail"
 msgstr "Verifică poșta"
 
-#: kmmainwidget.cpp:2858
+#: kmmainwidget.cpp:2867
 msgid "&Send Queued Messages"
 msgstr "Trimite mesajele în &așteptare"
 
-#: kmmainwidget.cpp:2867
+#: kmmainwidget.cpp:2876
 msgid "Online status (unknown)"
 msgstr "Starea conectării (necunoscută)"
 
-#: kmmainwidget.cpp:2872
+#: kmmainwidget.cpp:2881
 msgid "Send Queued Messages Via"
 msgstr "Trimite mesajele din coadă via"
 
-#: kmmainwidget.cpp:2888
+#: kmmainwidget.cpp:2897
 msgid "Certificate Manager"
 msgstr "Gestionarul de certificate"
 
-#: kmmainwidget.cpp:2897
+#: kmmainwidget.cpp:2906
 msgid "GnuPG Log Viewer"
 msgstr "Vizualizor jurnal GnuPG"
 
-#: kmmainwidget.cpp:2910
+#: kmmainwidget.cpp:2919
 #, fuzzy
 #| msgid "&Import Messages"
 msgid "&Import Messages..."
 msgstr "&Importă mesaje"
 
-#: kmmainwidget.cpp:2920
+#: kmmainwidget.cpp:2929
 msgid "&Debug Sieve..."
 msgstr "&Depanare Sieve..."
 
-#: kmmainwidget.cpp:2927
+#: kmmainwidget.cpp:2936
 msgid "Filter &Log Viewer..."
 msgstr "&Vizualizor jurnal filtre..."
 
-#: kmmainwidget.cpp:2932
+#: kmmainwidget.cpp:2941
 msgid "&Anti-Spam Wizard..."
 msgstr "Expert &anti-spam..."
 
-#: kmmainwidget.cpp:2937
+#: kmmainwidget.cpp:2946
 msgid "&Anti-Virus Wizard..."
 msgstr "Expert &antivirus..."
 
-#: kmmainwidget.cpp:2942
+#: kmmainwidget.cpp:2951
 msgid "&Account Wizard..."
 msgstr "&Expert conturi..."
 
-#: kmmainwidget.cpp:2947
+#: kmmainwidget.cpp:2956
 #, fuzzy
 #| msgid "&Account Wizard..."
 msgid "&Import Wizard..."
 msgstr "&Expert conturi..."
 
-#: kmmainwidget.cpp:2952
+#: kmmainwidget.cpp:2961
 msgid "Edit \"Out of Office\" Replies..."
 msgstr "Editare răspunsuri „Ieșit din birou”..."
 
-#: kmmainwidget.cpp:2958
+#: kmmainwidget.cpp:2967
 #, fuzzy
 #| msgid "Configure &Notifications..."
 msgid "&Configure Automatic Archiving..."
 msgstr "Configurare &notificări..."
 
-#: kmmainwidget.cpp:2964
+#: kmmainwidget.cpp:2973
 #, fuzzy
 #| msgid "Deleting messages..."
 msgid "Delayed Messages..."
 msgstr "Ștergere mesaje..."
 
-#: kmmainwidget.cpp:2970
+#: kmmainwidget.cpp:2979
 #, fuzzy
 #| msgid "&Find Messages..."
 msgid "Followup Reminder Messages..."
 msgstr "&Caută mesaje..."
 
-#: kmmainwidget.cpp:2985 kmmainwidget.cpp:3995 kmmainwidget.cpp:3998
+#: kmmainwidget.cpp:2994 kmmainwidget.cpp:4004 kmmainwidget.cpp:4007
 msgctxt "@action Hard delete, bypassing trash"
 msgid "&Delete"
 msgstr "Ș&terge"
 
-#: kmmainwidget.cpp:2990 kmmainwidget.cpp:4001
+#: kmmainwidget.cpp:2999 kmmainwidget.cpp:4010
 msgid "M&ove Thread to Trash"
 msgstr "M&ută firul la gunoi"
 
-#: kmmainwidget.cpp:2994
+#: kmmainwidget.cpp:3003
 msgid "Move thread to trashcan"
 msgstr "Mută firul în coșul de gunoi"
 
-#: kmmainwidget.cpp:2997 kmmainwidget.cpp:4001
+#: kmmainwidget.cpp:3006 kmmainwidget.cpp:4010
 msgid "Delete T&hread"
 msgstr "Șterge f&irul"
 
-#: kmmainwidget.cpp:3002 kmmainwidget.cpp:4003
+#: kmmainwidget.cpp:3011 kmmainwidget.cpp:4012
 msgid "&Find Messages..."
 msgstr "&Caută mesaje..."
 
-#: kmmainwidget.cpp:3008
+#: kmmainwidget.cpp:3017
 msgid "Select &All Messages"
 msgstr "Selectează &toate mesajele"
 
-#: kmmainwidget.cpp:3016
+#: kmmainwidget.cpp:3025
 msgid "&Mailing List Management..."
 msgstr "Administrare &listă de discuții..."
 
-#: kmmainwidget.cpp:3021
+#: kmmainwidget.cpp:3030
 msgid "&Assign Shortcut..."
 msgstr "&Asociază scurtătură..."
 
-#: kmmainwidget.cpp:3037
+#: kmmainwidget.cpp:3046
 msgid "&Expiration Settings"
 msgstr "Configurări &expirare"
 
-#: kmmainwidget.cpp:3053
+#: kmmainwidget.cpp:3062
 msgid "&Archive Folder..."
 msgstr "&Arhivare dosar..."
 
-#: kmmainwidget.cpp:3061
+#: kmmainwidget.cpp:3070
 msgid "Load E&xternal References"
 msgstr "Încarcă &referințele externe"
 
-#: kmmainwidget.cpp:3084 kmreadermainwin.cpp:362
+#: kmmainwidget.cpp:3093 kmreadermainwin.cpp:362
 msgid "Copy Message To..."
 msgstr "Copiere mesaj către..."
 
-#: kmmainwidget.cpp:3086 kmreadermainwin.cpp:375
+#: kmmainwidget.cpp:3095 kmreadermainwin.cpp:375
 msgid "Move Message To..."
 msgstr "Mutare mesaj către..."
 
-#: kmmainwidget.cpp:3091
+#: kmmainwidget.cpp:3100
 msgid "&New Message..."
 msgstr "Mesaj &nou..."
 
-#: kmmainwidget.cpp:3093
+#: kmmainwidget.cpp:3102
 msgctxt "@action:intoolbar New Empty Message"
 msgid "New"
 msgstr "Nou"
 
-#: kmmainwidget.cpp:3101
+#: kmmainwidget.cpp:3110
 msgid "Message From &Template"
 msgstr "Mesaj &din șablon"
 
-#: kmmainwidget.cpp:3111
+#: kmmainwidget.cpp:3120
 msgid "New Message t&o Mailing-List..."
 msgstr "Mesaj nou către lista de &discuții..."
 
-#: kmmainwidget.cpp:3118
+#: kmmainwidget.cpp:3127
 msgid "Send A&gain..."
 msgstr "T&rimite din nou..."
 
-#: kmmainwidget.cpp:3123
+#: kmmainwidget.cpp:3132
 msgid "&Create Filter"
 msgstr "&Creează filtru"
 
-#: kmmainwidget.cpp:3128
+#: kmmainwidget.cpp:3137
 msgid "Filter on &Subject..."
 msgstr "Filtrează după cîmpul &Subiect..."
 
-#: kmmainwidget.cpp:3135
+#: kmmainwidget.cpp:3144
 msgid "Filter on &From..."
 msgstr "Filtrează după cîmpul &De la..."
 
-#: kmmainwidget.cpp:3141
+#: kmmainwidget.cpp:3150
 msgid "Filter on &To..."
 msgstr "Filtrează după cîmpul &Către..."
 
-#: kmmainwidget.cpp:3147
+#: kmmainwidget.cpp:3156
 #, fuzzy
 #| msgid "Filter on &To..."
 msgid "Filter on &Cc..."
 msgstr "Filtrează după cîmpul &Către..."
 
-#: kmmainwidget.cpp:3154
+#: kmmainwidget.cpp:3163
 msgid "New Message From &Template"
 msgstr "Mesaj nou &din șablon"
 
-#: kmmainwidget.cpp:3160
+#: kmmainwidget.cpp:3169
 msgid "Mark &Thread"
 msgstr "Marchează &firul"
 
-#: kmmainwidget.cpp:3163
+#: kmmainwidget.cpp:3172
 msgid "Mark Thread as &Read"
 msgstr "Marchează firul ca &citit"
 
-#: kmmainwidget.cpp:3166
+#: kmmainwidget.cpp:3175
 msgid "Mark all messages in the selected thread as read"
 msgstr "Marchează toate mesajele în firul selectat ca citite"
 
-#: kmmainwidget.cpp:3169
+#: kmmainwidget.cpp:3178
 msgid "Mark Thread as &Unread"
 msgstr "Marchează firul ca n&ecitit"
 
-#: kmmainwidget.cpp:3172
+#: kmmainwidget.cpp:3181
 msgid "Mark all messages in the selected thread as unread"
 msgstr "Marchează toate mesajele în firul selectat ca necitite"
 
-#: kmmainwidget.cpp:3178
+#: kmmainwidget.cpp:3187
 msgid "Mark Thread as &Important"
 msgstr "Marchează firul ca &important"
 
-#: kmmainwidget.cpp:3181
+#: kmmainwidget.cpp:3190
 msgid "Remove &Important Thread Mark"
 msgstr "Șterge marcarea &important pentru fir"
 
-#: kmmainwidget.cpp:3184
+#: kmmainwidget.cpp:3193
 #, fuzzy
 #| msgid "Mark Thread as &New"
 msgid "Mark Thread as &Action Item"
 msgstr "Marchează firul ca &nou"
 
-#: kmmainwidget.cpp:3187
+#: kmmainwidget.cpp:3196
 #, fuzzy
 #| msgid "Remove &Important Message Mark"
 msgid "Remove &Action Item Thread Mark"
 msgstr "Șterge marcarea de mesaj &important"
 
-#: kmmainwidget.cpp:3191
+#: kmmainwidget.cpp:3200
 msgid "&Watch Thread"
 msgstr "&Urmărește firul"
 
-#: kmmainwidget.cpp:3195
+#: kmmainwidget.cpp:3204
 msgid "&Ignore Thread"
 msgstr "&Ignoră firul"
 
-#: kmmainwidget.cpp:3203 kmreadermainwin.cpp:322
+#: kmmainwidget.cpp:3212 kmreadermainwin.cpp:322
 msgid "Save A&ttachments..."
 msgstr "Salvează a&tașamentele..."
 
-#: kmmainwidget.cpp:3212
+#: kmmainwidget.cpp:3221
 msgid "Appl&y All Filters"
 msgstr "Aplică t&oate filtrele"
 
-#: kmmainwidget.cpp:3222
+#: kmmainwidget.cpp:3231
 #, fuzzy
 #| msgctxt "View->"
 #| msgid "&Expand Thread"
@@ -4101,13 +4101,13 @@ msgctxt "View->"
 msgid "&Expand Thread / Group"
 msgstr "D&esfășoară firul"
 
-#: kmmainwidget.cpp:3225
+#: kmmainwidget.cpp:3234
 #, fuzzy
 #| msgid "Expand the current thread"
 msgid "Expand the current thread or group"
 msgstr "Desfășoară firul curent"
 
-#: kmmainwidget.cpp:3229
+#: kmmainwidget.cpp:3238
 #, fuzzy
 #| msgctxt "View->"
 #| msgid "&Collapse Thread"
@@ -4115,102 +4115,102 @@ msgctxt "View->"
 msgid "&Collapse Thread / Group"
 msgstr "&Restrînge firul"
 
-#: kmmainwidget.cpp:3232
+#: kmmainwidget.cpp:3241
 #, fuzzy
 #| msgid "Collapse the current thread"
 msgid "Collapse the current thread or group"
 msgstr "Restrînge firul curent"
 
-#: kmmainwidget.cpp:3236
+#: kmmainwidget.cpp:3245
 msgctxt "View->"
 msgid "Ex&pand All Threads"
 msgstr "Des&fășoară toate firele"
 
-#: kmmainwidget.cpp:3239
+#: kmmainwidget.cpp:3248
 msgid "Expand all threads in the current folder"
 msgstr "Desfășoară toate firele din dosarul curent"
 
-#: kmmainwidget.cpp:3243
+#: kmmainwidget.cpp:3252
 msgctxt "View->"
 msgid "C&ollapse All Threads"
 msgstr "Res&trînge toate firele"
 
-#: kmmainwidget.cpp:3246
+#: kmmainwidget.cpp:3255
 msgid "Collapse all threads in the current folder"
 msgstr "Restrînge toate firele din dosarul curent"
 
-#: kmmainwidget.cpp:3250
+#: kmmainwidget.cpp:3259
 msgid "&Display Message"
 msgstr "Afișează &mesajul"
 
-#: kmmainwidget.cpp:3259
+#: kmmainwidget.cpp:3268
 msgid "&Next Message"
 msgstr "Mesajul &următor"
 
-#: kmmainwidget.cpp:3262
+#: kmmainwidget.cpp:3271
 msgid "Go to the next message"
 msgstr "Salt la următorul mesaj"
 
-#: kmmainwidget.cpp:3266
+#: kmmainwidget.cpp:3275
 msgid "Next &Unread Message"
 msgstr "Mesajul următor &necitit"
 
-#: kmmainwidget.cpp:3274
+#: kmmainwidget.cpp:3283
 msgctxt "@action:inmenu Goto next unread message"
 msgid "Next"
 msgstr "Următor"
 
-#: kmmainwidget.cpp:3275
+#: kmmainwidget.cpp:3284
 msgid "Go to the next unread message"
 msgstr "Salt la următorul mesaj necitit"
 
-#: kmmainwidget.cpp:3279
+#: kmmainwidget.cpp:3288
 msgid "&Previous Message"
 msgstr "Mesajul &precedent"
 
-#: kmmainwidget.cpp:3281
+#: kmmainwidget.cpp:3290
 msgid "Go to the previous message"
 msgstr "Salt la mesajul precedent"
 
-#: kmmainwidget.cpp:3286
+#: kmmainwidget.cpp:3295
 msgid "Previous Unread &Message"
 msgstr "Mesajul precedent n&ecitit"
 
-#: kmmainwidget.cpp:3294
+#: kmmainwidget.cpp:3303
 msgctxt "@action:inmenu Goto previous unread message."
 msgid "Previous"
 msgstr "Precedent"
 
-#: kmmainwidget.cpp:3295
+#: kmmainwidget.cpp:3304
 msgid "Go to the previous unread message"
 msgstr "Salt la mesajul precedent necitit"
 
-#: kmmainwidget.cpp:3299
+#: kmmainwidget.cpp:3308
 msgid "Next Unread &Folder"
 msgstr "&Dosarul următor necitit"
 
-#: kmmainwidget.cpp:3303
+#: kmmainwidget.cpp:3312
 msgid "Go to the next folder with unread messages"
 msgstr "Salt la următorul dosar cu mesaje necitite"
 
-#: kmmainwidget.cpp:3306
+#: kmmainwidget.cpp:3315
 msgid "Previous Unread F&older"
 msgstr "D&osarul precedent necitit"
 
-#: kmmainwidget.cpp:3309
+#: kmmainwidget.cpp:3318
 msgid "Go to the previous folder with unread messages"
 msgstr "Salt la dosarul precedent cu mesaje necitite"
 
-#: kmmainwidget.cpp:3313
+#: kmmainwidget.cpp:3322
 msgctxt "Go->"
 msgid "Next Unread &Text"
 msgstr "Următorul text &necitit"
 
-#: kmmainwidget.cpp:3316
+#: kmmainwidget.cpp:3325
 msgid "Go to the next unread text"
 msgstr "Salt la următorul text necitit"
 
-#: kmmainwidget.cpp:3317
+#: kmmainwidget.cpp:3326
 msgid ""
 "Scroll down current message. If at end of current message, go to next unread "
 "message."
@@ -4218,182 +4218,182 @@ msgstr ""
 "Derulează în jos mesajul curent. Dacă a ajuns la sfîrșitul mesajului, trece "
 "la următorul mesaj necitit."
 
-#: kmmainwidget.cpp:3325
+#: kmmainwidget.cpp:3334
 msgid "Configure &Filters..."
 msgstr "Configurează &filtrele..."
 
-#: kmmainwidget.cpp:3331
+#: kmmainwidget.cpp:3340
 msgid "Manage &Sieve Scripts..."
 msgstr "Gestiune scripturi &Sieve..."
 
-#: kmmainwidget.cpp:3336
+#: kmmainwidget.cpp:3345
 msgid "KMail &Introduction"
 msgstr "&Introducere în KMail"
 
-#: kmmainwidget.cpp:3338
+#: kmmainwidget.cpp:3347
 msgid "Display KMail's Welcome Page"
 msgstr "Afișează pagina de introducere KMail"
 
-#: kmmainwidget.cpp:3348
+#: kmmainwidget.cpp:3357
 msgid "Configure &Notifications..."
 msgstr "Configurare &notificări..."
 
-#: kmmainwidget.cpp:3355
+#: kmmainwidget.cpp:3364
 msgid "&Configure KMail..."
 msgstr "&Configurare KMail..."
 
-#: kmmainwidget.cpp:3362
+#: kmmainwidget.cpp:3371
 msgid "Expire..."
 msgstr "Expiră..."
 
-#: kmmainwidget.cpp:3368
+#: kmmainwidget.cpp:3377
 msgid "Add Favorite Folder..."
 msgstr "Adaugă dosar favorit..."
 
-#: kmmainwidget.cpp:3374
+#: kmmainwidget.cpp:3383
 msgid "Serverside Subscription..."
 msgstr "Abonare rezidentă pe server..."
 
-#: kmmainwidget.cpp:3380
+#: kmmainwidget.cpp:3389
 #, fuzzy
 #| msgid "Appl&y All Filters"
 msgid "Appl&y All Filters On Folder"
 msgstr "Aplică t&oate filtrele"
 
-#: kmmainwidget.cpp:3388
+#: kmmainwidget.cpp:3397
 #, fuzzy
 #| msgid "&Configure KMail..."
 msgid "&Export KMail Data..."
 msgstr "&Configurare KMail..."
 
-#: kmmainwidget.cpp:3416
+#: kmmainwidget.cpp:3425
 msgid "Copy Message to Folder"
 msgstr "Copiază mesajul în dosar"
 
-#: kmmainwidget.cpp:3423
+#: kmmainwidget.cpp:3432
 msgid "Jump to Folder..."
 msgstr "Salt la dosarul..."
 
-#: kmmainwidget.cpp:3430
+#: kmmainwidget.cpp:3439
 msgid "Abort Current Operation"
 msgstr "Abandonează operația curentă"
 
-#: kmmainwidget.cpp:3437
+#: kmmainwidget.cpp:3446
 msgid "Focus on Next Folder"
 msgstr "Focalizează pe următorul dosar"
 
-#: kmmainwidget.cpp:3444
+#: kmmainwidget.cpp:3453
 msgid "Focus on Previous Folder"
 msgstr "Focalizează pe dosarul precedent"
 
-#: kmmainwidget.cpp:3451
+#: kmmainwidget.cpp:3460
 msgid "Select Folder with Focus"
 msgstr "Selectează dosarul cu focalizare"
 
-#: kmmainwidget.cpp:3459
+#: kmmainwidget.cpp:3468
 #, fuzzy
 #| msgid "Focus on Next Folder"
 msgid "Focus on First Folder"
 msgstr "Focalizează pe următorul dosar"
 
-#: kmmainwidget.cpp:3466
+#: kmmainwidget.cpp:3475
 #, fuzzy
 #| msgid "Focus on Next Folder"
 msgid "Focus on Last Folder"
 msgstr "Focalizează pe următorul dosar"
 
-#: kmmainwidget.cpp:3473
+#: kmmainwidget.cpp:3482
 msgid "Focus on Next Message"
 msgstr "Focalizează pe următorul mesaj"
 
-#: kmmainwidget.cpp:3480
+#: kmmainwidget.cpp:3489
 msgid "Focus on Previous Message"
 msgstr "Focalizează pe mesajul precedent"
 
-#: kmmainwidget.cpp:3487
+#: kmmainwidget.cpp:3496
 #, fuzzy
 #| msgid "Select &All Messages"
 msgid "Select First Message"
 msgstr "Selectează &toate mesajele"
 
-#: kmmainwidget.cpp:3494
+#: kmmainwidget.cpp:3503
 #, fuzzy
 #| msgid "Select &All Messages"
 msgid "Select Last Message"
 msgstr "Selectează &toate mesajele"
 
-#: kmmainwidget.cpp:3501
+#: kmmainwidget.cpp:3510
 msgid "Select Message with Focus"
 msgstr "Selectează mesajul cu focalizare"
 
-#: kmmainwidget.cpp:3509
+#: kmmainwidget.cpp:3518
 msgid "Set Focus to Quick Search"
 msgstr "Stabilește focalizarea la căutarea rapidă"
 
-#: kmmainwidget.cpp:3518
+#: kmmainwidget.cpp:3527
 msgid "Extend Selection to Previous Message"
 msgstr "Extinde selecția la mesajul precedent"
 
-#: kmmainwidget.cpp:3525
+#: kmmainwidget.cpp:3534
 msgid "Extend Selection to Next Message"
 msgstr "Extinde selecția la următorul mesaj"
 
-#: kmmainwidget.cpp:3533
+#: kmmainwidget.cpp:3542
 msgid "Move Message to Folder"
 msgstr "Mută mesajul în dosar"
 
-#: kmmainwidget.cpp:3544
+#: kmmainwidget.cpp:3553
 msgid "Low Bandwidth"
 msgstr ""
 
-#: kmmainwidget.cpp:3556
+#: kmmainwidget.cpp:3565
 msgid "Add Favorite Folder"
 msgstr "Adaugă dosar favorit"
 
-#: kmmainwidget.cpp:3885
+#: kmmainwidget.cpp:3894
 msgid "E&mpty Trash"
 msgstr "&Golește gunoiul"
 
-#: kmmainwidget.cpp:3885
+#: kmmainwidget.cpp:3894
 msgid "&Move All Messages to Trash"
 msgstr "&Mută toate mesajele la gunoi"
 
-#: kmmainwidget.cpp:3988
+#: kmmainwidget.cpp:3997
 msgid "&Delete Search"
 msgstr "Ș&terge căutarea"
 
-#: kmmainwidget.cpp:3995 kmmainwidget.cpp:3998 kmreadermainwin.cpp:325
+#: kmmainwidget.cpp:4004 kmmainwidget.cpp:4007 kmreadermainwin.cpp:325
 msgid "&Move to Trash"
 msgstr "&Mută la gunoi"
 
-#: kmmainwidget.cpp:4003
+#: kmmainwidget.cpp:4012
 #, fuzzy
 #| msgid "Edit Script..."
 msgid "Edit Search..."
 msgstr "Editare script..."
 
-#: kmmainwidget.cpp:4100
+#: kmmainwidget.cpp:4109
 msgid "&Undo"
 msgstr ""
 
-#: kmmainwidget.cpp:4102
+#: kmmainwidget.cpp:4111
 #, kde-format
 msgid "&Undo: \"%1\""
 msgstr ""
 
-#: kmmainwidget.cpp:4148
+#: kmmainwidget.cpp:4157
 #, kde-format
 msgid "Filter %1"
 msgstr "Filtrul %1"
 
-#: kmmainwidget.cpp:4477
+#: kmmainwidget.cpp:4488
 #, fuzzy, kde-format
 #| msgid "Starting..."
 msgctxt "Show shortcut for focus quick search. Don't change it"
 msgid "Search...<%1>"
 msgstr "Pornire..."
 
-#: kmmainwidget.cpp:4485
+#: kmmainwidget.cpp:4496
 msgid ""
 "Use of HTML in mail will make you more vulnerable to \"spam\" and may "
 "increase the likelihood that your system will be compromised by other "
@@ -4403,7 +4403,7 @@ msgstr ""
 "poate crește posibilitatea ca sistemul dumneavoastră să fie compromis de "
 "exploatări ale slăbiciunilor de securitate prezente și anticipate."
 
-#: kmmainwidget.cpp:4489
+#: kmmainwidget.cpp:4500
 msgid "Use HTML"
 msgstr "Folosește HTML"
 
@@ -4851,7 +4851,7 @@ msgctxt "Message->"
 msgid "&Reply"
 msgstr "&Răspunde"
 
-#: messageactions.cpp:82 searchdialog/searchwindow.cpp:232
+#: messageactions.cpp:82 searchdialog/searchwindow.cpp:231
 msgid "&Reply..."
 msgstr "&Răspunde..."
 
@@ -4859,11 +4859,11 @@ msgstr "&Răspunde..."
 msgid "Reply to A&uthor..."
 msgstr "Răspunde &autorului..."
 
-#: messageactions.cpp:94 searchdialog/searchwindow.cpp:236
+#: messageactions.cpp:94 searchdialog/searchwindow.cpp:235
 msgid "Reply to &All..."
 msgstr "Răspunde &tuturor..."
 
-#: messageactions.cpp:100 searchdialog/searchwindow.cpp:240
+#: messageactions.cpp:100 searchdialog/searchwindow.cpp:239
 msgid "Reply to Mailing-&List..."
 msgstr "Răspunde pe lista de &discuții..."
 
@@ -4887,7 +4887,7 @@ msgstr "&Editează mesajul"
 msgid "Add Note..."
 msgstr "Adăugare notă..."
 
-#: messageactions.cpp:148 searchdialog/searchwindow.cpp:244
+#: messageactions.cpp:148 searchdialog/searchwindow.cpp:243
 msgctxt "Message->"
 msgid "&Forward"
 msgstr "Î&naintează"
@@ -5032,44 +5032,44 @@ msgstr "Dosar"
 msgid "Search failed. Errors found: <ul><li>%1</li></ul>"
 msgstr ""
 
-#: searchdialog/searchwindow.cpp:84
+#: searchdialog/searchwindow.cpp:83
 msgid "Find Messages"
 msgstr "Caută mesaje"
 
-#: searchdialog/searchwindow.cpp:107
+#: searchdialog/searchwindow.cpp:106
 msgctxt "@action:button Search for messages"
 msgid "&Search"
 msgstr "&Caută"
 
-#: searchdialog/searchwindow.cpp:196 searchdialog/searchwindow.cpp:419
+#: searchdialog/searchwindow.cpp:195 searchdialog/searchwindow.cpp:418
 msgid "Last Search"
 msgstr "Ultima căutare"
 
-#: searchdialog/searchwindow.cpp:249
+#: searchdialog/searchwindow.cpp:248
 msgctxt "@action:inmenu Forward message inline."
 msgid "&Inline..."
 msgstr "În &linie..."
 
-#: searchdialog/searchwindow.cpp:254
+#: searchdialog/searchwindow.cpp:253
 msgctxt "Message->Forward->"
 msgid "As &Attachment..."
 msgstr "Ca &atașament..."
 
-#: searchdialog/searchwindow.cpp:268
+#: searchdialog/searchwindow.cpp:267
 msgid "Save Attachments..."
 msgstr "Salvează atașamentele..."
 
-#: searchdialog/searchwindow.cpp:274
+#: searchdialog/searchwindow.cpp:273
 msgid "Clear Selection"
 msgstr "Elimină selecția"
 
-#: searchdialog/searchwindow.cpp:278
+#: searchdialog/searchwindow.cpp:277
 #, fuzzy
 #| msgid "Jump to Folder"
 msgid "Jump to original folder"
 msgstr "Sari la dosarul"
 
-#: searchdialog/searchwindow.cpp:362
+#: searchdialog/searchwindow.cpp:361
 #, kde-format
 msgid "%1 match"
 msgid_plural "%1 matches"
@@ -5077,59 +5077,59 @@ msgstr[0] "%1 potrivire"
 msgstr[1] "%1 potriviri"
 msgstr[2] "%1 de potriviri"
 
-#: searchdialog/searchwindow.cpp:445
+#: searchdialog/searchwindow.cpp:444
 #, fuzzy
 #| msgid "Could not sync maildir folder."
 msgid "You did not selected a valid folder."
 msgstr "Nu am putut sincroniza dosarul maildir."
 
-#: searchdialog/searchwindow.cpp:455 searchdialog/searchwindow.cpp:465
+#: searchdialog/searchwindow.cpp:454 searchdialog/searchwindow.cpp:464
 msgid "You forgot to select collections."
 msgstr ""
 
-#: searchdialog/searchwindow.cpp:482
+#: searchdialog/searchwindow.cpp:481
 msgid "You forgot to define condition."
 msgstr ""
 
-#: searchdialog/searchwindow.cpp:487
+#: searchdialog/searchwindow.cpp:486
 msgid "All folders selected are empty or were not indexed."
 msgstr ""
 
-#: searchdialog/searchwindow.cpp:493
+#: searchdialog/searchwindow.cpp:492
 msgid "You forgot to add conditions."
 msgstr ""
 
-#: searchdialog/searchwindow.cpp:497
+#: searchdialog/searchwindow.cpp:496
 msgid ""
 "Contains condition cannot be used with a number of characters inferior to 4."
 msgstr ""
 
-#: searchdialog/searchwindow.cpp:528
+#: searchdialog/searchwindow.cpp:527
 #, fuzzy
 #| msgid "Starting..."
 msgid "Searching..."
 msgstr "Pornire..."
 
-#: searchdialog/searchwindow.cpp:538
+#: searchdialog/searchwindow.cpp:537
 #, fuzzy, kde-format
 #| msgid "Copy or Move Messages to %1"
 msgid "Cannot get search result. %1"
 msgstr "Copiază sau mută mesajele la %1"
 
-#: searchdialog/searchwindow.cpp:544
+#: searchdialog/searchwindow.cpp:543
 #, fuzzy
 #| msgid "Search canceled"
 msgid "Search failed."
 msgstr "Căutare anulată"
 
-#: searchdialog/searchwindow.cpp:583
+#: searchdialog/searchwindow.cpp:582
 #, fuzzy
 #| msgctxt "@info:status Number of emails retrieved."
 #| msgid " completed"
 msgid "Search complete."
 msgstr " încheiat"
 
-#: searchdialog/searchwindow.cpp:604
+#: searchdialog/searchwindow.cpp:603
 #, fuzzy
 #| msgctxt ""
 #| "@info/plain Displayed grayed-out inside the textbox, verb to search"
@@ -5137,7 +5137,7 @@ msgstr " încheiat"
 msgid "Search stopped."
 msgstr "Caută"
 
-#: searchdialog/searchwindow.cpp:661
+#: searchdialog/searchwindow.cpp:660
 #, kde-format
 msgid ""
 "There was a problem renaming your search folder. A common reason for this is "
@@ -5145,7 +5145,7 @@ msgid ""
 "\"%1\"."
 msgstr ""
 
-#: searchdialog/searchwindow.cpp:763
+#: searchdialog/searchwindow.cpp:762
 #, kde-format
 msgid "Copy Message"
 msgid_plural "Copy %1 Messages"
@@ -5153,7 +5153,7 @@ msgstr[0] "Copiază mesaj"
 msgstr[1] "Copiază %1 mesaje"
 msgstr[2] "Copiază %1 de mesaje"
 
-#: searchdialog/searchwindow.cpp:766
+#: searchdialog/searchwindow.cpp:765
 #, kde-format
 msgid "Cut Message"
 msgid_plural "Cut %1 Messages"
@@ -5207,34 +5207,25 @@ msgstr "Politica de afișare a pictogramei în tava de sistem"
 msgid "Show unread mail in system tray"
 msgstr "Arată poșta necitită în tava de sistem"
 
-#. i18n: ectx: label, entry (CloseDespiteSystemTray), group (General)
-#: settings/kmail.kcfg.cmake:100
-msgid ""
-"Close the application when the main window is closed, even if there is a "
-"system tray icon active."
-msgstr ""
-"Închide aplicația cînd este închisă fereastra principală, chiar dacă este o "
-"pictogramă activă în tava de sistem."
-
 #. i18n: ectx: label, entry (ExternalEditor), group (General)
-#: settings/kmail.kcfg.cmake:104
+#: settings/kmail.kcfg.cmake:100
 msgid "Specify e&ditor:"
 msgstr "Specificați e&ditorul:"
 
 #. i18n: ectx: label, entry (UseExternalEditor), group (General)
-#: settings/kmail.kcfg.cmake:108
+#: settings/kmail.kcfg.cmake:104
 msgid "Use e&xternal editor instead of composer"
 msgstr "&Utilizează un editor extern"
 
 #. i18n: ectx: label, entry (CustomMessageHeadersCount), group (General)
-#: settings/kmail.kcfg.cmake:112
+#: settings/kmail.kcfg.cmake:108
 msgid ""
 "Specifies the number of custom MIME header fields to be inserted in messages "
 "(for internal use only)"
 msgstr ""
 
 #. i18n: ectx: label, entry (CloseToQuotaThreshold), group (General)
-#: settings/kmail.kcfg.cmake:115
+#: settings/kmail.kcfg.cmake:111
 msgid ""
 "The threshold for when to warn the user that a folder is nearing its quota "
 "limit."
@@ -5243,48 +5234,48 @@ msgstr ""
 "cotei."
 
 #. i18n: ectx: label, entry (EmptyTrashOnExit), group (General)
-#: settings/kmail.kcfg.cmake:119
+#: settings/kmail.kcfg.cmake:115
 msgid "Empty the local trash folder on program exit"
 msgstr "Golește gunoiul local la ieșirea din program"
 
 #. i18n: ectx: label, entry (StartSpecificFolderAtStartup), group (General)
-#: settings/kmail.kcfg.cmake:123
+#: settings/kmail.kcfg.cmake:119
 msgid "Allow to start specific folder"
 msgstr ""
 
 #. i18n: ectx: label, entry (StartupFolder), group (General)
-#: settings/kmail.kcfg.cmake:127
+#: settings/kmail.kcfg.cmake:123
 msgid "Specify the folder to open when the program is started"
 msgstr "Specifică dosarul de deschis la pornirea programului"
 
 #. i18n: ectx: label, entry (ConfirmBeforeEmpty), group (General)
-#: settings/kmail.kcfg.cmake:131
+#: settings/kmail.kcfg.cmake:127
 msgid "Ask for confirmation before moving all messages to trash"
 msgstr "Cerere confirmare înainte de a muta toate mesajele la gunoi"
 
 #. i18n: ectx: label, entry (AutoExpiring), group (General)
-#: settings/kmail.kcfg.cmake:135
+#: settings/kmail.kcfg.cmake:131
 msgid ""
 "Specifies whether the folders will expire in the background (for internal "
 "use only)"
 msgstr "Specifică dacă dosarele vor expira în fundal (doar pentru uz intern)"
 
 #. i18n: ectx: label, entry (FirstStart), group (General)
-#: settings/kmail.kcfg.cmake:139
+#: settings/kmail.kcfg.cmake:135
 msgid ""
 "Specifies whether this is the very first time that the application is run "
 "(for internal use only)"
 msgstr ""
 
 #. i18n: ectx: label, entry (PreviousVersion), group (General)
-#: settings/kmail.kcfg.cmake:143
+#: settings/kmail.kcfg.cmake:139
 msgid ""
 "Specifies the version of the application that was last used (for internal "
 "use only)"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (PreviousNewFeaturesMD5), group (Internal)
-#: settings/kmail.kcfg.cmake:158
+#: settings/kmail.kcfg.cmake:154
 msgid ""
 "This value is used to decide whether the KMail Introduction should be "
 "displayed."
@@ -5293,24 +5284,19 @@ msgstr ""
 "trebuie afișată."
 
 #. i18n: ectx: label, entry (EnableFolderQuickSearch), group (UserInterface)
-#: settings/kmail.kcfg.cmake:166
+#: settings/kmail.kcfg.cmake:162
 #, fuzzy
 #| msgid "Show folder quick search field"
 msgid "Show folder quick search line edit"
 msgstr "Arată cîmpul de căutarea rapidă al dosarului"
 
-#. i18n: ectx: label, entry (HideLocalInbox), group (UserInterface)
-#: settings/kmail.kcfg.cmake:170
-msgid "Hide local inbox if unused"
-msgstr ""
-
 #. i18n: ectx: label, entry (ForwardingInlineByDefault), group (Composer)
-#: settings/kmail.kcfg.cmake:178
+#: settings/kmail.kcfg.cmake:170
 msgid "Forward Inline As Default."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (StickyIdentity), group (Composer)
-#: settings/kmail.kcfg.cmake:182
+#: settings/kmail.kcfg.cmake:174
 msgid ""
 "Remember this identity, so that it will be used in future composer windows "
 "as well.\n"
@@ -5321,7 +5307,7 @@ msgstr ""
 "        "
 
 #. i18n: ectx: whatsthis, entry (StickyFcc), group (Composer)
-#: settings/kmail.kcfg.cmake:186
+#: settings/kmail.kcfg.cmake:178
 msgid ""
 "Remember this folder for sent items, so that it will be used in future "
 "composer windows as well."
@@ -5330,7 +5316,7 @@ msgstr ""
 "în ferestrele de compunere viitoare."
 
 #. i18n: ectx: whatsthis, entry (StickyTransport), group (Composer)
-#: settings/kmail.kcfg.cmake:190
+#: settings/kmail.kcfg.cmake:182
 msgid ""
 "Remember this mail transport, so that it will be used in future composer "
 "windows as well."
@@ -5339,7 +5325,7 @@ msgstr ""
 "ferestrele de compunere viitoare."
 
 #. i18n: ectx: whatsthis, entry (StickyDictionary), group (Composer)
-#: settings/kmail.kcfg.cmake:195
+#: settings/kmail.kcfg.cmake:187
 #, fuzzy
 #| msgid ""
 #| "Remember this identity, so that it will be used in future composer "
@@ -5355,7 +5341,7 @@ msgstr ""
 "        "
 
 #. i18n: ectx: label, entry (TooManyRecipients), group (Composer)
-#: settings/kmail.kcfg.cmake:199
+#: settings/kmail.kcfg.cmake:191
 #, fuzzy
 #| msgid "Warn if the number of recipients is larger than"
 msgid "Warn if the number of recipients is more than:"
@@ -5363,7 +5349,7 @@ msgstr "Atenționează dacă numărul destinatarilor depășește"
 
 #. i18n: ectx: whatsthis, entry (TooManyRecipients), group (Composer)
 #. i18n: ectx: whatsthis, entry (RecipientThreshold), group (Composer)
-#: settings/kmail.kcfg.cmake:201 settings/kmail.kcfg.cmake:208
+#: settings/kmail.kcfg.cmake:193 settings/kmail.kcfg.cmake:200
 msgid ""
 "If the number of recipients is larger than this value, KMail will warn and "
 "ask for a confirmation before sending the mail. The warning can be turned "
@@ -5371,19 +5357,19 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: label, entry (CheckSpellingBeforeSend), group (Composer)
-#: settings/kmail.kcfg.cmake:229
+#: settings/kmail.kcfg.cmake:221
 #, fuzzy
 #| msgid "Confirm &before send"
 msgid "Check spelling before send"
 msgstr "&Confirmă înainte de a trimite"
 
 #. i18n: ectx: label, entry (RequestMDN), group (Composer)
-#: settings/kmail.kcfg.cmake:233
+#: settings/kmail.kcfg.cmake:225
 msgid "Automatically request &message disposition notifications"
 msgstr "Cerere automat notificare pentru starea transmiterii &mesajului"
 
 #. i18n: ectx: whatsthis, entry (RequestMDN), group (Composer)
-#: settings/kmail.kcfg.cmake:234
+#: settings/kmail.kcfg.cmake:226
 #, fuzzy
 msgid ""
 "<qt><p>Enable this option if you want KMail to request Message Disposition "
@@ -5400,12 +5386,12 @@ msgstr ""
 "<em>Opțiuni</em>->&gt;<em>Cerere notificare primire mesaj</em>.</p></qt>"
 
 #. i18n: ectx: label, entry (AutosaveInterval), group (Composer)
-#: settings/kmail.kcfg.cmake:256
+#: settings/kmail.kcfg.cmake:248
 msgid "Autosave interval:"
 msgstr "Interval salvare automată:"
 
 #. i18n: ectx: whatsthis, entry (AutosaveInterval), group (Composer)
-#: settings/kmail.kcfg.cmake:257
+#: settings/kmail.kcfg.cmake:249
 msgid ""
 "A backup copy of the text in the composer window can be created regularly. "
 "The interval used to create the backups is set here. You can disable "
@@ -5416,154 +5402,129 @@ msgstr ""
 "Puteți dezactiva salvarea automată dacă setați valoarea lui la 0."
 
 #. i18n: ectx: label, entry (ShowSnippetManager), group (Composer)
-#: settings/kmail.kcfg.cmake:269
+#: settings/kmail.kcfg.cmake:256
 msgid "Show the Text Snippet Management and Insertion Panel in the composer."
 msgstr ""
 
 #. i18n: ectx: label, entry (CryptoStoreEncrypted), group (Composer)
-#: settings/kmail.kcfg.cmake:275
+#: settings/kmail.kcfg.cmake:262
 msgid "When check, sent messages will be stored in the encrypted form"
 msgstr ""
 
 #. i18n: ectx: label, entry (RecentUrls), group (Composer)
-#: settings/kmail.kcfg.cmake:279
+#: settings/kmail.kcfg.cmake:266
 msgid "A list of all the recently used URLs"
 msgstr "O listă cu toate URL-urile folosite recent"
 
 #. i18n: ectx: label, entry (RecentEncodings), group (Composer)
-#: settings/kmail.kcfg.cmake:285
+#: settings/kmail.kcfg.cmake:272
 msgid "A list of all the recently used encodings"
 msgstr "O listă cu toate codările folosite recent"
 
 #. i18n: ectx: label, entry (ShowCryptoLabelIndicator), group (Composer)
-#: settings/kmail.kcfg.cmake:291
+#: settings/kmail.kcfg.cmake:278
 #, fuzzy
 #| msgid "Show crypto &icons"
 msgid "Show crypto label indicator"
 msgstr "Afișează iconițe &criptografie"
 
 #. i18n: ectx: label, entry (CheckSendDefaultActionShortcut), group (Composer)
-#: settings/kmail.kcfg.cmake:295
+#: settings/kmail.kcfg.cmake:282
 msgid "Validate Send Default Shortcut"
 msgstr ""
 
-#. i18n: ectx: label, entry (FilterDialogSize), group (Geometry)
-#: settings/kmail.kcfg.cmake:312
-msgid "The size of the filter dialog (for internal use only)"
-msgstr "Dimensiunea dialogului de filtre (numai pentru uz intern)"
-
 #. i18n: ectx: label, entry (IdentityDialogSize), group (Geometry)
-#: settings/kmail.kcfg.cmake:316
+#: settings/kmail.kcfg.cmake:299
 msgid "The size of the identity dialog (for internal use only)"
 msgstr "Dimensiunea dialogului de identități (numai pentru uz intern)"
 
 #. i18n: ectx: label, entry (SearchWidgetWidth), group (Geometry)
-#: settings/kmail.kcfg.cmake:320
+#: settings/kmail.kcfg.cmake:303
 msgid "The width of the search window (for internal use only)"
 msgstr "Lățimea ferestrei de căutare (numai pentru uz intern)"
 
 #. i18n: ectx: label, entry (SearchWidgetHeight), group (Geometry)
-#: settings/kmail.kcfg.cmake:324
+#: settings/kmail.kcfg.cmake:307
 msgid "The height of the search window (for internal use only)"
 msgstr "Înălțimea ferestrei de căutare (numai pentru uz intern)"
 
 #. i18n: ectx: label, entry (ConfigureDialogWidth), group (Geometry)
-#: settings/kmail.kcfg.cmake:328
+#: settings/kmail.kcfg.cmake:311
 msgid "The width of the Configure KMail dialog (for internal use only)"
 msgstr "Lățimea dialogului Configurare KMail (numai pentru uz intern)"
 
 #. i18n: ectx: label, entry (ConfigureDialogHeight), group (Geometry)
-#: settings/kmail.kcfg.cmake:332
+#: settings/kmail.kcfg.cmake:315
 msgid "The height of the Configure KMail dialog (for internal use only)"
 msgstr "Înălțimea dialogului Configurare KMail (numai pentru uz intern)"
 
 #. i18n: ectx: label, entry (readerWindowMode), group (Geometry)
-#: settings/kmail.kcfg.cmake:358
+#: settings/kmail.kcfg.cmake:341
 msgid "Message Preview Pane"
 msgstr "Panou previzualizare mesaj"
 
 #. i18n: ectx: label, entry (readerWindowMode), group (Geometry)
-#: settings/kmail.kcfg.cmake:361
+#: settings/kmail.kcfg.cmake:344
 msgid "Do not show a message preview pane"
 msgstr "Nu afișa panoul de previzualizare a mesajului"
 
 #. i18n: ectx: label, entry (readerWindowMode), group (Geometry)
-#: settings/kmail.kcfg.cmake:364
+#: settings/kmail.kcfg.cmake:347
 msgid "Show the message preview pane below the message list"
 msgstr "Arată panoul previzualizării mesajului sub lista de mesaje"
 
 #. i18n: ectx: label, entry (readerWindowMode), group (Geometry)
-#: settings/kmail.kcfg.cmake:367
+#: settings/kmail.kcfg.cmake:350
 msgid "Show the message preview pane next to the message list"
 msgstr "Arată panoul previzualizării mesajului alături de lista de mesaje"
 
 #. i18n: ectx: label, entry (FolderList), group (Geometry)
-#: settings/kmail.kcfg.cmake:377
+#: settings/kmail.kcfg.cmake:360
 msgid "Long folder list"
 msgstr "Listă de dosare lungă"
 
 #. i18n: ectx: label, entry (FolderList), group (Geometry)
-#: settings/kmail.kcfg.cmake:380
+#: settings/kmail.kcfg.cmake:363
 msgid "Short folder list"
 msgstr "Listă de dosare scurtă"
 
 #. i18n: ectx: label, entry (CloseAfterReplyOrForward), group (Reader)
-#: settings/kmail.kcfg.cmake:389
+#: settings/kmail.kcfg.cmake:372
 msgid "Close message window after replying or forwarding"
 msgstr "Închide fereastra mesajului după răspuns sau înaintare"
 
-#. i18n: ectx: label, entry (SendMDNsWithEmptySender), group (MDN)
-#: settings/kmail.kcfg.cmake:397
-#, fuzzy
-#| msgid "Message Disposition Notifications"
-msgid "Send Message Disposition Notifications with an empty sender."
-msgstr "Notificări prelucrare mesaj"
-
-#. i18n: ectx: whatsthis, entry (SendMDNsWithEmptySender), group (MDN)
-#: settings/kmail.kcfg.cmake:398
-msgid ""
-"Send Message Disposition Notifications with an empty sender string. Some "
-"servers might be configure to reject such messages, so if you are "
-"experiencing problems sending MDNs, uncheck this option."
-msgstr ""
-
 #. i18n: ectx: label, entry (TemplateNewMessage), group (GlobalTemplates)
-#: settings/kmail.kcfg.cmake:404
+#: settings/kmail.kcfg.cmake:379
 msgid "Message template for new message"
 msgstr "Șablon de mesaj pentru mesaj nou"
 
 #. i18n: ectx: label, entry (TemplateReply), group (GlobalTemplates)
-#: settings/kmail.kcfg.cmake:409
+#: settings/kmail.kcfg.cmake:384
 msgid "Message template for reply"
 msgstr "Șablon de mesaj pentru răspuns"
 
 #. i18n: ectx: label, entry (TemplateReplyAll), group (GlobalTemplates)
-#: settings/kmail.kcfg.cmake:414
+#: settings/kmail.kcfg.cmake:389
 msgid "Message template for reply to all"
 msgstr "Șablon de mesaj pentru răspuns la toți"
 
 #. i18n: ectx: label, entry (TemplateForward), group (GlobalTemplates)
-#: settings/kmail.kcfg.cmake:419
+#: settings/kmail.kcfg.cmake:394
 msgid "Message template for forward"
 msgstr "Șablon de mesaj pentru înaintare"
 
 #. i18n: ectx: label, entry (QuoteString), group (GlobalTemplates)
-#: settings/kmail.kcfg.cmake:424
+#: settings/kmail.kcfg.cmake:399
 msgid "Quote characters"
 msgstr "Caractere de citare"
 
-#. i18n: ectx: label, entry (UpdateLevel), group (Startup)
-#: settings/kmail.kcfg.cmake:439
-msgid "Specifies the number of updates to perform (for internal use only)"
-msgstr ""
-
 #. i18n: ectx: label, entry (ToolTipDisplayPolicy), group (MainFolderView)
-#: settings/kmail.kcfg.cmake:446
+#: settings/kmail.kcfg.cmake:414
 msgid "Specifies the policy used when displaying policy"
 msgstr ""
 
 #. i18n: ectx: label, entry (CollectionWidth), group (SearchDialog)
-#: settings/kmail.kcfg.cmake:454
+#: settings/kmail.kcfg.cmake:422
 #, fuzzy
 #| msgid ""
 #| "Specifies whether the folders will expire in the background (for internal "
@@ -5574,21 +5535,21 @@ msgid ""
 msgstr "Specifică dacă dosarele vor expira în fundal (doar pentru uz intern)"
 
 #. i18n: ectx: label, entry (SubjectWidth), group (SearchDialog)
-#: settings/kmail.kcfg.cmake:458
+#: settings/kmail.kcfg.cmake:426
 msgid ""
 "Specifies the width of the subject field in the Search Window dialog (for "
 "internal use only)"
 msgstr ""
 
 #. i18n: ectx: label, entry (SenderWidth), group (SearchDialog)
-#: settings/kmail.kcfg.cmake:462
+#: settings/kmail.kcfg.cmake:430
 msgid ""
 "Specifies the width of the sender field in the Search Window dialog (for "
 "internal use only)"
 msgstr ""
 
 #. i18n: ectx: label, entry (ReceiverWidth), group (SearchDialog)
-#: settings/kmail.kcfg.cmake:466
+#: settings/kmail.kcfg.cmake:434
 #, fuzzy
 #| msgid "The width of the search window (for internal use only)"
 msgid ""
@@ -5597,14 +5558,14 @@ msgid ""
 msgstr "Lățimea ferestrei de căutare (numai pentru uz intern)"
 
 #. i18n: ectx: label, entry (DateWidth), group (SearchDialog)
-#: settings/kmail.kcfg.cmake:470
+#: settings/kmail.kcfg.cmake:438
 msgid ""
 "Specifies the width of the date field in the Search Window dialog (for "
 "internal use only)"
 msgstr ""
 
 #. i18n: ectx: label, entry (FolderWidth), group (SearchDialog)
-#: settings/kmail.kcfg.cmake:474
+#: settings/kmail.kcfg.cmake:442
 msgid ""
 "Specifies the width of the folder field in the Search Window dialog (for "
 "internal use only)"
@@ -6700,6 +6661,21 @@ msgid_plural "Out of office reply active on servers"
 msgstr[0] "Răspuns „Ieșit din birou” activ"
 msgstr[1] "Răspuns „Ieșit din birou” activ"
 msgstr[2] "Răspuns „Ieșit din birou” activ"
+
+#~ msgid "The size of the filter dialog (for internal use only)"
+#~ msgstr "Dimensiunea dialogului de filtre (numai pentru uz intern)"
+
+#, fuzzy
+#~| msgid "Message Disposition Notifications"
+#~ msgid "Send Message Disposition Notifications with an empty sender."
+#~ msgstr "Notificări prelucrare mesaj"
+
+#~ msgid ""
+#~ "Close the application when the main window is closed, even if there is a "
+#~ "system tray icon active."
+#~ msgstr ""
+#~ "Închide aplicația cînd este închisă fereastra principală, chiar dacă este "
+#~ "o pictogramă activă în tava de sistem."
 
 #~ msgid ""
 #~ "<p>...that you can go to the next and previous message by using the\n"

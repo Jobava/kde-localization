@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-10 08:57+0000\n"
+"POT-Creation-Date: 2015-08-29 09:22+0000\n"
 "PO-Revision-Date: 2015-04-20 13:20+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -87,7 +87,7 @@ msgctxt "Name"
 msgid "eye On Screen"
 msgstr "ochi pe ecran"
 
-#: effects/eyeonscreen/package/metadata.desktop:31
+#: effects/eyeonscreen/package/metadata.desktop:32
 msgctxt "Comment"
 msgid ""
 "Suck windows into desktop to show the latter. This might remind you of "
@@ -230,7 +230,7 @@ msgctxt "Name"
 msgid "Window Aperture"
 msgstr "Diafragmă fereastră"
 
-#: effects/windowaperture/package/metadata.desktop:32
+#: effects/windowaperture/package/metadata.desktop:34
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Slide windows across the screen when switching virtual desktops"
@@ -574,7 +574,7 @@ msgctxt "Name"
 msgid "MinimizeAll"
 msgstr "Maximizează"
 
-#: scripts/minimizeall/metadata.desktop:31
+#: scripts/minimizeall/metadata.desktop:33
 msgctxt "Comment"
 msgid ""
 "Adds a shortcut to minimize all windows or unminimize all such way minimized "

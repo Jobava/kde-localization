@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_extragear-plasma_desktopthemes\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-19 08:41+0000\n"
+"POT-Creation-Date: 2015-09-10 09:33+0000\n"
 "PO-Revision-Date: 2014-04-04 18:47+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -90,6 +90,16 @@ msgstr "Selector caractere"
 msgctxt "Comment"
 msgid "View, select, and copy characters from a font collection"
 msgstr "Vizualizează, alege și copiază caractere dintr-o colecție de fonturi"
+
+#: applets/colorpicker/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Color Picker"
+msgstr "Selector de culori"
+
+#: applets/colorpicker/package/metadata.desktop:60
+msgctxt "Comment"
+msgid "Pick a color from the desktop"
+msgstr "Alegeți o culoare de pe birou"
 
 #: applets/comic/package/metadata.desktop:2
 msgctxt "Name"
@@ -179,7 +189,7 @@ msgctxt "Name"
 msgid "Application Dashboard"
 msgstr ""
 
-#: applets/kickerdash/metadata.desktop:26
+#: applets/kickerdash/metadata.desktop:30
 msgctxt "Comment"
 msgid "A fullscreen application launcher"
 msgstr ""
@@ -211,16 +221,6 @@ msgstr "Bază de cunoștințe"
 msgctxt "Comment"
 msgid "Opendesktop Knowledgebase"
 msgstr "Bază de cunoștințe Opendesktop"
-
-#: applets/kolourpicker/plasma-kolourpicker-default.desktop:2
-msgctxt "Name"
-msgid "Color Picker"
-msgstr "Selector de culori"
-
-#: applets/kolourpicker/plasma-kolourpicker-default.desktop:60
-msgctxt "Comment"
-msgid "Pick a color from the desktop"
-msgstr "Alegeți o culoare de pe birou"
 
 #: applets/konqprofiles/package/metadata.desktop:2
 #: dataengines/konqprofiles/plasma-dataengine-konqprofiles.desktop:2
@@ -432,16 +432,6 @@ msgstr "Lipește text/imagini spre un server distant"
 msgctxt "Name"
 msgid "RSSNOW"
 msgstr "RSSNOW"
-
-#: applets/showdashboard/plasma-applet-showdashboard.desktop:2
-msgctxt "Name"
-msgid "Show Widget Dashboard"
-msgstr "Arată tabloul de bord al controalelor"
-
-#: applets/showdashboard/plasma-applet-showdashboard.desktop:55
-msgctxt "Comment"
-msgid "Show the Plasma widget dashboard above other windows"
-msgstr "Arată tabloul de bord cu controale Plasma deasupra celorlalte ferestre"
 
 #: applets/showdesktop/package/metadata.desktop:2
 msgctxt "Name"
@@ -896,7 +886,7 @@ msgctxt "Name"
 msgid "Ascii Animals"
 msgstr "Animale ASCII"
 
-#: wallpapers/animals/metadata.desktop:44
+#: wallpapers/animals/metadata.desktop:45
 msgctxt "Comment"
 msgid "Unsure if cute or just nerdy"
 msgstr ""
@@ -983,6 +973,15 @@ msgstr ""
 msgctxt "Comment"
 msgid "A window switcher layout using live thumbnails"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Show Widget Dashboard"
+#~ msgstr "Arată tabloul de bord al controalelor"
+
+#~ msgctxt "Comment"
+#~ msgid "Show the Plasma widget dashboard above other windows"
+#~ msgstr ""
+#~ "Arată tabloul de bord cu controale Plasma deasupra celorlalte ferestre"
 
 #~ msgctxt "Name"
 #~ msgid "Icon-Only Task Manager"
