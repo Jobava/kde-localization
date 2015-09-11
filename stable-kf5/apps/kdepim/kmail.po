@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmail\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-28 14:45+0000\n"
+"POT-Creation-Date: 2015-09-10 12:37+0000\n"
 "PO-Revision-Date: 2014-03-26 13:37+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -685,21 +685,21 @@ msgstr "&Trimite mesajele din dosarul \"trimitere\":"
 msgid "Defa&ult send method:"
 msgstr "&Metoda de transmitere implicită:"
 
-#: configuredialog/configureaccountpage.cpp:249
+#: configuredialog/configureaccountpage.cpp:254
 msgctxt "Label to a checkbox, so is either checked/unchecked"
 msgid "Include in Manual Mail Check"
 msgstr "Include în verificarea manuală a poștei"
 
-#: configuredialog/configureaccountpage.cpp:258
+#: configuredialog/configureaccountpage.cpp:263
 msgctxt "Label to a checkbox, so is either checked/unchecked"
 msgid "Switch offline on KMail Shutdown"
 msgstr "Deconectează la închiderea KMail"
 
-#: configuredialog/configureaccountpage.cpp:266
+#: configuredialog/configureaccountpage.cpp:271
 msgid "Check mail on startup"
 msgstr "Verifică poșta la pornire"
 
-#: configuredialog/configureaccountpage.cpp:314
+#: configuredialog/configureaccountpage.cpp:318
 msgid ""
 "New Mail Notifier Agent not registered. Please contact your administrator."
 msgstr ""
@@ -1779,7 +1779,7 @@ msgid "Send"
 msgstr "Trimite"
 
 #: editor/kmcomposewin.cpp:1115 editor/kmcomposewin.cpp:1128
-#: editor/kmcomposewin.cpp:2805
+#: editor/kmcomposewin.cpp:2816
 msgid "Send &Later"
 msgstr "T&rimite mai tîrziu"
 
@@ -1986,13 +1986,13 @@ msgstr ""
 msgid "Configure KMail..."
 msgstr "Configurare KMail..."
 
-#: editor/kmcomposewin.cpp:1449 editor/kmcomposewin.cpp:3203
+#: editor/kmcomposewin.cpp:1449 editor/kmcomposewin.cpp:3214
 #, kde-format
 msgctxt "Shows the linenumber of the cursor position."
 msgid " Line: %1 "
 msgstr " Linia: %1 "
 
-#: editor/kmcomposewin.cpp:1454 editor/kmcomposewin.cpp:3205
+#: editor/kmcomposewin.cpp:1454 editor/kmcomposewin.cpp:3216
 #, kde-format
 msgid " Column: %1 "
 msgstr " Coloana: %1 "
@@ -2068,7 +2068,7 @@ msgstr "Adaugă ca mesaj în l&inie"
 msgid "Add as &Attachment"
 msgstr "Adaugă ca &atașament"
 
-#: editor/kmcomposewin.cpp:2139 editor/kmcomposewin.cpp:2218
+#: editor/kmcomposewin.cpp:2139 editor/kmcomposewin.cpp:2229
 msgid "Name of the attachment:"
 msgstr "Denumirea atașamentului:"
 
@@ -2086,15 +2086,15 @@ msgstr[0] "Adaugă fișier ca &atașament"
 msgstr[1] "Adaugă fișiere ca &atașament"
 msgstr[2] "Adaugă fișiere ca &atașament"
 
-#: editor/kmcomposewin.cpp:2217
+#: editor/kmcomposewin.cpp:2228
 msgid "Insert clipboard text as attachment"
 msgstr "Folosește textul din clipboard ca atașament"
 
-#: editor/kmcomposewin.cpp:2313
+#: editor/kmcomposewin.cpp:2324
 msgid "unnamed"
 msgstr "nedenumit"
 
-#: editor/kmcomposewin.cpp:2339
+#: editor/kmcomposewin.cpp:2350
 msgid ""
 "<qt><p>You have requested that messages be encrypted to yourself, but the "
 "currently selected identity does not define an (OpenPGP or S/MIME) "
@@ -2106,11 +2106,11 @@ msgstr ""
 "criptare.</p><p>Vă rog să selectați cheia/cheile de utilizat în dialogul de "
 "configurare a identității.</p></qt>"
 
-#: editor/kmcomposewin.cpp:2346
+#: editor/kmcomposewin.cpp:2357
 msgid "Undefined Encryption Key"
 msgstr "Cheie de criptare nedefinită"
 
-#: editor/kmcomposewin.cpp:2390
+#: editor/kmcomposewin.cpp:2401
 msgid ""
 "<qt><p>In order to be able to sign this message you first have to define the "
 "(OpenPGP or S/MIME) signing key to use.</p><p>Please select the key to use "
@@ -2120,11 +2120,11 @@ msgstr ""
 "(OpenPGP sau S/MIME) de semnare.</p><p>Vă rog să selectați cheia de utilizat "
 "în dialogul de configurare a identității.</p></qt>"
 
-#: editor/kmcomposewin.cpp:2397
+#: editor/kmcomposewin.cpp:2408
 msgid "Undefined Signing Key"
 msgstr "Cheie de semnare nedefinită"
 
-#: editor/kmcomposewin.cpp:2523
+#: editor/kmcomposewin.cpp:2534
 #, kde-format
 msgid "There is %1 file upload in progress."
 msgid_plural "There are %1 file uploads in progress."
@@ -2132,7 +2132,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: editor/kmcomposewin.cpp:2543
+#: editor/kmcomposewin.cpp:2554
 msgid ""
 "You must enter your email address in the From: field. You should also set "
 "your email address for all identities, so that you do not have to enter it "
@@ -2142,7 +2142,7 @@ msgstr ""
 "De asemenea ar trebui să setați adresa de e-mail pentru toate identitățiile "
 "astfel încît să nu fiți întrebat de ea pentru fiecare mesaj de trimis."
 
-#: editor/kmcomposewin.cpp:2552
+#: editor/kmcomposewin.cpp:2563
 #, fuzzy
 #| msgid ""
 #| "You must specify at least one receiver,either in the To: field or as CC "
@@ -2154,31 +2154,31 @@ msgstr ""
 "Trebuie să specificați cel puțin un destinatar, cel puțin în cîmpul \"Către:"
 "\" sau în \"CC:\" sau \"BCC:\"."
 
-#: editor/kmcomposewin.cpp:2558
+#: editor/kmcomposewin.cpp:2569
 msgid "To: field is empty. Send message anyway?"
 msgstr "Cîmpul Către: este gol. Expediați mesajul oricum?"
 
-#: editor/kmcomposewin.cpp:2560
+#: editor/kmcomposewin.cpp:2571
 msgid "No To: specified"
 msgstr "Niciun Către: specificat"
 
-#: editor/kmcomposewin.cpp:2574
+#: editor/kmcomposewin.cpp:2585
 msgid "You did not specify a subject. Send message anyway?"
 msgstr "Nu ați specificat un subiect. Trimit mesajul?"
 
-#: editor/kmcomposewin.cpp:2576
+#: editor/kmcomposewin.cpp:2587
 msgid "No Subject Specified"
 msgstr "Nu ați specificat un subiect"
 
-#: editor/kmcomposewin.cpp:2577
+#: editor/kmcomposewin.cpp:2588
 msgid "S&end as Is"
 msgstr "T&rimite"
 
-#: editor/kmcomposewin.cpp:2578
+#: editor/kmcomposewin.cpp:2589
 msgid "&Specify the Subject"
 msgstr "&Specifică subiectul"
 
-#: editor/kmcomposewin.cpp:2613
+#: editor/kmcomposewin.cpp:2624
 #, fuzzy
 #| msgid ""
 #| "You must specify at least one receiver,either in the To: field or as CC "
@@ -2190,19 +2190,19 @@ msgstr ""
 "Trebuie să specificați cel puțin un destinatar, cel puțin în cîmpul \"Către:"
 "\" sau în \"CC:\" sau \"BCC:\"."
 
-#: editor/kmcomposewin.cpp:2802
+#: editor/kmcomposewin.cpp:2813
 msgid "About to send email..."
 msgstr "Urmează trimiterea mesajului..."
 
-#: editor/kmcomposewin.cpp:2803
+#: editor/kmcomposewin.cpp:2814
 msgid "Send Confirmation"
 msgstr "Confirmare de trimitere"
 
-#: editor/kmcomposewin.cpp:2804
+#: editor/kmcomposewin.cpp:2815
 msgid "&Send Now"
 msgstr "Trimite &acum"
 
-#: editor/kmcomposewin.cpp:2868
+#: editor/kmcomposewin.cpp:2879
 #, kde-format
 msgid ""
 "You are trying to send the mail to more than %1 recipients. Send message "
@@ -2211,44 +2211,44 @@ msgstr ""
 "Încercați să expediați mesajul către mai mult de %1 destinatari. Expediați "
 "mesajul oricum?"
 
-#: editor/kmcomposewin.cpp:2869
+#: editor/kmcomposewin.cpp:2880
 msgid "Too many recipients"
 msgstr "Prea mulți destinatari"
 
-#: editor/kmcomposewin.cpp:2870
+#: editor/kmcomposewin.cpp:2881
 msgid "&Send as Is"
 msgstr "T&rimite așa cum este"
 
-#: editor/kmcomposewin.cpp:2871
+#: editor/kmcomposewin.cpp:2882
 msgid "&Edit Recipients"
 msgstr "R&edactează destinatarii"
 
-#: editor/kmcomposewin.cpp:2910
+#: editor/kmcomposewin.cpp:2921
 msgid ""
 "Turning HTML mode off will cause the text to lose the formatting. Are you "
 "sure?"
 msgstr ""
 "Dezactivarea regimului HTML va provoca pierderea formatării. Sînteți sigur?"
 
-#: editor/kmcomposewin.cpp:2912
+#: editor/kmcomposewin.cpp:2923
 msgid "Lose the formatting?"
 msgstr "Pierdeți formatarea?"
 
-#: editor/kmcomposewin.cpp:2912
+#: editor/kmcomposewin.cpp:2923
 msgid "Lose Formatting"
 msgstr "Pierde formatarea"
 
-#: editor/kmcomposewin.cpp:2912
+#: editor/kmcomposewin.cpp:2923
 #, fuzzy
 #| msgid "Message as Plain Text"
 msgid "Add Markup Plain Text"
 msgstr "Mesaj ca text simplu"
 
-#: editor/kmcomposewin.cpp:3248
+#: editor/kmcomposewin.cpp:3259
 msgid "Insert Special Character"
 msgstr "Inserează caracter special"
 
-#: editor/kmcomposewin.cpp:3249
+#: editor/kmcomposewin.cpp:3260
 msgid "Insert"
 msgstr "Inserează"
 

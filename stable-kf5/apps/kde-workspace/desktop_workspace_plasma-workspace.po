@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-14 11:11+0000\n"
+"POT-Creation-Date: 2015-08-29 12:02+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -861,7 +861,7 @@ msgctxt "Name"
 msgid "Directory Watcher"
 msgstr ""
 
-#: kioslave/desktop/desktopnotifier.desktop:36
+#: kioslave/desktop/desktopnotifier.desktop:38
 msgctxt "Comment"
 msgid "Monitors directories for changes"
 msgstr ""
@@ -871,7 +871,7 @@ msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: kioslave/desktop/./directory.trash:29
+#: kioslave/desktop/./directory.trash:31
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr ""
@@ -881,7 +881,7 @@ msgctxt "Name"
 msgid "Home"
 msgstr ""
 
-#: kioslave/desktop/Home.desktop:29
+#: kioslave/desktop/Home.desktop:32
 msgctxt "GenericName"
 msgid "Personal Files"
 msgstr ""
@@ -1132,7 +1132,7 @@ msgid "KDE's Progress Info UI server"
 msgstr "Serverul KDE de informație progres"
 
 #: lookandfeel/contents/loginmanager/metadata.desktop:2
-#: lookandfeel/metadata.desktop:70
+#: lookandfeel/metadata.desktop:71
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""

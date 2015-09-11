@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-07 11:30+0000\n"
+"POT-Creation-Date: 2015-08-26 11:47+0000\n"
 "PO-Revision-Date: 2015-04-20 14:43+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -30,7 +30,7 @@ msgctxt "Name"
 msgid "Music"
 msgstr "Muzică"
 
-#: browsingbackends/metadatamusicbackend/metadatamusicbackend.desktop:37
+#: browsingbackends/metadatamusicbackend/metadatamusicbackend.desktop:38
 msgctxt "Comment"
 msgid "Listen to the music on your device"
 msgstr ""
@@ -40,7 +40,7 @@ msgctxt "Name"
 msgid "Pictures"
 msgstr "Poze"
 
-#: browsingbackends/metadatapicturebackend/metadatapicturebackend.desktop:37
+#: browsingbackends/metadatapicturebackend/metadatapicturebackend.desktop:38
 msgctxt "Comment"
 msgid "See the pictures on your device"
 msgstr ""
@@ -50,7 +50,7 @@ msgctxt "Name"
 msgid "Videos"
 msgstr "Videoclipuri"
 
-#: browsingbackends/metadatavideobackend/metadatavideobackend.desktop:37
+#: browsingbackends/metadatavideobackend/metadatavideobackend.desktop:38
 msgctxt "Comment"
 msgid "Watch the videos on your device"
 msgstr ""

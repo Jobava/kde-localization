@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_standard_actions\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-07 11:21+0000\n"
+"POT-Creation-Date: 2015-09-07 11:03+0000\n"
 "PO-Revision-Date: 2011-11-12 18:20+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -27,15 +27,15 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "onet.cristian@gmail.com"
 
-#: standard_actions_module.cpp:63 standard_actions_module.cpp:136
+#: standard_actions_module.cpp:62 standard_actions_module.cpp:135
 msgid "Standard Shortcuts"
 msgstr "Scurtături standard"
 
-#: standard_actions_module.cpp:155
+#: standard_actions_module.cpp:154
 msgid "Standard Actions successfully saved"
 msgstr "Acțiunile standard au fost salvate cu succes"
 
-#: standard_actions_module.cpp:157
+#: standard_actions_module.cpp:156
 msgid ""
 "The changes have been saved. Please note that:<ul><li>Applications need to "
 "be restarted to see the changes.</li>    <li>This change could introduce "

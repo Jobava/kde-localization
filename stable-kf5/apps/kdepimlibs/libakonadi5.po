@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libakonadi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-26 10:16+0000\n"
+"POT-Creation-Date: 2015-09-10 12:38+0000\n"
 "PO-Revision-Date: 2013-01-13 00:43+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -476,14 +476,14 @@ msgstr "Extensie fără denumire"
 msgid "No description available"
 msgstr "Nicio descriere disponibilă"
 
-#: core/session.cpp:314
+#: core/session.cpp:317
 #, kde-format
 msgid ""
 "Protocol version mismatch. Server version is newer (%1) than ours (%2). If "
 "you updated your system recently please restart the Akonadi server."
 msgstr ""
 
-#: core/session.cpp:320
+#: core/session.cpp:323
 #, kde-format
 msgid ""
 "Protocol version mismatch. Server version is older (%1) than ours (%2). If "
@@ -813,22 +813,22 @@ msgstr "&Leagă aici"
 msgid "C&ancel"
 msgstr "R&enunță"
 
-#: widgets/erroroverlay.cpp:237 widgets/erroroverlay.cpp:238
+#: widgets/erroroverlay.cpp:241 widgets/erroroverlay.cpp:242
 msgid "Personal information management service is starting..."
 msgstr "Serviciul de gestiune a informațiilor personale se pornește..."
 
-#: widgets/erroroverlay.cpp:242 widgets/erroroverlay.cpp:243
+#: widgets/erroroverlay.cpp:246 widgets/erroroverlay.cpp:247
 msgid "Personal information management service is shutting down..."
 msgstr "Serviciul de gestiune a informațiilor personale se oprește..."
 
-#: widgets/erroroverlay.cpp:247
+#: widgets/erroroverlay.cpp:251
 msgid ""
 "Personal information management service is performing a database upgrade."
 msgstr ""
 "Serviciul de gestiune a informațiilor personale efectuează o înnoire a bazei "
 "de date."
 
-#: widgets/erroroverlay.cpp:248
+#: widgets/erroroverlay.cpp:252
 #, fuzzy
 #| msgid ""
 #| "Personal information management service is performing a database upgrade. "

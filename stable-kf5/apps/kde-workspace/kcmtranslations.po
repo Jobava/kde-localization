@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-07 11:21+0000\n"
+"POT-Creation-Date: 2015-08-24 11:13+0000\n"
 "PO-Revision-Date: 2014-10-05 19:26+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -103,11 +103,17 @@ msgid ""
 "used."
 msgstr ""
 
-#: kcmtranslations.cpp:302
+#: kcmtranslations.cpp:250 kcmtranslations.cpp:259
+#, kde-format
+msgctxt "%1 is language name, %2 is language code name"
+msgid "%1 (%2)"
+msgstr ""
+
+#: kcmtranslations.cpp:316
 msgid "Install more languages"
 msgstr "Instalează limbi suplimentare"
 
-#: kcmtranslations.cpp:303
+#: kcmtranslations.cpp:317
 msgid "<p>Click here to install more languages</p>"
 msgstr "<p>Apăsați aici pentru a instala limbi suplimentare</p>"
 

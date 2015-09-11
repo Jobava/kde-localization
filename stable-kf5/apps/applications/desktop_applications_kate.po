@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-14 11:10+0000\n"
+"POT-Creation-Date: 2015-09-09 11:33+0000\n"
 "PO-Revision-Date: 2014-05-02 11:34+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -355,7 +355,7 @@ msgctxt "Name"
 msgid "Rust code completion"
 msgstr "Completare automată Python"
 
-#: addons/rustcompletion/kterustcompletionplugin.desktop:32
+#: addons/rustcompletion/kterustcompletionplugin.desktop:33
 msgctxt "Comment"
 msgid "Code completion for Rust source code"
 msgstr ""
@@ -379,8 +379,8 @@ msgctxt "Name"
 msgid "Kate Sessions"
 msgstr "Miniaplicație de sesiune Kate"
 
-#: addons/sessionapplet/applet/metadata.desktop:34
-#: addons/sessionapplet/engine/plasma-dataengine-katesessions.desktop:34
+#: addons/sessionapplet/applet/metadata.desktop:35
+#: addons/sessionapplet/engine/plasma-dataengine-katesessions.desktop:35
 msgctxt "Comment"
 msgid "Kate Session Launcher"
 msgstr "Lansator de sesiuni Kate"
@@ -413,7 +413,7 @@ msgctxt "Name"
 msgid "Document switcher"
 msgstr "Comutator rapid de documente"
 
-#: addons/tabswitcher/tabswitcherplugin.desktop:40
+#: addons/tabswitcher/tabswitcherplugin.desktop:41
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Quick Document switcher"

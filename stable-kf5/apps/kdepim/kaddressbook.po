@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kaddressbook\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-29 09:55+0000\n"
+"POT-Creation-Date: 2015-08-31 12:22+0000\n"
 "PO-Revision-Date: 2013-10-13 13:07+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1053,7 +1053,7 @@ msgstr "Selectați contactele pentru imprimare"
 msgid "Choose Printing Style"
 msgstr "Alege-ți stilul de imprimare"
 
-#: printing/printingwizard.cpp:220
+#: printing/printingwizard.cpp:219
 msgid "Print Progress"
 msgstr "Progresul imprimari"
 
@@ -1354,123 +1354,123 @@ msgctxt "@label"
 msgid "Importing contacts"
 msgstr "Importa contacte"
 
-#: xxport/csv/csvimportdialog.cpp:298
+#: xxport/csv/csvimportdialog.cpp:295
 msgctxt "@label"
 msgid "File to import:"
 msgstr "Fișier de importat:"
 
-#: xxport/csv/csvimportdialog.cpp:307
+#: xxport/csv/csvimportdialog.cpp:304
 #, fuzzy
 #| msgid "Select vCard to Import"
 msgctxt "@info:tooltip"
 msgid "Select a csv file to import"
 msgstr "Selectați lista de importat:"
 
-#: xxport/csv/csvimportdialog.cpp:310
+#: xxport/csv/csvimportdialog.cpp:307
 msgctxt "@info:whatsthis"
 msgid ""
 "Click this button to start a file chooser that will allow you to select a "
 "csv file to import."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:317
+#: xxport/csv/csvimportdialog.cpp:314
 msgctxt "@title:group"
 msgid "Delimiter"
 msgstr "&Delimitator..."
 
-#: xxport/csv/csvimportdialog.cpp:327
+#: xxport/csv/csvimportdialog.cpp:324
 msgctxt "@option:radio Field separator"
 msgid "Comma"
 msgstr "Firmâ"
 
-#: xxport/csv/csvimportdialog.cpp:329
+#: xxport/csv/csvimportdialog.cpp:326
 #, fuzzy
 #| msgid "Select the field you want to remove:"
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a comma"
 msgstr "Alegeți cîmpul de eliminat:"
 
-#: xxport/csv/csvimportdialog.cpp:332
+#: xxport/csv/csvimportdialog.cpp:329
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the comma as a field separator."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:337
+#: xxport/csv/csvimportdialog.cpp:334
 msgctxt "@option:radio Field separator"
 msgid "Semicolon"
 msgstr "Punct și virgulă"
 
-#: xxport/csv/csvimportdialog.cpp:339
+#: xxport/csv/csvimportdialog.cpp:336
 #, fuzzy
 #| msgid "Select the field you want to remove:"
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a semicolon"
 msgstr "Alegeți cîmpul de eliminat:"
 
-#: xxport/csv/csvimportdialog.cpp:342
+#: xxport/csv/csvimportdialog.cpp:339
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the semicolon as a field separator."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:346
+#: xxport/csv/csvimportdialog.cpp:343
 msgctxt "@option:radio Field separator"
 msgid "Tabulator"
 msgstr "Tabulator"
 
-#: xxport/csv/csvimportdialog.cpp:348
+#: xxport/csv/csvimportdialog.cpp:345
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a tab character"
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:351
+#: xxport/csv/csvimportdialog.cpp:348
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the tab character as a field "
 "separator."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:355
+#: xxport/csv/csvimportdialog.cpp:352
 msgctxt "@option:radio Field separator"
 msgid "Space"
 msgstr "Spațiu"
 
-#: xxport/csv/csvimportdialog.cpp:357
+#: xxport/csv/csvimportdialog.cpp:354
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a space character"
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:360
+#: xxport/csv/csvimportdialog.cpp:357
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the space character as a field "
 "separator."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:364
+#: xxport/csv/csvimportdialog.cpp:361
 msgctxt "@option:radio Custum field separator"
 msgid "Other"
 msgstr "Altul"
 
-#: xxport/csv/csvimportdialog.cpp:366
+#: xxport/csv/csvimportdialog.cpp:363
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a custom character"
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:369
+#: xxport/csv/csvimportdialog.cpp:366
 msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if to use some other character as the field delimiter for "
 "the data in your csv file."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:377
+#: xxport/csv/csvimportdialog.cpp:374
 msgctxt "@info:tooltip"
 msgid "Set the custom delimiter character"
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:380
+#: xxport/csv/csvimportdialog.cpp:377
 msgctxt "@info:whatsthis"
 msgid ""
 "Enter a custom character to use as the delimiter character. If you enter "
@@ -1478,19 +1478,19 @@ msgid ""
 "characters will be ignored."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:386
+#: xxport/csv/csvimportdialog.cpp:383
 msgctxt "@label:listbox"
 msgid "Text quote:"
 msgstr "&Textul citat:"
 
-#: xxport/csv/csvimportdialog.cpp:393
+#: xxport/csv/csvimportdialog.cpp:390
 #, fuzzy
 #| msgid "Select the key type:"
 msgctxt "@info:tooltip"
 msgid "Select the quote character"
 msgstr "Alege tipul cheii:"
 
-#: xxport/csv/csvimportdialog.cpp:396
+#: xxport/csv/csvimportdialog.cpp:393
 msgctxt "@info:whatsthis"
 msgid ""
 "Choose the character that your csv data uses to \"quote\" the field "
@@ -1499,27 +1499,27 @@ msgid ""
 "will be \"quoted\" by the character specified here."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:401
+#: xxport/csv/csvimportdialog.cpp:398
 msgctxt "@item:inlistbox Qoute character option"
 msgid "\""
 msgstr "\""
 
-#: xxport/csv/csvimportdialog.cpp:402
+#: xxport/csv/csvimportdialog.cpp:399
 msgctxt "@item:inlistbox Quote character option"
 msgid "'"
 msgstr "'"
 
-#: xxport/csv/csvimportdialog.cpp:403
+#: xxport/csv/csvimportdialog.cpp:400
 msgctxt "@item:inlistbox Quote character option"
 msgid "None"
 msgstr "Nimic"
 
-#: xxport/csv/csvimportdialog.cpp:407
+#: xxport/csv/csvimportdialog.cpp:404
 msgctxt "@label:listbox"
 msgid "Date format:"
 msgstr "Format dată:"
 
-#: xxport/csv/csvimportdialog.cpp:416
+#: xxport/csv/csvimportdialog.cpp:413
 msgctxt "@info:tooltip"
 msgid ""
 "<para><list><item>y: year with 2 digits</item><item>Y: year with 4 digits</"
@@ -1534,7 +1534,7 @@ msgstr ""
 "item><item>H: ore cu 2 cifre</item><item>I: minute cu 2 cifre</item><item>S: "
 "secunde cu 2 cifre</item></list></para>"
 
-#: xxport/csv/csvimportdialog.cpp:428
+#: xxport/csv/csvimportdialog.cpp:425
 #, fuzzy
 #| msgctxt "@info:tooltip"
 #| msgid ""
@@ -1561,29 +1561,29 @@ msgstr ""
 "item><item>H: ore cu 2 cifre</item><item>I: minute cu 2 cifre</item><item>S: "
 "secunde cu 2 cifre</item></list></para>"
 
-#: xxport/csv/csvimportdialog.cpp:444
+#: xxport/csv/csvimportdialog.cpp:441
 msgctxt "@label:listbox"
 msgid "Text codec:"
 msgstr "&Text codec:"
 
-#: xxport/csv/csvimportdialog.cpp:451
+#: xxport/csv/csvimportdialog.cpp:448
 #, fuzzy
 #| msgid "Select the key type:"
 msgctxt "@info:tooltip"
 msgid "Select the text codec"
 msgstr "Alege tipul cheii:"
 
-#: xxport/csv/csvimportdialog.cpp:454
+#: xxport/csv/csvimportdialog.cpp:451
 msgctxt "@info:whatsthis"
 msgid "Choose the character encoding of the data in your csv file."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:458
+#: xxport/csv/csvimportdialog.cpp:455
 msgctxt "@option:check"
 msgid "Skip first row of file"
 msgstr "Treci peste primul râand din fișier"
 
-#: xxport/csv/csvimportdialog.cpp:461
+#: xxport/csv/csvimportdialog.cpp:458
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Skip first row of file"
@@ -1591,7 +1591,7 @@ msgctxt "@info:tooltip"
 msgid "Skip first row of csv file when importing"
 msgstr "Treci peste primul râand din fișier"
 
-#: xxport/csv/csvimportdialog.cpp:464
+#: xxport/csv/csvimportdialog.cpp:461
 msgctxt "@info:whatsthis"
 msgid ""
 "Check this box if you want the import to skip over the first row of the csv "
@@ -1599,38 +1599,38 @@ msgid ""
 "describing the order of the data fields included in the file."
 msgstr ""
 
-#: xxport/csv/csvimportdialog.cpp:480
+#: xxport/csv/csvimportdialog.cpp:477
 msgctxt "@action:button"
 msgid "Apply Template..."
 msgstr "Aplica tipul..."
 
-#: xxport/csv/csvimportdialog.cpp:481
+#: xxport/csv/csvimportdialog.cpp:478
 msgctxt "@action:button"
 msgid "Save Template..."
 msgstr "Salvează tipul..."
 
-#: xxport/csv/csvimportdialog.cpp:500
+#: xxport/csv/csvimportdialog.cpp:499
 #, kde-format
 msgctxt "@item:inlistbox Codec setting"
 msgid "Local (%1)"
 msgstr "Local (%1)"
 
-#: xxport/csv/csvimportdialog.cpp:502
+#: xxport/csv/csvimportdialog.cpp:501
 msgctxt "@item:inlistbox Codec setting"
 msgid "Latin1"
 msgstr "Latin1"
 
-#: xxport/csv/csvimportdialog.cpp:503
+#: xxport/csv/csvimportdialog.cpp:502
 msgctxt "@item:inlistbox Codec setting"
 msgid "Unicode"
 msgstr "Unicode"
 
-#: xxport/csv/csvimportdialog.cpp:504
+#: xxport/csv/csvimportdialog.cpp:503
 msgctxt "@item:inlistbox Codec setting"
 msgid "Microsoft Unicode"
 msgstr "Microsoft Unicode"
 
-#: xxport/csv/csvimportdialog.cpp:609
+#: xxport/csv/csvimportdialog.cpp:608
 #, fuzzy
 #| msgctxt "@info:status"
 #| msgid "You have to assign at least one column."
@@ -1638,27 +1638,27 @@ msgctxt "@info:status"
 msgid "You must assign at least one column."
 msgstr "Trebuie să alocaţi cel puţin o coloană."
 
-#: xxport/csv/csvimportdialog.cpp:621
+#: xxport/csv/csvimportdialog.cpp:620
 msgctxt "@label"
 msgid "There are no templates available yet."
 msgstr "Nu există şabloane disponibile încă."
 
-#: xxport/csv/csvimportdialog.cpp:622
+#: xxport/csv/csvimportdialog.cpp:621
 msgctxt "@title:window"
 msgid "No templates available"
 msgstr "Nici un șablon disponibil"
 
-#: xxport/csv/csvimportdialog.cpp:688
+#: xxport/csv/csvimportdialog.cpp:687
 msgctxt "@title:window"
 msgid "Template Name"
 msgstr "Numele șablonului"
 
-#: xxport/csv/csvimportdialog.cpp:689
+#: xxport/csv/csvimportdialog.cpp:688
 msgctxt "@info"
 msgid "Please enter a name for the template:"
 msgstr "Vă rugăm să introduceţi un nume pentru şablon:"
 
-#: xxport/csv/csvimportdialog.cpp:738
+#: xxport/csv/csvimportdialog.cpp:737
 msgctxt "@info:status"
 msgid "Cannot open input file."
 msgstr "Nu poate fii deschis fisierul de intrare."

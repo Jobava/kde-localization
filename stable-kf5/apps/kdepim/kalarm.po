@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalarm\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-26 10:16+0000\n"
+"POT-Creation-Date: 2015-09-02 11:06+0000\n"
 "PO-Revision-Date: 2014-11-04 16:54+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -849,7 +849,7 @@ msgctxt "@info:shell"
 msgid "<icode>%1</icode>: invalid email address"
 msgstr "Adresă de e-mail eronată"
 
-#: commandoptions.cpp:300 commandoptions.cpp:315 commandoptions.cpp:391
+#: commandoptions.cpp:300 commandoptions.cpp:315 commandoptions.cpp:392
 #, kde-format
 msgctxt "@info:shell"
 msgid "Invalid <icode>%1</icode> parameter for date-only alarm"
@@ -862,7 +862,7 @@ msgctxt "@info:shell"
 msgid "<icode>%1</icode> earlier than <icode>%2</icode>"
 msgstr "%1 este incompatibil cu %2"
 
-#: commandoptions.cpp:324
+#: commandoptions.cpp:326
 #, kde-format
 msgctxt "@info:shell"
 msgid ""
@@ -872,7 +872,7 @@ msgstr ""
 "Parametri <icode>%1</icode> si <icode>%2</icode> nevalizi: repetiția este "
 "mai lungă decît <icode>%3</icode> intervalul"
 
-#: commandoptions.cpp:374
+#: commandoptions.cpp:375
 #, kde-format
 msgctxt "@info:shell"
 msgid ""
@@ -881,14 +881,14 @@ msgstr ""
 "<icode>%1</icode> necesită sinteza vocii pentru a fi configurată folosind "
 "Jovie"
 
-#: commandoptions.cpp:476
+#: commandoptions.cpp:477
 #, fuzzy
 #| msgid "%1 incompatible with %2"
 msgctxt "@info:shell"
 msgid ": option(s) only valid with an appropriate action option or message"
 msgstr "%1 este incompatibil cu %2"
 
-#: commandoptions.cpp:496
+#: commandoptions.cpp:497
 msgctxt "@info:shell"
 msgid ""
 "\n"
@@ -898,27 +898,27 @@ msgstr ""
 "Utilizați --ajutor pentru a obține o listă de opțiuni disponibile în linia "
 "de comandă.\n"
 
-#: commandoptions.cpp:525
+#: commandoptions.cpp:526
 #, fuzzy, kde-format
 #| msgid "%1 incompatible with %2"
 msgctxt "@info:shell"
 msgid "<icode>%1</icode> requires <icode>%2</icode>"
 msgstr "%1 este incompatibil cu %2"
 
-#: commandoptions.cpp:527
+#: commandoptions.cpp:528
 #, fuzzy, kde-format
 #| msgid "%1 incompatible with %2"
 msgctxt "@info:shell"
 msgid "<icode>%1</icode> requires <icode>%2</icode> or <icode>%3</icode>"
 msgstr "%1 este incompatibil cu %2"
 
-#: commandoptions.cpp:532
+#: commandoptions.cpp:533
 #, kde-format
 msgctxt "@info:shell"
 msgid "Invalid <icode>%1</icode> parameter"
 msgstr "Parametru <icode>%1</icode> nevalid"
 
-#: commandoptions.cpp:543
+#: commandoptions.cpp:544
 #, fuzzy, kde-format
 #| msgid "%1 incompatible with %2"
 msgctxt "@info:shell"
@@ -3584,7 +3584,7 @@ msgstr "Mesaj de alarmă personal, comandă și email programator pentru KDE"
 #: main.cpp:47
 #, fuzzy
 #| msgid "Copyright 2001-2011, David Jarvie"
-msgid "Copyright 2001-2014, David Jarvie"
+msgid "Copyright 2001-2015, David Jarvie"
 msgstr "Drept de autor 2001-2011, David Jarvie"
 
 #: main.cpp:55

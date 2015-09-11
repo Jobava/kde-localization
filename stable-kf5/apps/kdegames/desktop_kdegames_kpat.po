@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdegames\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-03 09:14+0000\n"
+"POT-Creation-Date: 2015-08-27 12:19+0000\n"
 "PO-Revision-Date: 2014-03-26 19:03+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Desert Sands"
 msgstr "Nisipuri din deșert"
 
-#: themes/ancientegypt.desktop:47
+#: themes/ancientegypt.desktop:48
 msgctxt "Description"
 msgid "Egyptian style theme."
 msgstr "Tematică în stil egiptean."
@@ -41,7 +41,7 @@ msgctxt "Name"
 msgid "Clean Green"
 msgstr "Verde curat"
 
-#: themes/cleangreen.desktop:46
+#: themes/cleangreen.desktop:47
 #, fuzzy
 #| msgctxt "Description"
 #| msgid "Simple KBreakOut theme"
@@ -59,7 +59,7 @@ msgctxt "Name"
 msgid "Older Theme"
 msgstr "Temă mai veche"
 
-#: themes/oldertheme.desktop:49
+#: themes/oldertheme.desktop:50
 msgctxt "Description"
 msgid "An older, unnamed KPat theme."
 msgstr ""

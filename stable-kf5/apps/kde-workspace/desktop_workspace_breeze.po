@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-07 11:30+0000\n"
+"POT-Creation-Date: 2015-09-10 12:53+0000\n"
 "PO-Revision-Date: 2015-04-20 14:41+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -41,14 +41,15 @@ msgstr "Briză Întunecat"
 
 #: icons-dark/index.theme:40
 msgctxt "Comment"
-msgid "Breeze icon theme for dark color schemes by the KDE Visual Design Group"
+msgid "KDE Plasma 5 Icon Theme for Dark themes"
 msgstr ""
-"Temă de pictograme Briză pentru scheme de culori întunecate, de „KDE Visual "
-"Design Group”"
 
 #: icons/index.theme:43
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Default Plasma 5 Theme"
 msgctxt "Comment"
-msgid "Default Plasma 5 Theme"
+msgid "Default Plasma 5 Theme GitHub"
 msgstr "Tema implicită pentru Plasma 5"
 
 #: kdecoration/config/breezedecorationconfig.desktop:12
@@ -90,3 +91,10 @@ msgstr "briză,breeze,widget,stil"
 msgctxt "Name"
 msgid "Next"
 msgstr "Următor"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Breeze icon theme for dark color schemes by the KDE Visual Design Group"
+#~ msgstr ""
+#~ "Temă de pictograme Briză pentru scheme de culori întunecate, de „KDE "
+#~ "Visual Design Group”"

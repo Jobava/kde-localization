@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-07 11:21+0000\n"
+"POT-Creation-Date: 2015-09-05 12:22+0000\n"
 "PO-Revision-Date: 2013-11-26 22:58+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -106,13 +106,13 @@ msgctxt "%1 is the name of the applet"
 msgid "%1 Options"
 msgstr ""
 
-#: plugin/host.cpp:370 plugin/protocols/plasmoid/plasmoidtask.cpp:286
+#: plugin/host.cpp:370 plugin/protocols/plasmoid/plasmoidtask.cpp:293
 #, kde-format
 msgctxt "%1 is the name of the containment"
 msgid "%1 Options"
 msgstr ""
 
-#: plugin/protocols/plasmoid/plasmoidtask.cpp:270
+#: plugin/protocols/plasmoid/plasmoidtask.cpp:277
 #, fuzzy
 #| msgid "SystemTray Settings"
 msgid "System Tray Options"

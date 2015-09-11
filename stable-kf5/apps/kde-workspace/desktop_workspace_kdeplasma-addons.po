@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_extragear-plasma_desktopthemes\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-19 11:26+0000\n"
+"POT-Creation-Date: 2015-08-29 12:02+0000\n"
 "PO-Revision-Date: 2014-04-04 18:47+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -179,7 +179,7 @@ msgctxt "Name"
 msgid "Application Dashboard"
 msgstr ""
 
-#: applets/kickerdash/metadata.desktop:25
+#: applets/kickerdash/metadata.desktop:28
 msgctxt "Comment"
 msgid "A fullscreen application launcher"
 msgstr ""
@@ -896,7 +896,7 @@ msgctxt "Name"
 msgid "Ascii Animals"
 msgstr "Animale ASCII"
 
-#: wallpapers/animals/metadata.desktop:44
+#: wallpapers/animals/metadata.desktop:45
 msgctxt "Comment"
 msgid "Unsure if cute or just nerdy"
 msgstr ""

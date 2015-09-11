@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmail\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-26 10:16+0000\n"
+"POT-Creation-Date: 2015-09-08 13:49+0000\n"
 "PO-Revision-Date: 2014-03-26 19:01+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1080,72 +1080,72 @@ msgstr ""
 msgid "Sorting"
 msgstr "Sortare"
 
-#: pane.cpp:148
+#: pane.cpp:149
 msgctxt "@info:tooltip"
 msgid "Open a new tab"
 msgstr "Deschide o filă nouă"
 
-#: pane.cpp:150
+#: pane.cpp:151
 msgid "New tab"
 msgstr "Filă nouă"
 
-#: pane.cpp:159
+#: pane.cpp:160
 msgctxt "@info:tooltip"
 msgid "Close the current tab"
 msgstr "Închide fila curentă"
 
-#: pane.cpp:161
+#: pane.cpp:162
 msgid "Close tab"
 msgstr "Închide fila"
 
-#: pane.cpp:200
+#: pane.cpp:202
 #, kde-format
 msgid "Activate Tab %1"
 msgstr "Activează fila %1"
 
-#: pane.cpp:210
+#: pane.cpp:220
 msgid "Show Quick Search Bar"
 msgstr "Arată bara de căutare rapidă"
 
-#: pane.cpp:227
+#: pane.cpp:237
 msgid "Message List"
 msgstr "Lista de mesaje"
 
-#: pane.cpp:233
+#: pane.cpp:243
 msgid "Create New Tab"
 msgstr "Creează o filă nouă"
 
-#: pane.cpp:244
+#: pane.cpp:254
 msgid "Close Tab"
 msgstr "Închide fila"
 
-#: pane.cpp:251
+#: pane.cpp:261
 msgid "Activate Next Tab"
 msgstr "Activează fila următoare"
 
-#: pane.cpp:256
+#: pane.cpp:266
 msgid "Activate Previous Tab"
 msgstr "Activează fila precedentă"
 
-#: pane.cpp:261
+#: pane.cpp:271
 msgid "Move Tab Left"
 msgstr "Mută fila la stînga"
 
-#: pane.cpp:266
+#: pane.cpp:276
 msgid "Move Tab Right"
 msgstr "Mută fila la dreapta"
 
-#: pane.cpp:479 pane.cpp:738
+#: pane.cpp:489 pane.cpp:748
 msgctxt "@title:tab Empty messagelist"
 msgid "Empty"
 msgstr "Gol"
 
-#: pane.cpp:669
+#: pane.cpp:679
 msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr "Închide fila"
 
-#: pane.cpp:672
+#: pane.cpp:682
 msgctxt "@action:inmenu"
 msgid "Close All Other Tabs"
 msgstr "Închide toate celelalte file"

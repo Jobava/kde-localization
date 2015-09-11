@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdeedu\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-02 09:29+0000\n"
+"POT-Creation-Date: 2015-08-23 11:19+0000\n"
 "PO-Revision-Date: 2008-12-06 20:03+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
@@ -24,7 +24,7 @@ msgctxt "Name"
 msgid "Assign Values Plugin"
 msgstr ""
 
-#: libgraphtheory/editorplugins/assignvalues/assignvaluesplugin.desktop:32
+#: libgraphtheory/editorplugins/assignvalues/assignvaluesplugin.desktop:33
 msgctxt "Comment"
 msgid "Assign values to graph edges and nodes."
 msgstr ""
@@ -54,7 +54,7 @@ msgctxt "Name"
 msgid "DOT Graph File Format"
 msgstr ""
 
-#: libgraphtheory/fileformats/dot/dotfileformat.desktop:31
+#: libgraphtheory/fileformats/dot/dotfileformat.desktop:32
 msgctxt "Comment"
 msgid "Read and write Graphviz graph documents (DOT)"
 msgstr ""
@@ -64,7 +64,7 @@ msgctxt "Name"
 msgid "GML File Format"
 msgstr ""
 
-#: libgraphtheory/fileformats/gml/gmlfileformat.desktop:31
+#: libgraphtheory/fileformats/gml/gmlfileformat.desktop:32
 msgctxt "Comment"
 msgid "Read and write Graph Markup Language documents (GML)"
 msgstr ""
@@ -74,7 +74,7 @@ msgctxt "Name"
 msgid "Rocs File Format (old)"
 msgstr ""
 
-#: libgraphtheory/fileformats/rocs1/rocs1fileformat.desktop:31
+#: libgraphtheory/fileformats/rocs1/rocs1fileformat.desktop:32
 msgctxt "Comment"
 msgid "Rocs Graph File Format (old)"
 msgstr ""
@@ -84,7 +84,7 @@ msgctxt "Name"
 msgid "Rocs File Format"
 msgstr ""
 
-#: libgraphtheory/fileformats/rocs2/rocs2fileformat.desktop:31
+#: libgraphtheory/fileformats/rocs2/rocs2fileformat.desktop:32
 msgctxt "Comment"
 msgid "Rocs Graph File Format"
 msgstr ""
@@ -94,7 +94,7 @@ msgctxt "Name"
 msgid "TGF Graph File Format"
 msgstr ""
 
-#: libgraphtheory/fileformats/tgf/tgffileformat.desktop:31
+#: libgraphtheory/fileformats/tgf/tgffileformat.desktop:32
 msgctxt "Comment"
 msgid "Read and write graph documents in Trivial Graph Format (TGF)"
 msgstr ""
@@ -104,7 +104,7 @@ msgctxt "Name"
 msgid "PGF/TikZ Graph File Export Plugin"
 msgstr ""
 
-#: libgraphtheory/fileformats/tikz/tikzfileformat.desktop:31
+#: libgraphtheory/fileformats/tikz/tikzfileformat.desktop:32
 msgctxt "Comment"
 msgid "Writes graph documents in PGF/TikZ format for use in LaTeX documents"
 msgstr ""

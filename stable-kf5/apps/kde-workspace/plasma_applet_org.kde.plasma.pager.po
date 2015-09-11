@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_pager\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-11 14:20+0000\n"
+"POT-Creation-Date: 2015-09-07 11:03+0000\n"
 "PO-Revision-Date: 2013-11-23 20:38+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -84,7 +84,7 @@ msgstr "&Elimină ultimul birou virtual"
 msgid "Configure Desktops"
 msgstr "Configurare birouri..."
 
-#: package/contents/ui/main.qml:216
+#: package/contents/ui/main.qml:218
 #, fuzzy, kde-format
 #| msgid "One window:"
 #| msgid_plural "%1 windows:"
@@ -94,7 +94,7 @@ msgstr[0] "O fereastră:"
 msgstr[1] "O fereastră:"
 msgstr[2] "O fereastră:"
 
-#: package/contents/ui/main.qml:229
+#: package/contents/ui/main.qml:231
 #, fuzzy, kde-format
 #| msgid "and 1 other"
 #| msgid_plural "and %1 others"

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-07 11:30+0000\n"
+"POT-Creation-Date: 2015-09-01 13:43+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -60,12 +60,12 @@ msgctxt "X-KDE-Keywords"
 msgid "information,distribution,distro,system,kernel,qt,kde"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:44
+#: Modules/about-distro/src/about-distro.desktop:45
 msgctxt "Name"
 msgid "About System"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:76
+#: Modules/about-distro/src/about-distro.desktop:78
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Information about files and directories."
@@ -97,17 +97,17 @@ msgctxt "Name"
 msgid "Energy Information"
 msgstr "Informații despre memorie"
 
-#: Modules/energy/kcm_energyinfo.desktop:41
+#: Modules/energy/kcm_energyinfo.desktop:42
 msgctxt "Comment"
 msgid "Energy Consumption Statistics"
 msgstr ""
 
-#: Modules/energy/kcm_energyinfo.desktop:74
+#: Modules/energy/kcm_energyinfo.desktop:76
 msgctxt "X-KDE-Keywords"
 msgid "Battery,Energy,Statistics,History,Power"
 msgstr ""
 
-#: Modules/energy/package/metadata.desktop:34
+#: Modules/energy/package/metadata.desktop:35
 msgctxt "Comment"
 msgid "Statistics about energy consumption"
 msgstr ""
