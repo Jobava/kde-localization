@@ -1,22 +1,23 @@
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-#
 # Sergiu Bivol <sergiu@ase.md>, 2012, 2013.
+# Tatiana Țurcanu <turcanu DOT tatiana91 AT gmail DOT com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2015-08-20 09:03+0000\n"
-"PO-Revision-Date: 2013-10-13 13:09+0300\n"
-"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
-"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"PO-Revision-Date: 2015-09-20 16:55+0000\n"
+"Last-Translator: Tatiana Țurcanu <turcanu DOT tatiana91 AT gmail DOT com>\n"
+"Language-Team: Romanian KDE Localization Team\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: kde\n"
 
 #: package/contents/code/tools.js:47
 msgid "Remove from Favorites"
@@ -35,48 +36,46 @@ msgid "(Empty)"
 msgstr "(gol)"
 
 #: package/contents/ui/ConfigGeneral.qml:52
-#, fuzzy
 #| msgid "Icon:"
 msgid "Icon"
-msgstr "Pictogramă:"
+msgstr "Pictogramă"
 
 #: package/contents/ui/ConfigGeneral.qml:60
 msgid "Use custom image:"
-msgstr ""
+msgstr "Folosește o imagine personalizată:"
 
 #: package/contents/ui/ConfigGeneral.qml:85
 msgid "Choose an image"
-msgstr ""
+msgstr "Alege o imagine"
 
 #: package/contents/ui/ConfigGeneral.qml:90
 msgid "Image Files (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)"
-msgstr ""
+msgstr "Fișiere imagine (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)"
 
 #: package/contents/ui/ConfigGeneral.qml:106
 msgid "Behavior"
-msgstr ""
+msgstr "Comportament"
 
 #: package/contents/ui/ConfigGeneral.qml:113
-#, fuzzy
 #| msgid "Applications"
 msgid "Show applications as:"
-msgstr "Aplicații"
+msgstr "Arată aplicațiile ca:"
 
 #: package/contents/ui/ConfigGeneral.qml:121
 msgid "Name only"
-msgstr ""
+msgstr "Doar nume"
 
 #: package/contents/ui/ConfigGeneral.qml:121
 msgid "Description only"
-msgstr ""
+msgstr "Doar descriere"
 
 #: package/contents/ui/ConfigGeneral.qml:121
 msgid "Name (Description)"
-msgstr ""
+msgstr "Nume (Descriere)"
 
 #: package/contents/ui/ConfigGeneral.qml:121
 msgid "Description (Name)"
-msgstr ""
+msgstr "Descriere (Nume)"
 
 #: package/contents/ui/ConfigGeneral.qml:130
 msgid "Flatten menu to a single level"
@@ -84,29 +83,26 @@ msgstr ""
 
 #: package/contents/ui/ConfigGeneral.qml:138
 msgid "Categories"
-msgstr ""
+msgstr "Categorii"
 
 #: package/contents/ui/ConfigGeneral.qml:146
-#, fuzzy
 #| msgid "Applications"
 msgid "Show recent applications"
-msgstr "Aplicații"
+msgstr "Arată aplicațiile recente"
 
 #: package/contents/ui/ConfigGeneral.qml:152
-#, fuzzy
 #| msgid "Recent Documents"
 msgid "Show recent documents"
-msgstr "Documente recente"
+msgstr "Arată documentele recente"
 
 #: package/contents/ui/ConfigGeneral.qml:158
 msgid "Show recent contacts"
-msgstr ""
+msgstr "Arată contactele recente"
 
 #: package/contents/ui/ConfigGeneral.qml:166
-#, fuzzy
 #| msgid "Type to search..."
 msgid "Search"
-msgstr "Tastați pentru a căuta..."
+msgstr "Caută"
 
 #: package/contents/ui/ConfigGeneral.qml:174
 msgid "Expand search to bookmarks, files and emails"
@@ -114,35 +110,32 @@ msgstr ""
 
 #: package/contents/ui/ConfigGeneral.qml:182
 msgid "Align search results to bottom"
-msgstr ""
+msgstr "Aliniază rezultatele căutate în partea de jos"
 
 #: package/contents/ui/DashboardRepresentation.qml:243
 #, kde-format
 msgid "Searching for '%1'"
-msgstr ""
+msgstr "Se caută după „%1”"
 
 #: package/contents/ui/DashboardRepresentation.qml:243
 msgid "Type to search."
-msgstr ""
+msgstr "Tastați pentru a căuta."
 
 #: package/contents/ui/DashboardRepresentation.qml:311
 #: plugin/favoritesmodel.cpp:40
-#, fuzzy
 #| msgid "Favorite Places"
 msgid "Favorites"
-msgstr "Locuri favorite"
+msgstr "Favorite"
 
 #: package/contents/ui/main.qml:228
-#, fuzzy
 #| msgid "Applications"
 msgid "Edit Applications..."
-msgstr "Aplicații"
+msgstr "Editează aplicațiile..."
 
 #: package/contents/ui/MenuRepresentation.qml:312
-#, fuzzy
 #| msgid "Type to search..."
 msgid "Search..."
-msgstr "Tastați pentru a căuta..."
+msgstr "Caută..."
 
 #: plugin/actionlist.cpp:82
 msgid "Open with:"
@@ -157,10 +150,9 @@ msgid "Recent Documents"
 msgstr "Documente recente"
 
 #: plugin/actionlist.cpp:199
-#, fuzzy
 #| msgid "Recent Documents"
 msgid "Forget Recent Documents"
-msgstr "Documente recente"
+msgstr "Uită documentele recente"
 
 #: plugin/appentry.cpp:145
 msgid "Add to Desktop"
@@ -172,13 +164,12 @@ msgstr "Adaugă la panou"
 
 #: plugin/appentry.cpp:153
 msgid "Add as Launcher"
-msgstr ""
+msgstr "Adaugă ca lansator"
 
 #: plugin/appentry.cpp:159
-#, fuzzy
 #| msgid "Applications"
 msgid "Edit Application..."
-msgstr "Aplicații"
+msgstr "Editează aplicația..."
 
 #: plugin/appentry.cpp:176
 #, fuzzy, kde-format
@@ -187,26 +178,24 @@ msgid "Remove '%1'..."
 msgstr "Scoate în &siguranță „%1”"
 
 #: plugin/appentry.cpp:186
-#, fuzzy
 #| msgid "Applications"
 msgid "Hide Application"
-msgstr "Aplicații"
+msgstr "Ascunde aplicația"
 
 #: plugin/appentry.cpp:250
 #, kde-format
 msgctxt "App name (Generic name)"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: plugin/appentry.cpp:252
 #, kde-format
 msgctxt "Generic name (App name)"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: plugin/appsmodel.cpp:36 plugin/appsmodel.cpp:54
 #: plugin/recentappsmodel.cpp:58
-#, fuzzy
 #| msgctxt "Tab title"
 #| msgid "Applications"
 msgid "Applications"
@@ -227,138 +216,120 @@ msgid "Show Contact Information..."
 msgstr ""
 
 #: plugin/recentappsmodel.cpp:92
-#, fuzzy
 #| msgid "Favorite Applications"
 msgid "Forget Application"
-msgstr "Aplicații favorite"
+msgstr "Uită aplicația"
 
 #: plugin/recentappsmodel.cpp:95 plugin/recentappsmodel.cpp:171
-#, fuzzy
 #| msgid "Favorite Applications"
 msgid "Forget All Applications"
-msgstr "Aplicații favorite"
+msgstr "Uită toate aplicațiile"
 
 #: plugin/recentcontactsmodel.cpp:52
-#, fuzzy
 #| msgid "Recent Documents"
 msgid "Contacts"
-msgstr "Documente recente"
+msgstr "Contacte"
 
 #: plugin/recentcontactsmodel.cpp:85
-#, fuzzy
 #| msgid "Forget Document"
 msgid "Forget Contact"
-msgstr "Uită documentul"
+msgstr "Uită contactul"
 
 #: plugin/recentcontactsmodel.cpp:88 plugin/recentcontactsmodel.cpp:163
-#, fuzzy
 #| msgid "Forget Document"
 msgid "Forget All Contacts"
-msgstr "Uită documentul"
+msgstr "Uită toate contactele"
 
 #: plugin/recentdocsmodel.cpp:50
-#, fuzzy
 #| msgid "Recent Documents"
 msgid "Documents"
-msgstr "Documente recente"
+msgstr "Documente"
 
 #: plugin/recentdocsmodel.cpp:79
 msgid "Forget Document"
 msgstr "Uită documentul"
 
 #: plugin/recentdocsmodel.cpp:82 plugin/recentdocsmodel.cpp:140
-#, fuzzy
 #| msgid "Forget Document"
 msgid "Forget All Documents"
-msgstr "Uită documentul"
+msgstr "Uită toate documentele"
 
 #: plugin/rootmodel.cpp:104
 #, kde-format
 msgid "Hide %1"
-msgstr ""
+msgstr "Ascunde %1"
 
 #: plugin/rootmodel.cpp:291
 msgid "All Applications"
 msgstr "Toate aplicațiile"
 
 #: plugin/rootmodel.cpp:296
-#, fuzzy
 #| msgid "Recent Documents"
 msgid "Recent Contacts"
-msgstr "Documente recente"
+msgstr "Contacte recente"
 
 #: plugin/rootmodel.cpp:306
-#, fuzzy
 #| msgid "Applications"
 msgid "Recent Applications"
-msgstr "Aplicații"
+msgstr "Aplicații recente"
 
 #: plugin/rootmodel.cpp:310
-#, fuzzy
 #| msgctxt "an action"
 #| msgid "New Session"
 msgid "Power / Session"
-msgstr "Sesiune nouă"
+msgstr "Oprire / Sesiune"
 
 #: plugin/systementry.cpp:163
-#, fuzzy
 #| msgctxt "an action"
 #| msgid "Lock"
 msgid "Lock"
-msgstr "Blochează"
+msgstr "Blocare"
 
 #: plugin/systementry.cpp:166
-#, fuzzy
 #| msgctxt "an action"
 #| msgid "Logout"
 msgid "Logout"
-msgstr "Ieșire din sistem"
+msgstr "Ieșire"
 
 #: plugin/systementry.cpp:169
-#, fuzzy
 #| msgctxt "an action"
 #| msgid "New Session"
 msgid "Save Session"
-msgstr "Sesiune nouă"
+msgstr "Salvează sesiune"
 
 #: plugin/systementry.cpp:172
-#, fuzzy
 #| msgctxt "an action"
 #| msgid "New Session"
 msgid "New Session"
 msgstr "Sesiune nouă"
 
 #: plugin/systementry.cpp:175
-#, fuzzy
 #| msgctxt "an action"
 #| msgid "Suspend"
 msgid "Suspend"
-msgstr "Suspendă"
+msgstr "Suspendare"
 
 #: plugin/systementry.cpp:178
-#, fuzzy
 #| msgctxt "an action"
 #| msgid "Hibernate"
 msgid "Hibernate"
-msgstr "Hibernează"
+msgstr "Hibernare"
 
 #: plugin/systementry.cpp:181
-#, fuzzy
 #| msgctxt "an action"
 #| msgid "Restart"
 msgid "Restart"
-msgstr "Repornește"
+msgstr "Repornire"
 
 #: plugin/systementry.cpp:184
-#, fuzzy
 #| msgctxt "an action"
 #| msgid "Shutdown"
 msgid "Shutdown"
-msgstr "Oprește"
+msgstr "Oprire"
 
 #: plugin/systemmodel.cpp:57
 msgid "System actions"
-msgstr ""
+msgstr "Acțiuni de sistem"
 
 #, fuzzy
 #~| msgid "Recent Documents"
