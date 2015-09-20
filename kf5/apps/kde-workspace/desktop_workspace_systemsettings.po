@@ -6,26 +6,29 @@
 # Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2009, 2010, 2012, 2013, 2014.
 # Cristian Oneț <onet.cristian@gmail.com>, 2011, 2012.
 # Cristian Buzduga <cristianbzdg@gmail.com>, 2011.
+# Viorel-Cătălin Răpițeanu <rapiteanu DOT catalin AT gmail DOT com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2015-07-27 08:21+0000\n"
-"PO-Revision-Date: 2014-03-25 01:34+0200\n"
-"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
-"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"PO-Revision-Date: 2015-09-20 19:25+0300\n"
+"Last-Translator: Viorel-Cătălin Răpițeanu <rapiteanu DOT catalin AT gmail "
+"DOT com>\n"
+"Language-Team: Romanian KDE Localization Team\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: kde\n"
 
 #: app/kdesystemsettings.desktop:8
 msgctxt "GenericName"
 msgid "KDE System Settings"
-msgstr "Configurări de sistem"
+msgstr "Configurări de sistem KDE"
 
 #: app/kdesystemsettings.desktop:64
 msgctxt "Name"
@@ -187,140 +190,128 @@ msgid "Workspace Behavior"
 msgstr "Comportament spațiu de lucru"
 
 #: categories/settings-appearance-applicationstyle.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Application Appearance"
 msgctxt "Name"
 msgid "Application Style"
-msgstr "Aspect aplicații"
+msgstr "Stil aplicații"
 
 #: categories/settings-appearance-color.desktop:9
 msgctxt "Name"
 msgid "Color"
-msgstr ""
+msgstr "Culoare"
 
 #: categories/settings-appearance.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Workspace Appearance"
 msgctxt "Name"
 msgid "Appearance"
-msgstr "Aspect spațiu de lucru"
+msgstr "Aspect"
 
 #: categories/settings-appearance-font.desktop:9
 msgctxt "Name"
 msgid "Font"
-msgstr ""
+msgstr "Font"
 
 #: categories/settings-appearance-icons.desktop:9
 msgctxt "Name"
 msgid "Icons"
-msgstr ""
+msgstr "Pictograme"
 
 #: categories/settings-appearance-workspacetheme.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Workspace Appearance"
 msgctxt "Name"
 msgid "Workspace Theme"
-msgstr "Aspect spațiu de lucru"
+msgstr "Tema pentru spațiul de lucru"
 
 #: categories/settings-hardware-peripherals.desktop:9
 msgctxt "Name"
 msgid "Peripherals"
-msgstr ""
+msgstr "Periferice"
 
 #: categories/settings-network-connectivity.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Network and Connectivity"
 msgctxt "Name"
 msgid "Connectivity"
-msgstr "Rețea și conectivitate"
+msgstr "Conectivitate"
 
 #: categories/settings-network.desktop:8
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Network Settings"
 msgctxt "Name"
 msgid "Network"
-msgstr "Configurări rețea"
+msgstr "Rețea"
 
 #: categories/settings-network-networksettings.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "System Settings"
 msgctxt "Name"
 msgid "Settings"
-msgstr "Configurări de sistem"
+msgstr "Configurări"
 
 #: categories/settings-personalization-applications.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Application Appearance"
 msgctxt "Name"
 msgid "Applications"
-msgstr "Aspect aplicații"
+msgstr "Aplicații"
 
 #: categories/settings-personalization.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Personal Information"
 msgctxt "Name"
 msgid "Personalization"
-msgstr "Informații personale"
+msgstr "Personalizare"
 
 #: categories/settings-personalization-notification.desktop:9
 msgctxt "Name"
 msgid "Notification"
-msgstr ""
+msgstr "Notificare"
 
 #: categories/settings-personalization-regionalsettings.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Network Settings"
 msgctxt "Name"
 msgid "Regional Settings"
-msgstr "Configurări rețea"
+msgstr "Configurări regionale"
 
 #: categories/settings-workspace.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Workspace Behavior"
 msgctxt "Name"
 msgid "Workspace"
-msgstr "Comportament spațiu de lucru"
+msgstr "Spațiu de lucru"
 
 #: categories/settings-workspace-desktopbehavior.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Workspace Behavior"
 msgctxt "Name"
 msgid "Desktop Behavior"
-msgstr "Comportament spațiu de lucru"
+msgstr "Comportament pentru birou"
 
 #: categories/settings-workspace-search.desktop:9
 msgctxt "Name"
 msgid "Search"
-msgstr ""
+msgstr "Caută"
 
 #: categories/settings-workspace-shortcuts.desktop:9
 msgctxt "Name"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Scurtături"
 
 #: categories/settings-workspace-windowmanagement.desktop:9
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Power Management"
 msgctxt "Name"
 msgid "Window Management"
-msgstr "Gestiune energie"
+msgstr "Gestionar de ferestre"
 
 #: categories/systemsettingscategory.desktop:4
 msgctxt "Name"
 msgid "System Settings Category"
-msgstr "Categorie Configurări de sistem"
+msgstr "Categorie configurări de sistem"
 
 #: classic/settings-classic-view.desktop:7 icons/settings-icon-view.desktop:7
 msgctxt "X-KDE-Keywords"
@@ -335,17 +326,17 @@ msgstr "Vizualizare arborescentă clasică"
 #: classic/settings-classic-view.desktop:134
 msgctxt "Comment"
 msgid "A Classic KDE 3 KControl style system settings view."
-msgstr "Vizualizare clasică KControl KDE 3 pentru Configurări de sistem."
+msgstr "Vizualizare clasică KControl KDE 3 pentru configurări de sistem."
 
 #: core/systemsettingsexternalapp.desktop:4
 msgctxt "Name"
 msgid "System Settings External Application"
-msgstr "Aplicație externă Configurări de sistem"
+msgstr "Aplicație externă configurări de sistem"
 
 #: core/systemsettingsview.desktop:4
 msgctxt "Name"
 msgid "System Settings View"
-msgstr "Vizualizare Configurări de sistem"
+msgstr "Vizualizare configurări de sistem"
 
 #: icons/settings-icon-view.desktop:64
 msgctxt "Name"

@@ -1,22 +1,24 @@
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-#
 # Sergiu Bivol <sergiu@ase.md>, 2013.
+# Viorel-Cătălin Răpițeanu <rapiteanu DOT catalin AT gmail DOT com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:22+0000\n"
-"PO-Revision-Date: 2013-11-23 20:35+0200\n"
-"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
-"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"POT-Creation-Date: 2015-08-22 09:15+0000\n"
+"PO-Revision-Date: 2015-09-07 22:21+0300\n"
+"Last-Translator: Viorel-Cătălin Răpițeanu <rapiteanu DOT catalin AT gmail "
+"DOT com>\n"
+"Language-Team: Romanian KDE Localization Team\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: kde\n"
 
 #: core/applicationmodel.cpp:296
 msgid "Recently Installed"
@@ -30,7 +32,7 @@ msgstr "Toate aplicațiile"
 msgid "Favorites"
 msgstr "Favorite"
 
-#: core/favoritesmodel.cpp:385
+#: core/favoritesmodel.cpp:384
 msgctxt "@title:column"
 msgid "Favorites"
 msgstr "Favorite"
@@ -102,10 +104,9 @@ msgid "Suspend to disk"
 msgstr "Suspendă pe disc"
 
 #: core/leavemodel.cpp:85
-#, fuzzy
 #| msgid "Suspend to RAM"
 msgid "Suspend"
-msgstr "Suspendă în RAM"
+msgstr "Suspendă"
 
 #: core/leavemodel.cpp:86
 msgid "Suspend to RAM"
@@ -174,45 +175,41 @@ msgstr "Calculator"
 
 #: package/contents/config/config.qml:25
 msgid "Appearance"
-msgstr ""
+msgstr "Aspect"
 
 #: package/contents/ui/ApplicationsView.qml:291
-#, fuzzy
 #| msgid "Applications"
 msgid "Applications updated."
 msgstr "Aplicații"
 
 #: package/contents/ui/configGeneral.qml:50
 msgid "Icon:"
-msgstr ""
+msgstr "Pictogramă:"
 
 #: package/contents/ui/configGeneral.qml:84
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose..."
-msgstr ""
+msgstr "Alegeți..."
 
 #: package/contents/ui/configGeneral.qml:89
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
-msgstr ""
+msgstr "Resetați pictograma"
 
 #: package/contents/ui/configGeneral.qml:98
-#, fuzzy
 #| msgid "Switch tabs on hover:"
 msgid "Switch tabs on hover"
-msgstr "Comută filele la planare:"
+msgstr "Comută filele la planare"
 
 #: package/contents/ui/configGeneral.qml:103
-#, fuzzy
 #| msgid "Show applications by name:"
 msgid "Show applications by name"
-msgstr "Arată aplicațiile după denumire:"
+msgstr "Arată aplicațiile după denumire"
 
 #: package/contents/ui/configGeneral.qml:108
-#, fuzzy
 #| msgid "Show 'Recently Installed':"
 msgid "Show 'Recently Installed'"
-msgstr "Arată „Instalate recent”:"
+msgstr "Arată „Instalate recent”"
 
 #: package/contents/ui/ContextMenu.qml:45
 msgid "Remove From Favorites"
@@ -236,28 +233,27 @@ msgstr "Sortează alfabetic (Z la A)"
 
 #: package/contents/ui/FullRepresentation.qml:389
 msgid "History"
-msgstr ""
+msgstr "Istoric"
 
 #: package/contents/ui/Header.qml:144
 #, kde-format
 msgid "%2@%3 (%1)"
-msgstr ""
+msgstr "%2@%3 (%1)"
 
 #: package/contents/ui/Header.qml:144
 #, kde-format
 msgid "%1@%2"
-msgstr ""
+msgstr "%1@%2"
 
 #: package/contents/ui/Header.qml:158 package/contents/ui/Header.qml:181
 msgctxt "Type is a verb here, not a noun"
 msgid "Type to search..."
-msgstr ""
+msgstr "Tastați pentru a căuta..."
 
 #: package/contents/ui/Kickoff.qml:48
-#, fuzzy
 #| msgid "Applications"
 msgid "Edit Applications..."
-msgstr "Aplicații"
+msgstr "Editează aplicațiile..."
 
 #: package/contents/ui/RecentlyUsedView.qml:37
 msgid "Clear Recent Applications"
