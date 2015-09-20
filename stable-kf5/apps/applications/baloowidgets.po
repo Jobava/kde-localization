@@ -2,26 +2,27 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Sergiu Bivol <sergiu@ase.md>, 2012.
+# cornel <meriutacornel@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2015-08-14 10:51+0000\n"
-"PO-Revision-Date: 2012-12-12 18:12+0200\n"
-"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
-"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"PO-Revision-Date: 2015-09-13 10:10+0100\n"
+"Last-Translator: cornel <meriutacornel@gmail.com>\n"
+"Language-Team: Romanian <kde-i18n-doc@kde.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
 
 #: src/filemetadataprovider.cpp:202
 msgctxt "unknown file size"
 msgid "Unknown"
-msgstr ""
+msgstr "Necunoscut"
 
 #: src/filemetadataprovider.cpp:204 src/filemetadataprovider.cpp:230
 #, kde-format
@@ -99,7 +100,7 @@ msgstr "Adaugă comentariu"
 
 #: src/keditcommentdialog.cpp:45 src/kedittagsdialog.cpp:53
 msgid "Save"
-msgstr ""
+msgstr "Salvează"
 
 #: src/kedittagsdialog.cpp:48
 msgctxt "@title:window"
@@ -126,40 +127,39 @@ msgctxt ""
 "This is added to the query builder widget when a proposal containing a "
 "placeholder is selected"
 msgid "[something]"
-msgstr ""
+msgstr "[ceva]"
 
 #: src/querybuildercompleter.cpp:91
 msgctxt "Pattern placeholder having no specific type"
 msgid "[something]"
-msgstr ""
+msgstr "[ceva]"
 
 #: src/querybuildercompleter.cpp:95
 msgctxt "Pattern placeholder of date-time type"
 msgid "[date and time]"
-msgstr ""
+msgstr "[data și ora]"
 
 #: src/querybuildercompleter.cpp:99
 msgctxt "Pattern placeholder for a tag name"
 msgid "[tag name]"
-msgstr ""
+msgstr "[nume de marcaj]"
 
 #: src/querybuildercompleter.cpp:103
-#, fuzzy
 #| msgctxt "@option:check A filter on resource type"
 #| msgid "Contacts"
 msgctxt "Pattern placeholder for a contact identifier"
 msgid "[contact]"
-msgstr "Contacte"
+msgstr "[contact]"
 
 #: src/querybuildercompleter.cpp:107
 msgctxt "Pattern placeholder for an e-mail address"
 msgid "[email address]"
-msgstr ""
+msgstr "[adresa de email]"
 
 #: src/querybuildercompleter.cpp:111
 msgctxt "Pattern placeholder for a standard property name"
 msgid "[property]"
-msgstr ""
+msgstr "[proprietate]"
 
 #: src/tagwidget.cpp:85
 msgctxt "@label"
