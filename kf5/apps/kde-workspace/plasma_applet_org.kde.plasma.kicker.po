@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2015-08-20 09:03+0000\n"
-"PO-Revision-Date: 2015-09-20 16:55+0000\n"
+"PO-Revision-Date: 2015-09-20 19:12+0000\n"
 "Last-Translator: Tatiana Țurcanu <turcanu DOT tatiana91 AT gmail DOT com>\n"
 "Language-Team: Romanian KDE Localization Team\n"
 "Language: ro\n"
@@ -63,19 +63,19 @@ msgstr "Arată aplicațiile ca:"
 
 #: package/contents/ui/ConfigGeneral.qml:121
 msgid "Name only"
-msgstr "Doar nume"
+msgstr "Doar numele"
 
 #: package/contents/ui/ConfigGeneral.qml:121
 msgid "Description only"
-msgstr "Doar descriere"
+msgstr "Doar descrierea"
 
 #: package/contents/ui/ConfigGeneral.qml:121
 msgid "Name (Description)"
-msgstr "Nume (Descriere)"
+msgstr "Nume (descriere)"
 
 #: package/contents/ui/ConfigGeneral.qml:121
 msgid "Description (Name)"
-msgstr "Descriere (Nume)"
+msgstr "Descriere (nume)"
 
 #: package/contents/ui/ConfigGeneral.qml:130
 msgid "Flatten menu to a single level"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: package/contents/ui/ConfigGeneral.qml:182
 msgid "Align search results to bottom"
-msgstr "Aliniază rezultatele căutate în partea de jos"
+msgstr "Aliniază rezultatele căutării în partea de jos"
 
 #: package/contents/ui/DashboardRepresentation.qml:243
 #, kde-format
