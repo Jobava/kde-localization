@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmailcvt\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:13+0000\n"
+"POT-Creation-Date: 2015-09-17 09:25+0000\n"
 "PO-Revision-Date: 2011-05-01 13:49+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
@@ -113,6 +113,10 @@ msgstr ""
 
 #: filterevolution.cpp:30
 msgid "Import Evolution 1.x Local Mails and Folder Structure"
+msgstr ""
+
+#: filterevolution.cpp:31
+msgid "Simon MARTIN<br /><br />( Filter accelerated by Danny Kukawka )"
 msgstr ""
 
 #: filterevolution.cpp:32
@@ -338,6 +342,10 @@ msgstr "Mesaj %1"
 msgid "Import From OS X Mail"
 msgstr "Importare din OS X Mail"
 
+#: filtermailapp.cpp:44
+msgid "Chris Howells<br /><br />Filter accelerated by Danny Kukawka )"
+msgstr ""
+
 #: filtermailapp.cpp:45
 msgid ""
 "<p><b>OS X Mail Import Filter</b></p><p>This filter imports e-mails from the "
@@ -378,6 +386,10 @@ msgstr "Imposibil de deschis cutia poștală %1"
 #: filtermbox.cpp:28
 msgid "Import mbox Files (UNIX, Evolution)"
 msgstr "Importă fișiere mbox (UNIX, Evolution)"
+
+#: filtermbox.cpp:29 filterplain.cpp:27
+msgid "Laurence Anderson <p>( Filter accelerated by Danny Kukawka )</p>"
+msgstr ""
 
 #: filtermbox.cpp:30
 msgid ""
@@ -476,10 +488,6 @@ msgstr "Numărare fișiere..."
 #, fuzzy
 msgid "Import Plain Text Emails"
 msgstr "Importare Outlook Express 4"
-
-#: filterplain.cpp:27
-msgid "Laurence Anderson <p>( Filter accelerated by Danny Kukawka )</p>"
-msgstr ""
 
 #: filterplain.cpp:28
 msgid ""

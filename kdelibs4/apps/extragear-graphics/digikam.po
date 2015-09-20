@@ -42,7 +42,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: digikam\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-09 01:50+0000\n"
+"POT-Creation-Date: 2015-09-17 01:56+0000\n"
 "PO-Revision-Date: 2013-07-06 00:27+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1837,8 +1837,8 @@ msgid "Next Image"
 msgstr "Imaginea următoare"
 
 #: app/main/digikamapp.cpp:647 app/main/digikamapp.cpp:653
-#: utilities/imageeditor/editor/editorwindow.cpp:652
-#: utilities/lighttable/lighttablewindow.cpp:656
+#: utilities/imageeditor/editor/editorwindow.cpp:659
+#: utilities/lighttable/lighttablewindow.cpp:660
 msgid "Previous Image"
 msgstr "Imaginea precedentă"
 
@@ -2021,8 +2021,8 @@ msgid "Open the selected item."
 msgstr "Deschide elementul selectat în editorul de imagini."
 
 #: app/main/digikamapp.cpp:920
-#: utilities/imageeditor/editor/editorwindow.cpp:444
-#: utilities/lighttable/lighttablewindow.cpp:501
+#: utilities/imageeditor/editor/editorwindow.cpp:449
+#: utilities/lighttable/lighttablewindow.cpp:505
 msgid "Open With Default Application"
 msgstr ""
 
@@ -2043,8 +2043,8 @@ msgstr "Editor de imagini"
 msgid "Open the image editor."
 msgstr "Deschide în editor"
 
-#: app/main/digikamapp.cpp:933 utilities/lighttable/lighttablewindow.cpp:131
-#: utilities/lighttable/lighttablewindow.cpp:1399
+#: app/main/digikamapp.cpp:933 utilities/lighttable/lighttablewindow.cpp:132
+#: utilities/lighttable/lighttablewindow.cpp:1403
 #: utilities/setup/setup.cpp:277
 msgid "Light Table"
 msgstr "Masa luminoastă"
@@ -2116,8 +2116,8 @@ msgid "Change the filename of the currently selected item."
 msgstr "Schimbă denumirea elementului selectat în prezent."
 
 #: app/main/digikamapp.cpp:1024 showfoto/main/showfoto.cpp:507
-#: utilities/imageeditor/editor/editorwindow.cpp:450
-#: utilities/lighttable/lighttablewindow.cpp:519
+#: utilities/imageeditor/editor/editorwindow.cpp:456
+#: utilities/lighttable/lighttablewindow.cpp:523
 msgctxt "Non-pluralized"
 msgid "Move to Trash"
 msgstr "Mută la gunoi"
@@ -2267,7 +2267,7 @@ msgid "The sort order of images groups"
 msgstr "Ordinea de sortare pentru imagini"
 
 #: app/main/digikamapp.cpp:1189
-#: utilities/imageeditor/editor/editorwindow.cpp:504
+#: utilities/imageeditor/editor/editorwindow.cpp:511
 msgid "Select None"
 msgstr "Nu selecta nimic"
 
@@ -2282,22 +2282,22 @@ msgid "Show Thumbbar"
 msgstr "Afișează bara de miniaturi"
 
 #: app/main/digikamapp.cpp:1239
-#: utilities/imageeditor/editor/editorwindow.cpp:523
-#: utilities/lighttable/lighttablewindow.cpp:584
-#: utilities/lighttable/lighttablewindow.cpp:612
+#: utilities/imageeditor/editor/editorwindow.cpp:530
+#: utilities/lighttable/lighttablewindow.cpp:588
+#: utilities/lighttable/lighttablewindow.cpp:616
 msgid "Zoom to 100%"
 msgstr "Mărește la 100%"
 
 #: app/main/digikamapp.cpp:1246
-#: utilities/imageeditor/editor/editorwindow.cpp:528
-#: utilities/lighttable/lighttablewindow.cpp:589
-#: utilities/lighttable/lighttablewindow.cpp:617
+#: utilities/imageeditor/editor/editorwindow.cpp:535
+#: utilities/lighttable/lighttablewindow.cpp:593
+#: utilities/lighttable/lighttablewindow.cpp:621
 msgid "Fit to &Window"
 msgstr "Adaptează la fereastră"
 
 #: app/main/digikamapp.cpp:1258
-#: utilities/imageeditor/editor/editorwindow.cpp:546
-#: utilities/lighttable/lighttablewindow.cpp:563
+#: utilities/imageeditor/editor/editorwindow.cpp:553
+#: utilities/lighttable/lighttablewindow.cpp:567
 #: utilities/slideshow/slideshow.cpp:98
 msgid "Slideshow"
 msgstr "Diaporamă"
@@ -2315,9 +2315,9 @@ msgid "With All Sub-Albums"
 msgstr "Cu toate subalbumele"
 
 #: app/main/digikamapp.cpp:1282
-#: utilities/imageeditor/editor/editorwindow.cpp:567
+#: utilities/imageeditor/editor/editorwindow.cpp:574
 #: utilities/importui/main/importui.cpp:595
-#: utilities/lighttable/lighttablewindow.cpp:624
+#: utilities/lighttable/lighttablewindow.cpp:628
 msgid "Color-Managed View"
 msgstr ""
 
@@ -2353,7 +2353,7 @@ msgstr "Adăugare manuală de aparat..."
 msgid "Loading cameras..."
 msgstr "Încărcare aparate"
 
-#: app/main/digikamapp.cpp:1531
+#: app/main/digikamapp.cpp:1533
 #, fuzzy, kde-format
 #| msgid "No item selected"
 msgid "No item selected (%1 item)"
@@ -2362,12 +2362,12 @@ msgstr[0] "Nici un element selectat"
 msgstr[1] "Nici un element selectat"
 msgstr[2] "Nici un element selectat"
 
-#: app/main/digikamapp.cpp:1543
+#: app/main/digikamapp.cpp:1545
 #, kde-format
 msgid " (%1 of %2)"
 msgstr " (%1 of %2)"
 
-#: app/main/digikamapp.cpp:1548
+#: app/main/digikamapp.cpp:1550
 #, kde-format
 msgid "%2/%1 item selected"
 msgid_plural "%2/%1 items selected"
@@ -2375,237 +2375,237 @@ msgstr[0] "%2/%1 element selectat"
 msgstr[1] "%2/%1 elemente selectate"
 msgstr[2] "%2/%1 de elemente selectate"
 
-#: app/main/digikamapp.cpp:1584
+#: app/main/digikamapp.cpp:1588
 msgid "Write Metadata to Image"
 msgid_plural "Write Metadata to Selected Images"
 msgstr[0] "Scrie metadatele în imagine"
 msgstr[1] "Scrie metadatele în imaginile selectate"
 msgstr[2] "Scrie metadatele în imaginile selectate"
 
-#: app/main/digikamapp.cpp:1586
+#: app/main/digikamapp.cpp:1590
 msgid "Reread Metadata From Image"
 msgid_plural "Reread Metadata From Selected Images"
 msgstr[0] "Citește metadatele din imagine"
 msgstr[1] "Citește metadatele din imaginile selectate"
 msgstr[2] "Citește metadatele din imaginile selectate"
 
-#: app/main/digikamapp.cpp:1629 utilities/setup/setup.cpp:294
+#: app/main/digikamapp.cpp:1633 utilities/setup/setup.cpp:294
 msgid "Cameras"
 msgstr "Aparate"
 
-#: app/main/digikamapp.cpp:1631
+#: app/main/digikamapp.cpp:1635
 msgid "USB Storage Devices"
 msgstr "Dispozitive de stocare USB"
 
-#: app/main/digikamapp.cpp:1633
+#: app/main/digikamapp.cpp:1637
 msgid "Card Readers"
 msgstr "Cititoare de cartele"
 
-#: app/main/digikamapp.cpp:1642
+#: app/main/digikamapp.cpp:1646
 msgid "Add Images..."
 msgstr "Adăugare imagini..."
 
-#: app/main/digikamapp.cpp:1644
+#: app/main/digikamapp.cpp:1648
 msgid "Adds new items to an Album."
 msgstr "Adaugă elemente noi la album."
 
-#: app/main/digikamapp.cpp:1650
+#: app/main/digikamapp.cpp:1654
 msgid "Add Folders..."
 msgstr "Adăugare dosare..."
 
-#: app/main/digikamapp.cpp:1651
+#: app/main/digikamapp.cpp:1655
 msgid "Adds new folders to Album library."
 msgstr "Adaugă dosare noi la biblioteca de albume."
 
-#: app/main/digikamapp.cpp:1733
+#: app/main/digikamapp.cpp:1737
 #, kde-format
 msgid "Images found in %1"
 msgstr "Imagini găsite în %1"
 
-#: app/main/digikamapp.cpp:1782
+#: app/main/digikamapp.cpp:1786
 #, kde-format
 msgid "The specified device (\"%1\") is not valid."
 msgstr "Dispozitivul specificat („%1”) nu este valid."
 
-#: app/main/digikamapp.cpp:1794
+#: app/main/digikamapp.cpp:1798
 #, kde-format
 msgid "The specified camera (\"%1\") is not supported."
 msgstr "Aparatul specificat („%1”) nu este suportat."
 
-#: app/main/digikamapp.cpp:1955
+#: app/main/digikamapp.cpp:1959
 #, kde-format
 msgid "Images on %1"
 msgstr "Imagini pe %1"
 
-#: app/main/digikamapp.cpp:1979
+#: app/main/digikamapp.cpp:1983
 msgid "Cannot access the storage device.\n"
 msgstr "Nu se poate accesa dispozitivul de stocare.\n"
 
-#: app/main/digikamapp.cpp:2185
+#: app/main/digikamapp.cpp:2189
 msgid "CompactFlash Card Reader"
 msgstr "Cititor de cartele CompactFlash"
 
-#: app/main/digikamapp.cpp:2188
+#: app/main/digikamapp.cpp:2192
 msgid "Memory Stick Reader"
 msgstr "Cititor de cheie USB"
 
-#: app/main/digikamapp.cpp:2191
+#: app/main/digikamapp.cpp:2195
 msgid "SmartMedia Card Reader"
 msgstr "Cititor de cartele SmartMedia"
 
-#: app/main/digikamapp.cpp:2194
+#: app/main/digikamapp.cpp:2198
 msgid "SD / MMC Card Reader"
 msgstr "Cititor de cartele SD / MMC"
 
-#: app/main/digikamapp.cpp:2197
+#: app/main/digikamapp.cpp:2201
 msgid "xD Card Reader"
 msgstr "Cititor de cartele xD"
 
-#: app/main/digikamapp.cpp:2209
+#: app/main/digikamapp.cpp:2213
 msgid "USB Disk"
 msgstr "Disc USB"
 
-#: app/main/digikamapp.cpp:2213
+#: app/main/digikamapp.cpp:2217
 msgctxt "non-USB removable storage device"
 msgid "Disk"
 msgstr "Disc"
 
-#: app/main/digikamapp.cpp:2281
+#: app/main/digikamapp.cpp:2285
 #, kde-format
 msgctxt "<drive type> \"<device name or label>\" at <mount path>"
 msgid "%1 \"%2\" at %3"
 msgstr "%1 \"%2\" la %3"
 
-#: app/main/digikamapp.cpp:2284
+#: app/main/digikamapp.cpp:2288
 #, kde-format
 msgctxt "<drive type> \"<device name or label>\""
 msgid "%1 \"%2\""
 msgstr "%1 „%2”"
 
-#: app/main/digikamapp.cpp:2290
+#: app/main/digikamapp.cpp:2294
 #, kde-format
 msgctxt "<drive type> at <mount path>"
 msgid "%1 at %2"
 msgstr "%1 la %2"
 
-#: app/main/digikamapp.cpp:2299
+#: app/main/digikamapp.cpp:2303
 #, kde-format
 msgctxt "device label etc... (<formatted byte size>)"
 msgid " (%1)"
 msgstr " (%1)"
 
-#: app/main/digikamapp.cpp:2446
+#: app/main/digikamapp.cpp:2450
 msgctxt "general keyboard shortcuts"
 msgid "General"
 msgstr "General"
 
-#: app/main/digikamapp.cpp:2450
+#: app/main/digikamapp.cpp:2454
 msgctxt "KIPI-Plugins keyboard shortcuts"
 msgid "KIPI-Plugins"
 msgstr "Module KIPI"
 
-#: app/main/digikamapp.cpp:2515 showfoto/main/showfoto.cpp:189
+#: app/main/digikamapp.cpp:2519 showfoto/main/showfoto.cpp:189
 #, fuzzy
 #| msgid "Loading themes"
 msgid "Loading themes..."
 msgstr "Se încarcă tematicile"
 
-#: app/main/digikamapp.cpp:2518 showfoto/main/showfoto.cpp:424
+#: app/main/digikamapp.cpp:2522 showfoto/main/showfoto.cpp:424
 msgid "&Themes"
 msgstr "&Tematici"
 
-#: app/main/digikamapp.cpp:2535
+#: app/main/digikamapp.cpp:2539
 #, fuzzy
 #| msgid "Loading tools"
 msgid "Loading tools..."
 msgstr "Se încarcă uneltele"
 
-#: app/main/digikamapp.cpp:2630
+#: app/main/digikamapp.cpp:2634
 msgid "Select folder to parse"
 msgstr "Selectați dosarul pentru analizat"
 
-#: app/main/digikamapp.cpp:2644
+#: app/main/digikamapp.cpp:2648
 msgid "Select folders to import into album"
 msgstr "Selectați dosarele pentru importarea în album"
 
-#: app/main/digikamapp.cpp:2674
+#: app/main/digikamapp.cpp:2678
 msgid ""
 "<p>Please select the destination album from the digiKam library to import "
 "folders into.</p>"
 msgstr ""
 
-#: app/main/digikamapp.cpp:2799
+#: app/main/digikamapp.cpp:2803
 msgid "Adjust Exif Orientation Tag"
 msgstr "Ajustează eticheta orientării Exif"
 
-#: app/main/digikamapp.cpp:2803
+#: app/main/digikamapp.cpp:2807
 msgctxt "normal exif orientation"
 msgid "Normal"
 msgstr "Normal"
 
-#: app/main/digikamapp.cpp:2804 libs/dmetadata/dmetadata.cpp:2720
+#: app/main/digikamapp.cpp:2808 libs/dmetadata/dmetadata.cpp:2720
 msgid "Flipped Horizontally"
 msgstr "Răsturnat pe orizontală"
 
-#: app/main/digikamapp.cpp:2805
+#: app/main/digikamapp.cpp:2809
 msgid "Rotated Upside Down"
 msgstr "Rotește cu susu-n jos"
 
-#: app/main/digikamapp.cpp:2806 libs/dmetadata/dmetadata.cpp:2724
+#: app/main/digikamapp.cpp:2810 libs/dmetadata/dmetadata.cpp:2724
 msgid "Flipped Vertically"
 msgstr "Răsturnat pe verticală"
 
-#: app/main/digikamapp.cpp:2807
+#: app/main/digikamapp.cpp:2811
 msgid "Rotated Right / Horiz. Flipped"
 msgstr "Rotește la dreapta / Răsturnată orizontal"
 
-#: app/main/digikamapp.cpp:2808 libs/dmetadata/dmetadata.cpp:2732
+#: app/main/digikamapp.cpp:2812 libs/dmetadata/dmetadata.cpp:2732
 msgid "Rotated Right"
 msgstr "Rotit la dreapta"
 
-#: app/main/digikamapp.cpp:2809
+#: app/main/digikamapp.cpp:2813
 msgid "Rotated Right / Vert. Flipped"
 msgstr "Rotește la dreapta / Răsturnată verical"
 
-#: app/main/digikamapp.cpp:2810 libs/dmetadata/dmetadata.cpp:2728
+#: app/main/digikamapp.cpp:2814 libs/dmetadata/dmetadata.cpp:2728
 msgid "Rotated Left"
 msgstr "Rotit la stînga"
 
-#: app/main/digikamapp.cpp:2935
+#: app/main/digikamapp.cpp:2939
 #: utilities/queuemanager/basetools/transform/rotate.cpp:85
 msgid "Rotate"
 msgstr "Rotește"
 
-#: app/main/digikamapp.cpp:2939
+#: app/main/digikamapp.cpp:2943
 msgctxt "rotate image left"
 msgid "Left"
 msgstr ""
 
-#: app/main/digikamapp.cpp:2946
+#: app/main/digikamapp.cpp:2950
 #, fuzzy
 #| msgid "Rights"
 msgctxt "rotate image right"
 msgid "Right"
 msgstr "Drepturi"
 
-#: app/main/digikamapp.cpp:2956
+#: app/main/digikamapp.cpp:2960
 #: utilities/queuemanager/basetools/transform/flip.cpp:53
 msgid "Flip"
 msgstr ""
 
-#: app/main/digikamapp.cpp:2960
+#: app/main/digikamapp.cpp:2964
 #, fuzzy
 #| msgid "Horizontal"
 msgid "Horizontally"
 msgstr "Orizontal"
 
-#: app/main/digikamapp.cpp:2967
+#: app/main/digikamapp.cpp:2971
 #, fuzzy
 #| msgid "Vertical"
 msgid "Vertically"
 msgstr "Vertical"
 
-#: app/main/digikamapp.cpp:2977
+#: app/main/digikamapp.cpp:2981
 msgid "Auto Rotate/Flip Using Exif Information"
 msgstr ""
 
@@ -2740,35 +2740,35 @@ msgid ""
 "Database plugins installed on your computer are listed below:"
 msgstr ""
 
-#: app/settings/applicationsettings_p.cpp:221
+#: app/settings/applicationsettings_p.cpp:223
 msgid "Category"
 msgstr "Categorie"
 
-#: app/settings/applicationsettings_p.cpp:222
+#: app/settings/applicationsettings_p.cpp:224
 msgid "Travel"
 msgstr "Călătorii"
 
-#: app/settings/applicationsettings_p.cpp:223
+#: app/settings/applicationsettings_p.cpp:225
 msgid "Holidays"
 msgstr "Vacanțe"
 
-#: app/settings/applicationsettings_p.cpp:224
+#: app/settings/applicationsettings_p.cpp:226
 msgid "Friends"
 msgstr "Prieteni"
 
-#: app/settings/applicationsettings_p.cpp:225
+#: app/settings/applicationsettings_p.cpp:227
 msgid "Nature"
 msgstr "Natură"
 
-#: app/settings/applicationsettings_p.cpp:226
+#: app/settings/applicationsettings_p.cpp:228
 msgid "Party"
 msgstr "Petrecere"
 
-#: app/settings/applicationsettings_p.cpp:227
+#: app/settings/applicationsettings_p.cpp:229
 msgid "Todo"
 msgstr "De făcut"
 
-#: app/settings/applicationsettings_p.cpp:228
+#: app/settings/applicationsettings_p.cpp:230
 #: showfoto/setup/showfotosetup.cpp:154 utilities/setup/setup.cpp:319
 msgid "Miscellaneous"
 msgstr "Diverse"
@@ -3403,18 +3403,18 @@ msgid "LibOpenCV"
 msgstr ""
 
 #: app/utils/contextmenuhelper.cpp:285
-#: utilities/imageeditor/editor/editorwindow.cpp:3002
+#: utilities/imageeditor/editor/editorwindow.cpp:3011
 msgid "Open With"
 msgstr "Deschide cu"
 
 #: app/utils/contextmenuhelper.cpp:297
 #: imageplugins/color/imageplugin_color.cpp:344
-#: utilities/imageeditor/editor/editorwindow.cpp:3014
+#: utilities/imageeditor/editor/editorwindow.cpp:3023
 msgid "Other..."
 msgstr "Altele..."
 
 #: app/utils/contextmenuhelper.cpp:306
-#: utilities/imageeditor/editor/editorwindow.cpp:3023
+#: utilities/imageeditor/editor/editorwindow.cpp:3032
 msgid "Open With..."
 msgstr "Deschide cu..."
 
@@ -3548,14 +3548,14 @@ msgctxt "@action:inmenu"
 msgid "Close All Groups"
 msgstr ""
 
-#: app/utils/contextmenuhelper.cpp:1022 app/utils/contextmenuhelper.cpp:1067
+#: app/utils/contextmenuhelper.cpp:1022 app/utils/contextmenuhelper.cpp:1071
 #, fuzzy
 #| msgid "&Group Images"
 msgctxt "@action:inmenu"
 msgid "Show Grouped Images"
 msgstr "&Grupează imaginile"
 
-#: app/utils/contextmenuhelper.cpp:1028 app/utils/contextmenuhelper.cpp:1071
+#: app/utils/contextmenuhelper.cpp:1028 app/utils/contextmenuhelper.cpp:1075
 #, fuzzy
 #| msgid "&Group Images"
 msgctxt "@action:inmenu"
@@ -3591,21 +3591,28 @@ msgctxt "@action:inmenu"
 msgid "Group Selected By Time"
 msgstr "Nici un album selectat"
 
-#: app/utils/contextmenuhelper.cpp:1080
+#: app/utils/contextmenuhelper.cpp:1061
+#, fuzzy
+#| msgid "No Album Selected"
+msgctxt "@action:inmenu"
+msgid "Group Selected By Type"
+msgstr "Nici un album selectat"
+
+#: app/utils/contextmenuhelper.cpp:1084
 #, fuzzy
 #| msgid "Remove Group"
 msgctxt "@action:inmenu"
 msgid "Remove Selected From Groups"
 msgstr "Șterge grupul"
 
-#: app/utils/contextmenuhelper.cpp:1084
+#: app/utils/contextmenuhelper.cpp:1088
 #, fuzzy
 #| msgid "No Album Selected"
 msgctxt "@action:inmenu"
 msgid "Ungroup Selected"
 msgstr "Nici un album selectat"
 
-#: app/utils/contextmenuhelper.cpp:1173
+#: app/utils/contextmenuhelper.cpp:1177
 #, kde-format
 msgctxt "@action:inmenu Pluralized"
 msgid "Move to Trash"
@@ -4228,19 +4235,19 @@ msgstr "Suprascrie"
 msgid "An error has occurred with the media player...."
 msgstr "S-a produs o eroare cu lectorul multimedia..."
 
-#: app/views/tableview/tableview.cpp:531
+#: app/views/tableview/tableview.cpp:540
 #, fuzzy
 #| msgid "&Group Images"
 msgid "Hide grouped items"
 msgstr "&Grupează imaginile"
 
-#: app/views/tableview/tableview.cpp:541
+#: app/views/tableview/tableview.cpp:550
 #, fuzzy
 #| msgid "Ignore This Tag"
 msgid "Ignore grouping"
 msgstr "Ignoră această etichetă"
 
-#: app/views/tableview/tableview.cpp:551
+#: app/views/tableview/tableview.cpp:560
 #, fuzzy
 #| msgid "Show youngest first"
 msgid "Show grouping in tree"
@@ -5642,7 +5649,7 @@ msgstr ""
 "utilizat de filtrul pentru înlăturarea punctelor fierbinți."
 
 #: imageplugins/enhance/hotpixels/hotpixelstool.cpp:188
-#: utilities/imageeditor/editor/editorwindow.cpp:1654
+#: utilities/imageeditor/editor/editorwindow.cpp:1663
 msgid "Loading: "
 msgstr "Se încarcă: "
 
@@ -8218,7 +8225,7 @@ msgid "Migrate ->"
 msgstr ""
 
 #: libs/dialogs/migrationdlg.cpp:137
-#: utilities/imageeditor/editor/editorwindow.cpp:673
+#: utilities/imageeditor/editor/editorwindow.cpp:680
 msgid "Cancel"
 msgstr "Renunță"
 
@@ -9134,7 +9141,7 @@ msgid "Texture Filter"
 msgstr "Filtru albastru"
 
 #: libs/dimg/filters/dimgbuiltinfilter.cpp:335
-#: utilities/imageeditor/editor/editorwindow.cpp:618
+#: utilities/imageeditor/editor/editorwindow.cpp:625
 msgid "Rotate Right"
 msgstr "Rotește spre dreapta"
 
@@ -9145,17 +9152,17 @@ msgid "Rotate 180°"
 msgstr "Rotește cu 180 grade"
 
 #: libs/dimg/filters/dimgbuiltinfilter.cpp:341
-#: utilities/imageeditor/editor/editorwindow.cpp:612
+#: utilities/imageeditor/editor/editorwindow.cpp:619
 msgid "Rotate Left"
 msgstr "Rotește spre stînga"
 
 #: libs/dimg/filters/dimgbuiltinfilter.cpp:344
-#: utilities/imageeditor/editor/editorwindow.cpp:598
+#: utilities/imageeditor/editor/editorwindow.cpp:605
 msgid "Flip Horizontally"
 msgstr "Rotește orizontal"
 
 #: libs/dimg/filters/dimgbuiltinfilter.cpp:347
-#: utilities/imageeditor/editor/editorwindow.cpp:604
+#: utilities/imageeditor/editor/editorwindow.cpp:611
 msgid "Flip Vertically"
 msgstr "Rotește vertical"
 
@@ -9395,7 +9402,7 @@ msgid "Greycstoration Filter"
 msgstr "Restaurează filtrele de etichetă"
 
 #: libs/dimg/filters/greycstoration/greycstorationsettings.cpp:134
-#: utilities/lighttable/lighttablewindow.cpp:1489
+#: utilities/lighttable/lighttablewindow.cpp:1491
 #: utilities/queuemanager/main/queuemgrwindow.cpp:569
 msgid "General"
 msgstr "General"
@@ -13352,7 +13359,7 @@ msgid ""
 msgstr ""
 
 #: showfoto/main/showfoto.cpp:972
-#: utilities/imageeditor/editor/editorwindow.cpp:1250
+#: utilities/imageeditor/editor/editorwindow.cpp:1259
 #: utilities/importui/dialogs/cameramessagebox.cpp:252
 #: utilities/importui/main/importui.cpp:1995
 msgid "Warning"
@@ -13360,7 +13367,8 @@ msgstr "Avertisment"
 
 #: showfoto/main/showfoto.cpp:1050
 #: utilities/imageeditor/main/imagewindow.cpp:1373
-#: utilities/lighttable/lighttablewindow.cpp:1431
+#: utilities/lighttable/lighttablewindow.cpp:1422
+#: utilities/lighttable/lighttablewindow.cpp:1447
 msgid "Preparing slideshow. Please wait..."
 msgstr ""
 
@@ -13486,27 +13494,31 @@ msgid ""
 msgstr ""
 
 #: showfoto/setup/showfotosetupmetadata.cpp:158
-#: showfoto/setup/showfotosetupmisc.cpp:103
+#: showfoto/setup/showfotosetupmisc.cpp:105
 #: utilities/queuemanager/views/queuesettingsview.cpp:261
 #: utilities/setup/setupcamera.cpp:352 utilities/setup/setupicc.cpp:512
 msgid "Behavior"
 msgstr "Comportament"
 
-#: showfoto/setup/showfotosetupmisc.cpp:106
+#: showfoto/setup/showfotosetupmisc.cpp:108
 msgid "&Deleted items should go to the trash"
 msgstr "&Elementele șterse ar trebui plasate la gunoi"
 
-#: showfoto/setup/showfotosetupmisc.cpp:107 utilities/setup/setupmisc.cpp:95
+#: showfoto/setup/showfotosetupmisc.cpp:109 utilities/setup/setupmisc.cpp:97
+msgid "Scroll current item to center of thumbbar"
+msgstr ""
+
+#: showfoto/setup/showfotosetupmisc.cpp:110 utilities/setup/setupmisc.cpp:98
 msgid "&Show splash screen at startup"
 msgstr "&Afișează ecranul de întîmpinare la pornire"
 
-#: showfoto/setup/showfotosetupmisc.cpp:108
+#: showfoto/setup/showfotosetupmisc.cpp:111
 #, fuzzy
 #| msgid "New image format:"
 msgid "&Show image Format"
 msgstr "Noul format de imagine:"
 
-#: showfoto/setup/showfotosetupmisc.cpp:109
+#: showfoto/setup/showfotosetupmisc.cpp:112
 #: utilities/setup/setupalbumview.cpp:167 utilities/setup/setupcamera.cpp:439
 #, fuzzy
 #| msgid "Set this option to show the filename below the image thumbnail."
@@ -13515,79 +13527,79 @@ msgstr ""
 "Selectați această opțiune pentru a afișa numele fișierului sub miniatura "
 "imaginii."
 
-#: showfoto/setup/showfotosetupmisc.cpp:110
+#: showfoto/setup/showfotosetupmisc.cpp:113
 #, fuzzy
 #| msgid "Restore Tag Filters"
 msgid "&Show Geolocation Indicator"
 msgstr "Restaurează filtrele de etichetă"
 
-#: showfoto/setup/showfotosetupmisc.cpp:111
+#: showfoto/setup/showfotosetupmisc.cpp:114
 #: utilities/setup/setupalbumview.cpp:194 utilities/setup/setupcamera.cpp:442
 #, fuzzy
 #| msgid "Set this option to display the image captions."
 msgid "Set this option to indicate if image has geolocation information."
 msgstr "Selectați această opțiune pentru a afișa legendele imaginii."
 
-#: showfoto/setup/showfotosetupmisc.cpp:114 utilities/setup/setupmisc.cpp:100
+#: showfoto/setup/showfotosetupmisc.cpp:117 utilities/setup/setupmisc.cpp:103
 msgid "Sidebar tab title:"
 msgstr "Titlul tabului barei laterale:"
 
-#: showfoto/setup/showfotosetupmisc.cpp:116 utilities/setup/setupmisc.cpp:102
+#: showfoto/setup/showfotosetupmisc.cpp:119 utilities/setup/setupmisc.cpp:105
 msgid "Only For Active Tab"
 msgstr "Numai pentru tabul activ"
 
-#: showfoto/setup/showfotosetupmisc.cpp:117 utilities/setup/setupmisc.cpp:103
+#: showfoto/setup/showfotosetupmisc.cpp:120 utilities/setup/setupmisc.cpp:106
 msgid "For All Tabs"
 msgstr "Pentru toate taburile"
 
-#: showfoto/setup/showfotosetupmisc.cpp:118
+#: showfoto/setup/showfotosetupmisc.cpp:121
 msgid "Set this option to configure how sidebars tab title are visible."
 msgstr ""
 
-#: showfoto/setup/showfotosetupmisc.cpp:121 utilities/setup/setupmisc.cpp:124
+#: showfoto/setup/showfotosetupmisc.cpp:124 utilities/setup/setupmisc.cpp:127
 msgid "Widget style:"
 msgstr ""
 
-#: showfoto/setup/showfotosetupmisc.cpp:123 utilities/setup/setupmisc.cpp:126
+#: showfoto/setup/showfotosetupmisc.cpp:126 utilities/setup/setupmisc.cpp:129
 #, fuzzy
 #| msgid "Set this option to display the album collection."
 msgid "Set this option to choose the default window decoration and looks."
 msgstr "Selectați această opțiune pentru a afișa colecția albumului."
 
-#: showfoto/setup/showfotosetupmisc.cpp:142
+#: showfoto/setup/showfotosetupmisc.cpp:146
 msgid "Sort order for images"
 msgstr "Ordinea de sortare pentru imagini"
 
-#: showfoto/setup/showfotosetupmisc.cpp:146
+#: showfoto/setup/showfotosetupmisc.cpp:150
 msgid "Sort images by:"
 msgstr "Sortează imaginile după:"
 
-#: showfoto/setup/showfotosetupmisc.cpp:148
+#: showfoto/setup/showfotosetupmisc.cpp:152
 msgctxt "sort images by date"
 msgid "Date"
 msgstr "Dată"
 
-#: showfoto/setup/showfotosetupmisc.cpp:149
+#: showfoto/setup/showfotosetupmisc.cpp:153
 msgctxt "sort images by name"
 msgid "Name"
 msgstr "Nume"
 
-#: showfoto/setup/showfotosetupmisc.cpp:150
+#: showfoto/setup/showfotosetupmisc.cpp:154
 msgctxt "sort images by size"
 msgid "File Size"
 msgstr "Dimensiune fișier"
 
-#: showfoto/setup/showfotosetupmisc.cpp:151
+#: showfoto/setup/showfotosetupmisc.cpp:155
 msgid ""
 "Here, select whether newly-loaded images are sorted by their date, name, or "
 "size on disk."
 msgstr ""
 
-#: showfoto/setup/showfotosetupmisc.cpp:154
+#: showfoto/setup/showfotosetupmisc.cpp:158
 msgid "Reverse ordering"
 msgstr ""
 
-#: showfoto/setup/showfotosetupmisc.cpp:155
+#: showfoto/setup/showfotosetupmisc.cpp:159
 msgid ""
 "If this option is enabled, newly-loaded images will be sorted in descending "
 "order."
@@ -16118,48 +16130,48 @@ msgstr "Încearcă"
 msgid "Try all settings."
 msgstr "Încearcă toate configurările."
 
-#: utilities/imageeditor/editor/editorwindow.cpp:356
-#: utilities/lighttable/lighttablewindow.cpp:469
+#: utilities/imageeditor/editor/editorwindow.cpp:358
+#: utilities/lighttable/lighttablewindow.cpp:473
 msgid "&First"
 msgstr "&Primul"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:361
-#: utilities/lighttable/lighttablewindow.cpp:475
+#: utilities/imageeditor/editor/editorwindow.cpp:364
+#: utilities/lighttable/lighttablewindow.cpp:479
 msgid "&Last"
 msgstr "Ultimul"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:367
+#: utilities/imageeditor/editor/editorwindow.cpp:371
 #, fuzzy
 #| msgid "Original"
 msgctxt "@action"
 msgid "Open Original"
 msgstr "Original"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:376
+#: utilities/imageeditor/editor/editorwindow.cpp:380
 #, fuzzy
 #| msgid "Save Images"
 msgctxt "@action Save changes to current version"
 msgid "Save Changes"
 msgstr "Salvează imaginile"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:377
+#: utilities/imageeditor/editor/editorwindow.cpp:381
 msgctxt "@info:tooltip"
 msgid "Save the modifications to the current version of the file"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:382
+#: utilities/imageeditor/editor/editorwindow.cpp:386
 msgctxt "@action Save changes to a newly created version"
 msgid "Save As New Version"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:383
+#: utilities/imageeditor/editor/editorwindow.cpp:387
 #, fuzzy
 #| msgid "Save current selection to a new virtual Album"
 msgctxt "@info:tooltip"
 msgid "Save the current modifications to a new version of the file"
 msgstr "Salvează sesiunea curentă într-un nou album virtual"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:389
+#: utilities/imageeditor/editor/editorwindow.cpp:393
 #, fuzzy
 #| msgid "&Save As..."
 msgctxt ""
@@ -16168,218 +16180,218 @@ msgctxt ""
 msgid "Save New Version As..."
 msgstr "&Salvează ca..."
 
-#: utilities/imageeditor/editor/editorwindow.cpp:390
+#: utilities/imageeditor/editor/editorwindow.cpp:394
 msgctxt "@info:tooltip"
 msgid ""
 "Save the current modifications to a new version of the file, specifying the "
 "filename and format"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:397
+#: utilities/imageeditor/editor/editorwindow.cpp:401
 #, fuzzy
 #| msgid "File Format"
 msgctxt "@action Save As New Version...Save in format..."
 msgid "Save in Format"
 msgstr "Format fișier"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:398
+#: utilities/imageeditor/editor/editorwindow.cpp:402
 #, fuzzy
 #| msgid "LibJPEG"
 msgctxt "@action:inmenu"
 msgid "JPEG"
 msgstr "LibJPEG"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:399
+#: utilities/imageeditor/editor/editorwindow.cpp:403
 #, fuzzy
 #| msgid "LibTIFF"
 msgctxt "@action:inmenu"
 msgid "TIFF"
 msgstr "LibTIFF"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:400
+#: utilities/imageeditor/editor/editorwindow.cpp:404
 #, fuzzy
 #| msgid "LibPNG"
 msgctxt "@action:inmenu"
 msgid "PNG"
 msgstr "LibPNG"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:401
+#: utilities/imageeditor/editor/editorwindow.cpp:405
 #, fuzzy
 #| msgid "LibPGF"
 msgctxt "@action:inmenu"
 msgid "PGF"
 msgstr "LibPGF"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:403
+#: utilities/imageeditor/editor/editorwindow.cpp:407
 #, fuzzy
 #| msgid "JPEG 2000 image"
 msgctxt "@action:inmenu"
 msgid "JPEG 2000"
 msgstr "Imagine JPEG 2000"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:416
+#: utilities/imageeditor/editor/editorwindow.cpp:420
 msgctxt "@action"
 msgid "Export"
 msgstr "Exportă"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:417
+#: utilities/imageeditor/editor/editorwindow.cpp:421
 msgctxt "@info:tooltip"
 msgid "Save the file in a folder outside your collection"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:426
+#: utilities/imageeditor/editor/editorwindow.cpp:430
 msgctxt "@action"
 msgid "Discard Changes"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:427
+#: utilities/imageeditor/editor/editorwindow.cpp:431
 msgctxt "@info:tooltip"
 msgid "Discard all current changes to this file"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:439
+#: utilities/imageeditor/editor/editorwindow.cpp:443
 msgid "Print Image..."
 msgstr "Tipărește imaginea..."
 
-#: utilities/imageeditor/editor/editorwindow.cpp:446
-#: utilities/lighttable/lighttablewindow.cpp:503
+#: utilities/imageeditor/editor/editorwindow.cpp:451
+#: utilities/lighttable/lighttablewindow.cpp:507
 #, fuzzy
 #| msgid "Open the selected item in the image editor."
 msgid "Open the item with default assigned application."
 msgstr "Deschide elementul selectat în editorul de imagini."
 
-#: utilities/imageeditor/editor/editorwindow.cpp:464
+#: utilities/imageeditor/editor/editorwindow.cpp:471
 msgid "Undo"
 msgstr "Desfă"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:483
+#: utilities/imageeditor/editor/editorwindow.cpp:490
 msgid "Redo"
 msgstr "Refă"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:499
+#: utilities/imageeditor/editor/editorwindow.cpp:506
 msgctxt "Create a selection containing the full image"
 msgid "Select All"
 msgstr "Selectează tot"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:533
+#: utilities/imageeditor/editor/editorwindow.cpp:540
 msgid "Fit to &Selection"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:538
+#: utilities/imageeditor/editor/editorwindow.cpp:545
 msgid ""
 "This option can be used to zoom the image to the current selection area."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:551
+#: utilities/imageeditor/editor/editorwindow.cpp:558
 msgid "Under-Exposure Indicator"
 msgstr "Indicator de subexpunere"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:553
+#: utilities/imageeditor/editor/editorwindow.cpp:560
 msgid ""
 "Set this option to display black overlaid on the image. This will help you "
 "to avoid under-exposing the image."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:559
+#: utilities/imageeditor/editor/editorwindow.cpp:566
 msgid "Over-Exposure Indicator"
 msgstr "Indicator de supraexpunere"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:561
+#: utilities/imageeditor/editor/editorwindow.cpp:568
 msgid ""
 "Set this option to display white overlaid on the image. This will help you "
 "to avoid over-exposing the image."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:572
+#: utilities/imageeditor/editor/editorwindow.cpp:579
 msgid "Soft Proofing Options..."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:576
+#: utilities/imageeditor/editor/editorwindow.cpp:583
 msgid "Soft Proofing View"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:582
+#: utilities/imageeditor/editor/editorwindow.cpp:589
 #, fuzzy
 #| msgid "Invert Selection"
 msgctxt "@action"
 msgid "Crop to Selection"
 msgstr "Inversare selecție"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:587
+#: utilities/imageeditor/editor/editorwindow.cpp:594
 msgid ""
 "This option can be used to crop the image. Select a region of the image to "
 "enable this action."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:590
+#: utilities/imageeditor/editor/editorwindow.cpp:597
 #, fuzzy
 #| msgid "Auto"
 msgctxt "@action"
 msgid "Auto-Crop"
 msgstr "Auto"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:594
+#: utilities/imageeditor/editor/editorwindow.cpp:601
 #, fuzzy
 #| msgid "Enable this option to automatically set the orientation."
 msgid "This option can be used to crop automatically the image."
 msgstr "Activați această opțiune pentru a defini orientarea automat."
 
-#: utilities/imageeditor/editor/editorwindow.cpp:662
+#: utilities/imageeditor/editor/editorwindow.cpp:669
 #, fuzzy
 #| msgid "Select All"
 msgctxt "@action Select image editor tool/filter"
 msgid "Select Tool"
 msgstr "Selectează tot"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:668
+#: utilities/imageeditor/editor/editorwindow.cpp:675
 msgid "OK"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:688
-#: utilities/imageeditor/editor/editorwindow.cpp:1635
+#: utilities/imageeditor/editor/editorwindow.cpp:695
+#: utilities/imageeditor/editor/editorwindow.cpp:1644
 msgid "No selection"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:691
+#: utilities/imageeditor/editor/editorwindow.cpp:698
 msgid "Information about current image selection"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:696
+#: utilities/imageeditor/editor/editorwindow.cpp:703
 msgid "Information about image size"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:770
+#: utilities/imageeditor/editor/editorwindow.cpp:777
 msgctxt "general editor shortcuts"
 msgid "General"
 msgstr "General"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:771
+#: utilities/imageeditor/editor/editorwindow.cpp:778
 msgctxt "imageplugins shortcuts"
 msgid "Image Plugins"
 msgstr "Module imagini"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1227
+#: utilities/imageeditor/editor/editorwindow.cpp:1236
 #, fuzzy
 #| msgid "Loading image..."
 msgid "Saving image..."
 msgstr "Se încarcă imaginea..."
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1228
+#: utilities/imageeditor/editor/editorwindow.cpp:1237
 msgid "Please wait for the image to be saved..."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1247
+#: utilities/imageeditor/editor/editorwindow.cpp:1256
 #, kde-format
 msgid ""
 "About to overwrite file \"%1\"\n"
 "Are you sure?"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1251
+#: utilities/imageeditor/editor/editorwindow.cpp:1260
 msgid "Overwrite"
 msgstr "Suprascriere"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1325
+#: utilities/imageeditor/editor/editorwindow.cpp:1334
 #, fuzzy
 #| msgctxt "save theme"
 #| msgid "&Save"
@@ -16387,48 +16399,48 @@ msgctxt "@title:window"
 msgid "Save?"
 msgstr "&Salvează"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1337
+#: utilities/imageeditor/editor/editorwindow.cpp:1346
 msgctxt "@label"
 msgid ""
 "The current image has been changed.<nl/>Do you wish to save your changes?"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1347
+#: utilities/imageeditor/editor/editorwindow.cpp:1356
 #, fuzzy
 #| msgid "Save Images"
 msgctxt "@action:button"
 msgid "Save Changes"
 msgstr "Salvează imaginile"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1349
+#: utilities/imageeditor/editor/editorwindow.cpp:1358
 msgctxt "@info:tooltip"
 msgid ""
 "Save the current changes. Note: The original image will never be overwritten."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1351
+#: utilities/imageeditor/editor/editorwindow.cpp:1360
 msgctxt "@action:button"
 msgid "Save Changes as a New Version"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1353
+#: utilities/imageeditor/editor/editorwindow.cpp:1362
 msgctxt "@info:tooltip"
 msgid ""
 "Save the current changes as a new version. The loaded file will remain "
 "unchanged, a new file will be created."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1356
+#: utilities/imageeditor/editor/editorwindow.cpp:1365
 msgctxt "@action:button"
 msgid "Discard Changes"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1358
+#: utilities/imageeditor/editor/editorwindow.cpp:1367
 msgctxt "@info:tooltip"
 msgid "Discard the changes applied to the image during this editing session."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1433
+#: utilities/imageeditor/editor/editorwindow.cpp:1442
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -16436,7 +16448,7 @@ msgid ""
 "it?"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1715
+#: utilities/imageeditor/editor/editorwindow.cpp:1724
 #, kde-format
 msgid ""
 "Cannot open the specified working space profile (\"%1\"). No color "
@@ -16444,11 +16456,11 @@ msgid ""
 "configuration in digiKam's setup."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1771
+#: utilities/imageeditor/editor/editorwindow.cpp:1780
 msgid "Saving: "
 msgstr "Se salvează:"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1789
+#: utilities/imageeditor/editor/editorwindow.cpp:1798
 #, kde-format
 msgid ""
 "Failed to save file\n"
@@ -16457,33 +16469,33 @@ msgid ""
 "\"%2\"."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1917
+#: utilities/imageeditor/editor/editorwindow.cpp:1926
 #, kde-format
 msgid "Could not open a temporary file in the folder \"%1\": %2 (%3)"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:1971
+#: utilities/imageeditor/editor/editorwindow.cpp:1980
 msgid "New Image File Name"
 msgstr "Denumirea noii imagini"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2083
+#: utilities/imageeditor/editor/editorwindow.cpp:2092
 msgid "Unable to determine the format to save the target image with."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2089
+#: utilities/imageeditor/editor/editorwindow.cpp:2098
 #, kde-format
 msgid "Cannot Save: Found file path <filename>%1</filename> is invalid."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2112
+#: utilities/imageeditor/editor/editorwindow.cpp:2121
 msgid "JPEG 2000 image"
 msgstr "Imagine JPEG 2000"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2118
+#: utilities/imageeditor/editor/editorwindow.cpp:2127
 msgid "Progressive Graphics File"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2450
+#: utilities/imageeditor/editor/editorwindow.cpp:2459
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -16491,70 +16503,70 @@ msgid ""
 "<filename>%2</filename>"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2521
+#: utilities/imageeditor/editor/editorwindow.cpp:2530
 #, kde-format
 msgid ""
 "You do not have write permissions for the file named \"%1\". Are you sure "
 "you want to overwrite it?"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2526
-#: utilities/imageeditor/editor/editorwindow.cpp:2547
+#: utilities/imageeditor/editor/editorwindow.cpp:2535
+#: utilities/imageeditor/editor/editorwindow.cpp:2556
 msgid "Overwrite File?"
 msgstr "Suprascrieți fișierul?"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2543
+#: utilities/imageeditor/editor/editorwindow.cpp:2552
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Există deja un fișier cu denumirea „%1”. Sigur doriți să îl suprascrieți?"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2572
+#: utilities/imageeditor/editor/editorwindow.cpp:2581
 msgid "Failed to overwrite original file"
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2573
-#: utilities/imageeditor/editor/editorwindow.cpp:2645
+#: utilities/imageeditor/editor/editorwindow.cpp:2582
+#: utilities/imageeditor/editor/editorwindow.cpp:2654
 msgid "Error Saving File"
 msgstr "Eroare la salvarea fișierului"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2644
+#: utilities/imageeditor/editor/editorwindow.cpp:2653
 #, kde-format
 msgid "Failed to save file: %1"
 msgstr "Eșec la salvarea fișierului: %1"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2686
+#: utilities/imageeditor/editor/editorwindow.cpp:2695
 msgid "Color-Managed View is enabled."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2690
+#: utilities/imageeditor/editor/editorwindow.cpp:2699
 msgid "Color-Managed View is disabled."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2695
+#: utilities/imageeditor/editor/editorwindow.cpp:2704
 msgid ""
 "Color Management is not configured, so the Color-Managed View is not "
 "available."
 msgstr ""
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2730
+#: utilities/imageeditor/editor/editorwindow.cpp:2739
 msgid "Under-Exposure indicator is enabled"
 msgstr "Indicatorul de subexpunere este activat"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2731
+#: utilities/imageeditor/editor/editorwindow.cpp:2740
 msgid "Under-Exposure indicator is disabled"
 msgstr "Indicatorul de subexpunere este dezactivat"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2745
+#: utilities/imageeditor/editor/editorwindow.cpp:2754
 msgid "Over-Exposure indicator is enabled"
 msgstr "Indicatorul de supraexpunere este activat"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2746
+#: utilities/imageeditor/editor/editorwindow.cpp:2755
 msgid "Over-Exposure indicator is disabled"
 msgstr "Indicatorul de supraexpunere este dezactivat"
 
-#: utilities/imageeditor/editor/editorwindow.cpp:2844
+#: utilities/imageeditor/editor/editorwindow.cpp:2853
 #, fuzzy
 #| msgid "Inverse transformation"
 msgctxt "@title Image transformations"
@@ -18340,7 +18352,7 @@ msgid "Show on right panel"
 msgstr "Afișează pe panoul din dreapta"
 
 #: utilities/lighttable/lighttablethumbbar.cpp:261
-#: utilities/lighttable/lighttablewindow.cpp:495
+#: utilities/lighttable/lighttablewindow.cpp:499
 msgid "Edit"
 msgstr "Editează"
 
@@ -18356,97 +18368,97 @@ msgstr "Curăță tot"
 msgid "Drag and drop images here"
 msgstr "Trageți și lăsați imagini aici"
 
-#: utilities/lighttable/lighttablewindow.cpp:481
+#: utilities/lighttable/lighttablewindow.cpp:485
 msgid "On left"
 msgstr "Pe stînga"
 
-#: utilities/lighttable/lighttablewindow.cpp:484
+#: utilities/lighttable/lighttablewindow.cpp:488
 msgid "Show item on left panel"
 msgstr "Afișează elementul pe panoul din stînga"
 
-#: utilities/lighttable/lighttablewindow.cpp:488
+#: utilities/lighttable/lighttablewindow.cpp:492
 msgid "On right"
 msgstr "Pe dreapta"
 
-#: utilities/lighttable/lighttablewindow.cpp:491
+#: utilities/lighttable/lighttablewindow.cpp:495
 msgid "Show item on right panel"
 msgstr "Afișează elementul pe panoul din dreapta"
 
-#: utilities/lighttable/lighttablewindow.cpp:507
+#: utilities/lighttable/lighttablewindow.cpp:511
 msgid "Remove item from LightTable"
 msgstr ""
 
-#: utilities/lighttable/lighttablewindow.cpp:513
+#: utilities/lighttable/lighttablewindow.cpp:517
 msgid "Remove all items from LightTable"
 msgstr ""
 
-#: utilities/lighttable/lighttablewindow.cpp:525
+#: utilities/lighttable/lighttablewindow.cpp:529
 msgid "Delete immediately"
 msgstr "Șterge imediat"
 
-#: utilities/lighttable/lighttablewindow.cpp:536
+#: utilities/lighttable/lighttablewindow.cpp:540
 msgid "Synchronize"
 msgstr "Sincronizează"
 
-#: utilities/lighttable/lighttablewindow.cpp:539
+#: utilities/lighttable/lighttablewindow.cpp:543
 msgid "Synchronize preview from left and right panels"
 msgstr "Sincronizează previzualizarea din panourile stîng și drept"
 
-#: utilities/lighttable/lighttablewindow.cpp:543
+#: utilities/lighttable/lighttablewindow.cpp:547
 msgid "By Pair"
 msgstr "Pereche"
 
-#: utilities/lighttable/lighttablewindow.cpp:546
+#: utilities/lighttable/lighttablewindow.cpp:550
 msgid "Navigate by pairs with all items"
 msgstr "Navighează în perechi cu toate elementele"
 
-#: utilities/lighttable/lighttablewindow.cpp:550
+#: utilities/lighttable/lighttablewindow.cpp:554
 msgid "Clear On Close"
 msgstr "Curăță la închidere"
 
-#: utilities/lighttable/lighttablewindow.cpp:553
+#: utilities/lighttable/lighttablewindow.cpp:557
 msgid "Clear light table when it is closed"
 msgstr ""
 
-#: utilities/lighttable/lighttablewindow.cpp:554
+#: utilities/lighttable/lighttablewindow.cpp:558
 msgid "Remove all images from the light table when it is closed"
 msgstr ""
 
-#: utilities/lighttable/lighttablewindow.cpp:664
+#: utilities/lighttable/lighttablewindow.cpp:668
 #, fuzzy
 #| msgid "Align text to the right"
 msgid "Edit Titles on the Right"
 msgstr "Aliniază textul la dreapta"
 
-#: utilities/lighttable/lighttablewindow.cpp:669
+#: utilities/lighttable/lighttablewindow.cpp:673
 #, fuzzy
 #| msgid "Align text to the right"
 msgid "Edit Comments on the Right"
 msgstr "Aliniază textul la dreapta"
 
-#: utilities/lighttable/lighttablewindow.cpp:674
+#: utilities/lighttable/lighttablewindow.cpp:678
 #, fuzzy
 #| msgid "Align text to the left"
 msgid "Edit Titles on the Left"
 msgstr "Aliniază textul la stînga"
 
-#: utilities/lighttable/lighttablewindow.cpp:679
+#: utilities/lighttable/lighttablewindow.cpp:683
 msgid "Edit Comments on the Left"
 msgstr ""
 
-#: utilities/lighttable/lighttablewindow.cpp:684
+#: utilities/lighttable/lighttablewindow.cpp:688
 #, fuzzy
 #| msgid "Assign Tags to &This Item"
 msgid "Show Assigned Tags on the Right"
 msgstr "Atribuie etichete aces&tui element"
 
-#: utilities/lighttable/lighttablewindow.cpp:689
+#: utilities/lighttable/lighttablewindow.cpp:693
 #, fuzzy
 #| msgid "Assign Tags to &This Item"
 msgid "Show Assigned Tags on the Left"
 msgstr "Atribuie etichete aces&tui element"
 
-#: utilities/lighttable/lighttablewindow.cpp:759
+#: utilities/lighttable/lighttablewindow.cpp:763
 #, kde-format
 msgid "%1 item on Light Table"
 msgid_plural "%1 items on Light Table"
@@ -22251,39 +22263,39 @@ msgid ""
 "included into the database:<br/> <code>%1</code></p>"
 msgstr ""
 
-#: utilities/setup/setupmisc.cpp:92
+#: utilities/setup/setupmisc.cpp:94
 msgid "Confirm when moving items to the &trash"
 msgstr "Confirmați mu&tarea elementelor la gunoi"
 
-#: utilities/setup/setupmisc.cpp:93
+#: utilities/setup/setupmisc.cpp:95
 msgid "Confirm when permanently deleting items"
 msgstr "Confirmați ștergerea definitivă a elementelor"
 
-#: utilities/setup/setupmisc.cpp:94
+#: utilities/setup/setupmisc.cpp:96
 msgid "Do not confirm when applying changes in the &right sidebar"
 msgstr ""
 
-#: utilities/setup/setupmisc.cpp:104
+#: utilities/setup/setupmisc.cpp:107
 msgid "Set this option to configure how sidebar tab titles are visible."
 msgstr ""
 "Selectați această opțiune pentru a configura vizibilitatea titlurilor "
 "barelor laterale."
 
-#: utilities/setup/setupmisc.cpp:109
+#: utilities/setup/setupmisc.cpp:112
 msgid "String comparison type:"
 msgstr ""
 
-#: utilities/setup/setupmisc.cpp:111
+#: utilities/setup/setupmisc.cpp:114
 msgctxt "method to compare strings"
 msgid "Natural"
 msgstr "Natural"
 
-#: utilities/setup/setupmisc.cpp:112
+#: utilities/setup/setupmisc.cpp:115
 msgctxt "method to compare strings"
 msgid "Normal"
 msgstr "Normal"
 
-#: utilities/setup/setupmisc.cpp:113
+#: utilities/setup/setupmisc.cpp:116
 msgid ""
 "<qt>Sets the way in which strings are compared inside digiKam. This eg. "
 "influences the sorting of the tree views.<br/><b>Natural</b> tries to "

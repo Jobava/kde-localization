@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-09-09 01:59+0000\n"
+"POT-Creation-Date: 2015-09-17 09:26+0000\n"
 "PO-Revision-Date: 2014-03-25 16:55+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -75,6 +75,14 @@ msgstr "Controale multimedia distante"
 msgctxt "pref_plugin_mpris_desc"
 msgid "Control audio/video from your phone"
 msgstr "Controlați audio/video de pe telefon"
+
+msgctxt "pref_plugin_runcommand"
+msgid "Run Command"
+msgstr ""
+
+msgctxt "pref_plugin_runcommand_desc"
+msgid "Runs a command on your system"
+msgstr ""
 
 msgctxt "pref_plugin_ping"
 msgid "Ping"
@@ -660,6 +668,26 @@ msgstr ""
 
 msgctxt "plugin_not_supported"
 msgid "This plugin is not supported by the device"
+msgstr ""
+
+msgctxt "findmyphone_title"
+msgid "Find My Phone"
+msgstr ""
+
+msgctxt "findmyphone_description"
+msgid "Rings this phone so you can find it."
+msgstr ""
+
+msgctxt "findmyphone_found"
+msgid "Found"
+msgstr ""
+
+msgctxt "open"
+msgid "Open"
+msgstr ""
+
+msgctxt "close"
+msgid "Close"
 msgstr ""
 
 #~ msgctxt "open_mpris_controls"

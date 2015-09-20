@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-18 09:08+0000\n"
+"POT-Creation-Date: 2015-09-16 08:13+0000\n"
 "PO-Revision-Date: 2013-10-05 14:11+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -112,39 +112,6 @@ msgstr "Doriți de asemenea și ștergerea mesajelor?"
 msgid "Remove messages"
 msgstr "Șterge mesajele"
 
-#: sendlaterdialog.cpp:40
-#, fuzzy
-#| msgid "Send Later"
-msgctxt "@title:window"
-msgid "Send Later"
-msgstr "Trimite mai tîrziu"
-
-#: sendlaterdialog.cpp:61
-#, fuzzy
-#| msgid "Send Later"
-msgid "Send Later"
-msgstr "Trimite mai tîrziu"
-
-#: sendlaterdialog.cpp:62
-msgid "Delay"
-msgstr "Întîrziere"
-
-#: sendlaterdialog.cpp:79
-msgid "Days"
-msgstr "Zile"
-
-#: sendlaterdialog.cpp:80
-msgid "Weeks"
-msgstr "Săptămîni"
-
-#: sendlaterdialog.cpp:81
-msgid "Months"
-msgstr "Luni"
-
-#: sendlaterdialog.cpp:82
-msgid "Years"
-msgstr "Ani"
-
 #: sendlaterjob.cpp:69 sendlaterjob.cpp:72
 #, fuzzy
 #| msgid "Not message found."
@@ -190,10 +157,6 @@ msgstr "A intervenit o eroare. Doriți să îl retrimiteți?"
 msgid "Error found"
 msgstr "A intervenit o eroare"
 
-#: sendlatertimedatewidget.cpp:45
-msgid "You cannot select a date prior to the current date."
-msgstr "Nu puteți alege o dată dinaintea datei curente."
-
 #. i18n: ectx: property (text), widget (QPushButton, modifyItem)
 #: ui/sendlaterconfigurewidget.ui:19
 msgid "Modify..."
@@ -204,15 +167,40 @@ msgstr "Modifică..."
 msgid "Remove"
 msgstr "Șterge"
 
-#. i18n: ectx: property (text), widget (QLabel, mLabel)
-#: ui/sendlaterwidget.ui:17
-msgid "Send at:"
-msgstr "Trimite la:"
+#, fuzzy
+#~| msgid "Send Later"
+#~ msgctxt "@title:window"
+#~ msgid "Send Later"
+#~ msgstr "Trimite mai tîrziu"
 
-#. i18n: ectx: property (text), widget (QCheckBox, mRecurrence)
-#: ui/sendlaterwidget.ui:27
-msgid "Repeat every:"
-msgstr "Repetă la fiecare:"
+#, fuzzy
+#~| msgid "Send Later"
+#~ msgid "Send Later"
+#~ msgstr "Trimite mai tîrziu"
+
+#~ msgid "Delay"
+#~ msgstr "Întîrziere"
+
+#~ msgid "Days"
+#~ msgstr "Zile"
+
+#~ msgid "Weeks"
+#~ msgstr "Săptămîni"
+
+#~ msgid "Months"
+#~ msgstr "Luni"
+
+#~ msgid "Years"
+#~ msgstr "Ani"
+
+#~ msgid "You cannot select a date prior to the current date."
+#~ msgstr "Nu puteți alege o dată dinaintea datei curente."
+
+#~ msgid "Send at:"
+#~ msgstr "Trimite la:"
+
+#~ msgid "Repeat every:"
+#~ msgstr "Repetă la fiecare:"
 
 #, fuzzy
 #~| msgid "Send Later"

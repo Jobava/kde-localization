@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdepim\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-09 08:45+0000\n"
+"POT-Creation-Date: 2015-09-18 08:18+0000\n"
 "PO-Revision-Date: 2012-12-22 11:38+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -359,46 +359,36 @@ msgctxt "GenericName"
 msgid "A KDE Blogging Client"
 msgstr "Client pentru bloguri KDE"
 
-#: calendarsupport/calendarplugin.desktop:2
+#: calendarsupport/src/calendarplugin.desktop:2
 msgctxt "Name"
 msgid "Calendar Plugin Interface"
 msgstr "Interfață pentru module de calendar"
 
-#: calendarsupport/calendarplugin.desktop:53
+#: calendarsupport/src/calendarplugin.desktop:53
 msgctxt "Comment"
 msgid "Calendar Plugin"
 msgstr "Modul de calendar"
 
-#: calendarsupport/printing/itemlist/listprint.desktop:3
+#: calendarsupport/src/printing/itemlist/listprint.desktop:3
 msgctxt "Name"
 msgid "List Print Style"
 msgstr ""
 
-#: calendarsupport/printing/itemlist/listprint.desktop:62
+#: calendarsupport/src/printing/itemlist/listprint.desktop:62
 msgctxt "Comment"
 msgid "This plugin allows you to print out events and to-dos in list form."
 msgstr ""
 
-#: calendarsupport/printing/whatsnext/whatsnextprint.desktop:3
+#: calendarsupport/src/printing/whatsnext/whatsnextprint.desktop:3
 msgctxt "Name"
 msgid "What's Next Print Style"
 msgstr ""
 
-#: calendarsupport/printing/whatsnext/whatsnextprint.desktop:62
+#: calendarsupport/src/printing/whatsnext/whatsnextprint.desktop:62
 msgctxt "Comment"
 msgid ""
 "This plugin allows you to print out a list of all upcoming events and to-dos."
 msgstr ""
-
-#: calendarviews/agenda/calendardecoration.desktop:2
-msgctxt "Name"
-msgid "Calendar Decoration Interface"
-msgstr "Interfață de decorare pentru calendar"
-
-#: calendarviews/agenda/calendardecoration.desktop:53
-msgctxt "Comment"
-msgid "Calendar Decoration Plugin"
-msgstr "Modul de decorare pentru calendar"
 
 #: console/konsolekalendar/konsolekalendar.desktop:2
 msgctxt "Name"
@@ -409,6 +399,16 @@ msgstr "Calendar de consolă"
 msgctxt "Name"
 msgid "Kontact Administration"
 msgstr "Administrare Kontact"
+
+#: eventviews/src/agenda/calendardecoration.desktop:2
+msgctxt "Name"
+msgid "Calendar Decoration Interface"
+msgstr "Interfață de decorare pentru calendar"
+
+#: eventviews/src/agenda/calendardecoration.desktop:53
+msgctxt "Comment"
+msgid "Calendar Decoration Plugin"
+msgstr "Modul de decorare pentru calendar"
 
 #: examples/coisceim/coisceimpart.desktop:2
 msgctxt "Name"
@@ -1484,87 +1484,98 @@ msgctxt "Comment"
 msgid "A viewer/extractor for TNEF files"
 msgstr "Un vizualizator/extractor pentru fișiere TNEF"
 
-#: libkdepim/ldap/kcmldap.desktop:12
+#: libkdepim/src/ldap/kcmldap.desktop:12
 msgctxt "Name"
 msgid "LDAP Server Settings"
 msgstr "Configurări server LDAP"
 
-#: libkdepim/ldap/kcmldap.desktop:60
+#: libkdepim/src/ldap/kcmldap.desktop:60
 msgctxt "Comment"
 msgid "Configure the available LDAP servers"
 msgstr "Configurează serverele LDAP disponibile"
 
-#: libkdepim/ldap/kcmldap.desktop:106
+#: libkdepim/src/ldap/kcmldap.desktop:106
 msgctxt "X-KDE-Keywords"
 msgid "kaddressbook, configure, settings, LDAP"
 msgstr "kaddressbook, configurare, opțiuni, LDAP"
 
-#: libkleo/libkleopatrarc.desktop:5 libkleo/libkleopatrarc-win32.desktop:5
+#: libkleo/src/libkleopatrarc.desktop:5
+#: libkleo/src/libkleopatrarc-win32.desktop:5
 msgctxt "Name"
 msgid "TAR (PGP®-compatible)"
 msgstr "TAR (compatibil cu PGP®)"
 
-#: libkleo/libkleopatrarc.desktop:100
+#: libkleo/src/libkleopatrarc.desktop:100
 msgctxt "Name"
 msgid "TAR (with bzip2 compression)"
 msgstr "TAR (cu compresie bzip2)"
 
-#: libkleo/libkleopatrarc.desktop:152 libkleo/libkleopatrarc-win32.desktop:61
+#: libkleo/src/libkleopatrarc.desktop:152
+#: libkleo/src/libkleopatrarc-win32.desktop:61
 msgctxt "Name"
 msgid "sha1sum"
 msgstr "sha1sum"
 
-#: libkleo/libkleopatrarc.desktop:205 libkleo/libkleopatrarc-win32.desktop:166
+#: libkleo/src/libkleopatrarc.desktop:205
+#: libkleo/src/libkleopatrarc-win32.desktop:166
 msgctxt "Name"
 msgid "md5sum"
 msgstr "md5sum"
 
-#: libkleo/libkleopatrarc.desktop:256 libkleo/libkleopatrarc-win32.desktop:217
+#: libkleo/src/libkleopatrarc.desktop:256
+#: libkleo/src/libkleopatrarc-win32.desktop:217
 msgctxt "Name"
 msgid "Not Validated Key"
 msgstr "Cheie nevalidată"
 
-#: libkleo/libkleopatrarc.desktop:321 libkleo/libkleopatrarc-win32.desktop:282
+#: libkleo/src/libkleopatrarc.desktop:321
+#: libkleo/src/libkleopatrarc-win32.desktop:282
 msgctxt "Name"
 msgid "Expired Key"
 msgstr "Cheie expirată"
 
-#: libkleo/libkleopatrarc.desktop:387 libkleo/libkleopatrarc-win32.desktop:348
+#: libkleo/src/libkleopatrarc.desktop:387
+#: libkleo/src/libkleopatrarc-win32.desktop:348
 msgctxt "Name"
 msgid "Revoked Key"
 msgstr "Cheie revocată"
 
-#: libkleo/libkleopatrarc.desktop:453 libkleo/libkleopatrarc-win32.desktop:414
+#: libkleo/src/libkleopatrarc.desktop:453
+#: libkleo/src/libkleopatrarc-win32.desktop:414
 msgctxt "Name"
 msgid "Trusted Root Certificate"
 msgstr "Certificat rădăcină de încredere"
 
-#: libkleo/libkleopatrarc.desktop:521 libkleo/libkleopatrarc-win32.desktop:482
+#: libkleo/src/libkleopatrarc.desktop:521
+#: libkleo/src/libkleopatrarc-win32.desktop:482
 msgctxt "Name"
 msgid "Not Trusted Root Certificate"
 msgstr "Certificat rădăcină îndoielnic"
 
-#: libkleo/libkleopatrarc.desktop:585 libkleo/libkleopatrarc-win32.desktop:546
+#: libkleo/src/libkleopatrarc.desktop:585
+#: libkleo/src/libkleopatrarc-win32.desktop:546
 msgctxt "Name"
 msgid "Keys for Qualified Signatures"
 msgstr "Chei pentru semnături calificate"
 
-#: libkleo/libkleopatrarc.desktop:635 libkleo/libkleopatrarc-win32.desktop:596
+#: libkleo/src/libkleopatrarc.desktop:635
+#: libkleo/src/libkleopatrarc-win32.desktop:596
 msgctxt "Name"
 msgid "Other Keys"
 msgstr "Alte chei"
 
-#: libkleo/libkleopatrarc.desktop:689 libkleo/libkleopatrarc-win32.desktop:650
+#: libkleo/src/libkleopatrarc.desktop:689
+#: libkleo/src/libkleopatrarc-win32.desktop:650
 msgctxt "Name"
 msgid "Smartcard Key"
 msgstr "Cheie pe cartelă inteligentă"
 
-#: libkleo/libkleopatrarc-win32.desktop:114
+#: libkleo/src/libkleopatrarc-win32.desktop:114
 msgctxt "Name"
 msgid "sha256sum"
 msgstr "sha256sum"
 
-#: libksieve/ksieveui/data/scripts/copy/template.desktop:2
+#: libksieve/src/ksieveui/data/scripts/copy/template.desktop:2
 msgctxt "Name"
 msgid "Move to directory"
 msgstr ""
@@ -1574,42 +1585,42 @@ msgctxt "Name"
 msgid "MBoxImporter"
 msgstr ""
 
-#: messageviewer/header/allheaderstyleplugin/messageviewer_allheaderstyleplugin.desktop:5
+#: messageviewer/src/header/allheaderstyleplugin/messageviewer_allheaderstyleplugin.desktop:5
 msgctxt "Name"
 msgid "All Header Style"
 msgstr ""
 
-#: messageviewer/header/briefheaderstyleplugin/messageviewer_briefheaderstyleplugin.desktop:5
+#: messageviewer/src/header/briefheaderstyleplugin/messageviewer_briefheaderstyleplugin.desktop:6
 msgctxt "Name"
 msgid "Brief Header Style"
 msgstr ""
 
-#: messageviewer/header/customheaderstyleplugin/messageviewer_customheaderstyleplugin.desktop:5
+#: messageviewer/src/header/customheaderstyleplugin/messageviewer_customheaderstyleplugin.desktop:5
 msgctxt "Name"
 msgid "Custom Header Style"
 msgstr ""
 
-#: messageviewer/header/enterpriseheaderstyleplugin/messageviewer_enterpriseheaderstyleplugin.desktop:5
+#: messageviewer/src/header/enterpriseheaderstyleplugin/messageviewer_enterpriseheaderstyleplugin.desktop:5
 msgctxt "Name"
 msgid "Enterprise Header Style"
 msgstr ""
 
-#: messageviewer/header/fancyheaderstyleplugin/messageviewer_fancyheaderstyleplugin.desktop:5
+#: messageviewer/src/header/fancyheaderstyleplugin/messageviewer_fancyheaderstyleplugin.desktop:5
 msgctxt "Name"
 msgid "Fancy Header Style"
 msgstr ""
 
-#: messageviewer/header/grantleeheaderstyleplugin/messageviewer_grantleeheaderstyleplugin.desktop:5
+#: messageviewer/src/header/grantleeheaderstyleplugin/messageviewer_grantleeheaderstyleplugin.desktop:5
 msgctxt "Name"
 msgid "Grantlee Header Style"
 msgstr ""
 
-#: messageviewer/header/longheaderstyleplugin/messageviewer_longheaderstyleplugin.desktop:5
+#: messageviewer/src/header/longheaderstyleplugin/messageviewer_longheaderstyleplugin.desktop:5
 msgctxt "Name"
 msgid "Long Header Style"
 msgstr ""
 
-#: messageviewer/header/standardsheaderstyleplugin/messageviewer_standardsheaderstyleplugin.desktop:5
+#: messageviewer/src/header/standardsheaderstyleplugin/messageviewer_standardsheaderstyleplugin.desktop:5
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Standard profile"
@@ -1617,33 +1628,33 @@ msgctxt "Name"
 msgid "Standards Header Style"
 msgstr "Profil standard"
 
-#: messageviewer/notify/messageviewer.notifyrc:3
+#: messageviewer/src/notify/messageviewer.notifyrc:3
 #, fuzzy
 msgctxt "Comment"
 msgid "Message Viewer"
 msgstr "Name=Vizualizare card"
 
-#: messageviewer/notify/messageviewer.notifyrc:39
+#: messageviewer/src/notify/messageviewer.notifyrc:39
 msgctxt "Name"
 msgid "New Ad-Block list download done"
 msgstr ""
 
-#: messageviewer/notify/messageviewer.notifyrc:75
+#: messageviewer/src/notify/messageviewer.notifyrc:75
 msgctxt "Comment"
 msgid "New Ad-Block list download done"
 msgstr ""
 
-#: messageviewer/notify/messageviewer.notifyrc:114
+#: messageviewer/src/notify/messageviewer.notifyrc:114
 msgctxt "Name"
 msgid "New Ad-Block list download failed"
 msgstr ""
 
-#: messageviewer/notify/messageviewer.notifyrc:149
+#: messageviewer/src/notify/messageviewer.notifyrc:149
 msgctxt "Comment"
 msgid "New Ad-Block list download failed"
 msgstr ""
 
-#: messageviewer/themes/example_fancy/header.desktop:2
+#: messageviewer/src/themes/example_fancy/header.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Simple"
@@ -1651,12 +1662,12 @@ msgctxt "Name"
 msgid "Example fancy"
 msgstr "Simplă"
 
-#: messageviewer/themes/example_fancy/header.desktop:39
+#: messageviewer/src/themes/example_fancy/header.desktop:39
 msgctxt "Description"
 msgid "Create fancy theme with grantlee."
 msgstr ""
 
-#: messageviewer/themes/example/header.desktop:2
+#: messageviewer/src/themes/example/header.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Simple"
@@ -1664,17 +1675,17 @@ msgctxt "Name"
 msgid "Example"
 msgstr "Simplă"
 
-#: messageviewer/themes/example/header.desktop:42
+#: messageviewer/src/themes/example/header.desktop:42
 msgctxt "Description"
 msgid "Example theme for header."
 msgstr ""
 
-#: pimcommon/customtools/shorturlplugin/pimcommon_shorturlplugin.desktop:5
+#: pimcommon/src/customtools/shorturlplugin/pimcommon_shorturlplugin.desktop:5
 msgctxt "Name"
 msgid "Shorturl"
 msgstr ""
 
-#: pimcommon/customtools/translatorplugin/pimcommon_translatorplugin.desktop:5
+#: pimcommon/src/customtools/translatorplugin/pimcommon_translatorplugin.desktop:5
 msgctxt "Name"
 msgid "Translator"
 msgstr ""

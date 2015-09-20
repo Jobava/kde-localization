@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kturtle\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-01 08:32+0000\n"
+"POT-Creation-Date: 2015-09-15 10:26+0000\n"
 "PO-Revision-Date: 2012-12-22 11:56+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -18,6 +18,14 @@ msgstr ""
 "X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Florentina Mușat"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kuchiki14@yahoo.com"
 
 #: canvas.cpp:213
 msgid "bold"
@@ -99,25 +107,25 @@ msgstr "Direcție îna&poi:"
 msgid "&New direction:"
 msgstr "Direcție &nouă:"
 
-#: editor.cpp:162 editor.cpp:261
-msgid "Turtle code files"
-msgstr "Fișiere cod Turtle"
-
-#: editor.cpp:162 editor.cpp:261 mainwindow.cpp:1028 mainwindow.cpp:1051
-#: mainwindow.cpp:1067
-msgid "All files"
-msgstr "Toate fișierele"
-
-#: editor.cpp:163
+#: editor.cpp:161
 msgid "Open"
 msgstr "Deschide"
 
-#: editor.cpp:174
+#: editor.cpp:163 editor.cpp:270
+msgid "Turtle code files"
+msgstr "Fișiere cod Turtle"
+
+#: editor.cpp:163 editor.cpp:270 mainwindow.cpp:1031 mainwindow.cpp:1055
+#: mainwindow.cpp:1071
+msgid "All files"
+msgstr "Toate fișierele"
+
+#: editor.cpp:176
 #, kde-format
 msgid "Cannot read %1"
 msgstr "Nu se poate citi %1"
 
-#: editor.cpp:182
+#: editor.cpp:184
 #, kde-format
 msgid ""
 "The file you try to open is not a valid KTurtle script, or is incompatible "
@@ -128,25 +136,25 @@ msgstr ""
 "sau nu este compatibil cu această versiune KTurtle.\n"
 "Nu se poate deschide %1"
 
-#: editor.cpp:261
+#: editor.cpp:268
 msgid "Save As"
 msgstr "Salvează ca"
 
-#: editor.cpp:265 mainwindow.cpp:1033 mainwindow.cpp:1056 mainwindow.cpp:1072
+#: editor.cpp:276 mainwindow.cpp:1037 mainwindow.cpp:1060 mainwindow.cpp:1076
 #, kde-format
 msgid "Are you sure you want to overwrite %1?"
 msgstr "Sigur doriți să suprascrieți %1?"
 
-#: editor.cpp:265 mainwindow.cpp:1034 mainwindow.cpp:1057 mainwindow.cpp:1073
+#: editor.cpp:276 mainwindow.cpp:1038 mainwindow.cpp:1061 mainwindow.cpp:1077
 msgid "Overwrite Existing File"
 msgstr "Suprascrie fișierul existent"
 
-#: editor.cpp:266 mainwindow.cpp:1034 mainwindow.cpp:1035 mainwindow.cpp:1057
-#: mainwindow.cpp:1058 mainwindow.cpp:1073 mainwindow.cpp:1074
+#: editor.cpp:277 mainwindow.cpp:1038 mainwindow.cpp:1039 mainwindow.cpp:1061
+#: mainwindow.cpp:1062 mainwindow.cpp:1077 mainwindow.cpp:1078
 msgid "&Overwrite"
 msgstr "&Suprascrie"
 
-#: editor.cpp:276
+#: editor.cpp:287
 msgid ""
 "The program you are currently working on is not saved. By continuing you may "
 "lose the changes you have made."
@@ -154,11 +162,11 @@ msgstr ""
 "Programul la care lucrați acum nu este salvat. Dacă veți continua s-ar putea "
 "să pierdeți modificările făcute."
 
-#: editor.cpp:278
+#: editor.cpp:289
 msgid "Unsaved File"
 msgstr "Fișier nesalvat"
 
-#: editor.cpp:278
+#: editor.cpp:289
 msgid "&Discard Changes"
 msgstr "Renunță la mo&dificări"
 
@@ -496,12 +504,12 @@ msgstr "S-a așteptat ”la” după ”pentru”"
 msgid "Expected a name for a command after 'learn' command"
 msgstr "S-a așteptat un nume pentru o comandă după comanda ”învață”"
 
-#: interpreter/parser.cpp:241
+#: interpreter/parser.cpp:240
 #, fuzzy, kde-format
 msgid "You cannot put '%1' here."
 msgstr "Nu puteți pune %1 aici."
 
-#: interpreter/parser.cpp:277
+#: interpreter/parser.cpp:276
 msgid ""
 "Text string was not properly closed, expected a double quote, ' \" ', to "
 "close the string."
@@ -509,11 +517,11 @@ msgstr ""
 "Șirul de text nu a fost închis corespunzător,, s-a așteptat ghilimele duble, "
 "” , pentru a închide șirul."
 
-#: interpreter/parser.cpp:626
+#: interpreter/parser.cpp:624
 msgid "'for' was called wrongly"
 msgstr "”pentru” a fost apelat greșit"
 
-#: interpreter/parser.cpp:696
+#: interpreter/parser.cpp:694
 msgid "Expected a scope after the 'learn' command"
 msgstr "S-a așteptat un scop după comanda ”învață”"
 
@@ -1199,7 +1207,7 @@ msgstr "&Ajutor"
 msgid "Main Toolbar"
 msgstr "Bara de unelte principală"
 
-#: main.cpp:39
+#: main.cpp:45
 msgid ""
 "KTurtle is an educational programming environment that aims to make learning "
 "how to program as easy as possible. To achieve this KTurtle makes all "
@@ -1212,35 +1220,35 @@ msgstr ""
 "utilizatorul. Limbajul de programare folosit este TurtleScript care permite "
 "traducerea comenzilor."
 
-#: main.cpp:50
+#: main.cpp:64
 msgid "KTurtle"
 msgstr "KTurtle"
 
-#: main.cpp:51
+#: main.cpp:70
 msgid "Cies Breijs"
 msgstr "Cies Breijs"
 
-#: main.cpp:51
+#: main.cpp:70
 msgid "Initiator and core developer"
 msgstr "Inițiator si dezvoltator de bază"
 
-#: main.cpp:52
+#: main.cpp:71
 msgid "Niels Slot"
 msgstr "Niels Slot"
 
-#: main.cpp:52 main.cpp:53
+#: main.cpp:71 main.cpp:72
 msgid "Core developer"
 msgstr "Dezvoltator de bază"
 
-#: main.cpp:53
+#: main.cpp:72
 msgid "Mauricio Piacentini"
 msgstr "Mauricio Piacentini"
 
-#: main.cpp:59
+#: main.cpp:82
 msgid "File or URL to open (in the GUI mode)"
 msgstr "Fișier sau URL pentru deschidere (în modul GUI)"
 
-#: main.cpp:61
+#: main.cpp:83
 msgid ""
 "Starts KTurtle in D-Bus mode (without a GUI), good for automated unit test "
 "scripts"
@@ -1248,7 +1256,7 @@ msgstr ""
 "Pornește KTurtle în modul D-Bus (fără GUI), potrivit pentru scripturile de "
 "test pentru unitatea automată"
 
-#: main.cpp:63
+#: main.cpp:84
 msgid ""
 "Starts KTurtle in testing mode (without a GUI), directly runs the specified "
 "local file"
@@ -1256,7 +1264,7 @@ msgstr ""
 "Pornește KTurtle în modul de testare (fără GUI), rulează direct fișierul "
 "local specificat"
 
-#: main.cpp:65
+#: main.cpp:85
 msgid ""
 "Specifies the localization language by a language code, defaults to \"en_US"
 "\" (only works in testing mode)"
@@ -1264,7 +1272,7 @@ msgstr ""
 "Specifică limba de localizare după un limbaj de cod, implicit la ”en_US "
 "” (funcționează numai în modul de testare)"
 
-#: main.cpp:69
+#: main.cpp:87
 msgid ""
 "Translates turtle code to embeddable C++ example strings (for developers "
 "only)"
@@ -1727,95 +1735,95 @@ msgstr ""
 "Inspector: vedeți informații despre variabile și funcții când rulează "
 "programul"
 
-#: mainwindow.cpp:667
+#: mainwindow.cpp:668
 #, kde-format
 msgid "Switch to the %1 dictionary"
 msgstr "Comută la dicționarul %1"
 
-#: mainwindow.cpp:749
+#: mainwindow.cpp:750
 msgid " OVR "
 msgstr "OVR"
 
-#: mainwindow.cpp:749
+#: mainwindow.cpp:750
 msgid " INS "
 msgstr "INS"
 
-#: mainwindow.cpp:757
+#: mainwindow.cpp:758
 msgid "<nothing under cursor>"
 msgstr "<nothing under cursor>"
 
-#: mainwindow.cpp:758
+#: mainwindow.cpp:759
 #, kde-format
 msgid "Help on: %1"
 msgstr "Ajutor la: %1"
 
-#: mainwindow.cpp:763
+#: mainwindow.cpp:764
 #, kde-format
 msgid " Line: %1 Column: %2 "
 msgstr "Linia: %1 Coloana: %2"
 
-#: mainwindow.cpp:772
+#: mainwindow.cpp:773
 #, kde-format
 msgid "\"%1\" <%2>"
 msgstr "”%1” <%2>"
 
-#: mainwindow.cpp:775
+#: mainwindow.cpp:776
 msgid "<variable>"
 msgstr "<variable>"
 
-#: mainwindow.cpp:776
+#: mainwindow.cpp:777
 msgid "<number>"
 msgstr "<number>"
 
-#: mainwindow.cpp:777
+#: mainwindow.cpp:778
 msgid "<comment>"
 msgstr "<comment>"
 
-#: mainwindow.cpp:778
+#: mainwindow.cpp:779
 msgid "<string>"
 msgstr "<string>"
 
-#: mainwindow.cpp:784
+#: mainwindow.cpp:785
 msgid "scope"
 msgstr "scop"
 
-#: mainwindow.cpp:786
+#: mainwindow.cpp:787
 msgid "assignment"
 msgstr "atribuire"
 
-#: mainwindow.cpp:788
+#: mainwindow.cpp:789
 msgid "parenthesis"
 msgstr "paranteză"
 
-#: mainwindow.cpp:790
+#: mainwindow.cpp:791
 msgid "mathematical operator"
 msgstr "operator matematic"
 
-#: mainwindow.cpp:792
+#: mainwindow.cpp:793
 msgid "expression"
 msgstr "expresie"
 
-#: mainwindow.cpp:794
+#: mainwindow.cpp:795
 msgid "boolean operator"
 msgstr "operator boolean"
 
-#: mainwindow.cpp:796
+#: mainwindow.cpp:797
 msgid "learned command"
 msgstr "comandă învățată"
 
-#: mainwindow.cpp:798
+#: mainwindow.cpp:799
 msgid "argument separator"
 msgstr "separator de argument"
 
-#: mainwindow.cpp:801
+#: mainwindow.cpp:802
 msgid "command"
 msgstr "comandă"
 
-#: mainwindow.cpp:804
+#: mainwindow.cpp:805
 msgid "controller command"
 msgstr "comandă de controler"
 
-#: mainwindow.cpp:829
+#: mainwindow.cpp:830
 #, kde-format
 msgid "Could not change the language to %1."
 msgstr "Nu s-a putut modifica limba la %1."
@@ -1833,45 +1841,37 @@ msgstr "%1 (%2)"
 msgid "untitled"
 msgstr "fără titlu"
 
-#: mainwindow.cpp:1028
-msgid "PNG Images"
-msgstr "Imagini PNG"
-
-#: mainwindow.cpp:1028
+#: mainwindow.cpp:1029
 msgid "Save as Picture"
 msgstr "Salvează ca imagine"
 
-#: mainwindow.cpp:1051
-msgid "Scalable Vector Graphics"
-msgstr "Grafică vectorială scalabilă"
+#: mainwindow.cpp:1031
+msgid "PNG Images"
+msgstr "Imagini PNG"
 
-#: mainwindow.cpp:1051
+#: mainwindow.cpp:1055
 msgid "Save as SVG"
 msgstr "Salvează ca SVG"
 
-#: mainwindow.cpp:1067
-msgid "HTML documents"
-msgstr "Documente HTML"
+#: mainwindow.cpp:1055
+msgid "Scalable Vector Graphics"
+msgstr "Grafică vectorială scalabilă"
 
-#: mainwindow.cpp:1067
+#: mainwindow.cpp:1071
 msgid "Save code as HTML"
 msgstr "Salvează cod ca HTML"
 
-#: mainwindow.cpp:1091
+#: mainwindow.cpp:1071
+msgid "HTML documents"
+msgstr "Documente HTML"
+
+#: mainwindow.cpp:1095
 msgid "Input"
 msgstr "Intrare"
 
-#: mainwindow.cpp:1100
+#: mainwindow.cpp:1104
 msgid "Message"
 msgstr "Mesaj"
-
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "Florentina Mușat"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "kuchiki14@yahoo.com"
 
 #~ msgid "This button hides the Errors tab"
 #~ msgstr "Acest buton ascunde tabul Erori"

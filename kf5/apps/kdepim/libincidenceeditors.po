@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:13+0000\n"
+"POT-Creation-Date: 2015-09-19 09:05+0000\n"
 "PO-Revision-Date: 2011-01-09 12:38+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1135,43 +1135,19 @@ msgctxt "ldap attribute mobile"
 msgid "Mobile"
 msgstr ""
 
-#: main.cpp:44
-msgid "KOrganizer"
-msgstr ""
-
-#: main.cpp:46
-msgid "KDE application to run the KOrganizer incidenceeditor."
-msgstr ""
-
-#: main.cpp:48
-msgid "(C) 2010 Bertjan Broeksema"
-msgstr ""
-
 #: main.cpp:49
-msgid "Run the KOrganizer incidenceeditor ng."
-msgstr ""
-
-#: main.cpp:52
-msgid "Bertjan Broeksema"
-msgstr ""
-
-#: main.cpp:52
-msgid "Author"
-msgstr ""
-
-#: main.cpp:56
 msgid "Creates a new event"
 msgstr ""
 
-#: main.cpp:57
+#: main.cpp:50
 msgid "Creates a new todo"
 msgstr ""
 
-#: main.cpp:58
+#: main.cpp:51
 msgid "Creates a new journal"
 msgstr ""
 
-#: main.cpp:60
+#: main.cpp:52
 msgid ""
 "Loads an existing item, or returns without doing anything when the item is "
 "not an event or todo."
@@ -1255,14 +1231,6 @@ msgstr ""
 
 #: templatemanagementdialog.cpp:155
 msgid "Remove"
-msgstr ""
-
-#: tests/resourcemanagment_gui.cpp:34
-msgid "resourcemanagement_Gui"
-msgstr ""
-
-#: tests/resourcemanagment_gui.cpp:35
-msgid "Test for resourceManagement"
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, AlarmDialog)

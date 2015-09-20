@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdeutils\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:33+0000\n"
+"POT-Creation-Date: 2015-09-15 11:01+0000\n"
 "PO-Revision-Date: 2013-10-13 12:49+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -46,7 +46,7 @@ msgctxt "Comment"
 msgid "KDE Wallet Management Tool"
 msgstr "Administrare portofel"
 
-#: org.kde.kwalletmanager5.desktop:77
+#: org.kde.kwalletmanager5.desktop:81
 msgctxt "GenericName"
 msgid "Wallet Management Tool"
 msgstr "Administrare portofel"

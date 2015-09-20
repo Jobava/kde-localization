@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-10 01:48+0000\n"
+"POT-Creation-Date: 2015-09-17 09:24+0000\n"
 "PO-Revision-Date: 2015-04-26 13:55+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -28,7 +28,7 @@ msgstr[0] " mesaj"
 msgstr[1] " mesaje"
 msgstr[2] " de mesaje"
 
-#: behavior-config.cpp:64
+#: behavior-config.cpp:67
 msgctxt "Placeholder for contact name in completion suffix selector"
 msgid "Nickname"
 msgstr "Poreclă"
@@ -118,6 +118,16 @@ msgstr "Discuții în grup"
 #: behavior-config.ui:207
 msgid "Stay connected to group chat even when tab is closed"
 msgstr "Rămîi conectat la discuțiile în grup chiar dacă fila e închisă"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: behavior-config.ui:217
+msgid "Keyboard Layouts"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, rememberTabKeyboardLayout)
+#: behavior-config.ui:223
+msgid "Remember keyboard layout for each tab"
+msgstr ""
 
 #~ msgid "A new tab in the last focused window"
 #~ msgstr "Filă nouă în ultima fereastră focalizată"

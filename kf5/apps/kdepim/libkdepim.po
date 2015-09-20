@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libkdepim\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-09 08:19+0000\n"
+"POT-Creation-Date: 2015-09-16 08:13+0000\n"
 "PO-Revision-Date: 2013-01-10 15:02+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -200,81 +200,6 @@ msgstr[2] ""
 msgid "Remove"
 msgstr "&Elimină"
 
-#: freebusymodel/freebusycalendar.cpp:133
-msgid "Free"
-msgstr ""
-
-#: freebusymodel/freebusycalendar.cpp:136
-msgid "Busy"
-msgstr ""
-
-#: freebusymodel/freebusycalendar.cpp:139
-#, fuzzy
-#| msgid "Available Pages"
-msgid "Unavailable"
-msgstr "Pagini disponibile"
-
-#: freebusymodel/freebusycalendar.cpp:142
-msgid "Tentative"
-msgstr ""
-
-#: freebusymodel/freebusycalendar.cpp:145
-msgid "Unknown"
-msgstr "Necunoscut"
-
-#: freebusymodel/freebusyitemmodel.cpp:230
-#, fuzzy
-#| msgid "Attendees"
-msgid "Attendee"
-msgstr "Participanți"
-
-#: freebusymodel/freeperiodmodel.cpp:150
-#, kde-format
-msgctxt "@label Day of the week name, example: Monday,"
-msgid "%1,"
-msgstr ""
-
-#: freebusymodel/freeperiodmodel.cpp:165
-#, kde-format
-msgctxt ""
-"@label A time period duration. It is preceded/followed (based on the "
-"orientation) by the name of the week, see the message above. example: 12 "
-"June, 8:00am to 9:30am"
-msgid "%1 %2, %3 to %4"
-msgstr ""
-
-#: freebusymodel/freeperiodmodel.cpp:185
-#, kde-format
-msgctxt ""
-"@label A time period duration. KLocale is used to format the components. "
-"example: Monday, 12 June, 8:00am to 9:30am"
-msgid "%1, %2 %3, %4 to %5"
-msgstr ""
-
-#: freebusymodel/freeperiodmodel.cpp:199
-msgctxt "@info:tooltip"
-msgid "Free Period"
-msgstr ""
-
-#: freebusymodel/freeperiodmodel.cpp:201
-#, fuzzy
-#| msgid "Start time"
-msgctxt "@info:tooltip period start time"
-msgid "Start:"
-msgstr "Timp de început"
-
-#: freebusymodel/freeperiodmodel.cpp:204
-msgctxt "@info:tooltip period end time"
-msgid "End:"
-msgstr ""
-
-#: freebusymodel/freeperiodmodel.cpp:207
-#, fuzzy
-#| msgid "Duration"
-msgctxt "@info:tooltip period duration"
-msgid "Duration:"
-msgstr "Durată"
-
 #: job/addcontactjob.cpp:65
 msgctxt "@info"
 msgid ""
@@ -403,12 +328,12 @@ msgstr "&Redactează gazda..."
 msgid "&Remove Host"
 msgstr "&Elimină gazda"
 
-#: ldap/ldapclientsearchconfig.cpp:107
+#: ldap/ldapclientsearchconfig.cpp:106
 msgid ""
 "LDAP password is stored as clear text, do you want to store it in kwallet?"
 msgstr ""
 
-#: ldap/ldapclientsearchconfig.cpp:108
+#: ldap/ldapclientsearchconfig.cpp:107
 msgid "Store clear text password in KWallet"
 msgstr ""
 
@@ -706,6 +631,31 @@ msgstr "Alegeți cartea de adrese"
 msgctxt "@info"
 msgid "Select the address book where the contact will be saved:"
 msgstr "Alegeți cartea de adrese în care se va salva contactul:"
+
+#, fuzzy
+#~| msgid "Available Pages"
+#~ msgid "Unavailable"
+#~ msgstr "Pagini disponibile"
+
+#~ msgid "Unknown"
+#~ msgstr "Necunoscut"
+
+#, fuzzy
+#~| msgid "Attendees"
+#~ msgid "Attendee"
+#~ msgstr "Participanți"
+
+#, fuzzy
+#~| msgid "Start time"
+#~ msgctxt "@info:tooltip period start time"
+#~ msgid "Start:"
+#~ msgstr "Timp de început"
+
+#, fuzzy
+#~| msgid "Duration"
+#~ msgctxt "@info:tooltip period duration"
+#~ msgid "Duration:"
+#~ msgstr "Durată"
 
 #~ msgctxt "%1 is a time, %2 is a status message"
 #~ msgid "[%1] %2"

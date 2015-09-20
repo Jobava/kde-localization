@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 12:36+0000\n"
+"POT-Creation-Date: 2015-09-19 13:11+0000\n"
 "PO-Revision-Date: 2014-12-03 12:50+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -2809,7 +2809,7 @@ msgstr ""
 msgid "Simulates a vinyl audio player - LADSPA audio effect"
 msgstr ""
 
-#: data/effects/ladspa_vinyl.xml:7 src/project/dialogs/projectsettings.cpp:167
+#: data/effects/ladspa_vinyl.xml:7 src/project/dialogs/projectsettings.cpp:166
 msgid "Year"
 msgstr "An"
 
@@ -3266,7 +3266,7 @@ msgstr "Regim"
 msgid "Alpha Operation"
 msgstr "Operație"
 
-#: data/effects/rotoscoping.xml:22 src/timeline/customtrackview.cpp:3239
+#: data/effects/rotoscoping.xml:22 src/timeline/customtrackview.cpp:3246
 msgid "Track"
 msgstr "Pistă"
 
@@ -3406,7 +3406,7 @@ msgstr "Viteză"
 msgid "Phase"
 msgstr "Fază"
 
-#: data/effects/sox_flanger.xml:28 src/monitor/monitormanager.cpp:379
+#: data/effects/sox_flanger.xml:28 src/monitor/monitormanager.cpp:376
 msgid "Interpolation"
 msgstr "Interpolare"
 
@@ -3936,12 +3936,12 @@ msgid "Show Log"
 msgstr "Arată jurnalul"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: src/bin/bin.cpp:663 src/project/folderprojectitem.cpp:37
+#: src/bin/bin.cpp:700 src/project/folderprojectitem.cpp:37
 #: src/project/projectlist.cpp:1085 src/ui/slideshowclip_ui.ui:60
 msgid "Folder"
 msgstr "Dosar"
 
-#: src/bin/bin.cpp:788
+#: src/bin/bin.cpp:825
 #, kde-format
 msgid "Folder contains a clip, delete anyways ?"
 msgid_plural "Folder contains %1 clips, delete anyways ?"
@@ -3949,26 +3949,26 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: src/bin/bin.cpp:909 src/mainwindow.cpp:1210
+#: src/bin/bin.cpp:943 src/mainwindow.cpp:1211
 #: src/project/projectlist.cpp:1004
 msgid "Delete Clip"
 msgstr "Ștergere clip"
 
-#: src/bin/bin.cpp:910 src/mainwindow.cpp:1222
+#: src/bin/bin.cpp:944 src/mainwindow.cpp:1223
 msgid "Proxy Clip"
 msgstr ""
 
-#: src/bin/bin.cpp:918 src/project/projectlist.cpp:995
+#: src/bin/bin.cpp:952 src/project/projectlist.cpp:995
 msgid "Delete Folder"
 msgstr "Șterge dosarul"
 
-#: src/bin/bin.cpp:919
+#: src/bin/bin.cpp:953
 #, fuzzy
 #| msgid "Project Folder"
 msgid "Proxy Folder"
 msgstr "Dosar proiect"
 
-#: src/bin/bin.cpp:1683 src/bin/bincommands.cpp:62 src/bin/bincommands.cpp:82
+#: src/bin/bin.cpp:1726 src/bin/bincommands.cpp:62 src/bin/bincommands.cpp:82
 #, fuzzy
 #| msgid "Move clip"
 msgid "Move Clip"
@@ -3977,32 +3977,32 @@ msgstr[0] "Mută clipul"
 msgstr[1] "Mută clipul"
 msgstr[2] "Mută clipul"
 
-#: src/bin/bin.cpp:2028 src/project/projectlist.cpp:465
+#: src/bin/bin.cpp:2071 src/project/projectlist.cpp:465
 msgid "Please set a default application to open images in the Settings dialog"
 msgstr ""
 
-#: src/bin/bin.cpp:2034 src/project/projectlist.cpp:471
+#: src/bin/bin.cpp:2077 src/project/projectlist.cpp:471
 msgid ""
 "Please set a default application to open audio files in the Settings dialog"
 msgstr ""
 
-#: src/bin/bin.cpp:2056 src/project/projectlist.cpp:2661
+#: src/bin/bin.cpp:2099 src/project/projectlist.cpp:2661
 msgid "No data returned from clip analysis"
 msgstr ""
 
-#: src/bin/bin.cpp:2069 src/project/projectlist.cpp:2674
+#: src/bin/bin.cpp:2112 src/project/projectlist.cpp:2674
 msgid "Processing data analysis"
 msgstr ""
 
-#: src/bin/bin.cpp:2075 src/project/projectlist.cpp:2680
+#: src/bin/bin.cpp:2118 src/project/projectlist.cpp:2680
 msgid "Auto Split Clip"
 msgstr "Împărțire automată clip"
 
-#: src/bin/bin.cpp:2093 src/project/projectlist.cpp:2698
+#: src/bin/bin.cpp:2136 src/project/projectlist.cpp:2698
 msgid "Add Markers"
 msgstr "Adaugă marcaje"
 
-#: src/bin/bin.cpp:2121 src/mltcontroller/clippropertiescontroller.cpp:81
+#: src/bin/bin.cpp:2164 src/mltcontroller/clippropertiescontroller.cpp:81
 #: src/project/clipproperties.cpp:474 src/project/projectcommands.cpp:164
 #, fuzzy
 #| msgid "Add marker"
@@ -4012,84 +4012,84 @@ msgstr[0] "Adaugă marcaj"
 msgstr[1] "Adaugă marcaj"
 msgstr[2] "Adaugă marcaj"
 
-#: src/bin/bin.cpp:2132 src/bin/bin.cpp:2216 src/project/jobs/filterjob.cpp:96
+#: src/bin/bin.cpp:2175 src/bin/bin.cpp:2257 src/project/jobs/filterjob.cpp:96
 #: src/timeline/markerdialog.cpp:45
 #, kde-format
 msgid "Category %1"
 msgstr "Categoria %1"
 
-#: src/bin/bin.cpp:2137
+#: src/bin/bin.cpp:2180
 #, fuzzy
 #| msgid "Load markers"
 msgid "Load Clip Markers"
 msgstr "Încarcă marcaje"
 
-#: src/bin/bin.cpp:2152 src/bin/bin.cpp:2251
+#: src/bin/bin.cpp:2195 src/bin/bin.cpp:2292
 #: src/dialogs/profilesdialog.cpp:219 src/dialogs/profilesdialog.cpp:520
 #, kde-format
 msgid "Cannot open file %1"
 msgstr "Nu se poate deschide fișierul %1"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, MarkerDialog_UI)
-#: src/bin/bin.cpp:2178 src/definitions.cpp:79 src/definitions.cpp:96
-#: src/doc/docclipbase.cpp:367 src/mainwindow.cpp:1801
+#: src/bin/bin.cpp:2221 src/definitions.cpp:79 src/definitions.cpp:96
+#: src/doc/docclipbase.cpp:367 src/mainwindow.cpp:1802
 #: src/mltcontroller/clipcontroller.cpp:500
 #: src/mltcontroller/clippropertiescontroller.cpp:706
 #: src/project/clipproperties.cpp:801 src/ui/markerdialog_ui.ui:14
 msgid "Marker"
 msgstr "Marcator"
 
-#: src/bin/bin.cpp:2214
+#: src/bin/bin.cpp:2255
 msgid "All categories"
 msgstr "Toate categoriile"
 
-#: src/bin/bin.cpp:2221
+#: src/bin/bin.cpp:2262
 #, fuzzy
 #| msgid "Save markers"
 msgid "Save Clip Markers"
 msgstr "Salvează marcajele"
 
-#: src/bin/bin.cpp:2264 src/mltcontroller/clippropertiescontroller.cpp:82
+#: src/bin/bin.cpp:2305 src/mltcontroller/clippropertiescontroller.cpp:82
 #: src/project/clipproperties.cpp:478 src/project/projectcommands.cpp:162
 msgid "Delete marker"
 msgstr "Șterge marcajul"
 
-#: src/bin/bin.cpp:2279
+#: src/bin/bin.cpp:2320
 #, fuzzy
 #| msgid "Delete marker"
 msgid "Delete clip markers"
 msgstr "Șterge marcajul"
 
-#: src/bin/bin.cpp:2281
+#: src/bin/bin.cpp:2322
 msgid "Clip has no markers"
 msgstr "Clipul nu are marcaje"
 
-#: src/bin/bin.cpp:2313 src/project/clippropertiesmanager.cpp:126
+#: src/bin/bin.cpp:2354 src/project/clippropertiesmanager.cpp:126
 #, kde-format
 msgid ""
 "You are editing an external title clip (%1). Do you want to save your "
 "changes to the title file or save the changes for this project only?"
 msgstr ""
 
-#: src/bin/bin.cpp:2313 src/project/clippropertiesmanager.cpp:126
+#: src/bin/bin.cpp:2354 src/project/clippropertiesmanager.cpp:126
 #: src/titler/titlewidget.cpp:1759
 msgid "Save Title"
 msgstr "Salvează titlul"
 
-#: src/bin/bin.cpp:2313 src/project/clippropertiesmanager.cpp:126
+#: src/bin/bin.cpp:2354 src/project/clippropertiesmanager.cpp:126
 msgid "Save to title file"
 msgstr "Salvează în fișierul titlu"
 
-#: src/bin/bin.cpp:2313 src/project/clippropertiesmanager.cpp:126
+#: src/bin/bin.cpp:2354 src/project/clippropertiesmanager.cpp:126
 msgid "Save in project only"
 msgstr "Salvează numai în proiect"
 
-#: src/bin/bin.cpp:2384 src/project/projectlist.cpp:1428
-#: src/project/projectlist.cpp:1430 src/timeline/customtrackview.cpp:4276
+#: src/bin/bin.cpp:2425 src/project/projectlist.cpp:1428
+#: src/project/projectlist.cpp:1430 src/timeline/customtrackview.cpp:4283
 msgid "Invalid clip"
 msgstr "Clip nevalid"
 
-#: src/bin/bin.cpp:2384 src/project/projectlist.cpp:1428
+#: src/bin/bin.cpp:2425 src/project/projectlist.cpp:1428
 msgid "Clip is invalid, will be removed from project."
 msgstr "Clipul nu este valid, va fi eliminat din proiect."
 
@@ -4144,37 +4144,37 @@ msgstr "Modifică clipul"
 msgid "Untitled"
 msgstr "Fără titlu"
 
-#: src/bin/projectclip.cpp:246 src/project/projectlist.cpp:2458
+#: src/bin/projectclip.cpp:258 src/project/projectlist.cpp:2458
 msgctxt "The first letter of Proxy, used as abbreviation"
 msgid "P"
 msgstr "P"
 
-#: src/bin/projectclip.cpp:829
+#: src/bin/projectclip.cpp:842
 #, fuzzy
 #| msgid "Creating audio thumbnail for %1"
 msgid "Creating audio thumbnails"
 msgstr "Se creează miniatura sonoră pentru %1"
 
-#: src/bin/projectclip.cpp:880
+#: src/bin/projectclip.cpp:893
 #, fuzzy
 #| msgid "Show audio thumbnails"
 msgid "Audio thumbnails done"
 msgstr "Arată miniaturile audio"
 
-#: src/bin/projectclip.cpp:904 src/doc/docclipbase.cpp:1228
+#: src/bin/projectclip.cpp:917 src/doc/docclipbase.cpp:1228
 #, kde-format
 msgid "Clip already contains analysis data %1"
 msgstr ""
 
-#: src/bin/projectclip.cpp:904 src/doc/docclipbase.cpp:1228
+#: src/bin/projectclip.cpp:917 src/doc/docclipbase.cpp:1228
 msgid "Merge"
 msgstr "Combină"
 
-#: src/bin/projectclip.cpp:904 src/doc/docclipbase.cpp:1228
+#: src/bin/projectclip.cpp:917 src/doc/docclipbase.cpp:1228
 msgid "Add"
 msgstr "Adaugă"
 
-#: src/bin/projectfolder.cpp:74
+#: src/bin/projectfolder.cpp:73
 #, fuzzy, kde-format
 #| msgid "(%1 clip)"
 #| msgid_plural "(%1 clips)"
@@ -4201,7 +4201,7 @@ msgid "Name"
 msgstr "Nume"
 
 #: src/bin/projectitemmodel.cpp:173
-#: src/project/dialogs/projectsettings.cpp:174
+#: src/project/dialogs/projectsettings.cpp:173
 #: src/project/projectlistview.cpp:59
 msgid "Date"
 msgstr "Dată"
@@ -4239,7 +4239,7 @@ msgstr ""
 msgid "Title clip"
 msgstr "Titlu clip"
 
-#: src/dialogs/clipcreationdialog.cpp:235 src/doc/kdenlivedoc.cpp:1142
+#: src/dialogs/clipcreationdialog.cpp:235 src/doc/kdenlivedoc.cpp:1147
 msgid "Template title clip"
 msgstr ""
 
@@ -4251,12 +4251,12 @@ msgstr[1] "Adaugă clipuri"
 msgstr[2] "Adaugă clipuri"
 
 #: src/dialogs/clipcreationdialog.cpp:436
-#: src/effectstack/collapsibleeffect.cpp:161 src/mainwindow.cpp:2724
+#: src/effectstack/collapsibleeffect.cpp:161 src/mainwindow.cpp:2725
 msgid "All Supported Files"
 msgstr "Toate fișierele suportate"
 
 #: src/dialogs/clipcreationdialog.cpp:436
-#: src/effectstack/collapsibleeffect.cpp:161 src/mainwindow.cpp:2724
+#: src/effectstack/collapsibleeffect.cpp:161 src/mainwindow.cpp:2725
 msgid "All Files"
 msgstr "Toate fișierele"
 
@@ -4427,7 +4427,7 @@ msgstr "Întrețesut"
 #: src/mltcontroller/clippropertiescontroller.cpp:262
 #: src/mltcontroller/clippropertiescontroller.cpp:625
 #: src/project/clipproperties.cpp:119 src/project/clipproperties.cpp:685
-#: src/project/dialogs/projectsettings.cpp:429 src/ui/profiledialog_ui.ui:232
+#: src/project/dialogs/projectsettings.cpp:428 src/ui/profiledialog_ui.ui:232
 msgid "Progressive"
 msgstr "Progresiv"
 
@@ -4462,21 +4462,21 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/profilesdialog.cpp:225 src/dialogs/profilesdialog.cpp:526
-#: src/dialogs/renderwidget.cpp:605 src/dialogs/renderwidget.cpp:793
-#: src/dialogs/renderwidget.cpp:799 src/dialogs/renderwidget.cpp:859
-#: src/dialogs/renderwidget.cpp:999 src/dialogs/renderwidget.cpp:1164
-#: src/dialogs/renderwidget.cpp:2271 src/dialogs/renderwidget.cpp:2294
+#: src/dialogs/renderwidget.cpp:607 src/dialogs/renderwidget.cpp:794
+#: src/dialogs/renderwidget.cpp:800 src/dialogs/renderwidget.cpp:860
+#: src/dialogs/renderwidget.cpp:1000 src/dialogs/renderwidget.cpp:1165
+#: src/dialogs/renderwidget.cpp:2278 src/dialogs/renderwidget.cpp:2301
 #: src/doc/kdenlivedoc.cpp:700 src/doc/kdenlivedoc.cpp:706
 #: src/dvdwizard/dvdwizard.cpp:934 src/dvdwizard/dvdwizard.cpp:940
-#: src/mainwindow.cpp:2938 src/mainwindow.cpp:2943
+#: src/mainwindow.cpp:2939 src/mainwindow.cpp:2944
 #: src/project/dialogs/archivewidget.cpp:789
 #: src/project/dialogs/archivewidget.cpp:795 src/titler/titlewidget.cpp:1773
 #, kde-format
 msgid "Cannot write to file %1"
 msgstr "Nu se poate scrie în fișierul %1"
 
-#: src/dialogs/renderwidget.cpp:102 src/dialogs/renderwidget.cpp:1229
-#: src/dialogs/renderwidget.cpp:2184
+#: src/dialogs/renderwidget.cpp:102 src/dialogs/renderwidget.cpp:1230
+#: src/dialogs/renderwidget.cpp:2191
 msgid "Waiting..."
 msgstr "Așteptați..."
 
@@ -4525,43 +4525,43 @@ msgstr "Fișiere script"
 msgid "Beginning"
 msgstr "Început"
 
-#: src/dialogs/renderwidget.cpp:471 src/dialogs/renderwidget.cpp:487
-#: src/dialogs/renderwidget.cpp:681 src/dialogs/renderwidget.cpp:699
+#: src/dialogs/renderwidget.cpp:473 src/dialogs/renderwidget.cpp:489
+#: src/dialogs/renderwidget.cpp:683 src/dialogs/renderwidget.cpp:701
 msgid "Qualities"
 msgstr "Calități"
 
-#: src/dialogs/renderwidget.cpp:472 src/dialogs/renderwidget.cpp:488
-#: src/dialogs/renderwidget.cpp:682 src/dialogs/renderwidget.cpp:700
+#: src/dialogs/renderwidget.cpp:474 src/dialogs/renderwidget.cpp:490
+#: src/dialogs/renderwidget.cpp:684 src/dialogs/renderwidget.cpp:702
 msgid "Default quality"
 msgstr "Calitate implicită"
 
 #. i18n: ectx: property (text), widget (QLabel, vbitrates_label)
 #. i18n: ectx: property (text), widget (QLabel, abitrates_label)
-#: src/dialogs/renderwidget.cpp:474 src/dialogs/renderwidget.cpp:490
-#: src/dialogs/renderwidget.cpp:684 src/dialogs/renderwidget.cpp:702
+#: src/dialogs/renderwidget.cpp:476 src/dialogs/renderwidget.cpp:492
+#: src/dialogs/renderwidget.cpp:686 src/dialogs/renderwidget.cpp:704
 #: src/ui/saveprofile_ui.ui:40 src/ui/saveprofile_ui.ui:73
 msgid "Bitrates"
 msgstr "Rate de biți"
 
 #. i18n: ectx: property (text), widget (QLabel, default_vbitrate_label)
 #. i18n: ectx: property (text), widget (QLabel, default_abitrate_label)
-#: src/dialogs/renderwidget.cpp:475 src/dialogs/renderwidget.cpp:491
-#: src/dialogs/renderwidget.cpp:685 src/dialogs/renderwidget.cpp:703
+#: src/dialogs/renderwidget.cpp:477 src/dialogs/renderwidget.cpp:493
+#: src/dialogs/renderwidget.cpp:687 src/dialogs/renderwidget.cpp:705
 #: src/ui/saveprofile_ui.ui:26 src/ui/saveprofile_ui.ui:80
 msgid "Default bitrate"
 msgstr "Rata de biți implicită"
 
-#: src/dialogs/renderwidget.cpp:502 src/dialogs/renderwidget.cpp:508
-#: src/dialogs/renderwidget.cpp:672 src/dialogs/renderwidget.cpp:743
+#: src/dialogs/renderwidget.cpp:504 src/dialogs/renderwidget.cpp:510
+#: src/dialogs/renderwidget.cpp:674 src/dialogs/renderwidget.cpp:744
 msgctxt "Group Name"
 msgid "Custom"
 msgstr "Personalizat"
 
-#: src/dialogs/renderwidget.cpp:584 src/dialogs/renderwidget.cpp:754
+#: src/dialogs/renderwidget.cpp:586 src/dialogs/renderwidget.cpp:755
 msgid "Profile already exists"
 msgstr "Profilul există deja"
 
-#: src/dialogs/renderwidget.cpp:584 src/dialogs/renderwidget.cpp:754
+#: src/dialogs/renderwidget.cpp:586 src/dialogs/renderwidget.cpp:755
 msgid ""
 "This profile name already exists. Change the name if you don't want to "
 "overwrite it."
@@ -4569,105 +4569,111 @@ msgstr ""
 "Această denumire de profil există deja. Schimbați denumirea dacă nu doriți "
 "să-l suprascrieți."
 
-#: src/dialogs/renderwidget.cpp:599 src/dialogs/renderwidget.cpp:853
-#: src/dialogs/renderwidget.cpp:1762
+#: src/dialogs/renderwidget.cpp:601 src/dialogs/renderwidget.cpp:854
+#: src/dialogs/renderwidget.cpp:1769
 #, kde-format
 msgid "Unable to write to file %1"
 msgstr "Nu se poate scrie în fișierul %1"
 
-#: src/dialogs/renderwidget.cpp:625 src/dialogs/renderwidget.cpp:1746
-#: src/dialogs/renderwidget.cpp:1795
+#: src/dialogs/renderwidget.cpp:627 src/dialogs/renderwidget.cpp:1753
+#: src/dialogs/renderwidget.cpp:1802
 msgctxt "Category Name"
 msgid "Custom"
 msgstr "Personalizată"
 
-#: src/dialogs/renderwidget.cpp:714
+#: src/dialogs/renderwidget.cpp:715
 msgid "Edit Profile"
 msgstr "Modifică profilul"
 
-#: src/dialogs/renderwidget.cpp:912
+#: src/dialogs/renderwidget.cpp:913
 msgid "Cannot find the melt program required for rendering (part of Mlt)"
 msgstr "Nu se poate găsi programul melt necesar pentru randare (parte a Mlt)"
 
-#: src/dialogs/renderwidget.cpp:916
+#: src/dialogs/renderwidget.cpp:917
 msgid ""
 "Cannot play video after rendering because the default video player "
 "application is not set.\n"
 "Please define it in Kdenlive settings dialog."
 msgstr ""
 
-#: src/dialogs/renderwidget.cpp:924 src/doc/kdenlivedoc.cpp:317
+#: src/dialogs/renderwidget.cpp:925 src/doc/kdenlivedoc.cpp:317
 #, kde-format
 msgid ""
 "The directory %1, could not be created.\n"
 "Please make sure you have the required permissions."
 msgstr ""
 
-#: src/dialogs/renderwidget.cpp:967
+#: src/dialogs/renderwidget.cpp:968
 #: src/scopes/colorscopes/colorplaneexport.cpp:165
 #, kde-format
 msgid "File has no extension. Add extension (%1)?"
 msgstr "Fișierul nu are extensie. Adăugați o extensie (%1)?"
 
-#: src/dialogs/renderwidget.cpp:981
+#: src/dialogs/renderwidget.cpp:982
 msgid "Output file already exists. Do you want to overwrite it?"
 msgstr ""
 
-#: src/dialogs/renderwidget.cpp:1218 src/dialogs/renderwidget.cpp:2172
+#: src/dialogs/renderwidget.cpp:1219 src/dialogs/renderwidget.cpp:2179
 #, kde-format
 msgid ""
 "There is already a job writing file:<br /><b>%1</b><br />Abort the job if "
 "you want to overwrite it..."
 msgstr ""
 
-#: src/dialogs/renderwidget.cpp:1218 src/dialogs/renderwidget.cpp:2172
+#: src/dialogs/renderwidget.cpp:1219 src/dialogs/renderwidget.cpp:2179
 msgid "Already running"
 msgstr "Rulează deja"
 
-#: src/dialogs/renderwidget.cpp:1262
+#: src/dialogs/renderwidget.cpp:1263
 msgid "Video without audio track"
 msgstr "Video fără pistă audio"
 
-#: src/dialogs/renderwidget.cpp:1315
+#: src/dialogs/renderwidget.cpp:1316
 #, kde-format
 msgid "Rendering <i>%1</i> started"
 msgstr "Randarea <i>%1</i> a pornit"
 
-#: src/dialogs/renderwidget.cpp:1472
+#: src/dialogs/renderwidget.cpp:1473
 #, kde-format
 msgid "Frame rate (%1) not compatible with project profile (%2)"
 msgstr "Rata de cadre (%1) nu e compatibilă cu fișierul proiectului (%2)"
 
-#: src/dialogs/renderwidget.cpp:1490
+#: src/dialogs/renderwidget.cpp:1491
 #, kde-format
 msgid "Unsupported video format: %1"
 msgstr "Format video nesuportat: %1"
 
-#: src/dialogs/renderwidget.cpp:1506
+#: src/dialogs/renderwidget.cpp:1507
 #, kde-format
 msgid "Unsupported audio codec: %1"
 msgstr "Codec audio nesuportat: %1"
 
-#: src/dialogs/renderwidget.cpp:1523
+#: src/dialogs/renderwidget.cpp:1524
 #, kde-format
 msgid "Unsupported video codec: %1"
 msgstr "Codec video nesuportat: %1"
 
-#: src/dialogs/renderwidget.cpp:1532
+#: src/dialogs/renderwidget.cpp:1533
 msgid ""
 "This render profile uses a 'profile' parameter.<br />Unless you know what "
 "you are doing you will probably have to change it to 'mlt_profile'."
 msgstr ""
 
-#: src/dialogs/renderwidget.cpp:1545 src/dialogs/renderwidget.cpp:1579
+#: src/dialogs/renderwidget.cpp:1546 src/dialogs/renderwidget.cpp:1584
 msgid "No matching profile"
 msgstr "Nici un profil potrivit"
 
-#: src/dialogs/renderwidget.cpp:1560
+#: src/dialogs/renderwidget.cpp:1561
 msgid "untitled"
 msgstr "fără titlu"
 
-#: src/dialogs/renderwidget.cpp:1623
+#: src/dialogs/renderwidget.cpp:1586
+#, fuzzy
+#| msgid "Invalid clip"
+msgid "Invalid profile"
+msgstr "Clip nevalid"
+
+#: src/dialogs/renderwidget.cpp:1630
 msgid ""
 "Video\n"
 "quality"
@@ -4675,7 +4681,7 @@ msgstr ""
 "Calitate\n"
 "video"
 
-#: src/dialogs/renderwidget.cpp:1625
+#: src/dialogs/renderwidget.cpp:1632
 msgid ""
 "Video\n"
 "bitrate"
@@ -4683,7 +4689,7 @@ msgstr ""
 "Rată de biți\n"
 "video"
 
-#: src/dialogs/renderwidget.cpp:1645
+#: src/dialogs/renderwidget.cpp:1652
 msgid ""
 "Audio\n"
 "quality"
@@ -4691,7 +4697,7 @@ msgstr ""
 "Calitate\n"
 "audio"
 
-#: src/dialogs/renderwidget.cpp:1647
+#: src/dialogs/renderwidget.cpp:1654
 msgid ""
 "Audio\n"
 "bitrate"
@@ -4699,94 +4705,94 @@ msgstr ""
 "Rată de biți\n"
 "audio"
 
-#: src/dialogs/renderwidget.cpp:1684
+#: src/dialogs/renderwidget.cpp:1691
 msgid "File rendering"
 msgstr "Randare fișier"
 
-#: src/dialogs/renderwidget.cpp:1685
+#: src/dialogs/renderwidget.cpp:1692
 msgid "Favorites"
 msgstr "Favorite"
 
-#: src/dialogs/renderwidget.cpp:1686
+#: src/dialogs/renderwidget.cpp:1693
 msgid "DVD"
 msgstr "DVD"
 
 #. i18n: ectx: property (text), widget (QCheckBox, profile_audioonly)
-#: src/dialogs/renderwidget.cpp:1687 src/timeline/customtrackview.cpp:6667
+#: src/dialogs/renderwidget.cpp:1694 src/timeline/customtrackview.cpp:6674
 #: src/ui/configtranscode_ui.ui:100
 msgid "Audio only"
 msgstr "Numai sunet"
 
-#: src/dialogs/renderwidget.cpp:1688
+#: src/dialogs/renderwidget.cpp:1695
 msgid "Web sites"
 msgstr "Saituri web"
 
-#: src/dialogs/renderwidget.cpp:1689
+#: src/dialogs/renderwidget.cpp:1696
 msgid "Media players"
 msgstr "Lectori multimedia"
 
-#: src/dialogs/renderwidget.cpp:1690
+#: src/dialogs/renderwidget.cpp:1697
 msgid "Lossless / HQ"
 msgstr ""
 
-#: src/dialogs/renderwidget.cpp:1691
+#: src/dialogs/renderwidget.cpp:1698
 msgid "Mobile devices"
 msgstr "Dispozitive mobile"
 
-#: src/dialogs/renderwidget.cpp:1889
+#: src/dialogs/renderwidget.cpp:1896
 msgctxt "Attribute Name"
 msgid "Custom"
 msgstr "Personalizat"
 
-#: src/dialogs/renderwidget.cpp:1982
+#: src/dialogs/renderwidget.cpp:1989
 #, kde-format
 msgid "Estimated time %1"
 msgstr "Timp estimat %1"
 
-#: src/dialogs/renderwidget.cpp:2001
+#: src/dialogs/renderwidget.cpp:2008
 #, kde-format
 msgid "Rendering finished in %1"
 msgstr "Randare încheiată în %1"
 
-#: src/dialogs/renderwidget.cpp:2003
+#: src/dialogs/renderwidget.cpp:2010
 #, kde-format
 msgid "Rendering of %1 finished in %2"
 msgstr "Randarea %1 s-a terminat în %2"
 
-#: src/dialogs/renderwidget.cpp:2016
+#: src/dialogs/renderwidget.cpp:2023
 #, kde-format
 msgid "<strong>Rendering of %1 crashed</strong><br />"
 msgstr "<strong>Randarea %1 s-a întrerupt</strong><br />"
 
 #. i18n: ectx: property (text), widget (QPushButton, abort_job)
-#: src/dialogs/renderwidget.cpp:2056 src/ui/renderwidget_ui.ui:650
+#: src/dialogs/renderwidget.cpp:2063 src/ui/renderwidget_ui.ui:650
 msgid "Abort Job"
 msgstr "Abandonează sarcina"
 
-#: src/dialogs/renderwidget.cpp:2059
+#: src/dialogs/renderwidget.cpp:2066
 msgid "Remove Job"
 msgstr "Elimină sarcina"
 
-#: src/dialogs/renderwidget.cpp:2125 src/dialogs/renderwidget.cpp:2129
+#: src/dialogs/renderwidget.cpp:2132 src/dialogs/renderwidget.cpp:2136
 #, kde-format
 msgid "Script contains wrong command: %1"
 msgstr "Scriptul conține o comandă greșită: %1"
 
-#: src/dialogs/renderwidget.cpp:2313
+#: src/dialogs/renderwidget.cpp:2320
 msgid "script"
 msgstr "script"
 
-#: src/dialogs/renderwidget.cpp:2334 src/doc/kdenlivedoc.cpp:229
+#: src/dialogs/renderwidget.cpp:2341 src/doc/kdenlivedoc.cpp:229
 #: src/project/projectlist.cpp:640
 msgid "Check missing clips"
 msgstr "Verifică clipurile lipsă"
 
-#: src/dialogs/renderwidget.cpp:2391
+#: src/dialogs/renderwidget.cpp:2398
 msgid "Export audio (automatic)"
 msgstr "Exportă sunet (automat)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, export_audio)
-#: src/dialogs/renderwidget.cpp:2393 src/ui/renderwidget_ui.ui:544
+#: src/dialogs/renderwidget.cpp:2400 src/ui/renderwidget_ui.ui:544
 msgid "Export audio"
 msgstr "Exportă sunet"
 
@@ -5297,21 +5303,21 @@ msgid ""
 "from %1 to the new folder %2?"
 msgstr ""
 
-#: src/doc/kdenlivedoc.cpp:1130
+#: src/doc/kdenlivedoc.cpp:1135
 msgid "Enter Template Path"
 msgstr ""
 
-#: src/doc/kdenlivedoc.cpp:1239
+#: src/doc/kdenlivedoc.cpp:1244
 msgid "The following effects were imported from the project:"
 msgstr "Următoarele efecte au fost importate din proiect:"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: src/doc/kdenlivedoc.cpp:1269 src/doc/kdenlivedoc.cpp:1283
+#: src/doc/kdenlivedoc.cpp:1274 src/doc/kdenlivedoc.cpp:1288
 #: src/ui/backupdialog_ui.ui:22
 msgid "Project Folder"
 msgstr "Dosar proiect"
 
-#: src/doc/kdenlivedoc.cpp:1347
+#: src/doc/kdenlivedoc.cpp:1352
 #, kde-format
 msgid ""
 "Cannot create backup copy:\n"
@@ -5320,21 +5326,21 @@ msgstr ""
 "Nu se poate crea copia de rezervă:\n"
 "%1"
 
-#: src/doc/kdenlivedoc.cpp:1460 src/project/projectlist.cpp:2317
+#: src/doc/kdenlivedoc.cpp:1465 src/project/projectlist.cpp:2317
 msgid "Add proxy clip"
 msgid_plural "Add proxy clips"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: src/doc/kdenlivedoc.cpp:1461 src/project/projectlist.cpp:2318
+#: src/doc/kdenlivedoc.cpp:1466 src/project/projectlist.cpp:2318
 msgid "Remove proxy clip"
 msgid_plural "Remove proxy clips"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: src/dvdwizard/dvdwizard.cpp:62 src/mainwindow.cpp:1006
+#: src/dvdwizard/dvdwizard.cpp:62 src/mainwindow.cpp:1007
 msgid "DVD Wizard"
 msgstr "Asistent DVD"
 
@@ -5446,7 +5452,7 @@ msgstr ""
 msgid "File %1 is not a Kdenlive project file."
 msgstr "Fișierul %1 nu este un fișier proiect Kdenlive."
 
-#: src/dvdwizard/dvdwizardmenu.cpp:42 src/monitor/monitormanager.cpp:299
+#: src/dvdwizard/dvdwizardmenu.cpp:42 src/monitor/monitormanager.cpp:296
 #: src/monitor/recmonitor.cpp:79 src/monitor/recmonitor.cpp:405
 #: src/monitor/recmonitor.cpp:444 src/monitor/recmonitor.cpp:873
 msgid "Play"
@@ -6332,7 +6338,7 @@ msgstr "Interfață"
 msgid "Add Transition"
 msgstr "Adaugă tranziție"
 
-#: src/mainwindow.cpp:553
+#: src/mainwindow.cpp:554
 #, kde-format
 msgid ""
 "You have 1 rendering job waiting in the queue.\n"
@@ -6344,553 +6350,553 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: src/mainwindow.cpp:553
+#: src/mainwindow.cpp:554
 msgid "Start them now"
 msgstr "Pornește-le acum"
 
-#: src/mainwindow.cpp:553
+#: src/mainwindow.cpp:554
 msgid "Delete them"
 msgstr "Șterge-le"
 
-#: src/mainwindow.cpp:769
+#: src/mainwindow.cpp:770
 msgid "Normal mode"
 msgstr "Regim normal"
 
-#: src/mainwindow.cpp:770
+#: src/mainwindow.cpp:771
 msgctxt "Normal editing"
 msgid "n"
 msgstr "n"
 
-#: src/mainwindow.cpp:775
+#: src/mainwindow.cpp:776
 msgid "Overwrite mode"
 msgstr "Mod suprascriere"
 
-#: src/mainwindow.cpp:781
+#: src/mainwindow.cpp:782
 msgid "Insert mode"
 msgstr "Regim de inserare"
 
-#: src/mainwindow.cpp:800
+#: src/mainwindow.cpp:801
 msgid "Selection tool"
 msgstr "Unealtă de selecție"
 
-#: src/mainwindow.cpp:801
+#: src/mainwindow.cpp:802
 msgctxt "Selection tool shortcut"
 msgid "s"
 msgstr "s"
 
-#: src/mainwindow.cpp:806
+#: src/mainwindow.cpp:807
 msgid "Razor tool"
 msgstr ""
 
-#: src/mainwindow.cpp:807
+#: src/mainwindow.cpp:808
 msgctxt "Razor tool shortcut"
 msgid "x"
 msgstr "x"
 
-#: src/mainwindow.cpp:812
+#: src/mainwindow.cpp:813
 msgid "Spacer tool"
 msgstr ""
 
-#: src/mainwindow.cpp:813
+#: src/mainwindow.cpp:814
 msgctxt "Spacer tool shortcut"
 msgid "m"
 msgstr "m"
 
-#: src/mainwindow.cpp:853
+#: src/mainwindow.cpp:854
 msgid "Fit zoom to project"
 msgstr ""
 
-#: src/mainwindow.cpp:857
+#: src/mainwindow.cpp:858
 msgid "Zoom Out"
 msgstr "Depărtează"
 
-#: src/mainwindow.cpp:870
+#: src/mainwindow.cpp:871
 msgid "Zoom In"
 msgstr "Apropie"
 
-#: src/mainwindow.cpp:898
+#: src/mainwindow.cpp:899
 msgid "Split audio and video automatically"
 msgstr "Împarte audio și video automat"
 
 #. i18n: ectx: property (text), widget (QCheckBox, videothumbs)
-#: src/mainwindow.cpp:904 src/ui/wizardextra_ui.ui:35
+#: src/mainwindow.cpp:905 src/ui/wizardextra_ui.ui:35
 msgid "Show video thumbnails"
 msgstr "Arată miniaturile video"
 
 #. i18n: ectx: property (text), widget (QCheckBox, audiothumbs)
-#: src/mainwindow.cpp:910 src/ui/wizardextra_ui.ui:42
+#: src/mainwindow.cpp:911 src/ui/wizardextra_ui.ui:42
 msgid "Show audio thumbnails"
 msgstr "Arată miniaturile audio"
 
-#: src/mainwindow.cpp:916
+#: src/mainwindow.cpp:917
 msgid "Show markers comments"
 msgstr ""
 
-#: src/mainwindow.cpp:921
+#: src/mainwindow.cpp:922
 msgid "Snap"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, tc_type)
-#: src/mainwindow.cpp:955 src/project/clipproperties.cpp:372
+#: src/mainwindow.cpp:956 src/project/clipproperties.cpp:372
 #: src/project/dialogs/slideshowclip.cpp:89 src/ui/renderwidget_ui.ui:284
 msgid "hh:mm:ss:ff"
 msgstr "oo:mm:ss:cc"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, tc_type)
-#: src/mainwindow.cpp:956 src/project/clipproperties.cpp:373
+#: src/mainwindow.cpp:957 src/project/clipproperties.cpp:373
 #: src/project/dialogs/slideshowclip.cpp:90 src/ui/renderwidget_ui.ui:289
 msgid "Frames"
 msgstr "Cadre"
 
-#: src/mainwindow.cpp:985
+#: src/mainwindow.cpp:986
 msgid "Manage Project Profiles"
 msgstr "Gestionează profilurile de proiect"
 
-#: src/mainwindow.cpp:986
+#: src/mainwindow.cpp:987
 msgid "Download New Wipes..."
 msgstr ""
 
-#: src/mainwindow.cpp:987
+#: src/mainwindow.cpp:988
 msgid "Download New Render Profiles..."
 msgstr "Descarcă profiluri de randare noi..."
 
-#: src/mainwindow.cpp:988
+#: src/mainwindow.cpp:989
 msgid "Download New Project Profiles..."
 msgstr "Descarcă profiluri de proiect noi..."
 
-#: src/mainwindow.cpp:989
+#: src/mainwindow.cpp:990
 msgid "Download New Title Templates..."
 msgstr ""
 
-#: src/mainwindow.cpp:991
+#: src/mainwindow.cpp:992
 msgid "Run Config Wizard"
 msgstr "Lansează asistentul de configurare"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, ProjectSettings_UI)
-#: src/mainwindow.cpp:992 src/ui/projectsettings_ui.ui:14
+#: src/mainwindow.cpp:993 src/ui/projectsettings_ui.ui:14
 msgid "Project Settings"
 msgstr "Configurări proiect"
 
-#: src/mainwindow.cpp:993
+#: src/mainwindow.cpp:994
 msgid "Render"
 msgstr "Randează"
 
-#: src/mainwindow.cpp:995
+#: src/mainwindow.cpp:996
 msgid "Clean Project"
 msgstr "Curăță proiectul"
 
-#: src/mainwindow.cpp:999
+#: src/mainwindow.cpp:1000
 msgid "Play Zone"
 msgstr "Redă zona"
 
-#: src/mainwindow.cpp:1001
+#: src/mainwindow.cpp:1002
 msgid "Loop Zone"
 msgstr "Ciclează zona"
 
-#: src/mainwindow.cpp:1003
+#: src/mainwindow.cpp:1004
 msgid "Loop selected clip"
 msgstr "Ciclează clipul ales"
 
-#: src/mainwindow.cpp:1007
+#: src/mainwindow.cpp:1008
 msgid "Transcode Clips"
 msgstr "Transcodare clipuri"
 
-#: src/mainwindow.cpp:1008 src/project/dialogs/archivewidget.cpp:55
+#: src/mainwindow.cpp:1009 src/project/dialogs/archivewidget.cpp:55
 msgid "Archive Project"
 msgstr "Arhivează proiectul"
 
-#: src/mainwindow.cpp:1009
+#: src/mainwindow.cpp:1010
 msgid "Switch monitor"
 msgstr "Comută monitorul"
 
-#: src/mainwindow.cpp:1011
+#: src/mainwindow.cpp:1012
 msgid "Monitor Info Overlay"
 msgstr ""
 
-#: src/mainwindow.cpp:1017
+#: src/mainwindow.cpp:1018
 msgid "Real Time (drop frames)"
 msgstr ""
 
-#: src/mainwindow.cpp:1022
+#: src/mainwindow.cpp:1023
 #, fuzzy
 #| msgid "Monitor"
 msgid "Monitor Gamma"
 msgstr "Monitor"
 
-#: src/mainwindow.cpp:1023
+#: src/mainwindow.cpp:1024
 msgid "sRGB (computer)"
 msgstr ""
 
-#: src/mainwindow.cpp:1024
+#: src/mainwindow.cpp:1025
 #, fuzzy
 #| msgid "Rec. 709"
 msgid "Rec. 709 (TV)"
 msgstr "Rec. 709"
 
-#: src/mainwindow.cpp:1029
+#: src/mainwindow.cpp:1030
 #, fuzzy
 #| msgid "Insert zone in project tree"
 msgid "Insert Zone in Project Bin"
 msgstr "Inserează zona în arborele proiectului"
 
-#: src/mainwindow.cpp:1030
+#: src/mainwindow.cpp:1031
 #, fuzzy
 #| msgid "Insert zone in timeline"
 msgid "Insert Zone in Timeline"
 msgstr "Inserează zona în cronologie"
 
-#: src/mainwindow.cpp:1032
+#: src/mainwindow.cpp:1033
 msgid "Resize Item Start"
 msgstr ""
 
-#: src/mainwindow.cpp:1037
+#: src/mainwindow.cpp:1038
 msgid "Resize Item End"
 msgstr ""
 
-#: src/mainwindow.cpp:1042
+#: src/mainwindow.cpp:1043
 msgid "Go to Previous Snap Point"
 msgstr ""
 
-#: src/mainwindow.cpp:1044
+#: src/mainwindow.cpp:1045
 msgid "Go to Clip Start"
 msgstr "Mergi la începutul clipului"
 
-#: src/mainwindow.cpp:1045
+#: src/mainwindow.cpp:1046
 msgid "Go to Clip End"
 msgstr "Mergi la sfîrșitul clipului"
 
-#: src/mainwindow.cpp:1046
+#: src/mainwindow.cpp:1047
 msgid "Go to Next Snap Point"
 msgstr ""
 
-#: src/mainwindow.cpp:1048
+#: src/mainwindow.cpp:1049
 msgid "Delete Selected Item"
 msgstr "Șterge elementul selectat"
 
-#: src/mainwindow.cpp:1049
+#: src/mainwindow.cpp:1050
 msgid "Align Playhead to Mouse Position"
 msgstr ""
 
-#: src/mainwindow.cpp:1051
+#: src/mainwindow.cpp:1052
 msgid "Automatic Transition"
 msgstr "Tranziție automată"
 
-#: src/mainwindow.cpp:1058
+#: src/mainwindow.cpp:1059
 msgid "Group Clips"
 msgstr "Grupare clipuri"
 
-#: src/mainwindow.cpp:1060
+#: src/mainwindow.cpp:1061
 msgid "Ungroup Clips"
 msgstr "Degrupare clipuri"
 
-#: src/mainwindow.cpp:1065
+#: src/mainwindow.cpp:1066
 msgid "Edit Duration"
 msgstr "Modifică durata"
 
-#: src/mainwindow.cpp:1066 src/mainwindow.cpp:3124
+#: src/mainwindow.cpp:1067 src/mainwindow.cpp:3125
 msgid "Save clip"
 msgstr "Salvare clip"
 
-#: src/mainwindow.cpp:1067
+#: src/mainwindow.cpp:1068
 msgid "Clip in Project Tree"
 msgstr "Clip în arborele proiectului"
 
-#: src/mainwindow.cpp:1068
+#: src/mainwindow.cpp:1069
 msgid "Insert Clip Zone in Timeline (Overwrite)"
 msgstr ""
 
-#: src/mainwindow.cpp:1069
+#: src/mainwindow.cpp:1070
 msgid "Select Clip"
 msgstr "Selectează clipul"
 
-#: src/mainwindow.cpp:1070
+#: src/mainwindow.cpp:1071
 msgid "Deselect Clip"
 msgstr "Deselectează clipul"
 
-#: src/mainwindow.cpp:1071
+#: src/mainwindow.cpp:1072
 msgid "Add Clip To Selection"
 msgstr "Adaugă clip la selecție"
 
-#: src/mainwindow.cpp:1073
+#: src/mainwindow.cpp:1074
 msgid "Select Transition"
 msgstr "Selectare tranziție"
 
-#: src/mainwindow.cpp:1075
+#: src/mainwindow.cpp:1076
 msgid "Deselect Transition"
 msgstr "Deselectare tranziție"
 
-#: src/mainwindow.cpp:1077
+#: src/mainwindow.cpp:1078
 msgid "Add Transition To Selection"
 msgstr "Adaugă tranziție la selecție"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, CutJobDialog_UI)
-#: src/mainwindow.cpp:1079 src/ui/cutjobdialog_ui.ui:14
+#: src/mainwindow.cpp:1080 src/ui/cutjobdialog_ui.ui:14
 msgid "Cut Clip"
 msgstr ""
 
-#: src/mainwindow.cpp:1080 src/mainwindow.cpp:1803
+#: src/mainwindow.cpp:1081 src/mainwindow.cpp:1804
 #: src/mltcontroller/clippropertiescontroller.cpp:708
 #: src/project/clipproperties.cpp:803
 msgid "Add Marker"
 msgstr "Adaugă marcator"
 
-#: src/mainwindow.cpp:1081
+#: src/mainwindow.cpp:1082
 msgid "Delete Marker"
 msgstr ""
 
-#: src/mainwindow.cpp:1082
+#: src/mainwindow.cpp:1083
 msgid "Delete All Markers"
 msgstr ""
 
-#: src/mainwindow.cpp:1084 src/mainwindow.cpp:1891
+#: src/mainwindow.cpp:1085 src/mainwindow.cpp:1892
 #: src/mltcontroller/clippropertiescontroller.cpp:681
 #: src/project/clipproperties.cpp:827
 msgid "Edit Marker"
 msgstr "Modifică marcatorul"
 
-#: src/mainwindow.cpp:1087
+#: src/mainwindow.cpp:1088
 msgid "Add Marker/Guide quickly"
 msgstr "Adaugă rapid un marcator/ghidaj"
 
-#: src/mainwindow.cpp:1090
+#: src/mainwindow.cpp:1091
 msgid "Split Audio"
 msgstr "Împarte audio"
 
-#: src/mainwindow.cpp:1094
+#: src/mainwindow.cpp:1095
 msgid "Set Audio Reference"
 msgstr ""
 
-#: src/mainwindow.cpp:1098
+#: src/mainwindow.cpp:1099
 msgid "Align Audio to Reference"
 msgstr ""
 
-#: src/mainwindow.cpp:1102
+#: src/mainwindow.cpp:1103
 msgid "Audio Only"
 msgstr "Numai audio"
 
-#: src/mainwindow.cpp:1107
+#: src/mainwindow.cpp:1108
 msgid "Video Only"
 msgstr "Numai video"
 
-#: src/mainwindow.cpp:1112 src/timeline/customtrackview.cpp:6663
+#: src/mainwindow.cpp:1113 src/timeline/customtrackview.cpp:6670
 msgid "Audio and Video"
 msgstr "Sunet și video"
 
-#: src/mainwindow.cpp:1124
+#: src/mainwindow.cpp:1125
 msgid "Insert Space"
 msgstr "Inserează spațiu"
 
-#: src/mainwindow.cpp:1125 src/timeline/customtrackview.cpp:3243
+#: src/mainwindow.cpp:1126 src/timeline/customtrackview.cpp:3250
 msgid "Remove Space"
 msgstr "Elimină spațiul"
 
-#: src/mainwindow.cpp:1130
+#: src/mainwindow.cpp:1131
 msgid "Insert Track"
 msgstr "Inserează pistă"
 
-#: src/mainwindow.cpp:1134 src/timeline/customtrackview.cpp:6232
+#: src/mainwindow.cpp:1135 src/timeline/customtrackview.cpp:6239
 #: src/timeline/tracksconfigdialog.cpp:92
 msgid "Delete Track"
 msgstr "Șterge pista"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, TracksConfigDialog_UI)
-#: src/mainwindow.cpp:1138 src/timeline/timelinecommands.cpp:249
+#: src/mainwindow.cpp:1139 src/timeline/timelinecommands.cpp:249
 #: src/ui/tracksconfigdialog_ui.ui:14
 msgid "Configure Tracks"
 msgstr "Configurează pistele"
 
-#: src/mainwindow.cpp:1142
+#: src/mainwindow.cpp:1143
 msgid "Select All in Current Track"
 msgstr "Alege toate din pista curentă"
 
-#: src/mainwindow.cpp:1150 src/timeline/customruler.cpp:85
-#: src/timeline/customtrackview.cpp:5478
+#: src/mainwindow.cpp:1151 src/timeline/customruler.cpp:85
+#: src/timeline/customtrackview.cpp:5485
 msgid "Add Guide"
 msgstr "Adaugă ghidaj"
 
-#: src/mainwindow.cpp:1151 src/timeline/customruler.cpp:89
+#: src/mainwindow.cpp:1152 src/timeline/customruler.cpp:89
 #: src/timeline/customtrackview.cpp:229
 msgid "Delete Guide"
 msgstr "Șterge ghidajul"
 
-#: src/mainwindow.cpp:1152 src/timeline/customruler.cpp:87
-#: src/timeline/customtrackview.cpp:233 src/timeline/customtrackview.cpp:5512
-#: src/timeline/customtrackview.cpp:5526
+#: src/mainwindow.cpp:1153 src/timeline/customruler.cpp:87
+#: src/timeline/customtrackview.cpp:233 src/timeline/customtrackview.cpp:5519
+#: src/timeline/customtrackview.cpp:5533
 msgid "Edit Guide"
 msgstr "Modifică ghidajul"
 
-#: src/mainwindow.cpp:1153 src/timeline/customruler.cpp:91
+#: src/mainwindow.cpp:1154 src/timeline/customruler.cpp:91
 msgid "Delete All Guides"
 msgstr "Șterge toate ghidajele"
 
-#: src/mainwindow.cpp:1155
+#: src/mainwindow.cpp:1156
 msgid "Paste Effects"
 msgstr "Lipește efecte"
 
-#: src/mainwindow.cpp:1178
+#: src/mainwindow.cpp:1179
 msgid "Add Clip"
 msgstr "Adaugă clip"
 
-#: src/mainwindow.cpp:1180
+#: src/mainwindow.cpp:1181
 msgid "Add Color Clip"
 msgstr "Adaugă clip color"
 
-#: src/mainwindow.cpp:1184 src/project/dialogs/slideshowclip.cpp:41
+#: src/mainwindow.cpp:1185 src/project/dialogs/slideshowclip.cpp:41
 msgid "Add Slideshow Clip"
 msgstr ""
 
-#: src/mainwindow.cpp:1188
+#: src/mainwindow.cpp:1189
 msgid "Add Title Clip"
 msgstr ""
 
-#: src/mainwindow.cpp:1192
+#: src/mainwindow.cpp:1193
 msgid "Add Template Title"
 msgstr ""
 
-#: src/mainwindow.cpp:1197
+#: src/mainwindow.cpp:1198
 msgid "Create Folder"
 msgstr "Creează dosar"
 
-#: src/mainwindow.cpp:1199
+#: src/mainwindow.cpp:1200
 msgid "Online Resources"
 msgstr "Resurse online"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, ClipProperties_UI)
-#: src/mainwindow.cpp:1202 src/ui/clipproperties_ui.ui:14
+#: src/mainwindow.cpp:1203 src/ui/clipproperties_ui.ui:14
 msgid "Clip Properties"
 msgstr "Proprietăți clip"
 
-#: src/mainwindow.cpp:1206
+#: src/mainwindow.cpp:1207
 msgid "Edit Clip"
 msgstr "Editare clip"
 
-#: src/mainwindow.cpp:1214
+#: src/mainwindow.cpp:1215
 msgid "Reload Clip"
 msgstr "Reîncarcă clipul"
 
-#: src/mainwindow.cpp:1218
+#: src/mainwindow.cpp:1219
 #, fuzzy
 #| msgid "Delete Clip"
 msgid "Duplicate Clip"
 msgstr "Ștergere clip"
 
-#: src/mainwindow.cpp:1230
+#: src/mainwindow.cpp:1231
 msgid "Ripple Delete"
 msgstr ""
 
-#: src/mainwindow.cpp:1245
+#: src/mainwindow.cpp:1246
 msgid "Transitions"
 msgstr "Tranziții"
 
-#: src/mainwindow.cpp:1362
+#: src/mainwindow.cpp:1363
 msgid ""
 "You have changed the proxy parameters. Do you want to recreate all proxy "
 "clips for this project?"
 msgstr ""
 
-#: src/mainwindow.cpp:1461
+#: src/mainwindow.cpp:1462
 msgid "This will remove all unused clips from your project."
 msgstr "Aceasta va elimina toate clipurile neutilizate din proiect."
 
-#: src/mainwindow.cpp:1461
+#: src/mainwindow.cpp:1462
 msgid "Clean up project"
 msgstr "Curăță proiectul"
 
-#: src/mainwindow.cpp:1619
+#: src/mainwindow.cpp:1620
 msgctxt "general keyboard shortcuts"
 msgid "General"
 msgstr "General"
 
-#: src/mainwindow.cpp:1620
+#: src/mainwindow.cpp:1621
 msgctxt "effects and transitions keyboard shortcuts"
 msgid "Effects & Transitions"
 msgstr "Efecte și tranziții"
 
-#: src/mainwindow.cpp:1621
+#: src/mainwindow.cpp:1622
 msgctxt "timeline track keyboard shortcuts"
 msgid "Timeline and Tracks"
 msgstr "Cronologie și piste"
 
-#: src/mainwindow.cpp:1797 src/mainwindow.cpp:1915
+#: src/mainwindow.cpp:1798 src/mainwindow.cpp:1916
 msgid "Cannot find clip to add marker"
 msgstr ""
 
-#: src/mainwindow.cpp:1829 src/mainwindow.cpp:1856 src/mainwindow.cpp:1879
+#: src/mainwindow.cpp:1830 src/mainwindow.cpp:1857 src/mainwindow.cpp:1880
 msgid "Cannot find clip to remove marker"
 msgstr ""
 
-#: src/mainwindow.cpp:1836 src/mainwindow.cpp:1886
+#: src/mainwindow.cpp:1837 src/mainwindow.cpp:1887
 msgid "No marker found at cursor time"
 msgstr ""
 
-#: src/mainwindow.cpp:2166
+#: src/mainwindow.cpp:2167
 #, kde-format
 msgid "Cannot find effect %1 / %2"
 msgstr "Nu se poate găsi efectul %1 / %2"
 
-#: src/mainwindow.cpp:2221
+#: src/mainwindow.cpp:2222
 #, kde-format
 msgid "Zoom Level: %1/13"
 msgstr "Nivel zoom: %1/13"
 
-#: src/mainwindow.cpp:2347
+#: src/mainwindow.cpp:2348
 msgid "Ctrl + click to use spacer on current track only"
 msgstr ""
 
-#: src/mainwindow.cpp:2350
+#: src/mainwindow.cpp:2351
 msgid "Click on a clip to cut it"
 msgstr ""
 
-#: src/mainwindow.cpp:2353
+#: src/mainwindow.cpp:2354
 msgid ""
 "Shift + click to create a selection rectangle, Ctrl + click to add an item "
 "to selection"
 msgstr ""
 
-#: src/mainwindow.cpp:2636
+#: src/mainwindow.cpp:2637
 msgid "Stabilize"
 msgstr "Stabilizare"
 
-#: src/mainwindow.cpp:2650
+#: src/mainwindow.cpp:2651
 msgid "Automatic scene split"
 msgstr ""
 
-#: src/mainwindow.cpp:2658 src/project/jobs/filterjob.cpp:83
+#: src/mainwindow.cpp:2659 src/project/jobs/filterjob.cpp:83
 msgid "Reverse clip"
 msgstr "Inversare clip"
 
-#: src/mainwindow.cpp:2713
+#: src/mainwindow.cpp:2714
 msgid "No clip to transcode"
 msgstr "Nici un clip de transcodat"
 
-#: src/mainwindow.cpp:2726
+#: src/mainwindow.cpp:2727
 #, fuzzy
 #| msgid "No clip to transcode"
 msgid "Files to transcode"
 msgstr "Nici un clip de transcodat"
 
-#: src/mainwindow.cpp:2759
+#: src/mainwindow.cpp:2760
 msgid "Create Render Script"
 msgstr ""
 
-#: src/mainwindow.cpp:2769
+#: src/mainwindow.cpp:2770
 msgid "Script file already exists. Do you want to overwrite it?"
 msgstr ""
 
-#: src/mainwindow.cpp:2815
+#: src/mainwindow.cpp:2816
 msgctxt "the first in a list of chapters"
 msgid "Start"
 msgstr "Pornește"
 
-#: src/mainwindow.cpp:3092
+#: src/mainwindow.cpp:3093
 msgid "Archiving project"
 msgstr "Arhivare proiect"
 
-#: src/mainwindow.cpp:3121
+#: src/mainwindow.cpp:3122
 msgid "Select a clip to save"
 msgstr "Selectați un clip de salvat"
 
-#: src/mainwindow.cpp:3124
+#: src/mainwindow.cpp:3125
 msgid "MLT playlist (*.mlt)"
 msgstr ""
 
@@ -7140,73 +7146,73 @@ msgstr "Volum audio"
 msgid "Compare effect"
 msgstr "Mută efectul"
 
-#: src/monitor/monitor.cpp:218 src/monitor/monitoreditwidget.cpp:58
+#: src/monitor/monitor.cpp:219 src/monitor/monitoreditwidget.cpp:58
 msgid "Show/Hide edit mode"
 msgstr "Arată/ascunde modul editare"
 
-#: src/monitor/monitor.cpp:292
+#: src/monitor/monitor.cpp:293
 msgid "Save zone"
 msgstr "Salvează zona"
 
-#: src/monitor/monitor.cpp:293
+#: src/monitor/monitor.cpp:294
 msgid "Extract Zone"
 msgstr "Extrage zona"
 
-#: src/monitor/monitor.cpp:296
+#: src/monitor/monitor.cpp:297
 msgid "Extract frame"
 msgstr "Extrage cadru"
 
-#: src/monitor/monitor.cpp:300
+#: src/monitor/monitor.cpp:301
 msgid "Split view"
 msgstr "Desparte vizualizarea"
 
-#: src/monitor/monitor.cpp:304
+#: src/monitor/monitor.cpp:305
 msgid "Set current image as thumbnail"
 msgstr "Configurează imaginea curentă ca miniatură"
 
-#: src/monitor/monitor.cpp:308
+#: src/monitor/monitor.cpp:309
 msgid "Overlay audio waveform"
 msgstr ""
 
-#: src/monitor/monitor.cpp:345
+#: src/monitor/monitor.cpp:346
 #, fuzzy
 #| msgid "You must select one transition for this action"
 msgid "Your screen resolution is not sufficient for this action"
 msgstr "Trebuie să alegeți o tranziție pentru această acțiune"
 
-#: src/monitor/monitor.cpp:737
+#: src/monitor/monitor.cpp:738
 #, fuzzy
 #| msgid "Save markers"
 msgid "Save Image"
 msgstr "Salvează marcajele"
 
-#: src/monitor/monitor.cpp:779
+#: src/monitor/monitor.cpp:780
 msgid "In Point"
 msgstr "Punct de intrare"
 
-#: src/monitor/monitor.cpp:781
+#: src/monitor/monitor.cpp:782
 msgid "Out Point"
 msgstr "Punct de ieșire"
 
-#: src/monitor/monitor.cpp:1353
+#: src/monitor/monitor.cpp:1358
 #, fuzzy
 #| msgid "Select a clip if you want to apply an effect"
 msgid "Select a clip in project bin to compare effect"
 msgstr "Selectați un clip dacă doriți să aplicați un efect"
 
-#: src/monitor/monitor.cpp:1357
+#: src/monitor/monitor.cpp:1362
 #, fuzzy
 #| msgid "Clip has no markers"
 msgid "Clip has no effects"
 msgstr "Clipul nu are marcaje"
 
-#: src/monitor/monitor.cpp:1366
+#: src/monitor/monitor.cpp:1371
 msgid ""
 "The scal0tilt filter is required for that feature, please install frei0r and "
 "restart Kdenlive"
 msgstr ""
 
-#: src/monitor/monitor.cpp:1373
+#: src/monitor/monitor.cpp:1378
 msgid ""
 "The cairoblend transition is required for that feature, please install "
 "frei0r and restart Kdenlive"
@@ -7224,108 +7230,108 @@ msgstr ""
 msgid "Original size"
 msgstr "Dimensiune originală"
 
-#: src/monitor/monitormanager.cpp:299 src/monitor/monitormanager.cpp:306
+#: src/monitor/monitormanager.cpp:296 src/monitor/monitormanager.cpp:303
 #: src/monitor/recmonitor.cpp:449
 msgid "Pause"
 msgstr "Pauză"
 
-#: src/monitor/monitormanager.cpp:322
+#: src/monitor/monitormanager.cpp:319
 msgid "Switch monitor fullscreen"
 msgstr "Comută monitorul pe tot ecranul"
 
-#: src/monitor/monitormanager.cpp:327 src/monitor/recmonitor.cpp:76
+#: src/monitor/monitormanager.cpp:324 src/monitor/recmonitor.cpp:76
 msgid "Rewind"
 msgstr "Derulează"
 
-#: src/monitor/monitormanager.cpp:332
+#: src/monitor/monitormanager.cpp:329
 msgid "Rewind 1 Frame"
 msgstr "Înapoi 1 cadru"
 
-#: src/monitor/monitormanager.cpp:337
+#: src/monitor/monitormanager.cpp:334
 msgid "Rewind 1 Second"
 msgstr "Înapoi 1 secundă"
 
-#: src/monitor/monitormanager.cpp:342 src/monitor/recmonitor.cpp:85
+#: src/monitor/monitormanager.cpp:339 src/monitor/recmonitor.cpp:85
 msgid "Forward"
 msgstr "Înainte"
 
-#: src/monitor/monitormanager.cpp:347
+#: src/monitor/monitormanager.cpp:344
 msgid "Go to Project Start"
 msgstr "Mergi la începutul proiectului"
 
-#: src/monitor/monitormanager.cpp:352
+#: src/monitor/monitormanager.cpp:349
 msgid "Go to Project End"
 msgstr "Mergi la sfîrșitul proiectului"
 
-#: src/monitor/monitormanager.cpp:357
+#: src/monitor/monitormanager.cpp:354
 msgid "Forward 1 Frame"
 msgstr "Înainte 1 cadru"
 
-#: src/monitor/monitormanager.cpp:362
+#: src/monitor/monitormanager.cpp:359
 msgid "Forward 1 Second"
 msgstr "Înainte 1 secundă"
 
-#: src/monitor/monitormanager.cpp:367
+#: src/monitor/monitormanager.cpp:364
 msgid "Deinterlacer"
 msgstr "Deîntrețesere"
 
-#: src/monitor/monitormanager.cpp:368
+#: src/monitor/monitormanager.cpp:365
 msgid "One Field (fast)"
 msgstr "Un cîmp (repede)"
 
-#: src/monitor/monitormanager.cpp:369
+#: src/monitor/monitormanager.cpp:366
 msgid "Linear Blend (fast)"
 msgstr ""
 
-#: src/monitor/monitormanager.cpp:370
+#: src/monitor/monitormanager.cpp:367
 msgid "YADIF - temporal only (good)"
 msgstr "YADIF - numai temporar (bun)"
 
-#: src/monitor/monitormanager.cpp:371
+#: src/monitor/monitormanager.cpp:368
 msgid "YADIF - temporal + spacial (best)"
 msgstr ""
 
-#: src/monitor/monitormanager.cpp:380
+#: src/monitor/monitormanager.cpp:377
 msgid "Nearest Neighbor (fast)"
 msgstr ""
 
-#: src/monitor/monitormanager.cpp:381
+#: src/monitor/monitormanager.cpp:378
 msgid "Bilinear (good)"
 msgstr "Biliniar (bun)"
 
-#: src/monitor/monitormanager.cpp:382
+#: src/monitor/monitormanager.cpp:379
 msgid "Bicubic (better)"
 msgstr "Bicubic (mai bun)"
 
-#: src/monitor/monitormanager.cpp:383
+#: src/monitor/monitormanager.cpp:380
 msgid "Hyper/Lanczos (best)"
 msgstr "Hyper/Lanczos (cel mai bun)"
 
-#: src/monitor/monitormanager.cpp:391
+#: src/monitor/monitormanager.cpp:388
 msgid "Go to Zone Start"
 msgstr "Mergi la începutul zonei"
 
-#: src/monitor/monitormanager.cpp:396
+#: src/monitor/monitormanager.cpp:393
 #, fuzzy
 #| msgid "Monitor"
 msgid "Mute monitor"
 msgstr "Monitor"
 
-#: src/monitor/monitormanager.cpp:396
+#: src/monitor/monitormanager.cpp:393
 #, fuzzy
 #| msgid "Switch monitor"
 msgid "Unmute monitor"
 msgstr "Comută monitorul"
 
-#: src/monitor/monitormanager.cpp:402
+#: src/monitor/monitormanager.cpp:399
 msgid "Go to Zone End"
 msgstr "Mergi la sfîrșitul zonei"
 
-#: src/monitor/monitormanager.cpp:407
+#: src/monitor/monitormanager.cpp:404
 msgid "Set Zone In"
 msgstr "Stabilește intrarea zonei"
 
-#: src/monitor/monitormanager.cpp:412
+#: src/monitor/monitormanager.cpp:409
 msgid "Set Zone Out"
 msgstr "Stabilește ieșirea zonei"
 
@@ -7688,8 +7694,8 @@ msgid "No image found"
 msgstr ""
 
 #: src/project/clipproperties.cpp:1171
-#: src/project/dialogs/projectsettings.cpp:574
-#: src/project/dialogs/projectsettings.cpp:587
+#: src/project/dialogs/projectsettings.cpp:573
+#: src/project/dialogs/projectsettings.cpp:586
 #: src/project/dialogs/slideshowclip.cpp:247
 #, kde-format
 msgid "1 image found"
@@ -7760,38 +7766,38 @@ msgid "Transcoding failed!"
 msgstr "Transcodarea a eșuat!"
 
 #: src/project/dialogs/archivewidget.cpp:63
-#: src/project/dialogs/projectsettings.cpp:303
+#: src/project/dialogs/projectsettings.cpp:302
 msgid "Video clips"
 msgstr "Clipuri video"
 
 #: src/project/dialogs/archivewidget.cpp:67
-#: src/project/dialogs/projectsettings.cpp:306
+#: src/project/dialogs/projectsettings.cpp:305
 msgid "Audio clips"
 msgstr "Clipuri audio"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: src/project/dialogs/archivewidget.cpp:71
-#: src/project/dialogs/projectsettings.cpp:309 src/ui/configmisc_ui.ui:113
+#: src/project/dialogs/projectsettings.cpp:308 src/ui/configmisc_ui.ui:113
 msgid "Image clips"
 msgstr "Clipuri imagine"
 
 #: src/project/dialogs/archivewidget.cpp:75
-#: src/project/dialogs/projectsettings.cpp:312
+#: src/project/dialogs/projectsettings.cpp:311
 msgid "Slideshow clips"
 msgstr ""
 
 #: src/project/dialogs/archivewidget.cpp:79
-#: src/project/dialogs/projectsettings.cpp:315
+#: src/project/dialogs/projectsettings.cpp:314
 msgid "Text clips"
 msgstr "Clipuri textuale"
 
 #: src/project/dialogs/archivewidget.cpp:83
-#: src/project/dialogs/projectsettings.cpp:318
+#: src/project/dialogs/projectsettings.cpp:317
 msgid "Playlist clips"
 msgstr ""
 
 #: src/project/dialogs/archivewidget.cpp:87
-#: src/project/dialogs/projectsettings.cpp:321
+#: src/project/dialogs/projectsettings.cpp:320
 msgid "Other clips"
 msgstr "Alte clipuri"
 
@@ -7946,32 +7952,32 @@ msgstr "Arată fișierele de rezervă pentru %1"
 msgid "Insert current timecode"
 msgstr ""
 
-#: src/project/dialogs/projectsettings.cpp:121
+#: src/project/dialogs/projectsettings.cpp:120
 msgid "Current Settings"
 msgstr "Configurări curente"
 
-#: src/project/dialogs/projectsettings.cpp:140
+#: src/project/dialogs/projectsettings.cpp:139
 msgid "Title"
 msgstr "Titlu"
 
-#: src/project/dialogs/projectsettings.cpp:147
+#: src/project/dialogs/projectsettings.cpp:146
 #: src/utils/resourcewidget.cpp:159
 msgid "Author"
 msgstr "Autor"
 
-#: src/project/dialogs/projectsettings.cpp:154
+#: src/project/dialogs/projectsettings.cpp:153
 msgid "Artist"
 msgstr "Artist"
 
-#: src/project/dialogs/projectsettings.cpp:160
+#: src/project/dialogs/projectsettings.cpp:159
 msgid "Copyright"
 msgstr "Drept de autor"
 
-#: src/project/dialogs/projectsettings.cpp:260
+#: src/project/dialogs/projectsettings.cpp:259
 msgid "Deleting proxy clips will disable proxies for this project."
 msgstr ""
 
-#: src/project/dialogs/projectsettings.cpp:411
+#: src/project/dialogs/projectsettings.cpp:410
 msgid ""
 "Changing the profile of your project cannot be undone.\n"
 "It is recommended to save your project before attempting this operation that "
@@ -7979,31 +7985,31 @@ msgid ""
 " Are you sure you want to proceed?"
 msgstr ""
 
-#: src/project/dialogs/projectsettings.cpp:411
+#: src/project/dialogs/projectsettings.cpp:410
 msgid "Confirm profile change"
 msgstr "Confirmă schimbarea profilului"
 
-#: src/project/dialogs/projectsettings.cpp:426
+#: src/project/dialogs/projectsettings.cpp:425
 #, kde-format
 msgid "Interlaced (%1 fields per second)"
 msgstr ""
 
-#: src/project/dialogs/projectsettings.cpp:597
+#: src/project/dialogs/projectsettings.cpp:596
 #, kde-format
 msgid "Project folder: %1"
 msgstr "Dosar proiect: %1"
 
-#: src/project/dialogs/projectsettings.cpp:598
+#: src/project/dialogs/projectsettings.cpp:597
 #, kde-format
 msgid "Project profile: %1"
 msgstr "Profil proiect: %1"
 
-#: src/project/dialogs/projectsettings.cpp:599
+#: src/project/dialogs/projectsettings.cpp:598
 #, kde-format
 msgid "Total clips: %1 (%2 used in timeline)."
 msgstr ""
 
-#: src/project/dialogs/projectsettings.cpp:651
+#: src/project/dialogs/projectsettings.cpp:650
 msgid "field_name"
 msgstr "cîmp_nume"
 
@@ -8371,30 +8377,30 @@ msgstr "Automat"
 msgid "Black"
 msgstr "Negru"
 
-#: src/renderer.cpp:1137
+#: src/renderer.cpp:1134
 msgid ""
 "Could not create the video preview window.\n"
 "There is something wrong with your Kdenlive install or your driver settings, "
 "please fix it."
 msgstr ""
 
-#: src/renderer.cpp:3498
+#: src/renderer.cpp:3495
 msgid "Import selected clips"
 msgstr "Importă clipurile alese"
 
-#: src/renderer.cpp:3500
+#: src/renderer.cpp:3497
 #, kde-format
 msgid ""
 "Additional streams for clip\n"
 " %1"
 msgstr ""
 
-#: src/renderer.cpp:3509
+#: src/renderer.cpp:3506
 #, kde-format
 msgid "Video stream %1"
 msgstr "Flux video %1"
 
-#: src/renderer.cpp:3524
+#: src/renderer.cpp:3521
 #, kde-format
 msgid "Audio stream %1"
 msgstr "Flux audio %1"
@@ -8936,11 +8942,11 @@ msgstr "Nu se poate modifica un element dintr-un grup"
 msgid "Item is locked"
 msgstr "Elementul este blocat"
 
-#: src/timeline/customtrackview.cpp:1642 src/timeline/customtrackview.cpp:2776
+#: src/timeline/customtrackview.cpp:1642 src/timeline/customtrackview.cpp:2782
 msgid "Cannot insert clip in timeline"
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:1648 src/timeline/customtrackview.cpp:2741
+#: src/timeline/customtrackview.cpp:1648 src/timeline/customtrackview.cpp:2747
 #: src/timeline/timelinecommands.cpp:75
 msgid "Add timeline clip"
 msgstr ""
@@ -8968,14 +8974,14 @@ msgid "Cannot find clip to add effect"
 msgstr ""
 
 #: src/timeline/customtrackview.cpp:1964 src/timeline/customtrackview.cpp:2037
-#: src/timeline/customtrackview.cpp:2138 src/timeline/customtrackview.cpp:7173
+#: src/timeline/customtrackview.cpp:2138 src/timeline/customtrackview.cpp:7180
 #: src/timeline/timelinecommands.cpp:42 src/timeline/timelinecommands.cpp:281
 #: src/timeline/timelinecommands.cpp:373
 msgid "effect"
 msgstr "efect"
 
 #: src/timeline/customtrackview.cpp:1965 src/timeline/customtrackview.cpp:2039
-#: src/timeline/customtrackview.cpp:7175 src/timeline/timelinecommands.cpp:44
+#: src/timeline/customtrackview.cpp:7182 src/timeline/timelinecommands.cpp:44
 #, kde-format
 msgid "Add %1"
 msgstr "Adaugă %1"
@@ -9003,9 +9009,9 @@ msgstr "Șterge %1"
 
 #: src/timeline/customtrackview.cpp:2175 src/timeline/customtrackview.cpp:2190
 #: src/timeline/customtrackview.cpp:2251 src/timeline/customtrackview.cpp:2261
-#: src/timeline/customtrackview.cpp:2282 src/timeline/customtrackview.cpp:5187
-#: src/timeline/customtrackview.cpp:5208 src/timeline/customtrackview.cpp:5234
-#: src/timeline/customtrackview.cpp:5255
+#: src/timeline/customtrackview.cpp:2282 src/timeline/customtrackview.cpp:5194
+#: src/timeline/customtrackview.cpp:5215 src/timeline/customtrackview.cpp:5241
+#: src/timeline/customtrackview.cpp:5262
 msgid "Problem editing effect"
 msgstr "Problemă la editarea efectului"
 
@@ -9026,22 +9032,22 @@ msgstr ""
 msgid "Cannot find clip to uncut"
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:2486 src/timeline/customtrackview.cpp:3881
-#: src/timeline/customtrackview.cpp:4151
+#: src/timeline/customtrackview.cpp:2486 src/timeline/customtrackview.cpp:3888
+#: src/timeline/customtrackview.cpp:4158
 #, kde-format
 msgid "Error removing clip at %1 on track %2"
 msgstr "Eroare la eliminarea clipului la %1 pe pista %2"
 
-#: src/timeline/customtrackview.cpp:2511 src/timeline/customtrackview.cpp:5031
-#: src/timeline/customtrackview.cpp:5124
+#: src/timeline/customtrackview.cpp:2511 src/timeline/customtrackview.cpp:5038
+#: src/timeline/customtrackview.cpp:5131
 msgid "Error when resizing clip"
 msgstr "Eroare cînd se redimensiona clipul"
 
-#: src/timeline/customtrackview.cpp:2610 src/timeline/customtrackview.cpp:5903
+#: src/timeline/customtrackview.cpp:2610 src/timeline/customtrackview.cpp:5910
 msgid "Invalid transition"
 msgstr "Tranziție nevalidă"
 
-#: src/timeline/customtrackview.cpp:2633 src/timeline/customtrackview.cpp:4194
+#: src/timeline/customtrackview.cpp:2633 src/timeline/customtrackview.cpp:4201
 msgid "Select clip to delete"
 msgstr "Alegeți clipul de șters"
 
@@ -9049,312 +9055,312 @@ msgstr "Alegeți clipul de șters"
 msgid "Cannot update transition"
 msgstr "Tranziția nu poate fi actualizată"
 
-#: src/timeline/customtrackview.cpp:3258
+#: src/timeline/customtrackview.cpp:3265
 msgid "Cannot remove space in a locked track"
 msgstr "Nu se poate elimina spațiul într-o pistă blocată"
 
-#: src/timeline/customtrackview.cpp:3264 src/timeline/customtrackview.cpp:3269
+#: src/timeline/customtrackview.cpp:3271 src/timeline/customtrackview.cpp:3276
 #, kde-format
 msgid "You must be in an empty space to remove space (time: %1, track: %2)"
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:3280
+#: src/timeline/customtrackview.cpp:3287
 msgid "Cannot remove space in a track with a group"
 msgstr "Nu se poate elimina spațiul într-o pistă cu un grup"
 
-#: src/timeline/customtrackview.cpp:3359
+#: src/timeline/customtrackview.cpp:3366
 msgid "Cannot insert space in a locked track"
 msgstr "Nu se poate insera spațiu într-o pistă blocată"
 
-#: src/timeline/customtrackview.cpp:3372
+#: src/timeline/customtrackview.cpp:3379
 msgid "Cannot insert space in a track with a group"
 msgstr "Nu se poate insera spațiu într-o pistă cu un grup"
 
-#: src/timeline/customtrackview.cpp:3429
+#: src/timeline/customtrackview.cpp:3436
 #, kde-format
 msgid "Cannot move clip at position %1, track %2"
 msgstr "Nu se poate muta clipul la poziția %1, pista %2"
 
-#: src/timeline/customtrackview.cpp:3442
+#: src/timeline/customtrackview.cpp:3449
 #, kde-format
 msgid "Cannot move transition at position %1, track %2"
 msgstr "Nu se poate muta tranziția la poziția %1, pista %2"
 
-#: src/timeline/customtrackview.cpp:3704 src/timeline/timelinecommands.cpp:483
+#: src/timeline/customtrackview.cpp:3711 src/timeline/timelinecommands.cpp:483
 msgid "Move clip"
 msgstr "Mută clipul"
 
-#: src/timeline/customtrackview.cpp:3825 src/timeline/customtrackview.cpp:4739
+#: src/timeline/customtrackview.cpp:3832 src/timeline/customtrackview.cpp:4746
 #, kde-format
 msgid "Cannot move clip to position %1"
 msgstr "Nu se poate muta clipul la poziția %1"
 
-#: src/timeline/customtrackview.cpp:3832
+#: src/timeline/customtrackview.cpp:3839
 msgid "Cannot move transition"
 msgstr "Nu se poate muta tranziția"
 
-#: src/timeline/customtrackview.cpp:3836 src/timeline/timelinecommands.cpp:578
+#: src/timeline/customtrackview.cpp:3843 src/timeline/timelinecommands.cpp:578
 msgid "Move transition"
 msgstr "Mută tranziția"
 
-#: src/timeline/customtrackview.cpp:3863 src/timeline/timelinecommands.cpp:555
+#: src/timeline/customtrackview.cpp:3870 src/timeline/timelinecommands.cpp:555
 msgid "Move group"
 msgstr "Mută grupul"
 
-#: src/timeline/customtrackview.cpp:3995 src/timeline/customtrackview.cpp:4022
-#: src/timeline/customtrackview.cpp:6064 src/timeline/customtrackview.cpp:6096
+#: src/timeline/customtrackview.cpp:4002 src/timeline/customtrackview.cpp:4029
+#: src/timeline/customtrackview.cpp:6071 src/timeline/customtrackview.cpp:6103
 msgid "Resize group"
 msgstr "Redimenzionează grupul"
 
-#: src/timeline/customtrackview.cpp:4247
+#: src/timeline/customtrackview.cpp:4254
 msgid "Delete selected group"
 msgid_plural "Delete selected groups"
 msgstr[0] "Șterge grupul ales"
 msgstr[1] "Șterge grupurile alese"
 msgstr[2] "Șterge grupurile alese"
 
-#: src/timeline/customtrackview.cpp:4249
+#: src/timeline/customtrackview.cpp:4256
 msgid "Delete selected clip"
 msgid_plural "Delete selected clips"
 msgstr[0] "Șterge clipul ales"
 msgstr[1] "Șterge clipurile alese"
 msgstr[2] "Șterge clipurile alese"
 
-#: src/timeline/customtrackview.cpp:4251
+#: src/timeline/customtrackview.cpp:4258
 msgid "Delete selected transition"
 msgid_plural "Delete selected transitions"
 msgstr[0] "Șterge tranziția aleasă"
 msgstr[1] "Șterge tranzițiile alese"
 msgstr[2] "Șterge tranzițiile alese"
 
-#: src/timeline/customtrackview.cpp:4252
+#: src/timeline/customtrackview.cpp:4259
 msgid "Delete selected items"
 msgstr "Șterge elementele alese"
 
-#: src/timeline/customtrackview.cpp:4264
+#: src/timeline/customtrackview.cpp:4271
 msgid "Cannot find clip for speed change"
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:4322
+#: src/timeline/customtrackview.cpp:4329
 msgid "Cut Group"
 msgstr "Taie grupul"
 
-#: src/timeline/customtrackview.cpp:4404 src/timeline/timelinecommands.cpp:410
+#: src/timeline/customtrackview.cpp:4411 src/timeline/timelinecommands.cpp:410
 msgid "Group clips"
 msgstr "Grupează clipurile"
 
-#: src/timeline/customtrackview.cpp:4504
+#: src/timeline/customtrackview.cpp:4511
 msgid "Waiting for clip..."
 msgstr "Se așteaptă clipul..."
 
-#: src/timeline/customtrackview.cpp:4507 src/timeline/customtrackview.cpp:4519
+#: src/timeline/customtrackview.cpp:4514 src/timeline/customtrackview.cpp:4526
 msgid "Cannot insert clip..."
 msgstr "Clipul nu poate fi inserat..."
 
-#: src/timeline/customtrackview.cpp:4699 src/timeline/customtrackview.cpp:4930
+#: src/timeline/customtrackview.cpp:4706 src/timeline/customtrackview.cpp:4937
 #, kde-format
 msgid "Cannot move clip at time: %1 on track %2"
 msgstr "Nu se poate muta clipul la timpul: %1 pe pista %2"
 
-#: src/timeline/customtrackview.cpp:4880
+#: src/timeline/customtrackview.cpp:4887
 #, kde-format
 msgid "Cannot move transition at time: %1 on track %2"
 msgstr "Nu se poate muta tranziția la timpul: %1 pe pista %2"
 
-#: src/timeline/customtrackview.cpp:4974 src/timeline/customtrackview.cpp:5065
+#: src/timeline/customtrackview.cpp:4981 src/timeline/customtrackview.cpp:5072
 msgid "Not possible to resize"
 msgstr "Nu este posibil de redimensionat"
 
-#: src/timeline/customtrackview.cpp:4986
+#: src/timeline/customtrackview.cpp:4993
 msgid "Resize clip start"
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:5040 src/timeline/customtrackview.cpp:5134
+#: src/timeline/customtrackview.cpp:5047 src/timeline/customtrackview.cpp:5141
 msgid "Cannot resize transition"
 msgstr "Nu se poate redimensiona tranziția"
 
-#: src/timeline/customtrackview.cpp:5085
+#: src/timeline/customtrackview.cpp:5092
 msgid "Resize clip end"
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:5127
+#: src/timeline/customtrackview.cpp:5134
 msgid "Resize transition end"
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:5439 src/timeline/customtrackview.cpp:5507
-#: src/timeline/customtrackview.cpp:5548
+#: src/timeline/customtrackview.cpp:5446 src/timeline/customtrackview.cpp:5514
+#: src/timeline/customtrackview.cpp:5555
 msgid "No guide at cursor time"
 msgstr "Niciun ghidaj la poziția cursorului"
 
-#: src/timeline/customtrackview.cpp:5459
+#: src/timeline/customtrackview.cpp:5466
 #, kde-format
 msgid "A guide already exists at position %1"
 msgstr "Există deja un ghidaj la poziția %1"
 
-#: src/timeline/customtrackview.cpp:5475
+#: src/timeline/customtrackview.cpp:5482
 msgid "Guide"
 msgstr "Ghidaj"
 
-#: src/timeline/customtrackview.cpp:5765
+#: src/timeline/customtrackview.cpp:5772
 msgid "Select a clip before copying"
 msgstr "Alegeți un clip înainte de a copia"
 
-#: src/timeline/customtrackview.cpp:5836
+#: src/timeline/customtrackview.cpp:5843
 msgid "No clip copied"
 msgstr "Niciun clip copiat"
 
-#: src/timeline/customtrackview.cpp:5874
+#: src/timeline/customtrackview.cpp:5881
 msgid "Cannot paste selected clips"
 msgstr "Nu se pot lipi clipurile selectate"
 
-#: src/timeline/customtrackview.cpp:5891
+#: src/timeline/customtrackview.cpp:5898
 msgid "Cannot paste clip to selected place"
 msgstr "Nu se poate lipi clipul în locul selectat"
 
-#: src/timeline/customtrackview.cpp:5905
+#: src/timeline/customtrackview.cpp:5912
 msgid "Cannot paste transition to selected place"
 msgstr "Nu se poate lipi tranziția în locul selectat"
 
-#: src/timeline/customtrackview.cpp:5916
+#: src/timeline/customtrackview.cpp:5923
 msgid "You must copy exactly one clip before pasting effects"
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:6055 src/timeline/customtrackview.cpp:6088
-#: src/timeline/customtrackview.cpp:6672
+#: src/timeline/customtrackview.cpp:6062 src/timeline/customtrackview.cpp:6095
+#: src/timeline/customtrackview.cpp:6679
 msgid "You must select one clip for this action"
 msgstr "Trebuie să alegeți un clip pentru această acțiune"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: src/timeline/customtrackview.cpp:6195 src/ui/addtrack_ui.ui:67
+#: src/timeline/customtrackview.cpp:6202 src/ui/addtrack_ui.ui:67
 msgid "Insert track"
 msgstr "Inserează pistă"
 
-#: src/timeline/customtrackview.cpp:6196
+#: src/timeline/customtrackview.cpp:6203
 #, fuzzy, kde-format
 #| msgid "Video"
 msgid "Video %1"
 msgstr "Video"
 
-#: src/timeline/customtrackview.cpp:6197
+#: src/timeline/customtrackview.cpp:6204
 msgid "Insert New Track"
 msgstr "Inserează pistă nouă"
 
-#: src/timeline/customtrackview.cpp:6228 src/timeline/timelinecommands.cpp:108
+#: src/timeline/customtrackview.cpp:6235 src/timeline/timelinecommands.cpp:108
 msgid "Delete track"
 msgstr "Șterge pista"
 
-#: src/timeline/customtrackview.cpp:6342
+#: src/timeline/customtrackview.cpp:6349
 msgid "You must select one transition for this action"
 msgstr "Trebuie să alegeți o tranziție pentru această acțiune"
 
-#: src/timeline/customtrackview.cpp:6426
+#: src/timeline/customtrackview.cpp:6433
 msgid "You must select at least one clip for this action"
 msgstr "Trebuie să alegeți cel puțin un clip pentru această acțiune"
 
-#: src/timeline/customtrackview.cpp:6430 src/timeline/timelinecommands.cpp:717
+#: src/timeline/customtrackview.cpp:6437 src/timeline/timelinecommands.cpp:717
 msgid "Split audio"
 msgstr "Desparte sunetul"
 
-#: src/timeline/customtrackview.cpp:6436
+#: src/timeline/customtrackview.cpp:6443
 msgid "Cannot split audio of grouped clips"
 msgstr "Nu se poate împărți pista audio a clipurilor grupate"
 
-#: src/timeline/customtrackview.cpp:6450
+#: src/timeline/customtrackview.cpp:6457
 #, fuzzy
 #| msgid "No clip copied"
 msgid "No clip to split"
 msgstr "Niciun clip copiat"
 
-#: src/timeline/customtrackview.cpp:6458
+#: src/timeline/customtrackview.cpp:6465
 msgid "You must select exactly one clip for the audio reference."
 msgstr "Trebuie să selectați exact un clip pentru referința audio."
 
-#: src/timeline/customtrackview.cpp:6474 src/timeline/customtrackview.cpp:6514
+#: src/timeline/customtrackview.cpp:6481 src/timeline/customtrackview.cpp:6521
 msgid "Processing audio, please wait."
 msgstr "Se procesează audio, așteptați."
 
-#: src/timeline/customtrackview.cpp:6478
+#: src/timeline/customtrackview.cpp:6485
 msgid "Reference for audio alignment must contain audio data."
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:6494
+#: src/timeline/customtrackview.cpp:6501
 msgid "Audio alignment reference not yet set."
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:6522
+#: src/timeline/customtrackview.cpp:6529
 msgid "Cannot find clip to align."
 msgstr "Nu se poate găsi clipul de aliniat."
 
-#: src/timeline/customtrackview.cpp:6537
+#: src/timeline/customtrackview.cpp:6544
 msgid "Unable to move clip out of timeline."
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:6552
+#: src/timeline/customtrackview.cpp:6559
 msgid "Unable to move clip due to collision."
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:6555
+#: src/timeline/customtrackview.cpp:6562
 msgid "Clip aligned."
 msgstr "Clip aliniat."
 
-#: src/timeline/customtrackview.cpp:6556
+#: src/timeline/customtrackview.cpp:6563
 msgid "Auto-align clip"
 msgstr "Aliniere automată clip"
 
-#: src/timeline/customtrackview.cpp:6588
+#: src/timeline/customtrackview.cpp:6595
 msgid "No empty space to put clip audio"
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:6600 src/timeline/customtrackview.cpp:6637
-#: src/timeline/customtrackview.cpp:6713
+#: src/timeline/customtrackview.cpp:6607 src/timeline/customtrackview.cpp:6644
+#: src/timeline/customtrackview.cpp:6720
 #, kde-format
 msgid "Cannot update clip (time: %1, track: %2)"
 msgstr "Nu se poate actualiza clipul (timp: %1, pista: %2)"
 
-#: src/timeline/customtrackview.cpp:6665
+#: src/timeline/customtrackview.cpp:6672
 msgid "Video only"
 msgstr "Numai video"
 
-#: src/timeline/customtrackview.cpp:6682
+#: src/timeline/customtrackview.cpp:6689
 msgid "Cannot change grouped clips"
 msgstr "Clipurile grupate nu se pot modifica"
 
-#: src/timeline/customtrackview.cpp:6701
+#: src/timeline/customtrackview.cpp:6708
 #, fuzzy, kde-format
 #| msgid "Cannot update clip (time: %1, track: %2)"
 msgid "Cannot find clip to edit (time: %1, track: %2)"
 msgstr "Nu se poate actualiza clipul (timp: %1, pista: %2)"
 
-#: src/timeline/customtrackview.cpp:7018
+#: src/timeline/customtrackview.cpp:7025
 msgid "error"
 msgstr "eroare"
 
-#: src/timeline/customtrackview.cpp:7018
+#: src/timeline/customtrackview.cpp:7025
 msgid "TRACTOR"
 msgstr "TRACTOR"
 
-#: src/timeline/customtrackview.cpp:7031
+#: src/timeline/customtrackview.cpp:7038
 msgid "Insert clip"
 msgstr "Inserează clip"
 
-#: src/timeline/customtrackview.cpp:7181 src/timeline/customtrackview.cpp:7189
+#: src/timeline/customtrackview.cpp:7188 src/timeline/customtrackview.cpp:7196
 msgid "Effect already present in track"
 msgstr "Efectul e prezent deja în pistă"
 
-#: src/timeline/customtrackview.cpp:7301
+#: src/timeline/customtrackview.cpp:7308
 #, kde-format
 msgid "Cannot find clip for effect update %1."
 msgstr ""
 
-#: src/timeline/customtrackview.cpp:7328
+#: src/timeline/customtrackview.cpp:7335
 msgid "You need to select one clip and one transition"
 msgstr "Trebuie să alegeți un clip și o tranziție"
 
-#: src/timeline/customtrackview.cpp:7346
+#: src/timeline/customtrackview.cpp:7353
 msgid "No clip found"
 msgstr "Niciun clip găsit"
 
-#: src/timeline/customtrackview.cpp:7354
+#: src/timeline/customtrackview.cpp:7361
 msgid "No keyframe data found in clip"
 msgstr ""
 
@@ -10443,7 +10449,7 @@ msgstr "Destinație"
 msgid "Source"
 msgstr "Sursă"
 
-#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: property (text), widget (QLabel, ffmpeg_label)
 #: src/ui/cliptranscode_ui.ui:40
 msgid "FFmpeg parameters"
 msgstr "Parametri FFmpeg"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_tasks\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-22 08:48+0000\n"
+"POT-Creation-Date: 2015-09-18 08:05+0000\n"
 "PO-Revision-Date: 2013-11-23 20:40+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -27,126 +27,122 @@ msgstr ""
 msgid "General"
 msgstr "General"
 
-#: package/contents/ui/ConfigGeneral.qml:51
+#: package/contents/ui/ConfigGeneral.qml:50
 msgid "Arrangement"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:59
+#: package/contents/ui/ConfigGeneral.qml:58
 #, fuzzy
 #| msgid "Maximum rows:"
 msgid "Maximum columns:"
 msgstr "Maxim rînduri:"
 
-#: package/contents/ui/ConfigGeneral.qml:59
+#: package/contents/ui/ConfigGeneral.qml:58
 msgid "Maximum rows:"
 msgstr "Maxim rînduri:"
 
-#: package/contents/ui/ConfigGeneral.qml:71
+#: package/contents/ui/ConfigGeneral.qml:70
 msgid "Always arrange tasks in rows of as many columns"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:71
+#: package/contents/ui/ConfigGeneral.qml:70
 msgid "Always arrange tasks in columns of as many rows"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:80
+#: package/contents/ui/ConfigGeneral.qml:79
 msgid "Behavior"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:88
+#: package/contents/ui/ConfigGeneral.qml:87
 msgid "Show tooltips"
 msgstr "Arată indicii"
 
-#: package/contents/ui/ConfigGeneral.qml:93
+#: package/contents/ui/ConfigGeneral.qml:92
 msgid "Cycle through tasks with mouse wheel"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:98
+#: package/contents/ui/ConfigGeneral.qml:97
 msgid "Highlight windows"
 msgstr "Evidențiază ferestrele"
 
-#: package/contents/ui/ConfigGeneral.qml:103
-msgid "Use launcher icons for running applications"
-msgstr ""
-
-#: package/contents/ui/ConfigGeneral.qml:108
+#: package/contents/ui/ConfigGeneral.qml:102
 msgid "On middle-click:"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:114
+#: package/contents/ui/ConfigGeneral.qml:108
 msgctxt "The click action"
 msgid "None"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:114
+#: package/contents/ui/ConfigGeneral.qml:108
 msgid "Close Window or Group"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:114
+#: package/contents/ui/ConfigGeneral.qml:108
 msgid "New Instance"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:123
+#: package/contents/ui/ConfigGeneral.qml:117
 msgid "Grouping and Sorting"
 msgstr "Grupare și sortare"
 
-#: package/contents/ui/ConfigGeneral.qml:133
+#: package/contents/ui/ConfigGeneral.qml:127
 msgid "Sorting:"
 msgstr "Sortare:"
 
-#: package/contents/ui/ConfigGeneral.qml:140
+#: package/contents/ui/ConfigGeneral.qml:134
 msgid "Do Not Sort"
 msgstr "Nu sorta"
 
-#: package/contents/ui/ConfigGeneral.qml:140
+#: package/contents/ui/ConfigGeneral.qml:134
 msgid "Manually"
 msgstr "Manual"
 
-#: package/contents/ui/ConfigGeneral.qml:140
+#: package/contents/ui/ConfigGeneral.qml:134
 msgid "Alphabetically"
 msgstr "Alfabetic"
 
-#: package/contents/ui/ConfigGeneral.qml:140
+#: package/contents/ui/ConfigGeneral.qml:134
 msgid "By Desktop"
 msgstr "După birou"
 
-#: package/contents/ui/ConfigGeneral.qml:140
+#: package/contents/ui/ConfigGeneral.qml:134
 msgid "By Activity"
 msgstr "După activitate"
 
-#: package/contents/ui/ConfigGeneral.qml:147
+#: package/contents/ui/ConfigGeneral.qml:141
 msgid "Grouping:"
 msgstr "Grupare:"
 
-#: package/contents/ui/ConfigGeneral.qml:156
+#: package/contents/ui/ConfigGeneral.qml:150
 msgid "Do Not Group"
 msgstr "Nu grupa"
 
-#: package/contents/ui/ConfigGeneral.qml:156
+#: package/contents/ui/ConfigGeneral.qml:150
 msgid "By Program Name"
 msgstr "După denumirea programului"
 
-#: package/contents/ui/ConfigGeneral.qml:163
+#: package/contents/ui/ConfigGeneral.qml:157
 msgid "Only when the task manager is full"
 msgstr "Numai cînd gestionarul de sarcini e plin"
 
-#: package/contents/ui/ConfigGeneral.qml:174
+#: package/contents/ui/ConfigGeneral.qml:168
 msgid "Filters"
 msgstr "Filtre"
 
-#: package/contents/ui/ConfigGeneral.qml:182
+#: package/contents/ui/ConfigGeneral.qml:176
 msgid "Show only tasks from the current screen"
 msgstr "Arată numai sarcinile de pe ecranul curent"
 
-#: package/contents/ui/ConfigGeneral.qml:187
+#: package/contents/ui/ConfigGeneral.qml:181
 msgid "Show only tasks from the current desktop"
 msgstr "Arată numai sarcinile de pe biroul curent"
 
-#: package/contents/ui/ConfigGeneral.qml:192
+#: package/contents/ui/ConfigGeneral.qml:186
 msgid "Show only tasks from the current activity"
 msgstr "Arată numai sarcinile din activitatea curentă"
 
-#: package/contents/ui/ConfigGeneral.qml:200
+#: package/contents/ui/ConfigGeneral.qml:194
 msgid "Show only tasks that are minimized"
 msgstr "Arată numai sarcinile minimizate"
 

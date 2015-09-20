@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-29 07:54+0000\n"
+"POT-Creation-Date: 2015-09-14 08:11+0000\n"
 "PO-Revision-Date: 2013-02-04 17:51+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -189,23 +189,23 @@ msgstr ""
 msgid "Fetching mail listing."
 msgstr "Se obține lista scrisorilor."
 
-#: pop3resource.cpp:381
+#: pop3resource.cpp:385
 msgid "Saving downloaded messages."
 msgstr "Se salvează mesajele descărcate."
 
-#: pop3resource.cpp:396
+#: pop3resource.cpp:400
 msgid "Deleting messages from the server."
 msgstr "Se șterg mesajele de pe server."
 
-#: pop3resource.cpp:419
+#: pop3resource.cpp:423
 msgid "Saving password to the wallet."
 msgstr "Se salvează parola în portofel."
 
-#: pop3resource.cpp:436
+#: pop3resource.cpp:440
 msgid "Error while trying to get the local inbox folder, aborting mail check."
 msgstr ""
 
-#: pop3resource.cpp:442
+#: pop3resource.cpp:446
 #, kde-format
 msgid ""
 "<qt>The folder you deleted was associated with the account <b>%1</b> which "
@@ -213,33 +213,33 @@ msgid ""
 "reset to the main Inbox folder.</qt>"
 msgstr ""
 
-#: pop3resource.cpp:462
+#: pop3resource.cpp:466
 msgid ""
 "Error while trying to get the folder for incoming mail, aborting mail check."
 msgstr ""
 
-#: pop3resource.cpp:475
+#: pop3resource.cpp:479
 msgid "Could not find folder for incoming mail, aborting mail check."
 msgstr ""
 
-#: pop3resource.cpp:486
+#: pop3resource.cpp:490
 msgid "Error while executing precommand."
 msgstr "Eroare la executarea precomenzii."
 
-#: pop3resource.cpp:501
+#: pop3resource.cpp:505
 #, kde-format
 msgid "Unable to login to the server %1."
 msgstr "Autentificarea în serverul %1 nu a reușit."
 
-#: pop3resource.cpp:511
+#: pop3resource.cpp:515
 msgid "Error while getting the list of messages on the server."
 msgstr "Eroare în timpul obținerii listei de mesaje de pe server."
 
-#: pop3resource.cpp:525
+#: pop3resource.cpp:529
 msgid "Error while getting list of unique mail identifiers from the server."
 msgstr ""
 
-#: pop3resource.cpp:539
+#: pop3resource.cpp:543
 #, kde-format
 msgid ""
 "Your POP3 server (Account: %1) does not support the UIDL command: this "
@@ -249,35 +249,35 @@ msgid ""
 "properly."
 msgstr ""
 
-#: pop3resource.cpp:553
+#: pop3resource.cpp:557
 msgid "Error while fetching mails from the server."
 msgstr "Eroare în timpul preluării mesajelor de pe server."
 
-#: pop3resource.cpp:612
+#: pop3resource.cpp:616
 #, kde-format
 msgid ""
 "Fetching message %1 of %2 (%3 of %4 KB) for %5 (%6 KB remain on the server)."
 msgstr ""
 "Se preia mesajul %1 din %2 (%3 din %4 KO) pentru %5 (%6 KO rămîn pe server)."
 
-#: pop3resource.cpp:619
+#: pop3resource.cpp:623
 #, kde-format
 msgid "Fetching message %1 of %2 (%3 of %4 KB) for %5"
 msgstr "Se preia mesajul %1 din %2 (%3 din %4 KO) pentru %5"
 
-#: pop3resource.cpp:640
+#: pop3resource.cpp:644
 msgid "Unable to store downloaded mails."
 msgstr "Scrisorile descărcate nu pot fi stocate."
 
-#: pop3resource.cpp:773
+#: pop3resource.cpp:777
 msgid "Failed to delete the messages from the server."
 msgstr "Ștergerea mesajelor de pe server a eșuat."
 
-#: pop3resource.cpp:814
+#: pop3resource.cpp:818
 msgid "Finished mail check, no message downloaded."
 msgstr "Verificarea poștei s-a încheiat, nu s-au descărcat mesaje."
 
-#: pop3resource.cpp:816
+#: pop3resource.cpp:820
 #, kde-format
 msgid "Finished mail check, 1 message downloaded."
 msgid_plural "Finished mail check, %1 messages downloaded."
@@ -285,24 +285,24 @@ msgstr[0] "Verificarea poștei s-a încheiat, s-a descărcat 1 mesaj."
 msgstr[1] "Verificarea poștei s-a încheiat, s-au descărcat %1 mesaje."
 msgstr[2] "Verificarea poștei s-a încheiat, s-au descărcat %1 de mesaje."
 
-#: pop3resource.cpp:826
+#: pop3resource.cpp:830
 msgid "Unable to complete the mail fetch."
 msgstr "Preluarea poștei nu s-a putut finaliza."
 
-#: pop3resource.cpp:961
+#: pop3resource.cpp:965
 msgid "Mail check already in progress, unable to start a second check."
 msgstr ""
 "Verificarea poștei este în curs deja, nu se poate iniția a doua verificare."
 
-#: pop3resource.cpp:985
+#: pop3resource.cpp:989
 msgid "Ready"
 msgstr "Pregătit"
 
-#: pop3resource.cpp:988
+#: pop3resource.cpp:992
 msgid "Mail check aborted after going offline."
 msgstr ""
 
-#: pop3resource.cpp:990
+#: pop3resource.cpp:994
 msgid "Offline"
 msgstr "Deconectat"
 

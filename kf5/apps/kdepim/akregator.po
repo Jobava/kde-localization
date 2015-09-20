@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akregator\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-30 08:59+0000\n"
+"POT-Creation-Date: 2015-09-19 09:05+0000\n"
 "PO-Revision-Date: 2012-12-11 09:10+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1139,132 +1139,132 @@ msgstr "La adăugarea fluxurilor, plasează-le în acest grup"
 msgid "Hide main window on startup"
 msgstr "Ascunde fereastra principală la pornire"
 
-#: src/akregator_part.cpp:102
+#: src/akregator_part.cpp:103
 msgid "Feeds"
 msgstr "Fluxuri"
 
-#: src/akregator_part.cpp:129
+#: src/akregator_part.cpp:130
 msgid "KDE Dot News"
 msgstr "Știrile KDE"
 
-#: src/akregator_part.cpp:134
+#: src/akregator_part.cpp:135
 msgid "Linux.com"
 msgstr "Linux.com"
 
-#: src/akregator_part.cpp:139
+#: src/akregator_part.cpp:140
 msgid "Planet KDE"
 msgstr "Planeta KDE"
 
-#: src/akregator_part.cpp:144
+#: src/akregator_part.cpp:145
 msgid "Planet KDE PIM"
 msgstr "Planeta KDE PIM"
 
-#: src/akregator_part.cpp:149
+#: src/akregator_part.cpp:150
 msgid "KDE Apps"
 msgstr "Aplicații KDE"
 
-#: src/akregator_part.cpp:154
+#: src/akregator_part.cpp:155
 msgid "KDE Look"
 msgstr "Aspect KDE"
 
-#: src/akregator_part.cpp:160
+#: src/akregator_part.cpp:161
 msgid "Hungarian feeds"
 msgstr "Fluxuri maghiare"
 
-#: src/akregator_part.cpp:164
+#: src/akregator_part.cpp:165
 msgid "KDE.HU"
 msgstr "KDE.HU"
 
-#: src/akregator_part.cpp:170
+#: src/akregator_part.cpp:171
 msgid "Spanish feeds"
 msgstr "Fluxuri spaniole"
 
-#: src/akregator_part.cpp:174
+#: src/akregator_part.cpp:175
 msgid "Planet KDE España"
 msgstr "Planeta KDE España"
 
-#: src/akregator_part.cpp:246
+#: src/akregator_part.cpp:247
 #, kde-format
 msgid "Unable to load storage backend plugin \"%1\". No feeds are archived."
 msgstr ""
 
-#: src/akregator_part.cpp:246
+#: src/akregator_part.cpp:247
 msgid "Plugin error"
 msgstr "Eroare modul"
 
-#: src/akregator_part.cpp:518
+#: src/akregator_part.cpp:519
 #, kde-format
 msgid ""
 "Access denied: Cannot save feed list to <b>%1</b>. Please check your "
 "permissions."
 msgstr ""
 
-#: src/akregator_part.cpp:519 src/akregator_part.cpp:577
+#: src/akregator_part.cpp:520 src/akregator_part.cpp:578
 msgid "Write Error"
 msgstr "Eroare de scriere"
 
-#: src/akregator_part.cpp:551 src/loadfeedlistcommand.cpp:81
+#: src/akregator_part.cpp:552 src/loadfeedlistcommand.cpp:81
 msgid "OPML Parsing Error"
 msgstr "Eroare de parcurgere OPML"
 
-#: src/akregator_part.cpp:551
+#: src/akregator_part.cpp:552
 #, kde-format
 msgid "Could not import the file %1 (no valid OPML)"
 msgstr ""
 
-#: src/akregator_part.cpp:554 src/loadfeedlistcommand.cpp:160
+#: src/akregator_part.cpp:555 src/loadfeedlistcommand.cpp:160
 msgid "Read Error"
 msgstr "Eroare de citire"
 
-#: src/akregator_part.cpp:554
+#: src/akregator_part.cpp:555
 #, kde-format
 msgid ""
 "The file %1 could not be read, check if it exists or if it is readable for "
 "the current user."
 msgstr ""
 
-#: src/akregator_part.cpp:569
+#: src/akregator_part.cpp:570
 #, kde-format
 msgid "The file %1 already exists; do you want to overwrite it?"
 msgstr "Fișierul %1 există deja; îl suprascrieți?"
 
-#: src/akregator_part.cpp:570
+#: src/akregator_part.cpp:571
 msgid "Export"
 msgstr "Exportă"
 
-#: src/akregator_part.cpp:577
+#: src/akregator_part.cpp:578
 #, kde-format
 msgid "Access denied: cannot write to file %1. Please check your permissions."
 msgstr ""
 
-#: src/akregator_part.cpp:592 src/akregator_part.cpp:601
+#: src/akregator_part.cpp:593 src/akregator_part.cpp:602
 msgid "OPML Outlines (*.opml, *.xml);;All Files (*)"
 msgstr ""
 
-#: src/akregator_part.cpp:757
+#: src/akregator_part.cpp:758
 msgid "Imported Folder"
 msgstr "Dosar importat"
 
-#: src/akregator_part.cpp:810
+#: src/akregator_part.cpp:811
 msgid ""
 "Akregator did not close correctly. Would you like to restore the previous "
 "session?"
 msgstr ""
 "Akregator nu s-a închis corect. Doriți să restabiliți sesiunea precedentă?"
 
-#: src/akregator_part.cpp:811
+#: src/akregator_part.cpp:812
 msgid "Restore Session?"
 msgstr "Restabiliți sesiunea?"
 
-#: src/akregator_part.cpp:812
+#: src/akregator_part.cpp:813
 msgid "Restore Session"
 msgstr "Restabilesc sesiunea"
 
-#: src/akregator_part.cpp:813
+#: src/akregator_part.cpp:814
 msgid "Do Not Restore"
 msgstr "Nu restabilesc"
 
-#: src/akregator_part.cpp:814
+#: src/akregator_part.cpp:815
 msgid "Ask Me Later"
 msgstr "Întreabă-mă mai tîrziu"
 
@@ -1752,40 +1752,40 @@ msgid ""
 "backup.</qt>"
 msgstr ""
 
-#: src/mainwidget.cpp:176
+#: src/mainwidget.cpp:178
 msgid "You can view multiple articles in several open tabs."
 msgstr "Puteți vedea mai multe articole în cîteva file deschise."
 
-#: src/mainwidget.cpp:180
+#: src/mainwidget.cpp:182
 msgid "Articles list."
 msgstr "Lista articolelor."
 
-#: src/mainwidget.cpp:245
+#: src/mainwidget.cpp:247
 msgid "Browsing area."
 msgstr "Zona de răsfoire."
 
-#: src/mainwidget.cpp:250 src/mainwidget.cpp:615
+#: src/mainwidget.cpp:252 src/mainwidget.cpp:617
 msgid "Articles"
 msgstr "Articole"
 
-#: src/mainwidget.cpp:267
+#: src/mainwidget.cpp:269
 msgid "About"
 msgstr "Despre"
 
-#: src/mainwidget.cpp:788 src/mainwidget.cpp:797 src/mainwidget.cpp:1203
+#: src/mainwidget.cpp:790 src/mainwidget.cpp:799 src/mainwidget.cpp:1205
 msgid "Networking is not available."
 msgstr "Rețeaua nu e disponibilă."
 
-#: src/mainwidget.cpp:805
+#: src/mainwidget.cpp:807
 msgid "Fetching Feeds..."
 msgstr "Se preiau fluxuri..."
 
-#: src/mainwidget.cpp:1009
+#: src/mainwidget.cpp:1011
 #, kde-format
 msgid "<qt>Are you sure you want to delete article <b>%1</b>?</qt>"
 msgstr "<qt>Sigur ștergeți articolul <b>%1</b>?</qt>"
 
-#: src/mainwidget.cpp:1012
+#: src/mainwidget.cpp:1014
 #, kde-format
 msgid "<qt>Are you sure you want to delete the selected article?</qt>"
 msgid_plural ""
@@ -1794,11 +1794,11 @@ msgstr[0] "<qt>Sigur ștergeți articolul ales?</qt>"
 msgstr[1] "<qt>Sigur ștergeți cele %1 articole alese?</qt>"
 msgstr[2] "<qt>Sigur ștergeți cele %1 de articole alese?</qt>"
 
-#: src/mainwidget.cpp:1016
+#: src/mainwidget.cpp:1018
 msgid "Delete Article"
 msgstr "Șterge articolul"
 
-#: src/mainwidget.cpp:1199
+#: src/mainwidget.cpp:1201
 msgid "Networking is available now."
 msgstr "Rețeaua e disponibilă acum."
 

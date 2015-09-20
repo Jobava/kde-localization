@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_extragear-utils_rsibreak\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:33+0000\n"
+"POT-Creation-Date: 2015-09-18 08:18+0000\n"
 "PO-Revision-Date: 2009-01-05 18:08+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
@@ -27,7 +27,7 @@ msgctxt "Name"
 msgid "RSIBreak"
 msgstr "PauzăRSI"
 
-#: src/rsibreak_autostart.desktop:51 src/rsibreak.desktop:51
+#: src/rsibreak_autostart.desktop:52 src/rsibreak.desktop:52
 msgctxt "Comment"
 msgid "Makes sure you rest now and then"
 msgstr "Are grijă să vă odihniți din cînd în cînd"
@@ -37,57 +37,57 @@ msgctxt "Comment"
 msgid "RSIBreak"
 msgstr "PauzăRSI"
 
-#: src/rsibreak.notifyrc:45
+#: src/rsibreak.notifyrc:46
 msgctxt "Name"
 msgid "Breaks"
 msgstr "Pauze"
 
-#: src/rsibreak.notifyrc:88
+#: src/rsibreak.notifyrc:90
 msgctxt "Name"
 msgid "Start of a short break"
 msgstr "Începutl unei pauze scurte"
 
-#: src/rsibreak.notifyrc:126
+#: src/rsibreak.notifyrc:129
 msgctxt "Comment"
 msgid "When a short break starts"
 msgstr "La începutul unei pauze scurte"
 
-#: src/rsibreak.notifyrc:168
+#: src/rsibreak.notifyrc:172
 msgctxt "Name"
 msgid "End of a short break"
 msgstr "Sfîrșitul unei pauze scurte"
 
-#: src/rsibreak.notifyrc:206
+#: src/rsibreak.notifyrc:211
 msgctxt "Comment"
 msgid "When a short break ends"
 msgstr "La sfîrșitul unei pauze scurte"
 
-#: src/rsibreak.notifyrc:247
+#: src/rsibreak.notifyrc:253
 msgctxt "Name"
 msgid "Start of a long break"
 msgstr "Începutul unei pauze lungi"
 
-#: src/rsibreak.notifyrc:285
+#: src/rsibreak.notifyrc:292
 msgctxt "Comment"
 msgid "When a long break starts"
 msgstr "La începutul unei pauze lungi"
 
-#: src/rsibreak.notifyrc:327
+#: src/rsibreak.notifyrc:335
 msgctxt "Name"
 msgid "End of a long break"
 msgstr "Sfîrșitul unei pauze lungi"
 
-#: src/rsibreak.notifyrc:365
+#: src/rsibreak.notifyrc:374
 msgctxt "Comment"
 msgid "When a long break ends"
 msgstr "La sfîrșitul unei pauze lungi"
 
-#: src/rsibreak.notifyrc:405
+#: src/rsibreak.notifyrc:415
 msgctxt "Name"
 msgid "Regarding timers"
 msgstr ""
 
-#: src/rsibreak.notifyrc:434
+#: src/rsibreak.notifyrc:446
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "When a short break ends"
@@ -95,7 +95,7 @@ msgctxt "Name"
 msgid "When the short timer has been reset"
 msgstr "La sfîrșitul unei pauze scurte"
 
-#: src/rsibreak.notifyrc:464
+#: src/rsibreak.notifyrc:478
 msgctxt "Name"
 msgid "When the timers have been reset"
 msgstr ""

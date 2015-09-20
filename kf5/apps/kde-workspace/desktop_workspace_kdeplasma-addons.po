@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_extragear-plasma_desktopthemes\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:33+0000\n"
+"POT-Creation-Date: 2015-09-18 08:19+0000\n"
 "PO-Revision-Date: 2014-04-04 18:47+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -417,6 +417,19 @@ msgstr "Qalculează!"
 msgctxt "Comment"
 msgid "A powerful mathematical equation solver"
 msgstr "Un rezolvator puternic de ecuații matematice"
+
+#: applets/quicklaunch/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Quicklaunch"
+msgstr ""
+
+#: applets/quicklaunch/package/metadata.desktop:12
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Launcher to start applications"
+msgctxt "Comment"
+msgid "Launch your favourite Applications"
+msgstr "Lansator de aplicații"
 
 #: applets/quickshare/plasmoid/metadata.desktop:2
 msgctxt "Name"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-03 08:52+0000\n"
+"POT-Creation-Date: 2015-09-19 09:44+0000\n"
 "PO-Revision-Date: 2015-04-26 14:56+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: src/applet/package/metadata.desktop:2 src/daemon/kded/bluedevil.desktop:10
+#: src/applet/package/metadata.desktop:2
 #: src/kio/bluetooth/bluetooth-network.desktop:3
 msgctxt "Name"
 msgid "Bluetooth"
@@ -81,27 +81,22 @@ msgctxt "Comment"
 msgid "Connection to device failed"
 msgstr "Conectarea la dispozitiv a eșuat"
 
-#: src/daemon/kded/bluedevil.desktop:50
-msgctxt "Comment"
-msgid "Handles Bluetooth events"
-msgstr "Manipulează evenimente Bluetooth"
-
-#: src/fileitemactionplugin/bluedevilsendfile.desktop:3
+#: src/fileitemactionplugin/bluedevilfileitemaction.desktop:3
 msgctxt "Name"
 msgid "Send file via Bluetooth"
 msgstr "Trimite fișier prin Bluetooth"
 
-#: src/fileitemactionplugin/bluedevilsendfile.desktop:43
+#: src/fileitemactionplugin/bluedevilfileitemaction.desktop:43
 msgctxt "X-KDE-Submenu"
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: src/kcmodule/bluedeviladapters.desktop:14
+#: src/kcmodule/adapters/bluedeviladapters.desktop:14
 msgctxt "Name"
 msgid "Adapters"
 msgstr "Adaptoare"
 
-#: src/kcmodule/bluedeviladapters.desktop:54
+#: src/kcmodule/adapters/bluedeviladapters.desktop:54
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure Bluetooth adapters"
@@ -109,19 +104,19 @@ msgctxt "Comment"
 msgid "Bluetooth Adapters"
 msgstr "Configurează adaptoare Bluetooth"
 
-#: src/kcmodule/bluedeviladapters.desktop:84
-#: src/kcmodule/bluedevildevices.desktop:84
-#: src/kcmodule/bluedevilglobal.desktop:74
+#: src/kcmodule/adapters/bluedeviladapters.desktop:84
+#: src/kcmodule/devices/bluedevildevices.desktop:84
+#: src/kcmodule/global/bluedevilglobal.desktop:74
 msgctxt "X-KDE-Keywords"
 msgid "Network,Connectivity,Bluetooth"
 msgstr "Rețea,Conectivitate,Bluetooth"
 
-#: src/kcmodule/bluedevildevices.desktop:14
+#: src/kcmodule/devices/bluedevildevices.desktop:14
 msgctxt "Name"
 msgid "Devices"
 msgstr "Dispozitive"
 
-#: src/kcmodule/bluedevildevices.desktop:54
+#: src/kcmodule/devices/bluedevildevices.desktop:54
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Manage Bluetooth devices"
@@ -129,28 +124,21 @@ msgctxt "Comment"
 msgid "Bluetooth Devices"
 msgstr "Gestionează dispozitivele Bluetooth"
 
-#: src/kcmodule/bluedevilglobal.desktop:14
+#: src/kcmodule/global/bluedevilglobal.desktop:14
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Handles Bluetooth events"
 msgctxt "Name"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Manipulează evenimente Bluetooth"
 
-#: src/kcmodule/bluedevilglobal.desktop:44
+#: src/kcmodule/global/bluedevilglobal.desktop:44
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Handles Bluetooth events"
 msgctxt "Comment"
 msgid "Advanced Bluetooth Settings"
 msgstr "Manipulează evenimente Bluetooth"
-
-#: src/kio/obexftp/daemon/obexftpdaemon.desktop:10
-msgctxt "Name"
-msgid "Bluetooth File Transfer"
-msgstr "Transfer de fișiere Bluetooth"
-
-#: src/kio/obexftp/daemon/obexftpdaemon.desktop:49
-msgctxt "Comment"
-msgid "Supports Bluetooth file transfer using ObexFTP"
-msgstr "Susține transfer de fișiere Bluetooth folosind ObexFTP"
 
 #: src/sendfile/org.kde.bluedevilsendfile.desktop:2
 msgctxt "Name"
@@ -181,6 +169,18 @@ msgstr "Asistent BlueDevil"
 msgctxt "Comment"
 msgid "BlueDevil Wizard"
 msgstr "Asistent BlueDevil"
+
+#~ msgctxt "Comment"
+#~ msgid "Handles Bluetooth events"
+#~ msgstr "Manipulează evenimente Bluetooth"
+
+#~ msgctxt "Name"
+#~ msgid "Bluetooth File Transfer"
+#~ msgstr "Transfer de fișiere Bluetooth"
+
+#~ msgctxt "Comment"
+#~ msgid "Supports Bluetooth file transfer using ObexFTP"
+#~ msgstr "Susține transfer de fișiere Bluetooth folosind ObexFTP"
 
 #~ msgctxt "Name"
 #~ msgid "File Transfers"

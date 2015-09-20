@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-05 08:30+0000\n"
+"POT-Creation-Date: 2015-09-14 08:26+0000\n"
 "PO-Revision-Date: 2013-02-10 17:03+0200\n"
 "Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -40,18 +40,18 @@ msgstr "Descriere"
 msgid "Icon"
 msgstr "Pictogramă"
 
-#: soliddeviceengine.cpp:133 soliddeviceengine.cpp:601
+#: soliddeviceengine.cpp:133 soliddeviceengine.cpp:586
 msgid "Emblems"
 msgstr "Embleme"
 
-#: soliddeviceengine.cpp:134 soliddeviceengine.cpp:503
-#: soliddeviceengine.cpp:509 soliddeviceengine.cpp:522
+#: soliddeviceengine.cpp:134 soliddeviceengine.cpp:496
+#: soliddeviceengine.cpp:502 soliddeviceengine.cpp:515
 msgid "State"
 msgstr "Stare"
 
-#: soliddeviceengine.cpp:135 soliddeviceengine.cpp:504
-#: soliddeviceengine.cpp:510 soliddeviceengine.cpp:518
-#: soliddeviceengine.cpp:520
+#: soliddeviceengine.cpp:135 soliddeviceengine.cpp:497
+#: soliddeviceengine.cpp:503 soliddeviceengine.cpp:511
+#: soliddeviceengine.cpp:513
 msgid "Operation result"
 msgstr "Rezultat operație"
 
@@ -95,492 +95,492 @@ msgstr "Dispozitiv"
 msgid "Storage Access"
 msgstr "Acces la stocare"
 
-#: soliddeviceengine.cpp:167 soliddeviceengine.cpp:534
-#: soliddeviceengine.cpp:615
+#: soliddeviceengine.cpp:167 soliddeviceengine.cpp:527
+#: soliddeviceengine.cpp:600
 msgid "Accessible"
 msgstr "Accesibil"
 
-#: soliddeviceengine.cpp:168 soliddeviceengine.cpp:535
+#: soliddeviceengine.cpp:168 soliddeviceengine.cpp:528
 msgid "File Path"
 msgstr "Calea fișierului"
 
-#: soliddeviceengine.cpp:176 soliddeviceengine.cpp:571
-msgid "Free Space"
-msgstr "Spațiu liber"
-
-#: soliddeviceengine.cpp:177 soliddeviceengine.cpp:572
-msgid "Free Space Text"
-msgstr "Text spațiu liber"
-
-#: soliddeviceengine.cpp:189
+#: soliddeviceengine.cpp:183
 msgid "Storage Drive"
 msgstr "Unitate de stocare"
 
-#: soliddeviceengine.cpp:192
+#: soliddeviceengine.cpp:186
 msgid "Ide"
 msgstr "IDE"
 
-#: soliddeviceengine.cpp:192
+#: soliddeviceengine.cpp:186
 msgid "Usb"
 msgstr "USB"
 
-#: soliddeviceengine.cpp:192
+#: soliddeviceengine.cpp:186
 msgid "Ieee1394"
 msgstr "Ieee1394"
 
-#: soliddeviceengine.cpp:192
+#: soliddeviceengine.cpp:186
 msgid "Scsi"
 msgstr "Scsi"
 
-#: soliddeviceengine.cpp:192
+#: soliddeviceengine.cpp:186
 msgid "Sata"
 msgstr "Sata"
 
-#: soliddeviceengine.cpp:192
+#: soliddeviceengine.cpp:186
 msgid "Platform"
 msgstr "Platformă"
 
-#: soliddeviceengine.cpp:194
+#: soliddeviceengine.cpp:188
 msgid "Hard Disk"
 msgstr "Disc dur"
 
-#: soliddeviceengine.cpp:194
+#: soliddeviceengine.cpp:188
 msgid "Cdrom Drive"
 msgstr "Unitate optică"
 
-#: soliddeviceengine.cpp:194
+#: soliddeviceengine.cpp:188
 msgid "Floppy"
 msgstr "Dischetă"
 
-#: soliddeviceengine.cpp:194
+#: soliddeviceengine.cpp:188
 msgid "Tape"
 msgstr "Casetă"
 
-#: soliddeviceengine.cpp:194
+#: soliddeviceengine.cpp:188
 msgid "Compact Flash"
 msgstr "Compact Flash"
 
-#: soliddeviceengine.cpp:194
+#: soliddeviceengine.cpp:188
 msgid "Memory Stick"
 msgstr "Memory Stick"
 
-#: soliddeviceengine.cpp:194
+#: soliddeviceengine.cpp:188
 msgid "Smart Media"
 msgstr "Smart Media"
 
-#: soliddeviceengine.cpp:194
+#: soliddeviceengine.cpp:188
 msgid "SdMmc"
 msgstr "SdMmc"
 
-#: soliddeviceengine.cpp:194
+#: soliddeviceengine.cpp:188
 msgid "Xd"
 msgstr "Xd"
 
-#: soliddeviceengine.cpp:196
+#: soliddeviceengine.cpp:190
 msgid "Bus"
 msgstr "Magistrală"
 
-#: soliddeviceengine.cpp:197
+#: soliddeviceengine.cpp:191
 msgid "Drive Type"
 msgstr "Tip unitate"
 
-#: soliddeviceengine.cpp:198 soliddeviceengine.cpp:211
-#: soliddeviceengine.cpp:382 soliddeviceengine.cpp:397
+#: soliddeviceengine.cpp:192 soliddeviceengine.cpp:205
+#: soliddeviceengine.cpp:375 soliddeviceengine.cpp:390
 msgid "Removable"
 msgstr "Amovibil"
 
-#: soliddeviceengine.cpp:199 soliddeviceengine.cpp:212
-#: soliddeviceengine.cpp:383 soliddeviceengine.cpp:398
+#: soliddeviceengine.cpp:193 soliddeviceengine.cpp:206
+#: soliddeviceengine.cpp:376 soliddeviceengine.cpp:391
 msgid "Hotpluggable"
 msgstr "Detașabil"
 
-#: soliddeviceengine.cpp:222
+#: soliddeviceengine.cpp:216
 msgid "Optical Drive"
 msgstr "Unitate optică"
 
-#: soliddeviceengine.cpp:227
+#: soliddeviceengine.cpp:221
 msgid "CD-R"
 msgstr "CD-R"
 
-#: soliddeviceengine.cpp:230
+#: soliddeviceengine.cpp:224
 msgid "CD-RW"
 msgstr "CD-RW"
 
-#: soliddeviceengine.cpp:233
+#: soliddeviceengine.cpp:227
 msgid "DVD"
 msgstr "DVD"
 
-#: soliddeviceengine.cpp:236
+#: soliddeviceengine.cpp:230
 msgid "DVD-R"
 msgstr "DVD-R"
 
-#: soliddeviceengine.cpp:239
+#: soliddeviceengine.cpp:233
 msgid "DVD-RW"
 msgstr "DVD-RW"
 
-#: soliddeviceengine.cpp:242
+#: soliddeviceengine.cpp:236
 msgid "DVD-RAM"
 msgstr "DVD-RAM"
 
-#: soliddeviceengine.cpp:245
+#: soliddeviceengine.cpp:239
 msgid "DVD+R"
 msgstr "DVD+R"
 
-#: soliddeviceengine.cpp:248
+#: soliddeviceengine.cpp:242
 msgid "DVD+RW"
 msgstr "DVD+RW"
 
-#: soliddeviceengine.cpp:251
+#: soliddeviceengine.cpp:245
 msgid "DVD+DL"
 msgstr "DVD+DL"
 
-#: soliddeviceengine.cpp:254
+#: soliddeviceengine.cpp:248
 msgid "DVD+DLRW"
 msgstr "DVD+DLRW"
 
-#: soliddeviceengine.cpp:257
+#: soliddeviceengine.cpp:251
 msgid "BD"
 msgstr "BD"
 
-#: soliddeviceengine.cpp:260
+#: soliddeviceengine.cpp:254
 msgid "BD-R"
 msgstr "BD-R"
 
-#: soliddeviceengine.cpp:263
+#: soliddeviceengine.cpp:257
 msgid "BD-RE"
 msgstr "BD-RE"
 
-#: soliddeviceengine.cpp:266
+#: soliddeviceengine.cpp:260
 msgid "HDDVD"
 msgstr "HDDVD"
 
-#: soliddeviceengine.cpp:269
+#: soliddeviceengine.cpp:263
 msgid "HDDVD-R"
 msgstr "HDDVD-R"
 
-#: soliddeviceengine.cpp:272
+#: soliddeviceengine.cpp:266
 msgid "HDDVD-RW"
 msgstr "HDDVD-RW"
 
-#: soliddeviceengine.cpp:274
+#: soliddeviceengine.cpp:268
 msgid "Supported Media"
 msgstr "Mediu susținut"
 
-#: soliddeviceengine.cpp:276
+#: soliddeviceengine.cpp:270
 msgid "Read Speed"
 msgstr "Viteză de citire"
 
-#: soliddeviceengine.cpp:277
+#: soliddeviceengine.cpp:271
 msgid "Write Speed"
 msgstr "Viteză de scriere"
 
-#: soliddeviceengine.cpp:285
+#: soliddeviceengine.cpp:279
 msgid "Write Speeds"
 msgstr "Viteze de scriere"
 
-#: soliddeviceengine.cpp:294
+#: soliddeviceengine.cpp:288
 msgid "Storage Volume"
 msgstr "Volum de stocare"
 
-#: soliddeviceengine.cpp:297
+#: soliddeviceengine.cpp:291
 msgid "Other"
 msgstr "Altele"
 
-#: soliddeviceengine.cpp:297
+#: soliddeviceengine.cpp:291
 msgid "Unused"
 msgstr "Neutilizat"
 
-#: soliddeviceengine.cpp:297
+#: soliddeviceengine.cpp:291
 msgid "File System"
 msgstr "Sistem de fișiere"
 
-#: soliddeviceengine.cpp:298
+#: soliddeviceengine.cpp:292
 msgid "Partition Table"
 msgstr "Tabelă de partiții"
 
-#: soliddeviceengine.cpp:298
+#: soliddeviceengine.cpp:292
 msgid "Raid"
 msgstr "Raid"
 
-#: soliddeviceengine.cpp:298
+#: soliddeviceengine.cpp:292
 msgid "Encrypted"
 msgstr "Criptat"
 
-#: soliddeviceengine.cpp:301 soliddeviceengine.cpp:303
+#: soliddeviceengine.cpp:295 soliddeviceengine.cpp:297
 msgid "Usage"
 msgstr "Utilizare"
 
-#: soliddeviceengine.cpp:303
+#: soliddeviceengine.cpp:297
 msgid "Unknown"
 msgstr "Necunoscut"
 
-#: soliddeviceengine.cpp:306
+#: soliddeviceengine.cpp:300
 msgid "Ignored"
 msgstr "Ignorat"
 
-#: soliddeviceengine.cpp:307
+#: soliddeviceengine.cpp:301
 msgid "File System Type"
 msgstr "Tip sistem de fișiere"
 
-#: soliddeviceengine.cpp:308
+#: soliddeviceengine.cpp:302
 msgid "Label"
 msgstr "Etichetă"
 
-#: soliddeviceengine.cpp:309
+#: soliddeviceengine.cpp:303
 msgid "UUID"
 msgstr "UUID"
 
-#: soliddeviceengine.cpp:310 soliddeviceengine.cpp:478
-msgid "Size"
-msgstr "Dimensiune"
-
-#: soliddeviceengine.cpp:319
+#: soliddeviceengine.cpp:312
 msgid "Encrypted Container"
 msgstr "Container criptat"
 
-#: soliddeviceengine.cpp:331
+#: soliddeviceengine.cpp:324
 msgid "OpticalDisc"
 msgstr "Disc optic"
 
-#: soliddeviceengine.cpp:337
+#: soliddeviceengine.cpp:330
 msgid "Audio"
 msgstr "Audio"
 
-#: soliddeviceengine.cpp:340
+#: soliddeviceengine.cpp:333
 msgid "Data"
 msgstr "Date"
 
-#: soliddeviceengine.cpp:343
+#: soliddeviceengine.cpp:336
 msgid "Video CD"
 msgstr "Disc video"
 
-#: soliddeviceengine.cpp:346
+#: soliddeviceengine.cpp:339
 msgid "Super Video CD"
 msgstr "Super Video CD"
 
-#: soliddeviceengine.cpp:349
+#: soliddeviceengine.cpp:342
 msgid "Video DVD"
 msgstr "DVD video"
 
-#: soliddeviceengine.cpp:352
+#: soliddeviceengine.cpp:345
 msgid "Video Blu Ray"
 msgstr ""
 
-#: soliddeviceengine.cpp:354
+#: soliddeviceengine.cpp:347
 msgid "Available Content"
 msgstr "Conținut disponibil"
 
-#: soliddeviceengine.cpp:357
+#: soliddeviceengine.cpp:350
 msgid "Unknown Disc Type"
 msgstr "Tip de disc necunoscut"
 
-#: soliddeviceengine.cpp:357
+#: soliddeviceengine.cpp:350
 msgid "CD Rom"
 msgstr "CD Rom"
 
-#: soliddeviceengine.cpp:357
+#: soliddeviceengine.cpp:350
 msgid "CD Recordable"
 msgstr "CD inscriptibil"
 
-#: soliddeviceengine.cpp:358
+#: soliddeviceengine.cpp:351
 msgid "CD Rewritable"
 msgstr "CD reinscriptibil"
 
-#: soliddeviceengine.cpp:358
+#: soliddeviceengine.cpp:351
 msgid "DVD Rom"
 msgstr "DVD Rom"
 
-#: soliddeviceengine.cpp:358
+#: soliddeviceengine.cpp:351
 msgid "DVD Ram"
 msgstr "DVD Ram"
 
-#: soliddeviceengine.cpp:359
+#: soliddeviceengine.cpp:352
 msgid "DVD Recordable"
 msgstr "DVD inscriptibil"
 
-#: soliddeviceengine.cpp:359
+#: soliddeviceengine.cpp:352
 msgid "DVD Rewritable"
 msgstr "DVD reinscriptibil"
 
-#: soliddeviceengine.cpp:359
+#: soliddeviceengine.cpp:352
 msgid "DVD Plus Recordable"
 msgstr "DVD Plus inscriptibil"
 
-#: soliddeviceengine.cpp:360
+#: soliddeviceengine.cpp:353
 msgid "DVD Plus Rewritable"
 msgstr "DVD Plus reinscriptibil"
 
-#: soliddeviceengine.cpp:360
+#: soliddeviceengine.cpp:353
 msgid "DVD Plus Recordable Duallayer"
 msgstr "DVD Plus inscriptibil cu două straturi"
 
-#: soliddeviceengine.cpp:361
+#: soliddeviceengine.cpp:354
 msgid "DVD Plus Rewritable Duallayer"
 msgstr "DVD Plus reinscriptibil cu două straturi"
 
-#: soliddeviceengine.cpp:361
+#: soliddeviceengine.cpp:354
 msgid "Blu Ray Rom"
 msgstr "Blu Ray Rom"
 
-#: soliddeviceengine.cpp:361
+#: soliddeviceengine.cpp:354
 msgid "Blu Ray Recordable"
 msgstr "Blu Ray inscriptibil"
 
-#: soliddeviceengine.cpp:362
+#: soliddeviceengine.cpp:355
 msgid "Blu Ray Rewritable"
 msgstr "Blu Ray reinscriptibil"
 
-#: soliddeviceengine.cpp:362
+#: soliddeviceengine.cpp:355
 msgid "HD DVD Rom"
 msgstr "HD DVD Rom"
 
-#: soliddeviceengine.cpp:362
+#: soliddeviceengine.cpp:355
 msgid "HD DVD Recordable"
 msgstr "HD DVD inscriptibil"
 
-#: soliddeviceengine.cpp:363
+#: soliddeviceengine.cpp:356
 msgid "HD DVD Rewritable"
 msgstr "HD DVD reinscriptibil"
 
-#: soliddeviceengine.cpp:365
+#: soliddeviceengine.cpp:358
 msgid "Disc Type"
 msgstr "Tipul discului"
 
-#: soliddeviceengine.cpp:366
+#: soliddeviceengine.cpp:359
 msgid "Appendable"
 msgstr "Completabil"
 
-#: soliddeviceengine.cpp:367
+#: soliddeviceengine.cpp:360
 msgid "Blank"
 msgstr "Gol"
 
-#: soliddeviceengine.cpp:368
+#: soliddeviceengine.cpp:361
 msgid "Rewritable"
 msgstr "Reinscriptibil"
 
-#: soliddeviceengine.cpp:369
+#: soliddeviceengine.cpp:362
 msgid "Capacity"
 msgstr "Capacitate"
 
-#: soliddeviceengine.cpp:377
+#: soliddeviceengine.cpp:370
 msgid "Camera"
 msgstr "Aparat foto"
 
-#: soliddeviceengine.cpp:379 soliddeviceengine.cpp:394
+#: soliddeviceengine.cpp:372 soliddeviceengine.cpp:387
 msgid "Supported Protocols"
 msgstr "Protocoale susținute"
 
-#: soliddeviceengine.cpp:380 soliddeviceengine.cpp:395
+#: soliddeviceengine.cpp:373 soliddeviceengine.cpp:388
 msgid "Supported Drivers"
 msgstr "Drivere susținute"
 
-#: soliddeviceengine.cpp:392
+#: soliddeviceengine.cpp:385
 msgid "Portable Media Player"
 msgstr "Lector multimedia portabil"
 
-#: soliddeviceengine.cpp:406
+#: soliddeviceengine.cpp:399
 msgid "Battery"
 msgstr "Acumulator"
 
-#: soliddeviceengine.cpp:409
+#: soliddeviceengine.cpp:402
 msgid "Unknown Battery"
 msgstr "Acumulator necunoscut"
 
-#: soliddeviceengine.cpp:409
+#: soliddeviceengine.cpp:402
 msgid "PDA Battery"
 msgstr "Acumulator PDA"
 
-#: soliddeviceengine.cpp:409
+#: soliddeviceengine.cpp:402
 msgid "UPS Battery"
 msgstr "Acumulator UPS"
 
-#: soliddeviceengine.cpp:410
+#: soliddeviceengine.cpp:403
 msgid "Primary Battery"
 msgstr "Acumulator primar"
 
-#: soliddeviceengine.cpp:410
+#: soliddeviceengine.cpp:403
 msgid "Mouse Battery"
 msgstr "Acumulator pentru șoricel"
 
-#: soliddeviceengine.cpp:410
+#: soliddeviceengine.cpp:403
 msgid "Keyboard Battery"
 msgstr "Acumulator pentru tastatură"
 
-#: soliddeviceengine.cpp:411
+#: soliddeviceengine.cpp:404
 msgid "Keyboard Mouse Battery"
 msgstr "Acumulator pentru mouse tastatură"
 
-#: soliddeviceengine.cpp:411
+#: soliddeviceengine.cpp:404
 msgid "Camera Battery"
 msgstr "Acumulator pentru aparat de fotografiat"
 
-#: soliddeviceengine.cpp:411
+#: soliddeviceengine.cpp:404
 #, fuzzy
 #| msgid "Mouse Battery"
 msgid "Phone Battery"
 msgstr "Acumulator pentru șoricel"
 
-#: soliddeviceengine.cpp:412
+#: soliddeviceengine.cpp:405
 #, fuzzy
 #| msgid "Mouse Battery"
 msgid "Monitor Battery"
 msgstr "Acumulator pentru șoricel"
 
-#: soliddeviceengine.cpp:415
+#: soliddeviceengine.cpp:408
 #, fuzzy
 #| msgid "Charging"
 msgid "Not Charging"
 msgstr "Încărcare"
 
-#: soliddeviceengine.cpp:415
+#: soliddeviceengine.cpp:408
 msgid "Charging"
 msgstr "Încărcare"
 
-#: soliddeviceengine.cpp:415
+#: soliddeviceengine.cpp:408
 msgid "Discharging"
 msgstr "Descărcare"
 
-#: soliddeviceengine.cpp:415
+#: soliddeviceengine.cpp:408
 msgid "Fully Charged"
 msgstr "Încărcat deplin"
 
-#: soliddeviceengine.cpp:417
+#: soliddeviceengine.cpp:410
 msgid "Plugged In"
 msgstr "Atașat"
 
-#: soliddeviceengine.cpp:418
+#: soliddeviceengine.cpp:411
 msgid "Type"
 msgstr "Tip"
 
-#: soliddeviceengine.cpp:419
+#: soliddeviceengine.cpp:412
 msgid "Charge Percent"
 msgstr "Procentaj încărcare"
 
-#: soliddeviceengine.cpp:420
+#: soliddeviceengine.cpp:413
 msgid "Rechargeable"
 msgstr "Reîncărcabil"
 
-#: soliddeviceengine.cpp:421
+#: soliddeviceengine.cpp:414
 msgid "Charge State"
 msgstr "Starea încărcării"
 
-#: soliddeviceengine.cpp:446
+#: soliddeviceengine.cpp:439
 msgid "Type Description"
 msgstr "Descriere de tip"
 
-#: soliddeviceengine.cpp:451
+#: soliddeviceengine.cpp:444
 msgid "Device Types"
 msgstr "Tipuri de dispozitive"
 
-#: soliddeviceengine.cpp:589
+#: soliddeviceengine.cpp:471 soliddeviceengine.cpp:554
+msgid "Size"
+msgstr "Dimensiune"
+
+#: soliddeviceengine.cpp:552
+msgid "Free Space"
+msgstr "Spațiu liber"
+
+#: soliddeviceengine.cpp:553
+msgid "Free Space Text"
+msgstr "Text spațiu liber"
+
+#: soliddeviceengine.cpp:574
 msgid "Temperature"
 msgstr "Temperatură"
 
-#: soliddeviceengine.cpp:590
+#: soliddeviceengine.cpp:575
 msgid "Temperature Unit"
 msgstr "Unitate de temperatură"
 
-#: soliddeviceengine.cpp:634 soliddeviceengine.cpp:638
+#: soliddeviceengine.cpp:619 soliddeviceengine.cpp:623
 msgid "In Use"
 msgstr "În uz"
 

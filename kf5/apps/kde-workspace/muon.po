@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-23 11:57+0000\n"
+"POT-Creation-Date: 2015-09-13 08:36+0000\n"
 "PO-Revision-Date: 2015-04-20 13:53+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -232,49 +232,49 @@ msgctxt "@label Label preceding the package maintainer"
 msgid "Maintainer:"
 msgstr "Responsabil:"
 
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:68
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:70
 msgctxt "@label Label preceding the package category"
 msgid "Category:"
 msgstr "Categorie:"
 
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:76
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:80
 msgctxt "@label The parent package that this package comes from"
 msgid "Source Package:"
 msgstr "Pachet-sursă:"
 
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:84
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:90
 msgctxt "@label The software source that this package comes from"
 msgid "Origin:"
 msgstr "Origine:"
 
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:92
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:100
 msgctxt "@label The package archive component that this package comes from"
 msgid "Component:"
 msgstr "Componentă:"
 
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:102
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:112
 msgctxt "@title:group"
 msgid "Installed Version"
 msgstr "Versiune instalată"
 
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:108
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:130
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:119
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:144
 msgctxt "@label Label preceding the package version"
 msgid "Version:"
 msgstr "Versiune:"
 
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:114
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:136
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:127
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:152
 msgctxt "@label Label preceding the package size"
 msgid "Installed Size:"
 msgstr "Dimensiune instalată:"
 
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:124
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:137
 msgctxt "@title:group"
 msgid "Available Version"
 msgstr "Versiune disponibilă"
 
-#: muon/DetailsTabs/TechnicalDetailsTab.cpp:142
+#: muon/DetailsTabs/TechnicalDetailsTab.cpp:160
 msgctxt "@label Label preceding the package's download size"
 msgid "Download Size:"
 msgstr "Dimensiune descărcare:"

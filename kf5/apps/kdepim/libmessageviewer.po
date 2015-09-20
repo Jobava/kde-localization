@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmail\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:13+0000\n"
+"POT-Creation-Date: 2015-09-18 07:58+0000\n"
 "PO-Revision-Date: 2009-08-15 14:38+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Română <kde-i18n-ro@kde.org>\n"
@@ -575,13 +575,13 @@ msgid "Configure..."
 msgstr "Configurare..."
 
 #: header/allheaderstyleplugin/allheaderstyleinterface.cpp:36
-#: viewer/viewer_p.cpp:1627
+#: viewer/viewer_p.cpp:1595
 msgctxt "View->headers->"
 msgid "&All Headers"
 msgstr "&Toate antetele"
 
 #: header/allheaderstyleplugin/allheaderstyleinterface.cpp:39
-#: viewer/viewer_p.cpp:1630
+#: viewer/viewer_p.cpp:1598
 msgid "Show all message headers"
 msgstr "Arată toate antetele mesajului"
 
@@ -604,13 +604,13 @@ msgid "BCC: "
 msgstr "BCC: "
 
 #: header/briefheaderstyleplugin/briefheaderstyleinterface.cpp:37
-#: viewer/viewer_p.cpp:1606
+#: viewer/viewer_p.cpp:1574
 msgctxt "View->headers->"
 msgid "&Brief Headers"
 msgstr "Antete &scurte"
 
 #: header/briefheaderstyleplugin/briefheaderstyleinterface.cpp:40
-#: viewer/viewer_p.cpp:1609
+#: viewer/viewer_p.cpp:1577
 msgid "Show brief list of message headers"
 msgstr "Arată o listă scurtă a antetelor"
 
@@ -665,7 +665,7 @@ msgid "%1: "
 msgstr ""
 
 #: header/customheaderstyleplugin/customheaderstyleinterface.cpp:37
-#: viewer/viewer_p.cpp:1634
+#: viewer/viewer_p.cpp:1602
 #, fuzzy
 #| msgctxt "View->headers->"
 #| msgid "&Long Headers"
@@ -674,7 +674,7 @@ msgid "&Custom Headers"
 msgstr "Antete &lungi"
 
 #: header/customheaderstyleplugin/customheaderstyleinterface.cpp:40
-#: viewer/viewer_p.cpp:1637
+#: viewer/viewer_p.cpp:1605
 #, fuzzy
 #| msgid "Show long list of message headers"
 msgid "Show custom headers"
@@ -688,7 +688,7 @@ msgid "To: "
 msgstr "Către: "
 
 #: header/enterpriseheaderstyleplugin/enterpriseheaderstyleinterface.cpp:36
-#: viewer/viewer_p.cpp:1592
+#: viewer/viewer_p.cpp:1560
 #, fuzzy
 #| msgctxt "View->headers->"
 #| msgid "&Brief Headers"
@@ -697,7 +697,7 @@ msgid "&Enterprise Headers"
 msgstr "Antete &scurte"
 
 #: header/enterpriseheaderstyleplugin/enterpriseheaderstyleinterface.cpp:39
-#: viewer/viewer_p.cpp:1595
+#: viewer/viewer_p.cpp:1563
 #, fuzzy
 #| msgid "Show the list of headers in a fancy format"
 msgid "Show the list of headers in Enterprise style"
@@ -742,13 +742,13 @@ msgid "Spam Status:"
 msgstr "Stare spam: "
 
 #: header/fancyheaderstyleplugin/fancyheaderstyleinterface.cpp:37
-#: viewer/viewer_p.cpp:1599
+#: viewer/viewer_p.cpp:1567
 msgctxt "View->headers->"
 msgid "&Fancy Headers"
 msgstr "Antete &drăguțe"
 
 #: header/fancyheaderstyleplugin/fancyheaderstyleinterface.cpp:40
-#: viewer/viewer_p.cpp:1602
+#: viewer/viewer_p.cpp:1570
 msgid "Show the list of headers in a fancy format"
 msgstr "Arată lista antetelor într-un format frumos"
 
@@ -902,34 +902,34 @@ msgid ""
 "%2"
 msgstr ""
 
-#: header/headerstylemenumanager.cpp:58 viewer/viewer_p.cpp:1587
+#: header/headerstylemenumanager.cpp:73 viewer/viewer_p.cpp:1555
 msgctxt "View->"
 msgid "&Headers"
 msgstr "&Antete"
 
-#: header/headerstylemenumanager.cpp:60 viewer/viewer_p.cpp:1589
+#: header/headerstylemenumanager.cpp:75 viewer/viewer_p.cpp:1557
 msgid "Choose display style of message headers"
 msgstr "Alege stilul de afișare a antetelor mesajului"
 
 #: header/longheaderstyleplugin/longheaderstyleinterface.cpp:37
-#: viewer/viewer_p.cpp:1620
+#: viewer/viewer_p.cpp:1588
 msgctxt "View->headers->"
 msgid "&Long Headers"
 msgstr "Antete &lungi"
 
 #: header/longheaderstyleplugin/longheaderstyleinterface.cpp:40
-#: viewer/viewer_p.cpp:1623
+#: viewer/viewer_p.cpp:1591
 msgid "Show long list of message headers"
 msgstr "Arată o listă lungă de antete"
 
 #: header/standardsheaderstyleplugin/standardsheaderstyleinterface.cpp:37
-#: viewer/viewer_p.cpp:1613
+#: viewer/viewer_p.cpp:1581
 msgctxt "View->headers->"
 msgid "&Standard Headers"
 msgstr "Antete &standard"
 
 #: header/standardsheaderstyleplugin/standardsheaderstyleinterface.cpp:40
-#: viewer/viewer_p.cpp:1616
+#: viewer/viewer_p.cpp:1584
 msgid "Show standard list of message headers"
 msgstr "Arată lista standard a antetelor"
 
@@ -941,13 +941,13 @@ msgstr ""
 "Modificarea unui atașament ar putea invalida orice semnătură digitală de pe "
 "mesaj."
 
-#: job/attachmenteditjob.cpp:47 viewer/viewer_p.cpp:657
-#: viewer/viewer_p.cpp:1946
+#: job/attachmenteditjob.cpp:47 viewer/viewer_p.cpp:627
+#: viewer/viewer_p.cpp:1914
 msgid "Edit Attachment"
 msgstr "Editează atașament"
 
 #: job/attachmentencryptwithchiasmusjob.cpp:92
-#: viewer/objecttreeparser.cpp:2121
+#: viewer/objecttreeparser.cpp:2018
 msgid ""
 "Chiasmus backend does not offer the \"x-obtain-keys\" function. Please "
 "report this bug."
@@ -962,31 +962,31 @@ msgstr ""
 #: job/attachmentencryptwithchiasmusjob.cpp:140
 #: job/attachmentencryptwithchiasmusjob.cpp:153
 #: job/attachmentencryptwithchiasmusjob.cpp:196
-#: viewer/objecttreeparser.cpp:2127
+#: viewer/objecttreeparser.cpp:2024
 msgid "Chiasmus Backend Error"
 msgstr "Eroare suport Chiasmus"
 
 #: job/attachmentencryptwithchiasmusjob.cpp:107
-#: viewer/objecttreeparser.cpp:2133
+#: viewer/objecttreeparser.cpp:2030
 msgid ""
 "Unexpected return value from Chiasmus backend: The \"x-obtain-keys\" "
 "function did not return a string list. Please report this bug."
 msgstr ""
 
 #: job/attachmentencryptwithchiasmusjob.cpp:117
-#: viewer/objecttreeparser.cpp:2141
+#: viewer/objecttreeparser.cpp:2038
 msgid ""
 "No keys have been found. Please check that a valid key path has been set in "
 "the Chiasmus configuration."
 msgstr ""
 
 #: job/attachmentencryptwithchiasmusjob.cpp:125
-#: viewer/objecttreeparser.cpp:2147
+#: viewer/objecttreeparser.cpp:2044
 msgid "Chiasmus Decryption Key Selection"
 msgstr "Selectare cheie de decriptare Chiasmus"
 
 #: job/attachmentencryptwithchiasmusjob.cpp:138
-#: viewer/objecttreeparser.cpp:2160
+#: viewer/objecttreeparser.cpp:2057
 msgid ""
 "Chiasmus backend does not offer the \"x-decrypt\" function. Please report "
 "this bug."
@@ -995,7 +995,7 @@ msgstr ""
 "această eroare."
 
 #: job/attachmentencryptwithchiasmusjob.cpp:151
-#: viewer/objecttreeparser.cpp:2168
+#: viewer/objecttreeparser.cpp:2065
 msgid ""
 "The \"x-decrypt\" function does not accept the expected parameters. Please "
 "report this bug."
@@ -1005,12 +1005,12 @@ msgstr ""
 
 #: job/attachmentencryptwithchiasmusjob.cpp:159
 #: job/attachmentencryptwithchiasmusjob.cpp:187
-#: viewer/objecttreeparser.cpp:2174
+#: viewer/objecttreeparser.cpp:2071
 msgid "Chiasmus Decryption Error"
 msgstr "Eroare de decriptare Chiasmus"
 
 #: job/attachmentencryptwithchiasmusjob.cpp:193
-#: viewer/objecttreeparser.cpp:2180
+#: viewer/objecttreeparser.cpp:2077
 msgid ""
 "Unexpected return value from Chiasmus backend: The \"x-decrypt\" function "
 "did not return a byte array. Please report this bug."
@@ -1442,7 +1442,7 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: label, entry (UseFixedFont), group (Composer)
-#: settings/messageviewer.kcfg.cmake:272 viewer/viewer_p.cpp:1727
+#: settings/messageviewer.kcfg.cmake:272 viewer/viewer_p.cpp:1695
 msgid "Use Fi&xed Font"
 msgstr "Utilizează font de lățime fi&xă"
 
@@ -1654,39 +1654,39 @@ msgstr "Antete &lungi"
 msgid "Show spam status &in fancy headers"
 msgstr "Arată starea &spam în antetul mesajului"
 
-#: utils/util.cpp:92
+#: utils/messageviewerutil.cpp:92
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Există deja un fișier cu denumirea „%1”. Sigur doriți să îl suprascrieți?"
 
-#: utils/util.cpp:94
+#: utils/messageviewerutil.cpp:94
 msgid "Overwrite File?"
 msgstr "Suprascrieți fișierul?"
 
-#: utils/util.cpp:186
+#: utils/messageviewerutil.cpp:186
 msgid "Save Attachments To"
 msgstr "Salvează atașamentele în"
 
-#: utils/util.cpp:202
+#: utils/messageviewerutil.cpp:202
 msgctxt "filename for an unnamed attachment"
 msgid "attachment.1"
 msgstr "atașament.1"
 
-#: utils/util.cpp:205
+#: utils/messageviewerutil.cpp:205
 #, fuzzy
 #| msgid "Save Attachment As"
 msgid "Save Attachment"
 msgstr "Salvează atașamentul ca"
 
-#: utils/util.cpp:225
+#: utils/messageviewerutil.cpp:225
 #, kde-format
 msgctxt "filename for the %1-th unnamed attachment"
 msgid "attachment.%1"
 msgstr "atașament.%1"
 
-#: utils/util.cpp:319
+#: utils/messageviewerutil.cpp:319
 #, kde-format
 msgid ""
 "The part %1 of the message is encrypted. Do you want to keep the encryption "
@@ -1695,19 +1695,19 @@ msgstr ""
 "Partea %1 a mesajului este criptată. Doriți să păstrez criptarea la salvarea "
 "mesajului?"
 
-#: utils/util.cpp:321 utils/util.cpp:331
+#: utils/messageviewerutil.cpp:321 utils/messageviewerutil.cpp:331
 msgid "KMail Question"
 msgstr "Întrebare KMail"
 
-#: utils/util.cpp:321
+#: utils/messageviewerutil.cpp:321
 msgid "Keep Encryption"
 msgstr "Păstrează criptarea"
 
-#: utils/util.cpp:321 utils/util.cpp:331
+#: utils/messageviewerutil.cpp:321 utils/messageviewerutil.cpp:331
 msgid "Do Not Keep"
 msgstr "Nu păstra"
 
-#: utils/util.cpp:329
+#: utils/messageviewerutil.cpp:329
 #, kde-format
 msgid ""
 "The part %1 of the message is signed. Do you want to keep the signature when "
@@ -1716,11 +1716,12 @@ msgstr ""
 "Partea %1 a mesajului este semnată. Doriți să păstrez semnătura la salvarea "
 "mesajului?"
 
-#: utils/util.cpp:331
+#: utils/messageviewerutil.cpp:331
 msgid "Keep Signature"
 msgstr "Păstrează semnătura"
 
-#: utils/util.cpp:381 utils/util.cpp:399 utils/util.cpp:417
+#: utils/messageviewerutil.cpp:381 utils/messageviewerutil.cpp:399
+#: utils/messageviewerutil.cpp:417
 #, fuzzy, kde-format
 #| msgctxt "%2 is detailed error description"
 #| msgid ""
@@ -1732,27 +1733,28 @@ msgstr ""
 "Nu am putut scrie în fișierul %1:\n"
 "%2"
 
-#: utils/util.cpp:384 utils/util.cpp:402 utils/util.cpp:420
+#: utils/messageviewerutil.cpp:384 utils/messageviewerutil.cpp:402
+#: utils/messageviewerutil.cpp:420
 #, fuzzy
 #| msgid "has an attachment"
 msgid "Error saving attachment"
 msgstr "are un atașament"
 
-#: utils/util.cpp:437
+#: utils/messageviewerutil.cpp:437
 msgid "Found no attachments to save."
 msgstr "Nu a fost găsit niciun atașament de salvat."
 
-#: utils/util.cpp:456
+#: utils/messageviewerutil.cpp:456
 #, fuzzy
 #| msgid " messages"
 msgid "message"
 msgstr " mesaje"
 
-#: utils/util.cpp:463
+#: utils/messageviewerutil.cpp:463
 msgid "email messages (*.mbox);;all files (*)"
 msgstr ""
 
-#: utils/util.cpp:464
+#: utils/messageviewerutil.cpp:464
 #, fuzzy
 #| msgid " message"
 #| msgid_plural " messages"
@@ -1762,43 +1764,43 @@ msgstr[0] " mesaj"
 msgstr[1] " mesaj"
 msgstr[2] " mesaj"
 
-#: utils/util.cpp:491
+#: utils/messageviewerutil.cpp:491
 #, fuzzy, kde-format
 #| msgid "The message could not be decrypted."
 msgid "File %1 could not be loaded."
 msgstr "Mesajul nu a putut fi decriptat."
 
-#: utils/util.cpp:491
+#: utils/messageviewerutil.cpp:491
 #, fuzzy
 #| msgid "Error while uploading message"
 msgid "Error loading message"
 msgstr "Eroare la încărcarea mesajului"
 
-#: utils/util.cpp:493
+#: utils/messageviewerutil.cpp:493
 #, fuzzy, kde-format
 #| msgid "The message could not be decrypted."
 msgid "File %1 could not be created."
 msgstr "Mesajul nu a putut fi decriptat."
 
-#: utils/util.cpp:493 utils/util.cpp:505
+#: utils/messageviewerutil.cpp:493 utils/messageviewerutil.cpp:505
 #, fuzzy
 #| msgid "Moving messages"
 msgid "Error saving message"
 msgstr "Mutare mesaje"
 
-#: utils/util.cpp:505
+#: utils/messageviewerutil.cpp:505
 #, fuzzy
 #| msgid "End of signed message"
 msgid "We cannot save message."
 msgstr "Sfîrșitul mesajului semnat"
 
-#: utils/util.cpp:526
+#: utils/messageviewerutil.cpp:526
 #, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgid "Open &with %1"
 msgstr "&Deschide cu „%1”"
 
-#: utils/util.cpp:528
+#: utils/messageviewerutil.cpp:528
 #, fuzzy, kde-format
 #| msgid "%"
 msgctxt "@item:inmenu Open With, %1 is application name"
@@ -1839,49 +1841,45 @@ msgstr "Descriere"
 msgid "Size"
 msgstr "Dimensiune"
 
-#: viewer/objecttreeparser.cpp:600 viewer/objecttreeparser.cpp:3009
+#: viewer/objecttreeparser.cpp:600 viewer/objecttreeparser.cpp:2906
 msgid "Wrong Crypto Plug-In."
 msgstr "Modul criptografic greșit."
 
-#: viewer/objecttreeparser.cpp:753 viewer/objecttreeparser.cpp:2325
-msgid "Different results for signatures"
-msgstr "Rezultate diferite pentru semnături"
-
-#: viewer/objecttreeparser.cpp:865
+#: viewer/objecttreeparser.cpp:778
 msgid "The crypto engine returned no cleartext data."
 msgstr "Motorul de criptare nu a returnat date în text clar."
 
-#: viewer/objecttreeparser.cpp:868 viewer/objecttreeparser.cpp:2810
-#: viewer/objecttreeparser.cpp:2852
+#: viewer/objecttreeparser.cpp:781 viewer/objecttreeparser.cpp:2707
+#: viewer/objecttreeparser.cpp:2749
 msgid "Status: "
 msgstr "Stare: "
 
-#: viewer/objecttreeparser.cpp:874
+#: viewer/objecttreeparser.cpp:787
 msgctxt "Status of message unknown."
 msgid "(unknown)"
 msgstr "(necunoscută)"
 
-#: viewer/objecttreeparser.cpp:886 viewer/objecttreeparser.cpp:1166
+#: viewer/objecttreeparser.cpp:799 viewer/objecttreeparser.cpp:1080
 #, kde-format
 msgid "Crypto plug-in \"%1\" is not initialized."
 msgstr "Modulul criptografic „%1” nu este inițializat."
 
-#: viewer/objecttreeparser.cpp:890
+#: viewer/objecttreeparser.cpp:803
 #, kde-format
 msgid "Crypto plug-in \"%1\" cannot verify signatures."
 msgstr "Modulul criptografic „%1” nu poate verifica semnăturile."
 
-#: viewer/objecttreeparser.cpp:895 viewer/objecttreeparser.cpp:1174
+#: viewer/objecttreeparser.cpp:808 viewer/objecttreeparser.cpp:1088
 msgid "No appropriate crypto plug-in was found."
 msgstr "Nu a fost găsit niciun modul criptografic corespunzător."
 
-#: viewer/objecttreeparser.cpp:898
+#: viewer/objecttreeparser.cpp:811
 #, kde-format
 msgctxt "%1 is either 'OpenPGP' or 'S/MIME'"
 msgid "No %1 plug-in was found."
 msgstr "Nu a fost găsit niciun modul %1."
 
-#: viewer/objecttreeparser.cpp:902
+#: viewer/objecttreeparser.cpp:815
 #, kde-format
 msgid ""
 "The message is signed, but the validity of the signature cannot be verified."
@@ -1890,28 +1888,28 @@ msgstr ""
 "Mesajul este semnat, însă validitatea semnăturii nu poate fi verificată. "
 "<br />Motiv: %1"
 
-#: viewer/objecttreeparser.cpp:936
+#: viewer/objecttreeparser.cpp:849
 msgid "This message is encrypted."
 msgstr "Acest mesaj este criptat."
 
-#: viewer/objecttreeparser.cpp:941
+#: viewer/objecttreeparser.cpp:854
 msgid "Decrypt Message"
 msgstr "Decriptează mesajul"
 
-#: viewer/objecttreeparser.cpp:980
+#: viewer/objecttreeparser.cpp:893
 #, kde-format
 msgid "Sorry, certificate could not be imported.<br />Reason: %1"
 msgstr "Scuze, certificatul nu a putut fi importat.<br />Motiv: %1"
 
-#: viewer/objecttreeparser.cpp:990
+#: viewer/objecttreeparser.cpp:903
 msgid "Sorry, no certificates were found in this message."
 msgstr "Scuze, nu au fost găsite certificate în acest mesaj."
 
-#: viewer/objecttreeparser.cpp:993
+#: viewer/objecttreeparser.cpp:906
 msgid "Certificate import status:"
 msgstr "Stare import certificat:"
 
-#: viewer/objecttreeparser.cpp:995
+#: viewer/objecttreeparser.cpp:908
 #, kde-format
 msgid "1 new certificate was imported."
 msgid_plural "%1 new certificates were imported."
@@ -1919,7 +1917,7 @@ msgstr[0] "1 nou certificat a fost importat."
 msgstr[1] "%1 noi certificate au fost importate."
 msgstr[2] "%1 de noi certificate au fost importate."
 
-#: viewer/objecttreeparser.cpp:998
+#: viewer/objecttreeparser.cpp:911
 #, kde-format
 msgid "1 certificate was unchanged."
 msgid_plural "%1 certificates were unchanged."
@@ -1927,7 +1925,7 @@ msgstr[0] "1 certificat era neschimbat."
 msgstr[1] "%1 certificate erau neschimbate."
 msgstr[2] "%1 de certificate erau neschimbate."
 
-#: viewer/objecttreeparser.cpp:1001
+#: viewer/objecttreeparser.cpp:914
 #, kde-format
 msgid "1 new secret key was imported."
 msgid_plural "%1 new secret keys were imported."
@@ -1935,7 +1933,7 @@ msgstr[0] "1 cheie secretă nouă a fost importată."
 msgstr[1] "%1 chei secrete noi au fost importate."
 msgstr[2] "%1 de chei secrete noi au fost importate."
 
-#: viewer/objecttreeparser.cpp:1004
+#: viewer/objecttreeparser.cpp:917
 #, kde-format
 msgid "1 secret key was unchanged."
 msgid_plural "%1 secret keys were unchanged."
@@ -1943,50 +1941,50 @@ msgstr[0] "1 cheie secretă era neschimbată."
 msgstr[1] "%1 chei secrete erau neschimbate."
 msgstr[2] "%1 de chei secrete erau neschimbate."
 
-#: viewer/objecttreeparser.cpp:1014
+#: viewer/objecttreeparser.cpp:927
 msgid "Sorry, no details on certificate import available."
 msgstr ""
 
-#: viewer/objecttreeparser.cpp:1017
+#: viewer/objecttreeparser.cpp:930
 msgid "Certificate import details:"
 msgstr "Detalii import certificat:"
 
-#: viewer/objecttreeparser.cpp:1021
+#: viewer/objecttreeparser.cpp:934
 #, kde-format
 msgctxt "Certificate import failed."
 msgid "Failed: %1 (%2)"
 msgstr "Eșuat: %1 (%2)"
 
-#: viewer/objecttreeparser.cpp:1025
+#: viewer/objecttreeparser.cpp:938
 #, kde-format
 msgid "New or changed: %1 (secret key available)"
 msgstr "Nou sau modificat: %1 (cheie secretă disponibilă)"
 
-#: viewer/objecttreeparser.cpp:1027
+#: viewer/objecttreeparser.cpp:940
 #, kde-format
 msgid "New or changed: %1"
 msgstr "Nou sau modificat: %1"
 
-#: viewer/objecttreeparser.cpp:1064
+#: viewer/objecttreeparser.cpp:977
 msgid "Could not decrypt the data."
 msgstr "Datele nu au putut fi decriptate."
 
-#: viewer/objecttreeparser.cpp:1153
+#: viewer/objecttreeparser.cpp:1067
 #, kde-format
 msgid "Crypto plug-in \"%1\" could not decrypt the data."
 msgstr "Modulul criptografic „%1” nu poate decripta datele."
 
-#: viewer/objecttreeparser.cpp:1155
+#: viewer/objecttreeparser.cpp:1069
 #, kde-format
 msgid "Error: %1"
 msgstr "Eroare: %1"
 
-#: viewer/objecttreeparser.cpp:1170
+#: viewer/objecttreeparser.cpp:1084
 #, kde-format
 msgid "Crypto plug-in \"%1\" cannot decrypt messages."
 msgstr "Modulul criptografic „%1” nu poate decripta mesajele."
 
-#: viewer/objecttreeparser.cpp:1285
+#: viewer/objecttreeparser.cpp:1182
 msgid ""
 "<b>Note:</b> This HTML message may contain external references to images "
 "etc. For security/privacy reasons external references are not loaded. If you "
@@ -1999,7 +1997,7 @@ msgstr ""
 "încărca referințele externe pentru acest mesaj <a href=\"kmail:loadExternal"
 "\">apăsînd aici</a>."
 
-#: viewer/objecttreeparser.cpp:1299
+#: viewer/objecttreeparser.cpp:1196
 msgid ""
 "<b>Note:</b> This is an HTML message. For security reasons, only the raw "
 "HTML code is shown. If you trust the sender of this message then you can "
@@ -2011,264 +2009,268 @@ msgstr ""
 "atunci puteți activa afișarea HTML formatat pentru acest mesaj <a href="
 "\"kmail:showHTML\">apăsînd aici</a>."
 
-#: viewer/objecttreeparser.cpp:2251
+#: viewer/objecttreeparser.cpp:2148
 msgctxt "display name for an unnamed attachment"
 msgid "Unnamed"
 msgstr "Nedenumit"
 
-#: viewer/objecttreeparser.cpp:2307
+#: viewer/objecttreeparser.cpp:2204
 msgid "Error: Signature not verified"
 msgstr "Eroare: Semnătură neverificată"
 
-#: viewer/objecttreeparser.cpp:2310
+#: viewer/objecttreeparser.cpp:2207
 msgid "Good signature"
 msgstr "Semnătură bună"
 
-#: viewer/objecttreeparser.cpp:2313
+#: viewer/objecttreeparser.cpp:2210
 msgid "<b>Bad</b> signature"
 msgstr "Senmătură <b>rea</b>"
 
-#: viewer/objecttreeparser.cpp:2316
+#: viewer/objecttreeparser.cpp:2213
 msgid "No public key to verify the signature"
 msgstr "Nicio cheie publică pentru verificarea semnăturii"
 
-#: viewer/objecttreeparser.cpp:2319
+#: viewer/objecttreeparser.cpp:2216
 msgid "No signature found"
 msgstr "Nu am găsit semnătura"
 
-#: viewer/objecttreeparser.cpp:2322
+#: viewer/objecttreeparser.cpp:2219
 msgid "Error verifying the signature"
 msgstr "Eroare la verificarea semnăturii"
 
-#: viewer/objecttreeparser.cpp:2344
+#: viewer/objecttreeparser.cpp:2222
+msgid "Different results for signatures"
+msgstr "Rezultate diferite pentru semnături"
+
+#: viewer/objecttreeparser.cpp:2241
 msgid "No status information available."
 msgstr "Nicio informație de stare disponibilă."
 
-#: viewer/objecttreeparser.cpp:2351 viewer/objecttreeparser.cpp:2437
+#: viewer/objecttreeparser.cpp:2248 viewer/objecttreeparser.cpp:2334
 msgid "Good signature."
 msgstr "Semnătură bună."
 
-#: viewer/objecttreeparser.cpp:2372
+#: viewer/objecttreeparser.cpp:2269
 msgid "One key has expired."
 msgstr "O cheie a expirat."
 
-#: viewer/objecttreeparser.cpp:2376
+#: viewer/objecttreeparser.cpp:2273
 msgid "The signature has expired."
 msgstr "Semnătura e expirat."
 
-#: viewer/objecttreeparser.cpp:2381
+#: viewer/objecttreeparser.cpp:2278
 msgid "Unable to verify: key missing."
 msgstr "Imposibil de verificat: cheia lipsește."
 
-#: viewer/objecttreeparser.cpp:2388
+#: viewer/objecttreeparser.cpp:2285
 msgid "CRL not available."
 msgstr "LRC indisponibilă."
 
-#: viewer/objecttreeparser.cpp:2392
+#: viewer/objecttreeparser.cpp:2289
 msgid "Available CRL is too old."
 msgstr "LRC disponibilă este prea veche."
 
-#: viewer/objecttreeparser.cpp:2396
+#: viewer/objecttreeparser.cpp:2293
 msgid "A policy was not met."
 msgstr "O politică nu a fost îndeplinită."
 
-#: viewer/objecttreeparser.cpp:2400
+#: viewer/objecttreeparser.cpp:2297
 msgid "A system error occurred."
 msgstr "A intervenit o eroare de sistem."
 
-#: viewer/objecttreeparser.cpp:2411
+#: viewer/objecttreeparser.cpp:2308
 msgid "One key has been revoked."
 msgstr "O cheie a fost revocată."
 
-#: viewer/objecttreeparser.cpp:2439
+#: viewer/objecttreeparser.cpp:2336
 msgid "<b>Bad</b> signature."
 msgstr "Semnătură <b>rea</b>."
 
-#: viewer/objecttreeparser.cpp:2467
+#: viewer/objecttreeparser.cpp:2364
 msgid "Invalid signature."
 msgstr "Semnătură nevalidă."
 
-#: viewer/objecttreeparser.cpp:2470
+#: viewer/objecttreeparser.cpp:2367
 msgid "Not enough information to check signature validity."
 msgstr "Informații insuficiente pentru verificarea validității semnăturii."
 
-#: viewer/objecttreeparser.cpp:2484
+#: viewer/objecttreeparser.cpp:2381
 msgid "Signature is valid."
 msgstr "Semnătura este validă."
 
-#: viewer/objecttreeparser.cpp:2486
+#: viewer/objecttreeparser.cpp:2383
 #, kde-format
 msgid "Signed by <a href=\"mailto:%1\">%2</a>."
 msgstr "Semnat de <a href=\"mailto:%1\">%2</a>."
 
-#: viewer/objecttreeparser.cpp:2491
+#: viewer/objecttreeparser.cpp:2388
 msgid "Unknown signature state"
 msgstr "Stare semnătură necunoscută"
 
-#: viewer/objecttreeparser.cpp:2497
+#: viewer/objecttreeparser.cpp:2394
 msgid "Show Details"
 msgstr "Arată detalii"
 
-#: viewer/objecttreeparser.cpp:2520
+#: viewer/objecttreeparser.cpp:2417
 msgid "No Audit Log available"
 msgstr "Niciun jurnal Audit disponibil"
 
-#: viewer/objecttreeparser.cpp:2522
+#: viewer/objecttreeparser.cpp:2419
 #, kde-format
 msgid "Error Retrieving Audit Log: %1"
 msgstr "Eroare la obținerea jurnalului Audit: %1"
 
-#: viewer/objecttreeparser.cpp:2533
+#: viewer/objecttreeparser.cpp:2430
 msgctxt "The Audit Log is a detailed error log from the gnupg backend"
 msgid "Show Audit Log"
 msgstr "Arată jurnalul Audit"
 
-#: viewer/objecttreeparser.cpp:2544
+#: viewer/objecttreeparser.cpp:2441
 msgid "Hide Details"
 msgstr "Ascunde detalii"
 
-#: viewer/objecttreeparser.cpp:2569 viewer/objecttreeparser.cpp:2571
+#: viewer/objecttreeparser.cpp:2466 viewer/objecttreeparser.cpp:2468
 msgid "Encapsulated message"
 msgstr "Mesaj incapsulat"
 
-#: viewer/objecttreeparser.cpp:2580
+#: viewer/objecttreeparser.cpp:2477
 msgid "Please wait while the message is being decrypted..."
 msgstr "Așteptați cît mesajul este decriptat..."
 
-#: viewer/objecttreeparser.cpp:2582
+#: viewer/objecttreeparser.cpp:2479
 msgid "Encrypted message"
 msgstr "Mesaj criptat"
 
-#: viewer/objecttreeparser.cpp:2584
+#: viewer/objecttreeparser.cpp:2481
 msgid "Encrypted message (decryption not possible)"
 msgstr "Mesaj criptat (decriptare imposibilă)"
 
-#: viewer/objecttreeparser.cpp:2586
+#: viewer/objecttreeparser.cpp:2483
 #, kde-format
 msgid "Reason: %1"
 msgstr "Motiv: %1"
 
-#: viewer/objecttreeparser.cpp:2596
+#: viewer/objecttreeparser.cpp:2493
 msgid "Please wait while the signature is being verified..."
 msgstr "Așteptați cît semnătura este verificată..."
 
-#: viewer/objecttreeparser.cpp:2693 viewer/objecttreeparser.cpp:2695
+#: viewer/objecttreeparser.cpp:2590 viewer/objecttreeparser.cpp:2592
 msgid "certificate"
 msgstr "certificat"
 
-#: viewer/objecttreeparser.cpp:2702 viewer/objecttreeparser.cpp:2728
+#: viewer/objecttreeparser.cpp:2599 viewer/objecttreeparser.cpp:2625
 msgctxt "Start of warning message."
 msgid "Warning:"
 msgstr "Atenție:"
 
-#: viewer/objecttreeparser.cpp:2704
+#: viewer/objecttreeparser.cpp:2601
 #, kde-format
 msgid "Sender's mail address is not stored in the %1 used for signing."
 msgstr ""
 
-#: viewer/objecttreeparser.cpp:2707
+#: viewer/objecttreeparser.cpp:2604
 msgid "sender: "
 msgstr "expeditor:"
 
-#: viewer/objecttreeparser.cpp:2710
+#: viewer/objecttreeparser.cpp:2607
 msgid "stored: "
 msgstr "stocat: "
 
-#: viewer/objecttreeparser.cpp:2730
+#: viewer/objecttreeparser.cpp:2627
 #, kde-format
 msgid ""
 "No mail address is stored in the %1 used for signing, so we cannot compare "
 "it to the sender's address %2."
 msgstr ""
 
-#: viewer/objecttreeparser.cpp:2754
+#: viewer/objecttreeparser.cpp:2651
 #, kde-format
 msgid "Not enough information to check signature. %1"
 msgstr "Informații insuficiente pentru verificarea semnăturii. %1"
 
-#: viewer/objecttreeparser.cpp:2771 viewer/objecttreeparser.cpp:2845
+#: viewer/objecttreeparser.cpp:2668 viewer/objecttreeparser.cpp:2742
 msgid "Message was signed with unknown key."
 msgstr "Mesajul a fost semnat cu o cheie necunoscută."
 
-#: viewer/objecttreeparser.cpp:2773 viewer/objecttreeparser.cpp:2883
-#: viewer/objecttreeparser.cpp:2925
+#: viewer/objecttreeparser.cpp:2670 viewer/objecttreeparser.cpp:2780
+#: viewer/objecttreeparser.cpp:2822
 #, kde-format
 msgid "Message was signed by %1."
 msgstr "Mesajul a fost semnat de %1."
 
-#: viewer/objecttreeparser.cpp:2780 viewer/objecttreeparser.cpp:2788
-#: viewer/objecttreeparser.cpp:2798
+#: viewer/objecttreeparser.cpp:2677 viewer/objecttreeparser.cpp:2685
+#: viewer/objecttreeparser.cpp:2695
 #, kde-format
 msgid "Message was signed with key %1."
 msgstr "Mesajul a fost semnat cu cheia %1."
 
-#: viewer/objecttreeparser.cpp:2783
+#: viewer/objecttreeparser.cpp:2680
 #, kde-format
 msgid "Message was signed on %1 with key %2."
 msgstr "Mesajul a fost semnat pe %1 cu cheia %2."
 
-#: viewer/objecttreeparser.cpp:2791
+#: viewer/objecttreeparser.cpp:2688
 #, kde-format
 msgid "Message was signed by %3 on %1 with key %2"
 msgstr "Mesajul a fost semnat de %1 pe %2 cu cheia %3"
 
-#: viewer/objecttreeparser.cpp:2801
+#: viewer/objecttreeparser.cpp:2698
 #, kde-format
 msgid "Message was signed by %2 with key %1."
 msgstr "Mesajul a fost semnat de %2 cu cheia %1."
 
-#: viewer/objecttreeparser.cpp:2838
+#: viewer/objecttreeparser.cpp:2735
 #, kde-format
 msgid "Message was signed on %1 with unknown key %2."
 msgstr "Mesajul a fost semnat pe %1 cu cheia necunoscută %2."
 
-#: viewer/objecttreeparser.cpp:2842
+#: viewer/objecttreeparser.cpp:2739
 #, kde-format
 msgid "Message was signed with unknown key %1."
 msgstr "Mesajul a fost semnat cu cheia necunoscută %1."
 
-#: viewer/objecttreeparser.cpp:2848
+#: viewer/objecttreeparser.cpp:2745
 msgid "The validity of the signature cannot be verified."
 msgstr "Validitatea semnăturii nu poate fi verificată."
 
-#: viewer/objecttreeparser.cpp:2879 viewer/objecttreeparser.cpp:2921
+#: viewer/objecttreeparser.cpp:2776 viewer/objecttreeparser.cpp:2818
 #, kde-format
 msgid "Message was signed by %2 (Key ID: %1)."
 msgstr "Mesajul a fost semnat %2 (Id. cheie: %1)."
 
-#: viewer/objecttreeparser.cpp:2889
+#: viewer/objecttreeparser.cpp:2786
 msgid "The signature is valid, but the key's validity is unknown."
 msgstr "Semnătura este corectă, dar validitatea cheii este necunoscută."
 
-#: viewer/objecttreeparser.cpp:2893
+#: viewer/objecttreeparser.cpp:2790
 msgid "The signature is valid and the key is marginally trusted."
 msgstr "Semnătura este corectă și cheia este numai marginal de încredere."
 
-#: viewer/objecttreeparser.cpp:2897
+#: viewer/objecttreeparser.cpp:2794
 msgid "The signature is valid and the key is fully trusted."
 msgstr "Semnătura este corectă și cheia este de încredere."
 
-#: viewer/objecttreeparser.cpp:2901
+#: viewer/objecttreeparser.cpp:2798
 msgid "The signature is valid and the key is ultimately trusted."
 msgstr "Semnătura este corectă și cheia este de absolută încredere."
 
-#: viewer/objecttreeparser.cpp:2905
+#: viewer/objecttreeparser.cpp:2802
 msgid "The signature is valid, but the key is untrusted."
 msgstr "Semnătura este corectă, dar cheia nu este de încredere."
 
-#: viewer/objecttreeparser.cpp:2928
+#: viewer/objecttreeparser.cpp:2825
 msgid "Warning: The signature is bad."
 msgstr "Atenție: Semnătura este rea."
 
-#: viewer/objecttreeparser.cpp:2953
+#: viewer/objecttreeparser.cpp:2850
 msgid "End of signed message"
 msgstr "Sfîrșitul mesajului semnat"
 
-#: viewer/objecttreeparser.cpp:2959
+#: viewer/objecttreeparser.cpp:2856
 msgid "End of encrypted message"
 msgstr "Sfîrșitul mesajului criptat"
 
-#: viewer/objecttreeparser.cpp:2965
+#: viewer/objecttreeparser.cpp:2862
 msgid "End of encapsulated message"
 msgstr "Sfîrșitul mesajului incapsulat"
 
@@ -2288,7 +2290,7 @@ msgstr "Niciun jurnal Audit disponibil"
 msgid "Turn on HTML rendering for this message."
 msgstr "Activează randarea HTML pentru acest mesaj."
 
-#: viewer/urlhandlermanager.cpp:570 viewer/viewer_p.cpp:1821
+#: viewer/urlhandlermanager.cpp:570 viewer/viewer_p.cpp:1789
 msgid "Load external references from the Internet for this message."
 msgstr "Încarcă referințele externe din Internet pentru acest mesaj."
 
@@ -2381,7 +2383,7 @@ msgstr "Deschide în cartea de adrese"
 msgid "&Copy Email Address"
 msgstr "Adresă de e-mail"
 
-#: viewer/urlhandlermanager.cpp:792 viewer/viewer_p.cpp:2857
+#: viewer/urlhandlermanager.cpp:792 viewer/viewer_p.cpp:2826
 msgid "Address copied to clipboard."
 msgstr "Am copiat adresa în clipboard."
 
@@ -2438,18 +2440,18 @@ msgstr "Execută"
 msgid "Loading message..."
 msgstr "Mutare mesaje..."
 
-#: viewer/viewer_p.cpp:424
+#: viewer/viewer_p.cpp:394
 msgid ""
 "Deleting an attachment from an encrypted or old-style mailman message is not "
 "supported."
 msgstr ""
 
-#: viewer/viewer_p.cpp:425 viewer/viewer_p.cpp:431 viewer/viewer_p.cpp:662
-#: viewer/viewer_p.cpp:1942
+#: viewer/viewer_p.cpp:395 viewer/viewer_p.cpp:401 viewer/viewer_p.cpp:632
+#: viewer/viewer_p.cpp:1910
 msgid "Delete Attachment"
 msgstr "Șterge atașamentul"
 
-#: viewer/viewer_p.cpp:430
+#: viewer/viewer_p.cpp:400
 msgid ""
 "Deleting an attachment might invalidate any digital signature on this "
 "message."
@@ -2457,366 +2459,366 @@ msgstr ""
 "Ștergerea unui atașament ar putea invalida orice semnătură digitală de pe "
 "mesaj."
 
-#: viewer/viewer_p.cpp:515
+#: viewer/viewer_p.cpp:485
 #, fuzzy
 #| msgid "&Open With..."
 msgctxt "@title:menu"
 msgid "&Open With"
 msgstr "&Deschidere cu..."
 
-#: viewer/viewer_p.cpp:533
+#: viewer/viewer_p.cpp:503
 #, fuzzy
 #| msgid "Other Actio&ns..."
 msgctxt "@action:inmenu Open With"
 msgid "&Other..."
 msgstr "Alte acțiu&ni..."
 
-#: viewer/viewer_p.cpp:535 viewer/viewer_p.cpp:548
+#: viewer/viewer_p.cpp:505 viewer/viewer_p.cpp:518
 #, fuzzy
 #| msgid "&Open With..."
 msgctxt "@title:menu"
 msgid "&Open With..."
 msgstr "&Deschidere cu..."
 
-#: viewer/viewer_p.cpp:607 viewer/viewer_p.cpp:1919
+#: viewer/viewer_p.cpp:577 viewer/viewer_p.cpp:1887
 msgctxt "to open"
 msgid "Open"
 msgstr "Deschide"
 
-#: viewer/viewer_p.cpp:626 viewer/viewer_p.cpp:1927
+#: viewer/viewer_p.cpp:596 viewer/viewer_p.cpp:1895
 msgctxt "to view something"
 msgid "View"
 msgstr "Vizualizează"
 
-#: viewer/viewer_p.cpp:636
+#: viewer/viewer_p.cpp:606
 msgid "Scroll To"
 msgstr ""
 
-#: viewer/viewer_p.cpp:641
+#: viewer/viewer_p.cpp:611
 msgid "Save As..."
 msgstr "Salvare ca..."
 
-#: viewer/viewer_p.cpp:646 viewer/viewer_p.cpp:1939
+#: viewer/viewer_p.cpp:616 viewer/viewer_p.cpp:1907
 msgid "Copy"
 msgstr "Copiază"
 
-#: viewer/viewer_p.cpp:668
+#: viewer/viewer_p.cpp:638
 msgid "Decrypt With Chiasmus..."
 msgstr "Decriptare cu Chiasmus..."
 
-#: viewer/viewer_p.cpp:672 viewer/viewer_p.cpp:1951
+#: viewer/viewer_p.cpp:642 viewer/viewer_p.cpp:1919
 msgid "Properties"
 msgstr "Proprietăți"
 
-#: viewer/viewer_p.cpp:813
+#: viewer/viewer_p.cpp:781
 #, fuzzy
 #| msgid "KDE Email Client"
 msgid "The KDE email client."
 msgstr "Client de poștă KDE"
 
-#: viewer/viewer_p.cpp:1346
+#: viewer/viewer_p.cpp:1314
 #, fuzzy
 #| msgid "Edit with:"
 msgctxt "edit a note on this message"
 msgid "Edit Note"
 msgstr "Editează cu:"
 
-#: viewer/viewer_p.cpp:1348 viewer/viewer_p.cpp:1877 viewer/viewer_p.cpp:1878
+#: viewer/viewer_p.cpp:1316 viewer/viewer_p.cpp:1845 viewer/viewer_p.cpp:1846
 #, fuzzy
 #| msgid "Create To-do"
 msgctxt "create a new note out of this message"
 msgid "Create Note"
 msgstr "Creează sarcină"
 
-#: viewer/viewer_p.cpp:1420
+#: viewer/viewer_p.cpp:1388
 #, kde-format
 msgid "View Attachment: %1"
 msgstr "Vizualizare atașament: %1"
 
-#: viewer/viewer_p.cpp:1645
+#: viewer/viewer_p.cpp:1613
 msgctxt "View->"
 msgid "&Attachments"
 msgstr "&Atașamente"
 
-#: viewer/viewer_p.cpp:1647
+#: viewer/viewer_p.cpp:1615
 msgid "Choose display style of attachments"
 msgstr "Alege stilul de afișare a atașamentelor"
 
-#: viewer/viewer_p.cpp:1650
+#: viewer/viewer_p.cpp:1618
 msgctxt "View->attachments->"
 msgid "&As Icons"
 msgstr "Ca &pictograme"
 
-#: viewer/viewer_p.cpp:1653
+#: viewer/viewer_p.cpp:1621
 msgid "Show all attachments as icons. Click to see them."
 msgstr "Arată toate atașamentele ca pictograme. Apăsați pentru a le vedea."
 
-#: viewer/viewer_p.cpp:1657
+#: viewer/viewer_p.cpp:1625
 msgctxt "View->attachments->"
 msgid "&Smart"
 msgstr "&Inteligent"
 
-#: viewer/viewer_p.cpp:1660
+#: viewer/viewer_p.cpp:1628
 msgid "Show attachments as suggested by sender."
 msgstr "Arată atașamentele așa cum este sugerat de către expeditor."
 
-#: viewer/viewer_p.cpp:1664
+#: viewer/viewer_p.cpp:1632
 msgctxt "View->attachments->"
 msgid "&Inline"
 msgstr "În &linie"
 
-#: viewer/viewer_p.cpp:1667
+#: viewer/viewer_p.cpp:1635
 msgid "Show all attachments inline (if possible)"
 msgstr "Arată toate atașamentele în linie (dacă este posibil)"
 
-#: viewer/viewer_p.cpp:1671
+#: viewer/viewer_p.cpp:1639
 msgctxt "View->attachments->"
 msgid "&Hide"
 msgstr "&Ascunde"
 
-#: viewer/viewer_p.cpp:1674
+#: viewer/viewer_p.cpp:1642
 msgid "Do not show attachments in the message viewer"
 msgstr "Nu arăta atașamentele în vizualizarea mesajului"
 
-#: viewer/viewer_p.cpp:1678
+#: viewer/viewer_p.cpp:1646
 msgctxt "View->attachments->"
 msgid "In Header Only"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1682
+#: viewer/viewer_p.cpp:1650
 #, fuzzy
 #| msgid "Show all attachments as icons. Click to see them."
 msgid "Show Attachments only in the header of the mail"
 msgstr "Arată toate atașamentele ca pictograme. Apăsați pentru a le vedea."
 
-#: viewer/viewer_p.cpp:1687
+#: viewer/viewer_p.cpp:1655
 msgid "&Set Encoding"
 msgstr "&Stabilește codarea"
 
-#: viewer/viewer_p.cpp:1693 widgets/configurewidget.cpp:62
+#: viewer/viewer_p.cpp:1661 widgets/configurewidget.cpp:62
 #: widgets/configurewidget.cpp:108
 msgid "Auto"
 msgstr "Automat"
 
-#: viewer/viewer_p.cpp:1710
+#: viewer/viewer_p.cpp:1678
 msgid "Select All Text"
 msgstr "Selectează tot textul"
 
-#: viewer/viewer_p.cpp:1717 viewer/viewer_p.cpp:2228
+#: viewer/viewer_p.cpp:1685 viewer/viewer_p.cpp:2200
 msgid "Copy Link Address"
 msgstr "Copiază adresa legăturii"
 
-#: viewer/viewer_p.cpp:1722
+#: viewer/viewer_p.cpp:1690
 msgid "Open URL"
 msgstr "Deschide URL-ul"
 
-#: viewer/viewer_p.cpp:1733
+#: viewer/viewer_p.cpp:1701
 msgid "Zoom Text Only"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1736
+#: viewer/viewer_p.cpp:1704
 msgid "&Zoom In"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1741
+#: viewer/viewer_p.cpp:1709
 msgid "Zoom &Out"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1746
+#: viewer/viewer_p.cpp:1714
 #, fuzzy
 #| msgid "Reset Font"
 msgid "Reset"
 msgstr "Reinițializează fontul"
 
-#: viewer/viewer_p.cpp:1752
+#: viewer/viewer_p.cpp:1720
 #, fuzzy
 #| msgid "Message Structure Viewer"
 msgid "Show Message Structure"
 msgstr "Vizualizor structură mesaj"
 
-#: viewer/viewer_p.cpp:1757
+#: viewer/viewer_p.cpp:1725
 msgid "&View Source"
 msgstr "Afișează &sursa"
 
-#: viewer/viewer_p.cpp:1762
+#: viewer/viewer_p.cpp:1730
 #, fuzzy
 #| msgid " message"
 #| msgid_plural " messages"
 msgid "&Save message..."
 msgstr " mesaj"
 
-#: viewer/viewer_p.cpp:1768
+#: viewer/viewer_p.cpp:1736
 #, fuzzy
 #| msgid "&Save as Draft"
 msgid "&Save Display Format"
 msgstr "&Salvează ca ciornă"
 
-#: viewer/viewer_p.cpp:1772
+#: viewer/viewer_p.cpp:1740
 msgid "&Reset Display Format"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1779
+#: viewer/viewer_p.cpp:1747
 msgid "Scroll Message Up"
 msgstr "Derulează mesajul în sus"
 
-#: viewer/viewer_p.cpp:1785
+#: viewer/viewer_p.cpp:1753
 msgid "Scroll Message Down"
 msgstr "Derulează mesajul în jos"
 
-#: viewer/viewer_p.cpp:1791
+#: viewer/viewer_p.cpp:1759
 msgid "Scroll Message Up (More)"
 msgstr "Derulează mesajul în sus (mai mult)"
 
-#: viewer/viewer_p.cpp:1797
+#: viewer/viewer_p.cpp:1765
 msgid "Scroll Message Down (More)"
 msgstr "Derulează mesajul în jos (mai mult)"
 
-#: viewer/viewer_p.cpp:1808
+#: viewer/viewer_p.cpp:1776
 msgid "Toggle HTML Display Mode"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1813
+#: viewer/viewer_p.cpp:1781
 msgid "Toggle display mode between HTML and plain text"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1816
+#: viewer/viewer_p.cpp:1784
 #, fuzzy
 #| msgid "Load External References"
 msgid "Load external references"
 msgstr "Încarcă referințele externe"
 
-#: viewer/viewer_p.cpp:1823 widgets/mailsourceviewtextbrowserwidget.cpp:143
+#: viewer/viewer_p.cpp:1791 widgets/mailsourceviewtextbrowserwidget.cpp:143
 msgid "Speak Text"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1829
+#: viewer/viewer_p.cpp:1797
 #, fuzzy
 #| msgid "Choose Location"
 msgid "Copy Image Location"
 msgstr "Alegere locație"
 
-#: viewer/viewer_p.cpp:1836
+#: viewer/viewer_p.cpp:1804
 msgid "Translate..."
 msgstr ""
 
-#: viewer/viewer_p.cpp:1843
+#: viewer/viewer_p.cpp:1811
 msgid "&Find in Message..."
 msgstr "&Caută în mesaj..."
 
-#: viewer/viewer_p.cpp:1849
+#: viewer/viewer_p.cpp:1817
 msgid "Toggle Caret Browsing"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1855
+#: viewer/viewer_p.cpp:1823
 msgid "Block image"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1860
+#: viewer/viewer_p.cpp:1828
 msgid "Open Blockable Items..."
 msgstr ""
 
-#: viewer/viewer_p.cpp:1864
+#: viewer/viewer_p.cpp:1832
 #, fuzzy
 #| msgid "Export Filters"
 msgid "Expand Short URL"
 msgstr "Exportă filtre"
 
-#: viewer/viewer_p.cpp:1869
+#: viewer/viewer_p.cpp:1837
 #, fuzzy
 #| msgid "Create To-do"
 msgid "Create Todo"
 msgstr "Creează sarcină"
 
-#: viewer/viewer_p.cpp:1870
+#: viewer/viewer_p.cpp:1838
 #, fuzzy
 #| msgid "Create To-do"
 msgid "Create To-do"
 msgstr "Creează sarcină"
 
-#: viewer/viewer_p.cpp:1871
+#: viewer/viewer_p.cpp:1839
 msgid "Allows you to create a calendar to-do or reminder from this message"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1872
+#: viewer/viewer_p.cpp:1840
 msgid ""
 "This option starts the KOrganizer to-do editor with initial values taken "
 "from the currently selected message. Then you can edit the to-do to your "
 "liking before saving it to your calendar."
 msgstr ""
 
-#: viewer/viewer_p.cpp:1879
+#: viewer/viewer_p.cpp:1847
 msgid "Allows you to create a note from this message"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1880
+#: viewer/viewer_p.cpp:1848
 msgid ""
 "This option starts an editor to create a note. Then you can edit the note to "
 "your liking before saving it."
 msgstr ""
 
-#: viewer/viewer_p.cpp:1884
+#: viewer/viewer_p.cpp:1852
 #, fuzzy
 #| msgid "&Create Filter"
 msgid "Create Event..."
 msgstr "&Creează filtru"
 
-#: viewer/viewer_p.cpp:1885
+#: viewer/viewer_p.cpp:1853
 #, fuzzy
 #| msgid "&Create Filter"
 msgid "Create Event"
 msgstr "&Creează filtru"
 
-#: viewer/viewer_p.cpp:1886
+#: viewer/viewer_p.cpp:1854
 msgid "Allows you to create a calendar Event"
 msgstr ""
 
-#: viewer/viewer_p.cpp:1915
+#: viewer/viewer_p.cpp:1883
 msgid "Save &As..."
 msgstr "Salv&are ca..."
 
-#: viewer/viewer_p.cpp:1925
+#: viewer/viewer_p.cpp:1893
 msgid "Open With..."
 msgstr "Deschide cu..."
 
-#: viewer/viewer_p.cpp:1932
+#: viewer/viewer_p.cpp:1900
 msgid "Save All Attachments..."
 msgstr "Salvează toate atașamentele..."
 
-#: viewer/viewer_p.cpp:2226
+#: viewer/viewer_p.cpp:2198
 #, fuzzy
 #| msgid "Email Address"
 msgid "Copy Email Address"
 msgstr "Adresă de e-mail"
 
-#: viewer/viewer_p.cpp:2300
+#: viewer/viewer_p.cpp:2272
 msgid "Message as Plain Text"
 msgstr "Mesaj ca text simplu"
 
-#: viewer/viewer_p.cpp:2564
+#: viewer/viewer_p.cpp:2533
 msgid "Attachments:"
 msgstr "Atașamente:"
 
-#: viewer/viewer_p.cpp:2862
+#: viewer/viewer_p.cpp:2831
 msgid "URL copied to clipboard."
 msgstr "Am copiat URL-ul în clipboard."
 
-#: viewer/viewer_p.cpp:3030
+#: viewer/viewer_p.cpp:2999
 msgid "Hide full address list"
 msgstr ""
 
-#: viewer/viewer_p.cpp:3034
+#: viewer/viewer_p.cpp:3003
 #, fuzzy
 #| msgid "Show Default Columns"
 msgid "Show full address list"
 msgstr "Afișează coloane implicite"
 
-#: viewer/viewer_p.cpp:3056
+#: viewer/viewer_p.cpp:3025
 #, fuzzy, kde-format
 #| msgid "Message was signed by %1."
 msgid "Message loading failed: %1."
 msgstr "Mesajul a fost semnat de %1."
 
-#: viewer/viewer_p.cpp:3061
+#: viewer/viewer_p.cpp:3030
 #, fuzzy
 #| msgctxt ""
 #| "@info:tooltip Formats to something like 'Messages sent on 2008-12-21'"
@@ -2824,11 +2826,11 @@ msgstr "Mesajul a fost semnat de %1."
 msgid "Message not found."
 msgstr "Mesaje expediate la %1"
 
-#: viewer/viewer_p.cpp:3190
+#: viewer/viewer_p.cpp:3159
 msgid "Caret Browsing will be activated. Switch off with F7 shortcut."
 msgstr ""
 
-#: viewer/viewer_p.cpp:3191
+#: viewer/viewer_p.cpp:3160
 msgid "Activate Caret Browsing"
 msgstr ""
 
@@ -3059,23 +3061,23 @@ msgctxt ""
 msgid "New todo '%1' was added to task list '%2'"
 msgstr ""
 
-#: widgets/vcardviewer.cpp:47
+#: widgets/vcardviewer.cpp:43
 #, fuzzy
 #| msgid "VCard Viewer"
 msgid "vCard Viewer"
 msgstr "Vizualizor vCard"
 
-#: widgets/vcardviewer.cpp:61
+#: widgets/vcardviewer.cpp:57
 msgid "&Import"
 msgstr "&Importă"
 
-#: widgets/vcardviewer.cpp:62
+#: widgets/vcardviewer.cpp:58
 #, fuzzy
 #| msgid "&Next Card"
 msgid "&Next Card"
 msgstr "Cardul &următor"
 
-#: widgets/vcardviewer.cpp:63
+#: widgets/vcardviewer.cpp:59
 #, fuzzy
 #| msgid "&Previous Card"
 msgid "&Previous Card"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-11 09:19+0000\n"
+"POT-Creation-Date: 2015-09-11 07:49+0000\n"
 "PO-Revision-Date: 2013-10-24 14:20+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -18,16 +18,16 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: kdeconnectd.cpp:80
+#: kdeconnectd.cpp:96
 #, kde-format
 msgid "Pairing request from %1"
 msgstr ""
 
-#: kdeconnectd.cpp:81
+#: kdeconnectd.cpp:97
 msgid "Accept"
 msgstr "Acceptă"
 
-#: kdeconnectd.cpp:81
+#: kdeconnectd.cpp:97
 msgid "Reject"
 msgstr "Refuză"
 

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-09 05:22+0000\n"
+"POT-Creation-Date: 2015-09-20 05:54+0000\n"
 "PO-Revision-Date: 2012-12-22 11:54+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -3031,7 +3031,7 @@ msgstr "Selecția"
 #: plugins/paintops/experiment/kis_experimentop_option.cpp:36
 #: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:105
 #: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:128
-#: plugins/tools/defaulttools/kis_tool_brush.cc:365
+#: plugins/tools/defaulttools/kis_tool_brush.cc:353
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:57
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:83
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:161
@@ -4209,8 +4209,8 @@ msgstr "Imagine nouă"
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbDecor)
 #: plugins/extensions/gmic/kis_gmic_input_output_widget.cpp:68
 #: plugins/extensions/metadataeditor/editors/exif.ui:666
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:66
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:138
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:57
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:129
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:268
 msgid "None"
 msgstr "Nimic"
@@ -7605,7 +7605,7 @@ msgstr "Selecția"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, flatten)
 #: plugins/formats/exr/exr_export_widget.ui:23
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:181
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:172
 msgid ""
 "This option will merge all layers. It is advisable to check this option, "
 "otherwise other applications might not be able to read your file correctly."
@@ -7613,7 +7613,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, flatten)
 #: plugins/formats/exr/exr_export_widget.ui:26
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:184
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:175
 #, fuzzy
 msgid "Flatten the &image"
 msgstr "Șterge imaginea"
@@ -7816,84 +7816,91 @@ msgid ""
 "p></body></html>"
 msgstr ""
 
+#. i18n: ectx: property (text), widget (QCheckBox, chkSaveProfile)
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:128
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:185
+#, fuzzy
+msgid "Save ICC Profile"
+msgstr "Proprietăți plan..."
+
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:129
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:139
 msgid "Advanced quality"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:162
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:172
 #, fuzzy
 msgctxt "the result will be artificially smoothed to hide jpeg artefacts"
 msgid "Smooth:"
 msgstr "Grosime linie"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:178
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:188
 #, fuzzy
 msgid "Subsampling:"
 msgstr "Valoare"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, subsampling)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:189
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:199
 msgid "2x2, 1x1, 1x1 (smallest file)"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, subsampling)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:194
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:204
 msgid "2x1, 1x1, 1x1"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, subsampling)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:199
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:209
 msgid "1x2, 1x1, 1x1"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, subsampling)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:204
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:214
 msgid "1x1, 1x1, 1x1 (best quality)"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, baseLineJPEG)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:214
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:224
 msgid "Force baseline JPEG"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, optimize)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:224
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:234
 msgid "Optimize"
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_3)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:248
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:258
 msgid "Metadata"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:254
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:264
 #, fuzzy
 msgid "Formats:"
 msgstr "&Alb"
 
 #. i18n: ectx: property (text), widget (QCheckBox, exif)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:260
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:270
 #: ui/kisexiv2/kis_exif_io.h:35
 msgid "Exif"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, iptc)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:270
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:280
 msgid "IPTC"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, xmp)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:280
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:290
 #: ui/kisexiv2/kis_xmp_io.h:35
 msgid "XMP"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:306
+#: plugins/formats/jpeg/kis_wdg_options_jpeg.ui:316
 msgid "Filters:"
 msgstr "Filtre:"
 
@@ -8036,10 +8043,10 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QLabel, textLabel1)
 #: plugins/formats/png/kis_wdg_options_png.ui:57
 #: plugins/formats/png/kis_wdg_options_png.ui:68
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:369
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:391
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:554
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:576
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:343
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:365
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:510
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:532
 msgid "Note: the compression level does not change the quality of the result"
 msgstr ""
 
@@ -8058,14 +8065,14 @@ msgstr ""
 #: plugins/formats/png/kis_wdg_options_png.ui:72
 #: plugins/formats/png/kis_wdg_options_png.ui:86
 #: plugins/formats/png/kis_wdg_options_png.ui:100
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:373
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:395
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:423
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:437
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:558
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:580
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:608
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:622
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:347
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:369
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:397
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:411
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:514
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:536
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:564
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:578
 msgid ""
 "<p>Adjust the compression time. Better compression takes longer.\n"
 "<br>Note: the compression level does not change the quality of the result.</"
@@ -8096,13 +8103,13 @@ msgstr "Șterge imaginea"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, alpha)
 #: plugins/formats/png/kis_wdg_options_png.ui:110
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:158
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:149
 msgid "Disable to get smaller files if your image has no transparency"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, alpha)
 #: plugins/formats/png/kis_wdg_options_png.ui:114
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:162
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:153
 msgid ""
 "<p>The Portable Network Graphics (PNG) file format allows transparency in "
 "your image to be stored by saving an alpha channel.\n"
@@ -8237,191 +8244,191 @@ msgstr ""
 #. i18n: ectx: property (windowTitle), widget (QWidget, KisWdgOptionsTIFF)
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
 #: plugins/formats/tiff/kis_wdg_options_tiff.ui:20
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:44
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:35
 #, fuzzy
 msgid "TIFF Options"
 msgstr "Alfa"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:52
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:43
 #, fuzzy
 #| msgid "Properties:"
 msgid "Compression type:"
 msgstr "Proprietăți:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxCompressionType)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:71
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:62
 #, fuzzy
 msgid "JPEG DCT Compression"
 msgstr "Opțiuni gradient"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxCompressionType)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:76
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:67
 msgid "Deflate (ZIP)"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxCompressionType)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:81
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:72
 msgid "Lempel-Ziv & Welch (LZW)"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxCompressionType)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:86
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:77
 msgid "Leadtools JPEG2000"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxCompressionType)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:91
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:82
 msgid "CCITT Modified Huffman RLE"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxCompressionType)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:96
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:87
 msgid "CCITT Group 3 Fax Encoding"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxCompressionType)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:101
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:92
 msgid "CCITT Group 4 Fax Encoding"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxCompressionType)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:106
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:97
 msgid "Pixar Log"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:118
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:109
 #, fuzzy
 msgid "Predictor:"
 msgstr "Proprietăți plan..."
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, kComboBoxPredictor)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:131
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:122
 msgid ""
 "Using a predictor can improve the compression (mostly for LZW and deflate.)"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxPredictor)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:143
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:134
 #, fuzzy
 msgid "Horizontal Differencing"
 msgstr "Formă triunghiulară"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxPredictor)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:148
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:139
 #, fuzzy
 msgid "Floating Point Horizontal Differencing"
 msgstr "Formă triunghiulară"
 
 #. i18n: ectx: property (text), widget (QCheckBox, alpha)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:165
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:156
 msgid "Store alpha &channel (transparency)"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBoxJPEG)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:254
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:237
 #, fuzzy
 msgid "JPEG Compression Options"
 msgstr "Opțiuni gradient"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:260
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:243
 #, fuzzy
 #| msgid "Opacity:"
 msgid "Quality:"
 msgstr "Opacitate:"
 
 #. i18n: ectx: property (toolTip), widget (QSlider, qualityLevel)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:275
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:258
 msgid ""
 "These settings determine how much information is lost during compression"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:308
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:291
 #, fuzzy
 msgid "Smallest"
 msgstr "Valoare"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel4)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:318
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:301
 #, fuzzy
 msgid "Best"
 msgstr "Albastru"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBoxDeflate)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:363
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:337
 #, fuzzy
 msgid "Deflate Compression Options"
 msgstr "Opțiuni gradient"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_4)
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_4_2)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:376
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:561
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:350
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:517
 #, fuzzy
 #| msgid "Properties:"
 msgid "Compress:"
 msgstr "Proprietăți:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:426
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:400
 #, fuzzy
 msgctxt "save the file quickly, but do not compress very well"
 msgid "Fast"
 msgstr "&Alb"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:440
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:414
 #, fuzzy
 msgctxt "make the file small, at the price of a longer saving time"
 msgid "Small"
 msgstr "Unealtă &peniță"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBoxCCITGroupCCITG3)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:485
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:450
 msgid "CCITT Group 3 fax encoding Options"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:491
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:456
 #, fuzzy
 #| msgid "Exposure mode:"
 msgid "Fax mode:"
 msgstr "Regim de expunere:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxFaxMode)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:502
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:467
 #, fuzzy
 msgid "Classic"
 msgstr "Negru"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxFaxMode)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:507
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:472
 msgid "No RTC"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kComboBoxFaxMode)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:512
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:477
 msgid "No EOL"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBoxPixarLog)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:548
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:504
 #, fuzzy
 msgid "Pixar Log Compression Options"
 msgstr "Opțiuni gradient"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:611
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:567
 #, fuzzy
 msgctxt "save quickly, but do not compress a lot"
 msgid "Fast"
 msgstr "&Alb"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel4_2_2)
-#: plugins/formats/tiff/kis_wdg_options_tiff.ui:625
+#: plugins/formats/tiff/kis_wdg_options_tiff.ui:581
 #, fuzzy
 msgctxt "make a very small file, but take a long time saving"
 msgid "Small"
@@ -10856,106 +10863,106 @@ msgctxt "@action"
 msgid "Brush Smoothing: Stabilizer"
 msgstr "Albastru"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:328
+#: plugins/tools/defaulttools/kis_tool_brush.cc:316
 #, fuzzy
 msgid "No Smoothing"
 msgstr "Grosime linie"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:329
+#: plugins/tools/defaulttools/kis_tool_brush.cc:317
 #, fuzzy
 msgid "Basic Smoothing"
 msgstr "Grosime linie"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:330
+#: plugins/tools/defaulttools/kis_tool_brush.cc:318
 #, fuzzy
 msgid "Weighted Smoothing"
 msgstr "Grosime linie"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:331
+#: plugins/tools/defaulttools/kis_tool_brush.cc:319
 #, fuzzy
 #| msgid "&Scale"
 msgid "Stabilizer"
 msgstr "&Scalează"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:340
+#: plugins/tools/defaulttools/kis_tool_brush.cc:328
 #, fuzzy
 msgid "Distance:"
 msgstr "Dizolvă"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:354
+#: plugins/tools/defaulttools/kis_tool_brush.cc:342
 msgid "Delay:"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:359
+#: plugins/tools/defaulttools/kis_tool_brush.cc:347
 msgid "Delay the brush stroke to make the line smoother"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:363
+#: plugins/tools/defaulttools/kis_tool_brush.cc:351
 msgid "Radius where the brush is blocked"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:369
+#: plugins/tools/defaulttools/kis_tool_brush.cc:357
 #, fuzzy
 msgid "Finish line:"
 msgstr "Unealtă &linie"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:382
+#: plugins/tools/defaulttools/kis_tool_brush.cc:370
 #, fuzzy
 #| msgid "&Scale"
 msgid "Stabilize Sensors:"
 msgstr "&Scalează"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:390
+#: plugins/tools/defaulttools/kis_tool_brush.cc:378
 #, fuzzy
 #| msgid "Saturation"
 msgid "Stroke Ending:"
 msgstr "Saturație"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:397
+#: plugins/tools/defaulttools/kis_tool_brush.cc:385
 #, fuzzy
 #| msgid "Pressure"
 msgid "Smooth Pressure"
 msgstr "Presiune"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:404
+#: plugins/tools/defaulttools/kis_tool_brush.cc:392
 msgctxt "@info:tooltip"
 msgid ""
 "Scalable distance takes zoom level into account and makes the distance be "
 "visually constant whatever zoom level is chosen"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:409
+#: plugins/tools/defaulttools/kis_tool_brush.cc:397
 #, fuzzy
 msgid "Scalable Distance"
 msgstr "Dizolvă"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:416
+#: plugins/tools/defaulttools/kis_tool_brush.cc:404
 #, fuzzy
 msgid "Assistant:"
 msgstr "Dizolvă"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:421
+#: plugins/tools/defaulttools/kis_tool_brush.cc:409
 msgid "You need to add Ruler Assistants before this tool will work."
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:426
+#: plugins/tools/defaulttools/kis_tool_brush.cc:414
 #, fuzzy
 msgid "Assistant Magnetism"
 msgstr "Violet"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:433
+#: plugins/tools/defaulttools/kis_tool_brush.cc:421
 #, fuzzy
 msgid "Toggle Assistant"
 msgstr "Dizolvă"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:441
+#: plugins/tools/defaulttools/kis_tool_brush.cc:429
 msgctxt "@info:tooltip"
 msgid ""
 "Make it only snap to a single assistant, prevents snapping mess while using "
 "the infinite assistants."
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:444
+#: plugins/tools/defaulttools/kis_tool_brush.cc:432
 #, fuzzy
 msgid "Snap single:"
 msgstr "Imagine nouă"

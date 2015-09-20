@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_koffice\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-09 08:45+0000\n"
+"POT-Creation-Date: 2015-09-18 08:17+0000\n"
 "PO-Revision-Date: 2012-12-22 11:54+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -775,12 +775,6 @@ msgctxt "Comment"
 msgid "GUI functionality for Karbon"
 msgstr "Un modul de test pentru KDED"
 
-#: karbon/plugins/filtereffects/karbon_filtereffects.desktop:3
-#, fuzzy
-msgctxt "Name"
-msgid "Filter Effects"
-msgstr "Excepție aritmetică."
-
 #: karbon/plugins/flattenpath/karbon_flattenpath.desktop:2
 #, fuzzy
 #| msgctxt "Comment"
@@ -812,12 +806,6 @@ msgstr "Modul KOffice"
 msgctxt "Name"
 msgid "Karbon Stencil Box plugin"
 msgstr "Modul KOffice"
-
-#: karbon/plugins/tools/karbon_tools.desktop:2
-#, fuzzy
-msgctxt "Name"
-msgid "Karbon Tools"
-msgstr "Crypto"
 
 #: karbon/plugins/whirlpinch/karbon_whirlpinch.desktop:2
 #, fuzzy
@@ -7827,7 +7815,7 @@ msgctxt "Name"
 msgid "Standard Widgets"
 msgstr "Controale de bază"
 
-#: kexi/formeditor/factories/kexiforms_standardwidgetsplugin.desktop:12
+#: kexi/formeditor/factories/kexiforms_standardwidgetsplugin.desktop:15
 msgctxt "Comment"
 msgid "Kexi plugin providing standard form widgets"
 msgstr ""
@@ -7847,7 +7835,7 @@ msgctxt "GenericName"
 msgid "Visual database apps builder"
 msgstr ""
 
-#: kexi/kexi.desktop:75
+#: kexi/kexi.desktop:77
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Develop desktop database applications"
@@ -7943,7 +7931,7 @@ msgctxt "Name"
 msgid "Database Widgets"
 msgstr "Controale de bază"
 
-#: kexi/plugins/forms/kexiforms_dbwidgetsplugin.desktop:12
+#: kexi/plugins/forms/kexiforms_dbwidgetsplugin.desktop:15
 msgctxt "Comment"
 msgid "Kexi plugin providing database form widgets"
 msgstr ""
@@ -7956,7 +7944,7 @@ msgctxt "Name"
 msgid "Map Widget"
 msgstr "Controale de bază"
 
-#: kexi/plugins/forms/widgets/mapbrowser/kexiforms_mapwidgetplugin.desktop:12
+#: kexi/plugins/forms/widgets/mapbrowser/kexiforms_mapwidgetplugin.desktop:14
 msgctxt "Comment"
 msgid "Kexi plugin providing map browser form widget"
 msgstr ""
@@ -7967,7 +7955,7 @@ msgctxt "Name"
 msgid "Web Browser Widget"
 msgstr "Dispozitive"
 
-#: kexi/plugins/forms/widgets/webbrowser/kexiforms_webbrowserwidgetplugin.desktop:12
+#: kexi/plugins/forms/widgets/webbrowser/kexiforms_webbrowserwidgetplugin.desktop:15
 msgctxt "Comment"
 msgid "Kexi plugin providing web browser form widget"
 msgstr ""
@@ -7977,7 +7965,7 @@ msgctxt "Name"
 msgid "CSV import/export"
 msgstr ""
 
-#: kexi/plugins/importexport/csv/kexi_csvimportexportplugin.desktop:13
+#: kexi/plugins/importexport/csv/kexi_csvimportexportplugin.desktop:15
 #, fuzzy
 msgctxt "Comment"
 msgid "Kexi Plugin for CSV data import/export"
@@ -8321,7 +8309,7 @@ msgid "Texture 8k 8bit srgb"
 msgstr ""
 
 #: krita/gemini/kritagemini.desktop:4 krita/krita.desktop:64
-#: krita/sketch/kritasketch.desktop:31
+#: krita/sketch/kritasketch.desktop:32
 msgctxt "GenericName"
 msgid "Digital Painting"
 msgstr ""
@@ -8338,7 +8326,6 @@ msgid "Krita Documents"
 msgstr "Comment=Document gol"
 
 #: krita/krita.desktop:2 krita/plugins/formats/bmp/krita_bmp.desktop:2
-#: krita/plugins/formats/eps/krita_eps.desktop:6
 #: krita/plugins/formats/exr/krita_exr.desktop:55
 #: krita/plugins/formats/heightmap/krita_heightmap.desktop:7
 #: krita/plugins/formats/jp2/krita_jp2.desktop:55
@@ -8780,7 +8767,7 @@ msgctxt "Name"
 msgid "Normalize Filter"
 msgstr "Calctool"
 
-#: krita/plugins/filters/normalize/kritanormalize.desktop:14
+#: krita/plugins/filters/normalize/kritanormalize.desktop:15
 msgctxt "Comment"
 msgid "Normalize the color channels."
 msgstr ""
@@ -8902,18 +8889,6 @@ msgstr "Filtru exportare Karbon pentru SVG"
 msgctxt "Name"
 msgid "Krita BMP Import Filter"
 msgstr "Filtru exportare Karbon pentru SVG"
-
-#: krita/plugins/formats/eps/krita_eps_export.desktop:2
-#, fuzzy
-msgctxt "Name"
-msgid "Krita Encapsulated PostScript Export Filter"
-msgstr "Filtru exportare Karbon pentru SVG"
-
-#: krita/plugins/formats/eps/krita_eps_import.desktop:3
-#, fuzzy
-msgctxt "Name"
-msgid "Krita Encapsulated PostScript Import Filter"
-msgstr "Filtru importare KWord pentru WML"
 
 #: krita/plugins/formats/exr/krita_exr.desktop:4
 #: krita/plugins/formats/jp2/krita_jp2.desktop:4
@@ -9638,6 +9613,18 @@ msgctxt "GenericName"
 msgid "Formula Editor"
 msgstr "Redactor de formule"
 
+#: plugins/karbonplugins/filtereffects/karbon_filtereffects.desktop:3
+#, fuzzy
+msgctxt "Name"
+msgid "Filter Effects"
+msgstr "Excepție aritmetică."
+
+#: plugins/karbonplugins/tools/karbon_tools.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Karbon Tools"
+msgstr "Crypto"
+
 #: plugins/kexi/spreadsheet/keximigrate_spreadsheet.desktop:2
 #, fuzzy
 #| msgctxt "GenericName"
@@ -10292,7 +10279,7 @@ msgctxt "Name"
 msgid "Space Rotation"
 msgstr "Partiții"
 
-#: stage/plugins/pageeffects/spacerotation/kpr_pageeffect_spacerotation.desktop:37
+#: stage/plugins/pageeffects/spacerotation/kpr_pageeffect_spacerotation.desktop:38
 msgctxt "Comment"
 msgid "Space Rotation Page Effect"
 msgstr ""
@@ -10618,6 +10605,16 @@ msgctxt "Comment"
 msgid ""
 "Creates a blank document with wide margins for professional looking documents"
 msgstr "Document gol"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Krita Encapsulated PostScript Export Filter"
+#~ msgstr "Filtru exportare Karbon pentru SVG"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Krita Encapsulated PostScript Import Filter"
+#~ msgstr "Filtru importare KWord pentru WML"
 
 #, fuzzy
 #~| msgctxt "Name"

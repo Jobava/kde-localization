@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 08:58+0000\n"
+"POT-Creation-Date: 2015-09-19 08:45+0000\n"
 "PO-Revision-Date: 2012-12-22 11:54+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -47,44 +47,44 @@ msgid "Maintainer"
 msgstr "Responsabil"
 
 #: crashreporter/mainwindow.cpp:133 gemini/MainWindow.cpp:655
-#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:727
-#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:730
-#: plugins/extensions/bigbrother/actionseditor/kis_actions_editor.cpp:109
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:432
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:437
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:442
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:525
+#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:728
+#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:731
+#: plugins/extensions/bigbrother/actionseditor/kis_actions_editor.cpp:110
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:431
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:436
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:441
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:524
 #: plugins/extensions/gmic/kis_gmic_widget.cpp:424
 #: plugins/extensions/resourcemanager/dlg_create_bundle.cpp:170
 #: plugins/extensions/resourcemanager/dlg_create_bundle.cpp:178
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:165
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:192
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:196
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:294
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:166
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:193
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:197
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:295
 #: plugins/formats/jp2/jp2_converter.cc:334
 #: plugins/formats/jp2/jp2_converter.cc:345
 #: plugins/formats/jpeg/kis_jpeg_converter.cc:469
 #: plugins/formats/jpeg/kis_jpeg_converter.cc:474
 #: plugins/formats/tiff/kis_tiff_writer_visitor.cpp:73
-#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:254
-#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:259
-#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:301
+#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:255
+#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:260
+#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:302
 #: plugins/tools/tool_transform2/kis_free_transform_strategy_gsl_helpers.cpp:338
-#: ui/dialogs/kis_dlg_preferences.cc:226 ui/input/kis_tablet_debugger.cpp:95
+#: ui/dialogs/kis_dlg_preferences.cc:226 ui/input/kis_tablet_debugger.cpp:100
 #: ui/kis_filter_manager.cc:217 ui/kis_filter_manager.cc:226
-#: ui/kis_layer_manager.cc:675 ui/kis_layer_manager.cc:957
-#: ui/KisApplication.cpp:250 ui/KisApplication.cpp:253
-#: ui/KisApplication.cpp:278 ui/KisApplication.cpp:304
-#: ui/KisApplication.cpp:325 ui/KisDocument.cpp:742 ui/KisDocument.cpp:744
-#: ui/KisDocument.cpp:1220 ui/KisDocument.cpp:1266 ui/KisDocument.cpp:1405
+#: ui/kis_layer_manager.cc:677 ui/kis_layer_manager.cc:959
+#: ui/KisApplication.cpp:240 ui/KisApplication.cpp:243
+#: ui/KisApplication.cpp:268 ui/KisApplication.cpp:294
+#: ui/KisApplication.cpp:315 ui/KisDocument.cpp:741 ui/KisDocument.cpp:743
+#: ui/KisDocument.cpp:1218 ui/KisDocument.cpp:1264 ui/KisDocument.cpp:1405
 #: ui/KisDocument.cpp:2037 ui/KisDocument.cpp:2040
-#: ui/KisImportExportManager.cpp:230 ui/KisImportExportManager.cpp:241
-#: ui/KisImportExportManager.cpp:536 ui/KisMainWindow.cpp:701
-#: ui/KisMainWindow.cpp:753 ui/KisMainWindow.cpp:767 ui/KisMainWindow.cpp:1445
-#: ui/KisMainWindow.cpp:1576 ui/KisMainWindow.cpp:1588
-#: ui/KisTemplateCreateDia.cpp:314 ui/KisView.cpp:826
-#: ui/opengl/kis_opengl_canvas2.cpp:582
-#: ui/opengl/kis_opengl_image_textures.cpp:531
+#: ui/KisImportExportManager.cpp:235 ui/KisImportExportManager.cpp:246
+#: ui/KisImportExportManager.cpp:541 ui/KisMainWindow.cpp:699
+#: ui/KisMainWindow.cpp:751 ui/KisMainWindow.cpp:765 ui/KisMainWindow.cpp:1449
+#: ui/KisMainWindow.cpp:1580 ui/KisMainWindow.cpp:1592
+#: ui/KisTemplateCreateDia.cpp:315 ui/KisView.cpp:823
+#: ui/opengl/kis_opengl_canvas2.cpp:661
+#: ui/opengl/kis_opengl_image_textures.cpp:538
 #: ui/widgets/kis_custom_image_widget.cc:245
 msgctxt "@title:window"
 msgid "Krita"
@@ -151,7 +151,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QToolButton, bnImgClose)
 #: crashreporter/wdg_crash_reporter.ui:159
 #: plugins/extensions/dockers/imagedocker/forms/wdgimagedocker.ui:227
-#: ui/dialogs/kis_about_application.cpp:154
+#: ui/dialogs/kis_about_application.cpp:156
 #: ui/forms/wdgbookmarkedconfigurationseditor.ui:70
 msgid "Close"
 msgstr "Închide"
@@ -304,13 +304,13 @@ msgid "Krita: No QML Found"
 msgstr ""
 
 #: gemini/MainWindow.cpp:290 gemini/MainWindow.cpp:652
-#: sketch/MainWindow.cpp:152 ui/KisView.cpp:823
+#: sketch/MainWindow.cpp:152 ui/KisView.cpp:820
 #, fuzzy
 #| msgid "untitled-1"
 msgid "Untitled"
 msgstr "neintitulat-1"
 
-#: gemini/MainWindow.cpp:656 ui/KisView.cpp:827
+#: gemini/MainWindow.cpp:656 ui/KisView.cpp:824
 #, kde-format
 msgid ""
 "<p>The document <b>'%1'</b> has been modified.</p><p>Do you want to save it?"
@@ -1345,7 +1345,7 @@ msgctxt "Category of brush engines"
 msgid "Brush engines"
 msgstr "Pensule"
 
-#: image/brushengine/kis_paintop_registry.cc:131
+#: image/brushengine/kis_paintop_registry.cc:134
 msgid "default"
 msgstr ""
 
@@ -1427,7 +1427,7 @@ msgstr "Curbă opacitate"
 
 #: image/commands/kis_node_property_list_command.cpp:57
 #: image/commands/kis_node_property_list_command.cpp:63
-#: image/kis_group_layer.cc:286 image/kis_group_layer.cc:293
+#: image/kis_group_layer.cc:287 image/kis_group_layer.cc:294
 msgid "Pass Through"
 msgstr ""
 
@@ -1511,11 +1511,11 @@ msgstr ""
 msgid "Other"
 msgstr "Plan"
 
-#: image/generator/kis_generator_layer.cpp:142
+#: image/generator/kis_generator_layer.cpp:143
 msgid "Generator"
 msgstr "Generator"
 
-#: image/kis_adjustment_layer.cc:129
+#: image/kis_adjustment_layer.cc:130
 #, fuzzy
 msgctxt "property of a filter layer, noun"
 msgid "Filter"
@@ -1553,7 +1553,7 @@ msgstr "Vizibil"
 msgid "Locked"
 msgstr "Legată"
 
-#: image/kis_clone_layer.cpp:303
+#: image/kis_clone_layer.cpp:304
 #, fuzzy
 msgid "Copy From"
 msgstr "Verde"
@@ -1754,13 +1754,13 @@ msgctxt "(qtundo-format)"
 msgid "Crop Selections"
 msgstr "Elimină selecția"
 
-#: image/kis_layer.cc:210
+#: image/kis_layer.cc:211
 #, kde-format
 msgid "%1%"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, opacityCBox)
-#: image/kis_layer.cc:210
+#: image/kis_layer.cc:211
 #: plugins/extensions/dockers/defaultdockers/kis_layer_box.cpp:229
 #: plugins/paintops/chalk/kis_chalk_paintop_settings_widget.cpp:36
 #: plugins/paintops/colorsmudge/kis_colorsmudgeop_settings_widget.cpp:50
@@ -1779,21 +1779,21 @@ msgstr ""
 msgid "Opacity"
 msgstr "Opacitate"
 
-#: image/kis_layer.cc:213
+#: image/kis_layer.cc:214
 #, fuzzy
 msgid "Composite Mode"
 msgstr "Adunare"
 
-#: image/kis_layer.cc:217 image/kis_layer.cc:234
+#: image/kis_layer.cc:218 image/kis_layer.cc:235
 #, fuzzy
 msgid "Layer Style"
 msgstr "Imagine"
 
-#: image/kis_layer.cc:220 image/kis_layer.cc:230
+#: image/kis_layer.cc:221 image/kis_layer.cc:231
 msgid "Inherit Alpha"
 msgstr ""
 
-#: image/kis_paint_layer.cc:150 image/kis_paint_layer.cc:158
+#: image/kis_paint_layer.cc:151 image/kis_paint_layer.cc:159
 #: ui/kis_node_model.cpp:498
 #, fuzzy
 msgid "Alpha Locked"
@@ -1807,7 +1807,7 @@ msgstr "Presiune"
 
 #. i18n: ectx: property (text), widget (QLineEdit, palettename)
 #: image/kis_psd_layer_style.cpp:99 ui/forms/wdgcustompalette.ui:18
-#: ui/KisDocument.cpp:2489 ui/KisMainWindow.cpp:885 ui/KisPart.cpp:586
+#: ui/KisDocument.cpp:2489 ui/KisMainWindow.cpp:887 ui/KisPart.cpp:586
 #: ui/KisPart.cpp:602 ui/kra/kis_kra_saver.cpp:71
 msgid "Unnamed"
 msgstr ""
@@ -1863,7 +1863,7 @@ msgctxt "(qtundo-format)"
 msgid "Invert Selection"
 msgstr "Se&lecția stratului"
 
-#: image/kis_selection_mask.cpp:116 ui/kis_node_model.cpp:491
+#: image/kis_selection_mask.cpp:117 ui/kis_node_model.cpp:491
 #, fuzzy
 msgid "Active"
 msgstr "Șterge plan"
@@ -1974,7 +1974,7 @@ msgid "Play macro"
 msgstr "Factor scalare"
 
 #: image/recorder/kis_macro_player.cc:83
-#: plugins/extensions/bigbrother/bigbrother.cc:123
+#: plugins/extensions/bigbrother/bigbrother.cc:124
 msgid "Playing back macro"
 msgstr ""
 
@@ -2152,21 +2152,21 @@ msgstr "Dizolvă"
 msgid "Infinite Ruler"
 msgstr "&Ascunde/afișează plan..."
 
-#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:637
+#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:638
 #, fuzzy
 msgid "Select an Assistant"
 msgstr "Dizolvă"
 
-#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:730
+#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:731
 msgid "Errors were encountered. Not all assistants were successfully loaded."
 msgstr ""
 
-#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:776
+#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.cc:777
 #, fuzzy
 msgid "Save Assistant"
 msgstr "Dizolvă"
 
-#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.h:105
+#: plugins/assistants/RulerAssistant/kis_ruler_assistant_tool.h:106
 #, fuzzy
 msgid "Assistant Tool"
 msgstr "Dizolvă"
@@ -2225,16 +2225,16 @@ msgstr ""
 msgid "Vanishing Point"
 msgstr "Alfa"
 
-#: plugins/extensions/bigbrother/actionseditor/kis_actions_editor.cpp:109
+#: plugins/extensions/bigbrother/actionseditor/kis_actions_editor.cpp:110
 #, fuzzy
 msgid "Failed to create an action."
 msgstr "Șterge plan"
 
-#: plugins/extensions/bigbrother/actionseditor/kis_actions_editor.cpp:143
+#: plugins/extensions/bigbrother/actionseditor/kis_actions_editor.cpp:144
 msgid "No action is selected."
 msgstr ""
 
-#: plugins/extensions/bigbrother/actionseditor/kis_actions_editor.cpp:146
+#: plugins/extensions/bigbrother/actionseditor/kis_actions_editor.cpp:147
 #, fuzzy
 #| msgid "&Add to current selection"
 msgid "No editor for current action."
@@ -2297,34 +2297,34 @@ msgstr "Elimină selecția"
 msgid "Delete the current action"
 msgstr "&Adaugă la selecția curentă"
 
-#: plugins/extensions/bigbrother/bigbrother.cc:86
+#: plugins/extensions/bigbrother/bigbrother.cc:87
 msgid "Open and play..."
 msgstr ""
 
-#: plugins/extensions/bigbrother/bigbrother.cc:91
+#: plugins/extensions/bigbrother/bigbrother.cc:92
 msgid "Open and edit..."
 msgstr ""
 
-#: plugins/extensions/bigbrother/bigbrother.cc:96
+#: plugins/extensions/bigbrother/bigbrother.cc:97
 msgid "Start recording macro"
 msgstr ""
 
-#: plugins/extensions/bigbrother/bigbrother.cc:102
+#: plugins/extensions/bigbrother/bigbrother.cc:103
 msgid "Stop recording actions"
 msgstr ""
 
-#: plugins/extensions/bigbrother/bigbrother.cc:184
+#: plugins/extensions/bigbrother/bigbrother.cc:185
 #, fuzzy
 #| msgid "Scale factor"
 msgid "Open Macro"
 msgstr "Factor scalare"
 
-#: plugins/extensions/bigbrother/bigbrother.cc:186
-#: plugins/extensions/bigbrother/bigbrother.cc:224
+#: plugins/extensions/bigbrother/bigbrother.cc:187
+#: plugins/extensions/bigbrother/bigbrother.cc:225
 msgid "Recorded actions (*.krarec)"
 msgstr ""
 
-#: plugins/extensions/bigbrother/bigbrother.cc:223
+#: plugins/extensions/bigbrother/bigbrother.cc:224
 #, fuzzy
 #| msgid "Scale factor"
 msgid "Save Macro"
@@ -2706,10 +2706,10 @@ msgstr ""
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1264
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1294
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1324
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:67
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:70
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:73
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:76
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:66
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:69
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:72
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:75
 #: plugins/paintops/defaultpaintops/brush/kis_brushop_settings_widget.cpp:73
 #: plugins/paintops/hairy/wdghairyeoptions.ui:310
 #: plugins/paintops/hairy/wdgInkOptions.ui:71 ui/forms/wdgapplyprofile.ui:116
@@ -2983,10 +2983,8 @@ msgstr "Selecția"
 #. i18n: ectx: property (suffix), widget (QSpinBox, offsetYspinBox)
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, sizeToStartFromSpinBox)
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, deltaValueSpinBox)
-#. i18n: ectx: property (suffix), widget (KIntSpinBox, intX)
-#. i18n: ectx: property (suffix), widget (KIntSpinBox, intY)
-#. i18n: ectx: property (suffix), widget (KIntSpinBox, intWidth)
-#. i18n: ectx: property (suffix), widget (KIntSpinBox, intHeight)
+#. i18n: ectx: property (suffix), widget (QSpinBox, intX)
+#. i18n: ectx: property (suffix), widget (QSpinBox, intY)
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:394
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:594
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:762
@@ -2998,7 +2996,7 @@ msgstr "Selecția"
 #: plugins/paintops/experiment/kis_experimentop_option.cpp:36
 #: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:105
 #: plugins/paintops/libpaintop/forms/wdgbrushchooser.ui:128
-#: plugins/tools/defaulttools/kis_tool_brush.cc:366
+#: plugins/tools/defaulttools/kis_tool_brush.cc:354
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:57
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:83
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:161
@@ -3271,10 +3269,10 @@ msgstr ""
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1257
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1287
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1317
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:66
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:69
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:72
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:75
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:65
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:68
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:71
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:74
 #: plugins/paintops/defaultpaintops/brush/kis_brushop_settings_widget.cpp:72
 msgid "Hue"
 msgstr "Nuanță"
@@ -3282,7 +3280,7 @@ msgstr "Nuanță"
 #. i18n: ectx: property (text), widget (QCheckBox, csl_hsvV)
 #. i18n: ectx: property (text), widget (QTreeWidget, listViewChannels)
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1241
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:68
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:67
 #: plugins/extensions/metadataeditor/kis_meta_data_model.cpp:108
 #: plugins/paintops/curvebrush/kis_curve_paintop_settings_widget.cpp:34
 #: plugins/paintops/defaultpaintops/brush/kis_brushop_settings_widget.cpp:74
@@ -3297,7 +3295,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, csl_hslL)
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1271
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:71
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:70
 #: plugins/filters/colorsfilters/virtual_channel_info.cpp:41
 #, fuzzy
 msgid "Lightness"
@@ -3310,7 +3308,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, csl_hsiI)
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1301
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:74
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:73
 #, fuzzy
 #| msgid "Description:"
 msgid "Intensity"
@@ -3323,7 +3321,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, csl_hsyY)
 #: plugins/extensions/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1331
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:77
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:76
 msgid "Luma"
 msgstr ""
 
@@ -3418,8 +3416,8 @@ msgstr "Canal"
 msgid "Enabled"
 msgstr "Albastru"
 
-#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:80
-#: plugins/extensions/dockers/specificcolorselector/kis_color_input.cc:53
+#: plugins/extensions/dockers/colorslider/kis_color_slider_input.cpp:79
+#: plugins/extensions/dockers/specificcolorselector/kis_color_input.cc:54
 #, kde-format
 msgid "%1:"
 msgstr ""
@@ -3539,7 +3537,7 @@ msgid ""
 msgstr ""
 
 #: plugins/extensions/dockers/defaultdockers/kis_layer_box.cpp:534
-#: ui/kis_layer_manager.cc:300
+#: ui/kis_layer_manager.cc:302
 #, fuzzy
 msgid "&Merge with Layer Below"
 msgstr "Combină &toate planele"
@@ -3652,7 +3650,7 @@ msgstr "..."
 #: plugins/filters/randompickfilter/wdgrandompickoptions.ui:65
 #: plugins/paintops/libpaintop/forms/wdgflowopacityoption.ui:59
 #: ui/forms/wdgautogradient.ui:81 ui/forms/wdgpaintactioneditor.ui:89
-#: ui/kis_paintop_box.cc:209 ui/kis_paintop_box.cc:214
+#: ui/kis_paintop_box.cc:210 ui/kis_paintop_box.cc:215
 msgid "Opacity:"
 msgstr "Opacitate:"
 
@@ -3980,7 +3978,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, m_lblView)
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: plugins/extensions/dockers/lut/wdglut.ui:271
-#: plugins/extensions/histogram/wdghistogram.ui:125
+#: plugins/extensions/histogram/wdghistogram.ui:120
 #, fuzzy
 msgid "View:"
 msgstr "Legată"
@@ -4019,7 +4017,7 @@ msgstr ""
 msgid "Configure black and white points of the view"
 msgstr ""
 
-#: plugins/extensions/dockers/overview/overviewdocker_dock.cpp:36
+#: plugins/extensions/dockers/overview/overviewdocker_dock.cpp:35
 #, fuzzy
 #| msgid "Preview"
 msgid "Overview"
@@ -4027,7 +4025,7 @@ msgstr "Previzualizează"
 
 #: plugins/extensions/dockers/palettedocker/colorsetchooser.cpp:97
 #: plugins/extensions/resourcemanager/dlg_create_bundle.cpp:61
-#: ui/KisMainWindow.cpp:666 ui/widgets/kis_workspace_chooser.cpp:93
+#: ui/KisMainWindow.cpp:664 ui/widgets/kis_workspace_chooser.cpp:93
 #, fuzzy
 msgid "Save"
 msgstr "Mod"
@@ -4049,7 +4047,7 @@ msgid "Name:"
 msgstr "Denumire:"
 
 #: plugins/extensions/dockers/palettedocker/colorsetchooser.cpp:141
-#: plugins/extensions/dockers/palettedocker/palettedocker_dock.cpp:117
+#: plugins/extensions/dockers/palettedocker/palettedocker_dock.cpp:118
 #, fuzzy
 msgid "Palette"
 msgstr "Palete"
@@ -4059,7 +4057,7 @@ msgstr "Palete"
 msgid "Palette %1"
 msgstr "Palete"
 
-#: plugins/extensions/dockers/palettedocker/palettedocker_dock.cpp:165
+#: plugins/extensions/dockers/palettedocker/palettedocker_dock.cpp:166
 #, fuzzy
 #| msgid "Choose Palette"
 msgid "Choose palette"
@@ -4088,7 +4086,7 @@ msgstr "Adaugă imagine nouă"
 #: plugins/extensions/dockers/patterndocker/patterndocker_dock.cpp:31
 #: plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:246
 #: plugins/extensions/resourcemanager/dlg_create_bundle.cpp:103
-#: ui/kis_control_frame.cpp:155
+#: ui/kis_control_frame.cpp:160
 msgid "Patterns"
 msgstr "Modele"
 
@@ -4111,7 +4109,7 @@ msgstr "Preconfigurări:"
 msgid "Small Color Selector"
 msgstr "Selecția"
 
-#: plugins/extensions/dockers/specificcolorselector/kis_color_input.cc:243
+#: plugins/extensions/dockers/specificcolorselector/kis_color_input.cc:244
 #, fuzzy
 #| msgid "Color space:"
 msgid "Color name:"
@@ -4256,33 +4254,33 @@ msgstr ""
 msgid "All outputs"
 msgstr ""
 
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:89
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:88
 msgid "G'MIC"
 msgstr ""
 
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:241
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:240
 msgid "G'MIC for Krita"
 msgstr ""
 
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:408
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:407
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Gmic filter"
 msgstr "&Culegător culoare"
 
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:432
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:431
 msgid "Sorry, this filter is crashing Krita and is turned off."
 msgstr ""
 
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:437
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:436
 msgid "Sorry, this output mode is not implemented"
 msgstr ""
 
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:442
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:441
 msgid "Sorry, this input mode is not implemented"
 msgstr ""
 
-#: plugins/extensions/gmic/kis_gmic_plugin.cpp:525
+#: plugins/extensions/gmic/kis_gmic_plugin.cpp:524
 msgid "Sorry! G'Mic failed, reason:"
 msgstr ""
 
@@ -4346,21 +4344,21 @@ msgstr "Pensule"
 #. i18n: ectx: property (text), widget (QCheckBox, previewCheckBox)
 #: plugins/extensions/gmic/wdg_gmic_input_output.ui:27
 #: plugins/tools/defaulttools/kis_tool_line.cc:112
-#: ui/forms/kis_previewwidgetbase.ui:36 ui/forms/wdgfilterdialog.ui:63
+#: ui/forms/kis_previewwidgetbase.ui:32 ui/forms/wdgfilterdialog.ui:63
 msgid "Preview"
 msgstr "Previzualizează"
 
-#. i18n: ectx: property (toolTip), widget (KPushButton, btnZoomIn)
+#. i18n: ectx: property (toolTip), widget (QPushButton, btnZoomIn)
 #. i18n: ectx: property (toolTip), widget (QPushButton, zoomInButton)
 #: plugins/extensions/gmic/wdg_gmic_input_output.ui:45
-#: ui/forms/kis_previewwidgetbase.ui:135 ui/input/kis_zoom_action.cpp:107
+#: ui/forms/kis_previewwidgetbase.ui:123 ui/input/kis_zoom_action.cpp:107
 msgid "Zoom In"
 msgstr "Apropiere"
 
-#. i18n: ectx: property (toolTip), widget (KPushButton, btnZoomOut)
+#. i18n: ectx: property (toolTip), widget (QPushButton, btnZoomOut)
 #. i18n: ectx: property (toolTip), widget (QPushButton, zoomOutButton)
 #: plugins/extensions/gmic/wdg_gmic_input_output.ui:61
-#: ui/forms/kis_previewwidgetbase.ui:122 ui/input/kis_zoom_action.cpp:108
+#: ui/forms/kis_previewwidgetbase.ui:110 ui/input/kis_zoom_action.cpp:108
 msgid "Zoom Out"
 msgstr "Îndepărtare"
 
@@ -4400,32 +4398,33 @@ msgstr ""
 msgid "&Histogram..."
 msgstr "Scădere"
 
-#. i18n: ectx: property (title), widget (KButtonGroup, grpType)
+#. i18n: ectx: property (title), widget (QGroupBox, grpType)
 #: plugins/extensions/histogram/wdghistogram.ui:17
-msgid "Method"
-msgstr ""
+#, fuzzy
+msgid "Histogram Options"
+msgstr "Opțiuni gradient"
+
+#. i18n: ectx: property (text), widget (QLabel, lblChannel)
+#: plugins/extensions/histogram/wdghistogram.ui:25
+#, fuzzy
+msgid "&Channel:"
+msgstr "Canale"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioLinear)
-#: plugins/extensions/histogram/wdghistogram.ui:23
+#: plugins/extensions/histogram/wdghistogram.ui:45
 #, fuzzy
 msgid "&Linear"
 msgstr "Plan"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioLog)
-#: plugins/extensions/histogram/wdghistogram.ui:33
+#: plugins/extensions/histogram/wdghistogram.ui:87
 msgid "&Logarithmic"
 msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, lblChannel)
-#: plugins/extensions/histogram/wdghistogram.ui:66
-#, fuzzy
-msgid "&Channel:"
-msgstr "Canale"
 
 #. i18n: ectx: property (text), widget (QPushButton, zoomIn)
 #. i18n: ectx: property (text), widget (QPushButton, pb_more_contrast)
 #. i18n: ectx: property (text), widget (QPushButton, pb_more_brightness)
-#: plugins/extensions/histogram/wdghistogram.ui:141
+#: plugins/extensions/histogram/wdghistogram.ui:136
 #: plugins/filters/colorsfilters/wdg_brightness_contrast.ui:241
 #: plugins/filters/colorsfilters/wdg_brightness_contrast.ui:261
 msgid "+"
@@ -4434,14 +4433,14 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, zoomOut)
 #. i18n: ectx: property (text), widget (QPushButton, pb_less_contrast)
 #. i18n: ectx: property (text), widget (QPushButton, pb_less_brightness)
-#: plugins/extensions/histogram/wdghistogram.ui:154
+#: plugins/extensions/histogram/wdghistogram.ui:149
 #: plugins/filters/colorsfilters/wdg_brightness_contrast.ui:221
 #: plugins/filters/colorsfilters/wdg_brightness_contrast.ui:271
 msgid "-"
 msgstr ""
 
 #: plugins/extensions/imagesize/dlg_canvassize.cc:32
-#: plugins/extensions/imagesize/dlg_imagesize.cc:34
+#: plugins/extensions/imagesize/dlg_imagesize.cc:35
 #: plugins/extensions/imagesize/dlg_layersize.cc:33
 #, fuzzy
 #| msgid "&Percent:"
@@ -4453,17 +4452,17 @@ msgstr "&Procent:"
 msgid "Resize Canvas"
 msgstr "Actualizează imaginea"
 
-#: plugins/extensions/imagesize/dlg_imagesize.cc:35
+#: plugins/extensions/imagesize/dlg_imagesize.cc:36
 #, fuzzy
 msgid "Pixels/Inch"
 msgstr "Imagine"
 
-#: plugins/extensions/imagesize/dlg_imagesize.cc:36
+#: plugins/extensions/imagesize/dlg_imagesize.cc:37
 msgid "Pixels/Centimeter"
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgImageSize)
-#: plugins/extensions/imagesize/dlg_imagesize.cc:51
+#: plugins/extensions/imagesize/dlg_imagesize.cc:52
 #: plugins/extensions/imagesize/wdg_imagesize.ui:14
 msgid "Scale To New Size"
 msgstr ""
@@ -4626,13 +4625,13 @@ msgstr ""
 msgid "Image Split"
 msgstr "Dimensiune imagine"
 
-#: plugins/extensions/imagesplit/imagesplit.cpp:54
+#: plugins/extensions/imagesplit/imagesplit.cpp:56
 #, fuzzy
 #| msgid "Image Size"
 msgid "Image Split "
 msgstr "Dimensiune imagine"
 
-#: plugins/extensions/imagesplit/imagesplit.cpp:142
+#: plugins/extensions/imagesplit/imagesplit.cpp:146
 #, fuzzy
 msgid "Save Image on Split"
 msgstr "Imagine nouă"
@@ -5423,7 +5422,7 @@ msgstr "Formă triunghiulară"
 msgid "Color sequential linear sensor"
 msgstr "Formă triunghiulară"
 
-#: plugins/extensions/metadataeditor/kis_meta_data_editor.cc:138
+#: plugins/extensions/metadataeditor/kis_meta_data_editor.cc:137
 #, fuzzy
 #| msgid "Lines"
 msgid "List"
@@ -5650,8 +5649,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, cbRemoveGradients)
 #: plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:243
 #: plugins/extensions/resourcemanager/dlg_create_bundle.cpp:102
-#: ui/forms/wdgdlgblacklistcleanup.ui:73 ui/kis_control_frame.cpp:88
-#: ui/kis_control_frame.cpp:89 ui/kis_control_frame.cpp:193
+#: ui/forms/wdgdlgblacklistcleanup.ui:73 ui/kis_control_frame.cpp:90
+#: ui/kis_control_frame.cpp:91 ui/kis_control_frame.cpp:198
 msgid "Gradients"
 msgstr "Gradienți"
 
@@ -5672,7 +5671,7 @@ msgstr "Palete"
 #. i18n: ectx: property (text), widget (QCheckBox, cbRemoveWorkspaces)
 #: plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:255
 #: plugins/extensions/resourcemanager/dlg_create_bundle.cpp:105
-#: ui/forms/wdgdlgblacklistcleanup.ui:26 ui/kis_paintop_box.cc:350
+#: ui/forms/wdgdlgblacklistcleanup.ui:26 ui/kis_paintop_box.cc:364
 #, fuzzy
 msgid "Workspaces"
 msgstr "&Culegător culoare"
@@ -5704,139 +5703,139 @@ msgstr "Dreptunghiular"
 msgid "Select file to use as dynamic file layer."
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcebundle.cpp:713
+#: plugins/extensions/resourcemanager/resourcebundle.cpp:703
 msgid ""
 "The following resources had mismatching MD5 sums. They may have gotten "
 "corrupted, for example, during download."
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:114
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:115
 msgid "Import Resources or Bundles..."
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:118
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:119
 #, fuzzy
 msgid "Create Resource Bundle..."
 msgstr "Șterge plan"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:122
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:123
 #, fuzzy
 #| msgid "&Resources"
 msgid "Manage Resources..."
 msgstr "&Resurse"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:135
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:136
 #, fuzzy
 #| msgid "&Resources"
 msgid "Add Resources"
 msgstr "&Resurse"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:138
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:139
 #, fuzzy
 #| msgid "Presets:"
 msgid "Krita Brush Presets (*.kpp)"
 msgstr "Preconfigurări:"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:139
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:140
 #, fuzzy
 msgid "GIMP Brushes (*.gbr)"
 msgstr "Pensule"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:140
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:141
 #, fuzzy
 msgid "Imagepipe Brushes (*.gih)"
 msgstr "Pensule"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:141
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:142
 msgid "Photoshop Brushes (*.abr)"
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:142
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:143
 #, fuzzy
 msgid "PNG Brushes (*.png)"
 msgstr "Pensule"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:143
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:144
 #, fuzzy
 msgid "SVG Brushes (*.svg)"
 msgstr "Pensule"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:144
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:145
 msgid "GIMP Gradients (*.ggr)"
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:145
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:146
 #, fuzzy
 #| msgid "Gradients"
 msgid "SVG Gradients (*.svg)"
 msgstr "Gradienți"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:146
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:147
 #, fuzzy
 #| msgid "Gradients"
 msgid "Karbon Gradients (*.kgr)"
 msgstr "Gradienți"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:147
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:148
 #, fuzzy
 msgid "Resource Bundles (*.bundle)"
 msgstr "Șterge plan"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:148
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:149
 msgid "GIMP Patterns (*.pat)"
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:149
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:150
 #, fuzzy
 msgid "JPEG Patterns (*.jpg)"
 msgstr "Modele"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:150
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:151
 #, fuzzy
 msgid "GIF Patterns (*.gif)"
 msgstr "Modele"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:151
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:152
 msgid "PNG Patterns (*.png)"
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:152
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:153
 #, fuzzy
 msgid "TIFF Patterns (*.tif)"
 msgstr "Modele"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:153
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:154
 msgid "XPM Patterns (*.xpm)"
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:154
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:155
 msgid "BMP Patterns (*.bmp)"
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:155
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:156
 msgid "Palettes (*.gpl *.pal *.act *.aco *.colors)"
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:156
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:157
 #, fuzzy
 msgid "Workspaces (*.kts)"
 msgstr "&Culegător culoare"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:165
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:166
 msgid "The selected resource type is unknown."
 msgstr ""
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:192
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:193
 #, fuzzy, kde-format
 msgid "Could not install the resources for bundle %1."
 msgstr "Culoare"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:196
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:197
 #, fuzzy, kde-format
 msgid "Could not load bundle %1."
 msgstr "Elimină selecția"
 
-#: plugins/extensions/resourcemanager/resourcemanager.cpp:294
+#: plugins/extensions/resourcemanager/resourcemanager.cpp:295
 msgid "Could not create the new bundle."
 msgstr ""
 
@@ -6100,13 +6099,13 @@ msgstr "&Personalizat:"
 msgid "Separate Image"
 msgstr "Imagine nouă"
 
-#: plugins/extensions/separate_channels/kis_channel_separator.cc:209
+#: plugins/extensions/separate_channels/kis_channel_separator.cc:211
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Separate Image"
 msgstr "Imagine nouă"
 
-#: plugins/extensions/separate_channels/kis_channel_separator.cc:237
+#: plugins/extensions/separate_channels/kis_channel_separator.cc:239
 #, fuzzy
 msgid "Export Layer"
 msgstr "Exportă imagine"
@@ -6212,10 +6211,10 @@ msgstr "&Adaugă plan..."
 msgid "Shear angle X:"
 msgstr "Imagine nouă"
 
-#. i18n: ectx: property (suffix), widget (KIntNumInput, shearAngleX)
-#. i18n: ectx: property (suffix), widget (KIntNumInput, shearAngleY)
-#. i18n: ectx: property (suffix), widget (KIntNumInput, irisRotationSlider)
-#. i18n: ectx: property (suffix), widget (KIntNumInput, blurAngleSlider)
+#. i18n: ectx: property (suffix), widget (QSpinBox, shearAngleX)
+#. i18n: ectx: property (suffix), widget (QSpinBox, shearAngleY)
+#. i18n: ectx: property (suffix), widget (QSpinBox, irisRotationSlider)
+#. i18n: ectx: property (suffix), widget (QSpinBox, blurAngleSlider)
 #. i18n: ectx: property (suffix), widget (QSpinBox, azimuthSpinBox4)
 #. i18n: ectx: property (suffix), widget (QSpinBox, inclinationSpinBox4)
 #. i18n: ectx: property (suffix), widget (QSpinBox, azimuthSpinBox2)
@@ -6226,8 +6225,8 @@ msgstr "Imagine nouă"
 #. i18n: ectx: property (suffix), widget (QSpinBox, inclinationSpinBox3)
 #: plugins/extensions/shearimage/wdg_shearimage.ui:36
 #: plugins/extensions/shearimage/wdg_shearimage.ui:65
-#: plugins/filters/blur/wdg_lens_blur.ui:67
-#: plugins/filters/blur/wdg_motion_blur.ui:96
+#: plugins/filters/blur/wdg_lens_blur.ui:115
+#: plugins/filters/blur/wdg_motion_blur.ui:99
 #: plugins/filters/phongbumpmap/wdgphongbumpmap.ui:500
 #: plugins/filters/phongbumpmap/wdgphongbumpmap.ui:541
 #: plugins/filters/phongbumpmap/wdgphongbumpmap.ui:683
@@ -6299,7 +6298,7 @@ msgid "Horizontal Radius:"
 msgstr "Formă triunghiulară"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: plugins/filters/blur/wdg_lens_blur.ui:26
+#: plugins/filters/blur/wdg_lens_blur.ui:23
 #, fuzzy
 #| msgid "Bricks"
 msgid "Iris"
@@ -6312,7 +6311,7 @@ msgstr "Cărămizi"
 #. i18n: ectx: property (text), widget (QLabel, shapeLbl)
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #. i18n: ectx: property (text), widget (QLabel, widthInfoLbl_2)
-#: plugins/filters/blur/wdg_lens_blur.ui:32
+#: plugins/filters/blur/wdg_lens_blur.ui:29
 #: plugins/filters/blur/wdgblur.ui:114
 #: plugins/filters/wavefilter/wdgwaveoptions.ui:54
 #: plugins/filters/wavefilter/wdgwaveoptions.ui:228
@@ -6324,25 +6323,10 @@ msgstr "Cărămizi"
 msgid "Shape:"
 msgstr "Formă:"
 
-#. i18n: ectx: property (text), widget (QLabel, textLabel1)
-#. i18n: ectx: property (label), widget (KIntNumInput, irisRadiusSlider)
-#: plugins/filters/blur/wdg_lens_blur.ui:42
-#: plugins/filters/unsharp/wdgunsharp.ui:23
-#, fuzzy
-msgid "Radius:"
-msgstr "Rotește &90"
-
-#. i18n: ectx: property (label), widget (KIntNumInput, irisRotationSlider)
-#: plugins/filters/blur/wdg_lens_blur.ui:58
-#: plugins/paintops/libpaintop/kis_brush_chooser.cpp:118
-#, fuzzy
-msgid "Rotation:"
-msgstr "Rotește &90"
-
 #. i18n: ectx: property (text), item, widget (QComboBox, irisShapeCombo)
 #. i18n: ectx: property (text), item, widget (KComboBox, cbHShape)
 #. i18n: ectx: property (text), item, widget (KComboBox, cbVShape)
-#: plugins/filters/blur/wdg_lens_blur.ui:78
+#: plugins/filters/blur/wdg_lens_blur.ui:40
 #: plugins/filters/wavefilter/wdgwaveoptions.ui:111
 #: plugins/filters/wavefilter/wdgwaveoptions.ui:191
 #, fuzzy
@@ -6350,46 +6334,64 @@ msgid "Triangle"
 msgstr "Dreptunghiular"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, irisShapeCombo)
-#: plugins/filters/blur/wdg_lens_blur.ui:83
+#: plugins/filters/blur/wdg_lens_blur.ui:45
 #, fuzzy
 msgid "Quadrilateral (4)"
 msgstr "&Alb"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, irisShapeCombo)
-#: plugins/filters/blur/wdg_lens_blur.ui:88
+#: plugins/filters/blur/wdg_lens_blur.ui:50
 #, fuzzy
 #| msgid "&Percent:"
 msgid "Pentagon (5)"
 msgstr "&Procent:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, irisShapeCombo)
-#: plugins/filters/blur/wdg_lens_blur.ui:93
+#: plugins/filters/blur/wdg_lens_blur.ui:55
 #, fuzzy
 #| msgid "&Percent:"
 msgid "Hexagon (6)"
 msgstr "&Procent:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, irisShapeCombo)
-#: plugins/filters/blur/wdg_lens_blur.ui:98
+#: plugins/filters/blur/wdg_lens_blur.ui:60
 #, fuzzy
 #| msgid "&Percent:"
 msgid "Heptagon (7)"
 msgstr "&Procent:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, irisShapeCombo)
-#: plugins/filters/blur/wdg_lens_blur.ui:103
+#: plugins/filters/blur/wdg_lens_blur.ui:65
 #, fuzzy
 #| msgid "&Percent:"
 msgid "Octagon (8)"
 msgstr "&Procent:"
 
-#. i18n: ectx: property (label), widget (KIntNumInput, blurAngleSlider)
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (label), widget (QSpinBox, irisRadiusSlider)
+#: plugins/filters/blur/wdg_lens_blur.ui:73
+#: plugins/filters/blur/wdg_lens_blur.ui:92
+#: plugins/filters/unsharp/wdgunsharp.ui:23
+#, fuzzy
+msgid "Radius:"
+msgstr "Rotește &90"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: property (label), widget (QSpinBox, irisRotationSlider)
+#: plugins/filters/blur/wdg_lens_blur.ui:102
+#: plugins/filters/blur/wdg_lens_blur.ui:124
+#: plugins/paintops/libpaintop/kis_brush_chooser.cpp:118
+#, fuzzy
+msgid "Rotation:"
+msgstr "Rotește &90"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: ectx: property (text), widget (QLabel, textLabel5)
 #. i18n: ectx: property (text), widget (QLabel, label_14)
-#. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: ectx: property (text), widget (QLabel, rotationLbl)
 #. i18n: ectx: property (text), widget (QLabel, label_3)
-#: plugins/filters/blur/wdg_motion_blur.ui:87
+#: plugins/filters/blur/wdg_motion_blur.ui:83
 #: plugins/filters/blur/wdgblur.ui:94
 #: plugins/paintops/dynadraw/wdgdynaoptions.ui:279
 #: plugins/paintops/hatching/wdghatchingoptions.ui:49
@@ -6400,7 +6402,6 @@ msgstr "&Procent:"
 msgid "Angle:"
 msgstr "Dreptunghiular"
 
-#. i18n: ectx: property (label), widget (KIntNumInput, blurLength)
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. i18n: ectx: property (text), widget (QLabel, Factor)
 #: plugins/filters/blur/wdg_motion_blur.ui:112
@@ -7537,29 +7538,29 @@ msgstr ""
 msgid "OpenEXR Export Options"
 msgstr "Opțiuni gradient"
 
-#: plugins/formats/exr/exr_export.cc:130
+#: plugins/formats/exr/exr_export.cc:129
 msgid "This layer cannot be saved to EXR."
 msgstr ""
 
-#: plugins/formats/exr/exr_export.cc:134
+#: plugins/formats/exr/exr_export.cc:133
 msgid "The layer does not have an image associated with it."
 msgstr ""
 
-#: plugins/formats/exr/exr_export.cc:138
+#: plugins/formats/exr/exr_export.cc:137
 msgid "The filename is empty."
 msgstr ""
 
-#: plugins/formats/exr/exr_export.cc:142
+#: plugins/formats/exr/exr_export.cc:141
 msgid "EXR images cannot be saved remotely."
 msgstr ""
 
-#: plugins/formats/exr/exr_export.cc:146
+#: plugins/formats/exr/exr_export.cc:145
 msgid ""
 "Colorspace not supported: EXR images must be 16 or 32 bits floating point "
 "RGB."
 msgstr ""
 
-#: plugins/formats/exr/exr_export.cc:155
+#: plugins/formats/exr/exr_export.cc:154
 #, fuzzy
 msgid "Internal Error"
 msgstr "Selecția"
@@ -7647,8 +7648,8 @@ msgstr ""
 #: plugins/formats/heightmap/kis_wdg_options_heightmap.ui:30
 #: plugins/paintops/libpaintop/kis_brush_chooser.cpp:106
 #: plugins/tools/tool_transform2/wdg_tool_transform.ui:1776
-#: ui/forms/wdgdisplaysettings.ui:72 ui/kis_paintop_box.cc:211
-#: ui/kis_paintop_box.cc:216
+#: ui/forms/wdgdisplaysettings.ui:72 ui/kis_paintop_box.cc:212
+#: ui/kis_paintop_box.cc:217
 #, fuzzy
 msgid "Size:"
 msgstr "Legată"
@@ -7863,23 +7864,23 @@ msgstr "Filtre:"
 msgid "Vector Layer"
 msgstr "&Următorul plan..."
 
-#: plugins/formats/ora/ora_export.cc:106
+#: plugins/formats/ora/ora_export.cc:105
 msgid "Cannot export images in this colorspace or channel depth to OpenRaster"
 msgstr ""
 
-#: plugins/formats/ora/ora_export.cc:106
+#: plugins/formats/ora/ora_export.cc:105
 msgctxt "@title:window"
 msgid "Krita OpenRaster Export"
 msgstr ""
 
-#: plugins/formats/ora/ora_export.cc:114
+#: plugins/formats/ora/ora_export.cc:113
 #, fuzzy
 #| msgid "Warning!"
 msgctxt "@title:window"
 msgid "Krita:Warning"
 msgstr "Atenție!"
 
-#: plugins/formats/ora/ora_export.cc:115
+#: plugins/formats/ora/ora_export.cc:114
 msgid ""
 "This image contains vector, clone or fill layers.\n"
 "These layers will be saved as raster layers."
@@ -7950,17 +7951,17 @@ msgctxt "horizontal resolution"
 msgid "Resolution:"
 msgstr "Rezoluție:"
 
-#: plugins/formats/png/kis_png_export.cc:90
+#: plugins/formats/png/kis_png_export.cc:91
 #, fuzzy
 msgid "PNG Export Options"
 msgstr "Opțiuni gradient"
 
-#: plugins/formats/png/kis_png_export.cc:107
+#: plugins/formats/png/kis_png_export.cc:108
 msgctxt "@title:window"
 msgid "Krita PNG Export"
 msgstr ""
 
-#: plugins/formats/png/kis_png_export.cc:107
+#: plugins/formats/png/kis_png_export.cc:108
 msgid ""
 "You can only save grayscale and RGB images to PNG. Convert your image before "
 "exporting to PNG."
@@ -8565,7 +8566,7 @@ msgstr "Spațiere"
 #: plugins/paintops/hatching/kis_hatching_paintop_settings_widget.cpp:60
 #: plugins/paintops/tangentnormal/kis_tangent_normal_paintop_settings_widget.cpp:62
 #: plugins/tools/defaulttools/kis_tool_multihand.cpp:276
-#: ui/kis_paintop_box.cc:346
+#: ui/kis_paintop_box.cc:359
 #, fuzzy
 msgid "Mirror"
 msgstr "Salvează planul ca imagine..."
@@ -9914,7 +9915,7 @@ msgstr ""
 msgid "Text:"
 msgstr "Text:"
 
-#. i18n: ectx: property (text), widget (KLineEdit, lineEdit)
+#. i18n: ectx: property (text), widget (QLineEdit, lineEdit)
 #: plugins/paintops/libpaintop/forms/wdgtextbrush.ui:42
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr "-ăîșțĂÎȘȚ- The Quick Brown Fox Jumps Over The Lazy Dog"
@@ -10823,129 +10824,129 @@ msgctxt "@action"
 msgid "Brush Smoothing: Stabilizer"
 msgstr "Albastru"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:329
+#: plugins/tools/defaulttools/kis_tool_brush.cc:317
 #, fuzzy
 msgid "No Smoothing"
 msgstr "Grosime linie"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:330
+#: plugins/tools/defaulttools/kis_tool_brush.cc:318
 #, fuzzy
 msgid "Basic Smoothing"
 msgstr "Grosime linie"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:331
+#: plugins/tools/defaulttools/kis_tool_brush.cc:319
 #, fuzzy
 msgid "Weighted Smoothing"
 msgstr "Grosime linie"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:332
+#: plugins/tools/defaulttools/kis_tool_brush.cc:320
 #, fuzzy
 #| msgid "&Scale"
 msgid "Stabilizer"
 msgstr "&Scalează"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:341
+#: plugins/tools/defaulttools/kis_tool_brush.cc:329
 #, fuzzy
 msgid "Distance:"
 msgstr "Dizolvă"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:355
+#: plugins/tools/defaulttools/kis_tool_brush.cc:343
 msgid "Delay:"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:360
+#: plugins/tools/defaulttools/kis_tool_brush.cc:348
 msgid "Delay the brush stroke to make the line smoother"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:364
+#: plugins/tools/defaulttools/kis_tool_brush.cc:352
 msgid "Radius where the brush is blocked"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:370
+#: plugins/tools/defaulttools/kis_tool_brush.cc:358
 #, fuzzy
 msgid "Finish line:"
 msgstr "Unealtă &linie"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:383
+#: plugins/tools/defaulttools/kis_tool_brush.cc:371
 #, fuzzy
 #| msgid "&Scale"
 msgid "Stabilize Sensors:"
 msgstr "&Scalează"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:391
+#: plugins/tools/defaulttools/kis_tool_brush.cc:379
 #, fuzzy
 #| msgid "Saturation"
 msgid "Stroke Ending:"
 msgstr "Saturație"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:398
+#: plugins/tools/defaulttools/kis_tool_brush.cc:386
 #, fuzzy
 #| msgid "Pressure"
 msgid "Smooth Pressure"
 msgstr "Presiune"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:405
+#: plugins/tools/defaulttools/kis_tool_brush.cc:393
 msgctxt "@info:tooltip"
 msgid ""
 "Scalable distance takes zoom level into account and makes the distance be "
 "visually constant whatever zoom level is chosen"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:410
+#: plugins/tools/defaulttools/kis_tool_brush.cc:398
 #, fuzzy
 msgid "Scalable Distance"
 msgstr "Dizolvă"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:417
+#: plugins/tools/defaulttools/kis_tool_brush.cc:405
 #, fuzzy
 msgid "Assistant:"
 msgstr "Dizolvă"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:422
+#: plugins/tools/defaulttools/kis_tool_brush.cc:410
 msgid "You need to add Ruler Assistants before this tool will work."
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:427
+#: plugins/tools/defaulttools/kis_tool_brush.cc:415
 #, fuzzy
 msgid "Assistant Magnetism"
 msgstr "Violet"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:434
+#: plugins/tools/defaulttools/kis_tool_brush.cc:422
 #, fuzzy
 msgid "Toggle Assistant"
 msgstr "Dizolvă"
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:442
+#: plugins/tools/defaulttools/kis_tool_brush.cc:430
 msgctxt "@info:tooltip"
 msgid ""
 "Make it only snap to a single assistant, prevents snapping mess while using "
 "the infinite assistants."
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_brush.cc:445
+#: plugins/tools/defaulttools/kis_tool_brush.cc:433
 #, fuzzy
 msgid "Snap single:"
 msgstr "Imagine nouă"
 
-#: plugins/tools/defaulttools/kis_tool_brush.h:145
+#: plugins/tools/defaulttools/kis_tool_brush.h:146
 #, fuzzy
 msgid "Freehand Brush Tool"
 msgstr "Unealtă &pensulă"
 
-#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:254
+#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:255
 msgid "Cannot pick a color as no layer is active."
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:259
+#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:260
 msgid "Cannot pick a color as the active layer is not visible."
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:301
+#: plugins/tools/defaulttools/kis_tool_colorpicker.cc:302
 #, kde-format
 msgid "Cannot write to palette file %1. Maybe it is read-only."
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_colorpicker.h:123
+#: plugins/tools/defaulttools/kis_tool_colorpicker.h:125
 #, fuzzy
 msgid "Color Selector Tool"
 msgstr "Selecția"
@@ -10961,69 +10962,69 @@ msgstr "Dreptunghiular"
 msgid "Ellipse Tool"
 msgstr "Eliptic"
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:139
+#: plugins/tools/defaulttools/kis_tool_fill.cc:140
 #, fuzzy
 #| msgid "Not Filled"
 msgctxt "(qtundo-format)"
 msgid "Flood Fill"
 msgstr "Neumplut"
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:169
+#: plugins/tools/defaulttools/kis_tool_fill.cc:170
 #, fuzzy
 #| msgid "Exposure mode:"
 msgid "Fast mode: "
 msgstr "Regim de expunere:"
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:172
+#: plugins/tools/defaulttools/kis_tool_fill.cc:173
 msgid ""
 "Fills area faster, but does not take composition mode into account. "
 "Selections and other extended features will also be disabled."
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:177
+#: plugins/tools/defaulttools/kis_tool_fill.cc:178
 #, fuzzy
 msgid "Threshold: "
 msgstr "Prag de pictare"
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:184
+#: plugins/tools/defaulttools/kis_tool_fill.cc:185
 #, fuzzy
 msgid "Grow selection: "
 msgstr "Elimină selecția"
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:191
+#: plugins/tools/defaulttools/kis_tool_fill.cc:192
 #: plugins/tools/selectiontools/kis_tool_select_contiguous.cc:206
 #, fuzzy
 msgid "Feathering radius: "
 msgstr "&Culegător culoare"
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:198
+#: plugins/tools/defaulttools/kis_tool_fill.cc:199
 #, fuzzy
 msgid "Use pattern:"
 msgstr "Utilizează modelul curent"
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:200
+#: plugins/tools/defaulttools/kis_tool_fill.cc:201
 msgid ""
 "When checked do not use the foreground color, but the gradient selected to "
 "fill with"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:202
+#: plugins/tools/defaulttools/kis_tool_fill.cc:203
 #, fuzzy
 msgid "Limit to current layer:"
 msgstr "Utilizează modelul curent"
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:206
+#: plugins/tools/defaulttools/kis_tool_fill.cc:207
 #, fuzzy
 msgid "Fill entire selection:"
 msgstr "Selecția"
 
-#: plugins/tools/defaulttools/kis_tool_fill.cc:208
+#: plugins/tools/defaulttools/kis_tool_fill.cc:209
 msgid ""
 "When checked do not look at the current layer colors, but just fill all of "
 "the selected area"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_fill.h:99
+#: plugins/tools/defaulttools/kis_tool_fill.h:100
 #, fuzzy
 msgid "Fill Tool"
 msgstr "Eliptic"
@@ -11143,7 +11144,7 @@ msgid ""
 "+Drag will force you to draw straight lines"
 msgstr ""
 
-#: plugins/tools/defaulttools/kis_tool_line.h:113
+#: plugins/tools/defaulttools/kis_tool_line.h:114
 #, fuzzy
 msgid "Line Tool"
 msgstr "Unealtă &linie"
@@ -11216,7 +11217,7 @@ msgstr "Pensule"
 msgid "Multibrush Tool"
 msgstr "Unealtă &pensulă"
 
-#: plugins/tools/defaulttools/kis_tool_path.cc:110
+#: plugins/tools/defaulttools/kis_tool_path.cc:111
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Draw Bezier Curve"
@@ -11389,7 +11390,7 @@ msgstr "Selecția"
 msgid "Elliptical Selection"
 msgstr "Selecție &eliptică"
 
-#: plugins/tools/selectiontools/kis_tool_select_elliptical.h:74
+#: plugins/tools/selectiontools/kis_tool_select_elliptical.h:73
 #, fuzzy
 msgid "Elliptical Selection Tool"
 msgstr "Selecție &eliptică"
@@ -11485,7 +11486,7 @@ msgid "Crop"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label_horizPos)
-#. i18n: ectx: property (toolTip), widget (KIntSpinBox, intX)
+#. i18n: ectx: property (toolTip), widget (QSpinBox, intX)
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:41
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:54
 #, fuzzy
@@ -11493,7 +11494,7 @@ msgid "Horizontal Position"
 msgstr "Formă triunghiulară"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label_vertiPos)
-#. i18n: ectx: property (toolTip), widget (KIntSpinBox, intY)
+#. i18n: ectx: property (toolTip), widget (QSpinBox, intY)
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:67
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:80
 #, fuzzy
@@ -11522,7 +11523,6 @@ msgid "Will keep the width of the crop constant"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, intWidth)
-#. i18n: ectx: property (toolTip), widget (KIntSpinBox, intWidth)
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:158
 #: ui/forms/wdgrectangleconstraints.ui:36
 #, fuzzy
@@ -11536,14 +11536,13 @@ msgid "Will keep the height of the crop constant"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, intHeight)
-#. i18n: ectx: property (toolTip), widget (KIntSpinBox, intHeight)
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:181
 #: ui/forms/wdgrectangleconstraints.ui:62
 #, fuzzy
 msgid "Height"
 msgstr "Luminează"
 
-#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, doubleRatio)
+#. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, doubleRatio)
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:194
 #, fuzzy
 #| msgid "Ratio:"
@@ -12097,7 +12096,7 @@ msgstr "Șterge imaginea"
 
 #. i18n: ectx: property (text), widget (QLabel, lblFlow)
 #: plugins/tools/tool_transform2/wdg_tool_transform.ui:1754
-#: ui/kis_paintop_box.cc:210 ui/kis_paintop_box.cc:215
+#: ui/kis_paintop_box.cc:211 ui/kis_paintop_box.cc:216
 #, fuzzy
 msgid "Flow:"
 msgstr "&Ascunde/afișează plan..."
@@ -12248,51 +12247,51 @@ msgstr "Unealtă de ș&tergere"
 msgid "Clear Perspective Grid"
 msgstr "Unealtă de ș&tergere"
 
-#: ui/dialogs/kis_about_application.cpp:39
+#: ui/dialogs/kis_about_application.cpp:41
 msgid "About Krita"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:49
+#: ui/dialogs/kis_about_application.cpp:51
 msgid "About"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:55
+#: ui/dialogs/kis_about_application.cpp:57
 msgid "<html><head/><body><h1 align=\"center\">Created By</h1></p><p>"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:72
+#: ui/dialogs/kis_about_application.cpp:74
 msgid "Authors"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:77
+#: ui/dialogs/kis_about_application.cpp:79
 msgid "<html><head/><body><h1 align=\"center\">Backed By</h1><p>"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:91
+#: ui/dialogs/kis_about_application.cpp:93
 msgid ".</p><p><i>Thanks! You were all <b>awesome</b>!</i></p></body></html>"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:93
+#: ui/dialogs/kis_about_application.cpp:95
 #, fuzzy
 #| msgid "Rocks"
 msgid "Backers"
 msgstr "Stînci"
 
-#: ui/dialogs/kis_about_application.cpp:99
+#: ui/dialogs/kis_about_application.cpp:101
 msgid "<html><head/><body><h1 align=\"center\">Thanks To</h1><p>"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:117
+#: ui/dialogs/kis_about_application.cpp:119
 msgid ""
 ".</p><p><i>For supporting Krita development with advice, icons, brush sets "
 "and more.</i></p></body></html>"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:120
+#: ui/dialogs/kis_about_application.cpp:122
 msgid "Also Thanks To"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:124
+#: ui/dialogs/kis_about_application.cpp:126
 msgid ""
 "<html><head/><body><h1 align=\"center\"><b>Your Rights</h1><p>Krita is "
 "released under the GNU General Public License (version 2 or any later "
@@ -12310,7 +12309,7 @@ msgid ""
 "that will forbid your work in commercial situations.</p><br/><hr/><pre>"
 msgstr ""
 
-#: ui/dialogs/kis_about_application.cpp:152
+#: ui/dialogs/kis_about_application.cpp:154
 msgid "License"
 msgstr ""
 
@@ -12612,7 +12611,7 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Nimic"
 
-#: ui/dialogs/KisShortcutEditWidget.cpp:70 ui/KisTemplateCreateDia.cpp:160
+#: ui/dialogs/KisShortcutEditWidget.cpp:70 ui/KisTemplateCreateDia.cpp:162
 #, fuzzy
 #| msgid "&Custom:"
 msgid "Custom:"
@@ -12656,49 +12655,49 @@ msgstr "Elimină selecția"
 msgid "Matrix Widget"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QRadioButton, radioBtnPreview)
-#: ui/forms/kis_previewwidgetbase.ui:80
-msgid "Pr&eview"
-msgstr "Pr&evizualizează"
-
 #. i18n: ectx: property (toolTip), widget (QRadioButton, radioBtnPreview)
-#: ui/forms/kis_previewwidgetbase.ui:86
+#: ui/forms/kis_previewwidgetbase.ui:74
 #, fuzzy
 #| msgid "Preview"
 msgid "Preview modified layer"
 msgstr "Previzualizează"
 
-#. i18n: ectx: property (text), widget (QRadioButton, radioBtnOriginal)
-#: ui/forms/kis_previewwidgetbase.ui:93
-msgid "Ori&ginal"
-msgstr "Ori&ginal"
+#. i18n: ectx: property (text), widget (QRadioButton, radioBtnPreview)
+#: ui/forms/kis_previewwidgetbase.ui:77
+msgid "Pr&eview"
+msgstr "Pr&evizualizează"
 
 #. i18n: ectx: property (toolTip), widget (QRadioButton, radioBtnOriginal)
-#: ui/forms/kis_previewwidgetbase.ui:96
+#: ui/forms/kis_previewwidgetbase.ui:87
 msgid "Show original layer"
 msgstr "Arată stratul original"
 
-#. i18n: ectx: property (toolTip), widget (KPushButton, btnZoomOneToOne)
-#: ui/forms/kis_previewwidgetbase.ui:148
+#. i18n: ectx: property (text), widget (QRadioButton, radioBtnOriginal)
+#: ui/forms/kis_previewwidgetbase.ui:90
+msgid "Ori&ginal"
+msgstr "Ori&ginal"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, btnZoomOneToOne)
+#: ui/forms/kis_previewwidgetbase.ui:136
 msgid "1 : 1"
 msgstr "1 : 1"
 
-#. i18n: ectx: property (toolTip), widget (KPushButton, btnUpdate)
-#: ui/forms/kis_previewwidgetbase.ui:161
+#. i18n: ectx: property (toolTip), widget (QPushButton, btnUpdate)
+#: ui/forms/kis_previewwidgetbase.ui:149
 msgid "Update preview"
 msgstr "Actualizează previzualizarea"
 
+#. i18n: ectx: property (toolTip), widget (QCheckBox, checkBoxAutoUpdate)
+#: ui/forms/kis_previewwidgetbase.ui:164
+msgid "Automatically update the preview whenever the filter settings change"
+msgstr ""
+
 #. i18n: ectx: property (text), widget (QCheckBox, checkBoxAutoUpdate)
-#: ui/forms/kis_previewwidgetbase.ui:170
+#: ui/forms/kis_previewwidgetbase.ui:167
 #, fuzzy
 #| msgid "Update preview"
 msgid "&Autoupdate"
 msgstr "Actualizează previzualizarea"
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, checkBoxAutoUpdate)
-#: ui/forms/kis_previewwidgetbase.ui:176
-msgid "Automatically update the preview whenever the filter settings change"
-msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, m_alwaysUseCheckBox)
 #: ui/forms/KisDetailsPaneBase.ui:94
@@ -12711,14 +12710,14 @@ msgid "Always use this template"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, m_openExistingButton)
-#: ui/forms/KisOpenPaneBase.ui:60 ui/KisOpenPane.cpp:140
-#: ui/KisOpenPane.cpp:208
+#: ui/forms/KisOpenPaneBase.ui:60 ui/KisOpenPane.cpp:142
+#: ui/KisOpenPane.cpp:210
 msgid "Open Existing Document"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, cancelButton)
 #: ui/forms/KisOpenPaneBase.ui:67 ui/input/kis_tool_invocation_action.cpp:53
-#: ui/kis_clipboard.cc:261 ui/KisView.cpp:507
+#: ui/kis_clipboard.cc:261 ui/KisView.cpp:504
 msgid "Cancel"
 msgstr "Renunță"
 
@@ -13862,7 +13861,7 @@ msgid "&Active Channels"
 msgstr "Canale &active"
 
 #. i18n: ectx: property (text), widget (QCheckBox, checkBoxPreview)
-#: ui/forms/wdglayerproperties.ui:164 ui/KisTemplateCreateDia.cpp:155
+#: ui/forms/wdglayerproperties.ui:164 ui/KisTemplateCreateDia.cpp:157
 #, fuzzy
 msgid "&Preview"
 msgstr "Actualizează imaginea"
@@ -14420,7 +14419,7 @@ msgctxt "Action to trigger with shortcut"
 msgid "Action"
 msgstr "Selecția"
 
-#. i18n: ectx: property (text), widget (KPushButton, editProfilesButton)
+#. i18n: ectx: property (text), widget (QPushButton, editProfilesButton)
 #: ui/input/config/kis_edit_profiles_dialog.cpp:66
 #: ui/input/config/kis_input_configuration_page.ui:51
 #, fuzzy
@@ -14444,44 +14443,44 @@ msgid ""
 "You will lose all changes to any input profiles. Do you wish to continue?"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (KPushButton, renameButton)
-#: ui/input/config/kis_edit_profiles_dialog.ui:17
-#, fuzzy
-msgid "Rename"
-msgstr "Legată"
-
-#. i18n: ectx: property (text), widget (KPushButton, removeButton)
-#: ui/input/config/kis_edit_profiles_dialog.ui:30
-#, fuzzy
-msgid "Remove"
-msgstr "Șterge plan"
-
-#. i18n: ectx: property (text), widget (KPushButton, duplicateButton)
-#: ui/input/config/kis_edit_profiles_dialog.ui:40
+#. i18n: ectx: property (text), widget (QPushButton, duplicateButton)
+#: ui/input/config/kis_edit_profiles_dialog.ui:20
 #, fuzzy
 msgid "Duplicate"
 msgstr "&Următorul plan..."
 
-#. i18n: ectx: property (text), widget (KPushButton, resetButton)
-#: ui/input/config/kis_edit_profiles_dialog.ui:50
+#. i18n: ectx: property (text), widget (QPushButton, resetButton)
+#: ui/input/config/kis_edit_profiles_dialog.ui:30
 #, fuzzy
 msgid "Reset All"
 msgstr "Selecția"
 
-#: ui/input/config/kis_input_button.cpp:53
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: ui/input/config/kis_edit_profiles_dialog.ui:40
+#, fuzzy
+msgid "Remove"
+msgstr "Șterge plan"
+
+#. i18n: ectx: property (text), widget (QPushButton, renameButton)
+#: ui/input/config/kis_edit_profiles_dialog.ui:47
+#, fuzzy
+msgid "Rename"
+msgstr "Legată"
+
+#: ui/input/config/kis_input_button.cpp:54
 #, fuzzy
 #| msgid "None"
 msgctxt "No input for this button"
 msgid "None"
 msgstr "Nimic"
 
-#: ui/input/config/kis_input_button.cpp:140
-#: ui/input/config/kis_input_button.cpp:202
+#: ui/input/config/kis_input_button.cpp:141
+#: ui/input/config/kis_input_button.cpp:203
 msgctxt "Waiting for user input"
 msgid "Input..."
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (KPushButton, editProfilesButton)
+#. i18n: ectx: property (toolTip), widget (QPushButton, editProfilesButton)
 #: ui/input/config/kis_input_configuration_page.ui:48
 #, fuzzy
 msgid "Duplicate current profile"
@@ -14512,7 +14511,7 @@ msgstr "Metoda de combinare"
 
 #. i18n: ectx: property (text), widget (QLabel, mouseLabel)
 #: ui/input/config/kis_input_type_delegate.cpp:48
-#: ui/input/config/kis_mouse_input_editor.ui:69
+#: ui/input/config/kis_mouse_input_editor.ui:59
 msgid "Mouse Button"
 msgstr ""
 
@@ -14530,18 +14529,18 @@ msgid "Edit Key Combination"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, keysLabel)
-#: ui/input/config/kis_key_input_editor.ui:52
+#: ui/input/config/kis_key_input_editor.ui:42
 msgid "Keys"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, modifiersLabel)
-#: ui/input/config/kis_mouse_input_editor.ui:56
-#: ui/input/config/kis_wheel_input_editor.ui:85
+#: ui/input/config/kis_mouse_input_editor.ui:46
+#: ui/input/config/kis_wheel_input_editor.ui:75
 msgid "Modifiers"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: ui/input/config/kis_mouse_input_editor.ui:95
+#: ui/input/config/kis_mouse_input_editor.ui:75
 msgid "Edit Mouse Input"
 msgstr ""
 
@@ -14887,11 +14886,11 @@ msgstr "Palete"
 msgid "The <i>Show Popup Palette</i> displays the popup palette."
 msgstr ""
 
-#: ui/input/kis_tablet_debugger.cpp:96
+#: ui/input/kis_tablet_debugger.cpp:101
 msgid "Tablet Event Logging Enabled"
 msgstr ""
 
-#: ui/input/kis_tablet_debugger.cpp:97
+#: ui/input/kis_tablet_debugger.cpp:102
 msgid "Tablet Event Logging Disabled"
 msgstr ""
 
@@ -14951,19 +14950,19 @@ msgstr ""
 msgid "Fit to Width"
 msgstr "&Lungime"
 
-#: ui/input/wintab/kis_screen_size_choice_dialog.cpp:32
+#: ui/input/wintab/kis_screen_size_choice_dialog.cpp:33
 #, kde-format
 msgctxt "Screen rect when choosing Wintab/Qt settings"
 msgid "%1x%2 offset: %3,%4"
 msgstr ""
 
-#: ui/input/wintab/kis_screen_size_choice_dialog.cpp:58
+#: ui/input/wintab/kis_screen_size_choice_dialog.cpp:59
 #, kde-format
 msgctxt "@option:radio"
 msgid "%1 (Wintab)"
 msgstr ""
 
-#: ui/input/wintab/kis_screen_size_choice_dialog.cpp:59
+#: ui/input/wintab/kis_screen_size_choice_dialog.cpp:60
 #, kde-format
 msgctxt "@option:radio"
 msgid "%1 (Qt)"
@@ -15053,32 +15052,32 @@ msgstr ""
 msgid "Favorites"
 msgstr "&Alb"
 
-#: ui/kis_control_frame.cpp:80 ui/kis_control_frame.cpp:81
+#: ui/kis_control_frame.cpp:81 ui/kis_control_frame.cpp:82
 #, fuzzy
 msgid "Fill Patterns"
 msgstr "Modele"
 
-#: ui/kis_control_frame.cpp:83
+#: ui/kis_control_frame.cpp:85
 #, fuzzy
 msgid "&Patterns"
 msgstr "Modele"
 
-#: ui/kis_control_frame.cpp:91
+#: ui/kis_control_frame.cpp:94
 #, fuzzy
 msgid "&Gradients"
 msgstr "Gradienți"
 
-#: ui/kis_control_frame.cpp:104
+#: ui/kis_control_frame.cpp:108
 #, fuzzy
 msgid "&Color"
 msgstr "Culoare"
 
-#: ui/kis_control_frame.cpp:120
+#: ui/kis_control_frame.cpp:125
 #, fuzzy
 msgid "&Painter's Tools"
 msgstr "Unelte de desenare"
 
-#: ui/kis_control_frame.cpp:158 ui/kis_control_frame.cpp:160
+#: ui/kis_control_frame.cpp:163 ui/kis_control_frame.cpp:165
 #, fuzzy
 msgid "Custom Pattern"
 msgstr "Modele"
@@ -15155,104 +15154,104 @@ msgstr "Culoare fundal"
 msgid "Import Image"
 msgstr "Importă imagine"
 
-#: ui/kis_layer_manager.cc:294
+#: ui/kis_layer_manager.cc:296
 #, fuzzy
 msgid "&Flatten image"
 msgstr "Șterge imaginea"
 
-#: ui/kis_layer_manager.cc:306
+#: ui/kis_layer_manager.cc:308
 #, fuzzy
 msgid "&Flatten Layer"
 msgstr "&Alb"
 
-#: ui/kis_layer_manager.cc:311
+#: ui/kis_layer_manager.cc:313
 #, fuzzy
 msgid "Rename current layer"
 msgstr "Șterge imaginea curentă"
 
-#: ui/kis_layer_manager.cc:317
+#: ui/kis_layer_manager.cc:319
 #, fuzzy
 msgid "Rasterize Layer"
 msgstr "Șterge plan"
 
-#: ui/kis_layer_manager.cc:323
+#: ui/kis_layer_manager.cc:325
 #, fuzzy
 msgid "Save Group Layers..."
 msgstr "&Adaugă plan..."
 
-#: ui/kis_layer_manager.cc:328
+#: ui/kis_layer_manager.cc:330
 #, fuzzy
 msgid "Trim to Current Layer"
 msgstr "Utilizează modelul curent"
 
-#: ui/kis_layer_manager.cc:333
+#: ui/kis_layer_manager.cc:335
 #, fuzzy
 msgid "Trim to Image Size"
 msgstr "Imagine nouă"
 
-#: ui/kis_layer_manager.cc:338
+#: ui/kis_layer_manager.cc:340
 #, fuzzy
 msgid "Layer Style..."
 msgstr "&Adaugă plan..."
 
-#: ui/kis_layer_manager.cc:379
+#: ui/kis_layer_manager.cc:381
 #, fuzzy
 msgctxt "floating message in layer manager"
 msgid "Layer is empty "
 msgstr "Imagine"
 
-#: ui/kis_layer_manager.cc:406
+#: ui/kis_layer_manager.cc:408
 #, fuzzy
 msgid "Filter Layer Properties"
 msgstr "Proprietăți plan..."
 
-#: ui/kis_layer_manager.cc:451
+#: ui/kis_layer_manager.cc:453
 #, fuzzy
 msgid "Fill Layer Properties"
 msgstr "Proprietăți plan..."
 
-#: ui/kis_layer_manager.cc:532
+#: ui/kis_layer_manager.cc:534
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Convert to a Paint Layer"
 msgstr "Utilizează modelul curent"
 
-#: ui/kis_layer_manager.cc:613
+#: ui/kis_layer_manager.cc:615
 #, fuzzy
 msgid "New Filter Layer"
 msgstr "&Alb"
 
-#: ui/kis_layer_manager.cc:676
+#: ui/kis_layer_manager.cc:678
 msgid "Could not add layer to image."
 msgstr ""
 
-#: ui/kis_layer_manager.cc:762
+#: ui/kis_layer_manager.cc:764
 #, fuzzy
 msgctxt "@title:window"
 msgid "Flatten Image"
 msgstr "Șterge imaginea"
 
-#: ui/kis_layer_manager.cc:763
+#: ui/kis_layer_manager.cc:765
 msgid ""
 "The image contains hidden layers that will be lost. Do you want to flatten "
 "the image?"
 msgstr ""
 
-#: ui/kis_layer_manager.cc:861
+#: ui/kis_layer_manager.cc:863
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Rasterize Layer"
 msgstr "Șterge plan"
 
-#: ui/kis_layer_manager.cc:897
+#: ui/kis_layer_manager.cc:899
 msgid "Convert Invisible Groups"
 msgstr ""
 
-#: ui/kis_layer_manager.cc:900
+#: ui/kis_layer_manager.cc:902
 msgid "Export Only Toplevel Groups"
 msgstr ""
 
-#: ui/kis_layer_manager.cc:957
+#: ui/kis_layer_manager.cc:959
 msgid "No file name specified"
 msgstr ""
 
@@ -15315,202 +15314,202 @@ msgstr "Proprietăți plan..."
 msgid "Mirror View"
 msgstr "Salvează planul ca imagine..."
 
-#: ui/kis_node_manager.cpp:243
+#: ui/kis_node_manager.cpp:245
 #, fuzzy
 #| msgid "Horizontal:"
 msgid "Mirror Layer Horizontally"
 msgstr "Orizontal:"
 
-#: ui/kis_node_manager.cpp:249
+#: ui/kis_node_manager.cpp:251
 #, fuzzy
 #| msgid "Vertical:"
 msgid "Mirror Layer Vertically"
 msgstr "Vertical:"
 
-#: ui/kis_node_manager.cpp:255
+#: ui/kis_node_manager.cpp:257
 #, fuzzy
 msgid "Activate next layer"
 msgstr "Șterge plan"
 
-#: ui/kis_node_manager.cpp:261
+#: ui/kis_node_manager.cpp:263
 #, fuzzy
 msgid "Activate previous layer"
 msgstr "Șterge plan"
 
-#: ui/kis_node_manager.cpp:267
+#: ui/kis_node_manager.cpp:269
 #, fuzzy
 msgid "Save Layer/Mask..."
 msgstr "Salvează planul ca imagine..."
 
-#: ui/kis_node_manager.cpp:272
+#: ui/kis_node_manager.cpp:274
 #, fuzzy
 msgid "&Duplicate Layer or Mask"
 msgstr "&Următorul plan..."
 
-#: ui/kis_node_manager.cpp:279
+#: ui/kis_node_manager.cpp:281
 #, fuzzy
 msgid "&Paint Layer"
 msgstr "Plan"
 
-#: ui/kis_node_manager.cpp:283
+#: ui/kis_node_manager.cpp:285
 #, fuzzy
 msgid "&Group Layer"
 msgstr "&Adaugă plan..."
 
-#: ui/kis_node_manager.cpp:287
+#: ui/kis_node_manager.cpp:289
 #, fuzzy
 msgid "&Clone Layer"
 msgstr "&Următorul plan..."
 
-#: ui/kis_node_manager.cpp:290
+#: ui/kis_node_manager.cpp:292
 #, fuzzy
 msgid "&Vector Layer"
 msgstr "&Următorul plan..."
 
-#: ui/kis_node_manager.cpp:293
+#: ui/kis_node_manager.cpp:295
 #, fuzzy
 msgid "&Filter Layer..."
 msgstr "&Alb"
 
-#: ui/kis_node_manager.cpp:296
+#: ui/kis_node_manager.cpp:298
 #, fuzzy
 msgid "&Fill Layer..."
 msgstr "&Alb"
 
-#: ui/kis_node_manager.cpp:299
+#: ui/kis_node_manager.cpp:301
 #, fuzzy
 msgid "&File Layer..."
 msgstr "&Alb"
 
-#: ui/kis_node_manager.cpp:302
+#: ui/kis_node_manager.cpp:304
 #, fuzzy
 msgid "&Transparency Mask"
 msgstr "FG la transparent"
 
-#: ui/kis_node_manager.cpp:305
+#: ui/kis_node_manager.cpp:307
 #, fuzzy
 msgid "&Filter Mask..."
 msgstr "&Alb"
 
-#: ui/kis_node_manager.cpp:308
+#: ui/kis_node_manager.cpp:310
 #, fuzzy
 msgid "&Transform Mask..."
 msgstr "Unealtă de ș&tergere"
 
-#: ui/kis_node_manager.cpp:311
+#: ui/kis_node_manager.cpp:313
 #, fuzzy
 msgid "&Local Selection"
 msgstr "Selecția"
 
-#: ui/kis_node_manager.cpp:317
+#: ui/kis_node_manager.cpp:319
 #, fuzzy
 msgid "to &Paint Layer"
 msgstr "Plan"
 
-#: ui/kis_node_manager.cpp:320
+#: ui/kis_node_manager.cpp:322
 #, fuzzy
 msgid "to &Selection Mask"
 msgstr "Selecția"
 
-#: ui/kis_node_manager.cpp:323
+#: ui/kis_node_manager.cpp:325
 #, fuzzy
 msgid "to &Filter Mask..."
 msgstr "&Alb"
 
-#: ui/kis_node_manager.cpp:326
+#: ui/kis_node_manager.cpp:328
 #, fuzzy
 msgid "to &Transparency Mask"
 msgstr "FG la transparent"
 
-#: ui/kis_node_manager.cpp:332
+#: ui/kis_node_manager.cpp:334
 #, fuzzy
 msgid "&Isolate Layer"
 msgstr "&Alb"
 
-#: ui/kis_node_manager.cpp:338
+#: ui/kis_node_manager.cpp:340
 #, fuzzy
 msgid "Alpha into Mask"
 msgstr "Alfa"
 
-#: ui/kis_node_manager.cpp:344
+#: ui/kis_node_manager.cpp:346
 #, fuzzy
 msgid "Write as Alpha"
 msgstr "&Culegător culoare"
 
-#: ui/kis_node_manager.cpp:350
+#: ui/kis_node_manager.cpp:352
 #, fuzzy
 msgid "Save Merged..."
 msgstr "Șterge imaginea"
 
-#: ui/kis_node_manager.cpp:543
+#: ui/kis_node_manager.cpp:545
 #, fuzzy
 #| msgid "&Layer Selection"
 msgctxt "(qtundo-format)"
 msgid "Convert to a Selection Mask"
 msgstr "Se&lecția stratului"
 
-#: ui/kis_node_manager.cpp:798
+#: ui/kis_node_manager.cpp:800
 #, fuzzy
 #| msgid "Remove Layer"
 msgctxt "(qtundo-format)"
 msgid "Remove Last Layer"
 msgstr "Șterge plan"
 
-#: ui/kis_node_manager.cpp:812
+#: ui/kis_node_manager.cpp:814
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Remove Multiple Layers and Masks"
 msgstr "Șterge plan"
 
-#: ui/kis_node_manager.cpp:840
+#: ui/kis_node_manager.cpp:842
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Mirror Layer X"
 msgstr "Mută plan"
 
-#: ui/kis_node_manager.cpp:842
+#: ui/kis_node_manager.cpp:844
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Mirror Mask X"
 msgstr "Mută plan"
 
-#: ui/kis_node_manager.cpp:853
+#: ui/kis_node_manager.cpp:855
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Mirror Layer Y"
 msgstr "Mută plan"
 
-#: ui/kis_node_manager.cpp:855
+#: ui/kis_node_manager.cpp:857
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Mirror Mask Y"
 msgstr "Mută plan"
 
-#: ui/kis_node_manager.cpp:974
+#: ui/kis_node_manager.cpp:976
 #, fuzzy, kde-format
 #| msgid "Export"
 msgid "Export \"%1\""
 msgstr "Exportă"
 
-#: ui/kis_node_manager.cpp:1047
+#: ui/kis_node_manager.cpp:1050
 msgctxt "(qtundo-format)"
 msgid "Split Alpha into a Mask"
 msgstr ""
 
-#: ui/kis_node_manager.cpp:1077
+#: ui/kis_node_manager.cpp:1080
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Layer %1 is not editable"
 msgstr "Imagine"
 
-#: ui/kis_node_manager.cpp:1078
+#: ui/kis_node_manager.cpp:1081
 #, kde-format
 msgid ""
 "Cannot write alpha channel of the parent layer \"%1\".\n"
 "The operation will be cancelled."
 msgstr ""
 
-#: ui/kis_node_manager.cpp:1109
+#: ui/kis_node_manager.cpp:1112
 #, fuzzy
 #| msgid "Create a new mask or layer"
 msgctxt "(qtundo-format)"
@@ -15526,101 +15525,101 @@ msgstr ""
 msgid "Show Assistant Previews"
 msgstr "Dizolvă"
 
-#: ui/kis_paintop_box.cc:111
+#: ui/kis_paintop_box.cc:112
 #, fuzzy
 msgid "Painter's Toolchest"
 msgstr "Unelte de desenare"
 
-#: ui/kis_paintop_box.cc:119
+#: ui/kis_paintop_box.cc:120
 #, fuzzy
 #| msgid "Color Settings"
 msgid "Tool Settings"
 msgstr "Configurări culoare"
 
-#: ui/kis_paintop_box.cc:125
+#: ui/kis_paintop_box.cc:126
 #, fuzzy
 msgid "Edit brush settings"
 msgstr "Proprietăți plan..."
 
-#: ui/kis_paintop_box.cc:130
+#: ui/kis_paintop_box.cc:131
 #, fuzzy
 msgid "Choose brush preset"
 msgstr "Proprietăți plan..."
 
-#: ui/kis_paintop_box.cc:137
+#: ui/kis_paintop_box.cc:138
 #, fuzzy
 msgid "Set eraser mode"
 msgstr "Selecția"
 
-#: ui/kis_paintop_box.cc:151
+#: ui/kis_paintop_box.cc:152
 msgid "Reload Original Preset"
 msgstr ""
 
-#: ui/kis_paintop_box.cc:160
+#: ui/kis_paintop_box.cc:161
 #, fuzzy
 msgid "Preserve Alpha"
 msgstr "&Culegător culoare"
 
-#: ui/kis_paintop_box.cc:171
+#: ui/kis_paintop_box.cc:172
 #, fuzzy
 msgid "Set horizontal mirror mode"
 msgstr "Formă triunghiulară"
 
-#: ui/kis_paintop_box.cc:182
+#: ui/kis_paintop_box.cc:183
 #, fuzzy
 msgid "Set vertical mirror mode"
 msgstr "Selecția"
 
-#: ui/kis_paintop_box.cc:254
+#: ui/kis_paintop_box.cc:255
 #, fuzzy
 msgid "Choose workspace"
 msgstr "&Culegător culoare"
 
-#: ui/kis_paintop_box.cc:286
+#: ui/kis_paintop_box.cc:288
 #, fuzzy
 msgid "Brush composite"
 msgstr "Pensule"
 
-#: ui/kis_paintop_box.cc:290
+#: ui/kis_paintop_box.cc:293
 #, fuzzy
 msgid "Brush option slider 1"
 msgstr "Albastru"
 
-#: ui/kis_paintop_box.cc:296
+#: ui/kis_paintop_box.cc:300
 #, fuzzy
 msgid "Brush option slider 2"
 msgstr "Albastru"
 
-#: ui/kis_paintop_box.cc:302
+#: ui/kis_paintop_box.cc:307
 #, fuzzy
 msgid "Brush option slider 3"
 msgstr "Albastru"
 
-#: ui/kis_paintop_box.cc:308
+#: ui/kis_paintop_box.cc:314
 #, fuzzy
 msgid "Next Favourite Preset"
 msgstr "&Alb"
 
-#: ui/kis_paintop_box.cc:313
+#: ui/kis_paintop_box.cc:320
 #, fuzzy
 msgid "Previous Favourite Preset"
 msgstr "&Alb"
 
-#: ui/kis_paintop_box.cc:318
+#: ui/kis_paintop_box.cc:326
 msgid "Switch to Previous Preset"
 msgstr ""
 
-#: ui/kis_paintop_box.cc:324
+#: ui/kis_paintop_box.cc:333
 #, fuzzy
 msgid "Show Tool Options"
 msgstr "Alfa"
 
-#: ui/kis_paintop_box.cc:330
+#: ui/kis_paintop_box.cc:340
 #, fuzzy
 msgid "Show Brush Editor"
 msgstr "Pensule"
 
-#: ui/kis_paintop_box.cc:335
+#: ui/kis_paintop_box.cc:346
 #, fuzzy
 #| msgid "Presets:"
 msgid "Show Brush Presets"
@@ -15835,34 +15834,34 @@ msgid ""
 "Files</span></b></p>"
 msgstr ""
 
-#: ui/kis_statusbar.cc:194
+#: ui/kis_statusbar.cc:192
 msgctxt "very shortened 'byte' suffix (for statusbar)"
 msgid "b"
 msgstr ""
 
-#: ui/kis_statusbar.cc:198
+#: ui/kis_statusbar.cc:196
 #, fuzzy
 #| msgid "&OK"
 msgctxt "very shortened KiB suffix (for statusbar)"
 msgid "K"
 msgstr "&OK"
 
-#: ui/kis_statusbar.cc:203
+#: ui/kis_statusbar.cc:201
 msgctxt "very shortened MiB suffix (for statusbar)"
 msgid "M"
 msgstr ""
 
-#: ui/kis_statusbar.cc:208
+#: ui/kis_statusbar.cc:206
 msgctxt "very shortened GiB suffix (for statusbar)"
 msgid "G"
 msgstr ""
 
-#: ui/kis_statusbar.cc:213
+#: ui/kis_statusbar.cc:211
 msgctxt "very shortened TiB suffix (for statusbar)"
 msgid "T"
 msgstr ""
 
-#: ui/kis_statusbar.cc:227
+#: ui/kis_statusbar.cc:225
 #, kde-format
 msgctxt "tooltip on statusbar memory reporting button"
 msgid ""
@@ -15876,7 +15875,7 @@ msgid ""
 "Swap used:\t %9"
 msgstr ""
 
-#: ui/kis_statusbar.cc:259
+#: ui/kis_statusbar.cc:257
 msgctxt "tooltip on statusbar memory reporting button"
 msgid ""
 "\n"
@@ -15885,58 +15884,58 @@ msgid ""
 "\t\tPlease configure more RAM for Krita in Settings dialog"
 msgstr ""
 
-#: ui/kis_statusbar.cc:286
+#: ui/kis_statusbar.cc:284
 msgid "Hidden"
 msgstr ""
 
-#: ui/kis_statusbar.cc:288
+#: ui/kis_statusbar.cc:286
 msgid "Ants"
 msgstr ""
 
-#: ui/kis_statusbar.cc:288
+#: ui/kis_statusbar.cc:286
 #, fuzzy
 #| msgid "&Mask"
 msgid "Mask"
 msgstr "&Mască"
 
-#: ui/kis_statusbar.cc:291
+#: ui/kis_statusbar.cc:289
 #, kde-format
 msgid ""
 "Selection: x = %1 y = %2 width = %3 height = %4\n"
 "Display Mode: %5"
 msgstr ""
 
-#: ui/kis_statusbar.cc:296
+#: ui/kis_statusbar.cc:294
 #, fuzzy
 msgid "No Selection"
 msgstr "Elimină selecția"
 
-#: ui/kis_statusbar.cc:315
+#: ui/kis_statusbar.cc:313
 msgid "No profile"
 msgstr ""
 
-#: ui/kis_zoom_manager.cc:244
+#: ui/kis_zoom_manager.cc:243
 #, fuzzy, kde-format
 msgctxt "floating message about zoom"
 msgid "Zoom: %1 %"
 msgstr "&Mărește"
 
-#: ui/KisApplication.cpp:251
+#: ui/KisApplication.cpp:241
 #, fuzzy, kde-format
 msgid "No template found for: %1"
 msgstr "Proprietăți plan..."
 
-#: ui/KisApplication.cpp:254
+#: ui/KisApplication.cpp:244
 #, kde-format
 msgid "Too many templates found for: %1"
 msgstr ""
 
-#: ui/KisApplication.cpp:279
+#: ui/KisApplication.cpp:269
 #, kde-format
 msgid "Template %1 failed to load."
 msgstr ""
 
-#: ui/KisApplication.cpp:305
+#: ui/KisApplication.cpp:295
 #, kde-format
 msgid ""
 "Failed to clear %1\n"
@@ -15944,25 +15943,25 @@ msgid ""
 "Please make sure no other program is using the file and try again."
 msgstr ""
 
-#: ui/KisApplication.cpp:326
+#: ui/KisApplication.cpp:316
 msgid "Do you want to clear the settings file?"
 msgstr ""
 
-#: ui/KisApplication.cpp:342 ui/opengl/kis_opengl_canvas2.cpp:294
+#: ui/KisApplication.cpp:332 ui/opengl/kis_opengl_canvas2.cpp:304
 #, fuzzy
 #| msgid "Warning!"
 msgctxt "@title:window"
 msgid "Krita: Warning"
 msgstr "Atenție!"
 
-#: ui/KisApplication.cpp:343
+#: ui/KisApplication.cpp:333
 msgid ""
 "You are running a 32 bits build on a 64 bits Windows.\n"
 "This is not recommended.\n"
 "Please download and install the x64 build instead."
 msgstr ""
 
-#: ui/KisApplication.cpp:485
+#: ui/KisApplication.cpp:476
 msgid "Mimetype not found, try using the -mimetype option"
 msgstr ""
 
@@ -16019,66 +16018,66 @@ msgid ""
 "discarded."
 msgstr ""
 
-#: ui/KisDocument.cpp:699
+#: ui/KisDocument.cpp:697
 msgid "Making backup..."
 msgstr ""
 
-#: ui/KisDocument.cpp:714
+#: ui/KisDocument.cpp:712
 #, fuzzy
 msgid "Saving..."
 msgstr "Redenumește imagine"
 
-#: ui/KisDocument.cpp:742
+#: ui/KisDocument.cpp:741
 #, fuzzy, kde-format
 msgid ""
 "Could not save\n"
 "%1"
 msgstr "Elimină selecția"
 
-#: ui/KisDocument.cpp:744
+#: ui/KisDocument.cpp:743
 #, fuzzy, kde-format
 msgid ""
 "Could not save %1\n"
 "Reason: %2"
 msgstr "Elimină selecția"
 
-#: ui/KisDocument.cpp:854
+#: ui/KisDocument.cpp:853
 msgid ""
 "The password of this encrypted document is not known. Autosave aborted! "
 "Please save your work manually."
 msgstr ""
 
-#: ui/KisDocument.cpp:857
+#: ui/KisDocument.cpp:856
 msgid "Autosaving..."
 msgstr ""
 
-#: ui/KisDocument.cpp:869
+#: ui/KisDocument.cpp:868
 msgid "Error during autosave! Partition full?"
 msgstr ""
 
-#: ui/KisDocument.cpp:956
+#: ui/KisDocument.cpp:955
 msgid "Could not create the file for saving"
 msgstr ""
 
-#: ui/KisDocument.cpp:981
+#: ui/KisDocument.cpp:980
 #, kde-format
 msgid "Not able to write '%1'. Partition full?"
 msgstr ""
 
-#: ui/KisDocument.cpp:1206
+#: ui/KisDocument.cpp:1204
 #, kde-format
 msgid ""
 "Malformed URL\n"
 "%1"
 msgstr ""
 
-#: ui/KisDocument.cpp:1221
+#: ui/KisDocument.cpp:1219
 msgid ""
 "An autosaved file exists for this document.\n"
 "Do you want to open it instead?"
 msgstr ""
 
-#: ui/KisDocument.cpp:1266
+#: ui/KisDocument.cpp:1264
 #, kde-format
 msgid "File %1 does not exist."
 msgstr ""
@@ -16180,7 +16179,7 @@ msgid ""
 "Error message: %4"
 msgstr ""
 
-#: ui/KisDocument.cpp:1545 ui/KisMainWindow.cpp:701
+#: ui/KisDocument.cpp:1545 ui/KisMainWindow.cpp:699
 #, kde-format
 msgid "The file %1 does not exist."
 msgstr ""
@@ -16301,11 +16300,11 @@ msgstr "Galben"
 msgid "Iptc"
 msgstr ""
 
-#: ui/KisImportExportManager.cpp:230 ui/KisImportExportManager.cpp:241
+#: ui/KisImportExportManager.cpp:235 ui/KisImportExportManager.cpp:246
 msgid "Could not export file: the export filter is missing."
 msgstr ""
 
-#: ui/KisImportExportManager.cpp:536
+#: ui/KisImportExportManager.cpp:541
 #, fuzzy, kde-format
 msgid ""
 "Could not import file of type\n"
@@ -16317,216 +16316,216 @@ msgstr "Culoare"
 msgid "Choose Filter"
 msgstr "&Alb"
 
-#: ui/KisMainWindow.cpp:180
+#: ui/KisMainWindow.cpp:178
 #, fuzzy
 #| msgid "Rocks"
 msgctxt "@action:inmenu"
 msgid "&Dockers"
 msgstr "Stînci"
 
-#: ui/KisMainWindow.cpp:181
+#: ui/KisMainWindow.cpp:179
 #, fuzzy
 #| msgid "Maintainer"
 msgctxt "@action:inmenu"
 msgid "&Window"
 msgstr "Responsabil"
 
-#: ui/KisMainWindow.cpp:182
+#: ui/KisMainWindow.cpp:180
 #, fuzzy
 #| msgid "Image Size"
 msgctxt "@action:inmenu"
 msgid "New &View"
 msgstr "Dimensiune imagine"
 
-#: ui/KisMainWindow.cpp:432
+#: ui/KisMainWindow.cpp:430
 #, fuzzy, kde-format
 #| msgid "Show root layer"
 msgid "Show %1 Toolbar"
 msgstr "Arată stratul-rădăcină"
 
-#: ui/KisMainWindow.cpp:434
+#: ui/KisMainWindow.cpp:432
 #, fuzzy, kde-format
 #| msgid "&Tools"
 msgid "Hide %1 Toolbar"
 msgstr "&Unelte"
 
-#: ui/KisMainWindow.cpp:656
+#: ui/KisMainWindow.cpp:654
 msgid "(write protected)"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:664
+#: ui/KisMainWindow.cpp:662
 #, fuzzy, kde-format
 #| msgid "Scale factor"
 msgid "Save as %1"
 msgstr "Factor scalare"
 
-#: ui/KisMainWindow.cpp:866
+#: ui/KisMainWindow.cpp:867
 #, fuzzy
 #| msgid "untitled-1"
 msgid "untitled"
 msgstr "neintitulat-1"
 
-#: ui/KisMainWindow.cpp:1176
+#: ui/KisMainWindow.cpp:1179
 #, fuzzy
 msgid "All files (*.*)"
 msgstr "Proprietăți plan..."
 
-#: ui/KisMainWindow.cpp:1179
+#: ui/KisMainWindow.cpp:1182
 #, fuzzy
 msgid "Import Images"
 msgstr "Importă imagine"
 
-#: ui/KisMainWindow.cpp:1179
+#: ui/KisMainWindow.cpp:1182
 #, fuzzy
 #| msgid "Image"
 msgid "Open Images"
 msgstr "Imagine"
 
-#: ui/KisMainWindow.cpp:1403
+#: ui/KisMainWindow.cpp:1407
 #, fuzzy
 msgid "Export as PDF"
 msgstr "Exportă imagine"
 
-#: ui/KisMainWindow.cpp:1445
+#: ui/KisMainWindow.cpp:1449
 msgid "Cannot export to the specified file"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:1577
+#: ui/KisMainWindow.cpp:1581
 msgid ""
 "You will lose all changes made since your last save\n"
 "Do you want to continue?"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:1588
+#: ui/KisMainWindow.cpp:1592
 #, fuzzy
 msgid "Error: Could not reload this document"
 msgstr "Elimină selecția"
 
-#: ui/KisMainWindow.cpp:1843
+#: ui/KisMainWindow.cpp:1847
 #, kde-format
 msgid "&%1 %2"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:1846
+#: ui/KisMainWindow.cpp:1850
 #, kde-format
 msgid "%1 %2"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:1931
+#: ui/KisMainWindow.cpp:1935
 msgid ""
 "The Calligra LittleCMS color management plugin is not installed. Krita will "
 "quit now."
 msgstr ""
 
-#: ui/KisMainWindow.cpp:1939
+#: ui/KisMainWindow.cpp:1943
 msgid "Krita cannot find any brush presets! Krita will quit now."
 msgstr ""
 
-#: ui/KisMainWindow.cpp:1948
+#: ui/KisMainWindow.cpp:1952
 #, fuzzy
 msgctxt "@title:window"
 msgid "Installation error"
 msgstr "Plan"
 
-#: ui/KisMainWindow.cpp:2013
+#: ui/KisMainWindow.cpp:2018
 #, kde-format
 msgid "%1 unsaved document (%2)"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:2049
+#: ui/KisMainWindow.cpp:2054
 #, fuzzy
 msgctxt "@action:inmenu"
 msgid "Export as PDF..."
 msgstr "Exportă imagine"
 
-#: ui/KisMainWindow.cpp:2057
+#: ui/KisMainWindow.cpp:2062
 #, fuzzy
 #| msgid "Close"
 msgctxt "@action:inmenu"
 msgid "Close All"
 msgstr "Închide"
 
-#: ui/KisMainWindow.cpp:2068
+#: ui/KisMainWindow.cpp:2073
 msgctxt "@action:inmenu"
 msgid "Open ex&isting Document as Untitled Document..."
 msgstr ""
 
-#: ui/KisMainWindow.cpp:2072
+#: ui/KisMainWindow.cpp:2077
 #, fuzzy
 #| msgid "Export"
 msgctxt "@action:inmenu"
 msgid "E&xport..."
 msgstr "Exportă"
 
-#: ui/KisMainWindow.cpp:2079
+#: ui/KisMainWindow.cpp:2084
 #, fuzzy
 msgctxt "@action:inmenu"
 msgid "Document Information"
 msgstr "Culoare"
 
-#: ui/KisMainWindow.cpp:2087
+#: ui/KisMainWindow.cpp:2092
 msgctxt "@action:inmenu"
 msgid "&Themes"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:2093
+#: ui/KisMainWindow.cpp:2098
 #, fuzzy
 #| msgid "Rocks"
 msgctxt "@action:inmenu"
 msgid "Show Dockers"
 msgstr "Stînci"
 
-#: ui/KisMainWindow.cpp:2099
+#: ui/KisMainWindow.cpp:2104
 #, fuzzy
 #| msgid "Rocks"
 msgctxt "@action:inmenu"
 msgid "Show Docker Titlebars"
 msgstr "Stînci"
 
-#: ui/KisMainWindow.cpp:2109
+#: ui/KisMainWindow.cpp:2114
 msgctxt "@action:inmenu"
 msgid "Cascade"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:2114
+#: ui/KisMainWindow.cpp:2119
 msgctxt "@action:inmenu"
 msgid "Tile"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:2119
+#: ui/KisMainWindow.cpp:2124
 msgctxt "@action:inmenu"
 msgid "Next"
 msgstr ""
 
-#: ui/KisMainWindow.cpp:2124
+#: ui/KisMainWindow.cpp:2129
 #, fuzzy
 msgctxt "@action:inmenu"
 msgid "Previous"
 msgstr "&Alb"
 
-#: ui/KisMainWindow.cpp:2129
+#: ui/KisMainWindow.cpp:2134
 #, fuzzy
 #| msgid "Maintainer"
 msgctxt "@action:inmenu"
 msgid "&New Window"
 msgstr "Responsabil"
 
-#: ui/KisMainWindow.cpp:2133
+#: ui/KisMainWindow.cpp:2138
 #, fuzzy
 #| msgid "Close"
 msgctxt "@action:inmenu"
 msgid "Close"
 msgstr "Închide"
 
-#: ui/KisMainWindow.cpp:2141
+#: ui/KisMainWindow.cpp:2146
 msgid "Expanding Spacer"
 msgstr ""
 
-#: ui/KisOpenPane.cpp:221
+#: ui/KisOpenPane.cpp:223
 msgid "Recent Documents"
 msgstr ""
 
-#: ui/KisOpenPane.cpp:323
+#: ui/KisOpenPane.cpp:325
 #, fuzzy
 #| msgid "Custom Gradient"
 msgid "Custom Document"
@@ -16538,115 +16537,114 @@ msgstr "Gradient personalizat"
 msgid "Create from Clipboard"
 msgstr "Primul strat din clipboard"
 
-#: ui/KisRecentDocumentsPane.cpp:83
+#: ui/KisRecentDocumentsPane.cpp:85
 msgid "Open This Document"
 msgstr ""
 
-#: ui/KisRecentDocumentsPane.cpp:172
+#: ui/KisRecentDocumentsPane.cpp:174
 #, kde-format
 msgctxt "File modification date and time. %1 is date time"
 msgid "<tr><td><b>Modified:</b></td><td>%1</td></tr>"
 msgstr ""
 
-#: ui/KisRecentDocumentsPane.cpp:175
+#: ui/KisRecentDocumentsPane.cpp:177
 #, kde-format
 msgctxt "File access date and time. %1 is date time"
 msgid "<tr><td><b>Accessed:</b></td><td>%1</td></tr>"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:109
+#: ui/KisTemplateCreateDia.cpp:111
 #, fuzzy
 #| msgid "Create"
 msgid "Create Template"
 msgstr "Creează"
 
-#: ui/KisTemplateCreateDia.cpp:118
+#: ui/KisTemplateCreateDia.cpp:120
 #, fuzzy
 #| msgid "Name:"
 msgctxt "Template name"
 msgid "Name:"
 msgstr "Denumire:"
 
-#: ui/KisTemplateCreateDia.cpp:128
+#: ui/KisTemplateCreateDia.cpp:130
 msgid "Group:"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:143
+#: ui/KisTemplateCreateDia.cpp:145
 msgid "&Add Group..."
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:146
+#: ui/KisTemplateCreateDia.cpp:148
 #, fuzzy
 msgid "&Remove"
 msgstr "Șterge plan"
 
-#: ui/KisTemplateCreateDia.cpp:152
+#: ui/KisTemplateCreateDia.cpp:154
 msgid "Picture"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:164
+#: ui/KisTemplateCreateDia.cpp:166
 #, fuzzy
 #| msgid "&Select"
 msgid "&Select..."
 msgstr "&Selectare"
 
-#: ui/KisTemplateCreateDia.cpp:173
+#: ui/KisTemplateCreateDia.cpp:175
 msgid "Use the new template as default"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:175
-#, kde-format
-msgid "Use the new template every time %1 starts"
+#: ui/KisTemplateCreateDia.cpp:177
+msgid "Use the new template every time Krita starts"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:315
+#: ui/KisTemplateCreateDia.cpp:316
 #, kde-format
 msgid "Do you really want to overwrite the existing '%1' template?"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:428 ui/KisTemplateCreateDia.cpp:434
+#: ui/KisTemplateCreateDia.cpp:430 ui/KisTemplateCreateDia.cpp:433
 msgid "Add Group"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:428
+#: ui/KisTemplateCreateDia.cpp:430
 msgid "Enter group name:"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:434
+#: ui/KisTemplateCreateDia.cpp:433
 msgid "This name is already used."
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:458
+#: ui/KisTemplateCreateDia.cpp:457
 msgid "Do you really want to remove that group?"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:459
+#: ui/KisTemplateCreateDia.cpp:458
 #, fuzzy
 #| msgid "Remove Layer"
 msgctxt "@title:window"
 msgid "Remove Group"
 msgstr "Șterge plan"
 
-#: ui/KisTemplateCreateDia.cpp:461
+#: ui/KisTemplateCreateDia.cpp:460
 msgid "Do you really want to remove that template?"
 msgstr ""
 
-#: ui/KisTemplateCreateDia.cpp:462
+#: ui/KisTemplateCreateDia.cpp:461
 #, fuzzy
 msgctxt "@title:window"
 msgid "Remove Template"
 msgstr "Șterge plan"
 
-#: ui/KisTemplateCreateDia.cpp:515
+#: ui/KisTemplateCreateDia.cpp:514
 #, fuzzy
 msgid "Could not load picture."
 msgstr "Elimină selecția"
 
-#: ui/KisTemplateCreateDia.cpp:518
+#: ui/KisTemplateCreateDia.cpp:517
 msgid "No picture available."
 msgstr ""
 
-#: ui/KisTemplatesPane.cpp:49
+#: ui/KisTemplatesPane.cpp:51
 msgid "Use This Template"
 msgstr ""
 
@@ -16664,92 +16662,92 @@ msgstr ""
 msgid "Undo %1"
 msgstr ""
 
-#: ui/KisView.cpp:501
+#: ui/KisView.cpp:498
 #, fuzzy
 msgid "Insert as New Layer"
 msgstr "I&nserează imagine ca plan..."
 
-#: ui/KisView.cpp:502
+#: ui/KisView.cpp:499
 #, fuzzy
 msgid "Insert Many Layers"
 msgstr "I&nserează imagine ca plan..."
 
-#: ui/KisView.cpp:504
+#: ui/KisView.cpp:501
 msgid "Open in New Document"
 msgstr ""
 
-#: ui/KisView.cpp:505
+#: ui/KisView.cpp:502
 msgid "Open Many Documents"
 msgstr ""
 
-#: ui/KisViewManager.cpp:658
+#: ui/KisViewManager.cpp:659
 #, fuzzy
 #| msgid "Incremental"
 msgid "Save Incremental &Version"
 msgstr "Incremental"
 
-#: ui/KisViewManager.cpp:664
+#: ui/KisViewManager.cpp:665
 #, fuzzy
 #| msgid "Incremental"
 msgid "Save Incremental Backup"
 msgstr "Incremental"
 
-#: ui/KisViewManager.cpp:675
+#: ui/KisViewManager.cpp:676
 msgid "Toggle Tablet Debugger"
 msgstr ""
 
-#: ui/KisViewManager.cpp:680
+#: ui/KisViewManager.cpp:681
 #, fuzzy
 msgid "&Create Template From Image..."
 msgstr "Redenumește imagine"
 
-#: ui/KisViewManager.cpp:685
+#: ui/KisViewManager.cpp:686
 #, fuzzy
 msgid "&Create Copy From Current Image"
 msgstr "Redenumește imagine"
 
-#: ui/KisViewManager.cpp:690
+#: ui/KisViewManager.cpp:691
 #, fuzzy
 msgid "Open Resources Folder"
 msgstr "Șterge plan"
 
-#: ui/KisViewManager.cpp:691 ui/KisViewManager.cpp:692
+#: ui/KisViewManager.cpp:692 ui/KisViewManager.cpp:693
 msgid ""
 "Opens a file browser at the location Krita saves resources such as brushes "
 "to."
 msgstr ""
 
-#: ui/KisViewManager.cpp:696
+#: ui/KisViewManager.cpp:697
 msgid "Rotate Canvas Right"
 msgstr ""
 
-#: ui/KisViewManager.cpp:701
+#: ui/KisViewManager.cpp:702
 #, fuzzy
 #| msgid "Rotate Image"
 msgid "Rotate Canvas Left"
 msgstr "Rotește imaginea"
 
-#: ui/KisViewManager.cpp:706
+#: ui/KisViewManager.cpp:707
 msgid "Wrap Around Mode"
 msgstr ""
 
-#: ui/KisViewManager.cpp:712
+#: ui/KisViewManager.cpp:713
 #, fuzzy
 #| msgid "Show root layer"
 msgid "Show Status Bar"
 msgstr "Arată stratul-rădăcină"
 
-#: ui/KisViewManager.cpp:715
+#: ui/KisViewManager.cpp:716
 msgid "Shows or hides the status bar"
 msgstr ""
 
-#: ui/KisViewManager.cpp:720
+#: ui/KisViewManager.cpp:721
 #, fuzzy
 #| msgid "Canvas color:"
 msgid "Show Canvas Only"
 msgstr "Culoare canava:"
 
-#: ui/KisViewManager.cpp:723
+#: ui/KisViewManager.cpp:724
 msgid "Shows just the canvas or the whole window"
 msgstr ""
 
@@ -17860,7 +17858,7 @@ msgstr "Repetă"
 msgid "Li&nk with Layer"
 msgstr "Plan"
 
-#: ui/opengl/kis_opengl_canvas2.cpp:295
+#: ui/opengl/kis_opengl_canvas2.cpp:305
 msgid ""
 "You have an Intel(R) HD Graphics video adapter.\n"
 "If you experience problems like a black or blank screen,please update your "
@@ -17869,7 +17867,7 @@ msgid ""
 "You can also disable OpenGL rendering in Krita's Settings.\n"
 msgstr ""
 
-#: ui/opengl/kis_opengl_canvas2.cpp:583
+#: ui/opengl/kis_opengl_canvas2.cpp:662
 #, kde-format
 msgid ""
 "Krita could not initialize the OpenGL canvas:\n"
@@ -17881,7 +17879,7 @@ msgid ""
 " Krita will disable OpenGL and close now."
 msgstr ""
 
-#: ui/opengl/kis_opengl_image_textures.cpp:532
+#: ui/opengl/kis_opengl_image_textures.cpp:539
 msgid ""
 "You enabled OpenColorIO based color management, but your image is not an RGB "
 "image.\n"
@@ -17933,47 +17931,47 @@ msgid ""
 "selection instead"
 msgstr ""
 
-#: ui/tool/kis_tool.cc:122
+#: ui/tool/kis_tool.cc:109
 #, fuzzy
 #| msgid "Foreground Color"
 msgid "Swap Foreground and Background Color"
 msgstr "Culoare prim-plan"
 
-#: ui/tool/kis_tool.cc:128
+#: ui/tool/kis_tool.cc:115
 #, fuzzy
 #| msgid "Foreground Color"
 msgid "Reset Foreground and Background Color"
 msgstr "Culoare prim-plan"
 
-#: ui/tool/kis_tool.cc:559
+#: ui/tool/kis_tool.cc:543
 #, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Clear"
 msgstr "Pensulă"
 
-#: ui/tool/kis_tool.cc:588
+#: ui/tool/kis_tool.cc:572
 #, fuzzy
 msgid "No options"
 msgstr "Alfa"
 
-#: ui/tool/kis_tool.cc:744
+#: ui/tool/kis_tool.cc:666
 msgid "Layer is locked and invisible."
 msgstr ""
 
-#: ui/tool/kis_tool.cc:746
+#: ui/tool/kis_tool.cc:668
 #, fuzzy
 msgid "Layer is locked."
 msgstr "Imagine"
 
-#: ui/tool/kis_tool.cc:748
+#: ui/tool/kis_tool.cc:670
 msgid "Layer is invisible."
 msgstr ""
 
-#: ui/tool/kis_tool.cc:750
+#: ui/tool/kis_tool.cc:672
 msgid "Group not editable."
 msgstr ""
 
-#: ui/tool/kis_tool.cc:765
+#: ui/tool/kis_tool.cc:687
 #, fuzzy
 msgid "Local selection is locked."
 msgstr "Selecția"
@@ -18460,16 +18458,16 @@ msgid ""
 "or for use with imaging software that cannot read V4 profiles."
 msgstr ""
 
-#: ui/widgets/kis_categorized_list_view.cpp:117
+#: ui/widgets/kis_categorized_list_view.cpp:116
 #, fuzzy
 msgid "Lock"
 msgstr "Legată"
 
-#: ui/widgets/kis_categorized_list_view.cpp:117
+#: ui/widgets/kis_categorized_list_view.cpp:116
 msgid "Unlock (restore settings from preset)"
 msgstr ""
 
-#: ui/widgets/kis_categorized_list_view.cpp:122
+#: ui/widgets/kis_categorized_list_view.cpp:121
 msgid "Unlock (keep current settings)"
 msgstr ""
 
@@ -18708,13 +18706,13 @@ msgid "Save to Presets"
 msgstr "&Salvează în prestabilite"
 
 #: ui/widgets/kis_paintop_presets_popup.cpp:242
-#: ui/widgets/kis_tool_options_popup.cpp:154
+#: ui/widgets/kis_tool_options_popup.cpp:155
 #, fuzzy
 msgid "Attach to Toolbar"
 msgstr "Gradienți"
 
 #: ui/widgets/kis_paintop_presets_popup.cpp:242
-#: ui/widgets/kis_tool_options_popup.cpp:154
+#: ui/widgets/kis_tool_options_popup.cpp:155
 msgid "Detach from Toolbar"
 msgstr ""
 

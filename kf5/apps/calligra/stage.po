@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kpresenter\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-08 10:21+0000\n"
+"POT-Creation-Date: 2015-09-12 08:50+0000\n"
 "PO-Revision-Date: 2013-01-12 05:09+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -365,7 +365,7 @@ msgstr "Albastru"
 msgid "Yellow"
 msgstr "Galben"
 
-#: part/KPrPresenterViewInterface.cpp:62 part/KPrView.cpp:106
+#: part/KPrPresenterViewInterface.cpp:62 part/KPrView.cpp:105
 #, fuzzy
 msgid "Next Slide"
 msgstr "Diapozitivul următor"
@@ -386,14 +386,14 @@ msgid "End of Slide Show"
 msgstr "Sfârșitul Prezentării"
 
 #: part/KPrShapeAnimations.cpp:171
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:232
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:536
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:231
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:535
 msgid "start on mouse click"
 msgstr ""
 
 #: part/KPrShapeAnimations.cpp:173
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:235
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:539
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:234
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:538
 #, fuzzy
 #| msgctxt "(qtundo-format)"
 #| msgid "Create shape animation"
@@ -401,8 +401,8 @@ msgid "start after previous animation"
 msgstr "Creează animație de apariție"
 
 #: part/KPrShapeAnimations.cpp:175
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:238
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:542
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:237
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:541
 #, fuzzy
 #| msgctxt "(qtundo-format)"
 #| msgid "Create shape animation"
@@ -441,167 +441,167 @@ msgstr "&Copiază diapozitiv"
 msgid "C&ancel"
 msgstr "Anulează"
 
-#: part/KPrView.cpp:86
+#: part/KPrView.cpp:85
 #, fuzzy
 msgid "Normal"
 msgstr "Normală"
 
-#: part/KPrView.cpp:91
+#: part/KPrView.cpp:90
 #, fuzzy
 msgid "Show Master Slides"
 msgstr "Arată Diapozitivele Principale"
 
-#: part/KPrView.cpp:92
+#: part/KPrView.cpp:91
 #, fuzzy
 msgid "Import Slideshow..."
 msgstr "Importă Prezentare Diapozitive..."
 
-#: part/KPrView.cpp:93
+#: part/KPrView.cpp:92
 #, fuzzy
 msgid "Insert Slide"
 msgstr "Inserează diapozitiv"
 
-#: part/KPrView.cpp:94 part/KPrView.cpp:95
+#: part/KPrView.cpp:93 part/KPrView.cpp:94
 #, fuzzy
 msgid "Insert a new slide after the current one"
 msgstr "Inserează un nou diapozitiv după cel curent"
 
-#: part/KPrView.cpp:96
+#: part/KPrView.cpp:95
 #, fuzzy
 msgid "Copy Slide"
 msgstr "Copiază diapozitiv"
 
-#: part/KPrView.cpp:97 part/KPrView.cpp:98
+#: part/KPrView.cpp:96 part/KPrView.cpp:97
 #, fuzzy
 msgid "Copy the current slide"
 msgstr "Copiază diapozitivul curent"
 
-#: part/KPrView.cpp:99 part/KPrViewModeSlidesSorter.cpp:190
+#: part/KPrView.cpp:98 part/KPrViewModeSlidesSorter.cpp:189
 #, fuzzy
 msgid "Delete Slide"
 msgstr "Șterge diapozitiv"
 
-#: part/KPrView.cpp:100 part/KPrView.cpp:101
+#: part/KPrView.cpp:99 part/KPrView.cpp:100
 #, fuzzy
 msgid "Delete the current slide"
 msgstr "Șterge diapozitivul curent"
 
-#: part/KPrView.cpp:102
+#: part/KPrView.cpp:101
 #, fuzzy
 msgid "Master Slide..."
 msgstr "Diapozitiv Principal..."
 
-#: part/KPrView.cpp:103
+#: part/KPrView.cpp:102
 #, fuzzy
 msgid "Previous Slide"
 msgstr "Diapozitivul precedent"
 
-#: part/KPrView.cpp:104 part/KPrView.cpp:105
+#: part/KPrView.cpp:103 part/KPrView.cpp:104
 #, fuzzy
 msgid "Go to previous slide"
 msgstr "Pasul &precedent"
 
-#: part/KPrView.cpp:107 part/KPrView.cpp:108
+#: part/KPrView.cpp:106 part/KPrView.cpp:107
 #, fuzzy
 msgid "Go to next slide"
 msgstr "Du-te la pagina..."
 
-#: part/KPrView.cpp:109
+#: part/KPrView.cpp:108
 #, fuzzy
 msgid "First Slide"
 msgstr "Primul diapozitiv"
 
-#: part/KPrView.cpp:110 part/KPrView.cpp:111
+#: part/KPrView.cpp:109 part/KPrView.cpp:110
 #, fuzzy
 msgid "Go to first slide"
 msgstr "Du-te la pagina..."
 
-#: part/KPrView.cpp:112
+#: part/KPrView.cpp:111
 #, fuzzy
 msgid "Last Slide"
 msgstr "Ultimul diapozitiv"
 
-#: part/KPrView.cpp:113 part/KPrView.cpp:114
+#: part/KPrView.cpp:112 part/KPrView.cpp:113
 #, fuzzy
 msgid "Go to last slide"
 msgstr "Du-te la pagina..."
 
-#: part/KPrView.cpp:115
+#: part/KPrView.cpp:114
 #, fuzzy
 msgid "Configure Stage..."
 msgstr "Configurează pagini..."
 
-#: part/KPrView.cpp:238
+#: part/KPrView.cpp:237
 #, fuzzy
 msgid "Export as HTML..."
 msgstr "Exportă ca HTML..."
 
-#: part/KPrView.cpp:264
+#: part/KPrView.cpp:263
 #, fuzzy
 msgid "Insert Pictures as Slides..."
 msgstr "Inserează imagini"
 
-#: part/KPrView.cpp:273
+#: part/KPrView.cpp:272
 #, fuzzy
 msgid "Create Appear Animation"
 msgstr "Creează animație de apariție"
 
-#: part/KPrView.cpp:277
+#: part/KPrView.cpp:276
 #, fuzzy
 msgid "Edit Custom Slide Shows..."
 msgstr "Editează Diapozitiv Specific"
 
-#: part/KPrView.cpp:281
+#: part/KPrView.cpp:280
 #, fuzzy
 msgid "Start Presentation"
 msgstr "Începe prezentarea"
 
-#: part/KPrView.cpp:284
+#: part/KPrView.cpp:283
 #, fuzzy
 msgid "From Current Slide"
 msgstr "De la diapozitivul curent"
 
-#: part/KPrView.cpp:288
+#: part/KPrView.cpp:287
 #, fuzzy
 msgid "From First Slide"
 msgstr "De la primul diapozitiv"
 
-#: part/KPrView.cpp:293
+#: part/KPrView.cpp:292
 #, fuzzy
 msgid "Show Status Bar"
 msgstr "Afișează bara de stare"
 
-#: part/KPrView.cpp:294
+#: part/KPrView.cpp:293
 #, fuzzy
 msgid "Hide Status Bar"
 msgstr "Ascunde subsol"
 
-#: part/KPrView.cpp:295
+#: part/KPrView.cpp:294
 #, fuzzy
 msgid "Shows or hides the status bar"
 msgstr "Afișează sau ascunde bara de stare"
 
-#: part/KPrView.cpp:304
+#: part/KPrView.cpp:303
 #, fuzzy
 msgid "Configure Slide Show..."
 msgstr "Configurează Diapozitiv"
 
-#: part/KPrView.cpp:308
+#: part/KPrView.cpp:307
 #, fuzzy
 msgid "Configure Presenter View..."
 msgstr "Configurează Vizualizarea Prezentatorului"
 
-#: part/KPrView.cpp:312
+#: part/KPrView.cpp:311
 #, fuzzy
 msgid "Draw on the presentation..."
 msgstr "Desenează pe prezentare..."
 
-#: part/KPrView.cpp:319
+#: part/KPrView.cpp:318
 #, fuzzy
 msgid "Highlight the presentation..."
 msgstr "Evidențiază prezentarea"
 
-#: part/KPrView.cpp:326
+#: part/KPrView.cpp:325
 #, fuzzy
 msgid "Blackscreen on the presentation..."
 msgstr "Ecran negru pe prezentare"
@@ -611,96 +611,96 @@ msgstr "Ecran negru pe prezentare"
 msgid "Notes"
 msgstr "Observații"
 
-#: part/KPrViewModeSlidesSorter.cpp:80
+#: part/KPrViewModeSlidesSorter.cpp:79
 #, fuzzy
 msgid "Slides Sorter"
 msgstr "Sortare diapozitive"
 
-#: part/KPrViewModeSlidesSorter.cpp:90
+#: part/KPrViewModeSlidesSorter.cpp:89
 #, fuzzy
 msgid "Slide Show: "
 msgstr "Prezentare diapozitive"
 
-#: part/KPrViewModeSlidesSorter.cpp:99
+#: part/KPrViewModeSlidesSorter.cpp:98
 #, fuzzy
 msgid "Add a new custom slide show"
 msgstr "Adaugă prezentare diapozitive personalizată"
 
-#: part/KPrViewModeSlidesSorter.cpp:104
+#: part/KPrViewModeSlidesSorter.cpp:103
 #, fuzzy
 msgid "Delete current custom slide show"
 msgstr "Șterge curenta prezentare personalizată de diapozitive "
 
-#: part/KPrViewModeSlidesSorter.cpp:108
+#: part/KPrViewModeSlidesSorter.cpp:107
 #, fuzzy
 msgid "Add slides to current custom slide show"
 msgstr "Adăugare diapozitive la prezentarea curentă"
 
-#: part/KPrViewModeSlidesSorter.cpp:113
+#: part/KPrViewModeSlidesSorter.cpp:112
 #, fuzzy
 msgid "Remove slides from current custom slide show"
 msgstr "Elimină diapozitive din prezentarea personalizată curentă"
 
-#: part/KPrViewModeSlidesSorter.cpp:189
+#: part/KPrViewModeSlidesSorter.cpp:188
 #, fuzzy
 #| msgid "Delete Slide"
 msgid "Duplicate Slide"
 msgstr "Șterge diapozitiv"
 
-#: part/KPrViewModeSlidesSorter.cpp:191
+#: part/KPrViewModeSlidesSorter.cpp:190
 #, fuzzy
 #| msgid "Import Slideshow..."
 msgid "Start Slideshow"
 msgstr "Importă Prezentare Diapozitive..."
 
-#: part/KPrViewModeSlidesSorter.cpp:543
+#: part/KPrViewModeSlidesSorter.cpp:542
 #, fuzzy
 msgid "Add a new slide"
 msgstr "Adaugă diapozitiv"
 
-#: part/KPrViewModeSlidesSorter.cpp:544 part/KPrViewModeSlidesSorter.cpp:562
+#: part/KPrViewModeSlidesSorter.cpp:543 part/KPrViewModeSlidesSorter.cpp:561
 #, fuzzy
 msgid "Delete selected slides"
 msgstr "Șterge diapozitive selectate"
 
-#: part/KPrViewModeSlidesSorter.cpp:548
+#: part/KPrViewModeSlidesSorter.cpp:547
 #, fuzzy
 msgid "Rename"
 msgstr "Redenumește"
 
-#: part/KPrViewModeSlidesSorter.cpp:552
+#: part/KPrViewModeSlidesSorter.cpp:551
 #, fuzzy
 msgid "Cut"
 msgstr "Decupează"
 
-#: part/KPrViewModeSlidesSorter.cpp:553
+#: part/KPrViewModeSlidesSorter.cpp:552
 #, fuzzy
 msgid "Copy"
 msgstr "Copiază"
 
-#: part/KPrViewModeSlidesSorter.cpp:554
+#: part/KPrViewModeSlidesSorter.cpp:553
 #, fuzzy
 msgid "Paste"
 msgstr "Lipește"
 
-#: part/KPrViewModeSlidesSorter.cpp:650 part/KPrViewModeSlidesSorter.cpp:655
+#: part/KPrViewModeSlidesSorter.cpp:649 part/KPrViewModeSlidesSorter.cpp:654
 #, fuzzy, kde-format
 msgid "Slide Show %1"
 msgstr "Prezentare diapozitive %1"
 
-#: part/KPrViewModeSlidesSorter.cpp:669
+#: part/KPrViewModeSlidesSorter.cpp:668
 #: part/ui/KPrConfigureSlideShowDialog.cpp:41
 #, fuzzy
 msgid "All slides"
 msgstr "Toate diapozitivele"
 
-#: part/KPrViewModeSlidesSorter.cpp:697 part/ui/KPrHtmlExportDialog.cpp:158
+#: part/KPrViewModeSlidesSorter.cpp:696 part/ui/KPrHtmlExportDialog.cpp:158
 #: part/ui/KPrHtmlExportDialog.cpp:210
 #, fuzzy
 msgid "Error"
 msgstr "Eroare"
 
-#: part/KPrViewModeSlidesSorter.cpp:697
+#: part/KPrViewModeSlidesSorter.cpp:696
 #, fuzzy
 msgid "There cannot be two slideshows with the same name."
 msgstr "Nu pot exista doua prezentări de diapozitive cu același nume."
@@ -754,13 +754,13 @@ msgstr "Prezentare de diapozitive"
 msgid "&Settings"
 msgstr "&Configurări"
 
-#: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:68
+#: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:67
 #, fuzzy
 msgid "Automatic animation preview"
 msgstr "Afișează &previzualizare"
 
-#: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:326
-#: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:334
+#: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:325
+#: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:333
 #, fuzzy
 #| msgid "Presentation"
 msgid "Preview animation"
@@ -783,45 +783,45 @@ msgstr "Acțiuni la apăsarea butoanelor mouseului"
 msgid "Shape Animations"
 msgstr "Forma Animației"
 
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:65
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:64
 #, fuzzy
 msgid "Manage animation delay and duration: "
 msgstr "Prezentare"
 
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:66
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:65
 #, fuzzy
 #| msgid "Star"
 msgid "Start: "
 msgstr "Stea"
 
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:70
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:69
 msgid "on mouse click"
 msgstr ""
 
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:71
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:70
 #, fuzzy
 #| msgctxt "(qtundo-format)"
 #| msgid "Create shape animation"
 msgid "after previous animation"
 msgstr "Creează animație de apariție"
 
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:72
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:71
 #, fuzzy
 #| msgid "Shape Animation"
 msgid "with previous animation"
 msgstr "Forma Animației"
 
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:74
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:73
 msgid "Delay: "
 msgstr ""
 
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:79
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:78
 #, fuzzy
 msgid "Duration: "
 msgstr "Direcția:"
 
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:86
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:142
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:85
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:141
 #, fuzzy
 #| msgid "Shape Animation"
 msgid "Preview Shape Animation"
@@ -878,48 +878,48 @@ msgstr "Du-te la pagina:"
 msgid "Media Call"
 msgstr ""
 
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:93
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:98
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:530
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:92
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:97
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:529
 #, fuzzy
 #| msgid "Animation tool"
 msgid "Edit animation"
 msgstr "Unealtă de animații"
 
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:112
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:111
 #, fuzzy
 #| msgid "Animation tool"
 msgid "Add new animation"
 msgstr "Unealtă de animații"
 
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:125
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:124
 #, fuzzy
 msgid "Remove animation"
 msgstr "&Linie"
 
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:129
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:128
 msgid "Order: "
 msgstr ""
 
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:132
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:131
 #, fuzzy
 #| msgid "Shape Animation"
 msgid "Move animation up"
 msgstr "Forma Animației"
 
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:137
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:136
 #, fuzzy
 #| msgid "Animation Tool"
 msgid "Move animation down"
 msgstr "Unealtă de animații"
 
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:528
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:527
 #, fuzzy
 #| msgid "Add a new slide"
 msgid "Add a new animation"
 msgstr "Adaugă diapozitiv"
 
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:529
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:528
 #, fuzzy
 #| msgid "Delete the current slide"
 msgid "Delete current animation"

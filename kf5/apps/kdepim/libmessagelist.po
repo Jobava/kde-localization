@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmail\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-08 10:44+0000\n"
+"POT-Creation-Date: 2015-09-17 09:25+0000\n"
 "PO-Revision-Date: 2014-03-26 19:01+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -115,12 +115,12 @@ msgstr "Favorizează viteza"
 msgid "Batch Job (No Interactivity)"
 msgstr "Sarcină în serie (fără intercativitate)"
 
-#: core/item.cpp:231 core/messageitem.cpp:586
+#: core/item.cpp:231 core/messageitem.cpp:556
 msgctxt "Status of an item"
 msgid "Read"
 msgstr "Citit"
 
-#: core/item.cpp:233 core/messageitem.cpp:586
+#: core/item.cpp:233 core/messageitem.cpp:556
 msgctxt "Status of an item"
 msgid "Unread"
 msgstr "Necitit"
@@ -135,7 +135,7 @@ msgctxt "Status of an item"
 msgid "Action Item"
 msgstr "Element acțiune"
 
-#: core/item.cpp:245 core/messageitem.cpp:584
+#: core/item.cpp:245 core/messageitem.cpp:554
 msgctxt "Status of an item"
 msgid "Replied"
 msgstr "Răspuns"
@@ -175,205 +175,205 @@ msgctxt "Status of an item"
 msgid "Ignored"
 msgstr "Ignorat"
 
-#: core/manager.cpp:99 core/model.cpp:316
+#: core/manager.cpp:98 core/model.cpp:316
 msgctxt "Unknown date"
 msgid "Unknown"
 msgstr "Necunoscută"
 
-#: core/manager.cpp:299
+#: core/manager.cpp:298
 #, fuzzy
 #| msgid "Current Activity, Flat"
 msgid "Current Activity, Threaded"
 msgstr "Activitate curentă, simplu"
 
-#: core/manager.cpp:300
+#: core/manager.cpp:299
 msgid ""
 "This view uses smart date range groups. Messages are threaded. So for "
 "example, in \"Today\" you will find all the messages arrived today and all "
 "the threads that have been active today."
 msgstr ""
 
-#: core/manager.cpp:317
+#: core/manager.cpp:316
 msgid "Current Activity, Flat"
 msgstr "Activitate curentă, simplu"
 
-#: core/manager.cpp:318
+#: core/manager.cpp:317
 msgid ""
 "This view uses smart date range groups. Messages are not threaded. So for "
 "example, in \"Today\" you will simply find all the messages arrived today."
 msgstr ""
 
-#: core/manager.cpp:334
+#: core/manager.cpp:333
 #, fuzzy
 #| msgid "Activity by Date, Flat"
 msgid "Activity by Date, Threaded"
 msgstr "Activitate după dată, simplu"
 
-#: core/manager.cpp:335
+#: core/manager.cpp:334
 msgid ""
 "This view uses day-by-day groups. Messages are threaded. So for example, in "
 "\"Today\" you will find all the messages arrived today and all the threads "
 "that have been active today."
 msgstr ""
 
-#: core/manager.cpp:352
+#: core/manager.cpp:351
 msgid "Activity by Date, Flat"
 msgstr "Activitate după dată, simplu"
 
-#: core/manager.cpp:353
+#: core/manager.cpp:352
 msgid ""
 "This view uses day-by-day groups. Messages are not threaded. So for example, "
 "in \"Today\" you will simply find all the messages arrived today."
 msgstr ""
 
-#: core/manager.cpp:369
+#: core/manager.cpp:368
 msgid "Standard Mailing List"
 msgstr "Lista de discuții standard"
 
-#: core/manager.cpp:370
+#: core/manager.cpp:369
 msgid ""
 "This is a plain and old mailing list view: no groups and heavy threading."
 msgstr ""
 
-#: core/manager.cpp:383
+#: core/manager.cpp:382
 msgid "Flat Date View"
 msgstr "Vizualizare simplă după dată"
 
-#: core/manager.cpp:384
+#: core/manager.cpp:383
 msgid ""
 "This is a plain and old list of messages sorted by date: no groups and no "
 "threading."
 msgstr ""
 
-#: core/manager.cpp:399
+#: core/manager.cpp:398
 msgid "Senders/Receivers, Flat"
 msgstr "Expeditori/Destinatari, simplu"
 
-#: core/manager.cpp:400
+#: core/manager.cpp:399
 msgid ""
 "This view groups the messages by senders or receivers (depending on the "
 "folder type). Messages are not threaded."
 msgstr ""
 
-#: core/manager.cpp:416
+#: core/manager.cpp:415
 msgid "Thread Starters"
 msgstr "Începători de fire"
 
-#: core/manager.cpp:417
+#: core/manager.cpp:416
 msgid ""
 "This view groups the messages in threads and then groups the threads by the "
 "starting user."
 msgstr ""
 
-#: core/manager.cpp:690
+#: core/manager.cpp:687
 msgctxt "Default theme name"
 msgid "Classic"
 msgstr "Clasică"
 
-#: core/manager.cpp:691
+#: core/manager.cpp:688
 msgid "A simple, backward compatible, single row theme"
 msgstr ""
 
-#: core/manager.cpp:695
+#: core/manager.cpp:692
 msgctxt "@title:column Subject of messages"
 msgid "Subject"
 msgstr "Subiect"
 
-#: core/manager.cpp:733 core/theme.cpp:84
+#: core/manager.cpp:727 core/theme.cpp:83
 msgid "Sender/Receiver"
 msgstr "Expeditor/Destinatar"
 
-#: core/manager.cpp:735
+#: core/manager.cpp:729
 msgctxt "Sender of a message"
 msgid "Sender"
 msgstr "Expeditor"
 
-#: core/manager.cpp:736
+#: core/manager.cpp:730
 msgctxt "Receiver of a message"
 msgid "Receiver"
 msgstr "Destinatar"
 
-#: core/manager.cpp:737
+#: core/manager.cpp:731
 msgctxt "Date of a message"
 msgid "Date"
 msgstr "Dată"
 
-#: core/manager.cpp:738
+#: core/manager.cpp:732
 msgid "Most Recent Date"
 msgstr "Data cea mai recentă"
 
-#: core/manager.cpp:739
+#: core/manager.cpp:733
 msgctxt "Size of a message"
 msgid "Size"
 msgstr "Dimensiune"
 
-#: core/manager.cpp:740
+#: core/manager.cpp:734
 msgctxt "Attachement indication"
 msgid "Attachment"
 msgstr "Atașament"
 
-#: core/manager.cpp:741
+#: core/manager.cpp:735
 #, fuzzy
 #| msgid "New/Unread"
 msgid "Read/Unread"
 msgstr "Nou/necitit"
 
-#: core/manager.cpp:742
+#: core/manager.cpp:736
 msgid "Replied"
 msgstr "Răspuns"
 
-#: core/manager.cpp:743
+#: core/manager.cpp:737
 msgctxt "Message importance indication"
 msgid "Important"
 msgstr "Important"
 
-#: core/manager.cpp:744
+#: core/manager.cpp:738
 msgid "Action Item"
 msgstr "Element acțiune"
 
-#: core/manager.cpp:745
+#: core/manager.cpp:739
 msgid "Spam/Ham"
 msgstr "Spam/Ham"
 
-#: core/manager.cpp:746
+#: core/manager.cpp:740
 msgid "Watched/Ignored"
 msgstr "Urmărit/Ignorat"
 
-#: core/manager.cpp:747
+#: core/manager.cpp:741
 msgid "Encryption"
 msgstr "Criptare"
 
-#: core/manager.cpp:748
+#: core/manager.cpp:742
 msgid "Signature"
 msgstr "Semnătură"
 
-#: core/manager.cpp:749
+#: core/manager.cpp:743
 msgid "Tag List"
 msgstr "Listă de marcaje"
 
-#: core/manager.cpp:758
+#: core/manager.cpp:752
 msgid "Smart"
 msgstr "Inteligentă"
 
-#: core/manager.cpp:759
+#: core/manager.cpp:753
 msgid "A smart multiline and multi item theme"
 msgstr "O temă multilinie și multielement inteligentă"
 
-#: core/manager.cpp:763
+#: core/manager.cpp:757
 msgid "Message"
 msgstr "Mesaj"
 
-#: core/manager.cpp:854
+#: core/manager.cpp:841
 msgid "Smart with Clickable Status"
 msgstr "Inteligentă cu stare apăsabilă"
 
-#: core/manager.cpp:855
+#: core/manager.cpp:842
 msgid "A smart multiline and multi item theme with a clickable status column"
 msgstr ""
 "O temă multilinie și multielement inteligentă, cu o coloană de stare "
 "apăsabilă"
 
-#: core/manager.cpp:859 core/view.cpp:2424 core/view.cpp:2427
+#: core/manager.cpp:846 core/view.cpp:2424 core/view.cpp:2427
 msgid "Status"
 msgstr "Stare"
 
@@ -580,161 +580,161 @@ msgctxt "Sort order for mail groups"
 msgid "Descending"
 msgstr "Descrescător"
 
-#: core/theme.cpp:78
+#: core/theme.cpp:77
 msgctxt "Description of Type Subject"
 msgid "Subject"
 msgstr "Subiect"
 
-#: core/theme.cpp:81
+#: core/theme.cpp:80
 msgctxt "Description of Type Date"
 msgid "Date"
 msgstr "Dată"
 
-#: core/theme.cpp:87
+#: core/theme.cpp:86
 msgctxt "Description of Type Sender"
 msgid "Sender"
 msgstr "Expeditor"
 
-#: core/theme.cpp:90
+#: core/theme.cpp:89
 msgctxt "Description of Type Receiver"
 msgid "Receiver"
 msgstr "Destinatar"
 
-#: core/theme.cpp:93
+#: core/theme.cpp:92
 msgctxt "Description of Type Size"
 msgid "Size"
 msgstr "Dimensiunea"
 
-#: core/theme.cpp:96
+#: core/theme.cpp:95
 msgid "Unread/Read Icon"
 msgstr "Pictogramă necitit/citit"
 
-#: core/theme.cpp:99
+#: core/theme.cpp:98
 msgid "Attachment Icon"
 msgstr "Pictogramă Atașament"
 
-#: core/theme.cpp:102
+#: core/theme.cpp:101
 msgid "Replied/Forwarded Icon"
 msgstr "Pictogramă Răspuns/Înaintat"
 
-#: core/theme.cpp:105
+#: core/theme.cpp:104
 msgid "Combined New/Unread/Read/Replied/Forwarded Icon"
 msgstr "Pictogramă combinată Nou/Necitit/Citit/Răspuns/Înaintat"
 
-#: core/theme.cpp:108
+#: core/theme.cpp:107
 msgid "Action Item Icon"
 msgstr "Pictogramă Element acțiune"
 
-#: core/theme.cpp:111
+#: core/theme.cpp:110
 msgid "Important Icon"
 msgstr "Pictocramă Important"
 
-#: core/theme.cpp:114
+#: core/theme.cpp:113
 #, fuzzy
 #| msgid "&Groupware"
 msgid "Group Header Label"
 msgstr "&Colaborare"
 
-#: core/theme.cpp:117
+#: core/theme.cpp:116
 msgid "Spam/Ham Icon"
 msgstr "Pictogramă Spam/Ham"
 
-#: core/theme.cpp:120
+#: core/theme.cpp:119
 msgid "Watched/Ignored Icon"
 msgstr "Pictogramă Urmărit/Ignorat"
 
-#: core/theme.cpp:123
+#: core/theme.cpp:122
 msgid "Group Header Expand/Collapse Icon"
 msgstr ""
 
-#: core/theme.cpp:126
+#: core/theme.cpp:125
 msgid "Encryption State Icon"
 msgstr "Pictogramă Starea criptării"
 
-#: core/theme.cpp:129
+#: core/theme.cpp:128
 msgid "Signature State Icon"
 msgstr "Pictogramă Stare semnătură"
 
-#: core/theme.cpp:132
+#: core/theme.cpp:131
 msgid "Vertical Separation Line"
 msgstr "Linie de separare verticală"
 
-#: core/theme.cpp:135
+#: core/theme.cpp:134
 msgid "Horizontal Spacer"
 msgstr "Spațiator orizontal"
 
-#: core/theme.cpp:138
+#: core/theme.cpp:137
 #, fuzzy
 #| msgid "Date"
 msgid "Max Date"
 msgstr "Data"
 
-#: core/theme.cpp:141
+#: core/theme.cpp:140
 msgid "Message Tags"
 msgstr "Marcaje mesaj"
 
-#: core/theme.cpp:144
+#: core/theme.cpp:143
 msgid "Note Icon"
 msgstr "Pictogramă notă"
 
-#: core/theme.cpp:146
+#: core/theme.cpp:145
 msgid "Invitation Icon"
 msgstr "Pictogramă invitație"
 
-#: core/theme.cpp:148
+#: core/theme.cpp:147
 msgctxt "Description for an Unknown Type"
 msgid "Unknown"
 msgstr "Necunoscut"
 
-#: core/theme.cpp:596
+#: core/theme.cpp:587
 msgid "Unread"
 msgstr "Necitit"
 
-#: core/theme.cpp:749
+#: core/theme.cpp:740
 msgid "Never Show"
 msgstr "Nu afișa niciodată"
 
-#: core/theme.cpp:750
+#: core/theme.cpp:741
 msgid "Always Show"
 msgstr "Afișează întotdeauna"
 
-#: core/theme.cpp:757
+#: core/theme.cpp:748
 msgid "Plain Rectangles"
 msgstr "Dreptunghiuri simple"
 
-#: core/theme.cpp:758
+#: core/theme.cpp:749
 #, fuzzy
 #| msgid "Plain Rectangles"
 msgid "Plain Joined Rectangle"
 msgstr "Dreptunghiuri simple"
 
-#: core/theme.cpp:759
+#: core/theme.cpp:750
 msgid "Rounded Rectangles"
 msgstr "Dreptunghiuri rotunjite"
 
-#: core/theme.cpp:760
+#: core/theme.cpp:751
 #, fuzzy
 #| msgid "Rounded Rectangles"
 msgid "Rounded Joined Rectangle"
 msgstr "Dreptunghiuri rotunjite"
 
-#: core/theme.cpp:761
+#: core/theme.cpp:752
 #, fuzzy
 #| msgid "Plain Rectangles"
 msgid "Gradient Rectangles"
 msgstr "Dreptunghiuri simple"
 
-#: core/theme.cpp:762
+#: core/theme.cpp:753
 #, fuzzy
 #| msgid "Rounded Rectangles"
 msgid "Gradient Joined Rectangle"
 msgstr "Dreptunghiuri rotunjite"
 
-#: core/theme.cpp:763
+#: core/theme.cpp:754
 msgid "Styled Rectangles"
 msgstr "Dreptunghiuri stilate"
 
-#: core/theme.cpp:764
+#: core/theme.cpp:755
 #, fuzzy
 #| msgid "Styled Rectangles"
 msgid "Styled Joined Rectangles"
@@ -925,7 +925,7 @@ msgstr[0] "<b>%1</b> mesaj (<b>%2</b> noi + <b>%3</b> necitite)"
 msgstr[1] "<b>%1</b> mesaje (<b>%2</b> noi + <b>%3</b> necitite)"
 msgstr[2] "<b>%1</b> de mesaje (<b>%2</b> noi + <b>%3</b> necitite)"
 
-#: core/widgetbase.cpp:396 messagelistutil.cpp:130
+#: core/widgetbase.cpp:396 messagelistutil.cpp:131
 msgid "Theme"
 msgstr "Tematică"
 
@@ -934,7 +934,7 @@ msgstr "Tematică"
 msgid "Configure..."
 msgstr "Configurare..."
 
-#: core/widgetbase.cpp:491 messagelistutil.cpp:125
+#: core/widgetbase.cpp:491 messagelistutil.cpp:126
 msgid "Aggregation"
 msgstr "Agregare"
 
@@ -1076,7 +1076,7 @@ msgstr "Solicitat"
 msgid "The words less than 3 letters are ignored."
 msgstr ""
 
-#: messagelistutil.cpp:120
+#: messagelistutil.cpp:121
 msgid "Sorting"
 msgstr "Sortare"
 
@@ -1272,7 +1272,7 @@ msgstr "Șterge tematica"
 msgid "Unnamed Theme"
 msgstr "Tematică nedenumită"
 
-#: utils/configurethemesdialog.cpp:360 utils/themeeditor.cpp:1268
+#: utils/configurethemesdialog.cpp:360 utils/themeeditor.cpp:1256
 msgid "New Column"
 msgstr "Coloană nouă"
 
@@ -1402,147 +1402,151 @@ msgctxt "@action:inmenu soften the text color"
 msgid "Soften"
 msgstr "Înmoaie"
 
-#: utils/themeeditor.cpp:893
+#: utils/themeeditor.cpp:891
+#, fuzzy
+#| msgid "&Bold"
 msgctxt "@action:inmenu Font setting"
-msgid "Default"
-msgstr "Implicit"
+msgid "Bold"
+msgstr "&Bold"
 
-#: utils/themeeditor.cpp:898
+#: utils/themeeditor.cpp:895
+#, fuzzy
+#| msgid "&Italic"
 msgctxt "@action:inmenu Font setting"
-msgid "Custom..."
-msgstr "Personalizat..."
+msgid "Italic"
+msgstr "&Italic"
 
-#: utils/themeeditor.cpp:906
+#: utils/themeeditor.cpp:902
 msgid "Font"
 msgstr "Font"
 
-#: utils/themeeditor.cpp:915
+#: utils/themeeditor.cpp:911
 msgctxt "@action:inmenu Foreground color setting"
 msgid "Default"
 msgstr "Implicit"
 
-#: utils/themeeditor.cpp:920
+#: utils/themeeditor.cpp:916
 msgctxt "@action:inmenu Foreground color setting"
 msgid "Custom..."
 msgstr "Personalizat..."
 
-#: utils/themeeditor.cpp:928
+#: utils/themeeditor.cpp:924
 msgid "Foreground Color"
 msgstr "Culoare prim-plan"
 
-#: utils/themeeditor.cpp:937
+#: utils/themeeditor.cpp:933
 msgctxt ""
 "Hide a mark if the mail does not have the attribute, e.g. Important mark on "
 "a non important mail"
 msgid "Hide"
 msgstr "Ascunde"
 
-#: utils/themeeditor.cpp:942
+#: utils/themeeditor.cpp:938
 msgctxt ""
 "Keep a empty space in the list if the mail does not have the attribute, e.g. "
 "Important mark on a non important mail"
 msgid "Keep Empty Space"
 msgstr "Păstrează spațiu gol"
 
-#: utils/themeeditor.cpp:947
+#: utils/themeeditor.cpp:943
 msgctxt ""
 "Show the icon softened in the list if the mail does not have the attribute, "
 "e.g. Important mark on a non important mail"
 msgid "Keep Softened Icon"
 msgstr "Păstrează pictogramă înmuiată"
 
-#: utils/themeeditor.cpp:955
+#: utils/themeeditor.cpp:951
 msgid "When Disabled"
 msgstr ""
 
-#: utils/themeeditor.cpp:962
+#: utils/themeeditor.cpp:958
 #, fuzzy
 #| msgid "&Groupware"
 msgid "Group Header"
 msgstr "&Colaborare"
 
-#: utils/themeeditor.cpp:970
+#: utils/themeeditor.cpp:966
 msgctxt "@action:inmenu Group header background color setting"
 msgid "None"
 msgstr "Niciuna"
 
-#: utils/themeeditor.cpp:975
+#: utils/themeeditor.cpp:971
 msgctxt "@action:inmenu Group header background color setting"
 msgid "Automatic"
 msgstr "Automat"
 
-#: utils/themeeditor.cpp:980
+#: utils/themeeditor.cpp:976
 msgctxt "@action:inmenu Group header background color setting"
 msgid "Custom..."
 msgstr "Personalizat..."
 
-#: utils/themeeditor.cpp:988
+#: utils/themeeditor.cpp:984
 msgid "Background Color"
 msgstr "Culoare fundal"
 
-#: utils/themeeditor.cpp:1008
+#: utils/themeeditor.cpp:1004
 msgid "Background Style"
 msgstr "Stil fundal"
 
-#: utils/themeeditor.cpp:1209
+#: utils/themeeditor.cpp:1197
 msgid "Column Properties..."
 msgstr "Proprietăți coloană..."
 
-#: utils/themeeditor.cpp:1212
+#: utils/themeeditor.cpp:1200
 msgid "Add Column..."
 msgstr "Adăugare coloană..."
 
-#: utils/themeeditor.cpp:1215
+#: utils/themeeditor.cpp:1203
 msgid "Delete Column"
 msgstr "Șterge coloana"
 
-#: utils/themeeditor.cpp:1221
+#: utils/themeeditor.cpp:1209
 msgid "Move Column to Left"
 msgstr ""
 
-#: utils/themeeditor.cpp:1225
+#: utils/themeeditor.cpp:1213
 msgid "Move Column to Right"
 msgstr ""
 
-#: utils/themeeditor.cpp:1275
+#: utils/themeeditor.cpp:1263
 msgid "Add New Column"
 msgstr "Adaugă coloană nouă"
 
-#: utils/themeeditor.cpp:1302
+#: utils/themeeditor.cpp:1290
 msgid "Column Properties"
 msgstr "Proprietăți coloană"
 
-#: utils/themeeditor.cpp:1344
+#: utils/themeeditor.cpp:1332
 msgid "Appearance"
 msgstr "Aspect"
 
-#: utils/themeeditor.cpp:1348
+#: utils/themeeditor.cpp:1336
 msgid "Content Items"
 msgstr "Elemente conținut"
 
-#: utils/themeeditor.cpp:1472
+#: utils/themeeditor.cpp:1460
 msgid ""
 "Right click on the header to add or modify columns. Drag the content items "
 "and drop them on the columns in order to compose your theme. Right click on "
 "the items inside the view for more options."
 msgstr ""
 
-#: utils/themeeditor.cpp:1481
+#: utils/themeeditor.cpp:1469
 msgctxt "@title:tab Advanced theme settings"
 msgid "Advanced"
 msgstr "Avansat"
 
-#: utils/themeeditor.cpp:1485
+#: utils/themeeditor.cpp:1473
 msgid "Header:"
 msgstr "Antet:"
 
-#: utils/themeeditor.cpp:1491
+#: utils/themeeditor.cpp:1479
 #, fuzzy
 #| msgid "Icon Size"
 msgid "Icon size:"
 msgstr "Dimensiune pictogramă"
 
-#: utils/themeeditor.cpp:1497
+#: utils/themeeditor.cpp:1485
 msgctxt "suffix in a spinbox"
 msgid " pixel"
 msgid_plural " pixels"
@@ -1589,6 +1593,14 @@ msgstr "&Copiază aici"
 #: widget.cpp:437
 msgid "C&ancel"
 msgstr "R&enunță"
+
+#~ msgctxt "@action:inmenu Font setting"
+#~ msgid "Default"
+#~ msgstr "Implicit"
+
+#~ msgctxt "@action:inmenu Font setting"
+#~ msgid "Custom..."
+#~ msgstr "Personalizat..."
 
 #~ msgid "Open Full Search"
 #~ msgstr "Deschide căutare completă"
@@ -12842,12 +12854,6 @@ msgstr "R&enunță"
 #~| msgid "Align Center"
 #~ msgid "Center"
 #~ msgstr "Aliniază centrat"
-
-#~ msgid "&Bold"
-#~ msgstr "&Bold"
-
-#~ msgid "&Italic"
-#~ msgstr "&Italic"
 
 #~ msgid "&Underline"
 #~ msgstr "&Subliniat"

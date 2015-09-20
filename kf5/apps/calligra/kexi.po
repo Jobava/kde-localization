@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kexi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-07 07:36+0000\n"
+"POT-Creation-Date: 2015-09-19 08:45+0000\n"
 "PO-Revision-Date: 2012-12-22 11:39+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -646,7 +646,7 @@ msgctxt "@info"
 msgid "No plugin for ID <resource>%1</resource>"
 msgstr ""
 
-#: core/kexiproject.cpp:132 main/KexiMainWindow.cpp:3408
+#: core/kexiproject.cpp:132 main/KexiMainWindow.cpp:3414
 msgid "Could not set empty name for this object."
 msgstr ""
 
@@ -938,7 +938,7 @@ msgid ""
 "Design has been changed. You must save it before switching to other view."
 msgstr ""
 
-#: core/KexiWindow.cpp:555 main/KexiMainWindow.cpp:2631
+#: core/KexiWindow.cpp:555 main/KexiMainWindow.cpp:2630
 #, kde-format
 msgid "Switching to other view failed (%1)."
 msgstr ""
@@ -1266,54 +1266,54 @@ msgstr "Șterge itemul"
 msgid "Sub Item"
 msgstr "Subtip"
 
-#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:285
+#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:242
 #, fuzzy
 msgctxt "Add page to tab widget"
 msgid "Add Page"
 msgstr "Sursă de date:"
 
-#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:309
+#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:266
 #, fuzzy
 #| msgid "Remove Item"
 msgctxt "Remove tab widget's page"
 msgid "Remove Page"
 msgstr "Șterge itemul"
 
-#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:330
+#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:287
 msgctxt "Rename tab widget's page"
 msgid "Rename Page..."
 msgstr ""
 
-#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:344
+#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:301
 #, fuzzy
 msgctxt "@window:title"
 msgid "New Page Title"
 msgstr "Sursă de date:"
 
-#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:345
+#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:302
 msgid "Enter a new title for the current page:"
 msgstr ""
 
-#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:354
+#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:311
 msgctxt "Add page to a stacked widget"
 msgid "Add Page..."
 msgstr ""
 
-#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:381
+#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:338
 #, fuzzy
 #| msgid "Remove Item"
 msgctxt "Remove page from a stacked widget"
 msgid "Remove Page"
 msgstr "Șterge itemul"
 
-#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:428
+#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:385
 #, fuzzy
 #| msgid "Previous Page"
 msgctxt "Go to Previous Page of a Stacked Widget"
 msgid "Go to Previous Page"
 msgstr "Pagina precedentă"
 
-#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:429
+#: formeditor/factories/KexiStandardContainerFormWidgets.cpp:386
 #, fuzzy
 msgctxt "Go to Next Page of a Stacked Widget"
 msgid "Go to Next Page"
@@ -1416,7 +1416,7 @@ msgid "Indent"
 msgstr ""
 
 #: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:297
-#: plugins/forms/kexidbfactory.cpp:378
+#: plugins/forms/kexidbfactory.cpp:358
 #, fuzzy
 #| msgid "Authentication"
 msgid "Orientation"
@@ -1635,81 +1635,81 @@ msgstr ""
 msgid "A container to group some widgets"
 msgstr ""
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:412
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:397
 #, fuzzy
 #| msgid "File"
 msgctxt "'Title' property for group box"
 msgid "Title"
 msgstr "Fișier"
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:413
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:398
 #, fuzzy
 #| msgid "Format"
 msgctxt "'Flat' property for group box"
 msgid "Flat"
 msgstr "Format"
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:416
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:401
 msgid "Auto-hide Tabs"
 msgstr ""
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:417
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:402
 msgid "Tab Position"
 msgstr ""
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:418
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:403
 #, fuzzy
 #| msgid "Create"
 msgctxt "'Current page' property for tab widget"
 msgid "Current Page"
 msgstr "Creează"
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:419
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:404
 msgid "Tab Shape"
 msgstr ""
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:420
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:405
 msgctxt "Tab Widget's Elide Mode property"
 msgid "Elide Mode"
 msgstr ""
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:422
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:407
 #, fuzzy
 #| msgid "Clear History"
 msgctxt "Tab Widget's property: true if can use scroll buttons"
 msgid "Scroll Buttons"
 msgstr "Șterge istoricul"
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:424
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:409
 #, fuzzy
 msgid "Closable Tabs"
 msgstr "Sursă de date:"
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:425
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:410
 msgid "Movable Tabs"
 msgstr ""
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:426
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:411
 msgid "Document Mode"
 msgstr ""
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:428
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:413
 msgctxt "Property value for Tab Shape"
 msgid "Rounded"
 msgstr ""
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:429
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:414
 #, fuzzy
 #| msgid "Tabulator"
 msgctxt "Property value for Tab Shape"
 msgid "Triangular"
 msgstr "Tabulator"
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:587
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:567
 msgid "Edit Contents of List Widget"
 msgstr ""
 
-#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:1062
+#: formeditor/factories/KexiStandardFormWidgetsFactory.cpp:1042
 #, fuzzy
 #| msgid "Default"
 msgctxt "default indent value"
@@ -2154,7 +2154,7 @@ msgstr "Sursă de date:"
 
 #: formeditor/kexiactionselectiondialog.cpp:285
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:117
-#: widget/navigator/KexiProjectNavigator.cpp:201
+#: widget/navigator/KexiProjectNavigator.cpp:202
 msgid "Execute"
 msgstr "Execută"
 
@@ -2439,17 +2439,17 @@ msgctxt "@action:button Run script file"
 msgid "Run"
 msgstr ""
 
-#: kexiutils/utils.cpp:804
+#: kexiutils/utils.cpp:803
 #, kde-format
 msgctxt "'Dirty (modified) object' flag"
 msgid "%1*"
 msgstr ""
 
-#: kexiutils/utils.cpp:963
+#: kexiutils/utils.cpp:962
 msgid "modified"
 msgstr ""
 
-#: kexiutils/utils.cpp:974
+#: kexiutils/utils.cpp:973
 msgctxt "Document/application separator in titlebar"
 msgid " – "
 msgstr ""
@@ -2624,444 +2624,444 @@ msgctxt "Replace All Occurences"
 msgid "Replace All"
 msgstr "Înlocuiește"
 
-#: main/KexiMainWindow.cpp:203
+#: main/KexiMainWindow.cpp:202
 #, fuzzy
 msgid "&Close Tab"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:204
+#: main/KexiMainWindow.cpp:203
 #, fuzzy
 msgid "Close the current tab"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:205
+#: main/KexiMainWindow.cpp:204
 #, fuzzy
 msgid "Closes the current tab."
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:206
+#: main/KexiMainWindow.cpp:205
 #, fuzzy
 msgid "Cl&ose All Tabs"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:207
+#: main/KexiMainWindow.cpp:206
 #, fuzzy
 msgid "Close all tabs"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:208
+#: main/KexiMainWindow.cpp:207
 #, fuzzy
 msgid "Closes all tabs."
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:502
+#: main/KexiMainWindow.cpp:501
 #, kde-format
 msgctxt "Action name with three dots..."
 msgid "%1..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:534
+#: main/KexiMainWindow.cpp:533
 msgid "Create a new project"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:536
+#: main/KexiMainWindow.cpp:535
 msgid "Creates a new project. Currently opened project is not affected."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:542
+#: main/KexiMainWindow.cpp:541
 msgid "Open an existing project"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:544
+#: main/KexiMainWindow.cpp:543
 msgid "Opens an existing project. Currently opened project is not affected."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:559
+#: main/KexiMainWindow.cpp:558
 msgid "Welcome"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:563
+#: main/KexiMainWindow.cpp:562
 msgid "Show Welcome page"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:565
+#: main/KexiMainWindow.cpp:564
 msgid ""
 "Shows Welcome page with list of recently opened projects and other "
 "information. "
 msgstr ""
 
-#: main/KexiMainWindow.cpp:570
+#: main/KexiMainWindow.cpp:569
 msgid "Save object changes"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:571
+#: main/KexiMainWindow.cpp:570
 msgid "Saves object changes from currently selected window."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:575
+#: main/KexiMainWindow.cpp:574
 msgid "Save &As..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:576
+#: main/KexiMainWindow.cpp:575
 msgid "Save object as"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:578
+#: main/KexiMainWindow.cpp:577
 msgid ""
 "Saves object from currently selected window under a new name (within the "
 "same project)."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:594
+#: main/KexiMainWindow.cpp:593
 msgid "&Import, Export or Send..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:595
+#: main/KexiMainWindow.cpp:594
 msgid "Import, export or send project"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:597
+#: main/KexiMainWindow.cpp:596
 msgid "Imports, exports or sends project."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:603
+#: main/KexiMainWindow.cpp:602
 #, fuzzy
 msgctxt "Close Project"
 msgid "&Close"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:604
+#: main/KexiMainWindow.cpp:603
 msgid "Close the current project"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:605
+#: main/KexiMainWindow.cpp:604
 msgid "Closes the current project."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:612
+#: main/KexiMainWindow.cpp:611
 msgid "Quits Kexi application."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:627
+#: main/KexiMainWindow.cpp:626
 msgid "&Import Database..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:628
+#: main/KexiMainWindow.cpp:627
 msgid "Import entire database as a Kexi project"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:630
+#: main/KexiMainWindow.cpp:629
 msgid "Imports entire database as a Kexi project."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:635
+#: main/KexiMainWindow.cpp:634
 msgid "Import Tables"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:636
+#: main/KexiMainWindow.cpp:635
 msgid "Import data from an external source into this project"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:637
+#: main/KexiMainWindow.cpp:636
 msgid "Imports data from an external source into this project."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:643
+#: main/KexiMainWindow.cpp:642
 msgid "&Compact Database..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:644
+#: main/KexiMainWindow.cpp:643
 msgid "Compact the current database project"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:646
+#: main/KexiMainWindow.cpp:645
 msgid ""
 "Compacts the current database project, so it will take less space and work "
 "faster."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:656
+#: main/KexiMainWindow.cpp:655
 msgctxt "Import->Table Data From File..."
 msgid "Import Data From &File..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:657
+#: main/KexiMainWindow.cpp:656
 msgid "Import table data from a file"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:658
+#: main/KexiMainWindow.cpp:657
 msgid "Imports table data from a file."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:666
+#: main/KexiMainWindow.cpp:665
 msgctxt "Export->Table or Query Data to File..."
 msgid "Export Data to &File..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:668
+#: main/KexiMainWindow.cpp:667
 msgid "Export data from the active table or query to a file"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:670
+#: main/KexiMainWindow.cpp:669
 msgid "Exports data from the active table or query to a file."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:713
+#: main/KexiMainWindow.cpp:712
 msgctxt "Paste Special->As Data &Table..."
 msgid "Paste Special..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:715
+#: main/KexiMainWindow.cpp:714
 msgid "Paste clipboard data as a table"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:717
+#: main/KexiMainWindow.cpp:716
 msgid "Pastes clipboard data as a table."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:724
+#: main/KexiMainWindow.cpp:723
 msgctxt "Copy Special->Table or Query Data..."
 msgid "Copy Special..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:726
+#: main/KexiMainWindow.cpp:725
 msgid "Copy selected table or query data to clipboard"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:728
+#: main/KexiMainWindow.cpp:727
 msgid "Copies selected table or query data to clipboard."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:733
+#: main/KexiMainWindow.cpp:732
 msgid "Reverts the most recent editing action."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:735
+#: main/KexiMainWindow.cpp:734
 msgid "Reverts the most recent undo action."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:740
+#: main/KexiMainWindow.cpp:739
 #, fuzzy
 #| msgid "Find"
 msgid "Find text"
 msgstr "Căutare"
 
-#: main/KexiMainWindow.cpp:741
+#: main/KexiMainWindow.cpp:740
 msgid "Looks up the first occurrence of a piece of text."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:757
+#: main/KexiMainWindow.cpp:756
 msgid "&Delete"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:759
+#: main/KexiMainWindow.cpp:758
 msgid "Delete selected object"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:760
+#: main/KexiMainWindow.cpp:759
 msgid "Deletes currently selected object."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:762
+#: main/KexiMainWindow.cpp:761
 #, fuzzy
 msgid "Delete Record"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:764
+#: main/KexiMainWindow.cpp:763
 #, fuzzy
 msgid "Delete the current record"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:765
+#: main/KexiMainWindow.cpp:764
 #, fuzzy
 msgid "Deletes the current record."
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:767
+#: main/KexiMainWindow.cpp:766
 msgid "Clear Table Contents"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:769
+#: main/KexiMainWindow.cpp:768
 msgid "Clear table contents"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:770
+#: main/KexiMainWindow.cpp:769
 msgid "Clears table contents."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:773
+#: main/KexiMainWindow.cpp:772
 msgid "Edit Item"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:776
+#: main/KexiMainWindow.cpp:775
 msgid "Edit currently selected item"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:777
+#: main/KexiMainWindow.cpp:776
 msgid "Edits currently selected item."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:779
+#: main/KexiMainWindow.cpp:778
 msgid "&Insert Empty Row"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:783
+#: main/KexiMainWindow.cpp:782
 msgid "Insert one empty row above"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:785
+#: main/KexiMainWindow.cpp:784
 msgid "Inserts one empty row above currently selected table row."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:842
+#: main/KexiMainWindow.cpp:841
 #, fuzzy
 msgid "Switch to Project Navigator"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:844
+#: main/KexiMainWindow.cpp:843
 #, fuzzy
 msgid "Switch to Project Navigator panel"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:845
+#: main/KexiMainWindow.cpp:844
 #, fuzzy
 msgid "Switches to Project Navigator panel."
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:852
+#: main/KexiMainWindow.cpp:851
 #, fuzzy
 msgid "Switch to Main Area"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:853
+#: main/KexiMainWindow.cpp:852
 #, fuzzy
 msgid "Switch to main area"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:854
+#: main/KexiMainWindow.cpp:853
 #, fuzzy
 msgid "Switches to main area."
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:860
+#: main/KexiMainWindow.cpp:859
 #, fuzzy
 msgid "Switch to Property Editor"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:861
+#: main/KexiMainWindow.cpp:860
 #, fuzzy
 msgid "Switch to Property Editor panel"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:862
+#: main/KexiMainWindow.cpp:861
 #, fuzzy
 msgid "Switches to Property Editor panel."
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:869
+#: main/KexiMainWindow.cpp:868
 #, fuzzy
 msgid "Switch to Global Search"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:870
+#: main/KexiMainWindow.cpp:869
 msgid "Switch to Global Search box"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:871
+#: main/KexiMainWindow.cpp:870
 #, fuzzy
 msgid "Switches to Global Search box."
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:875
+#: main/KexiMainWindow.cpp:874
 msgid "&Save Record"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:877
+#: main/KexiMainWindow.cpp:876
 msgid "Save changes made to the current record"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:878
+#: main/KexiMainWindow.cpp:877
 msgid "Saves changes made to the current record."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:881
+#: main/KexiMainWindow.cpp:880
 msgid "&Cancel Record Changes"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:884
+#: main/KexiMainWindow.cpp:883
 msgid "Cancel changes made to the current record"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:886
+#: main/KexiMainWindow.cpp:885
 msgid "Cancels changes made to the current record."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:890
+#: main/KexiMainWindow.cpp:889
 msgid "&Execute"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:909
+#: main/KexiMainWindow.cpp:908
 msgid "&Font..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:911
+#: main/KexiMainWindow.cpp:910
 msgid "Change font for selected object"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:912
+#: main/KexiMainWindow.cpp:911
 msgid "Changes font for selected object."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:919
+#: main/KexiMainWindow.cpp:918
 msgid "&Next Window"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:926
+#: main/KexiMainWindow.cpp:925
 #, fuzzy
 msgid "Next window"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:927
+#: main/KexiMainWindow.cpp:926
 msgid "Switches to the next window."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:932
+#: main/KexiMainWindow.cpp:931
 msgid "&Previous Window"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:939
+#: main/KexiMainWindow.cpp:938
 msgid "Previous window"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:940
+#: main/KexiMainWindow.cpp:939
 msgid "Switches to the previous window."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:993
+#: main/KexiMainWindow.cpp:992
 msgid "This shows useful tips on the use of this application."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:997
+#: main/KexiMainWindow.cpp:996
 #, fuzzy
 #| msgid "Help"
 msgctxt "Help Menu"
 msgid "Help"
 msgstr "Ajutor"
 
-#: main/KexiMainWindow.cpp:998
+#: main/KexiMainWindow.cpp:997
 msgid "Show Help menu"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:999
+#: main/KexiMainWindow.cpp:998
 msgid "Shows Help menu."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1309
+#: main/KexiMainWindow.cpp:1308
 #, kde-format
 msgid "<br>(reason: <i>%1</i>)"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1335
+#: main/KexiMainWindow.cpp:1334
 #, kde-format
 msgctxt "@info (don't add tags around %1, it's done already)"
 msgid ""
@@ -3069,159 +3069,159 @@ msgid ""
 "you want to import it as a new Kexi project?"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1338
+#: main/KexiMainWindow.cpp:1337
 #, fuzzy
 #| msgid "Sorting"
 msgctxt "@action:button Import Database"
 msgid "&Import..."
 msgstr "Sortare"
 
-#: main/KexiMainWindow.cpp:1404
+#: main/KexiMainWindow.cpp:1403
 #, fuzzy
 msgctxt "@window:title"
 msgid "Select New Project's Location"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:1482
+#: main/KexiMainWindow.cpp:1481
 #, kde-format
 msgid "cannot create object - unknown object type \"%1\""
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1484
+#: main/KexiMainWindow.cpp:1483
 #, kde-format
 msgid "unknown object type \"%1\""
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1492
+#: main/KexiMainWindow.cpp:1491
 #, kde-format
 msgid "cannot create object of type \"%1\""
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1504
+#: main/KexiMainWindow.cpp:1503
 msgctxt "\"executing object\" action"
 msgid "executing"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1512
+#: main/KexiMainWindow.cpp:1511
 msgid "opening"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1516
+#: main/KexiMainWindow.cpp:1515
 msgid "table not found"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1518
+#: main/KexiMainWindow.cpp:1517
 msgid "query not found"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1520
+#: main/KexiMainWindow.cpp:1519
 msgid "macro not found"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1522
+#: main/KexiMainWindow.cpp:1521
 msgid "script not found"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1524
+#: main/KexiMainWindow.cpp:1523
 msgid "object not found"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1532
+#: main/KexiMainWindow.cpp:1531
 msgid "cannot execute object"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1571
+#: main/KexiMainWindow.cpp:1570
 msgid "cannot open object"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1584
+#: main/KexiMainWindow.cpp:1583
 msgid ""
 "You have requested selected objects to be automatically opened or processed "
 "on startup. Several objects cannot be opened or processed."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1845
+#: main/KexiMainWindow.cpp:1844
 #, fuzzy
 msgid "Hide project navigator"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:1923
+#: main/KexiMainWindow.cpp:1922
 msgid "Property Editor"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:1925
+#: main/KexiMainWindow.cpp:1924
 #, fuzzy
 msgid "Hide property editor"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:1950 widget/utils/kexicontextmenuutils.cpp:85
+#: main/KexiMainWindow.cpp:1949 widget/utils/kexicontextmenuutils.cpp:85
 msgid "Properties"
 msgstr "Proprietăți"
 
-#: main/KexiMainWindow.cpp:1984
+#: main/KexiMainWindow.cpp:1983
 #, fuzzy, kde-format
 #| msgid "Read only"
 msgctxt "<project-name> (read only)"
 msgid "%1 (read only)"
 msgstr "Numai-citire"
 
-#: main/KexiMainWindow.cpp:2566
+#: main/KexiMainWindow.cpp:2565
 msgid "From File..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:2571
+#: main/KexiMainWindow.cpp:2570
 msgid "From Server..."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:2619
+#: main/KexiMainWindow.cpp:2618
 #, kde-format
 msgid "Selected view is not supported for \"%1\" object."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:2621
+#: main/KexiMainWindow.cpp:2620
 #, kde-format
 msgid "Selected view (%1) is not supported by this object type (%2)."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:2693
+#: main/KexiMainWindow.cpp:2692
 msgctxt "Could not save object under the original name."
 msgid "Could not save under the original name."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:2714
+#: main/KexiMainWindow.cpp:2713
 #, fuzzy
 #| msgid "Save"
 msgctxt "@action:button Save object"
 msgid "Save"
 msgstr "Salvează"
 
-#: main/KexiMainWindow.cpp:2720
+#: main/KexiMainWindow.cpp:2719
 #, fuzzy
 msgctxt "@title:window"
 msgid "Save Object As"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:2770
+#: main/KexiMainWindow.cpp:2769
 #, kde-format
 msgctxt "@info Saving object failed"
 msgid "Saving <resource>%1</resource> object failed."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:2888
+#: main/KexiMainWindow.cpp:2887
 msgid "Save changes"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:2890
+#: main/KexiMainWindow.cpp:2889
 #, kde-format
 msgid "Saves all recent changes made in \"%1\" object."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:2894
+#: main/KexiMainWindow.cpp:2893
 #, kde-format
 msgid "Discards all recent changes made in \"%1\" object."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:2916
+#: main/KexiMainWindow.cpp:2915
 msgid "Do you want to save changes?"
 msgstr ""
 
@@ -3231,18 +3231,18 @@ msgctxt "opening is not allowed in \"data view/design view/text view\" mode"
 msgid "opening is not allowed in \"%1\" mode"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3158
+#: main/KexiMainWindow.cpp:3163
 #, kde-format
 msgid "Tab for \"%1\" (%2)."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3162
+#: main/KexiMainWindow.cpp:3167
 #, fuzzy, kde-format
 #| msgid "Table"
 msgid "Tab for \"%1\"."
 msgstr "Tabel"
 
-#: main/KexiMainWindow.cpp:3333
+#: main/KexiMainWindow.cpp:3339
 #, kde-format
 msgctxt "@info Remove <objecttype> <objectname>?"
 msgid ""
@@ -3251,24 +3251,24 @@ msgid ""
 "interface>, you will not be able to undo the deletion.</note>"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3339
+#: main/KexiMainWindow.cpp:3345
 #, kde-format
 msgctxt "@title:window Delete Object %1."
 msgid "Delete <resource>%1</resource>?"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3340
+#: main/KexiMainWindow.cpp:3346
 #, fuzzy
 #| msgid "Delete"
 msgctxt "@action:button Delete object"
 msgid "Delete"
 msgstr "Șterge"
 
-#: main/KexiMainWindow.cpp:3393
+#: main/KexiMainWindow.cpp:3399
 msgid "Could not remove object."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3416
+#: main/KexiMainWindow.cpp:3422
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -3276,33 +3276,33 @@ msgid ""
 "para><para>Do you want to close it?</para>"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3420
+#: main/KexiMainWindow.cpp:3426
 #, fuzzy
 msgctxt "@action:button"
 msgid "Close Window"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow.cpp:3431
+#: main/KexiMainWindow.cpp:3437
 #, kde-format
 msgid "Renaming object \"%1\" failed."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3449
+#: main/KexiMainWindow.cpp:3455
 #, kde-format
 msgid "Setting caption for object \"%1\" failed."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3616
+#: main/KexiMainWindow.cpp:3622
 #, kde-format
 msgid "Compacting database file <filename>%1</filename> is not supported."
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3628
+#: main/KexiMainWindow.cpp:3634
 msgctxt "@action:button Compact database"
 msgid "Compact"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3630
+#: main/KexiMainWindow.cpp:3636
 msgid ""
 "The current project has to be closed before compacting the database. It will "
 "be open again after compacting.\n"
@@ -3310,7 +3310,7 @@ msgid ""
 "Do you want to continue?"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3765
+#: main/KexiMainWindow.cpp:3771
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -3319,12 +3319,12 @@ msgid ""
 "query for exporting or from its original (saved) version?"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3770
+#: main/KexiMainWindow.cpp:3776
 msgctxt "@action:button Export query data"
 msgid "Use the Changed Query"
 msgstr ""
 
-#: main/KexiMainWindow.cpp:3771
+#: main/KexiMainWindow.cpp:3777
 msgctxt "@action:button Export query data"
 msgid "Use the Original Query"
 msgstr ""
@@ -3387,12 +3387,12 @@ msgstr "Sursă de date:"
 msgid "Report Design"
 msgstr "Sursă de date:"
 
-#: main/KexiMainWindow_p.cpp:1305
+#: main/KexiMainWindow_p.cpp:1320
 #, kde-format
 msgid "Could not start %1 application."
 msgstr ""
 
-#: main/KexiMainWindow_p.cpp:1306
+#: main/KexiMainWindow_p.cpp:1321
 #, kde-format
 msgid "Command \"%1\" failed."
 msgstr ""
@@ -4556,43 +4556,43 @@ msgstr ""
 msgid "Could not load import/export database driver \"%1\"."
 msgstr ""
 
-#: plugins/forms/kexidatasourcepage.cpp:46
+#: plugins/forms/kexidatasourcepage.cpp:47
 msgid "No data source could be assigned for this widget."
 msgstr ""
 
-#: plugins/forms/kexidatasourcepage.cpp:48
+#: plugins/forms/kexidatasourcepage.cpp:49
 msgid "No data source could be assigned for multiple widgets."
 msgstr ""
 
-#: plugins/forms/kexidatasourcepage.cpp:71
+#: plugins/forms/kexidatasourcepage.cpp:72
 #, fuzzy
 msgctxt "Table Field or Query Field"
 msgid "Widget's data source"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidatasourcepage.cpp:102
+#: plugins/forms/kexidatasourcepage.cpp:103
 #, fuzzy
 msgid "Form's data source"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidatasourcepage.cpp:110
+#: plugins/forms/kexidatasourcepage.cpp:111
 #, fuzzy
 msgid "Go to selected form's data source"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidatasourcepage.cpp:111
+#: plugins/forms/kexidatasourcepage.cpp:112
 #, fuzzy
 msgid "Goes to selected form's data source"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:79
+#: plugins/forms/kexidbfactory.cpp:76
 #, fuzzy
 #| msgid "Format"
 msgctxt "Form widget"
 msgid "Form"
 msgstr "Format"
 
-#: plugins/forms/kexidbfactory.cpp:88 plugins/forms/kexiformview.cpp:251
+#: plugins/forms/kexidbfactory.cpp:85 plugins/forms/kexiformview.cpp:251
 #, fuzzy
 #| msgid "Format"
 msgctxt ""
@@ -4606,19 +4606,19 @@ msgctxt ""
 msgid "form"
 msgstr "Format"
 
-#: plugins/forms/kexidbfactory.cpp:89
+#: plugins/forms/kexidbfactory.cpp:86
 #, fuzzy
 msgid "A form widget"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:119
+#: plugins/forms/kexidbfactory.cpp:99
 #, fuzzy
 #| msgid "Text"
 msgctxt "Text Box widget"
 msgid "Text Box"
 msgstr "Text"
 
-#: plugins/forms/kexidbfactory.cpp:128
+#: plugins/forms/kexidbfactory.cpp:108
 msgctxt ""
 "A prefix for identifiers of text box widgets. Based on that, identifiers "
 "such as textBox1, textBox2 are generated. This string can be used to refer "
@@ -4630,17 +4630,17 @@ msgctxt ""
 msgid "textBox"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:129
+#: plugins/forms/kexidbfactory.cpp:109
 msgid "A widget for entering and displaying line of text text"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:144
+#: plugins/forms/kexidbfactory.cpp:124
 #, fuzzy
 msgctxt "Text Editor widget"
 msgid "Text Editor"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:153
+#: plugins/forms/kexidbfactory.cpp:133
 #, fuzzy
 msgctxt ""
 "A prefix for identifiers of text editor widgets. Based on that, identifiers "
@@ -4653,18 +4653,18 @@ msgctxt ""
 msgid "textEditor"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:154
+#: plugins/forms/kexidbfactory.cpp:134
 msgid "A multiline text editor"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:167
+#: plugins/forms/kexidbfactory.cpp:147
 #, fuzzy
 #| msgid "Name"
 msgctxt "Frame widget"
 msgid "Frame"
 msgstr "Nume"
 
-#: plugins/forms/kexidbfactory.cpp:176
+#: plugins/forms/kexidbfactory.cpp:156
 #, fuzzy
 #| msgid "Name"
 msgctxt ""
@@ -4678,19 +4678,19 @@ msgctxt ""
 msgid "frame"
 msgstr "Nume"
 
-#: plugins/forms/kexidbfactory.cpp:177
+#: plugins/forms/kexidbfactory.cpp:157
 #, fuzzy
 msgid "A frame widget"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:188
+#: plugins/forms/kexidbfactory.cpp:168
 #, fuzzy
 #| msgid "Label"
 msgctxt "Text Label widget"
 msgid "Label"
 msgstr "Etichetă"
 
-#: plugins/forms/kexidbfactory.cpp:197
+#: plugins/forms/kexidbfactory.cpp:177
 #, fuzzy
 msgctxt ""
 "A prefix for identifiers of label widgets. Based on that, identifiers such "
@@ -4703,16 +4703,16 @@ msgctxt ""
 msgid "label"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:198
+#: plugins/forms/kexidbfactory.cpp:178
 msgid "A widget for displaying text"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:211
+#: plugins/forms/kexidbfactory.cpp:191
 msgctxt "Image Box widget"
 msgid "Image Box"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:220
+#: plugins/forms/kexidbfactory.cpp:200
 msgctxt ""
 "A prefix for identifiers of image box widgets. Based on that, identifiers "
 "such as image1, image2 are generated. This string can be used to refer the "
@@ -4724,16 +4724,16 @@ msgctxt ""
 msgid "image"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:221
+#: plugins/forms/kexidbfactory.cpp:201
 msgid "A widget for displaying images"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:235
+#: plugins/forms/kexidbfactory.cpp:215
 msgctxt "Combo Box widget"
 msgid "Combo Box"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:244
+#: plugins/forms/kexidbfactory.cpp:224
 msgctxt ""
 "A prefix for identifiers of combo box widgets. Based on that, identifiers "
 "such as comboBox1, comboBox2 are generated. This string can be used to refer "
@@ -4745,16 +4745,16 @@ msgctxt ""
 msgid "comboBox"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:245
+#: plugins/forms/kexidbfactory.cpp:225
 msgid "A combo box widget"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:255
+#: plugins/forms/kexidbfactory.cpp:235
 msgctxt "Check Box widget"
 msgid "Check Box"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:264
+#: plugins/forms/kexidbfactory.cpp:244
 msgctxt ""
 "A prefix for identifiers of combo box widgets. Based on that, identifiers "
 "such as checkBox1, checkBox2 are generated. This string can be used to refer "
@@ -4766,18 +4766,18 @@ msgctxt ""
 msgid "checkBox"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:265
+#: plugins/forms/kexidbfactory.cpp:245
 msgid "A check box with text label"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:290
+#: plugins/forms/kexidbfactory.cpp:270
 #, fuzzy
 #| msgid "Bottom"
 msgctxt "Button widget"
 msgid "Button"
 msgstr "Jos"
 
-#: plugins/forms/kexidbfactory.cpp:299
+#: plugins/forms/kexidbfactory.cpp:279
 #, fuzzy
 #| msgid "Bottom"
 msgctxt ""
@@ -4791,18 +4791,18 @@ msgctxt ""
 msgid "button"
 msgstr "Jos"
 
-#: plugins/forms/kexidbfactory.cpp:300
+#: plugins/forms/kexidbfactory.cpp:280
 msgid "A button for executing actions"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:309
+#: plugins/forms/kexidbfactory.cpp:289
 #, fuzzy
 #| msgid "Options"
 msgctxt "Link Button widget"
 msgid "Link Button"
 msgstr "Opțiuni"
 
-#: plugins/forms/kexidbfactory.cpp:318
+#: plugins/forms/kexidbfactory.cpp:298
 #, fuzzy
 #| msgid "Bottom"
 msgctxt ""
@@ -4816,18 +4816,18 @@ msgctxt ""
 msgid "linkButton"
 msgstr "Jos"
 
-#: plugins/forms/kexidbfactory.cpp:319
+#: plugins/forms/kexidbfactory.cpp:299
 msgid "A Link button for executing actions"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:326
+#: plugins/forms/kexidbfactory.cpp:306
 #, fuzzy
 #| msgid "Size"
 msgctxt "Slider widget"
 msgid "Slider"
 msgstr "Mărime"
 
-#: plugins/forms/kexidbfactory.cpp:335
+#: plugins/forms/kexidbfactory.cpp:315
 #, fuzzy
 #| msgid "Size"
 msgctxt ""
@@ -4841,17 +4841,17 @@ msgctxt ""
 msgid "slider"
 msgstr "Mărime"
 
-#: plugins/forms/kexidbfactory.cpp:336
+#: plugins/forms/kexidbfactory.cpp:316
 #, fuzzy
 msgid "A Slider widget"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:343
+#: plugins/forms/kexidbfactory.cpp:323
 msgctxt "Progress Bar widget"
 msgid "Progress Bar"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:352
+#: plugins/forms/kexidbfactory.cpp:332
 msgctxt ""
 "A prefix for identifiers of progress bar widgets. Based on that, identifiers "
 "such as progressBar1, progressBar2 are generated. This string can be used to "
@@ -4863,18 +4863,18 @@ msgctxt ""
 msgid "progressBar"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:353
+#: plugins/forms/kexidbfactory.cpp:333
 msgid "A Progress Bar widget"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:360
+#: plugins/forms/kexidbfactory.cpp:340
 #, fuzzy
 #| msgid "Widgets"
 msgctxt "Date Picker widget"
 msgid "Date Picker"
 msgstr "Controale"
 
-#: plugins/forms/kexidbfactory.cpp:369
+#: plugins/forms/kexidbfactory.cpp:349
 #, fuzzy
 #| msgid "Widgets"
 msgctxt ""
@@ -4888,208 +4888,208 @@ msgctxt ""
 msgid "datePicker"
 msgstr "Controale"
 
-#: plugins/forms/kexidbfactory.cpp:370
+#: plugins/forms/kexidbfactory.cpp:350
 #, fuzzy
 msgid "A Date Picker widget"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:374
+#: plugins/forms/kexidbfactory.cpp:354
 msgid "Inverted"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:375
+#: plugins/forms/kexidbfactory.cpp:355
 #, fuzzy
 #| msgid "Medium"
 msgid "Minimum"
 msgstr "Mediu"
 
-#: plugins/forms/kexidbfactory.cpp:376
+#: plugins/forms/kexidbfactory.cpp:356
 #, fuzzy
 #| msgid "Medium"
 msgid "Maximum"
 msgstr "Mediu"
 
-#: plugins/forms/kexidbfactory.cpp:377
+#: plugins/forms/kexidbfactory.cpp:357
 msgid "Format"
 msgstr "Format"
 
-#: plugins/forms/kexidbfactory.cpp:379
+#: plugins/forms/kexidbfactory.cpp:359
 #, fuzzy
 #| msgid "Descending"
 msgid "Text Direction"
 msgstr "Descrescător"
 
-#: plugins/forms/kexidbfactory.cpp:380
+#: plugins/forms/kexidbfactory.cpp:360
 #, fuzzy
 msgid "Text Visible"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:381
+#: plugins/forms/kexidbfactory.cpp:361
 #, fuzzy
 #| msgid "Table"
 msgid "Value"
 msgstr "Tabel"
 
-#: plugins/forms/kexidbfactory.cpp:382
+#: plugins/forms/kexidbfactory.cpp:362
 msgid "Date"
 msgstr "Dată"
 
-#: plugins/forms/kexidbfactory.cpp:383
+#: plugins/forms/kexidbfactory.cpp:363
 msgid "Arrow Visible"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, descGroupBox)
-#: plugins/forms/kexidbfactory.cpp:384 widget/KexiConnectionSelector.ui:118
+#: plugins/forms/kexidbfactory.cpp:364 widget/KexiConnectionSelector.ui:118
 msgid "Description"
 msgstr "Descriere"
 
-#: plugins/forms/kexidbfactory.cpp:385
+#: plugins/forms/kexidbfactory.cpp:365
 #, fuzzy
 msgctxt "Property of slider widgets"
 msgid "Page Step"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:386
+#: plugins/forms/kexidbfactory.cpp:366
 #, fuzzy
 msgctxt "Property of slider widgets"
 msgid "Single Step"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:387
+#: plugins/forms/kexidbfactory.cpp:367
 #, fuzzy
 #| msgid "Center"
 msgctxt "Property of slider widgets"
 msgid "Tick Interval"
 msgstr "Centru"
 
-#: plugins/forms/kexidbfactory.cpp:388
+#: plugins/forms/kexidbfactory.cpp:368
 msgctxt "Property of slider widgets"
 msgid "Tick Position"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:389
+#: plugins/forms/kexidbfactory.cpp:369
 #, fuzzy
 msgid "Show Editor"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:390
+#: plugins/forms/kexidbfactory.cpp:370
 msgid "Form Name"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:391
+#: plugins/forms/kexidbfactory.cpp:371
 msgid "On Click"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:392
+#: plugins/forms/kexidbfactory.cpp:372
 msgid "On Click Option"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:393
+#: plugins/forms/kexidbfactory.cpp:373
 #, fuzzy
 msgid "Auto Tab Order"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:394
+#: plugins/forms/kexidbfactory.cpp:374
 msgid "Spell Checking"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:395
+#: plugins/forms/kexidbfactory.cpp:375
 msgctxt "Widget Property"
 msgid "HTML"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:396
+#: plugins/forms/kexidbfactory.cpp:376
 msgid "Line Wrap At"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:397
+#: plugins/forms/kexidbfactory.cpp:377
 msgid "Line Wrap Mode"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:398
+#: plugins/forms/kexidbfactory.cpp:378
 msgid "Spell Checking Language"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:400
+#: plugins/forms/kexidbfactory.cpp:380
 #, fuzzy
 msgid "Editor Type"
 msgstr "Sursă de date:"
 
-#: plugins/forms/kexidbfactory.cpp:411
+#: plugins/forms/kexidbfactory.cpp:391
 msgctxt "AutoField editor's type"
 msgid "Multiline Text"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:412
+#: plugins/forms/kexidbfactory.cpp:392
 msgctxt "AutoField editor's type"
 msgid "Drop-Down List"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:413
+#: plugins/forms/kexidbfactory.cpp:393
 msgctxt "AutoField editor's type"
 msgid "Image"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:416
+#: plugins/forms/kexidbfactory.cpp:396
 msgctxt "Possible value of slider widget's \"Tick position\" property"
 msgid "No Ticks"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:417
+#: plugins/forms/kexidbfactory.cpp:397
 msgctxt "Possible value of slider widget's \"Tick position\" property"
 msgid "Above"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:418
+#: plugins/forms/kexidbfactory.cpp:398
 #, fuzzy
 #| msgid "Left"
 msgctxt "Possible value of slider widget's \"Tick position\" property"
 msgid "Left"
 msgstr "Stînga"
 
-#: plugins/forms/kexidbfactory.cpp:419
+#: plugins/forms/kexidbfactory.cpp:399
 msgctxt "Possible value of slider widget's \"Tick position\" property"
 msgid "Below"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:420
+#: plugins/forms/kexidbfactory.cpp:400
 #, fuzzy
 #| msgid "Right"
 msgctxt "Possible value of slider widget's \"Tick position\" property"
 msgid "Right"
 msgstr "Dreapta"
 
-#: plugins/forms/kexidbfactory.cpp:421
+#: plugins/forms/kexidbfactory.cpp:401
 msgctxt "Possible value of slider widget's \"Tick position\" property"
 msgid "Both Sides"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:434
+#: plugins/forms/kexidbfactory.cpp:414
 msgid "Size"
 msgstr "Mărime"
 
-#: plugins/forms/kexidbfactory.cpp:435
+#: plugins/forms/kexidbfactory.cpp:415
 #: widget/utils/kexicontextmenuutils.cpp:221
 msgid "Image"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:436
+#: plugins/forms/kexidbfactory.cpp:416
 msgid "Scaled Contents"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:437
+#: plugins/forms/kexidbfactory.cpp:417
 #, fuzzy
 #| msgid "Sorting"
 msgctxt "Property: Smoothing when contents are scaled"
 msgid "Smoothing"
 msgstr "Sortare"
 
-#: plugins/forms/kexidbfactory.cpp:438
+#: plugins/forms/kexidbfactory.cpp:418
 msgctxt "Property: Keep Aspect Ratio (keep short)"
 msgid "Keep Ratio"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:447
+#: plugins/forms/kexidbfactory.cpp:427
 msgctxt ""
 "Drop-Down Button for Image Box Visible (a property name, keep the text "
 "narrow!)"
@@ -5098,92 +5098,92 @@ msgid ""
 "Button Visible"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:450
+#: plugins/forms/kexidbfactory.cpp:430
 #, fuzzy
 #| msgid "Default"
 msgctxt "Value of \"Tristate\" property in checkbox: default"
 msgid "Default"
 msgstr "Implicit"
 
-#: plugins/forms/kexidbfactory.cpp:451
+#: plugins/forms/kexidbfactory.cpp:431
 msgctxt "Value of \"Tristate\" property in checkbox: yes"
 msgid "Yes"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:452
+#: plugins/forms/kexidbfactory.cpp:432
 #, fuzzy
 #| msgid "No"
 msgctxt "Value of \"Tristate\" property in checkbox: no"
 msgid "No"
 msgstr "Nu"
 
-#: plugins/forms/kexidbfactory.cpp:455
+#: plugins/forms/kexidbfactory.cpp:435
 msgctxt "Editable combobox"
 msgid "Editable"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:458
+#: plugins/forms/kexidbfactory.cpp:438
 msgctxt "Hyperlink address"
 msgid "Hyperlink"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:459
+#: plugins/forms/kexidbfactory.cpp:439
 msgctxt "Type of hyperlink"
 msgid "Hyperlink Type"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:460
+#: plugins/forms/kexidbfactory.cpp:440
 msgctxt "Tool used for opening a hyperlink"
 msgid "Hyperlink Tool"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:461
+#: plugins/forms/kexidbfactory.cpp:441
 msgctxt "Allow to open remote hyperlinks"
 msgid "Remote Hyperlink"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:462
+#: plugins/forms/kexidbfactory.cpp:442
 msgctxt "Allow to open executables"
 msgid "Executable Hyperlink"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:464
+#: plugins/forms/kexidbfactory.cpp:444
 msgctxt "Hyperlink type, NoHyperlink"
 msgid "No Hyperlink"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:465
+#: plugins/forms/kexidbfactory.cpp:445
 msgctxt "Hyperlink type, StaticHyperlink"
 msgid "Static"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:466
+#: plugins/forms/kexidbfactory.cpp:446
 msgctxt "Hyperlink type, DynamicHyperlink"
 msgid "Dynamic"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:468
+#: plugins/forms/kexidbfactory.cpp:448
 #, fuzzy
 #| msgid "Default"
 msgctxt "Hyperlink tool, DefaultTool"
 msgid "Default"
 msgstr "Implicit"
 
-#: plugins/forms/kexidbfactory.cpp:469
+#: plugins/forms/kexidbfactory.cpp:449
 msgctxt "Hyperlink tool, BrowserTool"
 msgid "Browser"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:470
+#: plugins/forms/kexidbfactory.cpp:450
 msgctxt "Hyperlink tool, MailerTool"
 msgid "Mailer"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:551
+#: plugins/forms/kexidbfactory.cpp:526
 msgid "&Image"
 msgstr ""
 
-#: plugins/forms/kexidbfactory.cpp:573
+#: plugins/forms/kexidbfactory.cpp:548
 msgid "&Assign Action..."
 msgstr ""
 
@@ -5361,7 +5361,7 @@ msgid "Copy"
 msgstr "Copiere"
 
 #: plugins/importexport/csv/kexicsvexportwizard.cpp:65
-#: widget/navigator/KexiProjectNavigator.cpp:207
+#: widget/navigator/KexiProjectNavigator.cpp:208
 msgid "Export"
 msgstr "Exportă"
 
@@ -7003,7 +7003,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: widget/dataviewcommon/kexidataprovider.cpp:229
+#: widget/dataviewcommon/kexidataprovider.cpp:218
 msgid "NAME"
 msgstr ""
 
@@ -7184,25 +7184,25 @@ msgstr ""
 msgid "Details"
 msgstr "Detalii"
 
-#: widget/kexidbconnectionwidget.cpp:400
+#: widget/kexidbconnectionwidget.cpp:394
 #, fuzzy
 msgctxt "@title:window"
 msgid "Open Database"
 msgstr "Sursă de date:"
 
-#: widget/kexidbconnectionwidget.cpp:412
+#: widget/kexidbconnectionwidget.cpp:406
 #, fuzzy
 msgctxt "@title:window"
 msgid "Connect to a Database Server"
 msgstr "Sursă de date:"
 
-#: widget/kexidbconnectionwidget.cpp:452
+#: widget/kexidbconnectionwidget.cpp:446
 #: widget/KexiProjectSelectorWidget.cpp:310
 msgctxt "@action:button"
 msgid "&Open"
 msgstr ""
 
-#: widget/kexidbconnectionwidget.cpp:452
+#: widget/kexidbconnectionwidget.cpp:446
 #: widget/KexiProjectSelectorWidget.cpp:311
 msgid "Open Database Connection"
 msgstr ""
@@ -7339,7 +7339,7 @@ msgid "(unspecified)"
 msgstr ""
 
 #: widget/KexiDBPasswordDialog.cpp:94
-#: widget/navigator/KexiProjectNavigator.cpp:160
+#: widget/navigator/KexiProjectNavigator.cpp:161
 msgid "&Open"
 msgstr ""
 
@@ -7533,133 +7533,133 @@ msgstr ""
 msgid "Overwrite"
 msgstr "Suprascrie"
 
-#: widget/navigator/KexiProjectNavigator.cpp:119
+#: widget/navigator/KexiProjectNavigator.cpp:120
 #, fuzzy
 msgctxt "@title:window"
 msgid "Project Navigator"
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:161
+#: widget/navigator/KexiProjectNavigator.cpp:162
 msgid "Open object"
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:161
+#: widget/navigator/KexiProjectNavigator.cpp:162
 #, fuzzy
 msgid "Opens object selected in the list."
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:172
+#: widget/navigator/KexiProjectNavigator.cpp:173
 #, fuzzy
 #| msgid "Delete"
 msgid "&Delete..."
 msgstr "Șterge"
 
-#: widget/navigator/KexiProjectNavigator.cpp:173
+#: widget/navigator/KexiProjectNavigator.cpp:174
 #, fuzzy
 msgid "Delete object"
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:174
+#: widget/navigator/KexiProjectNavigator.cpp:175
 msgid "Deletes the object selected in the list."
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:177
+#: widget/navigator/KexiProjectNavigator.cpp:178
 msgid "&Rename..."
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:178
+#: widget/navigator/KexiProjectNavigator.cpp:179
 #, fuzzy
 msgid "Rename object"
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:179
+#: widget/navigator/KexiProjectNavigator.cpp:180
 msgid "Renames the object selected in the list."
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:188
+#: widget/navigator/KexiProjectNavigator.cpp:189
 msgid "&Design"
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:189
+#: widget/navigator/KexiProjectNavigator.cpp:190
 #, fuzzy
 msgid "Design object"
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:190
+#: widget/navigator/KexiProjectNavigator.cpp:191
 msgid "Starts designing of the object selected in the list."
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:193
+#: widget/navigator/KexiProjectNavigator.cpp:194
 #, fuzzy
 msgid "Design in &Text View"
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:194
+#: widget/navigator/KexiProjectNavigator.cpp:195
 #, fuzzy
 msgid "Design object in text view"
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:195
+#: widget/navigator/KexiProjectNavigator.cpp:196
 #, fuzzy
 msgid "Starts designing of the object in the list in text view."
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:209
+#: widget/navigator/KexiProjectNavigator.cpp:210
 msgctxt "Export->To Clipboard as Data... "
 msgid "To &Clipboard..."
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:210
+#: widget/navigator/KexiProjectNavigator.cpp:211
 msgid "Export data to clipboard"
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:211
+#: widget/navigator/KexiProjectNavigator.cpp:212
 msgid "Exports data from the currently selected table or query to clipboard."
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:216
+#: widget/navigator/KexiProjectNavigator.cpp:217
 #, fuzzy
 msgctxt "Export->To File As Data &Table... "
 msgid "To &File As Data Table..."
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:217
+#: widget/navigator/KexiProjectNavigator.cpp:218
 msgid "Export data to a file"
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:218
+#: widget/navigator/KexiProjectNavigator.cpp:219
 msgid "Exports data from the currently selected table or query to a file."
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:368
+#: widget/navigator/KexiProjectNavigator.cpp:369
 #, kde-format
 msgid "&Create Object: %1..."
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:374
+#: widget/navigator/KexiProjectNavigator.cpp:375
 #, fuzzy
 msgid "&Create Object..."
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:468
+#: widget/navigator/KexiProjectNavigator.cpp:469
 #, kde-format
 msgctxt "@info Rename object %1:"
 msgid "Rename <resource>%1</resource>:"
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:470
+#: widget/navigator/KexiProjectNavigator.cpp:471
 #, fuzzy
 msgctxt "@action:button Rename object"
 msgid "Rename"
 msgstr "Sursă de date:"
 
-#: widget/navigator/KexiProjectNavigator.cpp:480
+#: widget/navigator/KexiProjectNavigator.cpp:481
 #, kde-format
 msgctxt "@title:window Rename Object %1."
 msgid "Rename <resource>%1</resource>"
 msgstr ""
 
-#: widget/navigator/KexiProjectNavigator.cpp:637
+#: widget/navigator/KexiProjectNavigator.cpp:638
 #, kde-format
 msgctxt "@info Message for empty state in project navigator"
 msgid ""
@@ -7723,18 +7723,18 @@ msgstr ""
 msgid "Click to show available actions for this cell"
 msgstr ""
 
-#: widget/tableview/KexiTableScrollArea.cpp:2379
+#: widget/tableview/KexiTableScrollArea.cpp:2380
 msgctxt "@info:whatsthis"
 msgid "Contains a pointer to the currently selected record."
 msgstr ""
 
-#: widget/tableview/KexiTableScrollArea.cpp:2382
+#: widget/tableview/KexiTableScrollArea.cpp:2383
 #, fuzzy
 msgctxt "@info:whatsthis"
 msgid "Record navigator."
 msgstr "Sursă de date:"
 
-#: widget/tableview/KexiTableScrollArea.cpp:2389
+#: widget/tableview/KexiTableScrollArea.cpp:2390
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Column <resource>%1</resource>."

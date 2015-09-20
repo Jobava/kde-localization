@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-01 09:11+0000\n"
+"POT-Creation-Date: 2015-09-19 09:25+0000\n"
 "PO-Revision-Date: 2013-10-13 12:29+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -373,15 +373,15 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: package/contents/ui/main.qml:298
+#: package/contents/ui/main.qml:300
 msgid "Widgets unlocked"
 msgstr ""
 
-#: package/contents/ui/main.qml:299
+#: package/contents/ui/main.qml:301
 msgid "You can press and hold widgets to move them and reveal their handles."
 msgstr ""
 
-#: package/contents/ui/main.qml:300
+#: package/contents/ui/main.qml:302
 msgid "Got it"
 msgstr ""
 

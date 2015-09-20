@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:34+0000\n"
+"POT-Creation-Date: 2015-09-14 08:38+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1426,7 +1426,7 @@ msgctxt "X-KDE-Keywords"
 msgid "Mount,Removable,Devices,Automatic"
 msgstr ""
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:34
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:35
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Removable"
@@ -1434,7 +1434,7 @@ msgctxt "Name"
 msgid "Removable Devices"
 msgstr "Amovibil"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:58
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:60
 msgctxt "Comment"
 msgid "Configure automatic handling of removable storage media"
 msgstr ""
@@ -1444,7 +1444,7 @@ msgctxt "Name"
 msgid "Removable Device Automounter"
 msgstr ""
 
-#: solid-device-automounter/kded/device_automounter.desktop:33
+#: solid-device-automounter/kded/device_automounter.desktop:34
 msgctxt "Comment"
 msgid "Automatically mounts devices as needed"
 msgstr ""

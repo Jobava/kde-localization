@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: koconverter\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-31 08:53+0000\n"
+"POT-Creation-Date: 2015-09-11 07:32+0000\n"
 "PO-Revision-Date: 2009-04-26 13:54+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
@@ -19,91 +19,91 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
 
-#: calligraconverter.cpp:147
+#: calligraconverter.cpp:148
 #, fuzzy
 #| msgid "KOffice Document Converter"
 msgid "CalligraConverter"
 msgstr "Convertor de documente KOffice"
 
-#: calligraconverter.cpp:148
+#: calligraconverter.cpp:149
 #, fuzzy
 #| msgid "KOffice Document Converter"
 msgid "Calligra Document Converter"
 msgstr "Convertor de documente KOffice"
 
-#: calligraconverter.cpp:150
+#: calligraconverter.cpp:151
 #, fuzzy
 #| msgid "(c) 2001-2004 KOffice developers"
 msgid "(c) 2001-2011 Calligra developers"
 msgstr "(c) 2001-2004 Dezvoltatorii KOffice"
 
-#: calligraconverter.cpp:151
+#: calligraconverter.cpp:152
 msgid "David Faure"
 msgstr "David Faure"
 
-#: calligraconverter.cpp:152
+#: calligraconverter.cpp:153
 msgid "Nicolas Goutte"
 msgstr "Nicolas Goutte"
 
-#: calligraconverter.cpp:153
+#: calligraconverter.cpp:154
 msgid "Dan Leinir Turthra Jensen"
 msgstr ""
 
-#: calligraconverter.cpp:157
+#: calligraconverter.cpp:158
 msgid "Input file"
 msgstr "Fișier de intrare"
 
-#: calligraconverter.cpp:158
+#: calligraconverter.cpp:159
 msgid "Output file"
 msgstr "Fișier de ieșire"
 
-#: calligraconverter.cpp:159
+#: calligraconverter.cpp:160
 msgid "Make a backup of the destination file"
 msgstr "Fă o copie de siguranță a fișierului-destinație"
 
-#: calligraconverter.cpp:160
+#: calligraconverter.cpp:161
 msgid "Batch mode: do not show dialogs"
 msgstr "Regim în serie: nu arăta dialoguri"
 
-#: calligraconverter.cpp:161
+#: calligraconverter.cpp:162
 msgid "Interactive mode: show dialogs (default)"
 msgstr "Regim interactiv: arată dialoguri (implicit)"
 
-#: calligraconverter.cpp:162
+#: calligraconverter.cpp:163
 msgid "Mimetype of the output file"
 msgstr "Tipul MIME al fișierului de ieșire"
 
-#: calligraconverter.cpp:165
+#: calligraconverter.cpp:166
 msgid "The print orientation. This could be either Portrait or Landscape."
 msgstr ""
 
-#: calligraconverter.cpp:166
+#: calligraconverter.cpp:167
 msgid "The paper size. A4, Legal, Letter, ..."
 msgstr ""
 
-#: calligraconverter.cpp:167
+#: calligraconverter.cpp:168
 msgid "The size of the paper margin. By default this is 0.2."
 msgstr ""
 
-#: calligraconverter.cpp:176
+#: calligraconverter.cpp:177
 msgid "Two arguments required"
 msgstr "Sînt necesari doi argumenți"
 
-#: calligraconverter.cpp:204
+#: calligraconverter.cpp:205
 #, kde-format
 msgid "Mimetype for input file %1 not found!"
 msgstr "Tipul MIME pentru fișierul de intrare %1 nu a fost găsit!"
 
-#: calligraconverter.cpp:213
+#: calligraconverter.cpp:214
 #, kde-format
 msgid "Mimetype not found %1"
 msgstr "Tipul MIME nu a fost găsit %1"
 
-#: calligraconverter.cpp:219
+#: calligraconverter.cpp:220
 msgid "Mimetype not found, try using the -mimetype option"
 msgstr "Tipul MIME nu a fost găsit, încercați utilizarea opțiunii -mimetype"
 
-#: calligraconverter.cpp:243
+#: calligraconverter.cpp:244
 msgid "*** The conversion failed! ***"
 msgstr "*** Conversia a eșuat! ***"
 

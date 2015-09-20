@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-26 08:44+0000\n"
+"POT-Creation-Date: 2015-09-19 09:23+0000\n"
 "PO-Revision-Date: 2013-11-26 23:23+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -926,7 +926,7 @@ msgstr "Comută un birou în jos"
 msgid "Switch to Desktop %1"
 msgstr "Comută la biroul %1"
 
-#: workspace.cpp:1295
+#: workspace.cpp:1300
 msgctxt "Introductory text shown in the support information."
 msgid ""
 "KWin Support Information:\n"

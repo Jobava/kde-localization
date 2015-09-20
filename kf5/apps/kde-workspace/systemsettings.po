@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-08 09:20+0000\n"
+"POT-Creation-Date: 2015-09-12 09:27+0000\n"
 "PO-Revision-Date: 2009-08-12 19:41+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Română <kde-i18n-ro@kde.org>\n"
@@ -86,20 +86,20 @@ msgstr "Caută"
 msgid "Configure"
 msgstr "Configurează"
 
-#: app/SettingsBase.cpp:163
+#: app/SettingsBase.cpp:165
 msgid "Help"
 msgstr "Ajutor"
 
-#: app/SettingsBase.cpp:168 app/SettingsBase.cpp:357
+#: app/SettingsBase.cpp:170 app/SettingsBase.cpp:359
 msgid "About Active Module"
 msgstr "Despre modulul activ"
 
-#: app/SettingsBase.cpp:182
+#: app/SettingsBase.cpp:184
 msgctxt "General config for System Settings"
 msgid "General"
 msgstr "General"
 
-#: app/SettingsBase.cpp:269
+#: app/SettingsBase.cpp:271
 msgid ""
 "System Settings was unable to find any views, and hence nothing is available "
 "to configure."
@@ -107,11 +107,11 @@ msgstr ""
 "Configurări de sistem nu a putut găsi nicio vizualizare, de aceea nu este "
 "nimic de configurat."
 
-#: app/SettingsBase.cpp:269 app/SettingsBase.cpp:307
+#: app/SettingsBase.cpp:271 app/SettingsBase.cpp:309
 msgid "No views found"
 msgstr "Nicio vizualizare găsită"
 
-#: app/SettingsBase.cpp:307
+#: app/SettingsBase.cpp:309
 msgid ""
 "System Settings was unable to find any views, and hence has nothing to "
 "display."
@@ -119,11 +119,11 @@ msgstr ""
 "Configurări de sistem nu a putut găsi nicio vizualizare, de aceea nu are "
 "nimic de afișat."
 
-#: app/SettingsBase.cpp:339
+#: app/SettingsBase.cpp:341
 msgid "About Active View"
 msgstr "Despre vizualizarea activă"
 
-#: app/SettingsBase.cpp:398
+#: app/SettingsBase.cpp:400
 #, kde-format
 msgid "About %1"
 msgstr "Despre %1"

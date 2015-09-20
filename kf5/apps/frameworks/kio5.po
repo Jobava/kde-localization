@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkio\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-08 10:32+0000\n"
+"POT-Creation-Date: 2015-09-17 09:14+0000\n"
 "PO-Revision-Date: 2014-07-04 14:19+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -3133,7 +3133,7 @@ msgstr ""
 "specifice dialogului de fișiere, dar ele operează la fel ca și celelalte "
 "semne de carte întîlnite în alte părți ale KDE.</qt>"
 
-#: filewidgets/knewfilemenu.cpp:381 filewidgets/knewfilemenu.cpp:934
+#: filewidgets/knewfilemenu.cpp:381 filewidgets/knewfilemenu.cpp:939
 msgid "Sorry"
 msgstr "Scuze"
 
@@ -3186,7 +3186,7 @@ msgctxt "@item:inmenu Create New"
 msgid "%1"
 msgstr "%1"
 
-#: filewidgets/knewfilemenu.cpp:945
+#: filewidgets/knewfilemenu.cpp:950
 msgid ""
 "Basic links can only point to local files or directories.\n"
 "Please use \"Link to Location\" for remote URLs."
@@ -3194,25 +3194,25 @@ msgstr ""
 "Legăturile de bază pot să indice doar către fișiere sau dosare locale.\n"
 "Vă rugăm folosiți \"Legătură la locație\" pentru URL-uri la distanță."
 
-#: filewidgets/knewfilemenu.cpp:1022
+#: filewidgets/knewfilemenu.cpp:1027
 msgid "Create New"
 msgstr "Creează nou"
 
-#: filewidgets/knewfilemenu.cpp:1037
+#: filewidgets/knewfilemenu.cpp:1042
 msgid "Link to Device"
 msgstr "Legătură la dispozitiv"
 
-#: filewidgets/knewfilemenu.cpp:1091
+#: filewidgets/knewfilemenu.cpp:1096
 msgctxt "Default name for a new folder"
 msgid "New Folder"
 msgstr "Dosar nou"
 
-#: filewidgets/knewfilemenu.cpp:1101
+#: filewidgets/knewfilemenu.cpp:1106
 msgctxt "@title:window"
 msgid "New Folder"
 msgstr "Dosar nou"
 
-#: filewidgets/knewfilemenu.cpp:1104
+#: filewidgets/knewfilemenu.cpp:1109
 #, kde-format
 msgid ""
 "Create new folder in:\n"
@@ -4005,11 +4005,11 @@ msgstr ""
 msgid "Restore a trashed file to its original location"
 msgstr ""
 
-#: ioslaves/trash/trashimpl.cpp:1165
+#: ioslaves/trash/trashimpl.cpp:1195
 msgid "The file is too large to be trashed."
 msgstr ""
 
-#: ioslaves/trash/trashimpl.cpp:1171
+#: ioslaves/trash/trashimpl.cpp:1201
 msgid ""
 "The trash has reached its maximum size!\n"
 "Cleanup the trash manually."

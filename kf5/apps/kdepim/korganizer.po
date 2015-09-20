@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: korganizer-1.1.1\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-04 08:06+0000\n"
+"POT-Creation-Date: 2015-09-19 09:06+0000\n"
 "PO-Revision-Date: 2013-02-16 10:43+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1306,6 +1306,73 @@ msgid ""
 "You can enable it through the calendar manager (Settings->Sidebar->Show "
 "Calendar Manager)"
 msgstr ""
+
+#: collectiongeneralpage.cpp:58
+#, fuzzy
+#| msgctxt "@title:tab general settings"
+#| msgid "General"
+msgctxt "@title:tab General settings for a folder."
+msgid "General"
+msgstr "General"
+
+#: collectiongeneralpage.cpp:68
+#, fuzzy
+#| msgctxt "filter name"
+#| msgid "Name:"
+msgctxt "@label:textbox Name of the folder."
+msgid "&Name:"
+msgstr "Denumire:"
+
+#: collectiongeneralpage.cpp:73
+#, fuzzy
+msgctxt "@info:tooltip"
+msgid "Set the folder name"
+msgstr "Dată de sfîrșit"
+
+#: collectiongeneralpage.cpp:76
+msgctxt "@info:whatsthis"
+msgid "Enter a name here to set the name of this folder."
+msgstr ""
+
+#: collectiongeneralpage.cpp:84
+#, fuzzy
+msgctxt "@option:check"
+msgid "Block reminders locally"
+msgstr "Amintire:"
+
+#: collectiongeneralpage.cpp:86
+#, fuzzy
+msgctxt "@info:tooltip"
+msgid "Ignore reminders from this calendar"
+msgstr "&Editează întîlnirea..."
+
+#: collectiongeneralpage.cpp:89
+#, fuzzy
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you do not want to receive reminders from items associated "
+"with this calendar."
+msgstr "Activează bare de defilare în celule vizualizare lunară"
+
+#: collectiongeneralpage.cpp:95
+#, fuzzy
+#| msgid "Calendar"
+msgctxt "@option:check"
+msgid "&Use custom icon:"
+msgstr "Calendar"
+
+#: collectiongeneralpage.cpp:97
+#, fuzzy
+#| msgid "Calendar"
+msgctxt "@info:tooltip"
+msgid "Set a custom icon"
+msgstr "Calendar"
+
+#: collectiongeneralpage.cpp:100
+#, fuzzy
+msgctxt "@info:whatsthis"
+msgid "Check this box if you want to set a custom icon for this folder."
+msgstr "Activează bare de defilare în celule vizualizare lunară"
 
 #. i18n: ectx: Menu (file)
 #: data/korganizer_part.rc:4 data/korganizerui.rc:4
@@ -3803,39 +3870,39 @@ msgctxt "Default export file"
 msgid "calendar.html"
 msgstr "calendar.html"
 
-#: prefs/koprefsdialog.cpp:100
+#: prefs/koprefsdialog.cpp:99
 msgctxt "@title:tab personal settings"
 msgid "Personal"
 msgstr "Personal"
 
-#: prefs/koprefsdialog.cpp:108
+#: prefs/koprefsdialog.cpp:107
 msgctxt "@title:group email settings"
 msgid "Email Settings"
 msgstr "Configurări poștă"
 
-#: prefs/koprefsdialog.cpp:128
+#: prefs/koprefsdialog.cpp:127
 msgctxt "@title:tab"
 msgid "Save"
 msgstr "Salvează"
 
-#: prefs/koprefsdialog.cpp:132
+#: prefs/koprefsdialog.cpp:131
 #, fuzzy
 #| msgid "Import Calendar"
 msgctxt "@title:group"
 msgid "Exporting Calendar"
 msgstr "Importă calendar"
 
-#: prefs/koprefsdialog.cpp:168
+#: prefs/koprefsdialog.cpp:167
 msgctxt "@title:tab systray settings"
 msgid "System Tray"
 msgstr "Tavă de sistem"
 
-#: prefs/koprefsdialog.cpp:171
+#: prefs/koprefsdialog.cpp:170
 msgctxt "@title:group"
 msgid "Show/Hide Options"
 msgstr "Opțiuni afișare/ascundere"
 
-#: prefs/koprefsdialog.cpp:180
+#: prefs/koprefsdialog.cpp:179
 msgctxt "@info:tooltip"
 msgid ""
 "Enable this setting to show the KOrganizer reminder daemon in your system "
@@ -3844,7 +3911,7 @@ msgstr ""
 "Activați această opțiune pentru a arăta demonul KOrganizatorului în tava de "
 "sistem (recomandat)."
 
-#: prefs/koprefsdialog.cpp:185
+#: prefs/koprefsdialog.cpp:184
 msgctxt "@info"
 msgid ""
 "<note>The daemon will continue running even if it is not shown in the system "
@@ -3853,41 +3920,41 @@ msgstr ""
 "<note>Demonul va continua să ruleze chiar dacă nu este afișat în tava de "
 "sistem.</note>"
 
-#: prefs/koprefsdialog.cpp:194
+#: prefs/koprefsdialog.cpp:193
 #, fuzzy
 msgctxt "@title:tab calendar account settings"
 msgid "Calendars"
 msgstr "iCalendar"
 
-#: prefs/koprefsdialog.cpp:248
+#: prefs/koprefsdialog.cpp:247
 msgctxt "@title:tab"
 msgid "Regional"
 msgstr "Regional"
 
-#: prefs/koprefsdialog.cpp:253
+#: prefs/koprefsdialog.cpp:252
 msgctxt "@title:group"
 msgid "General Time and Date"
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:264
+#: prefs/koprefsdialog.cpp:263
 #, fuzzy
 #| msgid "Holiday"
 msgctxt "@title:group"
 msgid "Holidays"
 msgstr "Sărbătoare"
 
-#: prefs/koprefsdialog.cpp:276
+#: prefs/koprefsdialog.cpp:275
 msgctxt "@label"
 msgid "Use holiday region:"
 msgstr "Utilizează regiune de sărbători"
 
-#: prefs/koprefsdialog.cpp:297
+#: prefs/koprefsdialog.cpp:296
 #, fuzzy, kde-format
 msgctxt "Holday region, region language"
 msgid "%1 (%2)"
 msgstr "%1 %2"
 
-#: prefs/koprefsdialog.cpp:302
+#: prefs/koprefsdialog.cpp:301
 #, fuzzy
 #| msgctxt "@item:inlistbox do not use holidays"
 #| msgid "(None)"
@@ -3895,7 +3962,7 @@ msgctxt "No holiday region"
 msgid "None"
 msgstr "(Nimic)"
 
-#: prefs/koprefsdialog.cpp:317
+#: prefs/koprefsdialog.cpp:316
 #, fuzzy
 #| msgctxt "@title:group"
 #| msgid "Working Hours"
@@ -3903,7 +3970,7 @@ msgctxt "@title:group"
 msgid "Working Period"
 msgstr "Ore de lucru"
 
-#: prefs/koprefsdialog.cpp:335
+#: prefs/koprefsdialog.cpp:334
 msgctxt "@info:whatsthis"
 msgid ""
 "Check this box to make KOrganizer mark the working hours for this day of the "
@@ -3911,12 +3978,12 @@ msgid ""
 "will not be marked with color."
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:373
+#: prefs/koprefsdialog.cpp:372
 msgctxt "@title:tab"
 msgid "Default Values"
 msgstr "Valori implicite"
 
-#: prefs/koprefsdialog.cpp:377
+#: prefs/koprefsdialog.cpp:376
 #, fuzzy
 #| msgctxt "incidence category: appointment"
 #| msgid "Appointment"
@@ -3924,18 +3991,18 @@ msgctxt "@title:group"
 msgid "Appointments"
 msgstr "Întîlnire"
 
-#: prefs/koprefsdialog.cpp:395
+#: prefs/koprefsdialog.cpp:394
 #, fuzzy
 msgctxt "@title:group"
 msgid "Reminders"
 msgstr "Amintire:"
 
-#: prefs/koprefsdialog.cpp:401
+#: prefs/koprefsdialog.cpp:400
 msgctxt "@label"
 msgid "Default reminder time:"
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:420
+#: prefs/koprefsdialog.cpp:419
 #, fuzzy
 #| msgctxt "@item:inlistbox alarm expressed in minutes"
 #| msgid "minute(s)"
@@ -3943,7 +4010,7 @@ msgctxt "@item:inlistbox reminder units in minutes"
 msgid "minute(s)"
 msgstr "minut(e)"
 
-#: prefs/koprefsdialog.cpp:422
+#: prefs/koprefsdialog.cpp:421
 #, fuzzy
 #| msgctxt "@item:inlistbox alarm expressed in hours"
 #| msgid "hour(s)"
@@ -3951,7 +4018,7 @@ msgctxt "@item:inlistbox reminder time units in hours"
 msgid "hour(s)"
 msgstr "oră(e)"
 
-#: prefs/koprefsdialog.cpp:424
+#: prefs/koprefsdialog.cpp:423
 #, fuzzy
 #| msgctxt "@label recurrence expressed in days"
 #| msgid "day(s)"
@@ -3959,41 +4026,41 @@ msgctxt "@item:inlistbox reminder time units in days"
 msgid "day(s)"
 msgstr "zi(le)"
 
-#: prefs/koprefsdialog.cpp:436
+#: prefs/koprefsdialog.cpp:435
 msgid ""
 "*.ogg *.wav *.mp3 *.wma *.flac *.aiff *.raw *.au *.ra|Audio Files (*.ogg *."
 "wav *.mp3 *.wma *.flac *.aiff *.raw *.au *.ra)"
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:548
+#: prefs/koprefsdialog.cpp:547
 msgctxt "@title:tab general settings"
 msgid "General"
 msgstr "General"
 
-#: prefs/koprefsdialog.cpp:554 prefs/koprefsdialog.cpp:601
-#: prefs/koprefsdialog.cpp:659 prefs/koprefsdialog.cpp:695
+#: prefs/koprefsdialog.cpp:553 prefs/koprefsdialog.cpp:600
+#: prefs/koprefsdialog.cpp:658 prefs/koprefsdialog.cpp:694
 #, fuzzy
 #| msgid "Display Options"
 msgctxt "@title:group"
 msgid "Display Options"
 msgstr "Opțiuni afișare"
 
-#: prefs/koprefsdialog.cpp:562
+#: prefs/koprefsdialog.cpp:561
 msgctxt "@label suffix in the N days spin box"
 msgid " days"
 msgstr " zile"
 
-#: prefs/koprefsdialog.cpp:577
+#: prefs/koprefsdialog.cpp:576
 msgctxt "@title:group"
 msgid "Date Navigator"
 msgstr "Navigator date"
 
-#: prefs/koprefsdialog.cpp:595
+#: prefs/koprefsdialog.cpp:594
 msgctxt "@title:tab"
 msgid "Agenda View"
 msgstr "Vizualizare agendă"
 
-#: prefs/koprefsdialog.cpp:609
+#: prefs/koprefsdialog.cpp:608
 #, fuzzy
 #| msgctxt "@label suffix in the hour size spin box"
 #| msgid " pixel"
@@ -4001,125 +4068,125 @@ msgctxt "@label suffix in the hour size spin box"
 msgid " pixels"
 msgstr " pixel"
 
-#: prefs/koprefsdialog.cpp:653
+#: prefs/koprefsdialog.cpp:652
 msgctxt "@title:tab"
 msgid "Month View"
 msgstr "Vizualizare lunară"
 
-#: prefs/koprefsdialog.cpp:689
+#: prefs/koprefsdialog.cpp:688
 msgctxt "@title:tab"
 msgid "Todo View"
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:703
+#: prefs/koprefsdialog.cpp:702
 #, fuzzy
 #| msgid "Other Options"
 msgctxt "@title:group"
 msgid "Other Options"
 msgstr "Alte opțiuni"
 
-#: prefs/koprefsdialog.cpp:747
+#: prefs/koprefsdialog.cpp:746
 msgctxt "@title:tab"
 msgid "Colors"
 msgstr "Culori"
 
-#: prefs/koprefsdialog.cpp:793
+#: prefs/koprefsdialog.cpp:792
 msgctxt "@title:group"
 msgid "Categories"
 msgstr "Categorii"
 
-#: prefs/koprefsdialog.cpp:809
+#: prefs/koprefsdialog.cpp:808
 msgctxt "@info:whatsthis"
 msgid ""
 "Select here the event category you want to modify. You can change the "
 "selected category color using the button below."
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:818
+#: prefs/koprefsdialog.cpp:817
 msgctxt "@info:whatsthis"
 msgid ""
 "Choose here the color of the event category selected using the combo box "
 "above."
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:826
+#: prefs/koprefsdialog.cpp:825
 msgctxt "@title:group"
 msgid "Resources"
 msgstr "Resurse"
 
-#: prefs/koprefsdialog.cpp:842
+#: prefs/koprefsdialog.cpp:841
 msgctxt "@info:whatsthis"
 msgid ""
 "Select the calendar you want to modify. You can change the selected calendar "
 "color using the button below."
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:851
+#: prefs/koprefsdialog.cpp:850
 msgctxt "@info:whatsthis"
 msgid ""
 "Choose here the color of the calendar selected using the combo box above."
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:860
+#: prefs/koprefsdialog.cpp:859
 msgctxt "@title:tab"
 msgid "Fonts"
 msgstr "Fonturi"
 
-#: prefs/koprefsdialog.cpp:874 prefs/koprefsdialog.cpp:882
+#: prefs/koprefsdialog.cpp:873 prefs/koprefsdialog.cpp:881
 msgctxt "@label"
 msgid "Event text"
 msgstr "Text eveniment"
 
-#: prefs/koprefsdialog.cpp:1016
+#: prefs/koprefsdialog.cpp:1015
 msgctxt "@label"
 msgid "Mail transport:"
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:1198
+#: prefs/koprefsdialog.cpp:1197
 msgctxt "@title:column plugin name"
 msgid "Name"
 msgstr "Nume"
 
-#: prefs/koprefsdialog.cpp:1217
+#: prefs/koprefsdialog.cpp:1216
 msgctxt "@action:button"
 msgid "Configure &Plugin..."
 msgstr "&Configurare modul..."
 
-#: prefs/koprefsdialog.cpp:1220
+#: prefs/koprefsdialog.cpp:1219
 msgctxt "@info:whatsthis"
 msgid ""
 "This button allows you to configure the plugin that you have selected in the "
 "list above"
 msgstr ""
 
-#: prefs/koprefsdialog.cpp:1226
+#: prefs/koprefsdialog.cpp:1225
 msgctxt "@title:group"
 msgid "Position"
 msgstr "Poziție"
 
-#: prefs/koprefsdialog.cpp:1230
+#: prefs/koprefsdialog.cpp:1229
 #, fuzzy
 msgctxt "@option:check"
 msgid "Show at the top of the agenda views"
 msgstr "Nici un eveniment selectat."
 
-#: prefs/koprefsdialog.cpp:1232
+#: prefs/koprefsdialog.cpp:1231
 #, fuzzy
 msgctxt "@option:check"
 msgid "Show at the bottom of the agenda views"
 msgstr "Nici un eveniment selectat."
 
-#: prefs/koprefsdialog.cpp:1267
+#: prefs/koprefsdialog.cpp:1266
 msgctxt "@title:group"
 msgid "Calendar Decorations"
 msgstr "Decorații calendar"
 
-#: prefs/koprefsdialog.cpp:1270
+#: prefs/koprefsdialog.cpp:1269
 msgctxt "@title:group"
 msgid "Other Plugins"
 msgstr "Alte module"
 
-#: prefs/koprefsdialog.cpp:1341
+#: prefs/koprefsdialog.cpp:1340
 msgctxt "@info"
 msgid "Unable to configure this plugin"
 msgstr "Imposibil de configurat acest modul"
@@ -6364,30 +6431,30 @@ msgstr "&Titlu:"
 msgid "Selected Calendars"
 msgstr "Calendar nou"
 
-#: widgets/kdatenavigator.cpp:200
+#: widgets/kdatenavigator.cpp:199
 #, kde-format
 msgctxt "start/end week number of line in date picker"
 msgid "%1/%2"
 msgstr ""
 
-#: widgets/kdatenavigator.cpp:206
+#: widgets/kdatenavigator.cpp:205
 #, fuzzy, kde-format
 msgid "Scroll to week number %1"
 msgstr "&Tipărește..."
 
-#: widgets/kdatenavigator.cpp:208
+#: widgets/kdatenavigator.cpp:207
 #, kde-format
 msgid ""
 "Click here to scroll the display to week number %1 of the currently "
 "displayed year."
 msgstr ""
 
-#: widgets/kdatenavigator.cpp:257
+#: widgets/kdatenavigator.cpp:256
 #, fuzzy, kde-format
 msgid "%1"
 msgstr "De făcut: %1"
 
-#: widgets/kdatenavigator.cpp:259
+#: widgets/kdatenavigator.cpp:258
 #, kde-format
 msgid "A column header of the %1 dates in the month."
 msgstr ""
@@ -6801,10 +6868,6 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgid "Repeats: "
 #~ msgstr "Destinatari"
-
-#, fuzzy
-#~ msgid "No reminders"
-#~ msgstr "Amintire:"
 
 #~ msgid "1 hour"
 #~ msgid_plural "%1 hours"
@@ -7279,11 +7342,6 @@ msgstr "De făcut: %1"
 #~ msgctxt "@title:column trigger date/time"
 #~ msgid "Trigger Time"
 #~ msgstr "Timp execuție"
-
-#, fuzzy
-#~ msgctxt "@info:tooltip"
-#~ msgid "The reminder is set for this date/time"
-#~ msgstr "&Editează întîlnirea..."
 
 #, fuzzy
 #~ msgctxt "@info:tooltip"
@@ -7931,20 +7989,6 @@ msgstr "De făcut: %1"
 #~| msgid "No category"
 #~ msgid "New subcategory"
 #~ msgstr "Nicio categorie"
-
-#, fuzzy
-#~| msgctxt "@title:tab general settings"
-#~| msgid "General"
-#~ msgctxt "@title:tab General settings for a folder."
-#~ msgid "General"
-#~ msgstr "General"
-
-#, fuzzy
-#~| msgctxt "filter name"
-#~| msgid "Name:"
-#~ msgctxt "@label:textbox Name of the folder."
-#~ msgid "&Name:"
-#~ msgstr "Denumire:"
 
 #, fuzzy
 #~ msgid "Default Email Attachment Method"
@@ -9176,11 +9220,6 @@ msgstr "De făcut: %1"
 #~ msgctxt "@label"
 #~ msgid "&End:"
 #~ msgstr "&Sfîrșit:"
-
-#, fuzzy
-#~ msgctxt "@info:tooltip"
-#~ msgid "Set the end date"
-#~ msgstr "Dată de sfîrșit"
 
 #, fuzzy
 #~ msgctxt "@info:tooltip"

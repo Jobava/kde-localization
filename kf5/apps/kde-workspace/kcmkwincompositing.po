@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkwincompositing\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-05 07:54+0000\n"
+"POT-Creation-Date: 2015-09-19 09:23+0000\n"
 "PO-Revision-Date: 2013-10-13 13:15+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -25,6 +25,14 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 "\n"
 "X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@ase.md"
 
 #: compositing.cpp:387
 msgid "OpenGL 3.1"
@@ -262,54 +270,54 @@ msgid ""
 "\"Re-use screen content\" causes performance severe problems on MESA drivers."
 msgstr ""
 
-#: model.cpp:67
+#: model.cpp:69
 #, fuzzy
 #| msgid "Accessibility"
 msgctxt "Category of Desktop Effects, used as section header"
 msgid "Accessibility"
 msgstr "Accesibilitate"
 
-#: model.cpp:68
+#: model.cpp:70
 #, fuzzy
 #| msgid "Appearance"
 msgctxt "Category of Desktop Effects, used as section header"
 msgid "Appearance"
 msgstr "Aspect"
 
-#: model.cpp:69
+#: model.cpp:71
 #, fuzzy
 #| msgid "Candy"
 msgctxt "Category of Desktop Effects, used as section header"
 msgid "Candy"
 msgstr "Atrăgător"
 
-#: model.cpp:70
+#: model.cpp:72
 #, fuzzy
 #| msgid "Focus"
 msgctxt "Category of Desktop Effects, used as section header"
 msgid "Focus"
 msgstr "Focalizare"
 
-#: model.cpp:71
+#: model.cpp:73
 #, fuzzy
 #| msgid "Tools"
 msgctxt "Category of Desktop Effects, used as section header"
 msgid "Tools"
 msgstr "Unelte"
 
-#: model.cpp:72
+#: model.cpp:74
 msgctxt "Category of Desktop Effects, used as section header"
 msgid "Virtual Desktop Switching Animation"
 msgstr ""
 
-#: model.cpp:73
+#: model.cpp:75
 #, fuzzy
 #| msgid "Window Management"
 msgctxt "Category of Desktop Effects, used as section header"
 msgid "Window Management"
 msgstr "Gestiunea ferestrelor"
 
-#: model.cpp:235
+#: model.cpp:231
 msgid "KWin development team"
 msgstr ""
 
@@ -380,14 +388,6 @@ msgstr "Obține efecte noi..."
 #~| msgid "Always (Breaks minimization)"
 #~ msgid "Always (Breaks Animations)"
 #~ msgstr "Întotdeauna (strică minimizarea)"
-
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "Sergiu Bivol"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "sergiu@ase.md"
 
 #~ msgid "1 second remaining:"
 #~ msgid_plural "%1 seconds remaining:"

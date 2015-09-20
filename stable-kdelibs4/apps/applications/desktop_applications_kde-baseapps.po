@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-29 06:11+0000\n"
+"POT-Creation-Date: 2015-09-20 06:14+0000\n"
 "PO-Revision-Date: 2013-10-13 12:34+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -45,7 +45,7 @@ msgctxt "Name"
 msgid "Compact"
 msgstr "Compact"
 
-#: dolphin/src/dolphinpart.desktop:247
+#: dolphin/src/dolphinpart.desktop:248
 msgctxt "Name"
 msgid "Details"
 msgstr "Detalii"
@@ -61,20 +61,20 @@ msgid "This service allows configuration of general Dolphin settings."
 msgstr ""
 "Acest serviciu permite configurarea opțiunilor generale ale lui Dolphin."
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:148
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:149
 msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "General"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:219
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:220
 msgctxt "Comment"
 msgid "Configure general file manager settings"
 msgstr "Configurează opțiunile generale ale gestionarul de fișiere"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:286
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:286
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:240
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:284
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:288
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:287
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:242
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:285
 msgctxt "X-KDE-Keywords"
 msgid "file manager"
 msgstr "gestionar de fișiere"
@@ -89,12 +89,12 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "Acest serviciu permite configurarea navigării Dolphin."
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:147
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:148
 msgctxt "Name"
 msgid "Navigation"
 msgstr "Navigare"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:217
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:218
 msgctxt "Comment"
 msgid "Configure file manager navigation"
 msgstr "Configurează navigarea gestionarului de fișiere"
@@ -104,14 +104,14 @@ msgctxt "Name"
 msgid "Dolphin Services"
 msgstr "Servicii Dolphin"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:80
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:81
 #: konqueror/sidebar/default_entries/services.desktop:4
 #: konqueror/sidebar/trees/init/services/.directory:3
 msgctxt "Name"
 msgid "Services"
 msgstr "Servicii"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:171
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:173
 msgctxt "Comment"
 msgid "Configure file manager services"
 msgstr "Configurează serviciile gestionarului de fișiere"
@@ -127,12 +127,12 @@ msgid "This service allows configuration of the Dolphin view modes."
 msgstr ""
 "Acest serviciu permite configurarea regimurilor de vizualizare Dolphin."
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:146
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:147
 msgctxt "Name"
 msgid "View Modes"
 msgstr "Regimuri de vizualizare"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:215
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:216
 msgctxt "Comment"
 msgid "Configure file manager view modes"
 msgstr "Configurează regimurile de vizualizare ale gestionarului de fișiere"
@@ -156,7 +156,7 @@ msgctxt "X-KDE-Keywords"
 msgid "password,email,name,organization,realname,login image,face,echo mode"
 msgstr "parolă;email;nume;organizație;numereal;imagine autentificare;față;"
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:138
+#: kdepasswd/kcm/kcm_useraccount.desktop:139
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr "Informații utilizator, cum ar fi parolă, nume și e-mail"
@@ -226,7 +226,7 @@ msgctxt "Name"
 msgid "Translate"
 msgstr "Tradu"
 
-#: konq-plugins/babelfish/plugin_translator.desktop:77
+#: konq-plugins/babelfish/plugin_translator.desktop:78
 msgctxt "Comment"
 msgid "Language translation for the current page using Google"
 msgstr "Traducerea lingvistică pentru pagina curentă folosind Google"
@@ -236,7 +236,7 @@ msgctxt "Name"
 msgid "Directory Filter"
 msgstr "Filtru de directoare"
 
-#: konq-plugins/dirfilter/dirfilterplugin.desktop:72
+#: konq-plugins/dirfilter/dirfilterplugin.desktop:73
 msgctxt "Comment"
 msgid "Filter directory view using an attribute filter"
 msgstr "Filtrează vederea de directoare folosind un filtru de atribute"
@@ -369,7 +369,7 @@ msgctxt "Name"
 msgid "Bookmarklets"
 msgstr "Bookmarklet-uri"
 
-#: konq-plugins/minitools/minitoolsplugin.desktop:72
+#: konq-plugins/minitools/minitoolsplugin.desktop:73
 msgctxt "Comment"
 msgid "Enables the use of bookmarklets"
 msgstr "Activează folosirea de bookmarklet-uri"
@@ -402,7 +402,7 @@ msgctxt "Name"
 msgid "Document Relations"
 msgstr "Relații document"
 
-#: konq-plugins/rellinks/plugin_rellinks.desktop:74
+#: konq-plugins/rellinks/plugin_rellinks.desktop:75
 msgctxt "Comment"
 msgid "Displays the document relations of a document"
 msgstr "Afișează relațiile unui document"
@@ -412,7 +412,7 @@ msgctxt "Name"
 msgid "Search Bar"
 msgstr "Bară de căutare"
 
-#: konq-plugins/searchbar/searchbar.desktop:77
+#: konq-plugins/searchbar/searchbar.desktop:78
 msgctxt "Comment"
 msgid "Provides a text box for easier access to search engines like Google."
 msgstr ""
@@ -557,7 +557,7 @@ msgctxt "Comment"
 msgid "Configure enhanced browsing"
 msgstr "Configurează navigarea de web avansată"
 
-#: konqueror/settings/ebrowsing/ebrowsing.desktop:196
+#: konqueror/settings/ebrowsing/ebrowsing.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Enhanced Browsing,Browsing,WWW,Internet,Internet Filters,Network,Search "
@@ -573,12 +573,12 @@ msgctxt "Name"
 msgid "Bookmarks"
 msgstr "Semne de carte"
 
-#: konqueror/settings/kio/bookmarks.desktop:103
+#: konqueror/settings/kio/bookmarks.desktop:104
 msgctxt "Comment"
 msgid "Configure the bookmarks home page"
 msgstr "Configurează pagina de pornire a semnelor de carte"
 
-#: konqueror/settings/kio/bookmarks.desktop:181
+#: konqueror/settings/kio/bookmarks.desktop:182
 msgctxt "X-KDE-Keywords"
 msgid "Bookmarks"
 msgstr "Semne de carte"
@@ -618,12 +618,12 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "Preferințe conexiune"
 
-#: konqueror/settings/kio/netpref.desktop:104
+#: konqueror/settings/kio/netpref.desktop:105
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr "Configurează opțiuni de rețea precum valorile temporizărilor"
 
-#: konqueror/settings/kio/netpref.desktop:195
+#: konqueror/settings/kio/netpref.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr "limită de timp,expirare,iopref,netpref,preferințe rețea,ftp"
@@ -633,12 +633,12 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr "Proxy"
 
-#: konqueror/settings/kio/proxy.desktop:107
+#: konqueror/settings/kio/proxy.desktop:108
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "Configurează serverele proxy utilizate"
 
-#: konqueror/settings/kio/proxy.desktop:200
+#: konqueror/settings/kio/proxy.desktop:201
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr "Proxy,server proxy,paravan de protecție,squid"
@@ -891,14 +891,14 @@ msgctxt "Name"
 msgid "Appearance"
 msgstr "Aspect"
 
-#: konqueror/settings/konq/fileappearance.desktop:103
-#: konqueror/settings/konq/webappearance.desktop:104
+#: konqueror/settings/konq/fileappearance.desktop:104
+#: konqueror/settings/konq/webappearance.desktop:105
 msgctxt "Comment"
 msgid "You can configure how Konqueror looks as a file manager here"
 msgstr "Configurează aspectul Konqueror ca manager de fișiere"
 
-#: konqueror/settings/konq/fileappearance.desktop:196
-#: konqueror/settings/konq/webappearance.desktop:197
+#: konqueror/settings/konq/fileappearance.desktop:197
+#: konqueror/settings/konq/webappearance.desktop:198
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,filemanager,word wrap,wrap,underline,display,filesize,bytes,font,"
@@ -947,12 +947,12 @@ msgctxt "X-KDE-Keywords"
 msgid "CSS,HTML,style,stylesheet,accessibility"
 msgstr "CSS,HTML,stil,foaie de stiluri,accesibilitate"
 
-#: konqueror/settings/konqhtml/khtml_appearance.desktop:106
+#: konqueror/settings/konqhtml/khtml_appearance.desktop:107
 msgctxt "Comment"
 msgid "Configure how to display web pages"
 msgstr "Configurează cum să fie afișate paginile web"
 
-#: konqueror/settings/konqhtml/khtml_appearance.desktop:177
+#: konqueror/settings/konqhtml/khtml_appearance.desktop:178
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,kfm,browser,html,web,www,fonts,charsets,character sets,encoding"
@@ -970,7 +970,7 @@ msgctxt "Comment"
 msgid "Configure the browser behavior"
 msgstr "Configurează comportamentul de navigator de web"
 
-#: konqueror/settings/konqhtml/khtml_behavior.desktop:192
+#: konqueror/settings/konqhtml/khtml_behavior.desktop:193
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,kfm,browser,html,web,www,fonts,colours,colors,java,javascript,"
@@ -1060,8 +1060,8 @@ msgctxt "X-KDE-Keywords"
 msgid "performance,speed,memory,improve"
 msgstr "performanță,viteză,memorie,îmbunătățire"
 
-#: konqueror/sidebar/default_entries/bookmarks.desktop:96
-#: konqueror/sidebar/trees/init/bookmarks_module.desktop:96
+#: konqueror/sidebar/default_entries/bookmarks.desktop:97
+#: konqueror/sidebar/trees/init/bookmarks_module.desktop:97
 msgctxt "Comment"
 msgid "This is the list of your bookmarks, for a faster access"
 msgstr ""
@@ -1123,7 +1123,7 @@ msgctxt "Comment"
 msgid "Configure the history sidebar"
 msgstr "Configurează bara laterală cu istoric"
 
-#: konqueror/sidebar/history_module/kcmhistory.desktop:193
+#: konqueror/sidebar/history_module/kcmhistory.desktop:194
 msgctxt "X-KDE-Keywords"
 msgid "history,expire"
 msgstr "istoric,expirare"
@@ -1363,7 +1363,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "Legătură către aplicație..."
 
-#: lib/konq/Templates/linkProgram.desktop:85
+#: lib/konq/Templates/linkProgram.desktop:86
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "Legătură nouă către aplicație"
@@ -1393,7 +1393,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "Fișier text..."
 
-#: lib/konq/Templates/TextFile.desktop:90
+#: lib/konq/Templates/TextFile.desktop:91
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "Introduceți numele fișierului text:"
@@ -1403,12 +1403,12 @@ msgctxt "Name"
 msgid "Plugins"
 msgstr "Extensii"
 
-#: nsplugins/khtml_plugins.desktop:105
+#: nsplugins/khtml_plugins.desktop:106
 msgctxt "Comment"
 msgid "Configure the browser plugins"
 msgstr "Configurează modulele de navigator de web"
 
-#: nsplugins/khtml_plugins.desktop:195
+#: nsplugins/khtml_plugins.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "konqueror,kfm,browser,html,web,www,fonts,plugins"
 msgstr "konqueror,kfm,navigator,html,web,www,fonturi,module,extensii"

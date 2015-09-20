@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-29 09:22+0000\n"
+"POT-Creation-Date: 2015-09-19 09:44+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -167,16 +167,6 @@ msgstr "Spațiator panou"
 msgctxt "Comment"
 msgid "Reserve empty spaces within the panel."
 msgstr "Rezervează spații goale în cadrul panoului."
-
-#: applets/quicklaunch/plasma-applet-quicklaunch.desktop:2
-msgctxt "Name"
-msgid "Quicklaunch"
-msgstr "Lansare rapidă"
-
-#: applets/quicklaunch/plasma-applet-quicklaunch.desktop:73
-msgctxt "Comment"
-msgid "Launch your favourite Applications"
-msgstr "Lansator pentru aplicațiile favorite"
 
 #: applets/systemmonitor/cpu/metadata.desktop:3
 #, fuzzy
@@ -1933,6 +1923,14 @@ msgstr "Imagine"
 msgctxt "Name"
 msgid "Slideshow"
 msgstr "Diapozitiv"
+
+#~ msgctxt "Name"
+#~ msgid "Quicklaunch"
+#~ msgstr "Lansare rapidă"
+
+#~ msgctxt "Comment"
+#~ msgid "Launch your favourite Applications"
+#~ msgstr "Lansator pentru aplicațiile favorite"
 
 #~ msgctxt "Name"
 #~ msgid "CPU Monitor"

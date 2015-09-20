@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kaffeine\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-07 01:52+0000\n"
+"POT-Creation-Date: 2015-09-13 01:53+0000\n"
 "PO-Revision-Date: 2012-12-22 11:56+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -110,7 +110,7 @@ msgid "dmesg"
 msgstr ""
 
 #: dvb/dvbchanneldialog.cpp:106 dvb/dvbepgdialog.cpp:255
-#: dvb/dvbepgdialog.cpp:364 dvb/dvbrecordingdialog.cpp:242
+#: dvb/dvbepgdialog.cpp:364 dvb/dvbrecordingdialog.cpp:243
 #: dvb/dvbscandialog.cpp:207
 #, fuzzy
 #| msgid "Channel"
@@ -625,14 +625,14 @@ msgctxt "@info tv show start, end"
 msgid "<font color=#800000>%1 - %2</font><br><br>"
 msgstr "<font color=#800000>%1 - %2</font><br><br>"
 
-#: dvb/dvbepgdialog.cpp:358 dvb/dvbrecordingdialog.cpp:244
+#: dvb/dvbepgdialog.cpp:358 dvb/dvbrecordingdialog.cpp:245
 #, fuzzy
 #| msgid "Start"
 msgctxt "@title:column tv show"
 msgid "Start"
 msgstr "Start"
 
-#: dvb/dvbepgdialog.cpp:360 dvb/dvbrecordingdialog.cpp:246
+#: dvb/dvbepgdialog.cpp:360 dvb/dvbrecordingdialog.cpp:247
 #, fuzzy
 #| msgid "Duration"
 msgctxt "@title:column tv show"
@@ -680,14 +680,14 @@ msgctxt "@action"
 msgid "New"
 msgstr "Nou"
 
-#: dvb/dvbrecordingdialog.cpp:240
+#: dvb/dvbrecordingdialog.cpp:241
 #, fuzzy
 #| msgid "Name"
 msgctxt "@title:column recording"
 msgid "Name"
 msgstr "Denumire"
 
-#: dvb/dvbrecordingdialog.cpp:363
+#: dvb/dvbrecordingdialog.cpp:364
 #, fuzzy
 #| msgctxt "subdialog of 'Recording Schedule'"
 #| msgid "Edit Schedule Entry"
@@ -695,49 +695,49 @@ msgctxt "@title:window recording"
 msgid "Edit Schedule Entry"
 msgstr "Redactează înregistrarea planificată"
 
-#: dvb/dvbrecordingdialog.cpp:371
+#: dvb/dvbrecordingdialog.cpp:372
 #, fuzzy
 #| msgid "Name:"
 msgctxt "@label recording"
 msgid "Name:"
 msgstr "Nume:"
 
-#: dvb/dvbrecordingdialog.cpp:384
+#: dvb/dvbrecordingdialog.cpp:385
 #, fuzzy
 #| msgid "Channel:"
 msgctxt "@label tv show"
 msgid "Channel:"
 msgstr "Canal:"
 
-#: dvb/dvbrecordingdialog.cpp:394
+#: dvb/dvbrecordingdialog.cpp:395
 #, fuzzy
 #| msgid "Start"
 msgctxt "@label tv show"
 msgid "Start:"
 msgstr "Start"
 
-#: dvb/dvbrecordingdialog.cpp:402
+#: dvb/dvbrecordingdialog.cpp:403
 #, fuzzy
 #| msgid "Duration:"
 msgctxt "@label tv show"
 msgid "Duration:"
 msgstr "Durată:"
 
-#: dvb/dvbrecordingdialog.cpp:411
+#: dvb/dvbrecordingdialog.cpp:412
 #, fuzzy
 #| msgid "End:"
 msgctxt "@label tv show"
 msgid "End:"
 msgstr "Sfîrșit:"
 
-#: dvb/dvbrecordingdialog.cpp:415
+#: dvb/dvbrecordingdialog.cpp:416
 #, fuzzy
 #| msgid "Repeat:"
 msgctxt "@label recording"
 msgid "Repeat:"
 msgstr "Repetare:"
 
-#: dvb/dvbrecordingdialog.cpp:419
+#: dvb/dvbrecordingdialog.cpp:420
 #, fuzzy
 #| msgctxt "button next to the 'Repeat:' label"
 #| msgid "Never"
@@ -745,7 +745,7 @@ msgctxt "@action next to 'Repeat:'"
 msgid "Never"
 msgstr "Niciodată"
 
-#: dvb/dvbrecordingdialog.cpp:423
+#: dvb/dvbrecordingdialog.cpp:424
 #, fuzzy
 #| msgctxt "button next to the 'Repeat:' label"
 #| msgid "Daily"

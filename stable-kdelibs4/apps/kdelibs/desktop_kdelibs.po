@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-06 06:26+0000\n"
+"POT-Creation-Date: 2015-09-20 06:15+0000\n"
 "PO-Revision-Date: 2011-12-06 20:55+0200\n"
 "Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1205,32 +1205,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Configurare proxy rețea"
 
-#: kio/misc/kpac/proxyscout.notifyrc:72
+#: kio/misc/kpac/proxyscout.notifyrc:73
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Script proxy invalid"
 
-#: kio/misc/kpac/proxyscout.notifyrc:159
+#: kio/misc/kpac/proxyscout.notifyrc:160
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "Scriptul de configurare proxy este eronat"
 
-#: kio/misc/kpac/proxyscout.notifyrc:255
+#: kio/misc/kpac/proxyscout.notifyrc:256
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Eroare de descărcare a scriptului"
 
-#: kio/misc/kpac/proxyscout.notifyrc:343
+#: kio/misc/kpac/proxyscout.notifyrc:344
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "Nu am putut descărca scriptul de configurare proxy"
 
-#: kio/misc/kpac/proxyscout.notifyrc:440
+#: kio/misc/kpac/proxyscout.notifyrc:441
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Eroare de evaluare a scriptului"
 
-#: kio/misc/kpac/proxyscout.notifyrc:526
+#: kio/misc/kpac/proxyscout.notifyrc:527
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "A apărut o eroare la execuția scriptului de configurare proxy"
@@ -1265,7 +1265,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "Modul Cookie JAR"
 
-#: kioslave/http/kcookiejar/kcookiejar.desktop:70
+#: kioslave/http/kcookiejar/kcookiejar.desktop:69
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr "Stochează cookie-uri de rețea"
@@ -1450,7 +1450,7 @@ msgctxt "Name"
 msgid "Test"
 msgstr "Test"
 
-#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:69
+#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:70
 msgctxt "Comment"
 msgid "A dummy plugin for testing"
 msgstr "Modul fictiv pentru testare"

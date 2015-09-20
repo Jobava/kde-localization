@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kofficefilters\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-09 08:00+0000\n"
+"POT-Creation-Date: 2015-09-12 08:45+0000\n"
 "PO-Revision-Date: 2013-01-12 05:06+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -294,7 +294,7 @@ msgstr "Altul (%1)"
 msgid "Cannot find encoding: %1"
 msgstr "Nu se poate găsi encodarea: %1"
 
-#: sheets/csv/csvimport.cc:92
+#: sheets/csv/csvimport.cc:93
 msgid "CSV filter cannot open input file - please report."
 msgstr "Filtrul CSV nu poate deschide fișierul de intrare - raportați"
 

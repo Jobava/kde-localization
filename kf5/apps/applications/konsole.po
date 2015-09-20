@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-05 08:39+0000\n"
+"POT-Creation-Date: 2015-09-19 08:44+0000\n"
 "PO-Revision-Date: 2014-07-04 14:21+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -185,22 +185,22 @@ msgstr "Culoare 8 (intensă)"
 msgid "Un-named Color Scheme"
 msgstr "Schemă de culori anonimă"
 
-#: ColorSchemeEditor.cpp:114
+#: ColorSchemeEditor.cpp:111
 msgctxt "@label:listbox Column header text for color names"
 msgid "Name"
 msgstr "Denumire"
 
-#: ColorSchemeEditor.cpp:115
+#: ColorSchemeEditor.cpp:112
 msgctxt "@label:listbox Column header text for the actual colors"
 msgid "Color"
 msgstr "Culoare"
 
-#: ColorSchemeEditor.cpp:116
+#: ColorSchemeEditor.cpp:113
 msgctxt "@label:listbox Column header text for the actual intense colors"
 msgid "Intense color"
 msgstr "Culoare intensă"
 
-#: ColorSchemeEditor.cpp:140
+#: ColorSchemeEditor.cpp:137
 msgctxt "@info:status"
 msgid ""
 "The background transparency setting will not be used because your desktop "
@@ -209,7 +209,7 @@ msgstr ""
 "Transparența fundalului nu va fi folosită deoarece calculatorul "
 "dumneavoastră nu pare să susțină ferestre transparente."
 
-#: ColorSchemeEditor.cpp:186
+#: ColorSchemeEditor.cpp:183
 #, fuzzy
 #| msgctxt "@action:button"
 #| msgid "Select wallpaper image file"
@@ -217,25 +217,25 @@ msgctxt "@title:window"
 msgid "Select wallpaper image file"
 msgstr "Alege imaginea de fundal"
 
-#: ColorSchemeEditor.cpp:188
+#: ColorSchemeEditor.cpp:185
 msgctxt "Filter in file open dialog"
 msgid "Supported Images"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:232 ColorSchemeEditor.cpp:233
+#: ColorSchemeEditor.cpp:229 ColorSchemeEditor.cpp:230
 msgid "New Color Scheme"
 msgstr "Schemă de culori nouă"
 
-#: ColorSchemeEditor.cpp:235
+#: ColorSchemeEditor.cpp:232
 msgid "Edit Color Scheme"
 msgstr "Editare schemă de culori"
 
-#: ColorSchemeEditor.cpp:267
+#: ColorSchemeEditor.cpp:264
 msgctxt "@info:tooltip"
 msgid "Click to choose color"
 msgstr "Apăsați pentru a alege culoarea"
 
-#: ColorSchemeEditor.cpp:272
+#: ColorSchemeEditor.cpp:269
 msgctxt "@info:tooltip"
 msgid "Click to choose intense color"
 msgstr "Apăsați pentru a alege culoarea intensă"
@@ -282,7 +282,7 @@ msgstr "Alege imaginea de fundal"
 msgid "..."
 msgstr "..."
 
-#: CopyInputDialog.cpp:40
+#: CopyInputDialog.cpp:39
 msgid "Copy Input"
 msgstr "Copiază intrarea"
 
@@ -301,17 +301,17 @@ msgstr "Selectează tot"
 msgid "Deselect All"
 msgstr "Deselectează tot"
 
-#: EditProfileDialog.cpp:77
+#: EditProfileDialog.cpp:74
 msgid "Edit Profile"
 msgstr "Editează profil"
 
-#: EditProfileDialog.cpp:152
+#: EditProfileDialog.cpp:149
 msgid "<p>Each profile must have a name before it can be saved into disk.</p>"
 msgstr ""
 "<p>Fiecare profil trebuie să aibă o denumire înainte să poată fi salvat pe "
 "disc.</p>"
 
-#: EditProfileDialog.cpp:183
+#: EditProfileDialog.cpp:180
 #, kde-format
 msgid "Editing profile: %2"
 msgid_plural "Editing %1 profiles: %2"
@@ -319,27 +319,27 @@ msgstr[0] "Modificare profil: %2"
 msgstr[1] "Modificare %1 profile: %2"
 msgstr[2] "Modificare %1 de profile: %2"
 
-#: EditProfileDialog.cpp:188
+#: EditProfileDialog.cpp:185
 #, kde-format
 msgid "Edit Profile \"%1\""
 msgstr "Editează profilul „%1”"
 
-#: EditProfileDialog.cpp:264
+#: EditProfileDialog.cpp:261
 msgid "Profile name is empty."
 msgstr "Denumirea profilului este vidă."
 
-#: EditProfileDialog.cpp:338
+#: EditProfileDialog.cpp:335
 msgid "Edit Environment"
 msgstr "Editează mediul"
 
-#: EditProfileDialog.cpp:339
+#: EditProfileDialog.cpp:336
 #, fuzzy
 #| msgctxt "@info:tooltip"
 #| msgid "One environment variable per line"
 msgid "One environment variable per line"
 msgstr "O variabilă de mediu pe linie"
 
-#: EditProfileDialog.cpp:360
+#: EditProfileDialog.cpp:357
 msgctxt "Unit of time"
 msgid " second"
 msgid_plural " seconds"
@@ -347,16 +347,16 @@ msgstr[0] " secundă"
 msgstr[1] " secunde"
 msgstr[2] " de secunde"
 
-#: EditProfileDialog.cpp:426
+#: EditProfileDialog.cpp:423
 msgid "Select Initial Directory"
 msgstr "Alegeți dosarul inițial"
 
-#: EditProfileDialog.cpp:594
+#: EditProfileDialog.cpp:591
 #, kde-format
 msgid "%1"
 msgstr "%1"
 
-#: EditProfileDialog.cpp:782
+#: EditProfileDialog.cpp:779
 msgid ""
 "This color scheme uses a transparent background which does not appear to be "
 "supported on your desktop"
@@ -364,7 +364,7 @@ msgstr ""
 "Această schemă de culori utilizează fundal transparent, care nu pare să fie "
 "susținut de calculatorul dumneavoastră"
 
-#: EditProfileDialog.cpp:787
+#: EditProfileDialog.cpp:784
 msgid ""
 "Konsole was started before desktop effects were enabled. You need to restart "
 "Konsole to see transparent background."
@@ -372,19 +372,19 @@ msgstr ""
 "Konsola a fost pornită înainte de activarea efectelor de birou. Trebuie să "
 "reporniți Konsola pentru a vedea fundalul transparent."
 
-#: EditProfileDialog.cpp:891 EditProfileDialog.cpp:901
+#: EditProfileDialog.cpp:888 EditProfileDialog.cpp:898
 msgid "New Key Binding List"
 msgstr "Listă de combinații de taste nouă"
 
-#: EditProfileDialog.cpp:893
+#: EditProfileDialog.cpp:890
 msgid "Edit Key Binding List"
 msgstr "Editează lista combinațiilor de taste"
 
-#: EditProfileDialog.cpp:1231
+#: EditProfileDialog.cpp:1228
 msgid "Select Fixed Width Font"
 msgstr "Alegeți un font de lățime fixă"
 
-#: EditProfileDialog.cpp:1279
+#: EditProfileDialog.cpp:1276
 msgid "AaZz09..."
 msgstr ""
 
@@ -1041,12 +1041,12 @@ msgstr "Trimite e-mail către..."
 msgid "Copy Email Address"
 msgstr "Copiază adresa de e-mail"
 
-#: HistorySizeDialog.cpp:38
+#: HistorySizeDialog.cpp:37
 msgctxt "@title:window"
 msgid "Adjust Scrollback"
 msgstr "Ajustează revenirea"
 
-#: HistorySizeDialog.cpp:61
+#: HistorySizeDialog.cpp:60
 msgctxt "@info:status"
 msgid "Any adjustments are only temporary to this session."
 msgstr "Orice ajustări sînt numai temporare în această sesiune."
@@ -1573,42 +1573,42 @@ msgctxt "@info:credit"
 msgid "Thanks to many others.\n"
 msgstr "Mulțumiri multor altora.\n"
 
-#: MainWindow.cpp:294
+#: MainWindow.cpp:293
 msgctxt "@action:inmenu"
 msgid "&New Tab"
 msgstr "Filă &nouă"
 
-#: MainWindow.cpp:304
+#: MainWindow.cpp:303
 msgctxt "@action:inmenu"
 msgid "&Clone Tab"
 msgstr "&Clonează fila"
 
-#: MainWindow.cpp:311
+#: MainWindow.cpp:310
 msgctxt "@action:inmenu"
 msgid "New &Window"
 msgstr "&Fereastră nouă"
 
-#: MainWindow.cpp:318
+#: MainWindow.cpp:317
 msgctxt "@action:inmenu"
 msgid "Close Window"
 msgstr "Închide fereastra"
 
-#: MainWindow.cpp:323
+#: MainWindow.cpp:322
 msgctxt "@title:menu"
 msgid "&Bookmarks"
 msgstr "&Semne de carte"
 
-#: MainWindow.cpp:341
+#: MainWindow.cpp:340
 msgctxt "@action:inmenu"
 msgid "Manage Profiles..."
 msgstr "Gestiune profiluri..."
 
-#: MainWindow.cpp:347
+#: MainWindow.cpp:346
 msgctxt "@item"
 msgid "Activate Menu"
 msgstr "Activează meniul"
 
-#: MainWindow.cpp:571
+#: MainWindow.cpp:570
 #, kde-format
 msgctxt "@info"
 msgid "There is a process running in this window. Do you still want to quit?"
@@ -1618,121 +1618,45 @@ msgstr[0] "Este un proces rulînd în această fereastră. Ieșiți oricum?"
 msgstr[1] "Sînt %1 procese rulînd în această fereastră. Ieșiți oricum?"
 msgstr[2] "Sînt %1 de procese rulînd în această fereastră. Ieșiți oricum?"
 
-#: MainWindow.cpp:577
+#: MainWindow.cpp:576
 msgctxt "@title"
 msgid "Confirm Close"
 msgstr "Confirmă închiderea"
 
-#: MainWindow.cpp:578
+#: MainWindow.cpp:577
 msgctxt "@action:button"
 msgid "Close &Window"
 msgstr "Închi&de fereastra"
 
-#: MainWindow.cpp:579
+#: MainWindow.cpp:578
 msgctxt "@action:button"
 msgid "Close Current &Tab"
 msgstr "Închide fila curen&tă"
 
-#: MainWindow.cpp:676
+#: MainWindow.cpp:674
 msgctxt "@title Preferences page name"
 msgid "General"
 msgstr "General"
 
-#: MainWindow.cpp:681
+#: MainWindow.cpp:679
+#, fuzzy
+#| msgctxt "@item This will be used as part of the file name"
+#| msgid "New Profile"
+msgctxt "@title Preferences page name"
+msgid "Profiles"
+msgstr "Profil nou"
+
+#: MainWindow.cpp:684
 msgctxt "@title Preferences page name"
 msgid "TabBar"
 msgstr "Bară de file"
 
-#: MainWindow.cpp:686
+#: MainWindow.cpp:689
 #, fuzzy
 #| msgid "&Paste Location"
 msgctxt "@title Preferences page name"
 msgid "File Location"
 msgstr "Li&pește amplasarea"
-
-#: ManageProfilesDialog.cpp:53
-msgctxt "@title:window"
-msgid "Manage Profiles"
-msgstr "Gestionează profiluri"
-
-#: ManageProfilesDialog.cpp:193
-msgctxt "@info:tooltip"
-msgid "Click to rename profile"
-msgstr "Apăsați pentru a redenumi profilul"
-
-#: ManageProfilesDialog.cpp:202
-msgctxt "@info:tooltip"
-msgid "Click to toggle status"
-msgstr "Apăsați pentru a comuta starea"
-
-#: ManageProfilesDialog.cpp:208
-msgctxt "@info:tooltip"
-msgid "Double click to change shortcut"
-msgstr "Dublu-clic pentru a schimba scurtătura"
-
-#: ManageProfilesDialog.cpp:230
-msgctxt "@title:column Profile label"
-msgid "Name"
-msgstr "Denumire"
-
-#: ManageProfilesDialog.cpp:231
-msgctxt "@title:column Display profile in file menu"
-msgid "Show in Menu"
-msgstr "Arată în meniu"
-
-#: ManageProfilesDialog.cpp:232
-msgctxt "@title:column Profile shortcut text"
-msgid "Shortcut"
-msgstr "Accelerator"
-
-#: ManageProfilesDialog.cpp:345
-msgctxt "@item This will be used as part of the file name"
-msgid "New Profile"
-msgstr "Profil nou"
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, newProfileButton)
-#: ManageProfilesDialog.ui:20
-msgid "Create a new profile based upon the selected profile"
-msgstr "Creează un profil nou, bazat pe cel ales"
-
-#. i18n: ectx: property (text), widget (QPushButton, newProfileButton)
-#: ManageProfilesDialog.ui:23
-msgid "&New Profile..."
-msgstr "Profil &nou..."
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, editProfileButton)
-#: ManageProfilesDialog.ui:33
-msgid "Edit the selected profile(s)"
-msgstr "Editează profilul ales"
-
-#. i18n: ectx: property (text), widget (QPushButton, editProfileButton)
-#: ManageProfilesDialog.ui:36
-msgid "&Edit Profile..."
-msgstr "&Editare profil..."
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, deleteProfileButton)
-#: ManageProfilesDialog.ui:46
-msgid "Delete the selected profile(s)"
-msgstr "Șterge profilul ales"
-
-#. i18n: ectx: property (text), widget (QPushButton, deleteProfileButton)
-#: ManageProfilesDialog.ui:49
-msgid "&Delete Profile"
-msgstr "Ș&terge profilul"
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, setAsDefaultButton)
-#: ManageProfilesDialog.ui:59
-msgid "Set the selected profile as the default for new terminal sessions"
-msgstr "Stabilește profilul ales ca implicit pentru sesiunile noi de terminal"
-
-#. i18n: ectx: property (text), widget (QPushButton, setAsDefaultButton)
-#: ManageProfilesDialog.ui:62
-msgid "&Set as Default"
-msgstr "&Stabilește ca implicit"
-
-#: Part.cpp:91
-msgid "Manage Profiles..."
-msgstr "Gestiune profiluri..."
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, PrintOptions)
 #. i18n: ectx: property (title), widget (QGroupBox, OutputOptions)
@@ -1759,7 +1683,7 @@ msgctxt "Name of the default/builtin profile"
 msgid "Default"
 msgstr "&Stabilește ca implicit"
 
-#: ProfileList.cpp:47
+#: ProfileList.cpp:46
 msgid "Default profile"
 msgstr "Profil implicit"
 
@@ -1770,7 +1694,7 @@ msgctxt "The default name of a profile"
 msgid "Profile #%1"
 msgstr "Editează profilul „%1”"
 
-#: RenameTabDialog.cpp:37
+#: RenameTabDialog.cpp:36
 msgid "Rename Tab"
 msgstr "Redenumire filă"
 
@@ -2342,6 +2266,46 @@ msgstr ""
 msgid "For scrollback files, use user's specific folder location"
 msgstr ""
 
+#. i18n: ectx: property (toolTip), widget (QPushButton, newProfileButton)
+#: settings/ProfileSettings.ui:20
+msgid "Create a new profile based upon the selected profile"
+msgstr "Creează un profil nou, bazat pe cel ales"
+
+#. i18n: ectx: property (text), widget (QPushButton, newProfileButton)
+#: settings/ProfileSettings.ui:23
+msgid "&New Profile..."
+msgstr "Profil &nou..."
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, editProfileButton)
+#: settings/ProfileSettings.ui:33
+msgid "Edit the selected profile(s)"
+msgstr "Editează profilul ales"
+
+#. i18n: ectx: property (text), widget (QPushButton, editProfileButton)
+#: settings/ProfileSettings.ui:36
+msgid "&Edit Profile..."
+msgstr "&Editare profil..."
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, deleteProfileButton)
+#: settings/ProfileSettings.ui:46
+msgid "Delete the selected profile(s)"
+msgstr "Șterge profilul ales"
+
+#. i18n: ectx: property (text), widget (QPushButton, deleteProfileButton)
+#: settings/ProfileSettings.ui:49
+msgid "&Delete Profile"
+msgstr "Ș&terge profilul"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, setAsDefaultButton)
+#: settings/ProfileSettings.ui:59
+msgid "Set the selected profile as the default for new terminal sessions"
+msgstr "Stabilește profilul ales ca implicit pentru sesiunile noi de terminal"
+
+#. i18n: ectx: property (text), widget (QPushButton, setAsDefaultButton)
+#: settings/ProfileSettings.ui:62
+msgid "&Set as Default"
+msgstr "&Stabilește ca implicit"
+
 #. i18n: ectx: property (text), widget (QLabel, label_1)
 #: settings/TabBarSettings.ui:23
 msgid "Tab bar visibility:"
@@ -2550,72 +2514,72 @@ msgstr ""
 "mutați filele. Puteți face dublu-clic pe o filă pentru a-i schimba denumirea."
 "</para>"
 
-#: ViewManager.cpp:134
+#: ViewManager.cpp:131
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr "Fila următoare"
 
-#: ViewManager.cpp:135
+#: ViewManager.cpp:132
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr "Fila precedentă"
 
-#: ViewManager.cpp:136
+#: ViewManager.cpp:133
 msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr "Comută la ultima filă"
 
-#: ViewManager.cpp:137
+#: ViewManager.cpp:134
 msgctxt "@action Shortcut entry"
 msgid "Next View Container"
 msgstr "Următorul container de vizualizări"
 
-#: ViewManager.cpp:139
+#: ViewManager.cpp:136
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Left"
 msgstr "Mută fila la stînga"
 
-#: ViewManager.cpp:140
+#: ViewManager.cpp:137
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Right"
 msgstr "Mută fila la dreapta"
 
-#: ViewManager.cpp:149
+#: ViewManager.cpp:146
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr "Desparte vizualizarea stînga/dreapta"
 
-#: ViewManager.cpp:156
+#: ViewManager.cpp:153
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr "Desparte vizualizarea sus/jos"
 
-#: ViewManager.cpp:161
+#: ViewManager.cpp:158
 msgctxt "@action:inmenu Close Active View"
 msgid "Close Active"
 msgstr "Închide vizualizarea activă"
 
-#: ViewManager.cpp:170
+#: ViewManager.cpp:167
 msgctxt "@action:inmenu Close Other Views"
 msgid "Close Others"
 msgstr "Închide celelalte vizualizări"
 
-#: ViewManager.cpp:179
+#: ViewManager.cpp:176
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr "Desfășoară vizualizarea"
 
-#: ViewManager.cpp:187
+#: ViewManager.cpp:184
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr "Îngustează vizualizarea"
 
-#: ViewManager.cpp:198
+#: ViewManager.cpp:195
 msgctxt "@action:inmenu"
 msgid "D&etach Current Tab"
 msgstr "D&etașează fila curentă"
 
-#: ViewManager.cpp:220
+#: ViewManager.cpp:217
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
@@ -2629,9 +2593,40 @@ msgstr ""
 "Nici un translator de tastatură disponibil.  Lipsește informația necesară "
 "pentru a converti apăsările de taste în caractere de trimis terminalului."
 
-#: ZModemDialog.cpp:48
+#: ZModemDialog.cpp:47
 msgid "&Stop"
 msgstr "&Oprește"
+
+#~ msgctxt "@title:window"
+#~ msgid "Manage Profiles"
+#~ msgstr "Gestionează profiluri"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to rename profile"
+#~ msgstr "Apăsați pentru a redenumi profilul"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to toggle status"
+#~ msgstr "Apăsați pentru a comuta starea"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Double click to change shortcut"
+#~ msgstr "Dublu-clic pentru a schimba scurtătura"
+
+#~ msgctxt "@title:column Profile label"
+#~ msgid "Name"
+#~ msgstr "Denumire"
+
+#~ msgctxt "@title:column Display profile in file menu"
+#~ msgid "Show in Menu"
+#~ msgstr "Arată în meniu"
+
+#~ msgctxt "@title:column Profile shortcut text"
+#~ msgid "Shortcut"
+#~ msgstr "Accelerator"
+
+#~ msgid "Manage Profiles..."
+#~ msgstr "Gestiune profiluri..."
 
 #~ msgctxt "@title"
 #~ msgid "<application>Konsole</application>"

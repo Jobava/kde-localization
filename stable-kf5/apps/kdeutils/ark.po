@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ark\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 12:38+0000\n"
+"POT-Creation-Date: 2015-09-17 13:09+0000\n"
 "PO-Revision-Date: 2012-10-20 10:34+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -1031,34 +1031,34 @@ msgstr ""
 msgid "Preview is not possible for symlinks."
 msgstr ""
 
-#: part/part.cpp:882
+#: part/part.cpp:888
 msgctxt "@title:window"
 msgid "Add Files"
 msgstr "Adaugă fișiere"
 
-#: part/part.cpp:889
+#: part/part.cpp:895
 msgctxt "@title:window"
 msgid "Add Folder"
 msgstr "Adaugă dosar"
 
-#: part/part.cpp:914
+#: part/part.cpp:920
 msgid "Deleting these files is not undoable. Are you sure you want to do this?"
 msgstr ""
 "Ștergerea fișierelor nu poate fi revocată. Sigur doriți să faceți asta?"
 
-#: part/part.cpp:915
+#: part/part.cpp:921
 msgctxt "@title:window"
 msgid "Delete files"
 msgstr "Șterge fișiere"
 
-#: part/part.cpp:947
+#: part/part.cpp:953
 #, fuzzy
 #| msgid "Source archive"
 msgctxt "@title:window"
 msgid "Save Archive As"
 msgstr "Arhiva sursă"
 
-#: part/part.cpp:954
+#: part/part.cpp:960
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1068,7 +1068,7 @@ msgstr ""
 "Există deja o arhivă cu denumirea <filename>%1</filename>. Sigur doriți să-l "
 "suprascrieți?"
 
-#: part/part.cpp:968
+#: part/part.cpp:974
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1078,7 +1078,7 @@ msgstr ""
 "Arhiva <filename>%1</filename> nu poate fi copiat în locația specificată. "
 "Arhiva nu mai există."
 
-#: part/part.cpp:982
+#: part/part.cpp:988
 #, kde-format
 msgctxt "@info"
 msgid ""

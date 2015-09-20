@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-12 08:17+0000\n"
+"POT-Creation-Date: 2015-09-19 08:58+0000\n"
 "PO-Revision-Date: 2010-12-06 00:09+0200\n"
 "Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -40,6 +40,11 @@ msgstr ""
 #: animationresultitem.cpp:63
 msgid "Stop"
 msgstr ""
+
+#: animationresultitem.cpp:132 imageresultitem.cpp:90 resultitem.cpp:78
+#: textresultitem.cpp:156
+msgid "Save result"
+msgstr "Salvează rezultatul"
 
 #: assistants/advancedplot/advancedplotassistant.cpp:49
 msgid "Advanced Plotting"
@@ -149,19 +154,19 @@ msgstr "Integrală definită"
 msgid "&Linear Algebra"
 msgstr "&Algebra liniară"
 
-#: assistants/linearalgebra/creatematrix/creatematrixassistant.cpp:45
+#: assistants/linearalgebra/creatematrix/creatematrixassistant.cpp:46
 msgid "Create Matrix"
 msgstr "Creează matrice"
 
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: assistants/linearalgebra/creatematrix/creatematrixdlg.ui:19
-msgid "Rows:"
-msgstr "Linii:"
-
 #. i18n: ectx: property (text), widget (QLabel, label_2)
-#: assistants/linearalgebra/creatematrix/creatematrixdlg.ui:37
+#: assistants/linearalgebra/creatematrix/creatematrixdlg.ui:19
 msgid "Columns:"
 msgstr "Coloane:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: assistants/linearalgebra/creatematrix/creatematrixdlg.ui:37
+msgid "Rows:"
+msgstr "Linii:"
 
 #: assistants/linearalgebra/eigenvalues/eigenvaluesassistant.cpp:47
 msgid "Compute Eigenvalues"
@@ -226,7 +231,7 @@ msgstr "Prima variabilă"
 msgid "2nd Variable"
 msgstr "A 2-a varibilă"
 
-#: assistants/runscript/runscriptassistant.cpp:48 scripteditorwidget.cpp:54
+#: assistants/runscript/runscriptassistant.cpp:48 scripteditorwidget.cpp:55
 msgid "Run Script"
 msgstr "Rulează script"
 
@@ -244,7 +249,7 @@ msgstr "Ecuații:"
 msgid "Variables:"
 msgstr "Variabile:"
 
-#: backendchoosedialog.cpp:30
+#: backendchoosedialog.cpp:31
 #, kde-format
 msgid ""
 "<h1>%1</h1><div>%2</div><br/><div>See <a href=\"%3\">%3</a> for more "
@@ -280,7 +285,7 @@ msgstr "http://docs.kde.org/stable/en/kdeedu/kalgebra/"
 #. i18n: ectx: label, entry (autorunScripts), group (Python3Backend)
 #. i18n: ectx: label, entry (autorunScripts), group (OctaveBackend)
 #. i18n: ectx: label, entry (autorunScripts), group (QalculateBackend)
-#: backends/kalgebra/kalgebrabackend.kcfg:10 backends/lua/luabackend.kcfg:14
+#: backends/kalgebra/kalgebrabackend.kcfg:9 backends/lua/luabackend.kcfg:14
 #: backends/maxima/maximabackend.kcfg:22 backends/octave/octavebackend.kcfg:18
 #: backends/python2/python2backend.kcfg:13
 #: backends/python3/python3backend.kcfg:13
@@ -309,7 +314,7 @@ msgstr "<p><b>%1:</b> %2</p>"
 msgid "Scripts to autorun"
 msgstr "Scripturi către autorulare"
 
-#: backends/lua/luabackend.cpp:68
+#: backends/lua/luabackend.cpp:67
 #, fuzzy
 #| msgctxt ""
 #| "the url to the documentation of Sage, please check if there is a "
@@ -319,7 +324,7 @@ msgctxt "Lua official documentation"
 msgid "http://www.lua.org/docs.html"
 msgstr "http://www.sagemath.org/doc/reference/index.html"
 
-#: backends/lua/luabackend.cpp:73
+#: backends/lua/luabackend.cpp:72
 msgid ""
 "<p> Lua is a fast and lightweight scripting language, with a simple "
 "procedural syntax. There are several libraries in Lua aimed at math and "
@@ -425,9 +430,9 @@ msgstr "Pornirea Maxima nereușită."
 msgid "Maxima crashed. restarting..."
 msgstr "Maxima s-a oprit inexplicabil. Restartare."
 
-#: backends/maxima/maximasession.cpp:432 cantor_part.cpp:87
-#: cantor_part.cpp:785 worksheet.cpp:841 worksheet.cpp:858 worksheet.cpp:894
-#: worksheet.cpp:906
+#: backends/maxima/maximasession.cpp:432 cantor_part.cpp:85
+#: cantor_part.cpp:783 worksheet.cpp:839 worksheet.cpp:856 worksheet.cpp:892
+#: worksheet.cpp:904
 msgid "Error - Cantor"
 msgstr "Eroare - Cantor"
 
@@ -1044,13 +1049,13 @@ msgstr ""
 
 #: backends/qalculate/qalculateexpression.cpp:802
 #: backends/qalculate/qalculateexpression.cpp:909
-#: backends/qalculate/qalculatehighlighter.cpp:43
+#: backends/qalculate/qalculatehighlighter.cpp:44
 msgid "ERROR"
 msgstr ""
 
 #: backends/qalculate/qalculateexpression.cpp:804
 #: backends/qalculate/qalculateexpression.cpp:911
-#: backends/qalculate/qalculatehighlighter.cpp:43
+#: backends/qalculate/qalculatehighlighter.cpp:44
 msgid "WARNING"
 msgstr ""
 
@@ -1507,7 +1512,7 @@ msgstr ""
 msgid "(C) 2009 Alexander Rieder"
 msgstr "(C) 2009 Alexander Rieder"
 
-#: backends/R/rserver/main.cpp:51 cantor_part.cpp:356 main.cpp:75
+#: backends/R/rserver/main.cpp:51 cantor_part.cpp:354 main.cpp:75
 msgid "Alexander Rieder"
 msgstr "Alexander Rieder"
 
@@ -1549,12 +1554,12 @@ msgstr "Calea către programul Sage"
 msgid "Syntax Error"
 msgstr "Eroare de sintaxă"
 
-#: backends/sage/sageexpression.cpp:227 backends/sage/sageexpression.cpp:229
+#: backends/sage/sageexpression.cpp:230 backends/sage/sageexpression.cpp:232
 #, kde-format
 msgid "Result of %1"
 msgstr "Rezultatul lui %1"
 
-#: backends/sage/sageexpression.cpp:236
+#: backends/sage/sageexpression.cpp:239
 #, kde-format
 msgid ""
 "%1\n"
@@ -1580,8 +1585,8 @@ msgid "The Sage process crashed while evaluating this expression"
 msgstr "Procesul Sage s-a oprit în timp ce evalua expresia"
 
 #: backends/sage/sagesession.cpp:310 backends/sage/sagesession.cpp:320
-#: cantor.cpp:181 cantor.cpp:182 cantor_part.cpp:503 main.cpp:63
-#: worksheet.cpp:943 worksheet.cpp:951
+#: cantor.cpp:181 cantor.cpp:182 cantor_part.cpp:501 main.cpp:63
+#: worksheet.cpp:941 worksheet.cpp:949
 msgid "Cantor"
 msgstr "Cantor"
 
@@ -1651,7 +1656,13 @@ msgstr "Descarcă exemple de foi de lucru "
 msgid "&Open Example"
 msgstr "&Deschide exemplu"
 
-#: cantor.cpp:191 cantor_part.cpp:398
+#: cantor.cpp:191
+#, fuzzy
+#| msgid "&Open Example"
+msgid "Open file"
+msgstr "&Deschide exemplu"
+
+#: cantor.cpp:191 cantor_part.cpp:396
 msgid "*.cws|Cantor Worksheet"
 msgstr "*.cws|Foaie de lucru Cantor"
 
@@ -1755,166 +1766,176 @@ msgstr ""
 msgid "Automatically reevaluate the entries below the current"
 msgstr "Evaluează in mod automat intrările de sub cea curentă"
 
-#: cantor_part.cpp:87
+#: cantor_part.cpp:85
 #, kde-format
 msgid "Backend %1 is not installed"
 msgstr "Platforma %1 nu este instalată."
 
-#: cantor_part.cpp:119
+#: cantor_part.cpp:117
 msgid "Save Plain Text"
 msgstr ""
 
-#: cantor_part.cpp:166
+#: cantor_part.cpp:164 cantor_part.cpp:429
 #, fuzzy
 #| msgid "Export to LaTex"
 msgid "Export to LaTeX"
 msgstr "Trimite către LaTex"
 
-#: cantor_part.cpp:180 cantor_part.cpp:476 worksheet.cpp:1068
+#: cantor_part.cpp:178 cantor_part.cpp:474 worksheet.cpp:1066
 msgid "Evaluate Worksheet"
 msgstr "Evaluează foaia de lucru"
 
-#: cantor_part.cpp:185
+#: cantor_part.cpp:183
 msgid "Typeset using LaTeX"
 msgstr "Setări de scriere care folosesc LaTex"
 
-#: cantor_part.cpp:190
+#: cantor_part.cpp:188
 msgid "Syntax Highlighting"
 msgstr "Evidențiere sitaxă"
 
-#: cantor_part.cpp:195
+#: cantor_part.cpp:193
 msgid "Completion"
 msgstr "Completare"
 
-#: cantor_part.cpp:200
+#: cantor_part.cpp:198
 msgid "Line Numbers"
 msgstr "Numere de linie"
 
-#: cantor_part.cpp:205
+#: cantor_part.cpp:203
 #, fuzzy
 #| msgid "Evaluate Worksheet"
 msgid "Animate Worksheet"
 msgstr "Evaluează foaia de lucru"
 
-#: cantor_part.cpp:210
+#: cantor_part.cpp:208
 msgid "Restart Backend"
 msgstr "Restartează platforma"
 
-#: cantor_part.cpp:215 worksheetentry.cpp:308 worksheetentry.cpp:700
+#: cantor_part.cpp:213 worksheetentry.cpp:308 worksheetentry.cpp:700
 msgid "Evaluate Entry"
 msgstr "Evaluează înregistrarea"
 
-#: cantor_part.cpp:220 worksheet.cpp:1096
+#: cantor_part.cpp:218 worksheet.cpp:1094
 msgid "Insert Command Entry"
 msgstr "Inserează comandă de intrare"
 
-#: cantor_part.cpp:225 worksheet.cpp:1097
+#: cantor_part.cpp:223 worksheet.cpp:1095
 msgid "Insert Text Entry"
 msgstr "Introduceți textul"
 
-#: cantor_part.cpp:230
+#: cantor_part.cpp:228
 #, fuzzy
 #| msgid "Insert Text Entry"
 msgid "Insert Latex Entry"
 msgstr "Introduceți textul"
 
-#: cantor_part.cpp:235 worksheet.cpp:1100
+#: cantor_part.cpp:233 worksheet.cpp:1098
 msgid "Insert Page Break"
 msgstr ""
 
-#: cantor_part.cpp:239 worksheet.cpp:1099
+#: cantor_part.cpp:237 worksheet.cpp:1097
 msgid "Insert Image"
 msgstr ""
 
-#: cantor_part.cpp:265
+#: cantor_part.cpp:263
 msgid "Remove current Entry"
 msgstr "Șterge intrarea actuală"
 
-#: cantor_part.cpp:270 cantor_part.cpp:697
+#: cantor_part.cpp:268 cantor_part.cpp:695
 #, kde-format
 msgid "Show %1 Help"
 msgstr "Afișează %1 ajutor"
 
-#: cantor_part.cpp:275
+#: cantor_part.cpp:273
 msgid "Publish Worksheet"
 msgstr "Publică foaia de lucru"
 
-#: cantor_part.cpp:280
+#: cantor_part.cpp:278
 msgid "Show Script Editor"
 msgstr "Arată redactor de scripturi"
 
-#: cantor_part.cpp:286
+#: cantor_part.cpp:284
 msgid "Show Completion"
 msgstr "Arată finalizarea"
 
-#: cantor_part.cpp:350
+#: cantor_part.cpp:348
 msgid "CantorPart"
 msgstr "Parte a Cantor"
 
-#: cantor_part.cpp:352 main.cpp:71
+#: cantor_part.cpp:350 main.cpp:71
 #, fuzzy
 #| msgid "(C) 2009-2010 Alexander Rieder"
 msgid "(C) 2009-2015 Alexander Rieder"
 msgstr "(C) 2009-2010 Alexander Rieder"
 
-#: cantor_part.cpp:429
+#: cantor_part.cpp:406
+#, fuzzy
+#| msgid "Save"
+msgid "Save as"
+msgstr "Salvează"
+
+#: cantor_part.cpp:419 panelplugins/variablemgr/variablemanagerwidget.cpp:149
+msgid "Save"
+msgstr "Salvează"
+
+#: cantor_part.cpp:427
 #, fuzzy
 #| msgid "*.tex|LaTex Document"
 msgid "*.tex|LaTeX Document"
 msgstr "*.tex| Document LaTex "
 
-#: cantor_part.cpp:470 worksheet.cpp:1071
+#: cantor_part.cpp:468 worksheet.cpp:1069
 msgid "Interrupt"
 msgstr "Întrerupe"
 
-#: cantor_part.cpp:473
+#: cantor_part.cpp:471
 msgid "Calculating..."
 msgstr "Se calculează..."
 
-#: cantor_part.cpp:479
+#: cantor_part.cpp:477
 msgid "Ready"
 msgstr "Gata"
 
-#: cantor_part.cpp:487
+#: cantor_part.cpp:485
 #, kde-format
 msgid "Session Error: %1"
 msgstr "Eroare sesiune: %1"
 
-#: cantor_part.cpp:504
+#: cantor_part.cpp:502
 msgid "Initializing Session"
 msgstr "Se inițializează sesiunea"
 
-#: cantor_part.cpp:517
+#: cantor_part.cpp:515
 msgid "Initialization complete"
 msgstr "Inițializare încheiată"
 
-#: cantor_part.cpp:553
+#: cantor_part.cpp:551
 msgid "Unnamed"
 msgstr "Fără nume"
 
-#: cantor_part.cpp:555
+#: cantor_part.cpp:553
 #, kde-format
 msgid "%1: %2"
 msgstr "%1: %2"
 
-#: cantor_part.cpp:703
+#: cantor_part.cpp:701
 msgid "Do you want to upload current Worksheet to public web server?"
 msgstr "Vrei să urci foaia de lucru la un server web public ?"
 
-#: cantor_part.cpp:704
+#: cantor_part.cpp:702
 msgid "Question - Cantor"
 msgstr "Întrebare - Cantor"
 
-#: cantor_part.cpp:710
+#: cantor_part.cpp:708
 msgid "The Worksheet is not saved. You should save it before uploading."
 msgstr ""
 "Foaia de lucru nu este salvată. Ar trebui sa o salvezi înainte de a o uploada"
 
-#: cantor_part.cpp:711
+#: cantor_part.cpp:709
 msgid "Warning - Cantor"
 msgstr "Avertizare - Cantor"
 
-#: cantor_part.cpp:785
+#: cantor_part.cpp:783
 msgid "This backend does not support scripts."
 msgstr "Această platformă nu suportă scripturi."
 
@@ -2068,36 +2089,36 @@ msgstr ""
 msgid "Use Display Size"
 msgstr ""
 
-#: imagesettingsdialog.cpp:37
+#: imagesettingsdialog.cpp:39
 msgid "(auto)"
 msgstr ""
 
-#: imagesettingsdialog.cpp:37
+#: imagesettingsdialog.cpp:39
 #, fuzzy
 #| msgid "x"
 msgid "px"
 msgstr "x"
 
-#: imagesettingsdialog.cpp:37
+#: imagesettingsdialog.cpp:39
 msgid "%"
 msgstr ""
 
-#: imagesettingsdialog.cpp:138
+#: imagesettingsdialog.cpp:140
 msgid "Open image file"
 msgstr ""
 
-#: latexentry.cpp:71 textentry.cpp:69
+#: latexentry.cpp:70 textentry.cpp:69
 #, fuzzy
 #| msgid "Show Code"
 msgid "Show LaTeX code"
 msgstr "Arată codul"
 
-#. i18n: ectx: label, entry (LatexCommand), group (Cantor)
+#. i18n: ectx: label, entry (latexCommand), group (Cantor)
 #: lib/cantor_libs.kcfg:10
 msgid "Path to the latex executable"
 msgstr "Calea către programul latex"
 
-#. i18n: ectx: label, entry (DvipsCommand), group (Cantor)
+#. i18n: ectx: label, entry (dvipsCommand), group (Cantor)
 #: lib/cantor_libs.kcfg:14
 msgid "Path to the dvips executable"
 msgstr "Calea către programul dvips"
@@ -2239,15 +2260,17 @@ msgstr "Sunteți sigur că vreți sa ștergeți toate variabilele?"
 msgid "Confirmation - Cantor"
 msgstr "Confirmare - Cantor"
 
-#: resultitem.cpp:78
-msgid "Save result"
-msgstr "Salvează rezultatul"
+#: panelplugins/variablemgr/variablemanagerwidget.cpp:160
+#, fuzzy
+#| msgid "Load Variables"
+msgid "Load file"
+msgstr "Încarcă variabilele"
 
 #: resultitem.cpp:79
 msgid "Remove result"
 msgstr "Șterge rezultatul"
 
-#: scripteditorwidget.cpp:59
+#: scripteditorwidget.cpp:60
 msgid ""
 "A KDE text-editor component could not be found;\n"
 "please check your KDE installation."
@@ -2255,11 +2278,11 @@ msgstr ""
 "Nu a putut fi găsită o componentă KDE pentru editarea textului;\n"
 "verificați instalarea KDE."
 
-#: scripteditorwidget.cpp:146
+#: scripteditorwidget.cpp:148
 msgid "Script Editor"
 msgstr "Redactor de scripturi"
 
-#: scripteditorwidget.cpp:149
+#: scripteditorwidget.cpp:151
 #, kde-format
 msgid "Script Editor - %1"
 msgstr "Editor de scripturi -%1"
@@ -2377,21 +2400,21 @@ msgstr ""
 "Nu se poate reda fișierul de tip Eps. S-ar putea să aveți nevoie de resurse "
 "adiționale."
 
-#: worksheet.cpp:840
+#: worksheet.cpp:838
 #, kde-format
 msgid "Cannot write file %1."
 msgstr "Fișierul nu poate fi scris %1."
 
-#: worksheet.cpp:858 worksheet.cpp:894
+#: worksheet.cpp:856 worksheet.cpp:892
 #, kde-format
 msgid "Error saving file %1"
 msgstr "Eroare la salvarea fișierului %1"
 
-#: worksheet.cpp:906
+#: worksheet.cpp:904
 msgid "Error loading latex.xsl stylesheet"
 msgstr "Eroare la încarcărea foii de stil latex.xsl "
 
-#: worksheet.cpp:943
+#: worksheet.cpp:941
 #, kde-format
 msgid ""
 "The backend with which this file was generated is not installed. It needs %1"
@@ -2399,7 +2422,7 @@ msgstr ""
 "Platforma pe care acest fișier a fost creeat nu este instalată. Este nevoie "
 "de %1"
 
-#: worksheet.cpp:949
+#: worksheet.cpp:947
 #, kde-format
 msgid ""
 "There are some problems with the %1 backend,\n"
@@ -2410,131 +2433,131 @@ msgstr ""
 "verificați configurația sau instalează pachetele de care ai nevoie.\n"
 "S-ar putea să poți vedea doar foaia de lucru."
 
-#: worksheet.cpp:1079 worksheet.cpp:1085
+#: worksheet.cpp:1077 worksheet.cpp:1083
 msgid "Command Entry"
 msgstr "Comandă de intrare"
 
-#: worksheet.cpp:1080 worksheet.cpp:1086
+#: worksheet.cpp:1078 worksheet.cpp:1084
 msgid "Text Entry"
 msgstr "Text de intrare"
 
-#: worksheet.cpp:1081 worksheet.cpp:1087
+#: worksheet.cpp:1079 worksheet.cpp:1085
 #, fuzzy
 #| msgid "Text Entry"
 msgid "LaTeX Entry"
 msgstr "Text de intrare"
 
-#: worksheet.cpp:1082 worksheet.cpp:1088
+#: worksheet.cpp:1080 worksheet.cpp:1086
 #, fuzzy
 #| msgid "Remove Entry"
 msgid "Image"
 msgstr "Șterge înregistrarea"
 
-#: worksheet.cpp:1083 worksheet.cpp:1089
+#: worksheet.cpp:1081 worksheet.cpp:1087
 msgid "Page Break"
 msgstr ""
 
-#: worksheet.cpp:1091
+#: worksheet.cpp:1089
 #, fuzzy
 #| msgid "Insert Entry"
 msgid "Insert"
 msgstr "Inserează înregistrare"
 
-#: worksheet.cpp:1092
+#: worksheet.cpp:1090
 #, fuzzy
 #| msgid "Insert Text Entry Before"
 msgid "Insert Before"
 msgstr "Inserează text de intrare înainte de "
 
-#: worksheet.cpp:1098
+#: worksheet.cpp:1096
 #, fuzzy
 #| msgid "Insert Text Entry"
 msgid "Insert LaTeX Entry"
 msgstr "Introduceți textul"
 
-#: worksheet.cpp:1135
+#: worksheet.cpp:1133
 msgctxt "@action"
 msgid "Text &Color..."
 msgstr ""
 
-#: worksheet.cpp:1136
+#: worksheet.cpp:1134
 msgctxt "@label text color"
 msgid "Color"
 msgstr ""
 
-#: worksheet.cpp:1144
+#: worksheet.cpp:1142
 msgctxt "@action"
 msgid "Text &Highlight..."
 msgstr ""
 
-#: worksheet.cpp:1151
+#: worksheet.cpp:1149
 msgctxt "@action"
 msgid "&Font"
 msgstr ""
 
-#: worksheet.cpp:1158
+#: worksheet.cpp:1156
 msgctxt "@action"
 msgid "Font &Size"
 msgstr ""
 
-#: worksheet.cpp:1167
+#: worksheet.cpp:1165
 msgctxt "@action boldify selected text"
 msgid "&Bold"
 msgstr ""
 
-#: worksheet.cpp:1182
+#: worksheet.cpp:1180
 msgctxt "@action italicize selected text"
 msgid "&Italic"
 msgstr ""
 
-#: worksheet.cpp:1197
+#: worksheet.cpp:1195
 #, fuzzy
 #| msgid "Inline"
 msgctxt "@action underline selected text"
 msgid "&Underline"
 msgstr "În linie"
 
-#: worksheet.cpp:1211
+#: worksheet.cpp:1209
 msgctxt "@action"
 msgid "&Strike Out"
 msgstr ""
 
-#: worksheet.cpp:1225
+#: worksheet.cpp:1223
 msgctxt "@action"
 msgid "Align &Left"
 msgstr ""
 
-#: worksheet.cpp:1228
+#: worksheet.cpp:1226
 msgctxt "@label left justify"
 msgid "Left"
 msgstr ""
 
-#: worksheet.cpp:1237
+#: worksheet.cpp:1235
 msgctxt "@action"
 msgid "Align &Center"
 msgstr ""
 
-#: worksheet.cpp:1240
+#: worksheet.cpp:1238
 msgctxt "@label center justify"
 msgid "Center"
 msgstr ""
 
-#: worksheet.cpp:1249
+#: worksheet.cpp:1247
 msgctxt "@action"
 msgid "Align &Right"
 msgstr ""
 
-#: worksheet.cpp:1252
+#: worksheet.cpp:1250
 msgctxt "@label right justify"
 msgid "Right"
 msgstr ""
 
-#: worksheet.cpp:1261
+#: worksheet.cpp:1259
 msgctxt "@action"
 msgid "&Justify"
 msgstr ""
 
-#: worksheet.cpp:1264
+#: worksheet.cpp:1262
 msgctxt "@label justify fill"
 msgid "Justify"
 msgstr ""
@@ -2623,6 +2646,3 @@ msgstr "Șterge înregistrarea"
 
 #~ msgid "Show Help Panel"
 #~ msgstr "Arată panoul de ajutor"
-
-#~ msgid "Save"
-#~ msgstr "Salvează"

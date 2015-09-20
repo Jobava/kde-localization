@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ro\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-03 01:58+0000\n"
+"POT-Creation-Date: 2015-09-17 02:00+0000\n"
 "PO-Revision-Date: 2014-09-30 23:27+0300\n"
 "Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -13135,7 +13135,9 @@ msgid "MS-Money (Expert)"
 msgstr "MS-Money (avansat)"
 
 #: kmymoney/plugins/ofximport/dialogs/mymoneyofxconnector.cpp:223
-msgid "Enter your password"
+#, fuzzy, kde-format
+#| msgid "Enter your password"
+msgid "Enter your password for account <b>%1</b>"
 msgstr "Introduceți parola"
 
 #: kmymoney/plugins/ofximport/ofximporterplugin.cpp:105

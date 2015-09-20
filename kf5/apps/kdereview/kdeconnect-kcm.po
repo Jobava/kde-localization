@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:16+0000\n"
+"POT-Creation-Date: 2015-09-13 08:29+0000\n"
 "PO-Revision-Date: 2014-03-25 16:46+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -26,39 +26,39 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: kcm.cpp:55
+#: kcm.cpp:57
 msgid "KDE Connect Settings"
 msgstr ""
 
-#: kcm.cpp:57
+#: kcm.cpp:59
 msgid "KDE Connect Settings module"
 msgstr ""
 
-#: kcm.cpp:59
+#: kcm.cpp:61
 msgid "(C) 2015 Albert Vaca Cintora"
 msgstr ""
 
-#: kcm.cpp:63
+#: kcm.cpp:65
 msgid "Albert Vaca Cintora"
 msgstr ""
 
-#: kcm.cpp:212 kcm.cpp:278
+#: kcm.cpp:226 kcm.cpp:291
 msgid "(paired)"
 msgstr "(asociat)"
 
-#: kcm.cpp:212 kcm.cpp:278
+#: kcm.cpp:226 kcm.cpp:291
 msgid "(unpaired)"
 msgstr "(neasociat)"
 
-#: kcm.cpp:228
+#: kcm.cpp:242
 msgid "Available plugins"
 msgstr ""
 
-#: kcm.cpp:229
+#: kcm.cpp:243
 msgid "Plugins unsupported by the device"
 msgstr ""
 
-#: kcm.cpp:265
+#: kcm.cpp:278
 #, kde-format
 msgid "Error trying to pair: %1"
 msgstr "Eroare la încercarea de asociere: %1"

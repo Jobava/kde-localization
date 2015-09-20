@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-01 10:24+0000\n"
+"POT-Creation-Date: 2015-09-11 07:46+0000\n"
 "PO-Revision-Date: 2013-01-10 15:48+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -253,24 +253,20 @@ msgid "This is the color used to highlight misspelled words"
 msgstr ""
 "Aceasta este culoarea folosită pentru a evidenția cuvintele scrise greșit"
 
-#. i18n: ectx: label, entry (PgpSignedMessageColor), group (Reader)
-#: settings/messagecore.kcfg:58
-msgid "This is the color used for highlighting all signed messages"
-msgstr ""
-"Aceasta e culoarea folosită pentru evidențierea tuturor mesajelor semnate"
-
-#. i18n: ectx: label, entry (PgpEncryptedMessageColor), group (Reader)
-#: settings/messagecore.kcfg:62
-msgid "This is the color used for highlighting all encrypted messages"
-msgstr ""
-"Aceasta e culoarea folosită pentru evidențierea tuturor mesajelor criptate"
-
 #. i18n: ectx: label, entry (MaximumAttachmentSize), group (Composer)
-#: settings/messagecore.kcfg:71
+#: settings/messagecore.kcfg:63
 msgid ""
 "The maximum size in bits that email attachments are allowed to have (-1 for "
 "no limit)"
 msgstr ""
+
+#~ msgid "This is the color used for highlighting all signed messages"
+#~ msgstr ""
+#~ "Aceasta e culoarea folosită pentru evidențierea tuturor mesajelor semnate"
+
+#~ msgid "This is the color used for highlighting all encrypted messages"
+#~ msgstr ""
+#~ "Aceasta e culoarea folosită pentru evidențierea tuturor mesajelor criptate"
 
 #~ msgid "Could not read file %1."
 #~ msgstr "Nu s-a putut citi fișierul %1."

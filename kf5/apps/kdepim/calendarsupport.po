@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-06 08:49+0000\n"
+"POT-Creation-Date: 2015-09-18 07:57+0000\n"
 "PO-Revision-Date: 2013-02-16 10:59+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -342,60 +342,6 @@ msgstr "Zi de naștere"
 msgid "<placeholder>undefined</placeholder>"
 msgstr "nedefinit"
 
-#: collectiongeneralpage.cpp:58
-msgctxt "@title:tab General settings for a folder."
-msgid "General"
-msgstr "General"
-
-#: collectiongeneralpage.cpp:68
-msgctxt "@label:textbox Name of the folder."
-msgid "&Name:"
-msgstr "De&numire:"
-
-#: collectiongeneralpage.cpp:73
-msgctxt "@info:tooltip"
-msgid "Set the folder name"
-msgstr ""
-
-#: collectiongeneralpage.cpp:76
-msgctxt "@info:whatsthis"
-msgid "Enter a name here to set the name of this folder."
-msgstr ""
-
-#: collectiongeneralpage.cpp:84
-#, fuzzy
-#| msgid "Block alarms locally"
-msgctxt "@option:check"
-msgid "Block reminders locally"
-msgstr "Blochează alarmele local"
-
-#: collectiongeneralpage.cpp:86
-msgctxt "@info:tooltip"
-msgid "Ignore reminders from this calendar"
-msgstr ""
-
-#: collectiongeneralpage.cpp:89
-msgctxt "@info:whatsthis"
-msgid ""
-"Check this box if you do not want to receive reminders from items associated "
-"with this calendar."
-msgstr ""
-
-#: collectiongeneralpage.cpp:95
-msgctxt "@option:check"
-msgid "&Use custom icon:"
-msgstr ""
-
-#: collectiongeneralpage.cpp:97
-msgctxt "@info:tooltip"
-msgid "Set a custom icon"
-msgstr ""
-
-#: collectiongeneralpage.cpp:100
-msgctxt "@info:whatsthis"
-msgid "Check this box if you want to set a custom icon for this folder."
-msgstr ""
-
 #: eventarchiver.cpp:146
 #, fuzzy, kde-format
 msgid "There are no items before %1"
@@ -424,17 +370,93 @@ msgstr "Motiv necunoscut"
 msgid "Cannot write archive file %1. %2"
 msgstr "Nu pot scrie fișierul-arhivă %1. %2"
 
-#: eventarchiver.cpp:304
+#: eventarchiver.cpp:303
 #, kde-format
 msgid "Cannot write archive. %1"
 msgstr "Nu pot scrie fișierul-arhivă. %1"
 
-#: eventarchiver.cpp:313
+#: eventarchiver.cpp:312
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Archive &Events"
 msgid "Archiving events"
 msgstr "Arhivează &evenimente"
+
+#: freebusymodel/freebusycalendar.cpp:133
+msgid "Free"
+msgstr ""
+
+#: freebusymodel/freebusycalendar.cpp:136
+msgid "Busy"
+msgstr ""
+
+#: freebusymodel/freebusycalendar.cpp:139
+msgid "Unavailable"
+msgstr ""
+
+#: freebusymodel/freebusycalendar.cpp:142
+msgid "Tentative"
+msgstr ""
+
+#: freebusymodel/freebusycalendar.cpp:145
+#, fuzzy
+#| msgid "Unknown Name"
+msgid "Unknown"
+msgstr "Nume necunoscut"
+
+#: freebusymodel/freebusyitemmodel.cpp:230
+#, fuzzy
+msgid "Attendee"
+msgstr "Însoțitori"
+
+#: freebusymodel/freeperiodmodel.cpp:150
+#, fuzzy, kde-format
+msgctxt "@label Day of the week name, example: Monday,"
+msgid "%1,"
+msgstr "%1 %2"
+
+#: freebusymodel/freeperiodmodel.cpp:165
+#, kde-format
+msgctxt ""
+"@label A time period duration. It is preceded/followed (based on the "
+"orientation) by the name of the week, see the message above. example: 12 "
+"June, 8:00am to 9:30am"
+msgid "%1 %2, %3 to %4"
+msgstr ""
+
+#: freebusymodel/freeperiodmodel.cpp:185
+#, fuzzy, kde-format
+msgctxt ""
+"@label A time period duration. KLocale is used to format the components. "
+"example: Monday, 12 June, 8:00am to 9:30am"
+msgid "%1, %2 %3, %4 to %5"
+msgstr "%1 %2"
+
+#: freebusymodel/freeperiodmodel.cpp:199
+msgctxt "@info:tooltip"
+msgid "Free Period"
+msgstr ""
+
+#: freebusymodel/freeperiodmodel.cpp:201
+#, fuzzy
+#| msgctxt "@title:column, calendar event start date and time"
+#| msgid "Start date and time"
+msgctxt "@info:tooltip period start time"
+msgid "Start:"
+msgstr "Data și ora de început"
+
+#: freebusymodel/freeperiodmodel.cpp:204
+msgctxt "@info:tooltip period end time"
+msgid "End:"
+msgstr ""
+
+#: freebusymodel/freeperiodmodel.cpp:207
+#, fuzzy
+#| msgctxt "incidence category"
+#| msgid "Education"
+msgctxt "@info:tooltip period duration"
+msgid "Duration:"
+msgstr "Educație"
 
 #: kcalmodel.cpp:128
 #, kde-format
@@ -1693,43 +1715,43 @@ msgstr "Arhivează &evenimente"
 msgid "Prints all to-dos in a (tree-like) list"
 msgstr ""
 
-#: printing/calprinter.cpp:135
+#: printing/calprinter.cpp:133
 msgctxt "@info"
 msgid "Unable to print, an invalid print style was specified."
 msgstr ""
 
-#: printing/calprinter.cpp:136
+#: printing/calprinter.cpp:134
 #, fuzzy
 msgctxt "@title:window"
 msgid "Printing error"
 msgstr "Tipărire"
 
-#: printing/calprinter.cpp:180
+#: printing/calprinter.cpp:178
 #, fuzzy
 #| msgid "Print"
 msgctxt "@title:window"
 msgid "Print"
 msgstr "Print"
 
-#: printing/calprinter.cpp:200
+#: printing/calprinter.cpp:198
 #, fuzzy
 msgctxt "@title:group"
 msgid "Print Style"
 msgstr "Listă evenimente"
 
-#: printing/calprinter.cpp:211
+#: printing/calprinter.cpp:209
 #, fuzzy
 msgctxt "@label"
 msgid "Page &orientation:"
 msgstr "Orientarea:"
 
-#: printing/calprinter.cpp:217
+#: printing/calprinter.cpp:215
 #, fuzzy
 msgctxt "@info:tooltip"
 msgid "Set the print orientation"
 msgstr "Timp de început"
 
-#: printing/calprinter.cpp:220
+#: printing/calprinter.cpp:218
 msgctxt "@info:whatsthis"
 msgid ""
 "Choose if you want your output to be printed in \"portrait\" or \"landscape"
@@ -1737,33 +1759,33 @@ msgid ""
 "style or to your printer's default setting."
 msgstr ""
 
-#: printing/calprinter.cpp:224
+#: printing/calprinter.cpp:222
 msgctxt "@item:inlistbox"
 msgid "Use Default Orientation of Selected Style"
 msgstr ""
 
-#: printing/calprinter.cpp:226
+#: printing/calprinter.cpp:224
 #, fuzzy
 #| msgid "Reset to Defaults"
 msgctxt "@item:inlistbox"
 msgid "Use Printer Default"
 msgstr "Restabilire implicite"
 
-#: printing/calprinter.cpp:228
+#: printing/calprinter.cpp:226
 #, fuzzy
 #| msgid "Portrait"
 msgctxt "@item:inlistbox"
 msgid "Portrait"
 msgstr "Portret"
 
-#: printing/calprinter.cpp:230
+#: printing/calprinter.cpp:228
 #, fuzzy
 #| msgid "Landscape"
 msgctxt "@item:inlistbox"
 msgid "Landscape"
 msgstr "Peisaj"
 
-#: printing/calprinter.cpp:254
+#: printing/calprinter.cpp:252
 #, fuzzy
 #| msgctxt "@item:inlistbox"
 #| msgid "Select Categories"
@@ -1771,7 +1793,7 @@ msgctxt "@info:tooltip"
 msgid "Select the type of print"
 msgstr "Alege categorii"
 
-#: printing/calprinter.cpp:257
+#: printing/calprinter.cpp:255
 msgctxt "@info:whatsthis"
 msgid ""
 "Select one of the following types of prints you want to make. You may want "
@@ -1779,7 +1801,7 @@ msgid ""
 "(like a day, week or month), or you may want to print your to-do list."
 msgstr ""
 
-#: printing/calprinter.cpp:287
+#: printing/calprinter.cpp:285
 #, fuzzy
 #| msgid "&Preview"
 msgctxt "@action:button"
@@ -2648,6 +2670,20 @@ msgstr "Salvează atașamentele la"
 msgctxt "filename for an unnamed attachment"
 msgid "attachment.1"
 msgstr "atașament.1"
+
+#~ msgctxt "@title:tab General settings for a folder."
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgctxt "@label:textbox Name of the folder."
+#~ msgid "&Name:"
+#~ msgstr "De&numire:"
+
+#, fuzzy
+#~| msgid "Block alarms locally"
+#~ msgctxt "@option:check"
+#~ msgid "Block reminders locally"
+#~ msgstr "Blochează alarmele local"
 
 #, fuzzy
 #~| msgctxt "@title:column calendar title"
