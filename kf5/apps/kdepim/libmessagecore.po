@@ -43,7 +43,7 @@ msgid ""
 "The resulting attachment would be larger than the maximum allowed size, "
 "aborting."
 msgstr ""
-"Atașamentul rezultant ar fi mai mare decît dimensiunea maximă permisă. Se "
+"Atașamentul rezultant ar fi mai mare decât dimensiunea maximă permisă. Se "
 "abandonează."
 
 #: attachment/attachmentfromfolderjob.cpp:112

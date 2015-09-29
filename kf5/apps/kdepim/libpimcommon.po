@@ -1556,7 +1556,7 @@ msgstr "Română"
 
 #: translator/translatorutil.cpp:179
 msgid "Serbian"
-msgstr "Sîrbă"
+msgstr "Sârbă"
 
 #: translator/translatorutil.cpp:182
 msgid "Slovak"

@@ -82,7 +82,7 @@ msgstr "  Început: %1"
 #: konsolekalendardelete.cpp:112
 #, kde-format
 msgid "  End:   %1"
-msgstr "  Sfîrșit:  %1"
+msgstr "  Sfârșit:  %1"
 
 #: konsolekalendar.cpp:477 konsolekalendaradd.cpp:184
 msgid "  No Time Associated with Event"

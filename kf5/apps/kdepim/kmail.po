@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmail\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-17 09:25+0000\n"
+"POT-Creation-Date: 2015-09-28 08:18+0000\n"
 "PO-Revision-Date: 2014-03-26 13:37+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -216,16 +216,16 @@ msgid ""
 "<p>Messages classified as spam are marked as read.<br />Spam messages are "
 "moved into the folder named <i>%1</i>.</p>"
 msgstr ""
-"<p>Mesajele clasificate ca spam sînt marcate ca citite.<br />Mesajele spam "
-"sînt mutate în dosarul <i>%1</i>.</p>"
+"<p>Mesajele clasificate ca spam sunt marcate ca citite.<br />Mesajele spam "
+"sunt mutate în dosarul <i>%1</i>.</p>"
 
 #: antispam-virus/antispamwizard.cpp:599
 msgid ""
 "<p>Messages classified as spam are marked as read.<br />Spam messages are "
 "not moved into a certain folder.</p>"
 msgstr ""
-"<p>Mesajele clasificate ca spam sînt marcate ca citite.<br />Mesajele spam "
-"nu sînt mutate într-un dosar anume.</p>"
+"<p>Mesajele clasificate ca spam sunt marcate ca citite.<br />Mesajele spam "
+"nu sunt mutate într-un dosar anume.</p>"
 
 #: antispam-virus/antispamwizard.cpp:603
 #, kde-format
@@ -233,16 +233,16 @@ msgid ""
 "<p>Messages classified as spam are not marked as read.<br />Spam messages "
 "are moved into the folder named <i>%1</i>.</p>"
 msgstr ""
-"<p>Mesajele clasificate ca spam nu sînt marcate ca citite.<br />Mesajele "
-"spam sînt mutate în dosarul <i>%1</i>.</p>"
+"<p>Mesajele clasificate ca spam nu sunt marcate ca citite.<br />Mesajele "
+"spam sunt mutate în dosarul <i>%1</i>.</p>"
 
 #: antispam-virus/antispamwizard.cpp:607
 msgid ""
 "<p>Messages classified as spam are not marked as read.<br />Spam messages "
 "are not moved into a certain folder.</p>"
 msgstr ""
-"<p>Mesajele clasificate ca spam nu sînt marcate ca citite.<br />Mesajele "
-"spam nu sînt mutate într-un dosar anume.</p>"
+"<p>Mesajele clasificate ca spam nu sunt marcate ca citite.<br />Mesajele "
+"spam nu sunt mutate într-un dosar anume.</p>"
 
 #: antispam-virus/antispamwizard.cpp:636
 #, kde-format
@@ -292,7 +292,7 @@ msgstr ""
 "filtrele existente. De fiecare dată vor fi adăugate ca reguli noi de "
 "filtrare.</p><p><b>Atenție:</b> Deoarece KMail este blocat în timpul "
 "operației de scanare a mesajelor, s-ar putea să vă loviți de lipsa de "
-"interactivitate din partea lui deoarece operațiile antivirus sînt în general "
+"interactivitate din partea lui deoarece operațiile antivirus sunt în general "
 "consumatoare de timp. Dacă doriți să reveniți la situația anterioară, "
 "ștergeți regulile antivirus create de expert.</p>"
 
@@ -351,8 +351,8 @@ msgid ""
 "a special folder."
 msgstr ""
 "Permite utilitarelor antivirus să verifice mesajele dumneavoastră. Expertul "
-"va crea filtrele corespunzătoare. În realitate e-mail-urile sînt numai "
-"marcate, astfel încît filtrele ce urmează să reacționeze la ele și, de "
+"va crea filtrele corespunzătoare. În realitate e-mail-urile sunt numai "
+"marcate, astfel încât filtrele ce urmează să reacționeze la ele și, de "
 "exemplu, să mute mesajele virusate într-un dosar special."
 
 #: antispam-virus/antispamwizard.cpp:1127
@@ -378,7 +378,7 @@ msgid ""
 "Mark messages which have been classified as virus-infected as read, as well "
 "as moving them to the selected folder."
 msgstr ""
-"Pe lîngă mutarea lor în dosarul selectat, mesajele virusate sînt marcate "
+"Pe lângă mutarea lor în dosarul selectat, mesajele virusate sunt marcate "
 "automat ca fiind citite."
 
 #: collectionpage/collectionmailinglistpage.cpp:53
@@ -418,7 +418,7 @@ msgstr "Invocă manipulant"
 msgid "Post to List"
 msgstr "Publică pe listă"
 
-#: collectionpage/collectionmailinglistpage.cpp:138 messageactions.cpp:387
+#: collectionpage/collectionmailinglistpage.cpp:138 messageactions.cpp:388
 msgid "Subscribe to List"
 msgstr "Abonează la listă"
 
@@ -675,7 +675,7 @@ msgstr "Trimite acum"
 
 #: configuredialog/configureaccountpage.cpp:128
 msgid "Send Later"
-msgstr "Trimite mai tîrziu"
+msgstr "Trimite mai târziu"
 
 #: configuredialog/configureaccountpage.cpp:133
 msgid "Send &messages in outbox folder:"
@@ -853,7 +853,7 @@ msgstr "&Utilizează culori personalizate"
 
 #: configuredialog/configureappearancepage.cpp:373
 msgid "Recycle colors on deep &quoting"
-msgstr "&Reciclează culorile la citare adîncă"
+msgstr "&Reciclează culorile la citare adâncă"
 
 #: configuredialog/configureappearancepage.cpp:382
 msgid "Close to quota threshold:"
@@ -865,7 +865,7 @@ msgstr "%"
 
 #: configuredialog/configureappearancepage.cpp:530
 msgid "Show folder quick search field"
-msgstr "Arată cîmpul de căutarea rapidă al dosarului"
+msgstr "Arată câmpul de căutarea rapidă al dosarului"
 
 #: configuredialog/configureappearancepage.cpp:537
 msgid "Show Favorite Folders View"
@@ -1126,7 +1126,7 @@ msgid ""
 "there is text selected in the message window."
 msgstr ""
 "La răspuns, citează doar textul ales\n"
-"(în loc de întregul mesaj) atunci cînd\n"
+"(în loc de întregul mesaj) atunci când\n"
 "este text evidențiat în fereastra mesajului."
 
 #: configuredialog/configurecomposerpage.cpp:234
@@ -1136,7 +1136,7 @@ msgid ""
 "word-wrapping the text."
 msgstr ""
 "La răspuns, adaugă semne de citare în fața tuturor liniilor textului citat,\n"
-"chiar și atunci cînd linia a fost creată adăugînd un sfîrșit de linie "
+"chiar și atunci când linia a fost creată adăugând un sfârșit de linie "
 "suplimentar\n"
 "în timpul limitării dinamice a textului."
 
@@ -1216,7 +1216,7 @@ msgstr ""
 
 #: configuredialog/configurecomposerpage.cpp:398
 msgid "Warn if too many recipients are specified"
-msgstr "Atenționează dacă sînt specificați prea mulți destinatari"
+msgstr "Atenționează dacă sunt specificați prea mulți destinatari"
 
 #: configuredialog/configurecomposerpage.cpp:409
 msgid "Set the maximum number of recipients for the warning"
@@ -1334,7 +1334,7 @@ msgid ""
 "for a charset that contains all required characters."
 msgstr ""
 "Această listă este verificată pentru fiecare e-mail care este trimis, de sus "
-"pînă jos, pentru un set de caractere care conține toate caracterele necesare "
+"până jos, pentru un set de caractere care conține toate caracterele necesare "
 "mesajului."
 
 #. i18n: ectx: property (text), widget (QPushButton, mModifyButton)
@@ -1416,7 +1416,7 @@ msgstr ""
 
 #: configuredialog/configurecomposerpage.cpp:1277
 msgid "Enter new key word:"
-msgstr "Introduceți noul cuvînt cheie:"
+msgstr "Introduceți noul cuvânt cheie:"
 
 #: configuredialog/configurecomposerpage.cpp:1288
 msgid "Offer to share for files larger than:"
@@ -1441,7 +1441,7 @@ msgid ""
 "compliant mail clients; so, unless you have no other choice, you should not "
 "enable this option."
 msgstr ""
-"Ați ales să codați denumirile atașamentelor conținînd caractere non-ASCII "
+"Ați ales să codați denumirile atașamentelor conținând caractere non-ASCII "
 "într-un mod care este înțeles de Outlook(tm) și alți clienți de poștă care "
 "nu susțin atașamente cu denumiri codate în mod standardizat.\n"
 "Observație: KMail poate crea mesaje non-standard și în consecință este "
@@ -1761,11 +1761,11 @@ msgstr "Trimite"
 #: editor/kmcomposewin.cpp:1110 editor/kmcomposewin.cpp:1123
 #: editor/kmcomposewin.cpp:2804
 msgid "Send &Later"
-msgstr "T&rimite mai tîrziu"
+msgstr "T&rimite mai târziu"
 
 #: editor/kmcomposewin.cpp:1116 editor/kmcomposewin.cpp:1130
 msgid "Send &Later Via"
-msgstr "T&rimite mai tîrziu prin"
+msgstr "T&rimite mai târziu prin"
 
 #: editor/kmcomposewin.cpp:1118
 msgctxt "Queue the message for sending at a later date"
@@ -1875,7 +1875,7 @@ msgstr "Comută regimul de redactare a textului complex"
 
 #: editor/kmcomposewin.cpp:1282
 msgid "&All Fields"
-msgstr "To&ate cîmpurile"
+msgstr "To&ate câmpurile"
 
 #: editor/kmcomposewin.cpp:1285
 msgid "&Identity"
@@ -2019,7 +2019,7 @@ msgstr ""
 
 #: editor/kmcomposewin.cpp:1860
 msgid "Do you want to save the message for later or discard it?"
-msgstr "Doriți să salvez mesajul pentru mai tîrziu sau să-l șterg?"
+msgstr "Doriți să salvez mesajul pentru mai târziu sau să-l șterg?"
 
 #: editor/kmcomposewin.cpp:1861
 msgid "Close Composer"
@@ -2118,9 +2118,9 @@ msgid ""
 "your email address for all identities, so that you do not have to enter it "
 "for each message."
 msgstr ""
-"Trebuie să introduceți în cîmpul \"De la:\" adresa dumneavoastră de e-mail. "
+"Trebuie să introduceți în câmpul \"De la:\" adresa dumneavoastră de e-mail. "
 "De asemenea ar trebui să setați adresa de e-mail pentru toate identitățiile "
-"astfel încît să nu fiți întrebat de ea pentru fiecare mesaj de trimis."
+"astfel încât să nu fiți întrebat de ea pentru fiecare mesaj de trimis."
 
 #: editor/kmcomposewin.cpp:2551
 #, fuzzy
@@ -2131,12 +2131,12 @@ msgid ""
 "You must specify at least one receiver, either in the To: field or as CC or "
 "as BCC."
 msgstr ""
-"Trebuie să specificați cel puțin un destinatar, cel puțin în cîmpul \"Către:"
+"Trebuie să specificați cel puțin un destinatar, cel puțin în câmpul \"Către:"
 "\" sau în \"CC:\" sau \"BCC:\"."
 
 #: editor/kmcomposewin.cpp:2557
 msgid "To: field is empty. Send message anyway?"
-msgstr "Cîmpul Către: este gol. Expediați mesajul oricum?"
+msgstr "Câmpul Către: este gol. Expediați mesajul oricum?"
 
 #: editor/kmcomposewin.cpp:2559
 msgid "No To: specified"
@@ -2167,7 +2167,7 @@ msgid ""
 "You must specify at least one receiver in order to be able to encrypt a "
 "draft."
 msgstr ""
-"Trebuie să specificați cel puțin un destinatar, cel puțin în cîmpul \"Către:"
+"Trebuie să specificați cel puțin un destinatar, cel puțin în câmpul \"Către:"
 "\" sau în \"CC:\" sau \"BCC:\"."
 
 #: editor/kmcomposewin.cpp:2801
@@ -2208,7 +2208,7 @@ msgid ""
 "Turning HTML mode off will cause the text to lose the formatting. Are you "
 "sure?"
 msgstr ""
-"Dezactivarea regimului HTML va provoca pierderea formatării. Sînteți sigur?"
+"Dezactivarea regimului HTML va provoca pierderea formatării. Sunteți sigur?"
 
 #: editor/kmcomposewin.cpp:2911
 msgid "Lose the formatting?"
@@ -2392,7 +2392,7 @@ msgstr "Creează vCard propriu"
 
 #: identity/identityaddvcarddialog.cpp:58 identity/newidentitydialog.cpp:83
 msgid "&With empty fields"
-msgstr "&Cu cîmpuri goale"
+msgstr "&Cu câmpuri goale"
 
 #: identity/identityaddvcarddialog.cpp:64
 #, fuzzy
@@ -2445,7 +2445,7 @@ msgid ""
 "like it to appear in the email header that is sent out;</p><p>if you leave "
 "this blank your real name will not appear, only the email address.</p></qt>"
 msgstr ""
-"<qt><h3>Numele dumneavoastră</h3><p>Acest cîmp ar trebui să conțină numele "
+"<qt><h3>Numele dumneavoastră</h3><p>Acest câmp ar trebui să conțină numele "
 "dumneavoastră așa cum doriți să apară în antetul mesajului pe care îl "
 "trimiteți.</p><p>Dacă nu îl completați, atunci va fi afișată numai adresa de "
 "e-mail.</p></qt>"
@@ -2460,7 +2460,7 @@ msgid ""
 "organization if you would like it to be shown in the email header that is "
 "sent out.</p><p>It is safe (and normal) to leave this blank.</p></qt>"
 msgstr ""
-"<qt><h3>Organizația</h3><p>Acest cîmp ar trebui să conțină denumirea "
+"<qt><h3>Organizația</h3><p>Acest câmp ar trebui să conțină denumirea "
 "organizației dumneavoastră dacă doriți ca aceasta să apară în antetul "
 "mesajelor trimise.</p><p>Nu este nici o problemă să îl lăsați necompletat.</"
 "p></qt>"
@@ -2482,8 +2482,8 @@ msgid ""
 "alias addresses in the field below.</p><p>If you leave this blank, or get it "
 "wrong, people will have trouble replying to you.</p></qt>"
 msgstr ""
-"<qt><h3>Adresa de e-mail</h3><p>Acest cîmp trebuie să conțină adresa "
-"dumneavoastră de e-mail completă.</p><p>Dacă nu completați acest cîmp sau îl "
+"<qt><h3>Adresa de e-mail</h3><p>Acest câmp trebuie să conțină adresa "
+"dumneavoastră de e-mail completă.</p><p>Dacă nu completați acest câmp sau îl "
 "introduceți greșit, cei care vă scriu vor avea probleme să comunice cu "
 "dumneavoastră.</p></qt>"
 
@@ -2531,7 +2531,7 @@ msgid ""
 msgstr ""
 "<qt><p>Cheia OpenPGP pe care o alegeți aici va fi utilizată la semnarea "
 "digitală a mesajelor. Puteți folosi și chei GnuPG.</p><p>Dacă lăsați "
-"necompletat acest cîmp, KMail nu va putea semna mesajele cu OpenPGP. "
+"necompletat acest câmp, KMail nu va putea semna mesajele cu OpenPGP. "
 "Funcțiile normale de mail nu vor fi afectate.</p><p>La <a href=\"http://www."
 "gnupg.org\">http://www.gnupg.org</a> puteți afla mai multe despre chei.</p></"
 "qt>"
@@ -2565,9 +2565,9 @@ msgstr ""
 "<qt><p>Cheia OpenPGP pe care o alegeți aici va fi utilizată la criptarea "
 "mesajelor trimise către dumneavoastră. De asemenea ea va fi folosită cu "
 "funcția \"Atașează cheia mea publică\" din  fereastra de compunere. Puteți "
-"alege și chei GnuPG.</p><p>Dacă lăsați cîmpul necompletat, KMail nu va putea "
+"alege și chei GnuPG.</p><p>Dacă lăsați câmpul necompletat, KMail nu va putea "
 "să cripteze cu OpenPGP copii ale mesajelor trimise către dumneavoastră. "
-"Funcțiile normale de mail nu sînt afectate.</p><p>La <a href=\"http://www."
+"Funcțiile normale de mail nu sunt afectate.</p><p>La <a href=\"http://www."
 "gnupg.org\">http://www.gnupg.org</a> puteți afla mai multe despre chei.</p></"
 "qt>"
 
@@ -2595,9 +2595,9 @@ msgid ""
 "not be affected.</p></qt>"
 msgstr ""
 "<qt><p>Certificatul S/MIME (X.509) pe care-l alegeți aici va fi utilizat la "
-"semnarea digitală a mesajelor.</p><p>Dacă lăsați cîmpul necompletat, KMail "
+"semnarea digitală a mesajelor.</p><p>Dacă lăsați câmpul necompletat, KMail "
 "nu va putea să semneze mesajele digital cu S/MIME. Funcțiile normale de mail "
-"nu sînt afectate.</p></qt>"
+"nu sunt afectate.</p></qt>"
 
 #: identity/identitydialog.cpp:304
 msgid "S/MIME signing certificate:"
@@ -2626,9 +2626,9 @@ msgid ""
 msgstr ""
 "<qt><p>Certificatul S/MIME pe care îl alegeți aici va fi utilizat la "
 "criptarea mesajelor către dumneavoastră și pentru funcția \"Atașează "
-"certificatul meu\" din fereastra de compunere.</p><p>Dacă lăsați cîmpul "
+"certificatul meu\" din fereastra de compunere.</p><p>Dacă lăsați câmpul "
 "necompletat, KMail nu va putea să cripteze cu S/MIME copii ale mesajele "
-"trimise către dumneavoastră. Funcțiile normale de mail nu sînt afectate.</"
+"trimise către dumneavoastră. Funcțiile normale de mail nu sunt afectate.</"
 "p></qt>"
 
 #: identity/identitydialog.cpp:333
@@ -2666,11 +2666,11 @@ msgid ""
 msgstr ""
 "<qt><h3>Adrese de răspuns</h3><p>Stabilește antetul <tt>Reply-to:</tt> să "
 "conțină o adresă de e-mail diferită de cea din antetul <tt>From:</tt>.</"
-"p><p>Poate fi util cînd aveți un grup de personae ce lucrează împreună în "
+"p><p>Poate fi util când aveți un grup de personae ce lucrează împreună în "
 "roluri similare. De exemplu, ați putea dori care orice mesaje trimise să "
-"aibă adresa dumneavoastră în cîmpul <tt>From:</tt>, dar orice răspuns să se "
+"aibă adresa dumneavoastră în câmpul <tt>From:</tt>, dar orice răspuns să se "
 "ducă către o adresăd de grup.</p> <p>Dacă nu știți ce să faceți, lăsați "
-"cîmpul necompletat.</p> </qt>"
+"câmpul necompletat.</p> </qt>"
 
 #: identity/identitydialog.cpp:406
 msgid "&CC addresses:"
@@ -2700,7 +2700,7 @@ msgstr ""
 "facilitate este utilizată pentru a trimite o copie a mesajelor la un alt "
 "cont de-al dumnevoastră.</p><p>Pentru a specifica mai mult de o adresă, "
 "utilizați virgula pentru a separa lista de destinatari BCC.</p> <p>Dacă nu "
-"știți ce să faceți, lăsați cîmpul necompletat.</p> </qt>"
+"știți ce să faceți, lăsați câmpul necompletat.</p> </qt>"
 
 #: identity/identitydialog.cpp:426
 msgid "&BCC addresses:"
@@ -2721,7 +2721,7 @@ msgstr ""
 "facilitate este utilizată pentru a trimite o copie a mesajelor la un alt "
 "cont de-al dumnevoastră.</p><p>Pentru a specifica mai mult de o adresă, "
 "utilizați virgula pentru a separa lista de destinatari BCC.</p> <p>Dacă nu "
-"știți ce să faceți, lăsați cîmpul necompletat.</p> </qt>"
+"știți ce să faceți, lăsați câmpul necompletat.</p> </qt>"
 
 #: identity/identitydialog.cpp:445
 msgid "D&ictionary:"
@@ -2775,7 +2775,7 @@ msgid ""
 "consist of the user's name.</p></qt>"
 msgstr ""
 "<qt><p>Domeniul implicit este utilizat pentru a completa adresele de e-mail "
-"care sînt formate numai din numele de utilizator.</p></qt>"
+"care sunt formate numai din numele de utilizator.</p></qt>"
 
 #: identity/identitydialog.cpp:536
 msgid "&Use custom message templates for this identity"
@@ -2811,7 +2811,7 @@ msgstr ""
 "identificator de utilizator cu adresa de e-mail configurată pentru această "
 "identitate (%1).\n"
 "Acest lucru poate să genereze mesaje de avertizare la primirea mesajelor de "
-"la dumneavoastră atunci cînd destinatarul încearcă să verifice semnătura."
+"la dumneavoastră atunci când destinatarul încearcă să verifice semnătura."
 
 #: identity/identitydialog.cpp:720
 #, kde-format
@@ -2835,7 +2835,7 @@ msgstr ""
 "identificator de utilizator cu adresa de e-mail configurată pentru această "
 "identitate (%1).\n"
 "Acest lucru poate să genereze mesaje de avertizare la primirea mesajelor de "
-"la dumneavoastră atunci cînd destinatarul încearcă să verifice semnătura."
+"la dumneavoastră atunci când destinatarul încearcă să verifice semnătura."
 
 #: identity/identitydialog.cpp:734
 #, kde-format
@@ -3042,7 +3042,7 @@ msgstr ""
 
 #: identity/xfaceconfigurator.cpp:167
 msgid "Use this field to enter an arbitrary X-Face string."
-msgstr "Utilizați acest cîmp pentru a introduce un cîmp X-Face arbitrar."
+msgstr "Utilizați acest câmp pentru a introduce un câmp X-Face arbitrar."
 
 #: identity/xfaceconfigurator.cpp:171
 #, fuzzy
@@ -3053,7 +3053,7 @@ msgid ""
 "Examples are available at <a href=\"http://ace.home.xs4all.nl/X-Faces/"
 "\">http://ace.home.xs4all.nl/X-Faces/</a>."
 msgstr ""
-"Exemplele sînt disponibile la <a href=\"http://www.xs4all.nl/~ace/X-Faces/"
+"Exemplele sunt disponibile la <a href=\"http://www.xs4all.nl/~ace/X-Faces/"
 "\">http://www.xs4all.nl/~ace/X-Faces/</a>."
 
 #: identity/xfaceconfigurator.cpp:226
@@ -3065,7 +3065,7 @@ msgstr "Cale: (%1)"
 #: identity/xfaceconfigurator.cpp:251
 msgid "You do not have your own contact defined in the address book."
 msgstr ""
-"Informațiile dumneavoastră de contact nu sînt definite în cartea de adrese."
+"Informațiile dumneavoastră de contact nu sunt definite în cartea de adrese."
 
 #: identity/xfaceconfigurator.cpp:251 identity/xfaceconfigurator.cpp:262
 #: identity/xfaceconfigurator.cpp:270
@@ -3087,10 +3087,10 @@ msgstr "Mesaje șterse cu succes."
 msgid "Distribution list %2 is empty, it cannot be used."
 msgid_plural "Distribution lists %2 are empty, they cannot be used."
 msgstr[0] "Lista de distribuție %2 este goală, nu poate fi folosită."
-msgstr[1] "Listele de distribuție %2 sînt goale, nu pot fi folosite."
-msgstr[2] "Listele de distribuție %2 sînt goale, nu pot fi folosite."
+msgstr[1] "Listele de distribuție %2 sunt goale, nu pot fi folosite."
+msgstr[2] "Listele de distribuție %2 sunt goale, nu pot fi folosite."
 
-#: job/createnewcontactjob.cpp:79 kmreaderwin.cpp:169
+#: job/createnewcontactjob.cpp:79 kmreaderwin.cpp:170
 msgid "Add to Address Book"
 msgstr "Adaugă în cartea de adrese"
 
@@ -3100,12 +3100,12 @@ msgstr "Adaugă în cartea de adrese"
 msgid "Contact created successfully"
 msgstr "Mesaje șterse cu succes."
 
-#: job/createnewcontactjob.cpp:136 kmreaderwin.cpp:847
+#: job/createnewcontactjob.cpp:136 kmreaderwin.cpp:832
 #, kde-format
 msgid "Contact cannot be stored: %1"
 msgstr ""
 
-#: job/createnewcontactjob.cpp:136 kmreaderwin.cpp:847
+#: job/createnewcontactjob.cpp:136 kmreaderwin.cpp:832
 #, fuzzy
 #| msgid "Unable to edit attachment"
 msgid "Failed to store contact"
@@ -3149,7 +3149,7 @@ msgstr ""
 "<qt>Sigur doriți să ștergeți dosarul gol <resource>%1</resource> și toate "
 "subdosarele sale? Acele subdosare s-ar putea să nu fie goale și conțintul "
 "lor va fi de asemenea șters. <p><b>Aveți în vedere</b> că mesajele eliminate "
-"nu sînt salvate în coșul de gunoi și sînt șterse permanent.</p></qt>"
+"nu sunt salvate în coșul de gunoi și sunt șterse permanent.</p></qt>"
 
 #: job/removecollectionjob.cpp:94
 #, kde-format
@@ -3159,8 +3159,8 @@ msgid ""
 "saved into your Trash folder and are permanently deleted.</p></qt>"
 msgstr ""
 "<qt>Sigur doriți să ștergeți dosarul <resource>%1</resource> împreună cu "
-"conținutul lui? <p><b>Aveți în vedere</b> că mesajele eliminate nu sînt "
-"salvate în coșul de gunoi și sînt șterse permanent.</p></qt>"
+"conținutul lui? <p><b>Aveți în vedere</b> că mesajele eliminate nu sunt "
+"salvate în coșul de gunoi și sunt șterse permanent.</p></qt>"
 
 #: job/removecollectionjob.cpp:100
 #, kde-format
@@ -3172,7 +3172,7 @@ msgid ""
 msgstr ""
 "<qt>Sigur doriți să ștergeți dosarul <resource>%1</resource> și toate "
 "subdosarele sale, inclusiv conținutul acestora? <p><b>Aveți în vedere</b> că "
-"mesajele eliminate nu sînt salvate în coșul de gunoi și sînt șterse "
+"mesajele eliminate nu sunt salvate în coșul de gunoi și sunt șterse "
 "permanent.</p></qt>"
 
 #: job/removecollectionjob.cpp:107
@@ -3336,62 +3336,62 @@ msgstr "&Ajutor"
 msgid "Main Toolbar"
 msgstr "Bara de unelte principală"
 
-#: kmcommands.cpp:323
+#: kmcommands.cpp:324
 msgid "Please wait"
 msgstr "Așteptați"
 
-#: kmcommands.cpp:325 kmcommands.cpp:397
+#: kmcommands.cpp:326 kmcommands.cpp:398
 #, kde-format
 msgid "Please wait while the message is transferred"
 msgid_plural "Please wait while the %1 messages are transferred"
-msgstr[0] "Așteptați cît mesajul este transferat"
-msgstr[1] "Așteptați cît sînt transferate %1 mesaje"
-msgstr[2] "Așteptați cît sînt transferate %1 de mesaje"
+msgstr[0] "Așteptați cât mesajul este transferat"
+msgstr[1] "Așteptați cât sunt transferate %1 mesaje"
+msgstr[2] "Așteptați cât sunt transferate %1 de mesaje"
 
-#: kmcommands.cpp:554
+#: kmcommands.cpp:555
 #, kde-format
 msgctxt "@info"
 msgid "File <filename>%1</filename> exists.<nl/>Do you want to replace it?"
 msgstr "Fișierul <filename>%1</filename> există.<nl/>Îl înlocuiți?"
 
-#: kmcommands.cpp:555
+#: kmcommands.cpp:556
 msgid "Save to File"
 msgstr "Salvează în fișier"
 
-#: kmcommands.cpp:555
+#: kmcommands.cpp:556
 msgid "&Replace"
 msgstr "În&locuiește"
 
-#: kmcommands.cpp:746
+#: kmcommands.cpp:747
 msgid "Open Message"
 msgstr "Deschide mesajul"
 
-#: kmcommands.cpp:747
+#: kmcommands.cpp:748
 #, fuzzy
 #| msgid "Message Body"
 msgid "Message (*.mbox)"
 msgstr "Corpul mesajului"
 
-#: kmcommands.cpp:780
+#: kmcommands.cpp:781
 msgid "The file does not contain a message."
 msgstr "Fișierul nu conține un mesaj."
 
-#: kmcommands.cpp:836
+#: kmcommands.cpp:837
 msgid "The file contains multiple messages. Only the first message is shown."
 msgstr "Fișierul conține mesaje multiple. Va fi afișat numai primul mesaj."
 
-#: kmcommands.cpp:960
+#: kmcommands.cpp:961
 msgid ""
 "Do you want to forward the selected messages as attachments in one message "
 "(as a MIME digest) or as individual messages?"
 msgstr ""
 
-#: kmcommands.cpp:963
+#: kmcommands.cpp:964
 #, fuzzy
 msgid "Send As Digest"
 msgstr "Trimitere nesemnată"
 
-#: kmcommands.cpp:964
+#: kmcommands.cpp:965
 msgid "Send Individually"
 msgstr "Trimite individual"
 
@@ -3451,13 +3451,13 @@ msgstr "Arhivează dosar"
 #: kmkernel.cpp:1006
 msgid "KMail is set to be offline; all network jobs are suspended"
 msgstr ""
-"KMail este stabilit să fie deconectat; toate sarcinile de rețea sînt "
+"KMail este stabilit să fie deconectat; toate sarcinile de rețea sunt "
 "suspendate"
 
 #: kmkernel.cpp:1039
 msgid "KMail is set to be online; all network jobs resumed"
 msgstr ""
-"KMail este stabilit să fie conectat; toate sarcinile de rețea sînt reluate"
+"KMail este stabilit să fie conectat; toate sarcinile de rețea sunt reluate"
 
 #: kmkernel.cpp:1041
 #, fuzzy
@@ -3466,7 +3466,7 @@ msgid ""
 "KMail is set to be online; all network jobs will resume when a network "
 "connection is detected"
 msgstr ""
-"KMail este stabilit să fie conectat; toate sarcinile de rețea sînt reluate"
+"KMail este stabilit să fie conectat; toate sarcinile de rețea sunt reluate"
 
 #: kmkernel.cpp:1115
 msgid "KMail is currently in offline mode. How do you want to proceed?"
@@ -3489,14 +3489,14 @@ msgstr "Lucrează deconectat"
 #| msgid "KMail is set to be online; all network jobs resumed"
 msgid "Network connection detected, all network jobs resumed"
 msgstr ""
-"KMail este stabilit să fie conectat; toate sarcinile de rețea sînt reluate"
+"KMail este stabilit să fie conectat; toate sarcinile de rețea sunt reluate"
 
 #: kmkernel.cpp:1148
 #, fuzzy
 #| msgid "KMail is set to be offline; all network jobs are suspended"
 msgid "No network connection detected, all network jobs are suspended"
 msgstr ""
-"KMail este stabilit să fie deconectat; toate sarcinile de rețea sînt "
+"KMail este stabilit să fie deconectat; toate sarcinile de rețea sunt "
 "suspendate"
 
 #: kmkernel.cpp:1243
@@ -3997,21 +3997,21 @@ msgstr "&Creează filtru"
 
 #: kmmainwidget.cpp:3137
 msgid "Filter on &Subject..."
-msgstr "Filtrează după cîmpul &Subiect..."
+msgstr "Filtrează după câmpul &Subiect..."
 
 #: kmmainwidget.cpp:3144
 msgid "Filter on &From..."
-msgstr "Filtrează după cîmpul &De la..."
+msgstr "Filtrează după câmpul &De la..."
 
 #: kmmainwidget.cpp:3150
 msgid "Filter on &To..."
-msgstr "Filtrează după cîmpul &Către..."
+msgstr "Filtrează după câmpul &Către..."
 
 #: kmmainwidget.cpp:3156
 #, fuzzy
 #| msgid "Filter on &To..."
 msgid "Filter on &Cc..."
-msgstr "Filtrează după cîmpul &Către..."
+msgstr "Filtrează după câmpul &Către..."
 
 #: kmmainwidget.cpp:3163
 msgid "New Message From &Template"
@@ -4093,13 +4093,13 @@ msgstr "Desfășoară firul curent"
 #| msgid "&Collapse Thread"
 msgctxt "View->"
 msgid "&Collapse Thread / Group"
-msgstr "&Restrînge firul"
+msgstr "&Restrânge firul"
 
 #: kmmainwidget.cpp:3241
 #, fuzzy
 #| msgid "Collapse the current thread"
 msgid "Collapse the current thread or group"
-msgstr "Restrînge firul curent"
+msgstr "Restrânge firul curent"
 
 #: kmmainwidget.cpp:3245
 msgctxt "View->"
@@ -4113,11 +4113,11 @@ msgstr "Desfășoară toate firele din dosarul curent"
 #: kmmainwidget.cpp:3252
 msgctxt "View->"
 msgid "C&ollapse All Threads"
-msgstr "Res&trînge toate firele"
+msgstr "Res&trânge toate firele"
 
 #: kmmainwidget.cpp:3255
 msgid "Collapse all threads in the current folder"
-msgstr "Restrînge toate firele din dosarul curent"
+msgstr "Restrânge toate firele din dosarul curent"
 
 #: kmmainwidget.cpp:3259
 msgid "&Display Message"
@@ -4195,7 +4195,7 @@ msgid ""
 "Scroll down current message. If at end of current message, go to next unread "
 "message."
 msgstr ""
-"Derulează în jos mesajul curent. Dacă a ajuns la sfîrșitul mesajului, trece "
+"Derulează în jos mesajul curent. Dacă a ajuns la sfârșitul mesajului, trece "
 "la următorul mesaj necitit."
 
 #: kmmainwidget.cpp:3334
@@ -4432,77 +4432,77 @@ msgstr "Selectare mărime"
 msgid "Cannot copy item. %1"
 msgstr "Copiază sau mută mesajele la %1"
 
-#: kmreaderwin.cpp:148
+#: kmreaderwin.cpp:149
 msgid "New Message To..."
 msgstr "Mesaj nou către..."
 
-#: kmreaderwin.cpp:155
+#: kmreaderwin.cpp:156
 msgid "Reply To..."
 msgstr "Răspunde către..."
 
-#: kmreaderwin.cpp:162
+#: kmreaderwin.cpp:163
 msgid "Forward To..."
 msgstr "Înaintează către..."
 
-#: kmreaderwin.cpp:175
+#: kmreaderwin.cpp:176
 #, fuzzy
 #| msgid "Unable to edit attachment"
 msgid "Add to Existing Contact"
 msgstr "Imposibil de editat atașamentul"
 
-#: kmreaderwin.cpp:182
+#: kmreaderwin.cpp:183
 msgid "Open in Address Book"
 msgstr "Deschide în cartea de adrese"
 
-#: kmreaderwin.cpp:187
+#: kmreaderwin.cpp:188
 msgid "Bookmark This Link"
 msgstr "Adaugă ca semn de carte"
 
-#: kmreaderwin.cpp:193
+#: kmreaderwin.cpp:194
 #, fuzzy
 #| msgid "Edit Note..."
 msgid "Edit contact..."
 msgstr "Modificare notă..."
 
-#: kmreaderwin.cpp:199
+#: kmreaderwin.cpp:200
 msgid "Save Link As..."
 msgstr "Salvează legătura ca..."
 
-#: kmreaderwin.cpp:205
+#: kmreaderwin.cpp:206
 msgid "&Find in Message..."
 msgstr "&Caută în mesaj..."
 
-#: kmreaderwin.cpp:211
+#: kmreaderwin.cpp:212
 #, fuzzy
 #| msgid "Save Link As..."
 msgid "Save Image On Disk..."
 msgstr "Salvează legătura ca..."
 
-#: kmreaderwin.cpp:217
+#: kmreaderwin.cpp:218
 #, fuzzy
 #| msgid "Use HTML"
 msgid "Show HTML Format"
 msgstr "Folosește HTML"
 
-#: kmreaderwin.cpp:218
+#: kmreaderwin.cpp:219
 #, fuzzy
 #| msgid "Set the folder where new messages from this account are put"
 msgid "Show HTML format when mail comes from this contact"
 msgstr "Stabilește dosarul în care vor fi plasate mesajele acestui cont"
 
-#: kmreaderwin.cpp:224
+#: kmreaderwin.cpp:225
 #, fuzzy
 #| msgid "Load external references from the Internet for this message."
 msgid "Load external reference when mail comes for this contact"
 msgstr "Încarcă referințele externe din Internet pentru acest mesaj."
 
-#: kmreaderwin.cpp:230
+#: kmreaderwin.cpp:231
 #, fuzzy
 #| msgid "Save Link As..."
 msgid "Share image..."
 msgstr "Salvează legătura ca..."
 
-#: kmreaderwin.cpp:278
+#: kmreaderwin.cpp:274
 msgid ""
 "KMail is now based on the Akonadi Personal Information Management framework, "
 "which brings many changes all around."
@@ -4510,32 +4510,32 @@ msgstr ""
 "Acum KMail se bazează pe platforma de gestiune a informațiilor personale "
 "Akonadi, care aduce multe schimbări în toate domeniile."
 
-#: kmreaderwin.cpp:289
+#: kmreaderwin.cpp:285
 msgid "Push email (IMAP IDLE)"
 msgstr ""
 
-#: kmreaderwin.cpp:290
+#: kmreaderwin.cpp:286
 msgid "Improved virtual folders"
 msgstr "Dosare virtuale îmbunătățite"
 
-#: kmreaderwin.cpp:291
+#: kmreaderwin.cpp:287
 msgid "Improved searches"
 msgstr "Căutare îmbunătățită"
 
-#: kmreaderwin.cpp:292
+#: kmreaderwin.cpp:288
 msgid "Support for adding notes (annotations) to mails"
 msgstr "Suport pentru adăugarea adnotărilor la scrisori"
 
-#: kmreaderwin.cpp:293
+#: kmreaderwin.cpp:289
 msgid "Tag folders"
 msgstr "Etichetarea dosarelor"
 
-#: kmreaderwin.cpp:294
+#: kmreaderwin.cpp:290
 msgid "Less GUI freezes, mail checks happen in the background"
 msgstr ""
 "Mai puține blocări ale interfeței, verificarea poștei are loc în fundal"
 
-#: kmreaderwin.cpp:322
+#: kmreaderwin.cpp:318
 msgid ""
 "<h2 style='margin-top: 0px;'>Retrieving Folder Contents</h2><p>Please "
 "wait . . .</p>&nbsp;"
@@ -4543,7 +4543,7 @@ msgstr ""
 "<h2 style='margin-top: 0px;'>Obținere conținut dosar</h2><p>Așteptați . . .</"
 "p>&nbsp;"
 
-#: kmreaderwin.cpp:330
+#: kmreaderwin.cpp:326
 msgid ""
 "<h2 style='margin-top: 0px;'>Offline</h2><p>KMail is currently in offline "
 "mode. Click <a href=\"kmail:goOnline\">here</a> to go online . . .</p>&nbsp;"
@@ -4552,7 +4552,7 @@ msgstr ""
 "deconectat. Apăsați <a href=\"kmail:goOnline\">aici</a> pentru a vă "
 "conecta . . .</p>&nbsp;"
 
-#: kmreaderwin.cpp:339
+#: kmreaderwin.cpp:335
 #, fuzzy
 #| msgid ""
 #| "<h2 style='margin-top: 0px;'>Offline</h2><p>KMail is currently in offline "
@@ -4567,7 +4567,7 @@ msgstr ""
 "deconectat. Apăsați <a href=\"kmail:goOnline\">aici</a> pentru a vă "
 "conecta . . .</p>&nbsp;"
 
-#: kmreaderwin.cpp:353
+#: kmreaderwin.cpp:349
 #, fuzzy, kde-format
 #| msgctxt ""
 #| "%1: KMail version; %2: help:// URL; %3: generated list of new features; "
@@ -4606,7 +4606,7 @@ msgstr ""
 "clientul de poștă de la KDE. Acesta este proiectat să fie pe deplin "
 "compatibil cu standardele poștale din Internet, inclusiv MIME, SMTP, POP3 și "
 "IMAP.</p>\n"
-"<ul><li>KMail are multe caracteristici puternice care sînt descrise în <a "
+"<ul><li>KMail are multe caracteristici puternice care sunt descrise în <a "
 "href=\"%2\">documentație</a></li>\n"
 "%5\n"
 "%3\n"
@@ -4615,7 +4615,7 @@ msgstr ""
 "<p>Vă mulțumim,</p>\n"
 "<p style='margin-bottom: 0px'>&nbsp; &nbsp; Echipa KMail</p>"
 
-#: kmreaderwin.cpp:370
+#: kmreaderwin.cpp:366
 #, kde-format
 msgid ""
 "<p>Some of the new features in this release of KMail include (compared to "
@@ -4624,19 +4624,19 @@ msgstr ""
 "<p>Unele din noile caracteristici în această ediție KMail includ (în "
 "comparație cu KMail %1, care e parte a Compilației software KDE %2):</p>\n"
 
-#: kmreaderwin.cpp:384
+#: kmreaderwin.cpp:380
 msgid ""
 "<p>Please take a moment to fill in the KMail configuration panel at Settings-"
 "&gt;Configure KMail.\n"
 "You need to create at least a default identity and an incoming as well as "
 "outgoing mail account.</p>\n"
 msgstr ""
-"<p>Completați panoul de configurare KMail activînd meniul Setări-&gt;"
+"<p>Completați panoul de configurare KMail activând meniul Setări-&gt;"
 "Configurează KMail.\n"
 "Trebuie să creați cel puțin o identitate primară și un cont de mail de "
 "intrare și unul de ieșire.</p>\n"
 
-#: kmreaderwin.cpp:396
+#: kmreaderwin.cpp:392
 #, kde-format
 msgid ""
 "<p><span style='font-size:125%; font-weight:bold;'>Important changes</span> "
@@ -4645,12 +4645,12 @@ msgstr ""
 "<p><span style='font-size:125%; font-weight:bold;'>Modificări importante "
 "changes</span> (comparativ cu KMail %1):</p>\n"
 
-#: kmreaderwin.cpp:401
+#: kmreaderwin.cpp:397
 #, kde-format
 msgid "<li>%1</li>\n"
 msgstr "<li>%1</li>\n"
 
-#: kmreaderwin.cpp:853
+#: kmreaderwin.cpp:838
 #, fuzzy
 #| msgid "Messages moved successfully."
 msgid "Contact modified successfully"
@@ -4662,7 +4662,7 @@ msgstr "Mesaje noi în"
 
 #: kmsystemtray.cpp:419
 msgid "There are no unread messages"
-msgstr "Nu sînt mesaje necitite"
+msgstr "Nu sunt mesaje necitite"
 
 #: kmsystemtray.cpp:420
 #, kde-format
@@ -4826,130 +4826,130 @@ msgctxt "@title:window"
 msgid "Properties of Folder %1"
 msgstr "Proprietățile dosarului %1"
 
-#: messageactions.cpp:78
+#: messageactions.cpp:79
 msgctxt "Message->"
 msgid "&Reply"
 msgstr "&Răspunde"
 
-#: messageactions.cpp:82 searchdialog/searchwindow.cpp:231
+#: messageactions.cpp:83 searchdialog/searchwindow.cpp:231
 msgid "&Reply..."
 msgstr "&Răspunde..."
 
-#: messageactions.cpp:88
+#: messageactions.cpp:89
 msgid "Reply to A&uthor..."
 msgstr "Răspunde &autorului..."
 
-#: messageactions.cpp:94 searchdialog/searchwindow.cpp:235
+#: messageactions.cpp:95 searchdialog/searchwindow.cpp:235
 msgid "Reply to &All..."
 msgstr "Răspunde &tuturor..."
 
-#: messageactions.cpp:100 searchdialog/searchwindow.cpp:239
+#: messageactions.cpp:101 searchdialog/searchwindow.cpp:239
 msgid "Reply to Mailing-&List..."
 msgstr "Răspunde pe lista de &discuții..."
 
-#: messageactions.cpp:107
+#: messageactions.cpp:108
 msgid "Reply Without &Quote..."
 msgstr "Răspunde fără &citare..."
 
-#: messageactions.cpp:112
+#: messageactions.cpp:113
 msgid "Filter on Mailing-&List..."
 msgstr "Filtrează după &lista de discuții..."
 
-#: messageactions.cpp:116
+#: messageactions.cpp:117
 msgid "Mar&k Message"
 msgstr "&Marchează mesajul"
 
-#: messageactions.cpp:136
+#: messageactions.cpp:137
 msgid "&Edit Message"
 msgstr "&Editează mesajul"
 
-#: messageactions.cpp:141 messageactions.cpp:290
+#: messageactions.cpp:142 messageactions.cpp:291
 msgid "Add Note..."
 msgstr "Adăugare notă..."
 
-#: messageactions.cpp:148 searchdialog/searchwindow.cpp:243
+#: messageactions.cpp:149 searchdialog/searchwindow.cpp:243
 msgctxt "Message->"
 msgid "&Forward"
 msgstr "Î&naintează"
 
-#: messageactions.cpp:153
+#: messageactions.cpp:154
 msgctxt "@action:inmenu Message->Forward->"
 msgid "As &Attachment..."
 msgstr "Ca &atașament..."
 
-#: messageactions.cpp:161
+#: messageactions.cpp:162
 msgctxt "@action:inmenu Message->Forward->"
 msgid "&Inline..."
 msgstr "În &linie..."
 
-#: messageactions.cpp:169
+#: messageactions.cpp:170
 msgctxt "Message->Forward->"
 msgid "&Redirect..."
 msgstr "&Redirectează..."
 
-#: messageactions.cpp:178
+#: messageactions.cpp:179
 msgctxt "Message->"
 msgid "Mailing-&List"
 msgstr "&Listă de discuții"
 
-#: messageactions.cpp:203
+#: messageactions.cpp:204
 #, fuzzy
 #| msgid "&Find Messages..."
 msgid "Add Followup Reminder..."
 msgstr "&Caută mesaje..."
 
-#: messageactions.cpp:292
+#: messageactions.cpp:293
 msgid "Edit Note..."
 msgstr "Modificare notă..."
 
-#: messageactions.cpp:333
+#: messageactions.cpp:334
 msgid "Filter on Mailing-List..."
 msgstr "Filtrează după lista de discuții..."
 
-#: messageactions.cpp:372
+#: messageactions.cpp:373
 #, fuzzy
 #| msgid "OpenPGP Message - Bad Signature"
 msgid "Open Message in List Archive"
 msgstr "Mesaj OpenPGP - Semnătură falsă"
 
-#: messageactions.cpp:375
+#: messageactions.cpp:376
 msgid "Post New Message"
 msgstr "Publică mesaj nou"
 
-#: messageactions.cpp:378
+#: messageactions.cpp:379
 msgid "Go to Archive"
 msgstr "Mergi la arhivă"
 
-#: messageactions.cpp:381
+#: messageactions.cpp:382
 msgid "Request Help"
 msgstr "Cere ajutor"
 
-#: messageactions.cpp:384
+#: messageactions.cpp:385
 msgctxt "Contact the owner of the mailing list"
 msgid "Contact Owner"
 msgstr "Contactează proprietarul"
 
-#: messageactions.cpp:390
+#: messageactions.cpp:391
 msgid "Unsubscribe from List"
 msgstr "Dezabonează de la listă"
 
-#: messageactions.cpp:399
+#: messageactions.cpp:400
 #, kde-format
 msgid "Filter on Mailing-List %1..."
 msgstr "Filtrează după lista de discuții %1..."
 
-#: messageactions.cpp:563
+#: messageactions.cpp:564
 #, fuzzy
 #| msgctxt "@title:column Email of the recipient."
 #| msgid "Email"
 msgid "email"
 msgstr "Email"
 
-#: messageactions.cpp:566
+#: messageactions.cpp:567
 msgid "web"
 msgstr "web"
 
-#: messageactions.cpp:569
+#: messageactions.cpp:570
 #, kde-format
 msgctxt ""
 "%1 is a 'Contact Owner' or similar action. %2 is a protocol normally web or "
@@ -5268,7 +5268,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Show folder quick search field"
 msgid "Show folder quick search line edit"
-msgstr "Arată cîmpul de căutarea rapidă al dosarului"
+msgstr "Arată câmpul de căutarea rapidă al dosarului"
 
 #. i18n: ectx: label, entry (ForwardingInlineByDefault), group (Composer)
 #: settings/kmail.kcfg.cmake:170
@@ -5282,7 +5282,7 @@ msgid ""
 "as well.\n"
 "        "
 msgstr ""
-"Ține minte această identitate, astfel încît să fie utilizată în ferestrele "
+"Ține minte această identitate, astfel încât să fie utilizată în ferestrele "
 "de compunere viitoare.\n"
 "        "
 
@@ -5292,7 +5292,7 @@ msgid ""
 "Remember this folder for sent items, so that it will be used in future "
 "composer windows as well."
 msgstr ""
-"Ține minte acest dosar pentru elemente trimise, astfel încît să fie utilizat "
+"Ține minte acest dosar pentru elemente trimise, astfel încât să fie utilizat "
 "în ferestrele de compunere viitoare."
 
 #. i18n: ectx: whatsthis, entry (StickyTransport), group (Composer)
@@ -5301,7 +5301,7 @@ msgid ""
 "Remember this mail transport, so that it will be used in future composer "
 "windows as well."
 msgstr ""
-"Ține minte acest transport de e-mail, astfel încît să fie utilizat în "
+"Ține minte acest transport de e-mail, astfel încât să fie utilizat în "
 "ferestrele de compunere viitoare."
 
 #. i18n: ectx: whatsthis, entry (StickyDictionary), group (Composer)
@@ -5316,7 +5316,7 @@ msgid ""
 "as well.\n"
 "        "
 msgstr ""
-"Ține minte această identitate, astfel încît să fie utilizată în ferestrele "
+"Ține minte această identitate, astfel încât să fie utilizată în ferestrele "
 "de compunere viitoare.\n"
 "        "
 
@@ -5691,7 +5691,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, mAutoEncrypt)
 #: ui/composercryptoconfiguration.ui:67
 msgid "Automatically encrypt &messages whenever possible"
-msgstr "Criptează automat &mesajele oricînd este posibil"
+msgstr "Criptează automat &mesajele oricând este posibil"
 
 #. i18n: ectx: property (text), widget (QCheckBox, mNeverEncryptWhenSavingInDrafts)
 #: ui/composercryptoconfiguration.ui:74
@@ -5837,7 +5837,7 @@ msgctxt ""
 "to be continued with \"jump to first new message\", \"jump to first unread "
 "or new message\", and \"jump to last selected message\""
 msgid "When ente&ring a folder:"
-msgstr "Cînd intră într-un dosar:"
+msgstr "Când intră într-un dosar:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, mActionEnterFolder)
 #: ui/miscpagemaintab.ui:111
@@ -5976,7 +5976,7 @@ msgstr ""
 "<em>imposibilă</em> specularea eventualelor probleme de securitate în "
 "motorul de randare HTML (Konqueror).</p><p>Ultima opțiune vă protejează de "
 "una dintre cele mai comune probleme ale mesajelor HTML, dar nu neapărat vă "
-"protejează și de problemele necunoscute la momentul cînd această versiune de "
+"protejează și de problemele necunoscute la momentul când această versiune de "
 "KMail a fost realizată.</p><p>De aceea <em>nu</em> este recomandabilă "
 "utilizarea afișării HTML a mesajelor.</p><p><b>Observație:</b> Puteți seta "
 "această opțiune per dosar din meniul <i>Dosar</i> al ferestrei principale "
@@ -6000,7 +6000,7 @@ msgid ""
 "messages that were not attached to it, you can enable this option, but you "
 "should be aware of the possible problem.</p></qt>"
 msgstr ""
-"<qt><p>Unele e-mail-uri cu caracter comercial sînt în format HTML și conțin "
+"<qt><p>Unele e-mail-uri cu caracter comercial sunt în format HTML și conțin "
 "referințe externe, de exemplu imagini, pe care cei care le trimit le "
 "introduc ca să vadă dacă le-ați citit mesajul trimis („spioni web”).</"
 "p><p>Nu există nici un motiv rezonabil pentru a încărca imaginile direct din "
@@ -6103,8 +6103,8 @@ msgstr ""
 "numit <b>confirmare de citire</b>. Autorul cere ca o notificare a "
 "prelucrării mesajului să-i fie trimisă și programul de mail al "
 "destinatarului va genera un răspuns din care autorul poate să afle ce s-a "
-"întîmplat cu mesajul lui. Tipurile de prelucrare cele mai cunoscute sînt: "
-"<b>afișare</b> (adică citire), <b>ștergere</b> și <b>răspîndire</b> (de "
+"întâmplat cu mesajul lui. Tipurile de prelucrare cele mai cunoscute sunt: "
+"<b>afișare</b> (adică citire), <b>ștergere</b> și <b>răspândire</b> (de "
 "exemplu mesajul a fost înaintat către altcineva).</p><p>Pentru a controla "
 "trimiterea MDN-urilor de către KMail, aveți la dispoziție următoarele "
 "opțiuni:</p><ul><li><em>Ignoră</em>: Ignoră orice cerere de notificare a "
@@ -6113,12 +6113,12 @@ msgstr ""
 "utilizatorului. În acest fel puteți trimite MDN-uri pentru mesajele "
 "selectate, iar pentru altele să ignorați sau să refuzați.</"
 "li><li><em>Refuză</em>: Întotdeauna trimite notificarea <b>refuzat</b>. "
-"Această metodă este numai <em>cu un pic</em> mai bună decît cea în care "
+"Această metodă este numai <em>cu un pic</em> mai bună decât cea în care "
 "trimiteți întotdeauna MDN-uri. Autorul va ști că mesajele au fost "
 "prelucrate, dar nu poate să afle dacă au fost citite sau șterse etc.</"
 "li><li><em>Trimite întotdeauna</em>: Trimite întotdeauna notificarea de "
-"primire cerută. Asta înseamnă că autorul mesajului va afla cînd a fost "
-"prelucrat mesajul și în plus ce s-a întîmplat cu el (afișat, șters, etc.). "
+"primire cerută. Asta înseamnă că autorul mesajului va afla când a fost "
+"prelucrat mesajul și în plus ce s-a întâmplat cu el (afișat, șters, etc.). "
 "Folosirea acestei opțiuni este puternic descurajată, dar a fost pusă la "
 "dispoziție deoarece are sens pentru administrarea relațiilor cu clienții.</"
 "li> </ul></qt>"
@@ -6603,7 +6603,7 @@ msgstr "&Atașare fișier"
 #, fuzzy
 #| msgid "Send Later"
 msgid "&Remind me later"
-msgstr "Trimite mai tîrziu"
+msgstr "Trimite mai târziu"
 
 #: warningwidgets/externaleditorwarning.cpp:28
 #, fuzzy
@@ -6669,15 +6669,15 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "Close the application when the main window is closed, even if there is a "
 #~ "system tray icon active."
 #~ msgstr ""
-#~ "Închide aplicația cînd este închisă fereastra principală, chiar dacă este "
+#~ "Închide aplicația când este închisă fereastra principală, chiar dacă este "
 #~ "o pictogramă activă în tava de sistem."
 
 #~ msgid ""
 #~ "<p>...that you can go to the next and previous message by using the\n"
 #~ "right and left arrow keys respectively?</p>\n"
 #~ msgstr ""
-#~ "<p>...că puteți merge la următorul și precedentul mesaj utilizînd\n"
-#~ "săgețile dreaptă și stîngă respectiv?</p>\n"
+#~ "<p>...că puteți merge la următorul și precedentul mesaj utilizând\n"
+#~ "săgețile dreaptă și stângă respectiv?</p>\n"
 
 #~ msgid ""
 #~ "<p>...that you can assign custom icons to each folder individually?\n"
@@ -7017,7 +7017,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #, fuzzy
 #~| msgid "Send Later"
 #~ msgid "Send Later Preferences..."
-#~ msgstr "Trimite mai tîrziu"
+#~ msgstr "Trimite mai târziu"
 
 #, fuzzy
 #~| msgid "Configure &Filters..."
@@ -7046,7 +7046,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Ș&terge dosarul"
 
 #~ msgid "Warn if more than this many recipients are specified"
-#~ msgstr "Atenționează dacă sînt specificați mai mulți destinatari decît atît"
+#~ msgstr "Atenționează dacă sunt specificați mai mulți destinatari decât atât"
 
 #, fuzzy
 #~| msgid "Moving messages to trash failed."
@@ -7192,7 +7192,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "trebuie compilat cu Grantlee 0.3 sau mai nou."
 
 #~ msgid "When Text Obscured"
-#~ msgstr "Cînd textul e obscur"
+#~ msgstr "Când textul e obscur"
 
 #~ msgid "Add Tag"
 #~ msgstr "Adaugă marcaj"
@@ -7212,7 +7212,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "Se pare că %1 rulează deja pe alt ecran al acestui calculator. Dacă "
 #~ "rulați %2 mai mult de o dată, riscați să pierdeți mesaje. Nu ar trebui să "
-#~ "porniți %1 dacă nu sînteți sigur că nu rulează deja."
+#~ "porniți %1 dacă nu sunteți sigur că nu rulează deja."
 
 #~ msgid ""
 #~ "%1 seems to be running on another display on this machine. Running %1 and "
@@ -7221,7 +7221,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "Se pare că %1 rulează deja în altă sesiune X ale a acestui calculator. "
 #~ "Dacă rulați %1 și %2 în aceleași timp riscați să pierdeți mesaje. Nu ar "
-#~ "trebui să porniți %2 dacă nu sînteți sigur că nu rulează deja %1."
+#~ "trebui să porniți %2 dacă nu sunteți sigur că nu rulează deja %1."
 
 #~ msgid ""
 #~ "%1 already seems to be running on %2. Running %1 more than once can cause "
@@ -7230,7 +7230,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "Se pare că %1 rulează deja pe %2. Dacă rulați %1 mai mult de o dată, "
 #~ "riscați să pierdeți mesaje. Nu ar trebui să porniți %1 pe acest "
-#~ "calculator dacă nu sînteți sigur că nu rulează deja pe %2."
+#~ "calculator dacă nu sunteți sigur că nu rulează deja pe %2."
 
 #~ msgid ""
 #~ "%1 seems to be running on %3. Running %1 and %2 at the same time can "
@@ -7239,7 +7239,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "Se pare că %1 rulează deja pe %3. Dacă rulați %1 și %2 în același timp, "
 #~ "riscați să pierdeți mesaje. Nu ar trebui să porniți %2 pe acest "
-#~ "calculator dacă nu sînteți sigur că %1 nu rulează deja pe %3."
+#~ "calculator dacă nu sunteți sigur că %1 nu rulează deja pe %3."
 
 #~ msgctxt "Start kmail even when another instance is running."
 #~ msgid "Start %1"
@@ -7312,7 +7312,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "outbox until you go online."
 #~ msgstr ""
 #~ "KMail este momentan în regim deconectat. Mesajele vor fi păstrate în "
-#~ "cutia de trimitere pînă vă conectați."
+#~ "cutia de trimitere până vă conectați."
 
 #~ msgid "Special &transport:"
 #~ msgstr "&Transport special:"
@@ -7327,9 +7327,9 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 
 #~ msgid "%1 match so far"
 #~ msgid_plural "%1 matches so far"
-#~ msgstr[0] "%1 potrivire pînă acum"
-#~ msgstr[1] "%1 potriviri pînă acum"
-#~ msgstr[2] "%1 de potriviri pînă acum"
+#~ msgstr[0] "%1 potrivire până acum"
+#~ msgstr[1] "%1 potriviri până acum"
+#~ msgstr[2] "%1 de potriviri până acum"
 
 #~ msgid "Message List - New Messages"
 #~ msgstr "Lista de mesaje - Mesaje noi"
@@ -7339,8 +7339,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "bottom.</p><p>Click on any filter to edit it using the controls in the "
 #~ "right-hand half of the dialog.</p></qt>"
 #~ msgstr ""
-#~ "<qt><p>Aceasta este lista de filtre definite. Ele sînt procesate de sus "
-#~ "în jos.</p><p>Dați clic pe oricare din filtre pentru a-l edita utilizînd "
+#~ "<qt><p>Aceasta este lista de filtre definite. Ele sunt procesate de sus "
+#~ "în jos.</p><p>Dați clic pe oricare din filtre pentru a-l edita utilizând "
 #~ "interfața grafică din partea dreaptă a dialogului.</p></qt>"
 
 #~ msgid ""
@@ -7351,8 +7351,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "<qt><p>Dați clic pe acest buton pentru a crea un filtru nou.</p><p>El va "
 #~ "fi inserat imediat după cel curent selectat, dar îi puteți schimba mai "
-#~ "tîrziu poziția.</p><p>Dacă ați apăsat accidental acest buton, atunci "
-#~ "puteți reveni la starea de mai înainte dînd clic pe butonul <em>Șterge</"
+#~ "târziu poziția.</p><p>Dacă ați apăsat accidental acest buton, atunci "
+#~ "puteți reveni la starea de mai înainte dând clic pe butonul <em>Șterge</"
 #~ "em>.</p></qt>"
 
 #~ msgid ""
@@ -7362,7 +7362,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "<qt><p>Dați clic pe acest buton pentru a copia un filtru.</p><p>Dacă ați "
 #~ "apăsat accidental acest buton, atunci puteți reveni la starea de mai "
-#~ "înainte dînd clic pe butonul <em>Șterge</em>.</p></qt>"
+#~ "înainte dând clic pe butonul <em>Șterge</em>.</p></qt>"
 
 #~ msgid ""
 #~ "<qt><p>Click this button to <em>delete</em> the currently-selected filter "
@@ -7373,8 +7373,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "<qt><p>Dați clic pe acest buton pentru <em>șterge</em> filtrul curent "
 #~ "selectat din lista de mai sus.</p><p>Nu există nici o posibilitate să "
 #~ "recuperați filtrul după ce l-ați șters, dar în orice moment puteți părăsi "
-#~ "dialogul de configurare filtre apăsînd butonul <em>Renunță</em>. În acest "
-#~ "mod sînt eliminate modificările pe care le-ați făcut.</p></qt>"
+#~ "dialogul de configurare filtre apăsând butonul <em>Renunță</em>. În acest "
+#~ "mod sunt eliminate modificările pe care le-ați făcut.</p></qt>"
 
 #~ msgid ""
 #~ "<qt><p>Click this button to move the currently-selected filter <em>up</"
@@ -7386,9 +7386,9 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "<qt><p>Dați clic pe acest buton pentru a muta filtrul selectat o poziție "
 #~ "mai <em>sus</em> în listă.</p><p>Acest lucru este util deoarece ordinea "
-#~ "filtrelor determină ordinea în care sînt aplicate mesajelor. Cel mai de "
+#~ "filtrelor determină ordinea în care sunt aplicate mesajelor. Cel mai de "
 #~ "sus filtru este încercat primul.</p><p>Dacă ați apăsat accidental acest "
-#~ "buton, atunci puteți reveni la starea inițială apăsînd butonul <em>Jos</"
+#~ "buton, atunci puteți reveni la starea inițială apăsând butonul <em>Jos</"
 #~ "em></p></qt>"
 
 #~ msgid ""
@@ -7401,9 +7401,9 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "<qt><p>Dați clic pe acest buton pentru a muta filtrul selectat o poziție "
 #~ "mai <em>jos</em> în listă.</p><p>Acest lucru este util deoarece ordinea "
-#~ "filtrelor determină ordinea în care sînt aplicate mesajelor. Cel mai de "
+#~ "filtrelor determină ordinea în care sunt aplicate mesajelor. Cel mai de "
 #~ "sus filtru este încercat primul.</p><p>Dacă ați apăsat accidental acest "
-#~ "buton, atunci puteți reveni la starea inițială apăsînd butonul <em>Sus</"
+#~ "buton, atunci puteți reveni la starea inițială apăsând butonul <em>Sus</"
 #~ "em></p></qt>"
 
 #~ msgid ""
@@ -7414,7 +7414,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "<em>OK</em> in the appearing dialog.</p></qt>"
 #~ msgstr ""
 #~ "<qt><p>Apăsați acest buton pentru a redenumi filtrul ales.</p><p>Filtrele "
-#~ "sînt denumite automat, atîta timp cît încep cu „&lt;”.</p><p>Dacă ați "
+#~ "sunt denumite automat, atâta timp cât încep cu „&lt;”.</p><p>Dacă ați "
 #~ "redenumit accidental un filtru și doriți din nou să fie denumit automat, "
 #~ "apăsați pe acest buton, alegeți <em>Curăță</em>, iar apoi apăsați <em>OK</"
 #~ "em> în dialogul ce va apărea.</p></qt>"
@@ -7429,10 +7429,10 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "<qt><p>Selectați acest buton pentru a forța afișarea dialogului de "
 #~ "confirmare.</p><p>Acest lucru este util dacă ați definit o regulă care "
-#~ "marchează mesajele să fie transferate mai tîrziu. Fără posibilitatea de a "
+#~ "marchează mesajele să fie transferate mai târziu. Fără posibilitatea de a "
 #~ "forța apariția dialogului, aceste mesaje nu vor fi aduse niciodată dacă "
 #~ "nu mai există alte mesaje mari care să aștepte pe server. Acest lucru se "
-#~ "poate întîmpla și dacă doriți să modificați regula așa încît să marcați "
+#~ "poate întâmpla și dacă doriți să modificați regula așa încât să marcați "
 #~ "diferit mesajele.</p></qt>"
 
 #~ msgid "Filter Rules"
@@ -7515,7 +7515,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "The following filters are invalid (e.g. containing no actions or no "
 #~ "search rules). Discard or edit invalid filters?"
 #~ msgstr ""
-#~ "Filtrele următoare nu au fost salvate deoarece sînt eronate (de exemplu "
+#~ "Filtrele următoare nu au fost salvate deoarece sunt eronate (de exemplu "
 #~ "nu conțin acțiuni sau reguli de căutare)."
 
 #~ msgid "Discard"
@@ -7525,7 +7525,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "The following filters have not been saved because they were invalid (e.g. "
 #~ "containing no actions or no search rules)."
 #~ msgstr ""
-#~ "Filtrele următoare nu au fost salvate deoarece sînt eronate (de exemplu "
+#~ "Filtrele următoare nu au fost salvate deoarece sunt eronate (de exemplu "
 #~ "nu conțin acțiuni sau reguli de căutare)."
 
 #~ msgid "Rename Filter"
@@ -7536,7 +7536,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "(leave the field empty for automatic naming)"
 #~ msgstr ""
 #~ "Redenumește filtrul „%1” la:\n"
-#~ "(lăsați cîmpul necompletat pentru denumire automată)"
+#~ "(lăsați câmpul necompletat pentru denumire automată)"
 
 #~ msgid "The operation was canceled by the user."
 #~ msgstr "Acțiunea a fost anulată de utilizator."
@@ -7595,7 +7595,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "data is collected and shown only when logging is turned on. "
 #~ msgstr ""
 #~ "Aici puteți activa sau dezactiva înregistrarea activităților filtrului. "
-#~ "Bineînțeles că datele înregistrate sînt colectate și afișate numai dacă "
+#~ "Bineînțeles că datele înregistrate sunt colectate și afișate numai dacă "
 #~ "jurnalizarea este activată. "
 
 #~ msgid "Logging Details"
@@ -7615,7 +7615,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "filter will be given."
 #~ msgstr ""
 #~ "Aici puteți controla informațiile din jurnal despre evaluarea regulilor "
-#~ "de filtrare ale filtrelor aplicate. Cînd activați această opțiune veți "
+#~ "de filtrare ale filtrelor aplicate. Când activați această opțiune veți "
 #~ "obține informații detaliate despre fiecare regulă de filtrare. În caz "
 #~ "contrar veți afla numai rezultatul evaluării tuturor regulilor unui "
 #~ "filtru."
@@ -7728,7 +7728,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "sent-mail folder."
 #~ msgstr ""
 #~ "Dacă selectați opțiunea, răspunsurile pe care le dați la mesajele din "
-#~ "acest dosar vor fi salvate direct în el. De regulă ele sînt salvate în "
+#~ "acest dosar vor fi salvate direct în el. De regulă ele sunt salvate în "
 #~ "dosarul „trimise”."
 
 #~ msgid "Hide this folder in the folder selection dialog"
@@ -7748,8 +7748,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "set up in the main configuration dialog. (Settings -> Configure KMail)"
 #~ msgstr ""
 #~ "Selectați identitatea expeditorului ce va fi utilizată la scrierea de "
-#~ "mesaje noi sau cînd răspundeți la mesaje din acest dosar. Asta înseamnă "
-#~ "că dacă nu sînteți cumva în unul din dosarele de lucru, puteți face KMail "
+#~ "mesaje noi sau când răspundeți la mesaje din acest dosar. Asta înseamnă "
+#~ "că dacă nu sunteți cumva în unul din dosarele de lucru, puteți face KMail "
 #~ "să utilizeze automat adresa de expeditor, semnătura și cheile de semnare "
 #~ "sau criptare corespunzătoare. Identitățile pot fi setate în dialogul de "
 #~ "configurare principal. (Setări -> Configurează KMail...)"
@@ -7927,13 +7927,13 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "Always &show matched 'Download Later' messages in confirmation dialog"
 #~ msgstr ""
 #~ "În dialogul de confirmare &afișează întotdeauna\n"
-#~ "mesajele ce se potrivesc cu 'transferă mai tîrziu'"
+#~ "mesajele ce se potrivesc cu 'transferă mai târziu'"
 
 #~ msgid "&Download mail"
 #~ msgstr "&Transferă mesajul"
 
 #~ msgid "Download mail la&ter"
-#~ msgstr "Transferă mesajul mai &tîrziu"
+#~ msgstr "Transferă mesajul mai &târziu"
 
 #~ msgid "D&elete mail from server"
 #~ msgstr "Șt&erge mesajele de pe server"
@@ -8011,7 +8011,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "Collecting diagnostic information about Sieve support...\n"
 #~ "\n"
 #~ msgstr ""
-#~ "Se strîng informații de diagnostic despre suportul Sieve...\n"
+#~ "Se strâng informații de diagnostic despre suportul Sieve...\n"
 #~ "\n"
 
 #~ msgid "Collecting data for account '%1'...\n"
@@ -8339,7 +8339,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "Acest mesaj conține o cerere de a trimite o notificare de primire a "
 #~ "mesajului,\n"
-#~ "dar nu există nicio informație de întoarcere către expeditor (cîmpul "
+#~ "dar nu există nicio informație de întoarcere către expeditor (câmpul "
 #~ "Return-Path).\n"
 #~ "Puteți ignora cererea sau să lăsați KMail să trimită un răspuns de tipul "
 #~ "„refuzat” sau unul normal."
@@ -8354,7 +8354,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "Acest mesaj conține o cerere de a trimite o notificare de primire a "
 #~ "mesajului,\n"
-#~ "dar adresa de întoarcere către expeditor (cîmpul Return-Path) diferă de "
+#~ "dar adresa de întoarcere către expeditor (câmpul Return-Path) diferă de "
 #~ "adresa de la care a fost cerută notificarea.\n"
 #~ "Puteți ignora cererea sau să lăsați KMail să trimită un răspuns de tipul "
 #~ "„refuzat” sau unul normal."
@@ -8741,14 +8741,14 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Nu aveți drepturi de citire/scriere în dosarul „intrare”."
 
 #~ msgid "KMail encountered a fatal error and will terminate now"
-#~ msgstr "KMail a întîlnit o eroare fatală și se va termina acum"
+#~ msgstr "KMail a întâlnit o eroare fatală și se va termina acum"
 
 #~ msgid ""
 #~ "KMail encountered a fatal error and will terminate now.\n"
 #~ "The error was:\n"
 #~ "%1"
 #~ msgstr ""
-#~ "KMail a întîlnit o eroare fatală și se va termina acum.\n"
+#~ "KMail a întâlnit o eroare fatală și se va termina acum.\n"
 #~ "Eroarea a fost:\n"
 #~ "%1"
 
@@ -8888,7 +8888,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 
 #~ msgctxt "@action:inmenu"
 #~ msgid "When Text Obscured"
-#~ msgstr "Cînd textul e obscur"
+#~ msgstr "Când textul e obscur"
 
 #~ msgctxt "@action:inmenu Never display tooltips."
 #~ msgid "Never"
@@ -9099,7 +9099,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "The following keys or certificates are <b>revoked</b>: \n"
 #~ msgstr ""
 #~ "\n"
-#~ "Următoarele chei sau certificate sînt <b>revocate</b>: \n"
+#~ "Următoarele chei sau certificate sunt <b>revocate</b>: \n"
 
 #, fuzzy
 #~| msgid "Unusable Encryption Keys"
@@ -9653,10 +9653,10 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "numărul serial %3)</p><p>expiră în mai puțin de %1 de zile.</p>"
 
 #~ msgid "OpenPGP Key Expires Soon"
-#~ msgstr "Cheia OpenPGP va expira curînd"
+#~ msgstr "Cheia OpenPGP va expira curând"
 
 #~ msgid "S/MIME Certificate Expires Soon"
-#~ msgstr "Certificatul S/MIME va expira curînd"
+#~ msgstr "Certificatul S/MIME va expira curând"
 
 #~ msgid ""
 #~ "One or more of your configured OpenPGP encryption keys or S/MIME "
@@ -9670,7 +9670,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "configurate nu pot fi utilizate la criptare. Vă rog să reconfigurați "
 #~ "cheile de criptare și certificatele pentru această identitate din "
 #~ "dialogul de configurare a identității.\n"
-#~ "Dacă alegeți să continuați și cheile sînt necesare mai tîrziu, veți fi "
+#~ "Dacă alegeți să continuați și cheile sunt necesare mai târziu, veți fi "
 #~ "pus să specificați cheile de utilizat."
 
 #~ msgid "Unusable Encryption Keys"
@@ -9688,7 +9688,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "MIME configurate nu pot fi utilizate la semnarea mesajelor. Vă rog să "
 #~ "reconfigurați cheile de semnare și certificatele pentru această "
 #~ "identitate din dialogul de configurare a identității.\n"
-#~ "Dacă alegeți să continuați și cheile sînt necesare mai tîrziu, veți fi "
+#~ "Dacă alegeți să continuați și cheile sunt necesare mai târziu, veți fi "
 #~ "pus să specificați cheile de utilizat."
 
 #~ msgid "Unusable Signing Keys"
@@ -9976,7 +9976,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "The maximum size in MB that email attachments are allowed to have (-1 for "
 #~ "no limit)."
 #~ msgstr ""
-#~ "Dimensiunea maximă în MO pe care sînt permise să o aibă atașamentele (-1 "
+#~ "Dimensiunea maximă în MO pe care sunt permise să o aibă atașamentele (-1 "
 #~ "pentru nelimitat)"
 
 #, fuzzy
@@ -10020,7 +10020,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "The compressed attachment is larger than the original. Do you want to "
 #~ "keep the original one?"
 #~ msgstr ""
-#~ "Fișierul comprimat este mai mare decît cel original. Doriți să-l păstrez "
+#~ "Fișierul comprimat este mai mare decât cel original. Doriți să-l păstrez "
 #~ "pe cel original?"
 
 #~ msgctxt "Do not compress"
@@ -10121,9 +10121,9 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~| msgid "%1 messages waiting to be filtered"
 #~ msgid "1 message waiting to be filtered"
 #~ msgid_plural "%1 messages waiting to be filtered"
-#~ msgstr[0] "%1 mesaje așteptînd să fie filtrate"
-#~ msgstr[1] "%1 mesaje așteptînd să fie filtrate"
-#~ msgstr[2] "%1 mesaje așteptînd să fie filtrate"
+#~ msgstr[0] "%1 mesaje așteptând să fie filtrate"
+#~ msgstr[1] "%1 mesaje așteptând să fie filtrate"
+#~ msgstr[2] "%1 mesaje așteptând să fie filtrate"
 
 #~ msgid "vCard Import Failed"
 #~ msgstr "Importarea vCard a eșuat"
@@ -10189,7 +10189,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "There are no recipients in your list. First select some recipients, then "
 #~ "try again."
 #~ msgstr ""
-#~ "Nu există destinatari în lista dumneavoastră. Mai întîi alegeți niște "
+#~ "Nu există destinatari în lista dumneavoastră. Mai întâi alegeți niște "
 #~ "destinatari, apoi încercați din nou."
 
 #~ msgctxt "@title:window"
@@ -10327,8 +10327,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "When this is on, the user will not see the mail composer window. "
 #~ "Invitation mails are sent automatically."
 #~ msgstr ""
-#~ "Cînd opțiunea este activată, utilizatorul nu va vedea fereastra de "
-#~ "compunere a mesajelor. Mesajele invitație sînt trimise automat."
+#~ "Când opțiunea este activată, utilizatorul nu va vedea fereastra de "
+#~ "compunere a mesajelor. Mesajele invitație sunt trimise automat."
 
 #, fuzzy
 #~| msgid "Automatic invitation sending"
@@ -10368,10 +10368,10 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ ">People that have email programs that do understand invitations will "
 #~ "still be able to work with this.</qt>"
 #~ msgstr ""
-#~ "<qt>În mod normal invitațiile sînt trimise ca atașamente la mesaj. "
+#~ "<qt>În mod normal invitațiile sunt trimise ca atașamente la mesaj. "
 #~ "Această opțiune face ca pentru Microsoft Outlook invitațiile și "
 #~ "răspunsurile la invitații să fie trimise ca text în corpul mesajului.<br /"
-#~ ">Totuși, cînd faceți acest lucru, nu veți mai obține un text descriptiv "
+#~ ">Totuși, când faceți acest lucru, nu veți mai obține un text descriptiv "
 #~ "ce poate fi interpretat de aplicațiile de mail. Pentru persoanele care au "
 #~ "programe de mail incompatibile, mesajele vor arăta foarte ciudat.<br /"
 #~ ">Cei care au aplicații client de mail care înțeleg formatul invitațiilor "
@@ -10472,7 +10472,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "element în lista mesajelor."
 
 #~ msgid "Hide tab bar when only one tab is open"
-#~ msgstr "Ascunde bara de file atunci cînd există numai o filă"
+#~ msgstr "Ascunde bara de file atunci când există numai o filă"
 
 #~ msgid "Fallback ch&aracter encoding:"
 #~ msgstr "Codarea de rezervă a &caracterelor:"
@@ -10508,24 +10508,24 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "<p>Templates specified here are folder-specific. They override both "
 #~ "global templates and per-identity templates.</p>"
 #~ msgstr ""
-#~ "<p>Șabloanele specificate aici sînt specifice dosarelor. Acestea "
-#~ "suprascriu atît șabloanele globale, cît și pe cele per-identitate.</p>"
+#~ "<p>Șabloanele specificate aici sunt specifice dosarelor. Acestea "
+#~ "suprascriu atât șabloanele globale, cât și pe cele per-identitate.</p>"
 
 #~ msgid ""
 #~ "<p>Templates specified here are identity-specific. They override global "
 #~ "templates, but can be overridden by per-folder templates if they are "
 #~ "specified.</p>"
 #~ msgstr ""
-#~ "<p>Șabloanele specificate aici sînt specifice identității. Acestea "
+#~ "<p>Șabloanele specificate aici sunt specifice identității. Acestea "
 #~ "suprascriu șabloanele globale, dar pot fi suprascrise de șabloane per-"
-#~ "dosar, dacă sînt specificate.</p>"
+#~ "dosar, dacă sunt specificate.</p>"
 
 #~ msgid ""
 #~ "<p>These are global (default) templates. They can be overridden by per-"
 #~ "identity templates or per-folder templates if they are specified.</p>"
 #~ msgstr ""
-#~ "<p>Acestea sînt șabloanele globale (implicite). Ele pot fi suprascrise de "
-#~ "șabloane per-identitate sau șabloane per-dosar, dacă acestea sînt "
+#~ "<p>Acestea sunt șabloanele globale (implicite). Ele pot fi suprascrise de "
+#~ "șabloane per-identitate sau șabloane per-dosar, dacă acestea sunt "
 #~ "specificate.</p>"
 
 #~ msgid "<a href=\"whatsthis\">How does this work?</a>"
@@ -10679,7 +10679,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "Header \"Disposition-Notification-Options\" contained required, but "
 #~ "unknown parameter"
 #~ msgstr ""
-#~ "Cîmpul \"Disposition-Notification-Options\" conține valoarea \"required"
+#~ "Câmpul \"Disposition-Notification-Options\" conține valoarea \"required"
 #~ "\" (obligatoriu), dar cu un parametru necunoscut"
 
 #~ msgid "Cannot add message to outbox folder"
@@ -10707,7 +10707,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Data în localizare C"
 
 #~ msgid "Day of Week"
-#~ msgstr "Ziua săptămînii"
+#~ msgstr "Ziua săptămânii"
 
 #~ msgid "Time"
 #~ msgstr "Ora"
@@ -10719,40 +10719,40 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Ora în localizare C"
 
 #~ msgid "To Field Address"
-#~ msgstr "Adresă cîmp Către"
+#~ msgstr "Adresă câmp Către"
 
 #~ msgid "To Field Name"
-#~ msgstr "Nume cîmp Către"
+#~ msgstr "Nume câmp Către"
 
 #~ msgid "To Field First Name"
-#~ msgstr "Prenume cîmp Către"
+#~ msgstr "Prenume câmp Către"
 
 #~ msgid "To Field Last Name"
-#~ msgstr "Nume cîmp Către"
+#~ msgstr "Nume câmp Către"
 
 #~ msgid "CC Field Address"
-#~ msgstr "Adresă cîmp Copie"
+#~ msgstr "Adresă câmp Copie"
 
 #~ msgid "CC Field Name"
-#~ msgstr "Nume cîmp Copie"
+#~ msgstr "Nume câmp Copie"
 
 #~ msgid "CC Field First Name"
-#~ msgstr "Prenume cîmp Copie"
+#~ msgstr "Prenume câmp Copie"
 
 #~ msgid "CC Field Last Name"
-#~ msgstr "Nume cîmp Copie"
+#~ msgstr "Nume câmp Copie"
 
 #~ msgid "From Field Address"
-#~ msgstr "Adresă cîmp De la"
+#~ msgstr "Adresă câmp De la"
 
 #~ msgid "From Field Name"
-#~ msgstr "Nume cîmp De la"
+#~ msgstr "Nume câmp De la"
 
 #~ msgid "From Field First Name"
-#~ msgstr "Prenume cîmp De la"
+#~ msgstr "Prenume câmp De la"
 
 #~ msgid "From Field Last Name"
-#~ msgstr "Nume cîmp De la"
+#~ msgstr "Nume câmp De la"
 
 #, fuzzy
 #~| msgid "All Recipients"
@@ -10767,13 +10767,13 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Antete citate"
 
 #~ msgid "Headers as Is"
-#~ msgstr "Antetele așa cum sînt"
+#~ msgstr "Antetele așa cum sunt"
 
 #~ msgid "Header Content"
 #~ msgstr "Conținut antet"
 
 #~ msgid "From field Name"
-#~ msgstr "Nume cîmp De la"
+#~ msgstr "Nume câmp De la"
 
 #~ msgctxt "Template subject command."
 #~ msgid "Subject"
@@ -10896,17 +10896,17 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "(c) 1997-2009, Dezvoltatorii KMail"
 
 #~ msgid "Replace smileys by emoticons"
-#~ msgstr "Înlocuiește zîmbăreții cu emoticoni"
+#~ msgstr "Înlocuiește zâmbăreții cu emoticoni"
 
 #~ msgid ""
 #~ "Enable this if you want smileys like :-) appearing in the message text to "
 #~ "be replaced by emoticons (small pictures)."
 #~ msgstr ""
-#~ "Activați această opțiune dacă doriți ca zîmbăreții de tipul :-) ce apar "
+#~ "Activați această opțiune dacă doriți ca zâmbăreții de tipul :-) ce apar "
 #~ "în mesaj să fie înlocuiți de emoticoni (mici imagini)."
 
 #~ msgid "Show expand/collapse quote marks"
-#~ msgstr "Arată semnele de desfășurare/restrîngere a citatului"
+#~ msgstr "Arată semnele de desfășurare/restrângere a citatului"
 
 #, fuzzy
 #~| msgid "Enable this option to show quoted text with a smaller font."
@@ -11018,7 +11018,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "<nl/>\n"
 #~ "Do you want to enable subscriptions?"
 #~ msgstr ""
-#~ "Abonările nu sînt utilizate momentan pentru serverul <resource>%1</"
+#~ "Abonările nu sunt utilizate momentan pentru serverul <resource>%1</"
 #~ "resource>.<nl/>\n"
 #~ "Doriți să activați abonările?"
 
@@ -11040,7 +11040,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "resource>.<nl/>\n"
 #~ "Do you want to enable local subscriptions?"
 #~ msgstr ""
-#~ "Abonările nu sînt utilizate momentan pentru serverul <resource>%1</"
+#~ "Abonările nu sunt utilizate momentan pentru serverul <resource>%1</"
 #~ "resource>.<nl/>\n"
 #~ "Doriți să activați abonările?"
 
@@ -11065,7 +11065,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Afaceri"
 
 #~ msgid "Later"
-#~ msgstr "Mai tîrziu"
+#~ msgstr "Mai târziu"
 
 #~ msgid "Wrong Crypto Plug-In."
 #~ msgstr "Modul criptografic greșit."
@@ -11101,7 +11101,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "<br />Motiv: %1"
 
 #~ msgid "Encrypted data not shown"
-#~ msgstr "Datele criptate nu sînt afișate"
+#~ msgstr "Datele criptate nu sunt afișate"
 
 #~ msgid "This message is encrypted."
 #~ msgstr "Acest mesaj este criptat."
@@ -11130,9 +11130,9 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "<b>Observație:</b> Acest mesaj HTML poate conține referințe externe la "
 #~ "imagini etc. Din motive de securitate/intimitate, referințele externe nu "
-#~ "sînt încărcate. Dacă aveți încredere în expeditorul mesajului, atunci "
+#~ "sunt încărcate. Dacă aveți încredere în expeditorul mesajului, atunci "
 #~ "puteți încărca referințele externe pentru acest mesaj <a href=\"kmail:"
-#~ "loadExternal\">apăsînd aici</a>."
+#~ "loadExternal\">apăsând aici</a>."
 
 #~ msgid ""
 #~ "<b>Note:</b> This is an HTML message. For security reasons, only the raw "
@@ -11143,7 +11143,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "<b>Observație:</b> Acesta este un mesaj HTML. Din motive de securitate, "
 #~ "este afișat numai codul HTML brut. Dacă aveți încredere în expeditorul "
 #~ "mesajului, atunci puteți activa afișarea HTML formatat pentru acest mesaj "
-#~ "<a href=\"kmail:showHTML\">apăsînd aici</a>."
+#~ "<a href=\"kmail:showHTML\">apăsând aici</a>."
 
 #~ msgid "Sorry, certificate could not be imported.<br />Reason: %1"
 #~ msgstr "Scuze, certificatul nu a putut fi importat.<br />Motiv: %1"
@@ -11298,7 +11298,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Mesaj incapsulat"
 
 #~ msgid "Please wait while the message is being decrypted..."
-#~ msgstr "Așteptați cît mesajul este decriptat..."
+#~ msgstr "Așteptați cât mesajul este decriptat..."
 
 #~ msgid "Encrypted message"
 #~ msgstr "Mesaj criptat"
@@ -11310,7 +11310,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Motiv: %1"
 
 #~ msgid "Please wait while the signature is being verified..."
-#~ msgstr "Așteptați cît semnătura este verificată..."
+#~ msgstr "Așteptați cât semnătura este verificată..."
 
 #~ msgid "certificate"
 #~ msgstr "certificat"
@@ -11377,13 +11377,13 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Atenție: Semnătura este rea."
 
 #~ msgid "End of signed message"
-#~ msgstr "Sfîrșitul mesajului semnat"
+#~ msgstr "Sfârșitul mesajului semnat"
 
 #~ msgid "End of encrypted message"
-#~ msgstr "Sfîrșitul mesajului criptat"
+#~ msgstr "Sfârșitul mesajului criptat"
 
 #~ msgid "End of encapsulated message"
-#~ msgstr "Sfîrșitul mesajului incapsulat"
+#~ msgstr "Sfârșitul mesajului incapsulat"
 
 #~ msgid "The message could not be decrypted."
 #~ msgstr "Mesajul nu a putut fi decriptat."
@@ -11413,7 +11413,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Nu salva parola"
 
 #~ msgid "Create an Account Later"
-#~ msgstr "Creează un cont mai tîrziu"
+#~ msgstr "Creează un cont mai târziu"
 
 #~ msgid "Incoming server:"
 #~ msgstr "Server de primire:"
@@ -11648,7 +11648,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "<p>Nu am găsit un modul de criptografie activ și modulul intern OpenPGP "
 #~ "nu a pornit cu succes.</p><p>Puteți face două lucruri pentru a rezolva "
-#~ "situația:</p><ul><li><em>fie</em> activați un modul utilizînd dialogul de "
+#~ "situația:</p><ul><li><em>fie</em> activați un modul utilizând dialogul de "
 #~ "configurare KMail Setări->&gt;Configurează KMail->&gt;Module.</"
 #~ "li><li><em>sau</em> specificați setările tradiționale OpenPGP în același "
 #~ "dialog în subfereastra Identitate->&gt;Avansat</li> </ul>."
@@ -11844,7 +11844,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "Please set an encoding using the 'Options' menu."
 #~ msgstr ""
 #~ "Nu am găsit o codare corespunzătoare pentru mesajul \n"
-#~ "dumneavoastră. Vă rog să setați una utilizînd meniul \"Opțiuni\"."
+#~ "dumneavoastră. Vă rog să setați una utilizând meniul \"Opțiuni\"."
 
 #, fuzzy
 #~| msgid ""
@@ -11876,8 +11876,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "This message could not be signed, since no valid signing keys have been "
 #~ "found; this should actually never happen, please report this bug."
 #~ msgstr ""
-#~ "Acest mesaj nu a putut fi semnat, întrucît platforma aleasă nu pare să "
-#~ "susțină semnarea; de fapt, acest lucru nu ar trebui să se întîmple "
+#~ "Acest mesaj nu a putut fi semnat, întrucât platforma aleasă nu pare să "
+#~ "susțină semnarea; de fapt, acest lucru nu ar trebui să se întâmple "
 #~ "niciodată - vă rugăm să raportați această eroare."
 
 #~ msgid ""
@@ -11885,8 +11885,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "to support signing; this should actually never happen, please report this "
 #~ "bug."
 #~ msgstr ""
-#~ "Acest mesaj nu a putut fi semnat, întrucît platforma aleasă nu pare să "
-#~ "susțină semnarea; de fapt, acest lucru nu ar trebui să se întîmple "
+#~ "Acest mesaj nu a putut fi semnat, întrucât platforma aleasă nu pare să "
+#~ "susțină semnarea; de fapt, acest lucru nu ar trebui să se întâmple "
 #~ "niciodată - vă rugăm să raportați această eroare."
 
 #~ msgid ""
@@ -11900,8 +11900,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "seem to support encryption; this should actually never happen, please "
 #~ "report this bug."
 #~ msgstr ""
-#~ "Acest mesaj nu a putut fi criptat, întrucît platforma aleasă nu pare să "
-#~ "susțină criptarea; de fapt, acest lucru nu ar trebui să se întîmple "
+#~ "Acest mesaj nu a putut fi criptat, întrucât platforma aleasă nu pare să "
+#~ "susțină criptarea; de fapt, acest lucru nu ar trebui să se întâmple "
 #~ "niciodată - vă rugăm să raportați această eroare."
 
 #~ msgid ""
@@ -11909,9 +11909,9 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "does not seem to support combined signing and encryption; this should "
 #~ "actually never happen, please report this bug."
 #~ msgstr ""
-#~ "Acest mesaj nu a putut fi semnat și criptat, întrucît platforma aleasă nu "
+#~ "Acest mesaj nu a putut fi semnat și criptat, întrucât platforma aleasă nu "
 #~ "pare să susțină semnarea și criptarea combinate; de fapt, acest lucru nu "
-#~ "ar trebui să se întîmple niciodată - vă rugăm să raportați această "
+#~ "ar trebui să se întâmple niciodată - vă rugăm să raportați această "
 #~ "defecțiune."
 
 #~ msgid "[vCard]"
@@ -12078,7 +12078,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "the folder is already present on the server; the error message from the "
 #~ "server communication is here:"
 #~ msgstr ""
-#~ "Acest lucru se poate întîmpla dacă nu aveți permisiuni sau fiindcă "
+#~ "Acest lucru se poate întâmpla dacă nu aveți permisiuni sau fiindcă "
 #~ "dosarul există deja pe server. Iată mai jos mesajul de eroare primit de "
 #~ "la server:"
 
@@ -12148,10 +12148,10 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "<Alegeți un dosar>"
 
 #~ msgid "&Resource folders are subfolders of:"
-#~ msgstr "Dosarele &resursă sînt subdosare ale:"
+#~ msgstr "Dosarele &resursă sunt subdosare ale:"
 
 #~ msgid "&Resource folders are in account:"
-#~ msgstr "Dosarele &resursă sînt în contul:"
+#~ msgstr "Dosarele &resursă sunt în contul:"
 
 #~ msgid "You need to supply a username and a password to access this mailbox."
 #~ msgstr ""
@@ -12202,7 +12202,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Serverul a raportat:"
 
 #~ msgid "No detailed quota information available."
-#~ msgstr "Nu sînt disponibile informații detaliate despre cotă."
+#~ msgstr "Nu sunt disponibile informații detaliate despre cotă."
 
 #~ msgid "The folder is too close to its quota limit. (%1)"
 #~ msgstr "Dosarul este prea apropiat de limita cotei. (%1)"
@@ -12213,7 +12213,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "owner of the folder to free up some space in it."
 #~ msgstr ""
 #~ "\n"
-#~ "Întrucît nu aveți drepturi de scriere în acest dosar, rugați proprietarul "
+#~ "Întrucât nu aveți drepturi de scriere în acest dosar, rugați proprietarul "
 #~ "dosarului să elibereze ceva spațiu în el."
 
 #~ msgid ""
@@ -12332,7 +12332,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Desfășoară tot textul citat."
 
 #~ msgid "Collapse quoted text."
-#~ msgstr "Restrînge textul citat."
+#~ msgstr "Restrânge textul citat."
 
 #~ msgid "Show certificate 0x%1"
 #~ msgstr "Afișează certificatul 0x%1"
@@ -12573,7 +12573,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #, fuzzy
 #~| msgid "Collapse all threads in the current folder"
 #~ msgid "Downloading a message in the current folder failed."
-#~ msgstr "Restrînge toate firele din dosarul curent"
+#~ msgstr "Restrânge toate firele din dosarul curent"
 
 #~ msgctxt "@title:column Column containing message subjects"
 #~ msgid "Subject"
@@ -12601,7 +12601,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 
 #~ msgctxt "@action:button"
 #~ msgid "Download all messages later"
-#~ msgstr "Descarcă toate mesajele mai tîrziu"
+#~ msgstr "Descarcă toate mesajele mai târziu"
 
 #~ msgctxt "@action:button"
 #~ msgid "Delete all messages"
@@ -12613,7 +12613,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 
 #~ msgctxt "@info:tooltip"
 #~ msgid "Download Later"
-#~ msgstr "Descarcă mai tîrziu"
+#~ msgstr "Descarcă mai târziu"
 
 #~ msgctxt "@info:tooltip"
 #~ msgid "Delete"
@@ -12633,7 +12633,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "<title>Mesaje de filtrat găsite pe contul POP: <emphasis>%1</emphasis></"
 #~ "title><para>Mesajele afișate depășesc limita maximă a mărimii pe care ați "
 #~ "definit-o la acest cont.</para><para>Puteți alege ce să faceți cu ele "
-#~ "selectînd butonul corespunzător.</para>"
+#~ "selectând butonul corespunzător.</para>"
 
 #~ msgctxt "@title:group"
 #~ msgid "Messages Exceeding Size"
@@ -12646,7 +12646,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgctxt "@option:check"
 #~ msgid "Show messages matched by a ruleset and tagged 'Download' or 'Delete'"
 #~ msgstr ""
-#~ "Arată mesajele ce se potrivesc cu o regulă și sînt marcate „Descarcă” sau "
+#~ "Arată mesajele ce se potrivesc cu o regulă și sunt marcate „Descarcă” sau "
 #~ "„Șterge”"
 
 #~ msgctxt "@option:check"
@@ -12727,7 +12727,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Desfășoară toate grupurile"
 
 #~ msgid "Collapse All Groups"
-#~ msgstr "Restrînge toate grupurile"
+#~ msgstr "Restrânge toate grupurile"
 
 #~ msgctxt "@info:tooltip"
 #~ msgid "Open a new tab"
@@ -12746,7 +12746,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 
 #~ msgctxt "shortcut for collapsing the header of a group in the message list"
 #~ msgid "Collapse Group Header"
-#~ msgstr "Restrînge antetul grupului"
+#~ msgstr "Restrânge antetul grupului"
 
 #~ msgctxt "shortcut"
 #~ msgid "Activate Previous Tab"
@@ -12834,7 +12834,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "The permissions of the folder '%1' are incorrect;\n"
 #~ "please make sure that you can view and modify the content of this folder."
 #~ msgstr ""
-#~ "Permisiunile dosarului „%1” sînt incorecte;\n"
+#~ "Permisiunile dosarului „%1” sunt incorecte;\n"
 #~ "verificați dacă puteți modifica și vedea conținutul din acest dosar."
 
 #~ msgid ""
@@ -12898,8 +12898,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "\"(est.)\" to the size displayed.</p></qt>"
 #~ msgstr ""
 #~ "<qt><p>Mărimea părții:</p><p>uneori %1 va reuși să dea numai o estimare a "
-#~ "mărimii deoarece calcularea exactă ar dura foarte mult timp. Cînd se "
-#~ "întîmplă acest lucru, va evidenția acest fapt adăugînd  \"(est.)\" la "
+#~ "mărimii deoarece calcularea exactă ar dura foarte mult timp. Când se "
+#~ "întâmplă acest lucru, va evidenția acest fapt adăugând  \"(est.)\" la "
 #~ "dimensiunea afișată.</p></qt>"
 
 #~ msgctxt "file name of the attachment."
@@ -12963,7 +12963,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "<qt><p>Selectați această opțiune dacă doriți să sugerați destinatarului "
 #~ "afișarea automată (în corpul mesajului) a acestei părți în loc de "
-#~ "pictogramă.</p><p>Tehnic, acest efect se obține setînd cîmpul <em>Content-"
+#~ "pictogramă.</p><p>Tehnic, acest efect se obține setând câmpul <em>Content-"
 #~ "Disposition</em> al părții la valoarea \"inline\" în loc de \"attachment"
 #~ "\" (implicit).</p></qt>"
 
@@ -13114,8 +13114,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "email but only when you click on the attachment. This way also big emails "
 #~ "are shown instantly."
 #~ msgstr ""
-#~ "Cu această opțiune activată, atașamentele sînt încărcate numai cînd dați "
-#~ "clic pe ele. În acest mod chiar mesajele foarte mari sînt afișate "
+#~ "Cu această opțiune activată, atașamentele sunt încărcate numai când dați "
+#~ "clic pe ele. În acest mod chiar mesajele foarte mari sunt afișate "
 #~ "instantaneu."
 
 #~ msgid "Load attach&ments on demand"
@@ -13125,7 +13125,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "Only folders that are open (expanded) in the folder tree are checked for "
 #~ "subfolders. Use this if there are many folders on the server."
 #~ msgstr ""
-#~ "Numai dosarele care sînt deschise (expandate) sînt verificate dacă au "
+#~ "Numai dosarele care sunt deschise (expandate) sunt verificate dacă au "
 #~ "subdosare. Opțiunea este utilă dacă aveți o arborescență mare pe server."
 
 #~ msgid "List only open folders"
@@ -13276,7 +13276,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr " zile"
 
 #~ msgid "Only the x most recent messages are kept on the server"
-#~ msgstr "Pe server sînt păstrate doar cele mai recente x mesaje"
+#~ msgstr "Pe server sunt păstrate doar cele mai recente x mesaje"
 
 #~ msgid ""
 #~ "KMail keeps only the x most recent messages on the server and deletes all "
@@ -13300,8 +13300,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "If active, most recent messages are kept until the quota is reached and "
 #~ "oldest messages are deleted."
 #~ msgstr ""
-#~ "Dacă este activă, cele mai recente mesaje sînt păstrate pînă la depășirea "
-#~ "cotei și mesajele cele mai vechi sînt șterse."
+#~ "Dacă este activă, cele mai recente mesaje sunt păstrate până la depășirea "
+#~ "cotei și mesajele cele mai vechi sunt șterse."
 
 #~ msgid "Keep only the last"
 #~ msgstr "Păstrează numai ultimele"
@@ -13316,7 +13316,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "țineți pe server."
 
 #~ msgid "&Filter messages if they are greater than"
-#~ msgstr "&Filtrează mesajele dacă sînt mai mari decît"
+#~ msgstr "&Filtrează mesajele dacă sunt mai mari decât"
 
 #~ msgid "Des&tination folder:"
 #~ msgstr "&Dosar destinație:"
@@ -13435,7 +13435,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 
 #, fuzzy
 #~ msgid "&Only show groupware folders for this account"
-#~ msgstr "Dosarele &resursă sînt în contul:"
+#~ msgstr "Dosarele &resursă sunt în contul:"
 
 #, fuzzy
 #~| msgid "&Quote indicator:"
@@ -13453,7 +13453,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 
 #~ msgctxt "to be continued with \"flat files\" and \"directories\", resp."
 #~ msgid "By default, &message folders on disk are:"
-#~ msgstr "Implicit, pe disc, &dosarele de mesaje sînt:"
+#~ msgstr "Implicit, pe disc, &dosarele de mesaje sunt:"
 
 #, fuzzy
 #~| msgctxt "what's this help"
@@ -13482,14 +13482,14 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "between folders.</p></qt>"
 #~ msgstr ""
 #~ "<qt><p>Această opțiune selectează ce format de căsuță poștală să fie "
-#~ "implicit pentru dosarele locale:</p><p><b>mbox:</b> dosarele KMail sînt "
-#~ "reprezentate de cîte un singur fișier. Mesajele individuale sînt separate "
+#~ "implicit pentru dosarele locale:</p><p><b>mbox:</b> dosarele KMail sunt "
+#~ "reprezentate de câte un singur fișier. Mesajele individuale sunt separate "
 #~ "unul de celălalt printr-o linie care începe cu \"From \". Această "
 #~ "modalitate salvează spațiu pe disc dar este mai puțin robustă, de exemplu "
-#~ "cînd sînt mutate mesaje dintr-un dosar în altul.</p><p><b>maildir:</b> "
-#~ "dosarele sînt reprezentate prin directoare reale pe disc. Mesajele "
-#~ "individuale sînt separate ca fișiere. Acest lucru s-ar putea să consume "
-#~ "ceva mai mult spațiu de disc, dar este o metodă mult mai bună cînd mutați "
+#~ "când sunt mutate mesaje dintr-un dosar în altul.</p><p><b>maildir:</b> "
+#~ "dosarele sunt reprezentate prin directoare reale pe disc. Mesajele "
+#~ "individuale sunt separate ca fișiere. Acest lucru s-ar putea să consume "
+#~ "ceva mai mult spațiu de disc, dar este o metodă mult mai bună când mutați "
 #~ "mesaje între dosare.</p></qt>"
 
 #, fuzzy
@@ -13573,7 +13573,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "folder and all its subfolders.</p>"
 #~ msgstr ""
 #~ "<p><b>Depanarea cache-ului IMAP.</b></p><p> Dacă aveți probleme cu "
-#~ "sincronizarea unui dosar IMAP, mai întîi ar trebuie să încercați "
+#~ "sincronizarea unui dosar IMAP, mai întâi ar trebuie să încercați "
 #~ "recontruirea fișierului index. Operația durează ceva timp, dar nu creează "
 #~ "probleme.</p><p>Dacă acest lucru nu e suficient, ați putea încearca "
 #~ "reactualizarea cache-ului IMAP. Asta înseamnă că veți pierde toate "
@@ -13617,7 +13617,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "its subfolders?\n"
 #~ "This will remove all changes you have done locally to your folders."
 #~ msgstr ""
-#~ "Sînteți sigur că doriți să actualizați cache-ul IMAP pentru dosarul %1 și "
+#~ "Sunteți sigur că doriți să actualizați cache-ul IMAP pentru dosarul %1 și "
 #~ "toate subdosarele sale\n"
 #~ "Această operație va șterge toate modificările făcute local în dosare."
 
@@ -13811,7 +13811,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "Fetching message %1 of %2 (%3 of %4 KB) for %5@%6 (%7 KB remain on the "
 #~ "server)."
 #~ msgstr ""
-#~ "Preiau mesajul %1 din %2 (%3 din %4 KO) pentru %5@%6 (%7 KO rămîn pe "
+#~ "Preiau mesajul %1 din %2 (%3 din %4 KO) pentru %5@%6 (%7 KO rămân pe "
 #~ "server)."
 
 #~ msgid "Fetching message %1 of %2 (%3 of %4 KB) for %5@%6."
@@ -13838,7 +13838,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "before downloading them."
 #~ msgstr ""
 #~ "Serverul dumneavoastră nu suportă comanda TOP. De aceea nu este posibil "
-#~ "să transfer mai întîi antetele mesajelor mari, înainte de a le transfera "
+#~ "să transfer mai întâi antetele mesajelor mari, înainte de a le transfera "
 #~ "în întregime."
 
 #~ msgid "Certificate Signature Request"
@@ -14209,12 +14209,12 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "dumneavoastră POP3 suportă opțiunea amintită mai sus, utilizați butonul "
 #~ "din partea de jos a căsuței de dialog.\n"
 #~ "Dacă serverul nu-și anunță această caracteristică și doriți totuși o "
-#~ "viteză mare de transfer, faceți cîteva teste trimițîndu-vă un grup de mai "
+#~ "viteză mare de transfer, faceți câteva teste trimițându-vă un grup de mai "
 #~ "multe mesaje și verificați dacă le recepționați corect."
 
 #~ msgid "Please specify a server and port on the General tab first."
 #~ msgstr ""
-#~ "Vă rog să specificați mai întîi un server și un port în subfereastra "
+#~ "Vă rog să specificați mai întâi un server și un port în subfereastra "
 #~ "\"General\"."
 
 #~ msgid ""
@@ -14272,7 +14272,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Alegere locație"
 
 #~ msgid "Only local files are currently supported."
-#~ msgstr "Sînt susținute numai fișierele locale."
+#~ msgstr "Sunt susținute numai fișierele locale."
 
 #~ msgid "Fetching Namespaces..."
 #~ msgstr "Preluare domenii de nume..."
@@ -14431,7 +14431,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "Expediere abandonată:\n"
 #~ "%1\n"
-#~ "Mesajul va rămîne în dosarul „ieșire” pînă cînd rezolvați problema (de "
+#~ "Mesajul va rămâne în dosarul „ieșire” până când rezolvați problema (de "
 #~ "ex: o adresă greșită) sau ștergeți mesajul din acest dosar.\n"
 #~ "A fost utilizat următorul transport:\n"
 #~ "  %2"
@@ -14445,8 +14445,8 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "the message from the 'outbox' folder.</p><p>The following transport was "
 #~ "used:  %2</p><p>Continue sending the remaining messages?</p>"
 #~ msgstr ""
-#~ "<p>Expediere eșuată:</p><p>%1</p><p>Mesajul va rămîne în dosarul „ieșire” "
-#~ "pînă cînd rezolvați problema (de ex. o adresă greșită) sau ștergeți "
+#~ "<p>Expediere eșuată:</p><p>%1</p><p>Mesajul va rămâne în dosarul „ieșire” "
+#~ "până când rezolvați problema (de ex. o adresă greșită) sau ștergeți "
 #~ "mesajul din acest dosar.</p><p>A fost utilizat următorul transport: %2</"
 #~ "p><p>Continuați expedierea mesajelor rămase?</p>"
 
@@ -14467,7 +14467,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr ""
 #~ "Expediere eșuată:\n"
 #~ "%1\n"
-#~ "Mesajul va rămîne în dosarul „ieșire” pînă cînd rezolvați problema (de "
+#~ "Mesajul va rămâne în dosarul „ieșire” până când rezolvați problema (de "
 #~ "ex.: o adresă greșită) sau ștergeți mesajul din acest dosar.\n"
 #~ "A fost utilizat următorul transport:\n"
 #~ " %2"
@@ -14692,10 +14692,10 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Nou/necitit"
 
 #~ msgid "Least Recent on Top"
-#~ msgstr "Cel mai puțin recent în vîrf"
+#~ msgstr "Cel mai puțin recent în vârf"
 
 #~ msgid "Most Recent on Top"
-#~ msgstr "Cel mai recent în vîrf"
+#~ msgstr "Cel mai recent în vârf"
 
 #~ msgctxt "Sort order for messages"
 #~ msgid "Ascending"
@@ -14845,21 +14845,21 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Ieri"
 
 #~ msgid "Last Week"
-#~ msgstr "Săptămîna trecută"
+#~ msgstr "Săptămâna trecută"
 
 #~ msgid "Two Weeks Ago"
-#~ msgstr "Acum două săptămîni"
+#~ msgstr "Acum două săptămâni"
 
 #~ msgid "Three Weeks Ago"
-#~ msgstr "Acum trei săptămîni"
+#~ msgstr "Acum trei săptămâni"
 
 #~ msgid "Four Weeks Ago"
-#~ msgstr "Acum patru săptămîni"
+#~ msgstr "Acum patru săptămâni"
 
 #, fuzzy
 #~| msgid "Four Weeks Ago"
 #~ msgid "Five Weeks Ago"
-#~ msgstr "Acum patru săptămîni"
+#~ msgstr "Acum patru săptămâni"
 
 #~ msgid "Receiver"
 #~ msgstr "Destinatar"
@@ -15061,7 +15061,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Perfect, după referințe și după subiect"
 
 #~ msgid "Topmost Message"
-#~ msgstr "Mesajul din vîrf"
+#~ msgstr "Mesajul din vârf"
 
 #~ msgid "Most Recent Message"
 #~ msgstr "Cel mai recent mesaj"
@@ -15205,13 +15205,13 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgid ""
 #~ "Check this if this column should be visible when the theme is selected."
 #~ msgstr ""
-#~ "Bifați aici dacă această coloană trebuie să fie vizibilă cînd este aleasă "
+#~ "Bifați aici dacă această coloană trebuie să fie vizibilă când este aleasă "
 #~ "această tematică."
 
 #, fuzzy
 #~| msgid "Contains \"Sender or Receiver\" Field"
 #~ msgid "Contains \"Sender or Receiver\" field"
-#~ msgstr "Conține cîmpul „Expeditor sau destinatar”"
+#~ msgstr "Conține câmpul „Expeditor sau destinatar”"
 
 #~ msgid "Unnamed Column"
 #~ msgstr "Coloană nedenumită"
@@ -15490,7 +15490,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Verifică p&oșta"
 
 #~ msgid "Message List - Date Field"
-#~ msgstr "Lista de mesaje - Cîmpul data"
+#~ msgstr "Lista de mesaje - Câmpul data"
 
 #, fuzzy
 #~| msgid "Select View Appearance (Theme)"
@@ -15525,15 +15525,15 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "will start from the bottom of the message list and continue to the "
 #~ "previous folder depending on which option is selected.</p></qt>\n"
 #~ msgstr ""
-#~ "<qt><p>Cînd treceți la următorul mesaj necitit se poate întîmpla să nu "
+#~ "<qt><p>Când treceți la următorul mesaj necitit se poate întâmpla să nu "
 #~ "mai existe mesaje necitite după cel curent.</p><p><b>Nu ciclează:</b> "
 #~ "Căutarea se va încheia la ultimul mesaj din dosarul curent.</"
 #~ "p><p><b>Ciclează în dosarul curent:</b> Căutarea va continua de la "
 #~ "începutul listei de mesaje, dar nu va continua în alt dosar.</"
 #~ "p><p><b>Ciclează în toate dosarele:</b> Căutarea va continua de la "
-#~ "începutul listei de mesaje. Dacă nu sînt găsite mesaje necitite, va "
-#~ "continua în dosarul următor.</p><p>Similar, atunci cînd căutați mesajul "
-#~ "precedent necitit, căutarea va începe de la sfîrșitul listei de mesaje și "
+#~ "începutul listei de mesaje. Dacă nu sunt găsite mesaje necitite, va "
+#~ "continua în dosarul următor.</p><p>Similar, atunci când căutați mesajul "
+#~ "precedent necitit, căutarea va începe de la sfârșitul listei de mesaje și "
 #~ "continuă la dosarul precedent în funcție de ce opțiune este selectată.</"
 #~ "p></qt>"
 
@@ -15610,7 +15610,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "Încărcare profi&l..."
 
 #~ msgid "Show only for non-plaintext &messages"
-#~ msgstr "Afișează numai pentru mesaje care nu sînt &text simplu"
+#~ msgstr "Afișează numai pentru mesaje care nu sunt &text simplu"
 
 #~ msgid "Use smaller font for quoted text"
 #~ msgstr "Utilizează font mai mic pentru textul citat"
@@ -15999,12 +15999,12 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ "td>    <td></td></tr><tr>    <td><b>%%</b>: percent sign</td>    <td><b>"
 #~ "%_</b>: space</td>    <td><b>%L</b>: linebreak</td></tr></table></qt>"
 #~ msgstr ""
-#~ "<qt>Sînt suportate următoarele formatări pentru răspunsuri:<br><b>%D</b>: "
+#~ "<qt>Sunt suportate următoarele formatări pentru răspunsuri:<br><b>%D</b>: "
 #~ "data, <b>%S</b>: subiect, <br><b>%e</b>: adresa expeditorului, <b>%F</b>: "
 #~ "numele expeditorului, <br><b>%f</b>: inițialele expeditorului, <b>%T</b>: "
 #~ "numele destinatarului, <br><b>%t</b>: numele și adresa destinatarului, "
-#~ "<br><b>%C</b>: nume în cîmpul \"CC:\", <b>%c</b>: nume și adrese în "
-#~ "cîmpul \"CC:\", <br><b>%%</b>: semnul procent, <b>%_</b>: spațiu, <br><b>"
+#~ "<br><b>%C</b>: nume în câmpul \"CC:\", <b>%c</b>: nume și adrese în "
+#~ "câmpul \"CC:\", <br><b>%%</b>: semnul procent, <b>%_</b>: spațiu, <br><b>"
 #~ "%L</b>: rupere linie </qt>"
 
 #, fuzzy
@@ -16014,10 +16014,10 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "<nimic>"
 
 #~ msgid "<p>Messages classified as spam are marked as read."
-#~ msgstr "<p>Mesajele spam sînt marcate ca fiind citite."
+#~ msgstr "<p>Mesajele spam sunt marcate ca fiind citite."
 
 #~ msgid "<p>Messages classified as spam are not marked as read."
-#~ msgstr "<p>Mesajele spam nu sînt marcate ca fiind citite."
+#~ msgstr "<p>Mesajele spam nu sunt marcate ca fiind citite."
 
 #, fuzzy
 #~| msgid "<b>To:</b><br/>"
@@ -16141,7 +16141,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 #~ msgstr "&Diverse"
 
 #~ msgid "Align Left"
-#~ msgstr "Aliniază la stînga"
+#~ msgstr "Aliniază la stânga"
 
 #~ msgid "Align Right"
 #~ msgstr "Aliniază la dreapta"
@@ -16203,7 +16203,7 @@ msgstr[2] "Răspuns „Ieșit din birou” activ"
 
 #~ msgid "Use this field to enter an arbitrary static signature."
 #~ msgstr ""
-#~ "Utilizează acest cîmp pentru a introduce o semnătură statică arbitrară."
+#~ "Utilizează acest câmp pentru a introduce o semnătură statică arbitrară."
 
 #, fuzzy
 #~| msgid "Use HTML"

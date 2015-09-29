@@ -218,7 +218,7 @@ msgid ""
 "this entry by opening the address book."
 msgstr ""
 "Fișierul vCard a fost adăugat la cartea de adrese; puteți adăuga informații "
-"suplimentare la această înregistrare deschizînd cartea de adrese."
+"suplimentare la această înregistrare deschizând cartea de adrese."
 
 #: job/addemailaddressjob.cpp:84
 #, kde-format
@@ -242,7 +242,7 @@ msgstr ""
 #: job/addemailaddressjob.cpp:139 job/addemaildisplayjob.cpp:162
 msgctxt "@title:window"
 msgid "No Address Book Available"
-msgstr "Nu sînt cărți de adrese disponibile"
+msgstr "Nu sunt cărți de adrese disponibile"
 
 #: job/addemailaddressjob.cpp:141 job/addemaildisplayjob.cpp:164
 msgid "Add Address Book"
@@ -263,7 +263,7 @@ msgstr ""
 #| msgctxt "@info"
 #| msgid "Date cannot be later than %1"
 msgid "Contact cannot be stored: %1"
-msgstr "Data nu poate fi mai tîrziu de %1"
+msgstr "Data nu poate fi mai târziu de %1"
 
 #: job/addemailaddressjob.cpp:251
 msgid "Failed to store contact"
@@ -548,7 +548,7 @@ msgid ""
 "You are about to set all preferences to default values. All custom "
 "modifications will be lost."
 msgstr ""
-"Sînteți pe cale de a stabili toate preferințele la valorile implicite. Toate "
+"Sunteți pe cale de a stabili toate preferințele la valorile implicite. Toate "
 "modificările personale vor fi pierdute."
 
 #: prefs/kprefsdialog.cpp:900
@@ -595,12 +595,12 @@ msgstr "&Astăzi"
 #: widgets/kdatepickerpopup.cpp:101
 msgctxt "@option tomorrow"
 msgid "To&morrow"
-msgstr "&Mîine"
+msgstr "&Mâine"
 
 #: widgets/kdatepickerpopup.cpp:102
 msgctxt "@option next week"
 msgid "Next &Week"
-msgstr "Săptămîna &viitoare"
+msgstr "Săptămâna &viitoare"
 
 #: widgets/kdatepickerpopup.cpp:103
 msgctxt "@option next month"
@@ -808,7 +808,7 @@ msgstr "Alegeți cartea de adrese în care se va salva contactul:"
 
 #~ msgctxt "the day after today"
 #~ msgid "tomorrow"
-#~ msgstr "mîine"
+#~ msgstr "mâine"
 
 #~ msgctxt "this day"
 #~ msgid "today"
@@ -902,7 +902,7 @@ msgstr "Alegeți cartea de adrese în care se va salva contactul:"
 #~ msgstr "Arată adresele de Mesagerie Instantanee"
 
 #~ msgid "Show Custom Fields"
-#~ msgstr "Arată cîmpuri personalizate"
+#~ msgstr "Arată câmpuri personalizate"
 
 #~ msgid "SMS"
 #~ msgstr "SMS"
@@ -1304,10 +1304,10 @@ msgstr "Alegeți cartea de adrese în care se va salva contactul:"
 #~ msgstr "Creat"
 
 #~ msgid "Has End Date"
-#~ msgstr "Are dată de sfîrșit"
+#~ msgstr "Are dată de sfârșit"
 
 #~ msgid "End Date"
-#~ msgstr "Data de sfîrșit"
+#~ msgstr "Data de sfârșit"
 
 #~ msgid "Has Start Date"
 #~ msgstr "Are dată de început"
@@ -1400,10 +1400,10 @@ msgstr "Alegeți cartea de adrese în care se va salva contactul:"
 #~ msgstr "Este exact ca"
 
 #~ msgid "Less Than"
-#~ msgstr "Mai puțin decît"
+#~ msgstr "Mai puțin decât"
 
 #~ msgid "Greater Than"
-#~ msgstr "Mai mult decît"
+#~ msgstr "Mai mult decât"
 
 #~ msgid "rule %1"
 #~ msgstr "regula %1"

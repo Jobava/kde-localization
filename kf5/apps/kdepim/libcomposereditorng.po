@@ -307,13 +307,13 @@ msgstr "&Tăiat"
 #: private/composerview_p.cpp:124
 msgctxt "@action"
 msgid "Align &Left"
-msgstr "A&liniere la stînga"
+msgstr "A&liniere la stânga"
 
 #: private/composerview_p.cpp:125
 #, fuzzy
 msgctxt "@label left justify"
 msgid "Left"
-msgstr "Stînga"
+msgstr "Stânga"
 
 #: private/composerview_p.cpp:133
 msgctxt "@action"
@@ -351,22 +351,22 @@ msgstr "După lățime"
 #: private/composerview_p.cpp:160
 msgctxt "@action"
 msgid "Left-to-Right"
-msgstr "De la stînga la dreapta"
+msgstr "De la stânga la dreapta"
 
 #: private/composerview_p.cpp:161
 msgctxt "@label left-to-right"
 msgid "Left-to-Right"
-msgstr "De la stînga la dreapta"
+msgstr "De la stânga la dreapta"
 
 #: private/composerview_p.cpp:169
 msgctxt "@action"
 msgid "Right-to-Left"
-msgstr "De la dreapta la stînga"
+msgstr "De la dreapta la stânga"
 
 #: private/composerview_p.cpp:170
 msgctxt "@label right-to-left"
 msgid "Right-to-Left"
-msgstr "De la dreapta la stînga"
+msgstr "De la dreapta la stânga"
 
 #: private/composerview_p.cpp:178
 #, fuzzy
@@ -579,7 +579,7 @@ msgstr "Tabel..."
 #: table/composertableactionmenu.cpp:235
 msgctxt "@item:inmenu Insert"
 msgid "Row Below"
-msgstr "Rînduri dedesubt"
+msgstr "Rânduri dedesubt"
 
 #: table/composertableactionmenu.cpp:239
 msgctxt "@item:inmenu Insert"
@@ -624,7 +624,7 @@ msgstr "Tabel"
 #: table/composertableactionmenu.cpp:268
 msgctxt "@item:inmenu Delete"
 msgid "Row"
-msgstr "Rînd"
+msgstr "Rând"
 
 #: table/composertableactionmenu.cpp:272
 msgctxt "@item:inmenu Delete"
@@ -701,7 +701,7 @@ msgstr "Aliniere verticală:"
 #, fuzzy
 msgctxt "@item:inlistbox Vertical Alignment:"
 msgid "Left"
-msgstr "Stînga"
+msgstr "Stânga"
 
 #: table/composertablecellformatdialog.cpp:92
 #, fuzzy

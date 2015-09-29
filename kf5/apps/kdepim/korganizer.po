@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: korganizer-1.1.1\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-19 09:06+0000\n"
+"POT-Creation-Date: 2015-09-26 08:59+0000\n"
 "PO-Revision-Date: 2013-02-16 10:43+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -290,8 +290,8 @@ msgid "Pur&ge Completed To-dos"
 msgstr "Ștergere terminată"
 
 #. i18n: ectx: property (text), widget (QPushButton, mDeleteButton)
-#: actionmanager.cpp:346 actionmanager.cpp:562 actionmanager.cpp:1503
-#: actionmanager.cpp:1534 ui/filteredit_base.ui:44
+#: actionmanager.cpp:346 actionmanager.cpp:562 actionmanager.cpp:1505
+#: actionmanager.cpp:1536 ui/filteredit_base.ui:44
 msgid "&Delete"
 msgstr "Ș&terge"
 
@@ -400,7 +400,7 @@ msgstr "Derulează înainte"
 msgid "&Day"
 msgstr "&Ziua"
 
-#: actionmanager.cpp:498 actionmanager.cpp:1218 calendarview.cpp:1933
+#: actionmanager.cpp:498 actionmanager.cpp:1220 calendarview.cpp:1931
 #, kde-format
 msgid "&Next Day"
 msgid_plural "&Next %1 Days"
@@ -410,11 +410,11 @@ msgstr[2] "&Următoarele %1 de zile"
 
 #: actionmanager.cpp:500
 msgid "W&ork Week"
-msgstr "Săptămîna de l&ucru"
+msgstr "Săptămâna de l&ucru"
 
 #: actionmanager.cpp:506
 msgid "&Week"
-msgstr "&Săptămîna"
+msgstr "&Săptămâna"
 
 #: actionmanager.cpp:513 kodaymatrix.cpp:523
 msgid "New E&vent..."
@@ -458,12 +458,12 @@ msgstr "Configurează"
 msgid "Configure the view"
 msgstr "Configurează vizualizarea"
 
-#: actionmanager.cpp:552 actionmanager.cpp:1497 actionmanager.cpp:1532
+#: actionmanager.cpp:552 actionmanager.cpp:1499 actionmanager.cpp:1534
 #: koeventpopupmenu.cpp:57
 msgid "&Show"
 msgstr "&Arată"
 
-#: actionmanager.cpp:557 actionmanager.cpp:1500 actionmanager.cpp:1533
+#: actionmanager.cpp:557 actionmanager.cpp:1502 actionmanager.cpp:1535
 #: koeventpopupmenu.cpp:60
 msgid "&Edit..."
 msgstr "&Editare..."
@@ -531,31 +531,31 @@ msgstr "L&ista de lucrări"
 msgid "Show Item Viewer"
 msgstr "Vizualizor evenimente"
 
-#: actionmanager.cpp:672
+#: actionmanager.cpp:673
 #, fuzzy
 msgid "Show Calendar Manager"
 msgstr "Exportă calendar ca pagină de web"
 
-#: actionmanager.cpp:685
+#: actionmanager.cpp:686
 msgid "Configure &Date && Time..."
 msgstr "Configurare &dată și oră..."
 
-#: actionmanager.cpp:694
+#: actionmanager.cpp:695
 #, fuzzy
 msgid "Manage View &Filters..."
 msgstr "Editează filtre"
 
-#: actionmanager.cpp:699
+#: actionmanager.cpp:700
 #, fuzzy
 msgid "Manage C&ategories..."
 msgstr "Editează categorii"
 
-#: actionmanager.cpp:705
+#: actionmanager.cpp:706
 #, fuzzy
 msgid "&Configure KOrganizer..."
 msgstr "Confirmat"
 
-#: actionmanager.cpp:761
+#: actionmanager.cpp:762
 #, kde-format
 msgid "1 incidence was imported successfully."
 msgid_plural "%1 incidences were imported successfully."
@@ -563,21 +563,21 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: actionmanager.cpp:763
+#: actionmanager.cpp:764
 #, kde-format
 msgid "There was an error while merging the calendar: %1"
 msgstr ""
 
-#: actionmanager.cpp:774
+#: actionmanager.cpp:775
 msgid "New calendar added successfully"
 msgstr ""
 
-#: actionmanager.cpp:776
+#: actionmanager.cpp:777
 #, fuzzy, kde-format
 msgid "Could not add a calendar. Error: %1"
 msgstr "Nu pot deschide calendarul '%1'.\n"
 
-#: actionmanager.cpp:874
+#: actionmanager.cpp:876
 msgid ""
 "You have no ical file in your home directory.\n"
 "Import cannot proceed.\n"
@@ -585,28 +585,28 @@ msgstr ""
 "Nu aveți un fișier \"ical\" în directorul dumneavoastră\n"
 "personal. Nu pot face importarea.\n"
 
-#: actionmanager.cpp:894
+#: actionmanager.cpp:896
 #, fuzzy
 msgid ""
 "KOrganizer encountered some unknown fields while parsing your .calendar ical "
 "file, and had to discard them; please check to see that all your relevant "
 "data was correctly imported."
 msgstr ""
-"Am întîlnit cîteva cîmpuri necunoscute la\n"
+"Am întâlnit câteva câmpuri necunoscute la\n"
 "analiza fișierului \".calendar\" din \"ical\" și\n"
 "am fost nevoit să le ignor. Verificați vă rog dacă\n"
 "am fost importate corect toate datele relevante.\n"
 
-#: actionmanager.cpp:903
+#: actionmanager.cpp:905
 #, fuzzy
 msgid ""
 "KOrganizer encountered an error parsing your .calendar file from ical; "
 "import has failed."
 msgstr ""
-"Am întîlnit cîteva erori la analiza fișierului\n"
+"Am întâlnit câteva erori la analiza fișierului\n"
 "\".calendar\" sin \"ical\".  Importarea a eșuat.\n"
 
-#: actionmanager.cpp:906
+#: actionmanager.cpp:908
 #, fuzzy
 msgid ""
 "KOrganizer does not think that your .calendar file is a valid ical calendar; "
@@ -615,36 +615,36 @@ msgstr ""
 "Nu cred că fișierul dumneavoastră \".calendar\"\n"
 "este un fișier \"ical\" valid. Importarea a eșuat.\n"
 
-#: actionmanager.cpp:942
+#: actionmanager.cpp:944
 #, kde-format
 msgid "An error occurred: %1"
 msgstr ""
 
-#: actionmanager.cpp:962
+#: actionmanager.cpp:964
 msgid ""
 "Your calendar will be saved in iCalendar format. Use 'Export vCalendar' to "
 "save in vCalendar format."
 msgstr ""
 
-#: actionmanager.cpp:964
+#: actionmanager.cpp:966
 msgid "Format Conversion"
 msgstr ""
 
-#: actionmanager.cpp:964 calendarview.cpp:1879
+#: actionmanager.cpp:966 calendarview.cpp:1877
 msgid "Proceed"
 msgstr "Execută"
 
-#: actionmanager.cpp:990
+#: actionmanager.cpp:992
 #, fuzzy, kde-format
 msgid "Cannot upload calendar to '%1'"
 msgstr "Nu pot trimite calendarul la %1"
 
-#: actionmanager.cpp:997
+#: actionmanager.cpp:999
 #, fuzzy, kde-format
 msgid "Saved calendar '%1'."
 msgstr "Am salvat calendarul %1"
 
-#: actionmanager.cpp:1034
+#: actionmanager.cpp:1036
 msgid ""
 "The HTML calendar export file has not been specified yet.\n"
 "Do you want to set it now?\n"
@@ -652,41 +652,41 @@ msgid ""
 "If you answer \"no\" then this export operation will be canceled"
 msgstr ""
 
-#: actionmanager.cpp:1041
+#: actionmanager.cpp:1043
 msgctxt "@info:status"
 msgid "Calendar HTML operation canceled due to unspecified output file name"
 msgstr ""
 
-#: actionmanager.cpp:1046
+#: actionmanager.cpp:1048
 #, fuzzy
 #| msgid "New Calendar"
 msgid "Select path for HTML calendar export"
 msgstr "Calendar nou"
 
-#: actionmanager.cpp:1048
+#: actionmanager.cpp:1050
 msgid "HTML Files (*.html)"
 msgstr ""
 
-#: actionmanager.cpp:1056
+#: actionmanager.cpp:1058
 #, fuzzy, kde-format
 msgid "Do you want to overwrite file \"%1\"?"
 msgstr "Nu pot deschide cartea de adrese."
 
-#: actionmanager.cpp:1062
+#: actionmanager.cpp:1064
 msgctxt "@info:status"
 msgid "Calendar HTML operation canceled due to output file overwrite"
 msgstr ""
 
-#: actionmanager.cpp:1122
+#: actionmanager.cpp:1124
 #, fuzzy, kde-format
 msgid "Unable to save calendar to the file %1."
 msgstr "Nu pot deschide cartea de adrese."
 
-#: actionmanager.cpp:1123
+#: actionmanager.cpp:1125
 msgid "Error"
 msgstr "Eroare"
 
-#: actionmanager.cpp:1150
+#: actionmanager.cpp:1152
 msgid ""
 "The calendar has been modified.\n"
 "Do you want to save it?"
@@ -694,105 +694,105 @@ msgstr ""
 "Calendarul a fost modificat.\n"
 "Doriți să îl salvez?"
 
-#: actionmanager.cpp:1177
+#: actionmanager.cpp:1179
 #, fuzzy
 msgid "*.ics *.vcs|Calendar Files"
 msgstr "*.vcs *.ics|Fișiere calendar"
 
-#: actionmanager.cpp:1246
+#: actionmanager.cpp:1248
 #, fuzzy
 msgid "Could not start control module for date and time format."
 msgstr "Nu am putut porni modulul de control pentru fomatul datei și timpuluio"
 
-#: actionmanager.cpp:1410
+#: actionmanager.cpp:1412
 #, fuzzy, kde-format
 msgid "Could not load calendar %1."
 msgstr "Nu pot deschide calendarul '%1'.\n"
 
-#: actionmanager.cpp:1420
+#: actionmanager.cpp:1422
 msgid "The downloaded events will be merged into your current calendar."
 msgstr ""
 
-#: actionmanager.cpp:1456
+#: actionmanager.cpp:1458
 #, fuzzy
 msgid "&Show Event"
 msgstr "E&veniment nou..."
 
-#: actionmanager.cpp:1460
+#: actionmanager.cpp:1462
 #, fuzzy
 msgid "&Edit Event..."
 msgstr "Editează evenimentul"
 
-#: actionmanager.cpp:1464
+#: actionmanager.cpp:1466
 #, fuzzy
 msgid "&Delete Event"
-msgstr "&Editează întîlnirea..."
+msgstr "&Editează întâlnirea..."
 
-#: actionmanager.cpp:1472
+#: actionmanager.cpp:1474
 #, fuzzy
 msgid "&Show To-do"
 msgstr "Afișează..."
 
-#: actionmanager.cpp:1476 kontactplugin/korganizer/todosummarywidget.cpp:353
+#: actionmanager.cpp:1478 kontactplugin/korganizer/todosummarywidget.cpp:353
 #, fuzzy
 msgid "&Edit To-do..."
 msgstr "Editează..."
 
-#: actionmanager.cpp:1480 kontactplugin/korganizer/todosummarywidget.cpp:354
+#: actionmanager.cpp:1482 kontactplugin/korganizer/todosummarywidget.cpp:354
 #, fuzzy
 msgid "&Delete To-do"
 msgstr "Șterge lucrare"
 
-#: actionmanager.cpp:1625 actionmanager.cpp:1729
+#: actionmanager.cpp:1627 actionmanager.cpp:1731
 msgid "Attach as &link"
 msgstr ""
 
-#: actionmanager.cpp:1626 actionmanager.cpp:1730
+#: actionmanager.cpp:1628 actionmanager.cpp:1732
 #, fuzzy
 msgid "Attach &inline"
 msgstr "Însoțitori"
 
-#: actionmanager.cpp:1627
+#: actionmanager.cpp:1629
 msgid "Attach inline &without attachments"
 msgstr ""
 
-#: actionmanager.cpp:1629 actionmanager.cpp:1732
+#: actionmanager.cpp:1631 actionmanager.cpp:1734
 msgid "C&ancel"
 msgstr "&Anulează"
 
-#: actionmanager.cpp:1668
+#: actionmanager.cpp:1670
 msgid "Removing attachments from an email might invalidate its signature."
 msgstr ""
 
-#: actionmanager.cpp:1669
+#: actionmanager.cpp:1671
 #, fuzzy
 msgid "Remove Attachments"
 msgstr "Însoțitori"
 
-#: actionmanager.cpp:1814
+#: actionmanager.cpp:1816
 #, kde-format
 msgid "Undo: %1"
 msgstr "Des-face: %1"
 
-#: actionmanager.cpp:1817 actionmanager.cpp:1828
+#: actionmanager.cpp:1819 actionmanager.cpp:1830
 msgid "Undo"
 msgstr "Desfă"
 
-#: actionmanager.cpp:1822
+#: actionmanager.cpp:1824
 #, fuzzy, kde-format
 msgid "Redo: %1"
 msgstr "Re-face: %1"
 
-#: actionmanager.cpp:1825
+#: actionmanager.cpp:1827
 msgid "Redo"
 msgstr "Refă"
 
-#: actionmanager.cpp:1840
+#: actionmanager.cpp:1842
 #, kde-format
 msgid "URL '%1' is invalid."
 msgstr ""
 
-#: actionmanager.cpp:1846
+#: actionmanager.cpp:1848
 msgctxt "@info"
 msgid ""
 "<p>Would you like to merge this calendar item into an existing calendar or "
@@ -802,22 +802,22 @@ msgid ""
 "p>"
 msgstr ""
 
-#: actionmanager.cpp:1856
+#: actionmanager.cpp:1858
 #, fuzzy
 #| msgid "Import Calendar"
 msgctxt "@title:window"
 msgid "Import Calendar"
 msgstr "Importă calendar"
 
-#: actionmanager.cpp:1857
+#: actionmanager.cpp:1859
 msgid "Merge into existing calendar"
 msgstr ""
 
-#: actionmanager.cpp:1858
+#: actionmanager.cpp:1860
 msgid "Add as new calendar"
 msgstr "Adaugă ca un calendar nou"
 
-#: akonadicollectionview.cpp:523
+#: akonadicollectionview.cpp:524
 #, fuzzy
 #| msgctxt "@label in QuickSearchLine"
 #| msgid "Search"
@@ -825,13 +825,13 @@ msgctxt "@info/plain Displayed grayed-out inside the textbox, verb to search"
 msgid "Search"
 msgstr "Caută"
 
-#: akonadicollectionview.cpp:605
+#: akonadicollectionview.cpp:606
 #, fuzzy
 #| msgid "Go &Forward"
 msgid "searching..."
 msgstr "Încarc..."
 
-#: akonadicollectionview.cpp:665
+#: akonadicollectionview.cpp:666
 #, fuzzy, kde-format
 #| msgctxt "@title"
 #| msgid "Properties for %1"
@@ -839,44 +839,44 @@ msgctxt "@title:window"
 msgid "Properties of Calendar Folder %1"
 msgstr "Proprietăți pentru %1"
 
-#: akonadicollectionview.cpp:678
+#: akonadicollectionview.cpp:679
 #, fuzzy
 msgid "&Disable Color"
 msgstr "Culoare selectat"
 
-#: akonadicollectionview.cpp:685
+#: akonadicollectionview.cpp:686
 msgid "&Assign Color..."
 msgstr ""
 
-#: akonadicollectionview.cpp:691
+#: akonadicollectionview.cpp:692
 #, fuzzy
 msgid "Use as &Default Calendar"
 msgstr "Format implicit calendar"
 
-#: akonadicollectionview.cpp:698
+#: akonadicollectionview.cpp:699
 #, fuzzy
 msgid "Remove from list"
 msgstr "Șablon nou"
 
-#: akonadicollectionview.cpp:703
+#: akonadicollectionview.cpp:704
 msgid "Add to list permanently"
 msgstr ""
 
-#: akonadicollectionview.cpp:706
+#: akonadicollectionview.cpp:707
 msgid "Serverside Subscription..."
 msgstr ""
 
-#: akonadicollectionview.cpp:870
+#: akonadicollectionview.cpp:871
 #, fuzzy
 msgid "Add Calendar"
 msgstr "Calendar nou"
 
-#: akonadicollectionview.cpp:912
+#: akonadicollectionview.cpp:913
 #, fuzzy, kde-format
 msgid "Do you really want to delete calendar %1?"
 msgstr "Nu pot deschide cartea de adrese."
 
-#: akonadicollectionview.cpp:913
+#: akonadicollectionview.cpp:914
 #, fuzzy
 msgid "Delete Calendar"
 msgstr "Format implicit calendar"
@@ -893,103 +893,103 @@ msgid ""
 "KOrganizer's main view here."
 msgstr ""
 
-#: calendarview.cpp:605
+#: calendarview.cpp:603
 msgid ""
 "The time zone setting was changed. Do you want to keep the absolute time of "
 "the items in your calendar, which will show them to be at a different time "
 "than before, or move them to be at the old time also in the new time zone?"
 msgstr ""
 
-#: calendarview.cpp:612
+#: calendarview.cpp:610
 #, fuzzy
 msgid "Keep Absolute Times?"
-msgstr "Timp de sfîrșit"
+msgstr "Timp de sfârșit"
 
-#: calendarview.cpp:613
+#: calendarview.cpp:611
 #, fuzzy
 msgid "Keep Times"
-msgstr "Timp de sfîrșit"
+msgstr "Timp de sfârșit"
 
-#: calendarview.cpp:614
+#: calendarview.cpp:612
 #, fuzzy
 msgid "Move Times"
-msgstr "Timp de sfîrșit"
+msgstr "Timp de sfârșit"
 
-#: calendarview.cpp:685
+#: calendarview.cpp:683
 #, fuzzy, kde-format
 msgid "Todo completed: %1 (%2)"
 msgstr "Completat la %1"
 
-#: calendarview.cpp:695
+#: calendarview.cpp:693
 #, fuzzy, kde-format
 msgid "Journal of %1"
 msgstr "&Jurnal"
 
-#: calendarview.cpp:745
+#: calendarview.cpp:743
 #, kde-format
 msgid ""
 "The item \"%1\" is filtered by your current filter rules, so it will be "
 "hidden and not appear in the view."
 msgstr ""
 
-#: calendarview.cpp:820
+#: calendarview.cpp:818
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "Do you really want to permanently remove the item \"%1\"?"
 msgstr "Nu pot deschide cartea de adrese."
 
-#: calendarview.cpp:822
+#: calendarview.cpp:820
 #, fuzzy
 #| msgid "Delete Old Items"
 msgctxt "@title:window"
 msgid "Delete Item?"
 msgstr "Șterge elementele vechi"
 
-#: calendarview.cpp:898
+#: calendarview.cpp:896
 #, fuzzy
 #| msgid "Please specify a valid start date."
 msgid "Paste failed: unable to determine a valid target date."
 msgstr "Vă rog specificați o dată de început corectă."
 
-#: calendarview.cpp:1342
+#: calendarview.cpp:1340
 msgid "Make sub-to-dos independent"
 msgstr ""
 
-#: calendarview.cpp:1400
+#: calendarview.cpp:1398
 #, fuzzy
 msgid "Toggle Reminder"
 msgstr "Amintire:"
 
-#: calendarview.cpp:1429
+#: calendarview.cpp:1427
 #, fuzzy
 msgid "Toggle To-do Completed"
 msgstr "Ștergere terminată"
 
-#: calendarview.cpp:1483
+#: calendarview.cpp:1481
 #, kde-format
 msgctxt "@info"
 msgid "\"%1\" was successfully copied to %2."
 msgstr ""
 
-#: calendarview.cpp:1486
+#: calendarview.cpp:1484
 #, fuzzy
 msgctxt "@title:window"
 msgid "Copying Succeeded"
 msgstr "&Planificator"
 
-#: calendarview.cpp:1492
+#: calendarview.cpp:1490
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "Unable to copy the item \"%1\" to %2."
 msgstr "Un fișier calendar de încărcat"
 
-#: calendarview.cpp:1495
+#: calendarview.cpp:1493
 #, fuzzy
 msgctxt "@title:window"
 msgid "Copying Failed"
 msgstr "&Planificator"
 
-#: calendarview.cpp:1555
+#: calendarview.cpp:1553
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -997,146 +997,146 @@ msgid ""
 "been put into %3."
 msgstr ""
 
-#: calendarview.cpp:1560 calendarview.cpp:1581
+#: calendarview.cpp:1558 calendarview.cpp:1579
 #, fuzzy
 msgctxt "@title:window"
 msgid "Moving Failed"
 msgstr "&Planificator"
 
-#: calendarview.cpp:1566
+#: calendarview.cpp:1564
 #, kde-format
 msgctxt "@info"
 msgid "\"%1\" was successfully moved from %2 to %3."
 msgstr ""
 
-#: calendarview.cpp:1570
+#: calendarview.cpp:1568
 #, fuzzy
 msgctxt "@title:window"
 msgid "Moving Succeeded"
 msgstr "&Planificator"
 
-#: calendarview.cpp:1577
+#: calendarview.cpp:1575
 #, kde-format
 msgctxt "@info"
 msgid "Unable to add the item \"%1\" into %2. This item has not been moved."
 msgstr ""
 
-#: calendarview.cpp:1609
+#: calendarview.cpp:1607
 #, kde-format
 msgid "Do you want to dissociate the occurrence on %1 from the recurrence?"
 msgstr ""
 
-#: calendarview.cpp:1613 calendarview.cpp:1626 calendarview.cpp:2366
-#: calendarview.cpp:2438 calendarview.cpp:2471
+#: calendarview.cpp:1611 calendarview.cpp:1624 calendarview.cpp:2364
+#: calendarview.cpp:2436 calendarview.cpp:2469
 msgid "KOrganizer Confirmation"
 msgstr "Confirmare KOrganizator"
 
-#: calendarview.cpp:1614
+#: calendarview.cpp:1612
 #, fuzzy
 msgid "&Dissociate"
 msgstr "Fără timp asociat"
 
-#: calendarview.cpp:1621
+#: calendarview.cpp:1619
 #, kde-format
 msgid ""
 "Do you want to dissociate the occurrence on %1 from the recurrence or also "
 "dissociate future ones?"
 msgstr ""
 
-#: calendarview.cpp:1627
+#: calendarview.cpp:1625
 #, fuzzy
 msgid "&Only Dissociate This One"
 msgstr "Listează evenimentele pentru ziua curentă"
 
-#: calendarview.cpp:1628
+#: calendarview.cpp:1626
 #, fuzzy
 msgid "&Also Dissociate Future Ones"
 msgstr "Listează evenimentele pentru ziua curentă"
 
-#: calendarview.cpp:1645
+#: calendarview.cpp:1643
 #, fuzzy
 msgid "Dissociate future occurrences"
 msgstr "Listează evenimentele pentru ziua curentă"
 
-#: calendarview.cpp:1647
+#: calendarview.cpp:1645
 #, fuzzy
 msgid "Dissociate occurrence"
 msgstr "Listează evenimentele pentru ziua curentă"
 
-#: calendarview.cpp:1660
+#: calendarview.cpp:1658
 #, fuzzy
 msgid "Dissociating the future occurrences failed."
 msgstr "Listează evenimentele pentru ziua curentă"
 
-#: calendarview.cpp:1661 calendarview.cpp:1666
+#: calendarview.cpp:1659 calendarview.cpp:1664
 #, fuzzy
 msgid "Dissociating Failed"
 msgstr "iCalendar..."
 
-#: calendarview.cpp:1665
+#: calendarview.cpp:1663
 #, fuzzy
 msgid "Dissociating the occurrence failed."
 msgstr "Listează evenimentele pentru ziua curentă"
 
-#: calendarview.cpp:1839
+#: calendarview.cpp:1837
 #, fuzzy
 #| msgid "*.ics|ICalendars"
 msgid "*.ics|iCalendars"
 msgstr "*.ics|iCalendare"
 
-#: calendarview.cpp:1849 calendarview.cpp:1897
+#: calendarview.cpp:1847 calendarview.cpp:1895
 #, kde-format
 msgid "Do you want to overwrite %1?"
 msgstr ""
 
-#: calendarview.cpp:1861 calendarview.cpp:1909
+#: calendarview.cpp:1859 calendarview.cpp:1907
 msgctxt "save failure cause unknown"
 msgid "Reason unknown"
 msgstr ""
 
-#: calendarview.cpp:1866
+#: calendarview.cpp:1864
 #, fuzzy, kde-format
 #| msgid "Cannot write archive file %1. %2"
 msgctxt "@info"
 msgid "Cannot write iCalendar file %1. %2"
 msgstr "Nu pot scrie fișierul-arhivă %1. %2"
 
-#: calendarview.cpp:1877
+#: calendarview.cpp:1875
 msgid "The journal entries cannot be exported to a vCalendar file."
 msgstr ""
 
-#: calendarview.cpp:1878
+#: calendarview.cpp:1876
 msgid "Data Loss Warning"
 msgstr "Avertizare pierdere date"
 
-#: calendarview.cpp:1888
+#: calendarview.cpp:1886
 msgid "*.vcs|vCalendars"
 msgstr "*.vcs|vCalendare"
 
-#: calendarview.cpp:1914
+#: calendarview.cpp:1912
 #, fuzzy, kde-format
 #| msgid "Cannot write archive file %1. %2"
 msgctxt "@info"
 msgid "Cannot write vCalendar file %1. %2"
 msgstr "Nu pot scrie fișierul-arhivă %1. %2"
 
-#: calendarview.cpp:1932
+#: calendarview.cpp:1930
 msgid "&Previous Day"
 msgstr "Ziua &precedentă"
 
-#: calendarview.cpp:1935
+#: calendarview.cpp:1933
 msgid "&Previous Week"
-msgstr "Săptămîna &precedentă"
+msgstr "Săptămâna &precedentă"
 
-#: calendarview.cpp:1936
+#: calendarview.cpp:1934
 msgid "&Next Week"
-msgstr "Săptămîna &următoare"
+msgstr "Săptămâna &următoare"
 
-#: calendarview.cpp:2026 calendarview.cpp:2065
+#: calendarview.cpp:2024 calendarview.cpp:2063
 msgid "No filter"
 msgstr "Niciun filtru"
 
-#: calendarview.cpp:2361
+#: calendarview.cpp:2359
 #, kde-format
 msgid ""
 "The item \"%1\" has sub-to-dos. Do you want to delete just this item and "
@@ -1144,135 +1144,135 @@ msgid ""
 "dos?"
 msgstr ""
 
-#: calendarview.cpp:2367
+#: calendarview.cpp:2365
 msgid "Delete Only This"
 msgstr "Șterge numai acest"
 
-#: calendarview.cpp:2368 calendarview.cpp:2439
+#: calendarview.cpp:2366 calendarview.cpp:2437
 msgid "Delete All"
 msgstr "Șterge toate"
 
-#: calendarview.cpp:2372
+#: calendarview.cpp:2370
 #, fuzzy
 msgid "Delete parent to-do"
 msgstr "Șterge lucrare"
 
-#: calendarview.cpp:2378
+#: calendarview.cpp:2376
 msgid "Delete parent to-do and sub-to-dos"
 msgstr ""
 
-#: calendarview.cpp:2409
+#: calendarview.cpp:2407
 #, kde-format
 msgid ""
 "The item \"%1\" is marked read-only and cannot be deleted; it probably "
 "belongs to a read-only calendar."
 msgstr ""
 
-#: calendarview.cpp:2413
+#: calendarview.cpp:2411
 msgid "Removing not possible"
 msgstr ""
 
-#: calendarview.cpp:2435
+#: calendarview.cpp:2433
 #, fuzzy, kde-format
 msgid ""
 "The calendar item \"%1\" recurs over multiple dates; are you sure you want "
 "to delete it and all its recurrences?"
 msgstr ""
 "Acest eveniment se petrece în mai multe dăți.\n"
-"Sînteți sigur că doriți să ștergeți acest eveniment\n"
+"Sunteți sigur că doriți să ștergeți acest eveniment\n"
 "și toate repetițiile lui?"
 
-#: calendarview.cpp:2446
+#: calendarview.cpp:2444
 #, fuzzy
 msgid "Also Delete &Future"
-msgstr "&Editează întîlnirea..."
+msgstr "&Editează întâlnirea..."
 
-#: calendarview.cpp:2451
+#: calendarview.cpp:2449
 #, fuzzy, kde-format
 msgid ""
 "The calendar item \"%1\" recurs over multiple dates. Do you want to delete "
 "only the current one on %2, also future occurrences, or all its occurrences?"
 msgstr ""
 "Acest eveniment se petrece în mai multe dăți.\n"
-"Sînteți sigur că doriți să ștergeți acest eveniment\n"
+"Sunteți sigur că doriți să ștergeți acest eveniment\n"
 "și toate repetițiile lui?"
 
-#: calendarview.cpp:2459
+#: calendarview.cpp:2457
 #, fuzzy, kde-format
 msgid ""
 "The calendar item \"%1\" recurs over multiple dates. Do you want to delete "
 "only the current one on %2 or all its occurrences?"
 msgstr ""
 "Acest eveniment se petrece în mai multe dăți.\n"
-"Sînteți sigur că doriți să ștergeți acest eveniment\n"
+"Sunteți sigur că doriți să ștergeți acest eveniment\n"
 "și toate repetițiile lui?"
 
-#: calendarview.cpp:2472
+#: calendarview.cpp:2470
 #, fuzzy
 msgid "Delete C&urrent"
-msgstr "&Editează întîlnirea..."
+msgstr "&Editează întâlnirea..."
 
-#: calendarview.cpp:2474
+#: calendarview.cpp:2472
 #, fuzzy
 msgid "Delete &All"
 msgstr "Șterge toate"
 
-#: calendarview.cpp:2529
+#: calendarview.cpp:2527
 msgid ""
 "All calendars are unchecked in the Calendar Manager. No to-do was purged."
 msgstr ""
 
-#: calendarview.cpp:2534 calendarview.cpp:2819
+#: calendarview.cpp:2532 calendarview.cpp:2817
 #, fuzzy
 msgid "There are no completed to-dos to purge."
 msgstr "Șterg toate lucrările completate?"
 
-#: calendarview.cpp:2540
+#: calendarview.cpp:2538
 #, fuzzy
 msgid "Delete all completed to-dos from checked calendars?"
 msgstr "Șterg toate lucrările completate?"
 
-#: calendarview.cpp:2541
+#: calendarview.cpp:2539
 #, fuzzy
 msgid "Purge To-dos"
 msgstr "Șterge lucrări"
 
-#: calendarview.cpp:2542
+#: calendarview.cpp:2540
 msgid "Purge"
 msgstr "Șterge"
 
-#: calendarview.cpp:2556
+#: calendarview.cpp:2554
 #, kde-format
 msgctxt "@info"
 msgid "Unable to edit \"%1\" because it is locked by another process."
 msgstr ""
 
-#: calendarview.cpp:2571
+#: calendarview.cpp:2569
 #, fuzzy, kde-format
 msgid "Unable to copy the item to %1."
 msgstr "Un fișier calendar de încărcat"
 
-#: calendarview.cpp:2572
+#: calendarview.cpp:2570
 #, fuzzy
 msgid "Copying Failed"
 msgstr "&Planificator"
 
-#: calendarview.cpp:2611
+#: calendarview.cpp:2609
 #, fuzzy, kde-format
 msgid "Unable to move the item to  %1."
 msgstr "Activează salvarea automată a calendarului"
 
-#: calendarview.cpp:2612
+#: calendarview.cpp:2610
 #, fuzzy
 msgid "Moving Failed"
 msgstr "&Planificator"
 
-#: calendarview.cpp:2813
+#: calendarview.cpp:2811
 #, fuzzy
 msgid "0 completed to-dos were purged."
 msgstr "Șterg toate lucrările completate?"
 
-#: calendarview.cpp:2814 calendarview.cpp:2823
+#: calendarview.cpp:2812 calendarview.cpp:2821
 #, kde-format
 msgid "%1 to-do was ignored because it has uncompleted or read-only children."
 msgid_plural ""
@@ -1281,7 +1281,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: calendarview.cpp:2817 calendarview.cpp:2822
+#: calendarview.cpp:2815 calendarview.cpp:2820
 #, fuzzy, kde-format
 msgid "%1 completed to-do was purged."
 msgid_plural "%1 completed to-dos were purged."
@@ -1289,18 +1289,18 @@ msgstr[0] "Șterg toate lucrările completate?"
 msgstr[1] "Șterg toate lucrările completate?"
 msgstr[2] "Șterg toate lucrările completate?"
 
-#: calendarview.cpp:2827
+#: calendarview.cpp:2825
 #, fuzzy, kde-format
 msgid "An error occurred while purging completed to-dos: %1"
 msgstr "Șterg toate lucrările completate?"
 
-#: calendarview.cpp:2880
+#: calendarview.cpp:2878
 msgid ""
 "You created an incidence in a calendar that is currently filtered out.\n"
 "On the left sidebar, enable it in the calendar manager to see the incidence."
 msgstr ""
 
-#: calendarview.cpp:2883
+#: calendarview.cpp:2881
 msgid ""
 "You created an incidence in a calendar that is currently filtered out.\n"
 "You can enable it through the calendar manager (Settings->Sidebar->Show "
@@ -1327,7 +1327,7 @@ msgstr "Denumire:"
 #, fuzzy
 msgctxt "@info:tooltip"
 msgid "Set the folder name"
-msgstr "Dată de sfîrșit"
+msgstr "Dată de sfârșit"
 
 #: collectiongeneralpage.cpp:76
 msgctxt "@info:whatsthis"
@@ -1344,7 +1344,7 @@ msgstr "Amintire:"
 #, fuzzy
 msgctxt "@info:tooltip"
 msgid "Ignore reminders from this calendar"
-msgstr "&Editează întîlnirea..."
+msgstr "&Editează întâlnirea..."
 
 #: collectiongeneralpage.cpp:89
 #, fuzzy
@@ -1486,7 +1486,7 @@ msgid ""
 "You are about to set all preferences to default values. All custom "
 "modifications will be lost."
 msgstr ""
-"Sînteți pe cale de a seta toate preferințele la valorile implicite. Toate "
+"Sunteți pe cale de a seta toate preferințele la valorile implicite. Toate "
 "modificările personale vor fi pierdute."
 
 #: dialog/exportwebdialog.cpp:117
@@ -1641,7 +1641,7 @@ msgid ""
 msgstr ""
 "Expresie de căutare eronată. Nu pot executa\n"
 "căutarea. Introduceți vă rog o expresie de\n"
-"căutare utilizînd wildcard-urile  '*' și '?'\n"
+"căutare utilizând wildcard-urile  '*' și '?'\n"
 "acolo unde este nevoie."
 
 #: dialog/searchdialog.cpp:132
@@ -1746,7 +1746,7 @@ msgstr "Timp de început"
 #| msgid "End Time"
 msgctxt "@title:column event end time"
 msgid "End Time"
-msgstr "Timp de sfîrșit"
+msgstr "Timp de sfârșit"
 
 #: job/htmlexportjob.cpp:404
 #, fuzzy
@@ -2331,14 +2331,14 @@ msgstr[2] ""
 #| msgctxt "incidence category: appointment"
 #| msgid "Appointment"
 msgid "&Edit Appointment..."
-msgstr "Întîlnire"
+msgstr "Întâlnire"
 
 #: kontactplugin/korganizer/apptsummarywidget.cpp:255
 #, fuzzy
 #| msgctxt "incidence category: appointment"
 #| msgid "Appointment"
 msgid "&Delete Appointment"
-msgstr "Întîlnire"
+msgstr "Întâlnire"
 
 #: kontactplugin/korganizer/apptsummarywidget.cpp:275
 #, fuzzy, kde-format
@@ -3159,16 +3159,16 @@ msgstr ""
 msgid "Current Maintainer"
 msgstr "Fostul responsabil"
 
-#: korganizer.cpp:225 settings/htmlexportsettings.kcfg:35
+#: korganizer.cpp:222 settings/htmlexportsettings.kcfg:35
 #: settings/htmlexportsettings.kcfg:99
 msgid "Calendar"
 msgstr "Calendar"
 
-#: korganizer.cpp:236
+#: korganizer.cpp:233
 msgid "New Calendar"
 msgstr "Calendar nou"
 
-#: korganizer.cpp:240
+#: korganizer.cpp:237
 #, fuzzy
 #| msgid "read-only"
 msgctxt "the calendar is read-only"
@@ -3266,7 +3266,7 @@ msgstr[2] ""
 #, kde-format
 msgctxt "Week weekOfYear"
 msgid "Week %1"
-msgstr "Săptămîna %1"
+msgstr "Săptămâna %1"
 
 #: plugins/datenums/datenums.cpp:109 plugins/datenums/datenums.cpp:124
 #: plugins/datenums/datenums.cpp:132
@@ -3287,7 +3287,7 @@ msgstr "%1 %2"
 #, fuzzy, kde-format
 msgctxt "Week weekOfYear (year)"
 msgid "Week %1 (%2)"
-msgstr "&Săptămîna"
+msgstr "&Săptămâna"
 
 #: plugins/datenums/datenums.cpp:139
 #, kde-format
@@ -3415,7 +3415,7 @@ msgstr ""
 #: plugins/hebrew/holiday.cpp:224
 #, fuzzy
 msgid "Shavuot"
-msgstr "Sîm"
+msgstr "Sâm"
 
 #: plugins/hebrew/holiday.cpp:234
 msgid "Tzom Tammuz"
@@ -3989,7 +3989,7 @@ msgstr "Valori implicite"
 #| msgid "Appointment"
 msgctxt "@title:group"
 msgid "Appointments"
-msgstr "Întîlnire"
+msgstr "Întâlnire"
 
 #: prefs/koprefsdialog.cpp:394
 #, fuzzy
@@ -4274,7 +4274,7 @@ msgstr "&Titlu:"
 #: settings/htmlexportsettings.kcfg:36
 #, fuzzy
 msgid "The title of the exported page"
-msgstr "Ora implicită pentru întîlnire:"
+msgstr "Ora implicită pentru întâlnire:"
 
 #. i18n: ectx: whatsthis, entry, group ($(application)-General)
 #: settings/htmlexportsettings.kcfg:37
@@ -4501,7 +4501,7 @@ msgstr ""
 #| msgctxt "@item@intable N days/hours/minutes before/after the start/end"
 #| msgid "%1 after the end"
 msgid "Include the event attendees"
-msgstr "%1 după sfîrșit"
+msgstr "%1 după sfârșit"
 
 #. i18n: ectx: whatsthis, entry (EventAttendees), group ($(application)-Events)
 #: settings/htmlexportsettings.kcfg:120
@@ -4644,7 +4644,7 @@ msgstr ""
 #: settings/htmlexportsettings.kcfg:174
 #, fuzzy
 msgid "Title of the journal list"
-msgstr "&Editează întîlnirea..."
+msgstr "&Editează întâlnirea..."
 
 #: settings/htmlexportsettings.kcfg:175
 #, fuzzy
@@ -4656,7 +4656,7 @@ msgstr "&Jurnale"
 #: settings/htmlexportsettings.kcfg:176
 #, fuzzy
 msgid "Title for the journal list"
-msgstr "&Editează întîlnirea..."
+msgstr "&Editează întâlnirea..."
 
 #. i18n: ectx: whatsthis, entry, group ($(application)-Journals)
 #: settings/htmlexportsettings.kcfg:177
@@ -4690,7 +4690,7 @@ msgstr "ori"
 #: settings/htmlexportsettings.kcfg:191
 #, fuzzy
 msgid "Title for the free/busy list"
-msgstr "&Editează întîlnirea..."
+msgstr "&Editează întâlnirea..."
 
 #. i18n: ectx: whatsthis, entry (FreeBusyTitle), group ($(application)-FreeBusy)
 #: settings/htmlexportsettings.kcfg:192
@@ -4945,7 +4945,7 @@ msgstr ""
 #: settings/korganizer.kcfg:132
 #, fuzzy
 msgid "Show items that recur weekly"
-msgstr "Afișează evenimentele ce se repetă săptămînal în Navigatorul de Dată"
+msgstr "Afișează evenimentele ce se repetă săptămânal în Navigatorul de Dată"
 
 #. i18n: ectx: whatsthis, entry (WeeklyRecur), group (General View)
 #: settings/korganizer.kcfg:133
@@ -5061,7 +5061,7 @@ msgstr ""
 #: settings/korganizer.kcfg:184
 #, fuzzy
 msgid "Display the current-time indicator"
-msgstr "Ora implicită pentru întîlnire:"
+msgstr "Ora implicită pentru întâlnire:"
 
 #. i18n: ectx: label, entry (MarcusBainsShowSeconds), group (Agenda View)
 #: settings/korganizer.kcfg:189
@@ -5510,7 +5510,7 @@ msgstr "Culoare de fundal pentru agendă"
 #: settings/korganizer.kcfg:365
 #, fuzzy
 msgid "Agenda view current-time line color"
-msgstr "Ora implicită pentru întîlnire:"
+msgstr "Ora implicită pentru întâlnire:"
 
 #. i18n: ectx: whatsthis, entry, group (Colors)
 #: settings/korganizer.kcfg:366
@@ -5638,7 +5638,7 @@ msgstr ""
 #: settings/korganizer.kcfg:439
 #, fuzzy
 msgid "Default todo attachment method"
-msgstr "Ora implicită pentru întîlnire:"
+msgstr "Ora implicită pentru întâlnire:"
 
 #. i18n: ectx: whatsthis, entry (DefaultTodoAttachMethod), group (Hidden Options)
 #: settings/korganizer.kcfg:440
@@ -6254,7 +6254,7 @@ msgstr "De la"
 #: ui/searchdialog_base.ui:201
 #, fuzzy
 msgid "Include items with a starting date on or after this date"
-msgstr "&Editează întîlnirea..."
+msgstr "&Editează întâlnirea..."
 
 #. i18n: ectx: property (whatsThis), widget (KDateComboBox, startDate)
 #: ui/searchdialog_base.ui:204
@@ -6366,7 +6366,7 @@ msgstr "Zi"
 #| msgctxt "@item:inlistbox range in weeks"
 #| msgid "Week"
 msgid "Week"
-msgstr "Săptămînă"
+msgstr "Săptămână"
 
 #. i18n: ectx: property (text), widget (QPushButton, mMothBtn)
 #: views/collectionview/quickview.ui:39
@@ -6681,7 +6681,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Also &Future Items"
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~ msgid "Changing Recurring Item"
@@ -6710,7 +6710,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "&End date:"
-#~ msgstr "Data de sfîrșit"
+#~ msgstr "Data de sfârșit"
 
 #, fuzzy
 #~ msgid "Print Item list"
@@ -6775,7 +6775,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "End ti&me:"
-#~ msgstr "Timp de sfîrșit"
+#~ msgstr "Timp de sfârșit"
 
 #, fuzzy
 #~ msgid "Print Layout"
@@ -6832,7 +6832,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "End date: "
-#~ msgstr "Data de sfîrșit"
+#~ msgstr "Data de sfârșit"
 
 #~ msgid "Duration: "
 #~ msgstr "Durata: "
@@ -7004,7 +7004,7 @@ msgstr "De făcut: %1"
 
 #~ msgctxt "date from - to (week number)"
 #~ msgid "%1 - %2 (Week %3)"
-#~ msgstr "%1 - %2 (săptămîna %3)"
+#~ msgstr "%1 - %2 (săptămâna %3)"
 
 #~ msgctxt ""
 #~ "date from -\n"
@@ -7014,7 +7014,7 @@ msgstr "De făcut: %1"
 #~ "%2 (Week %3)"
 #~ msgstr ""
 #~ "%1 -\n"
-#~ "%2 (săptămîna %3)"
+#~ "%2 (săptămâna %3)"
 
 #~ msgctxt "monthname year"
 #~ msgid "%1 <numid>%2</numid>"
@@ -7186,7 +7186,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "&End month:"
-#~ msgstr "Sfîrșit:"
+#~ msgstr "Sfârșit:"
 
 #, fuzzy
 #~ msgid "Exclude confidential items"
@@ -7301,7 +7301,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Starting date for the print"
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~ msgctxt "@title:window"
@@ -7367,7 +7367,7 @@ msgstr "De făcut: %1"
 
 #~ msgctxt "@item:inlistbox suspend in terms of weeks"
 #~ msgid "week(s)"
-#~ msgstr "săptămînă(i)"
+#~ msgstr "săptămână(i)"
 
 #, fuzzy
 #~| msgid "Edit..."
@@ -7992,7 +7992,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Default Email Attachment Method"
-#~ msgstr "Ora implicită pentru întîlnire:"
+#~ msgstr "Ora implicită pentru întâlnire:"
 
 #, fuzzy
 #~ msgid "Select the working hours background color for the agenda view here."
@@ -8001,7 +8001,7 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@title:window"
 #~ msgid "Archive/Delete Past Events and To-dos"
-#~ msgstr "Arhivează/Șterge întîlniri vechi"
+#~ msgstr "Arhivează/Șterge întâlniri vechi"
 
 #, fuzzy
 #~ msgctxt "@action:button"
@@ -8011,12 +8011,12 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@option:radio"
 #~ msgid "Archive now items older than:"
-#~ msgstr "Întîlniri mai vechi decît:"
+#~ msgstr "Întâlniri mai vechi decât:"
 
 #, fuzzy
 #~ msgctxt "@option:radio"
 #~ msgid "Automaticall&y archive items older than:"
-#~ msgstr "Întîlniri mai vechi decît:"
+#~ msgstr "Întâlniri mai vechi decât:"
 
 #, fuzzy
 #~ msgctxt "@item:inlistbox expires in daily units"
@@ -8026,7 +8026,7 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@item:inlistbox expiration in weekly units"
 #~ msgid "Week(s)"
-#~ msgstr "săptămînă(i)"
+#~ msgstr "săptămână(i)"
 
 #, fuzzy
 #~ msgctxt "@item:inlistbox expiration in monthly units"
@@ -8160,10 +8160,10 @@ msgstr "De făcut: %1"
 #~ msgstr "Elementul nu are participanți."
 
 #~ msgid "Go back one week"
-#~ msgstr "Merge înapoi cu o săptămînă"
+#~ msgstr "Merge înapoi cu o săptămână"
 
 #~ msgid "Go forward one week"
-#~ msgstr "Merge înainte cu o săptămînă"
+#~ msgstr "Merge înainte cu o săptămână"
 
 #~ msgid "Go forward one month"
 #~ msgstr "Merge înainte cu o lună"
@@ -8250,10 +8250,10 @@ msgstr "De făcut: %1"
 #~ msgstr "Timp de început"
 
 #~ msgid "End Date"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #~ msgid "End Time"
-#~ msgstr "Timp de sfîrșit"
+#~ msgstr "Timp de sfârșit"
 
 #~ msgid "Locking Failed"
 #~ msgstr "Blocare eșuată"
@@ -8280,7 +8280,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Sets the title of this journal."
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~ msgctxt "journal title"
@@ -8301,7 +8301,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Please specify a valid date, for example '%1'."
-#~ msgstr "Vă rog specificați o dată de sfîrșit corectă."
+#~ msgstr "Vă rog specificați o dată de sfârșit corectă."
 
 #, fuzzy
 #~| msgid "Please specify a valid due time."
@@ -8652,7 +8652,7 @@ msgstr "De făcut: %1"
 
 #~ msgctxt "@label"
 #~ msgid "week(s) on:"
-#~ msgstr "săptămînă(i) în:"
+#~ msgstr "săptămână(i) în:"
 
 #, fuzzy
 #~ msgctxt "@info:tooltip"
@@ -8980,7 +8980,7 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@option:radio recur weekly"
 #~ msgid "&Weekly"
-#~ msgstr "Săptămînal"
+#~ msgstr "Săptămânal"
 
 #~ msgctxt "@option:radio recur monthly"
 #~ msgid "&Monthly"
@@ -8992,12 +8992,12 @@ msgstr "De făcut: %1"
 
 #~ msgctxt "@title:group"
 #~ msgid "Appointment Time "
-#~ msgstr "Ora întîlnirii "
+#~ msgstr "Ora întâlnirii "
 
 #, fuzzy
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Displays appointment time information."
-#~ msgstr "Ora implicită pentru întîlnire:"
+#~ msgstr "Ora implicită pentru întâlnire:"
 
 #, fuzzy
 #~| msgid "Recurrence Rule"
@@ -9067,7 +9067,7 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Sets the Title of this event or to-do."
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~ msgctxt "@info:tooltip"
@@ -9128,7 +9128,7 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Activates a reminder for this event or to-do."
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~ msgctxt "@info:tooltip"
@@ -9194,7 +9194,7 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Sets options related to the date and time of the event or to-do."
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~ msgctxt "@label event start time"
@@ -9214,12 +9214,12 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Select the starting time for this event."
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~ msgctxt "@label"
 #~ msgid "&End:"
-#~ msgstr "&Sfîrșit:"
+#~ msgstr "&Sfârșit:"
 
 #, fuzzy
 #~ msgctxt "@info:tooltip"
@@ -9315,7 +9315,7 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@info"
 #~ msgid "Please specify a valid end time, for example '%1'."
-#~ msgstr "Vă rog specificați un timp de sfîrșit corect."
+#~ msgstr "Vă rog specificați un timp de sfârșit corect."
 
 #, fuzzy
 #~ msgctxt "@info"
@@ -9325,7 +9325,7 @@ msgstr "De făcut: %1"
 #, fuzzy
 #~ msgctxt "@info"
 #~ msgid "Please specify a valid end date, for example '%1'."
-#~ msgstr "Vă rog specificați o dată de sfîrșit corectă."
+#~ msgstr "Vă rog specificați o dată de sfârșit corectă."
 
 #, fuzzy
 #~| msgid ""
@@ -9365,11 +9365,11 @@ msgstr "De făcut: %1"
 
 #~ msgctxt "@item@intable N days/hours/minutes before/after the start/end"
 #~ msgid "%1 before the end"
-#~ msgstr "%1 înainte de sfîrșit"
+#~ msgstr "%1 înainte de sfârșit"
 
 #~ msgctxt "@item@intable N days/hours/minutes before/after the start/end"
 #~ msgid "%1 after the end"
-#~ msgstr "%1 după sfîrșit"
+#~ msgstr "%1 după sfârșit"
 
 #~ msgctxt "@item@intable alarm offset specified in days"
 #~ msgid "1 day"
@@ -9493,11 +9493,11 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Default appointment time"
-#~ msgstr "Ora implicită pentru întîlnire:"
+#~ msgstr "Ora implicită pentru întâlnire:"
 
 #, fuzzy
 #~ msgid "Default duration of new appointment (HH:MM)"
-#~ msgstr "Durata implicită a unei întîlniri:"
+#~ msgstr "Durata implicită a unei întâlniri:"
 
 #, fuzzy
 #~ msgid "Enable reminders for new Events"
@@ -9509,11 +9509,11 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Default reminder time"
-#~ msgstr "Ora implicită pentru întîlnire:"
+#~ msgstr "Ora implicită pentru întâlnire:"
 
 #, fuzzy
 #~ msgid "Default time for reminders"
-#~ msgstr "Ora implicită pentru întîlnire:"
+#~ msgstr "Ora implicită pentru întâlnire:"
 
 #~ msgid "Time"
 #~ msgstr "Timp"
@@ -9524,7 +9524,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Select the reminder trigger time unit"
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~| msgctxt "@item:inlistbox alarm expressed in minutes"
@@ -9567,7 +9567,7 @@ msgstr "De făcut: %1"
 #~| msgctxt "@item@intable N days/hours/minutes before/after the start/end"
 #~| msgid "%1 before the end"
 #~ msgid "before the event ends"
-#~ msgstr "%1 înainte de sfîrșit"
+#~ msgstr "%1 înainte de sfârșit"
 
 #, fuzzy
 #~ msgid "&Interval:"
@@ -9647,7 +9647,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "The list of reminders for this event or to-do"
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #~ msgid "Offset"
 #~ msgstr "Deplasare"
@@ -9711,7 +9711,7 @@ msgstr "De făcut: %1"
 #~ msgstr "Calendar"
 
 #~ msgid "Send copy to owner when mailing events"
-#~ msgstr "Trimite o copie la proprietar cînd trimite email la evenimente"
+#~ msgstr "Trimite o copie la proprietar când trimite email la evenimente"
 
 #, fuzzy
 #~ msgid "Full &name"
@@ -9802,7 +9802,7 @@ msgstr "De făcut: %1"
 #~| msgid "Weekly"
 #~ msgctxt "@item:inlistbox recur weekly"
 #~ msgid "Weekly"
-#~ msgstr "Săptămînal"
+#~ msgstr "Săptămânal"
 
 #, fuzzy
 #~| msgid "Monthly"
@@ -10321,43 +10321,43 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "29th Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "28th Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "27th Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "26th Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "25th Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "24th Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "23rd Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "22nd Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "21st Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "20th Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "19th Last"
@@ -10389,7 +10389,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "12th Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "11th Last"
@@ -10425,11 +10425,11 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "3rd Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "2nd Last"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgctxt "last day of the month"
@@ -10517,9 +10517,9 @@ msgstr "De făcut: %1"
 #~| msgid "Week"
 #~ msgid "week"
 #~ msgid_plural "weeks"
-#~ msgstr[0] "Săptămînă"
-#~ msgstr[1] "Săptămînă"
-#~ msgstr[2] "Săptămînă"
+#~ msgstr[0] "Săptămână"
+#~ msgstr[1] "Săptămână"
+#~ msgstr[2] "Săptămână"
 
 #, fuzzy
 #~| msgid "Month"
@@ -10614,7 +10614,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Edit"
-#~ msgstr "Timp de sfîrșit: %1"
+#~ msgstr "Timp de sfârșit: %1"
 
 #, fuzzy
 #~| msgid "day(s)"
@@ -10706,7 +10706,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "Sets the time associated with this journal  entry"
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~ msgid "[Add Journal Entry]"
@@ -10793,7 +10793,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "End date:"
-#~ msgstr "Dată de sfîrșit"
+#~ msgstr "Dată de sfârșit"
 
 #, fuzzy
 #~ msgid "&Download..."
@@ -10805,7 +10805,7 @@ msgstr "De făcut: %1"
 
 #, fuzzy
 #~ msgid "De&lete Event"
-#~ msgstr "&Editează întîlnirea..."
+#~ msgstr "&Editează întâlnirea..."
 
 #, fuzzy
 #~ msgid ""

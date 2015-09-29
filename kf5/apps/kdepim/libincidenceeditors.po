@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-19 09:05+0000\n"
+"POT-Creation-Date: 2015-09-22 10:08+0000\n"
 "PO-Revision-Date: 2011-01-09 12:38+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -32,7 +32,7 @@ msgstr "Modifică alarmă existentă"
 
 #: alarmdialog.cpp:237
 msgid "Before the to-do starts"
-msgstr "Pînă la începerea activității"
+msgstr "Până la începerea activității"
 
 #: alarmdialog.cpp:237
 msgid "After the to-do starts"
@@ -48,7 +48,7 @@ msgstr "După termenul-limită"
 
 #: alarmdialog.cpp:245
 msgid "Before the event starts"
-msgstr "Pînă la începerea evenimentului"
+msgstr "Până la începerea evenimentului"
 
 #: alarmdialog.cpp:245
 msgid "After the event starts"
@@ -56,11 +56,11 @@ msgstr "După începerea evenimentului"
 
 #: alarmdialog.cpp:248
 msgid "Before the event ends"
-msgstr "Pînă la sfîrșitul evenimentului"
+msgstr "Până la sfârșitul evenimentului"
 
 #: alarmdialog.cpp:248
 msgid "After the event ends"
-msgstr "După sfîrșitul evenimentului"
+msgstr "După sfârșitul evenimentului"
 
 #: alarmpresets.cpp:107
 msgctxt "@item:inlistbox"
@@ -74,9 +74,9 @@ msgstr ""
 msgctxt "@item:inlistbox"
 msgid "%1 minute before start"
 msgid_plural "%1 minutes before start"
-msgstr[0] "Cu %1 minute pînă la început"
-msgstr[1] "Cu %1 minute pînă la început"
-msgstr[2] "Cu %1 minute pînă la început"
+msgstr[0] "Cu %1 minute până la început"
+msgstr[1] "Cu %1 minute până la început"
+msgstr[2] "Cu %1 minute până la început"
 
 #: alarmpresets.cpp:114
 #, fuzzy, kde-format
@@ -85,9 +85,9 @@ msgstr[2] "Cu %1 minute pînă la început"
 msgctxt "@item:inlistbox"
 msgid "%1 hour before start"
 msgid_plural "%1 hours before start"
-msgstr[0] "Cu %1 ore pînă la început"
-msgstr[1] "Cu %1 ore pînă la început"
-msgstr[2] "Cu %1 ore pînă la început"
+msgstr[0] "Cu %1 ore până la început"
+msgstr[1] "Cu %1 ore până la început"
+msgstr[2] "Cu %1 ore până la început"
 
 #: alarmpresets.cpp:118
 #, fuzzy, kde-format
@@ -96,16 +96,16 @@ msgstr[2] "Cu %1 ore pînă la început"
 msgctxt "@item:inlistbox"
 msgid "%1 day before start"
 msgid_plural "%1 days before start"
-msgstr[0] "Cu %1 zile pînă la început"
-msgstr[1] "Cu %1 zile pînă la început"
-msgstr[2] "Cu %1 zile pînă la început"
+msgstr[0] "Cu %1 zile până la început"
+msgstr[1] "Cu %1 zile până la început"
+msgstr[2] "Cu %1 zile până la început"
 
 #: alarmpresets.cpp:133
 #, fuzzy
 #| msgid "When:"
 msgctxt "@item:inlistbox"
 msgid "When due"
-msgstr "Cînd:"
+msgstr "Când:"
 
 #: alarmpresets.cpp:136
 #, fuzzy, kde-format
@@ -114,9 +114,9 @@ msgstr "Cînd:"
 msgctxt "@item:inlistbox"
 msgid "%1 minute before due"
 msgid_plural "%1 minutes before due"
-msgstr[0] "Cu %1 minute pînă la termen"
-msgstr[1] "Cu %1 minute pînă la termen"
-msgstr[2] "Cu %1 minute pînă la termen"
+msgstr[0] "Cu %1 minute până la termen"
+msgstr[1] "Cu %1 minute până la termen"
+msgstr[2] "Cu %1 minute până la termen"
 
 #: alarmpresets.cpp:140
 #, fuzzy, kde-format
@@ -125,9 +125,9 @@ msgstr[2] "Cu %1 minute pînă la termen"
 msgctxt "@item:inlistbox"
 msgid "%1 hour before due"
 msgid_plural "%1 hours before due"
-msgstr[0] "Cu %1 ore pînă la termen"
-msgstr[1] "Cu %1 ore pînă la termen"
-msgstr[2] "Cu %1 ore pînă la termen"
+msgstr[0] "Cu %1 ore până la termen"
+msgstr[1] "Cu %1 ore până la termen"
+msgstr[2] "Cu %1 ore până la termen"
 
 #: alarmpresets.cpp:144
 #, fuzzy, kde-format
@@ -136,9 +136,9 @@ msgstr[2] "Cu %1 ore pînă la termen"
 msgctxt "@item:inlistbox"
 msgid "%1 day before due"
 msgid_plural "%1 days before due"
-msgstr[0] "Cu %1 zile pînă la termen"
-msgstr[1] "Cu %1 zile pînă la termen"
-msgstr[2] "Cu %1 zile pînă la termen"
+msgstr[0] "Cu %1 zile până la termen"
+msgstr[1] "Cu %1 zile până la termen"
+msgstr[2] "Cu %1 zile până la termen"
 
 #: attachmenteditdialog.cpp:75
 msgctxt "@label unknown mimetype"
@@ -1135,24 +1135,6 @@ msgctxt "ldap attribute mobile"
 msgid "Mobile"
 msgstr ""
 
-#: main.cpp:49
-msgid "Creates a new event"
-msgstr ""
-
-#: main.cpp:50
-msgid "Creates a new todo"
-msgstr ""
-
-#: main.cpp:51
-msgid "Creates a new journal"
-msgstr ""
-
-#: main.cpp:52
-msgid ""
-"Loads an existing item, or returns without doing anything when the item is "
-"not an event or todo."
-msgstr ""
-
 #: opencomposerjob.cpp:68
 msgctxt "errormessage: can't create a kontact process"
 msgid "Can't create composer: Failed to start kontact."
@@ -1233,6 +1215,24 @@ msgstr ""
 msgid "Remove"
 msgstr ""
 
+#: tests/main.cpp:49
+msgid "Creates a new event"
+msgstr ""
+
+#: tests/main.cpp:50
+msgid "Creates a new todo"
+msgstr ""
+
+#: tests/main.cpp:51
+msgid "Creates a new journal"
+msgstr ""
+
+#: tests/main.cpp:52
+msgid ""
+"Loads an existing item, or returns without doing anything when the item is "
+"not an event or todo."
+msgstr ""
+
 #. i18n: ectx: property (windowTitle), widget (QWidget, AlarmDialog)
 #: ui/alarmdialog.ui:14
 msgid "Alarms"
@@ -1241,7 +1241,7 @@ msgstr "Alarme"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/alarmdialog.ui:20
 msgid "When:"
-msgstr "Cînd:"
+msgstr "Când:"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, mAlarmOffset)
 #: ui/alarmdialog.ui:35
@@ -1304,7 +1304,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
 #: ui/alarmdialog.ui:95
 msgid "before the event starts"
-msgstr "pînă la începerea evenimentului"
+msgstr "până la începerea evenimentului"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
 #: ui/alarmdialog.ui:100
@@ -1314,12 +1314,12 @@ msgstr "după începerea evenimentului"
 #. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
 #: ui/alarmdialog.ui:105
 msgid "before the event ends"
-msgstr "pînă la sfîrșitul evenimentului"
+msgstr "până la sfârșitul evenimentului"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, mBeforeAfter)
 #: ui/alarmdialog.ui:110
 msgid "after the event ends"
-msgstr "după sfîrșitul evenimentului"
+msgstr "după sfârșitul evenimentului"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: ui/alarmdialog.ui:120
@@ -1895,7 +1895,7 @@ msgstr ""
 #| msgid "Before the event ends"
 msgctxt "@option:check"
 msgid "Blocks me for other events"
-msgstr "Pînă la sfîrșitul evenimentului"
+msgstr "Până la sfârșitul evenimentului"
 
 #. i18n: ectx: property (text), widget (QLabel, mStartLabel)
 #: ui/dialogdesktop.ui:401
@@ -2361,14 +2361,14 @@ msgstr ""
 #, fuzzy
 #| msgid "Before the to-do starts"
 msgid "Earliest time to start:"
-msgstr "Pînă la începerea activității"
+msgstr "Până la începerea activității"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: ui/schedulingdialog.ui:47
 #, fuzzy
 #| msgid "after the event ends"
 msgid "Latest time to end:"
-msgstr "după sfîrșitul evenimentului"
+msgstr "după sfârșitul evenimentului"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label_3)
 #. i18n: ectx: property (toolTip), widget (KPIM::KWeekdayCheckCombo, mWeekdayCombo)

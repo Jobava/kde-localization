@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalarm\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-05 09:01+0000\n"
+"POT-Creation-Date: 2015-09-25 08:12+0000\n"
 "PO-Revision-Date: 2014-11-04 16:54+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -153,12 +153,12 @@ msgstr "Data și ora următoarei programări a alarmei"
 #: akonadimodel.cpp:1064
 msgctxt "@info:whatsthis"
 msgid "How long until the next scheduled trigger of the alarm"
-msgstr "Timpul rămas pînă la următoarea declanșare programată a alarmei"
+msgstr "Timpul rămas până la următoarea declanșare programată a alarmei"
 
 #: akonadimodel.cpp:1066
 msgctxt "@info:whatsthis"
 msgid "How often the alarm recurs"
-msgstr "Cît de des se reperă alarma"
+msgstr "Cât de des se reperă alarma"
 
 #: akonadimodel.cpp:1068
 msgctxt "@info:whatsthis"
@@ -371,7 +371,7 @@ msgstr ""
 #| "This uses KAlarm's default time zone, set in the Configuration dialog."
 msgctxt "@info"
 msgid "This uses KAlarm's default time zone, set in the Configuration dialog."
-msgstr "Acesta utilizează fusul orar al KAlarm stabilit în cîmpul Configurare."
+msgstr "Acesta utilizează fusul orar al KAlarm stabilit în câmpul Configurare."
 
 #: alarmtimewidget.cpp:108
 #, fuzzy
@@ -414,7 +414,7 @@ msgstr ""
 #: alarmtimewidget.cpp:146 recurrenceedit.cpp:291
 msgctxt "@option:check"
 msgid "Any time"
-msgstr "Oricînd"
+msgstr "Oricând"
 
 #: alarmtimewidget.cpp:151
 msgctxt "@info:whatsthis"
@@ -425,7 +425,7 @@ msgstr ""
 "Verificați dacă ați specificat numai data (fără ora) alarmei. Alarma se va "
 "declanșa cu prima ocazie la data selectată."
 
-#: alarmtimewidget.cpp:155 editdlg.cpp:381
+#: alarmtimewidget.cpp:155 editdlg.cpp:385
 #, fuzzy
 msgctxt "@option:radio"
 msgid "Time from now:"
@@ -434,21 +434,21 @@ msgstr "Timp"
 #: alarmtimewidget.cpp:155
 msgctxt "@option:radio"
 msgid "Defer for time interval:"
-msgstr "Amînare pentru intervalul de timp:"
+msgstr "Amânare pentru intervalul de timp:"
 
 #: alarmtimewidget.cpp:157
 msgctxt "@info:whatsthis"
 msgid "Reschedule the alarm for the specified time interval after now."
 msgstr ""
-"Reprogramați alarma pentru intervalul de timp specificat începînd din acest "
+"Reprogramați alarma pentru intervalul de timp specificat începând din acest "
 "moment."
 
 #: alarmtimewidget.cpp:158
 msgctxt "@info:whatsthis"
 msgid "Schedule the alarm after the specified time interval from now."
-msgstr "Programați alarma după intervalul de timp specificat începînd de acum."
+msgstr "Programați alarma după intervalul de timp specificat începând de acum."
 
-#: alarmtimewidget.cpp:166 editdlg.cpp:394
+#: alarmtimewidget.cpp:166 editdlg.cpp:398
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "<para>%1</para><para>%2</para>"
@@ -473,7 +473,7 @@ msgid ""
 "zone set in KAlarm's configuration dialog."
 msgstr ""
 "Alegeți un fus orar pentru această alarmă care este diferit de fusul orar "
-"prestabilit în cîmpul de configurare al KAlarm."
+"prestabilit în câmpul de configurare al KAlarm."
 
 #: alarmtimewidget.cpp:214 prefdlg.cpp:619
 msgctxt "@label:listbox"
@@ -498,7 +498,7 @@ msgid ""
 "recurrence specified in hours/minutes. If you do, the alarm may occur at "
 "unexpected times after daylight saving time shifts.</para>"
 msgstr ""
-"<para>Verificați să fie folosit fusul orar local al computer-ului, ignorînd "
+"<para>Verificați să fie folosit fusul orar local al computer-ului, ignorând "
 "fusurile orare.</para><para>Se recomandă să nu folosiți această opțiune dacă "
 "alarma are o reprogramare specificată în ore/minute. Dacă o veți folosi, "
 "alarma se poate declanșa în momente neașteptate în funcție de modificarea "
@@ -595,7 +595,7 @@ msgid ""
 "including any necessary trailing spaces."
 msgstr ""
 "Introduceți textul care să apară înainte de numele persoanei în mesajul "
-"alarmei, incluzînd oricîte spații necesare la sfîrșit."
+"alarmei, incluzând oricâte spații necesare la sfârșit."
 
 #: birthdaydlg.cpp:95
 #, fuzzy
@@ -611,7 +611,7 @@ msgid ""
 "any necessary leading spaces."
 msgstr ""
 "Introduceți textul care să apară după numele persoanei în mesajul alarmei, "
-"incluzînd oricîte spații necesare la început."
+"incluzând oricâte spații necesare la început."
 
 #: birthdaydlg.cpp:107
 #, fuzzy
@@ -631,9 +631,9 @@ msgid ""
 msgstr ""
 "<para>Selectați zilele de naștere pentru care setați alarma.<nl/>Această "
 "listă arată toate zilele de naștere din <application>Agenda K</application> "
-"exceptîndu-le pe cele pentru care există deja alarme.</para><para>Puteți "
+"exceptându-le pe cele pentru care există deja alarme.</para><para>Puteți "
 "selecta mai multe zile de naștere în același moment prin glisarea cursorului "
-"peste listă sau făcînd clic în timp ce țineți apăsat Ctrl sau Shift.</para>"
+"peste listă sau făcând clic în timp ce țineți apăsat Ctrl sau Shift.</para>"
 
 #: birthdaydlg.cpp:150
 #, fuzzy
@@ -870,7 +870,7 @@ msgid ""
 "longer than <icode>%3</icode> interval"
 msgstr ""
 "Parametri <icode>%1</icode> si <icode>%2</icode> nevalizi: repetiția este "
-"mai lungă decît <icode>%3</icode> intervalul"
+"mai lungă decât <icode>%3</icode> intervalul"
 
 #: commandoptions.cpp:377
 #, kde-format
@@ -933,12 +933,12 @@ msgstr "Alarmă nouă"
 #: deferdlg.cpp:62
 msgctxt "@info:whatsthis"
 msgid "Defer the alarm until the specified time."
-msgstr "Amînă alarma pînă la ora specificată."
+msgstr "Amână alarma până la ora specificată."
 
 #: deferdlg.cpp:66
 msgctxt "@action:button"
 msgid "Cancel Deferral"
-msgstr "Anulează amînarea"
+msgstr "Anulează amânarea"
 
 #: deferdlg.cpp:67
 msgctxt "@info:whatsthis"
@@ -962,13 +962,13 @@ msgstr "Nu se poate amana urmatoarea repetare a alarmei (in prezent %1)"
 #, kde-format
 msgctxt "@info"
 msgid "Cannot defer past the alarm's next reminder (currently %1)"
-msgstr "Nu se poate amîna următorul memento al alarmei (în prezent %1)"
+msgstr "Nu se poate amâna următorul memento al alarmei (în prezent %1)"
 
 #: deferdlg.cpp:122
 #, kde-format
 msgctxt "@info"
 msgid "Cannot defer reminder past the main alarm time (%1)"
-msgstr "Nu se poate amîna un memento trecut de ora principală de alarmă (%1)"
+msgstr "Nu se poate amâna un memento trecut de ora principală de alarmă (%1)"
 
 #: editdlg.cpp:89
 #, fuzzy, kde-format
@@ -977,103 +977,103 @@ msgctxt "@title:tab"
 msgid "Recurrence - [%1]"
 msgstr "Repetiție:"
 
-#: editdlg.cpp:94
+#: editdlg.cpp:96
 msgctxt "@option:check"
 msgid "Show in KOrganizer"
 msgstr "Arată în Organizatorul K"
 
-#: editdlg.cpp:209
+#: editdlg.cpp:213
 #, fuzzy
 msgctxt "@title:window"
 msgid "Alarm Template [read-only]"
 msgstr "Text alarmă"
 
-#: editdlg.cpp:210
+#: editdlg.cpp:214
 #, fuzzy
 msgctxt "@title:window"
 msgid "Archived Alarm [read-only]"
 msgstr "Activează %1"
 
-#: editdlg.cpp:211
+#: editdlg.cpp:215
 #, fuzzy
 msgctxt "@title:window"
 msgid "Alarm [read-only]"
 msgstr "Activează %1"
 
-#: editdlg.cpp:221 editdlg.cpp:226 editdlg.cpp:231
+#: editdlg.cpp:225 editdlg.cpp:230 editdlg.cpp:235
 msgctxt "@action:button"
 msgid "Try"
 msgstr ""
 
-#: editdlg.cpp:232
+#: editdlg.cpp:236
 #, fuzzy
 msgctxt "@action:button"
 msgid "Load Template..."
 msgstr "Text alarmă"
 
-#: editdlg.cpp:240
+#: editdlg.cpp:244
 msgctxt "@info:whatsthis"
 msgid "Schedule the alarm at the specified time."
 msgstr "Programează alarma la ora specificată."
 
-#: editdlg.cpp:251
+#: editdlg.cpp:255
 msgctxt "@label:textbox"
 msgid "Template name:"
 msgstr "Numele șablonului:"
 
-#: editdlg.cpp:259
+#: editdlg.cpp:263
 #, fuzzy
 msgctxt "@info:whatsthis"
 msgid "Enter the name of the alarm template"
 msgstr "Eroare la citirea cărții de adrese"
 
-#: editdlg.cpp:268
+#: editdlg.cpp:272
 msgctxt "@title:tab"
 msgid "Alarm"
 msgstr "Alarmă"
 
-#: editdlg.cpp:295
+#: editdlg.cpp:299
 msgctxt "@title:group"
 msgid "Action"
 msgstr "Acțiune"
 
-#: editdlg.cpp:306
+#: editdlg.cpp:310
 #, fuzzy
 #| msgid "New Alarm"
 msgctxt "@title:group"
 msgid "Deferred Alarm"
 msgstr "Alarmă nouă"
 
-#: editdlg.cpp:311
+#: editdlg.cpp:315
 msgctxt "@label"
 msgid "Deferred to:"
-msgstr "Amînată pentru:"
+msgstr "Amânată pentru:"
 
-#: editdlg.cpp:317
+#: editdlg.cpp:321
 #, fuzzy
 msgctxt "@action:button"
 msgid "Change..."
 msgstr "Schimbare..."
 
-#: editdlg.cpp:320
+#: editdlg.cpp:324
 msgctxt "@info:whatsthis"
 msgid "Change the alarm's deferred time, or cancel the deferral"
 msgstr "Schimba ora de amanare a alarmei,sau anuleaza amanarea ei."
 
-#: editdlg.cpp:332 editdlg.cpp:404
+#: editdlg.cpp:336 editdlg.cpp:408
 #, fuzzy
 #| msgid "Time"
 msgctxt "@title:group"
 msgid "Time"
 msgstr "Ora"
 
-#: editdlg.cpp:341
+#: editdlg.cpp:345
 #, fuzzy
 msgctxt "@option:radio"
 msgid "Default time"
 msgstr "Utilizează fontul &implicit"
 
-#: editdlg.cpp:344
+#: editdlg.cpp:348
 msgctxt "@info:whatsthis"
 msgid ""
 "Do not specify a start time for alarms based on this template. The normal "
@@ -1082,17 +1082,17 @@ msgstr ""
 "Nu specifica ora de inceput pentru alarmele bazate pe acest sablon.Va fi "
 "folostita ora de inceput implicita."
 
-#: editdlg.cpp:353
+#: editdlg.cpp:357
 msgctxt "@option:radio"
 msgid "Time:"
 msgstr "Ora:"
 
-#: editdlg.cpp:356
+#: editdlg.cpp:360
 msgctxt "@info:whatsthis"
 msgid "Specify a start time for alarms based on this template."
 msgstr "Indica ora de inceput pentru alarmele bazate pe acest sablon"
 
-#: editdlg.cpp:363
+#: editdlg.cpp:367
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -1102,12 +1102,12 @@ msgstr ""
 "<para>Introduceti ora de inceput pentru alarmele bazate pe acest sablon.</"
 "para><para>%1</para>"
 
-#: editdlg.cpp:370
+#: editdlg.cpp:374
 msgctxt "@option:radio"
 msgid "Date only"
 msgstr "Doar data"
 
-#: editdlg.cpp:373
+#: editdlg.cpp:377
 msgctxt "@info:whatsthis"
 msgid ""
 "Set the <interface>Any time</interface> option for alarms based on this "
@@ -1116,7 +1116,7 @@ msgstr ""
 "Seteaza optiunea <interface>oricand</interface> pentru alarmele bazate pe "
 "acest sablon"
 
-#: editdlg.cpp:385
+#: editdlg.cpp:389
 msgctxt "@info:whatsthis"
 msgid ""
 "Set alarms based on this template to start after the specified time interval "
@@ -1125,22 +1125,22 @@ msgstr ""
 "Seteaza alarma bazata pe acest sablon pentru a incepe dupa intervalul de "
 "timp specificat de cand alarma a fost creata."
 
-#: editdlg.cpp:453
+#: editdlg.cpp:457
 msgctxt "@info:whatsthis"
 msgid "Check to copy the alarm into KOrganizer's calendar"
 msgstr "Verifica pentru a copia alarma in calendarul KOrganizer's"
 
-#: editdlg.cpp:960
+#: editdlg.cpp:1020
 msgctxt "@info"
 msgid "You must enter a name for the alarm template"
 msgstr "Trebuie să introduceți o denumire pentru șablonul de alarmă"
 
-#: editdlg.cpp:964
+#: editdlg.cpp:1024
 msgctxt "@info"
 msgid "Template name is already in use"
 msgstr "Denumirea de șablon e folosită deja"
 
-#: editdlg.cpp:1010
+#: editdlg.cpp:1070
 #, kde-format
 msgctxt "@info The parameter is a date value"
 msgid ""
@@ -1150,7 +1150,7 @@ msgstr ""
 "Ora de inceput nu se potriveste cu modelul de repetare al alarmei,asa ca va "
 "trebui reglata pentru data viitoarei  repetari (%1)."
 
-#: editdlg.cpp:1014
+#: editdlg.cpp:1074
 #, kde-format
 msgctxt "@info The parameter is a date/time value"
 msgid ""
@@ -1160,17 +1160,17 @@ msgstr ""
 "Ora de inceput/Data de inceput nu se potrivesc cu modelul de repetare al "
 "alarmei,asa ca va trebui reglata dupa data/ora urmatoarei repetari (%1)."
 
-#: editdlg.cpp:1036
+#: editdlg.cpp:1096
 msgctxt "@info"
 msgid "Recurrence has already expired"
 msgstr "Recurența a expirat deja"
 
-#: editdlg.cpp:1041
+#: editdlg.cpp:1101
 msgctxt "@info"
 msgid "The alarm will never occur during working hours"
 msgstr "Alarma nu va interveni niciodată în orele de lucru"
 
-#: editdlg.cpp:1070
+#: editdlg.cpp:1130
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -1180,14 +1180,14 @@ msgstr ""
 "Perioada de reamintire trebuie sa fie mai mica decat intervalul repetarilor, "
 "numai daca <interface>%1</interface> este verificat."
 
-#: editdlg.cpp:1085
+#: editdlg.cpp:1145
 msgctxt "@info"
 msgid ""
 "The duration of a repetition within the recurrence must be less than the "
 "recurrence interval minus any reminder period"
 msgstr "DUrata unei repetitii"
 
-#: editdlg.cpp:1092
+#: editdlg.cpp:1152
 msgctxt "@info"
 msgid ""
 "For a repetition within the recurrence, its period must be in units of days "
@@ -1196,12 +1196,12 @@ msgstr ""
 "Pentru o repetitie în cadrul recurentei, perioada acesteia trebuie sa fie în "
 "unitati de zile sau saptamani pentru o alarma numai cu data."
 
-#: editdlg.cpp:1123
+#: editdlg.cpp:1183
 msgctxt "@info"
 msgid "You must select a calendar to save the alarm in"
 msgstr "Trebuie să alegeți un calendar în care salvați alarma"
 
-#: editdlg.cpp:1204
+#: editdlg.cpp:1264
 #, fuzzy
 #| msgctxt "@action:button"
 #| msgid "Less Options <<"
@@ -1209,7 +1209,7 @@ msgctxt "@action:Button"
 msgid "Less Options <<"
 msgstr "Mai puține opțiuni <<"
 
-#: editdlg.cpp:1209
+#: editdlg.cpp:1269
 msgctxt "@action:button"
 msgid "More Options >>"
 msgstr "Mai multe opțiuni >>"
@@ -1886,27 +1886,27 @@ msgstr "Lista de alarme"
 #: functions.cpp:792
 msgctxt "@info"
 msgid "Unable to show alarms in KOrganizer"
-msgstr "împosibil să fie arătate alarmele în KOrganizer"
+msgstr "Imposibil să fie arătate alarmele în KOrganizer"
 
 #: functions.cpp:793
 msgctxt "@info"
 msgid "Unable to show alarm in KOrganizer"
-msgstr "împosibil să fie arătată alarma în KOrganizer"
+msgstr "Imposibil să fie arătată alarma în KOrganizer"
 
 #: functions.cpp:796
 msgctxt "@info"
 msgid "Unable to update alarm in KOrganizer"
-msgstr "împosibil să fie actualizată alarma în KOrganizer"
+msgstr "Imposibil să fie actualizată alarma în KOrganizer"
 
 #: functions.cpp:799
 msgctxt "@info"
 msgid "Unable to delete alarms from KOrganizer"
-msgstr "împosibil să fie șterse alarmele din KOrganizer"
+msgstr "Imposibil să fie șterse alarmele din KOrganizer"
 
 #: functions.cpp:800
 msgctxt "@info"
 msgid "Unable to delete alarm from KOrganizer"
-msgstr "împosibil să fie ștearsă alarma din KOrganizer"
+msgstr "Imposibil să fie ștearsă alarma din KOrganizer"
 
 #: functions.cpp:810
 #, fuzzy, kde-format
@@ -1950,7 +1950,7 @@ msgstr ""
 msgctxt "@info Please set the 'From' email address..."
 msgid "<para>%1</para><para>Please set it in the Configuration dialog.</para>"
 msgstr ""
-"<para>%1</para><para>Vă rigăm să-l setați în cîmpul Configurare.</para>"
+"<para>%1</para><para>Vă rigăm să-l setați în câmpul Configurare.</para>"
 
 #: functions.cpp:1333
 msgctxt "@info"
@@ -1958,7 +1958,7 @@ msgid ""
 "<para>Alarms are currently disabled.</para><para>Do you want to enable "
 "alarms now?</para>"
 msgstr ""
-"<para>Alarmele sînt dezactivate în prezent.</para><para>Doriți să activați "
+"<para>Alarmele sunt dezactivate în prezent.</para><para>Doriți să activați "
 "alarmele acum?</para>"
 
 #: functions.cpp:1334
@@ -2024,7 +2024,7 @@ msgid ""
 msgstr ""
 "Calendarul <resource>%1</resource> este în format vechi "
 "(<application>KAlarm</application> version %2), și va fi disponibil doar "
-"pentru citire atîta timp cît nu alegeți să-l actualizați la formatul curent."
+"pentru citire atâta timp cât nu alegeți să-l actualizați la formatul curent."
 
 #: functions.cpp:1773
 #, kde-format
@@ -2036,7 +2036,7 @@ msgid ""
 msgstr ""
 "Unele sau toate alarmele din calendar <resource>%1</resource> sunt în "
 "<application>KAlarm</application> format vechi, și vor fi disponibile numai "
-"pentru citire atîta timp cît nu alegeți să le actualizați la formatul actual."
+"pentru citire atâta timp cât nu alegeți să le actualizați la formatul actual."
 
 #: functions.cpp:1776
 #, kde-format
@@ -2097,7 +2097,7 @@ msgctxt "@info"
 msgid "Error saving alarm template"
 msgstr "Eroare la citirea cărții de adrese"
 
-#: kalarmapp.cpp:353
+#: kalarmapp.cpp:356
 #, fuzzy, kde-format
 #| msgctxt "@info:shell"
 #| msgid ""
@@ -2109,7 +2109,7 @@ msgstr ""
 "<icode>%1</icode>: Evenimentul <resource>%2</resource> nu a fost găsit sau "
 "nu este redactabil"
 
-#: kalarmapp.cpp:381
+#: kalarmapp.cpp:384
 #, fuzzy, kde-format
 #| msgctxt "@info:shell"
 #| msgid ""
@@ -2121,7 +2121,7 @@ msgstr ""
 "<icode>%1</icode>: Evenimentul <resource>%2</resource> nu a fost găsit sau "
 "nu este redactabil"
 
-#: kalarmapp.cpp:567
+#: kalarmapp.cpp:570
 msgctxt "@info"
 msgid ""
 "Time zones are not accessible:<nl/>KAlarm will use the UTC time zone.<nl/"
@@ -2132,7 +2132,7 @@ msgstr ""
 "><nl/>(Serviciul de fus orar KDE nu este disponibil:<nl/>Verificați dacă "
 "<application>ktimezoned</application> este instalat.)"
 
-#: kalarmapp.cpp:646
+#: kalarmapp.cpp:649
 msgctxt "@info"
 msgid ""
 "Quitting will disable alarms (once any alarm message windows are closed)."
@@ -2140,12 +2140,12 @@ msgstr ""
 "Renunțarea va dezactiva alarmele (o dată ce toate ferestrele cu mesaje de "
 "alarmă sunt închise)."
 
-#: kalarmapp.cpp:655
+#: kalarmapp.cpp:658
 msgctxt "@info"
 msgid "Quitting will cancel the scheduled Wake from Suspend."
 msgstr "Renunțarea va anula trezirea programată de la suspendare."
 
-#: kalarmapp.cpp:667
+#: kalarmapp.cpp:670
 msgctxt "@info"
 msgid ""
 "Do you want to start KAlarm at login?<nl/>(Note that alarms will be disabled "
@@ -2154,7 +2154,7 @@ msgstr ""
 "Doriți să porniți KAlarm la autentificare?<nl/>Rețineți că alarmele vor fi "
 "dezactivate dacă Kalarm nu este pornit."
 
-#: kalarmapp.cpp:1127
+#: kalarmapp.cpp:1130
 msgctxt "@info"
 msgid ""
 "Alarms cannot be created or updated, because no writable active alarm "
@@ -2162,18 +2162,18 @@ msgid ""
 "Calendars</interface> to check or change calendar statuses."
 msgstr ""
 
-#: kalarmapp.cpp:2125
+#: kalarmapp.cpp:2149
 #, fuzzy
 msgctxt "@info"
 msgid "Error creating temporary script file"
 msgstr "Eroare la citirea cărții de adrese"
 
-#: kalarmapp.cpp:2214
+#: kalarmapp.cpp:2238
 msgctxt "@info"
 msgid "Pre-alarm action:"
 msgstr "Acțiune pre-alarmă:"
 
-#: kalarmapp.cpp:2220
+#: kalarmapp.cpp:2244
 msgctxt "@info"
 msgid "Post-alarm action:"
 msgstr "Acțiune post-alarmă:"
@@ -2349,7 +2349,7 @@ msgid ""
 "should always be checked unless you intend to discontinue use of KAlarm.</p>"
 msgstr ""
 "<para>Deschide automat <application>KAlarm</application> de fiecare dată "
-"cînd porniți KDE.</para><para>Această opțiune ar trebui să fie întotdeauna "
+"când porniți KDE.</para><para>Această opțiune ar trebui să fie întotdeauna "
 "verificată dacă nu intenționați să întrerupeți utilizarea "
 "<application>KAlarm</application>.</para>"
 
@@ -2374,8 +2374,8 @@ msgid ""
 "Enter the default time interval (in minutes) to defer alarms, used by the "
 "Defer Alarm dialog."
 msgstr ""
-"Introduceti intervalul de timp implicit (în minute) de amînare a alarmelor, "
-"folosit de cîmpul pentru amînarea alarmei."
+"Introduceti intervalul de timp implicit (în minute) de amânare a alarmelor, "
+"folosit de câmpul pentru amânarea alarmei."
 
 #. i18n: ectx: label, entry (AskResource), group (General)
 #: kalarmconfig.kcfg:123
@@ -2398,7 +2398,7 @@ msgid ""
 "store it in, if there is more than one active calendar.</p><p>Note that "
 "archived alarms are always stored in the default archived alarm calendar.</p>"
 msgstr ""
-"<para>Cînd salvați o alarmă nouă sau un șablon de alarmă, întreabă pentru "
+"<para>Când salvați o alarmă nouă sau un șablon de alarmă, întreabă pentru "
 "care calendar se stochează, dacă există mai mult de un calendar activ.</"
 "para><para>Rețineți că alarmele arhivate sunt întotdeauna stocate în "
 "calendarul de alarmă arhivat implicit.</para>"
@@ -2438,7 +2438,7 @@ msgstr ""
 #: kalarmconfig.kcfg:134
 msgctxt "@label"
 msgid "Delay before message window buttons are enabled"
-msgstr "întîrzierea dinainte ca butoanele ferestrei de mesaj să se activeze"
+msgstr "întârzierea dinainte ca butoanele ferestrei de mesaj să se activeze"
 
 #. i18n: ectx: whatsthis, entry (MessageButtonDelay), group (General)
 #: kalarmconfig.kcfg:139
@@ -2554,7 +2554,7 @@ msgid ""
 "Enter the text to be displayed in front of the time until the alarm, in the "
 "system tray tooltip."
 msgstr ""
-"Introduceți textul de afișat în fața orei pînă la alarmă, în tabloul de "
+"Introduceți textul de afișat în fața orei până la alarmă, în tabloul de "
 "sistem."
 
 #. i18n: ectx: label, entry (EmailClient), group (General)
@@ -2714,13 +2714,13 @@ msgstr "Ora de început a zilei lucrătoare."
 #: kalarmconfig.kcfg:214
 msgctxt "@label"
 msgid "End time of working day"
-msgstr "Ora de sfîrșit a zilei lucrătoare"
+msgstr "Ora de sfârșit a zilei lucrătoare"
 
 #. i18n: ectx: whatsthis, entry (Base_WorkDayEnd), group (General)
 #: kalarmconfig.kcfg:215
 msgctxt "@info:whatsthis"
 msgid "The end time of the working day."
-msgstr "Ora de sfîrșit a zilei lucrătoare."
+msgstr "Ora de sfârșit a zilei lucrătoare."
 
 #. i18n: ectx: label, entry (Base_WorkDays), group (General)
 #: kalarmconfig.kcfg:220
@@ -2735,7 +2735,7 @@ msgid ""
 "OR'ed bits indicating which days of the week are work days, 1 = Monday ... "
 "64 = Sunday."
 msgstr ""
-"Biți OR'ed indicînd care zile ale săptămînii sunt zile de lucru, 1 = "
+"Biți OR'ed indicând care zile ale săptămânii sunt zile de lucru, 1 = "
 "luni ... 64 = duminică."
 
 #. i18n: ectx: label, entry (DisabledColour), group (General)
@@ -2835,7 +2835,7 @@ msgstr ""
 #: kalarmconfig.kcfg:261
 msgctxt "@label"
 msgid "Cancel if late (minutes)"
-msgstr "Anulează dacă e tîrziu (minute)"
+msgstr "Anulează dacă e târziu (minute)"
 
 #. i18n: ectx: whatsthis, entry (DefaultLateCancel), group (Defaults)
 #: kalarmconfig.kcfg:262
@@ -2898,7 +2898,7 @@ msgstr "Sunet"
 #: kalarmconfig.kcfg:283
 msgctxt "@info:whatsthis"
 msgid "Default sound type in the alarm edit dialog."
-msgstr "Tipul implicit de sunet în cîmpul de editare a alarmei."
+msgstr "Tipul implicit de sunet în câmpul de editare a alarmei."
 
 #. i18n: ectx: label, entry (DefaultSoundType), group (Defaults)
 #: kalarmconfig.kcfg:287
@@ -2916,7 +2916,7 @@ msgstr "Fișier de sunet"
 #: kalarmconfig.kcfg:294
 msgctxt "@info:whatsthis"
 msgid "Default sound file path in the alarm edit dialog."
-msgstr "Calea implicită a fișierului de sunet în cîmpul de editare a alarmei."
+msgstr "Calea implicită a fișierului de sunet în câmpul de editare a alarmei."
 
 #. i18n: ectx: label, entry (Base_DefaultSoundVolume), group (Defaults)
 #: kalarmconfig.kcfg:297
@@ -2932,7 +2932,7 @@ msgid ""
 "Default sound volume in the alarm edit dialog. -1 to deselect volume, or 0 - "
 "100 %"
 msgstr ""
-"Volumul implicit al sunetului din cîmpul de editare a alarmei. -1 pentru a "
+"Volumul implicit al sunetului din câmpul de editare a alarmei. -1 pentru a "
 "deselecta volumul, sau 0-100%"
 
 #. i18n: ectx: label, entry (DefaultSoundRepeat), group (Defaults)
@@ -3034,7 +3034,7 @@ msgstr "Perioadă de recurență"
 msgctxt "@info:whatsthis"
 msgid "The default setting for the recurrence rule in the alarm edit dialog."
 msgstr ""
-"Setarea implicită pentru regula repetiției din cîmpul de editare al alarmei."
+"Setarea implicită pentru regula repetiției din câmpul de editare al alarmei."
 
 #. i18n: ectx: label, entry (DefaultRecurPeriod), group (Defaults)
 #: kalarmconfig.kcfg:336
@@ -3211,14 +3211,14 @@ msgstr "Confirmă ștergerea alarmelor"
 msgctxt "@info:whatsthis"
 msgid "Check to be prompted for confirmation each time you delete an alarm."
 msgstr ""
-"Bifați pentru a vi se cere confirmarea de fiecare dată cînd ștergeți o "
+"Bifați pentru a vi se cere confirmarea de fiecare dată când ștergeți o "
 "alarmă."
 
 #. i18n: ectx: label, entry (Base_EmailQueuedNotify), group (Notification Messages)
 #: kalarmconfig.kcfg:403
 msgctxt "@label"
 msgid "Notify when remote emails are queued"
-msgstr "Anunță cînd mesajele îndepărtate sunt puse în așteptare"
+msgstr "Anunță când mesajele îndepărtate sunt puse în așteptare"
 
 #. i18n: ectx: whatsthis, entry (Base_EmailQueuedNotify), group (Notification Messages)
 #: kalarmconfig.kcfg:404 prefdlg.cpp:1035
@@ -3315,7 +3315,7 @@ msgctxt "@info"
 msgid ""
 "A 'From' email address must be configured in order to execute email alarms."
 msgstr ""
-"Cîmpul \"De la\" dintr-un mail trebuie configurat pentru a se executa "
+"Câmpul \"De la\" dintr-un mail trebuie configurat pentru a se executa "
 "alarmele de tipul email."
 
 #: kamail.cpp:86
@@ -3336,7 +3336,7 @@ msgid ""
 "Invalid 'From' email address.<nl/>Email identity <resource>%1</resource> not "
 "found"
 msgstr ""
-"Cîmpul \"De la\" este invalid. <nl/>Identitatea email-ului <resource>%1</"
+"Câmpul \"De la\" este invalid. <nl/>Identitatea email-ului <resource>%1</"
 "resource> nu a fost găsită"
 
 #: kamail.cpp:123
@@ -3346,7 +3346,7 @@ msgid ""
 "Invalid 'From' email address.<nl/>Email identity <resource>%1</resource> has "
 "no email address"
 msgstr ""
-"Cîmpul \"De la\" este invalid. <nl/>Cîmpul <resource>%1</resource> nu "
+"Câmpul \"De la\" este invalid. <nl/>Câmpul <resource>%1</resource> nu "
 "conține o adresă de email"
 
 #: kamail.cpp:133
@@ -3356,9 +3356,9 @@ msgid ""
 "</para><para>Please set it in <application>KMail</application> or in the "
 "<application>KAlarm</application> Configuration dialog.</para>"
 msgstr ""
-"<para>Nu ați configurat cîmpul \"De la\" al email-ului (nu a fost găsit "
+"<para>Nu ați configurat câmpul \"De la\" al email-ului (nu a fost găsit "
 "niciun email implicit)</para><para>Vă rugăm să-l setați în "
-"<application>KMail</application> sau în cîmpul configurare al "
+"<application>KMail</application> sau în câmpul configurare al "
 "<application>KAlarm</application>.</para>"
 
 #: kamail.cpp:137
@@ -3368,8 +3368,8 @@ msgid ""
 "the KDE System Settings or in the <application>KAlarm</application> "
 "Configuration dialog.</para>"
 msgstr ""
-"<para>Nu ați configurat cîmpul \"De la\" al email-ului.</para><para>Vă rugăm "
-"să-l setați în setările de sistem ale KDE sau în cîmpul de configurare al "
+"<para>Nu ați configurat câmpul \"De la\" al email-ului.</para><para>Vă rugăm "
+"să-l setați în setările de sistem ale KDE sau în câmpul de configurare al "
 "<application>KAlarm</application>.</para>"
 
 #: kamail.cpp:142
@@ -3378,8 +3378,8 @@ msgid ""
 "<para>No 'From' email address is configured.</para><para>Please set it in "
 "the <application>KAlarm</application> Configuration dialog.</para>"
 msgstr ""
-"<para>Nu ați configurat cîmpul \"De la\" al email-ului.</para><para>Vă rugăm "
-"să-l setați în cîmpul de configurare al <application>KAlarm</application>.</"
+"<para>Nu ați configurat câmpul \"De la\" al email-ului.</para><para>Vă rugăm "
+"să-l setați în câmpul de configurare al <application>KAlarm</application>.</"
 "para>"
 
 #: kamail.cpp:194
@@ -3430,7 +3430,7 @@ msgstr "Eroare la trimiterea mesajului"
 #: latecancel.cpp:39
 msgctxt "@option:check"
 msgid "Cancel if late"
-msgstr "Anulează dacă a întîrziat"
+msgstr "Anulează dacă a întârziat"
 
 #: latecancel.cpp:40
 msgctxt "@option:check"
@@ -3456,13 +3456,13 @@ msgstr ""
 "intervalul de timp specificat după ora de programare. Motive posibile pentru "
 "nedeclanșare sunt: sunteți delogat, X nu rulează sau <application>KAlarm</"
 "application> nu rulează.</para><para>Dacă nu este bifat, alarma va fi "
-"declanșată la prima ocazie după ora programată, indiferent de cît de tîrziu "
+"declanșată la prima ocazie după ora programată, indiferent de cât de târziu "
 "este.</para>"
 
 #: latecancel.cpp:77
 msgctxt "@option:check Cancel if late by 10 minutes"
 msgid "Cancel if late by"
-msgstr "Anulează dacă a întîrziat cu"
+msgstr "Anulează dacă a întârziat cu"
 
 #: latecancel.cpp:78
 #, fuzzy
@@ -3477,7 +3477,7 @@ msgid ""
 "cancellation period"
 msgstr ""
 "închide fereastra de alarmă în mod automat după expirarea perioadei de "
-"întîrziere"
+"întârziere"
 
 #: lib/filedialog.cpp:60
 msgctxt "@option:check"
@@ -3533,7 +3533,7 @@ msgstr "zile"
 #: lib/timeperiod.cpp:39
 msgctxt "@item:inlistbox Time units"
 msgid "weeks"
-msgstr "săptămîni"
+msgstr "săptămâni"
 
 #: lib/timespinbox.cpp:76
 msgctxt "@info:whatsthis"
@@ -3576,7 +3576,7 @@ msgstr "Copiere email pentru tine"
 
 #: main.cpp:61
 msgid "Beep when message is displayed"
-msgstr "Emite un sunet atunci cînd un mesaj este afișat"
+msgstr "Emite un sunet atunci când un mesaj este afișat"
 
 #: main.cpp:64
 msgid "Message background color (name or hex 0xRRGGBB)"
@@ -3608,7 +3608,7 @@ msgstr "Linia de comandă pentru a genera mesajul text al alarmei"
 
 #: main.cpp:76
 msgid "Display the alarm edit dialog to edit the specified alarm"
-msgstr "Afișează cîmpul de editare a alarmei pentru a edita alarma specificată"
+msgstr "Afișează câmpul de editare a alarmei pentru a edita alarma specificată"
 
 #: main.cpp:77
 #, fuzzy
@@ -3632,7 +3632,7 @@ msgstr "Afișează mesajul alarmei acum"
 
 #: main.cpp:81
 msgid "Display the alarm edit dialog, preset with a template"
-msgstr "Afișează cîmpul de editare a alarmei, presetat cu un șablon"
+msgstr "Afișează câmpul de editare a alarmei, presetat cu un șablon"
 
 #: main.cpp:83
 msgid "File to display"
@@ -3655,7 +3655,7 @@ msgstr "Arată alarma ca eveniment în Organizator"
 msgid "Cancel alarm if more than 'period' late when triggered"
 msgstr ""
 "Anulează alarma dacă a fost declanșată cu mai mult de o perioadă de "
-"întîrziere"
+"întârziere"
 
 #: main.cpp:92
 #, fuzzy
@@ -3694,11 +3694,11 @@ msgstr "Afișează memento-ul o dată, înainte sau după prima repetiție a ala
 
 #: main.cpp:106
 msgid "Number of times to repeat alarm (including initial occasion)"
-msgstr "Numărul de ori pentru a repeta alarma (incluzînd data inițială)"
+msgstr "Numărul de ori pentru a repeta alarma (incluzând data inițială)"
 
 #: main.cpp:108
 msgid "Speak the message when it is displayed"
-msgstr "Vorbește mesajul cînd este afișat"
+msgstr "Vorbește mesajul când este afișat"
 
 #: main.cpp:110
 msgid "Email subject line"
@@ -3727,7 +3727,7 @@ msgstr "Declanșează alarma cu ID-ul de eveniment specificat"
 #: main.cpp:119
 msgid "Repeat until time [[[yyyy-]mm-]dd-]hh:mm [TZ], or date yyyy-mm-dd [TZ]"
 msgstr ""
-"Repetă pînă la ora [[[aaaa-]ll-]zz-]oo:mm [TZ], sau data aaaa-ll-zz [TZ]"
+"Repetă până la ora [[[aaaa-]ll-]zz-]oo:mm [TZ], sau data aaaa-ll-zz [TZ]"
 
 #: main.cpp:121
 msgid "Volume to play audio file"
@@ -3756,7 +3756,7 @@ msgstr "&Afișează alarmele expirate"
 #: mainwindow.cpp:119
 msgctxt "@option:check"
 msgid "Show time until alarm"
-msgstr "Arată ora pînă la alarmă"
+msgstr "Arată ora până la alarmă"
 
 #: mainwindow.cpp:405
 #, fuzzy, kde-format
@@ -4043,7 +4043,7 @@ msgstr "Modifică alarma."
 #: messagewin.cpp:689
 msgctxt "@action:button"
 msgid "&Defer..."
-msgstr "&Amînă..."
+msgstr "&Amână..."
 
 #: messagewin.cpp:694
 msgctxt "@info:whatsthis"
@@ -4051,8 +4051,8 @@ msgid ""
 "<para>Defer the alarm until later.</para><para>You will be prompted to "
 "specify when the alarm should be redisplayed.</para>"
 msgstr ""
-"<para>Amînă alarma pînă mai tîrziu.</para><para>Vi se va solicita să "
-"specificați cînd ar trebui să fie reafișată alarma.</para>"
+"<para>Amână alarma până mai târziu.</para><para>Vi se va solicita să "
+"specificați când ar trebui să fie reafișată alarma.</para>"
 
 #: messagewin.cpp:709 sounddlg.cpp:466
 msgctxt "@info:tooltip"
@@ -4095,7 +4095,7 @@ msgstr "Azi"
 msgctxt "@info"
 msgid "Tomorrow"
 msgid_plural "in %1 days' time"
-msgstr[0] "Mîine"
+msgstr[0] "Mâine"
 msgstr[1] "în decurs de %1 zile"
 msgstr[2] "în decurs de %1 de zile"
 
@@ -4104,9 +4104,9 @@ msgstr[2] "în decurs de %1 de zile"
 msgctxt "@info"
 msgid "in 1 week's time"
 msgid_plural "in %1 weeks' time"
-msgstr[0] "în decurs de 1 săptămînă"
-msgstr[1] "în decurs de %1 săptămîni"
-msgstr[2] "în decurs de %1 de săptămîni"
+msgstr[0] "în decurs de 1 săptămână"
+msgstr[1] "în decurs de %1 săptămâni"
+msgstr[2] "în decurs de %1 de săptămâni"
 
 #: messagewin.cpp:914
 #, kde-format
@@ -4197,7 +4197,7 @@ msgstr ""
 msgctxt "@info"
 msgid "<para>Cannot defer alarm:</para><para>Alarm not found.</para>"
 msgstr ""
-"<para>Nu se poate amîna alarma:</para><para>Alarma nu a fost găsită.</para>"
+"<para>Nu se poate amâna alarma:</para><para>Alarma nu a fost găsită.</para>"
 
 #: newalarmaction.cpp:54
 #, fuzzy
@@ -4360,7 +4360,7 @@ msgid ""
 "intend to discontinue use of <application>KAlarm</application>.</para>"
 msgstr ""
 "<para>Deschide automat <application>KAlarm</application> de fiecare dată "
-"cînd porniți KDE.</para><para>Această opțiune ar trebui să fie întotdeauna "
+"când porniți KDE.</para><para>Această opțiune ar trebui să fie întotdeauna "
 "verificată dacă nu intenționați să întrerupeți utilizarea "
 "<application>KAlarm</application>.</para>"
 
@@ -4392,7 +4392,7 @@ msgstr "Confirmă ștergerea alarmelor"
 #: prefdlg.cpp:443
 msgctxt "@label:spinbox"
 msgid "Default defer time interval:"
-msgstr "Intervalul de timp de amînare implicit:"
+msgstr "Intervalul de timp de amânare implicit:"
 
 #: prefdlg.cpp:449
 msgctxt "@info:whatsthis"
@@ -4400,8 +4400,8 @@ msgid ""
 "Enter the default time interval (hours & minutes) to defer alarms, used by "
 "the Defer Alarm dialog."
 msgstr ""
-"Introduceți intervalul de timp implicit (ore & minute) pentru a amîna "
-"alarmele, folosite de cîmpul de amînare a alarmei."
+"Introduceți intervalul de timp implicit (ore & minute) pentru a amâna "
+"alarmele, folosite de câmpul de amânare a alarmei."
 
 #: prefdlg.cpp:454
 #, fuzzy
@@ -4415,7 +4415,7 @@ msgid ""
 "Choose which application to use when a command alarm is executed in a "
 "terminal window"
 msgstr ""
-"Alegeți ce aplicație să fie folosită atunci cînd o comandă de alarmă este "
+"Alegeți ce aplicație să fie folosită atunci când o comandă de alarmă este "
 "executată într-o fereastră terminal"
 
 #: prefdlg.cpp:482
@@ -4522,7 +4522,7 @@ msgstr "Ore de lucru"
 #: prefdlg.cpp:716
 msgctxt "@info:whatsthis"
 msgid "Check the days in the week which are work days"
-msgstr "Bifați zilele lucrătoare ale săptămînii"
+msgstr "Bifați zilele lucrătoare ale săptămânii"
 
 #: prefdlg.cpp:727
 msgctxt "@label:spinbox"
@@ -4539,14 +4539,14 @@ msgstr ""
 #: prefdlg.cpp:747
 msgctxt "@label:spinbox"
 msgid "Daily end time:"
-msgstr "Ora de sfîrșit zilnică:"
+msgstr "Ora de sfârșit zilnică:"
 
 #: prefdlg.cpp:754
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "<para>Enter the end time of the working day.</para><para>%1</para>"
 msgstr ""
-"<para>Introduceți ora de sfîrșit a unei zile de lucru.</para><para>%1</para>"
+"<para>Introduceți ora de sfârșit a unei zile de lucru.</para><para>%1</para>"
 
 #: prefdlg.cpp:759
 msgctxt "@title:group"
@@ -4607,7 +4607,7 @@ msgid ""
 "that archived alarms are always stored in the default archived alarm "
 "calendar.</para>"
 msgstr ""
-"<para>Cînd salvați o alarmă nouă sau un șablon de alarmă, întreabă pentru "
+"<para>Când salvați o alarmă nouă sau un șablon de alarmă, întreabă pentru "
 "care calendar se stochează, dacă există mai mult de un calendar activ.</"
 "para><para>Rețineți că alarmele arhivate sunt întotdeauna stocate în "
 "calendarul de alarmă arhivat implicit.</para>"
@@ -4649,7 +4649,7 @@ msgid ""
 "archived alarms should be stored."
 msgstr ""
 "Debifează pentru a stoca alarmele arhivate pe termen nelimitat. Bifează "
-"pentru a introduce cît de mult ar trebui alarmele arhivate să fie stocate."
+"pentru a introduce cât de mult ar trebui alarmele arhivate să fie stocate."
 
 #: prefdlg.cpp:913
 msgctxt "@action:button"
@@ -4755,7 +4755,7 @@ msgstr ""
 #: prefdlg.cpp:1033
 msgctxt "@option:check"
 msgid "Notify when remote emails are queued"
-msgstr "Anunță cînd email-urile îndepărtate sunt puse în așteptare"
+msgstr "Anunță când email-urile îndepărtate sunt puse în așteptare"
 
 #: prefdlg.cpp:1041
 msgctxt "@title:group"
@@ -4774,7 +4774,7 @@ msgid ""
 "alarms."
 msgstr ""
 "Adresa dumneavoastră de email, folosită pentru identificarea dumneavoastră "
-"ca și expeditor cînd se trimit alarme de tip email"
+"ca și expeditor când se trimit alarme de tip email"
 
 #: prefdlg.cpp:1068 prefdlg.cpp:1104
 #, fuzzy
@@ -4790,7 +4790,7 @@ msgid ""
 "as the sender when sending email alarms."
 msgstr ""
 "Bifați pentru a utiliza adresa de email stabilită în sistemul de setări KDE, "
-"pentru a fi identificați ca și expeditor cînd se trimite o alarmă de tip "
+"pentru a fi identificați ca și expeditor când se trimite o alarmă de tip "
 "email."
 
 #: prefdlg.cpp:1075
@@ -4981,7 +4981,7 @@ msgid ""
 "edit dialog."
 msgstr ""
 "Setarea implicită pentru fișierul de sunet <interface>%1</interface> din "
-"cîmpul de editare a alarmei."
+"câmpul de editare a alarmei."
 
 #: prefdlg.cpp:1382
 #, fuzzy
@@ -5001,7 +5001,7 @@ msgstr "Alegeți un fișier de sunet"
 msgctxt "@info:whatsthis"
 msgid "Enter the default sound file to use in the alarm edit dialog."
 msgstr ""
-"Introduceți fișierul sunet implicit pentru folosire în cîmpul de editare a "
+"Introduceți fișierul sunet implicit pentru folosire în câmpul de editare a "
 "alarmei."
 
 #: prefdlg.cpp:1396
@@ -5029,7 +5029,7 @@ msgid ""
 "You must enter a sound file when <interface>%1</interface> is selected as "
 "the default sound type"
 msgstr ""
-"Trebuie să introduceți un fișier de sunet cînd <interface>%1</interface> "
+"Trebuie să introduceți un fișier de sunet când <interface>%1</interface> "
 "este selectat ca tip de sunet implicit"
 
 #: prefdlg.cpp:1640
@@ -5192,12 +5192,12 @@ msgstr "Poziționează ferestrele departe de cursor"
 #: prefdlg.cpp:1805
 msgctxt "@option:radio"
 msgid "Center windows, delay activating window buttons"
-msgstr "Centrează ferestrele, întîrzie activarea butoanelor de fereastră"
+msgstr "Centrează ferestrele, întârzie activarea butoanelor de fereastră"
 
 #: prefdlg.cpp:1814
 msgctxt "@label:spinbox"
 msgid "Button activation delay (seconds):"
-msgstr "Activarea întîrzierii butonului (secunde):"
+msgstr "Activarea întârzierii butonului (secunde):"
 
 #: prefdlg.cpp:1821
 msgctxt "@info:whatsthis"
@@ -5205,7 +5205,7 @@ msgid ""
 "Enter how long its buttons should remain disabled after the alarm message "
 "window is shown."
 msgstr ""
-"Introduceți cît de mult trebuie să rămînă dezactivate butoanele lui după ce "
+"Introduceți cât de mult trebuie să rămână dezactivate butoanele lui după ce "
 "este afișată fereastra alarmei de tip mesaj."
 
 #: prefdlg.cpp:1827
@@ -5265,7 +5265,7 @@ msgstr "Zilnic"
 #: recurrenceedit.cpp:79
 msgctxt "@item:inlistbox Recurrence type"
 msgid "Weekly"
-msgstr "Săptămînal"
+msgstr "Săptămânal"
 
 #: recurrenceedit.cpp:80
 msgctxt "@item:inlistbox Recurrence type"
@@ -5308,35 +5308,35 @@ msgstr ""
 #| msgid "Repeat the alarm indefinitely"
 msgctxt "@info:whatsthis"
 msgid "Repeat the alarm at hourly/minutely intervals"
-msgstr "Repetă alarma la nesfîrșit"
+msgstr "Repetă alarma la nesfârșit"
 
 #: recurrenceedit.cpp:148
 #, fuzzy
 #| msgid "Repeat the alarm indefinitely"
 msgctxt "@info:whatsthis"
 msgid "Repeat the alarm at daily intervals"
-msgstr "Repetă alarma la nesfîrșit"
+msgstr "Repetă alarma la nesfârșit"
 
 #: recurrenceedit.cpp:155
 #, fuzzy
 #| msgid "Repeat the alarm indefinitely"
 msgctxt "@info:whatsthis"
 msgid "Repeat the alarm at weekly intervals"
-msgstr "Repetă alarma la nesfîrșit"
+msgstr "Repetă alarma la nesfârșit"
 
 #: recurrenceedit.cpp:162
 #, fuzzy
 #| msgid "Repeat the alarm indefinitely"
 msgctxt "@info:whatsthis"
 msgid "Repeat the alarm at monthly intervals"
-msgstr "Repetă alarma la nesfîrșit"
+msgstr "Repetă alarma la nesfârșit"
 
 #: recurrenceedit.cpp:169
 #, fuzzy
 #| msgid "Repeat the alarm indefinitely"
 msgctxt "@info:whatsthis"
 msgid "Repeat the alarm at annual intervals"
-msgstr "Repetă alarma la nesfîrșit"
+msgstr "Repetă alarma la nesfârșit"
 
 #: recurrenceedit.cpp:179
 msgctxt "@info:whatsthis"
@@ -5352,21 +5352,21 @@ msgstr ""
 #| msgid "Recurrence End"
 msgctxt "@title:group"
 msgid "Recurrence End"
-msgstr "Sfîrșit repetiție"
+msgstr "Sfârșit repetiție"
 
 #: recurrenceedit.cpp:236
 #, fuzzy
 #| msgid "No &end"
 msgctxt "@option:radio"
 msgid "No end"
-msgstr "Fără &sfîrșit"
+msgstr "Fără &sfârșit"
 
 #: recurrenceedit.cpp:239
 #, fuzzy
 #| msgid "Repeat the alarm indefinitely"
 msgctxt "@info:whatsthis"
 msgid "Repeat the alarm indefinitely"
-msgstr "Repetă alarma la nesfîrșit"
+msgstr "Repetă alarma la nesfârșit"
 
 #: recurrenceedit.cpp:247
 #, fuzzy
@@ -5395,7 +5395,7 @@ msgstr "repetiții"
 #: recurrenceedit.cpp:272
 msgctxt "@option:radio"
 msgid "End by:"
-msgstr "Sfîrșit:"
+msgstr "Sfârșit:"
 
 #: recurrenceedit.cpp:275
 msgctxt "@info:whatsthis"
@@ -5440,7 +5440,7 @@ msgid ""
 "Stop repeating the alarm after your first login on or after the specified "
 "end date"
 msgstr ""
-"Oprește repetarea alarmei după prima logare sau după data de sfîrșit "
+"Oprește repetarea alarmei după prima logare sau după data de sfârșit "
 "specificată"
 
 #: recurrenceedit.cpp:312
@@ -5513,7 +5513,7 @@ msgid ""
 "holiday region in the Configuration dialog.</para>"
 msgstr ""
 "<para>Nu declanșa alarma în vacanțe.</para><para>Puteți specifica regiunea "
-"vacanței dumneavoastră în cîmpul Configurare.</para>"
+"vacanței dumneavoastră în câmpul Configurare.</para>"
 
 #: recurrenceedit.cpp:376
 msgctxt "@option:check"
@@ -5534,12 +5534,12 @@ msgstr ""
 #: recurrenceedit.cpp:422
 msgctxt "@info"
 msgid "End date is earlier than start date"
-msgstr "Data de sfîrșit este mai devreme decît data de început"
+msgstr "Data de sfârșit este mai devreme decât data de început"
 
 #: recurrenceedit.cpp:423
 msgctxt "@info"
 msgid "End date/time is earlier than start date/time"
-msgstr "Data/ora de sfîrșit sunt mai devreme decît data/ora de început"
+msgstr "Data/ora de sfârșit sunt mai devreme decât data/ora de început"
 
 #: recurrenceedit.cpp:693
 #, fuzzy
@@ -5594,22 +5594,22 @@ msgstr "Introduceți numărul de zile dintre repetițiile alarmei"
 #: recurrenceedit.cpp:1315
 msgctxt "@info:whatsthis"
 msgid "Select the days of the week on which the alarm is allowed to occur"
-msgstr "Selectați zilele săptămînii în care alarma poate să apară"
+msgstr "Selectați zilele săptămânii în care alarma poate să apară"
 
 #: recurrenceedit.cpp:1326
 msgctxt "@label Time unit for user-entered number"
 msgid "week(s)"
-msgstr "săptămînă(i)"
+msgstr "săptămână(i)"
 
 #: recurrenceedit.cpp:1327
 msgctxt "@info:whatsthis"
 msgid "Enter the number of weeks between repetitions of the alarm"
-msgstr "Introduceți numărul de săptămîni între repetițiile alarmei"
+msgstr "Introduceți numărul de săptămâni între repetițiile alarmei"
 
 #: recurrenceedit.cpp:1328
 msgctxt "@info:whatsthis"
 msgid "Select the days of the week on which to repeat the alarm"
-msgstr "Selectați zilele săptămînii în care să se repete alarma"
+msgstr "Selectați zilele săptămânii în care să se repete alarma"
 
 #: recurrenceedit.cpp:1352
 #, fuzzy
@@ -5641,7 +5641,7 @@ msgstr "pe"
 msgctxt "@info:whatsthis"
 msgid ""
 "Repeat the alarm on one day of the week, in the selected week of the month"
-msgstr "Repetă alarma într-o zi a săptămînii, în săptămîna selectată a lunii."
+msgstr "Repetă alarma într-o zi a săptămânii, în săptămâna selectată a lunii."
 
 #: recurrenceedit.cpp:1392
 #, fuzzy
@@ -5702,12 +5702,12 @@ msgstr "În fiecare"
 #: recurrenceedit.cpp:1407
 msgctxt "@info:whatsthis"
 msgid "Select the week of the month in which to repeat the alarm"
-msgstr "Selectați săptămîna din lună în care să se repete alarma"
+msgstr "Selectați săptămâna din lună în care să se repete alarma"
 
 #: recurrenceedit.cpp:1423
 msgctxt "@info:whatsthis"
 msgid "Select the day of the week on which to repeat the alarm"
-msgstr "Selectați ziua săptămînii în care să se repete alarma"
+msgstr "Selectați ziua săptămânii în care să se repete alarma"
 
 #: recurrenceedit.cpp:1547
 msgctxt "@label Time unit for user-entered number"
@@ -5799,7 +5799,7 @@ msgstr "ulterior"
 msgctxt "@info:whatsthis"
 msgid "Display the reminder only for the first time the alarm is scheduled"
 msgstr ""
-"Afișează memento-ul numai pentru prima dată cînd alarma este programată"
+"Afișează memento-ul numai pentru prima dată când alarma este programată"
 
 #: repetitionbutton.cpp:83
 #, fuzzy
@@ -5855,7 +5855,7 @@ msgstr "Durata:"
 #: repetitionbutton.cpp:195
 msgctxt "@info:whatsthis"
 msgid "Check to specify how long the alarm is to be repeated"
-msgstr "Bifați pentru a specifica cît de mult trebuie să se repete alarma"
+msgstr "Bifați pentru a specifica cât de mult trebuie să se repete alarma"
 
 #: repetitionbutton.cpp:201
 msgctxt "@info:whatsthis"
@@ -6198,7 +6198,7 @@ msgid ""
 "If checked, the sound file will be played repeatedly for as long as the "
 "message is displayed."
 msgstr ""
-"Dacă este bifat, fișierul sunt va fi redat în mod repetat atîta timp cît "
+"Dacă este bifat, fișierul sunt va fi redat în mod repetat atâta timp cât "
 "este afișat mesajul."
 
 #: sounddlg.cpp:229
@@ -6216,7 +6216,7 @@ msgstr "secunde"
 #: sounddlg.cpp:241
 msgctxt "@info:whatsthis"
 msgid "Enter how many seconds to pause between repetitions."
-msgstr "Introduceți cîte secunde de pauză doriți între repetiții."
+msgstr "Introduceți câte secunde de pauză doriți între repetiții."
 
 #: sounddlg.cpp:245
 msgctxt "@title:group Sound volume"
@@ -6249,7 +6249,7 @@ msgstr "Decolorare"
 msgctxt "@info:whatsthis"
 msgid "Select to fade the volume when the sound file first starts to play."
 msgstr ""
-"Selectați pentru a se estompa volumul atunci cînd fișierul de sunt este "
+"Selectați pentru a se estompa volumul atunci când fișierul de sunt este "
 "redat pentru prima dată."
 
 #: sounddlg.cpp:288
@@ -6264,7 +6264,7 @@ msgctxt "@info:whatsthis"
 msgid ""
 "Enter how many seconds to fade the sound before reaching the set volume."
 msgstr ""
-"Introduceți cîte secunde să se estompeze sunetul înainte de a ajunge la "
+"Introduceți câte secunde să se estompeze sunetul înainte de a ajunge la "
 "volumul stabilit."
 
 #: sounddlg.cpp:307
@@ -6314,7 +6314,7 @@ msgstr "Alegeți un fișier de sunet"
 msgctxt "@info:whatsthis"
 msgid "Configure a sound file to play when the alarm is displayed."
 msgstr ""
-"Configurați un fișier de sunet pentru a fi redat cînd alarma este afișată."
+"Configurați un fișier de sunet pentru a fi redat când alarma este afișată."
 
 #: soundpicker.cpp:135
 #, kde-format
@@ -6790,7 +6790,7 @@ msgstr "&Afișează alarmele expirate"
 #. i18n: ectx: property (toolTip), widget (QPushButton, useWakeButton)
 #: wakedlg.ui:51
 msgid "Set highlighted alarm as the wake-from-suspend alarm"
-msgstr "Setează alarma evidențiată ca și alarma de tip trezire-din-întîrziere"
+msgstr "Setează alarma evidențiată ca și alarma de tip trezire-din-întârziere"
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, useWakeButton)
 #: wakedlg.ui:54
@@ -6867,7 +6867,7 @@ msgstr "Numărul de minute înainte ca alarma să se trezească din întrerupere
 
 #~ msgctxt "@option Name of the weekday"
 #~ msgid "Saturday"
-#~ msgstr "Sîmbătă"
+#~ msgstr "Sâmbătă"
 
 #~ msgctxt "@option Name of the weekday"
 #~ msgid "Sunday"
@@ -7192,9 +7192,9 @@ msgstr "Numărul de minute înainte ca alarma să se trezească din întrerupere
 #~ msgctxt "@info/plain"
 #~ msgid "1 Week"
 #~ msgid_plural "%1 Weeks"
-#~ msgstr[0] "1 săptămînă"
-#~ msgstr[1] "%1 săptămîni"
-#~ msgstr[2] "%1 de săptămîni"
+#~ msgstr[0] "1 săptămână"
+#~ msgstr[1] "%1 săptămâni"
+#~ msgstr[2] "%1 de săptămâni"
 
 #~ msgctxt "@info/plain"
 #~ msgid "1 Month"
@@ -7620,7 +7620,7 @@ msgstr "Numărul de minute înainte ca alarma să se trezească din întrerupere
 
 #~ msgctxt "@info"
 #~ msgid "Date cannot be later than %1"
-#~ msgstr "Data nu poate fi mai tîrziu de %1"
+#~ msgstr "Data nu poate fi mai târziu de %1"
 
 #~ msgctxt "@info/plain"
 #~ msgid "today"
@@ -7720,7 +7720,7 @@ msgstr "Numărul de minute înainte ca alarma să se trezească din întrerupere
 #~| msgid "Weeks"
 #~ msgctxt "@item:inlistbox"
 #~ msgid "Weeks"
-#~ msgstr "Săptămîni"
+#~ msgstr "Săptămâni"
 
 #~| msgid "Preferences"
 #~ msgctxt "@title:window"
@@ -7902,7 +7902,7 @@ msgstr "Numărul de minute înainte ca alarma să se trezească din întrerupere
 #~| msgid "Repeat the alarm indefinitely"
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Repeat the alarm until the date/time specified"
-#~ msgstr "Repetă alarma la nesfîrșit"
+#~ msgstr "Repetă alarma la nesfârșit"
 
 #, fuzzy
 #~ msgid ""
@@ -8144,7 +8144,7 @@ msgstr "Numărul de minute înainte ca alarma să se trezească din întrerupere
 #~ msgstr "&Zilnic"
 
 #~ msgid "&Weekly"
-#~ msgstr "&Săptămînal"
+#~ msgstr "&Săptămânal"
 
 #~ msgid "&Monthly"
 #~ msgstr "&Lunar"

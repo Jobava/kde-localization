@@ -2252,7 +2252,7 @@ msgstr "Argument „%1” repetat"
 #: shared/error.cpp:225
 #, kde-format
 msgid "Command \"%1\" violates command ordering constraints"
-msgstr "Comanda „%1” încalcă constrîngerile de ordine a comenzilor"
+msgstr "Comanda „%1” încalcă constrângerile de ordine a comenzilor"
 
 #: shared/error.cpp:230
 #, kde-format

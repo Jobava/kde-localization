@@ -150,7 +150,7 @@ msgstr "zi(le)"
 #: alarmdialog.cpp:265
 msgctxt "@item:inlistbox suspend in terms of weeks"
 msgid "week(s)"
-msgstr "săptămînă(i)"
+msgstr "săptămână(i)"
 
 #: alarmdialog.cpp:268
 msgctxt "@info:tooltip"

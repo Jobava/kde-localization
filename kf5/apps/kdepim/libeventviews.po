@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-15 10:32+0000\n"
+"POT-Creation-Date: 2015-09-26 08:58+0000\n"
 "PO-Revision-Date: 2011-01-09 12:23+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -75,17 +75,17 @@ msgstr "%1 - %2"
 msgid "- %1"
 msgstr "- %1"
 
-#: agenda/agendaview.cpp:1199
+#: agenda/agendaview.cpp:1198
 #, kde-format
 msgctxt "short_weekday date (e.g. Mon 13)"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: agenda/agendaview.cpp:1955
+#: agenda/agendaview.cpp:1954
 msgid "Unable to modify this to-do, because it cannot be locked."
 msgstr "Activitatea nu poate fi modificată, deoarece nu poate fi blocată."
 
-#: agenda/agendaview.cpp:1964
+#: agenda/agendaview.cpp:1963
 #, kde-format
 msgid "Unable to save %1 \"%2\"."
 msgstr "Imposibil de salvat %1 „%2”."
@@ -267,7 +267,7 @@ msgid ""
 "using the standard calendar."
 msgstr ""
 "Alegeți această opțiune pentru a înregistra întotdeauna noile evenimente, "
-"activități și înregistrări în jurnal utilizînd calendarul standard."
+"activități și înregistrări în jurnal utilizând calendarul standard."
 
 #. i18n: ectx: label, entry (Destination), group (Save Settings)
 #: eventviews.kcfg:70
@@ -389,7 +389,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Show items that recur weekly"
 msgid "Show items that recur daily"
-msgstr "Arată elementele care reapar săptămînal"
+msgstr "Arată elementele care reapar săptămânal"
 
 #. i18n: ectx: whatsthis, entry (DailyRecur), group (General View)
 #: eventviews.kcfg:136
@@ -402,7 +402,7 @@ msgstr ""
 #. i18n: ectx: label, entry (WeeklyRecur), group (General View)
 #: eventviews.kcfg:141
 msgid "Show items that recur weekly"
-msgstr "Arată elementele care reapar săptămînal"
+msgstr "Arată elementele care reapar săptămânal"
 
 #. i18n: ectx: whatsthis, entry (WeeklyRecur), group (General View)
 #: eventviews.kcfg:142
@@ -1226,7 +1226,7 @@ msgstr "Data și ora de început"
 
 #: list/listview.cpp:275
 msgid "End Date/Time"
-msgstr "Data și ora de sfîrșit"
+msgstr "Data și ora de sfârșit"
 
 #: list/listview.cpp:276 todo/todomodel.cpp:635
 msgid "Categories"
@@ -1304,7 +1304,7 @@ msgstr ""
 #| msgid "Go back one week"
 msgctxt "@info:tooltip"
 msgid "Go back one week"
-msgstr "Mergi înapoi cu o săptămînă"
+msgstr "Mergi înapoi cu o săptămână"
 
 #: month/monthview.cpp:205
 msgctxt "@info:whatsthis"
@@ -1316,7 +1316,7 @@ msgstr ""
 #| msgid "Go forward one week"
 msgctxt "@info:tooltip"
 msgid "Go forward one week"
-msgstr "Mergi înainte cu o săptămînă"
+msgstr "Mergi înainte cu o săptămână"
 
 #: month/monthview.cpp:215
 msgctxt "@info:whatsthis"
@@ -1394,7 +1394,7 @@ msgctxt "@action:inmenu Unspecified priority"
 msgid "unspecified"
 msgstr ""
 
-#: todo/tododelegates.cpp:201 todo/todoview.cpp:437
+#: todo/tododelegates.cpp:201 todo/todoview.cpp:436
 msgctxt "@action:inmenu highest priority"
 msgid "1 (highest)"
 msgstr ""
@@ -1414,7 +1414,7 @@ msgctxt "@action:inmenu"
 msgid "4"
 msgstr ""
 
-#: todo/tododelegates.cpp:205 todo/todoview.cpp:445
+#: todo/tododelegates.cpp:205 todo/todoview.cpp:444
 msgctxt "@action:inmenu medium priority"
 msgid "5 (medium)"
 msgstr ""
@@ -1434,7 +1434,7 @@ msgctxt "@action:inmenu"
 msgid "8"
 msgstr ""
 
-#: todo/tododelegates.cpp:209 todo/todoview.cpp:453
+#: todo/tododelegates.cpp:209 todo/todoview.cpp:452
 msgctxt "@action:inmenu lowest priority"
 msgid "9 (lowest)"
 msgstr ""
@@ -1487,7 +1487,7 @@ msgstr "Data și ora de început"
 #, fuzzy
 #| msgid "End Date/Time"
 msgid "Due Date"
-msgstr "Data și ora de sfîrșit"
+msgstr "Data și ora de sfârșit"
 
 #: todo/todomodel.cpp:637
 msgid "Description"
@@ -1501,22 +1501,22 @@ msgstr ""
 msgid "Drop To-do"
 msgstr ""
 
-#: todo/todoview.cpp:278
+#: todo/todoview.cpp:277
 msgctxt "@info:tooltip"
 msgid "Display to-do list in a full window"
 msgstr ""
 
-#: todo/todoview.cpp:281
+#: todo/todoview.cpp:280
 msgctxt "@info:whatsthis"
 msgid "Checking this option will cause the to-do view to use the full window."
 msgstr ""
 
-#: todo/todoview.cpp:288
+#: todo/todoview.cpp:287
 msgctxt "@info:tooltip"
 msgid "Display to-dos in flat list instead of a tree"
 msgstr ""
 
-#: todo/todoview.cpp:291
+#: todo/todoview.cpp:290
 msgctxt "@info:whatsthis"
 msgid ""
 "Checking this option will cause the to-dos to be displayed as a flat list "
@@ -1524,105 +1524,105 @@ msgid ""
 "the display."
 msgstr ""
 
-#: todo/todoview.cpp:329
+#: todo/todoview.cpp:328
 msgctxt "@action:inmenu show the to-do"
 msgid "&Show"
 msgstr ""
 
-#: todo/todoview.cpp:333
+#: todo/todoview.cpp:332
 msgctxt "@action:inmenu edit the to-do"
 msgid "&Edit..."
 msgstr ""
 
-#: todo/todoview.cpp:341
+#: todo/todoview.cpp:340
 msgctxt "@action:inmenu print the to-do"
 msgid "&Print..."
 msgstr ""
 
-#: todo/todoview.cpp:346
+#: todo/todoview.cpp:345
 msgctxt "@action:inmenu print preview the to-do"
 msgid "Print Previe&w..."
 msgstr ""
 
-#: todo/todoview.cpp:351
+#: todo/todoview.cpp:350
 msgctxt "@action:inmenu delete the to-do"
 msgid "&Delete"
 msgstr ""
 
-#: todo/todoview.cpp:361
+#: todo/todoview.cpp:360
 msgctxt "@action:inmenu create a new to-do"
 msgid "New &To-do..."
 msgstr ""
 
-#: todo/todoview.cpp:365
+#: todo/todoview.cpp:364
 msgctxt "@action:inmenu create a new sub-to-do"
 msgid "New Su&b-to-do..."
 msgstr ""
 
-#: todo/todoview.cpp:371
+#: todo/todoview.cpp:370
 msgctxt "@action:inmenu"
 msgid "&Make this To-do Independent"
 msgstr ""
 
-#: todo/todoview.cpp:376
+#: todo/todoview.cpp:375
 msgctxt "@action:inmenu"
 msgid "Make all Sub-to-dos &Independent"
 msgstr ""
 
-#: todo/todoview.cpp:388
+#: todo/todoview.cpp:387
 msgid "Create Event"
 msgstr ""
 
-#: todo/todoview.cpp:395
+#: todo/todoview.cpp:394
 msgid "Create Note"
 msgstr ""
 
-#: todo/todoview.cpp:408
+#: todo/todoview.cpp:407
 msgctxt "@title:menu"
 msgid "&Copy To"
 msgstr ""
 
-#: todo/todoview.cpp:419
+#: todo/todoview.cpp:418
 msgctxt "@title:menu"
 msgid "&Move To"
 msgstr ""
 
-#: todo/todoview.cpp:430
+#: todo/todoview.cpp:429
 msgctxt "@action:inmenu delete completed to-dos"
 msgid "Pur&ge Completed"
 msgstr ""
 
-#: todo/todoview.cpp:435
+#: todo/todoview.cpp:434
 msgctxt "@action:inmenu unspecified priority"
 msgid "unspecified"
 msgstr ""
 
-#: todo/todoview.cpp:439
+#: todo/todoview.cpp:438
 msgctxt "@action:inmenu priority value=2"
 msgid "2"
 msgstr ""
 
-#: todo/todoview.cpp:441
+#: todo/todoview.cpp:440
 msgctxt "@action:inmenu priority value=3"
 msgid "3"
 msgstr ""
 
-#: todo/todoview.cpp:443
+#: todo/todoview.cpp:442
 msgctxt "@action:inmenu priority value=4"
 msgid "4"
 msgstr ""
 
-#: todo/todoview.cpp:447
+#: todo/todoview.cpp:446
 msgctxt "@action:inmenu priority value=6"
 msgid "6"
 msgstr ""
 
-#: todo/todoview.cpp:449
+#: todo/todoview.cpp:448
 msgctxt "@action:inmenu priority value=7"
 msgid "7"
 msgstr ""
 
-#: todo/todoview.cpp:451
+#: todo/todoview.cpp:450
 msgctxt "@action:inmenu priority value=8"
 msgid "8"
 msgstr ""

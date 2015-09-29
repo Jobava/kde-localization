@@ -132,7 +132,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: prefs_base.ui:42
 msgid "Project age:"
-msgstr "Vîrsta proiectului:"
+msgstr "Vârsta proiectului:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #: prefs_base.ui:52
@@ -162,7 +162,7 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_val_time)
 #: prefs_base.ui:110
 msgid "Set the project age (in days)"
-msgstr "Stabilește vîrsta proiectului (în zile)"
+msgstr "Stabilește vârsta proiectului (în zile)"
 
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, kcfg_val_time)
 #: prefs_base.ui:113
@@ -182,7 +182,7 @@ msgstr "Afișează indicii pentru mesaje și grupează antetele"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoHideTabBarWithSingleTab)
 #: prefs_messagelist.ui:30
 msgid "Hide tab bar when only one tab is open"
-msgstr "Ascunde bara de file atunci cînd există numai o filă"
+msgstr "Ascunde bara de file atunci când există numai o filă"
 
 #. i18n: ectx: property (title), widget (QGroupBox, colorGroup)
 #: prefs_messagelist.ui:40
