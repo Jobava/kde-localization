@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-06 08:49+0000\n"
+"POT-Creation-Date: 2015-09-22 10:10+0000\n"
 "PO-Revision-Date: 2011-10-14 04:25+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -18,22 +18,22 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
 
-#: customtemplates.cpp:82 customtemplates.cpp:132
+#: customtemplates.cpp:82 customtemplates.cpp:136
 msgctxt "Message->"
 msgid "Universal"
 msgstr "Universal"
 
-#: customtemplates.cpp:83 customtemplates.cpp:138
+#: customtemplates.cpp:83 customtemplates.cpp:142
 msgctxt "Message->"
 msgid "Reply"
 msgstr "Răspunde"
 
-#: customtemplates.cpp:84 customtemplates.cpp:141
+#: customtemplates.cpp:84 customtemplates.cpp:145
 msgctxt "Message->"
 msgid "Reply to All"
 msgstr "Răspunde tuturor"
 
-#: customtemplates.cpp:85 customtemplates.cpp:144
+#: customtemplates.cpp:85 customtemplates.cpp:148
 msgctxt "Message->"
 msgid "Forward"
 msgstr "Înaintează"
@@ -56,28 +56,28 @@ msgid ""
 "templates.</p></qt>"
 msgstr ""
 
-#: customtemplates.cpp:147
+#: customtemplates.cpp:151
 msgctxt "Message->"
 msgid "Unknown"
 msgstr "Necunoscut"
 
-#: customtemplates.cpp:265
+#: customtemplates.cpp:269
 msgid "A template with same name already exists."
 msgstr ""
 
-#: customtemplates.cpp:266
+#: customtemplates.cpp:270
 #, fuzzy
 #| msgid "(no custom templates)"
 msgid "Cannot create template"
-msgstr "(nu sînt șabloane personalizate)"
+msgstr "(nu sunt șabloane personalizate)"
 
-#: customtemplates.cpp:363
+#: customtemplates.cpp:367
 #, kde-format
 msgctxt "@info"
 msgid "Do you really want to remove template \"%1\"?"
 msgstr ""
 
-#: customtemplates.cpp:364
+#: customtemplates.cpp:368
 msgctxt "@title:window"
 msgid "Remove Template?"
 msgstr ""
@@ -97,7 +97,7 @@ msgstr "Răspunde tuturor cu șablon personalizat"
 #: customtemplatesmenu.cpp:234 customtemplatesmenu.cpp:240
 #: customtemplatesmenu.cpp:246
 msgid "(no custom templates)"
-msgstr "(nu sînt șabloane personalizate)"
+msgstr "(nu sunt șabloane personalizate)"
 
 #: defaulttemplates.cpp:29
 msgid "Default new message template"
@@ -342,7 +342,7 @@ msgstr ""
 
 #: templatesinsertcommand.cpp:79 templatesinsertcommand.cpp:213
 msgid "Day of Week"
-msgstr "Ziua săptămînii"
+msgstr "Ziua săptămânii"
 
 #: templatesinsertcommand.cpp:84 templatesinsertcommand.cpp:218
 msgid "Time"
@@ -419,7 +419,7 @@ msgstr "Antete citate"
 
 #: templatesinsertcommand.cpp:174
 msgid "Headers as Is"
-msgstr "Antetele așa cum sînt"
+msgstr "Antetele așa cum sunt"
 
 #: templatesinsertcommand.cpp:179 templatesinsertcommand.cpp:297
 msgid "Header Content"
@@ -558,7 +558,7 @@ msgstr "Diverse"
 #| msgid "(no custom templates)"
 msgctxt "@info:tooltip"
 msgid "Enter a name for the custom template"
-msgstr "(nu sînt șabloane personalizate)"
+msgstr "(nu sunt șabloane personalizate)"
 
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, mName)
 #: ui/customtemplates_base.ui:62
@@ -574,7 +574,7 @@ msgstr ""
 #| msgid "(no custom templates)"
 msgctxt "@info:tooltip"
 msgid "Add a new custom template"
-msgstr "(nu sînt șabloane personalizate)"
+msgstr "(nu sunt șabloane personalizate)"
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, mAdd)
 #: ui/customtemplates_base.ui:72
@@ -622,7 +622,7 @@ msgstr ""
 #| msgid "(no custom templates)"
 msgctxt "@info:tooltip"
 msgid "List of custom templates available"
-msgstr "(nu sînt șabloane personalizate)"
+msgstr "(nu sunt șabloane personalizate)"
 
 #. i18n: ectx: property (whatsThis), widget (QTreeWidget, mList)
 #: ui/customtemplates_base.ui:110
@@ -699,7 +699,7 @@ msgstr ""
 #| msgid "(no custom templates)"
 msgctxt "@info:tooltip"
 msgid "The custom template"
-msgstr "(nu sînt șabloane personalizate)"
+msgstr "(nu sunt șabloane personalizate)"
 
 #. i18n: ectx: property (whatsThis), widget (TemplateParser::TemplatesTextEdit, mEdit)
 #: ui/customtemplates_base.ui:219

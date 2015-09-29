@@ -22,7 +22,7 @@ msgstr ""
 #, fuzzy
 msgctxt "@title:window"
 msgid "Archive/Delete Past Events and To-dos"
-msgstr "Arhivează/Șterge întîlniri vechi"
+msgstr "Arhivează/Șterge întâlniri vechi"
 
 #: archivedialog.cpp:70
 msgctxt "@action:button"
@@ -124,7 +124,7 @@ msgstr "Zile"
 #: archivedialog.cpp:179
 msgctxt "@item:inlistbox expiration in weekly units"
 msgid "Week(s)"
-msgstr "Săptămîni"
+msgstr "Săptămâni"
 
 #: archivedialog.cpp:181
 msgctxt "@item:inlistbox expiration in monthly units"
@@ -272,7 +272,7 @@ msgstr ""
 #: categoryconfig.cpp:33
 msgctxt "incidence category: appointment"
 msgid "Appointment"
-msgstr "Întîlnire"
+msgstr "Întâlnire"
 
 #: categoryconfig.cpp:34
 msgctxt "incidence category"
@@ -479,7 +479,7 @@ msgstr "Data și ora de început"
 #: kcalmodel.cpp:197
 msgctxt "@title:column, calendar event end date and time"
 msgid "End date and time"
-msgstr "Data și ora de sfîrșit"
+msgstr "Data și ora de sfârșit"
 
 #: kcalmodel.cpp:199
 msgctxt "@title:column, calendar event type"
@@ -503,7 +503,7 @@ msgstr ""
 #: kcalprefs.kcfg:25
 #, fuzzy
 msgid "Default appointment time"
-msgstr "Ora implicită pentru întîlnire:"
+msgstr "Ora implicită pentru întâlnire:"
 
 #. i18n: ectx: whatsthis, entry (StartTime), group (Default Datetimes)
 #: kcalprefs.kcfg:26
@@ -516,7 +516,7 @@ msgstr ""
 #: kcalprefs.kcfg:31
 #, fuzzy
 msgid "Default duration of new appointment (HH:MM)"
-msgstr "Durata implicită a unei întîlniri:"
+msgstr "Durata implicită a unei întâlniri:"
 
 #. i18n: ectx: whatsthis, entry (DefaultDuration), group (Default Datetimes)
 #: kcalprefs.kcfg:32
@@ -591,7 +591,7 @@ msgstr ""
 #: kcalprefs.kcfg:63
 #, fuzzy
 msgid "Default reminder time"
-msgstr "Ora implicită pentru întîlnire:"
+msgstr "Ora implicită pentru întâlnire:"
 
 #. i18n: ectx: whatsthis, entry (ReminderTime), group (Default Datetimes)
 #: kcalprefs.kcfg:64
@@ -604,7 +604,7 @@ msgstr ""
 #: kcalprefs.kcfg:65
 #, fuzzy
 msgid "Default time for reminders"
-msgstr "Ora implicită pentru întîlnire:"
+msgstr "Ora implicită pentru întâlnire:"
 
 #. i18n: ectx: whatsthis, entry (ReminderTimeUnits), group (Default Datetimes)
 #: kcalprefs.kcfg:70
@@ -724,7 +724,7 @@ msgstr "În zile"
 #. i18n: ectx: label, entry (ExpiryUnit), group (Archive Dialog)
 #: kcalprefs.kcfg:151
 msgid "In weeks"
-msgstr "În săptămîni"
+msgstr "În săptămâni"
 
 #. i18n: ectx: label, entry (ExpiryUnit), group (Archive Dialog)
 #: kcalprefs.kcfg:154
@@ -945,7 +945,7 @@ msgstr ""
 #: printing/calprintweekconfig_base.ui:103
 #, fuzzy
 msgid "End ti&me:"
-msgstr "Timp de sfîrșit"
+msgstr "Timp de sfârșit"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, mIncludeAllEvents)
 #: printing/calprintdayconfig_base.ui:186
@@ -1564,7 +1564,7 @@ msgstr "%1 %2"
 #, kde-format
 msgctxt "date from - to (week number)"
 msgid "%1 - %2 (Week %3)"
-msgstr "%1 - %2 (săptămîna %3)"
+msgstr "%1 - %2 (săptămâna %3)"
 
 #: printing/calprintdefaultplugins.cpp:1150
 #, kde-format
@@ -1576,7 +1576,7 @@ msgid ""
 "%2 (Week %3)"
 msgstr ""
 "%1 -\n"
-"%2 (săptămîna %3)"
+"%2 (săptămâna %3)"
 
 #: printing/calprintdefaultplugins.cpp:1347
 #, kde-format
@@ -1605,7 +1605,7 @@ msgstr "Data și ora de început"
 #| msgid "Due Date and Time"
 msgctxt "@option sort by due date/time"
 msgid "Due Date"
-msgstr "Data și ora de sfîrșit"
+msgstr "Data și ora de sfârșit"
 
 #: printing/calprintdefaultplugins.cpp:1458
 #, fuzzy
@@ -1688,7 +1688,7 @@ msgstr ""
 #, fuzzy
 #| msgid "In weeks"
 msgid "Print &week"
-msgstr "În săptămîni"
+msgstr "În săptămâni"
 
 #: printing/calprintdefaultplugins.h:160
 msgid "Prints all events of one week on one page"
@@ -2717,7 +2717,7 @@ msgstr "atașament.1"
 
 #~ msgctxt "@title:column calendar event end date and time"
 #~ msgid "End Date and Time"
-#~ msgstr "Data și ora de sfîrșit"
+#~ msgstr "Data și ora de sfârșit"
 
 #~ msgctxt "@title:column calendar event type"
 #~ msgid "Type"

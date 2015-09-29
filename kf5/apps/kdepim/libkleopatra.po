@@ -338,7 +338,7 @@ msgstr "Întreabă"
 
 #: kleo/enum.cpp:174 kleo/enum.cpp:231
 msgid "Ask Whenever Possible"
-msgstr "Întreabă oricînd se poate"
+msgstr "Întreabă oricând se poate"
 
 #: kleo/enum.cpp:176
 msgctxt "no specific preference"
@@ -710,7 +710,7 @@ msgstr "Toate celelalte"
 
 #: ui/dnattributeorderconfigwidget.cpp:131
 msgid "Move to top"
-msgstr "Mută în vîrf"
+msgstr "Mută în vârf"
 
 #: ui/dnattributeorderconfigwidget.cpp:132
 msgid "Move one up"

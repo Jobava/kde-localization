@@ -24,11 +24,11 @@ msgstr "Configurează"
 
 #: sendlaterconfiguredialog.cpp:57
 msgid "Send Later Agent"
-msgstr "Agent de trimitere mai tîrziu"
+msgstr "Agent de trimitere mai târziu"
 
 #: sendlaterconfiguredialog.cpp:59
 msgid "Send emails later agent."
-msgstr "Agent de trimitere mai tîrziu a emailurilor."
+msgstr "Agent de trimitere mai târziu a emailurilor."
 
 #: sendlaterconfiguredialog.cpp:61
 #, fuzzy
@@ -171,21 +171,21 @@ msgstr "Șterge"
 #~| msgid "Send Later"
 #~ msgctxt "@title:window"
 #~ msgid "Send Later"
-#~ msgstr "Trimite mai tîrziu"
+#~ msgstr "Trimite mai târziu"
 
 #, fuzzy
 #~| msgid "Send Later"
 #~ msgid "Send Later"
-#~ msgstr "Trimite mai tîrziu"
+#~ msgstr "Trimite mai târziu"
 
 #~ msgid "Delay"
-#~ msgstr "Întîrziere"
+#~ msgstr "Întârziere"
 
 #~ msgid "Days"
 #~ msgstr "Zile"
 
 #~ msgid "Weeks"
-#~ msgstr "Săptămîni"
+#~ msgstr "Săptămâni"
 
 #~ msgid "Months"
 #~ msgstr "Luni"
@@ -205,4 +205,4 @@ msgstr "Șterge"
 #, fuzzy
 #~| msgid "Send Later"
 #~ msgid "SendLater"
-#~ msgstr "Trimite mai tîrziu"
+#~ msgstr "Trimite mai târziu"

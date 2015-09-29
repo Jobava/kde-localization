@@ -422,7 +422,7 @@ msgstr "Tăiat"
 
 #: knoteedit.cpp:84
 msgid "Align Left"
-msgstr "Aliniază la stînga"
+msgstr "Aliniază la stânga"
 
 #: knoteedit.cpp:90
 msgid "Align Center"

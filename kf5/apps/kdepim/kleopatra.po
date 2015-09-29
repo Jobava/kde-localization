@@ -2976,7 +2976,7 @@ msgstr "Desfășoară toate"
 #. i18n: ectx: property (text), widget (QPushButton, collapseAllCertificationsPB)
 #: dialogs/certificatedetailsdialog.ui:239 view/tabwidget.cpp:483
 msgid "Collapse All"
-msgstr "Restrînge toate"
+msgstr "Restrânge toate"
 
 #. i18n: ectx: attribute (title), widget (QWidget, detailsTab)
 #. i18n: ectx: attribute (title), widget (QWidget, technicalTab)
@@ -4100,7 +4100,7 @@ msgstr "Valabil din"
 #: models/keylistmodel.cpp:267 models/subkeylistmodel.cpp:169
 #: models/useridlistmodel.cpp:285
 msgid "Valid Until"
-msgstr "Valabil pînă la"
+msgstr "Valabil până la"
 
 #: models/keylistmodel.cpp:269 utils/formatting.cpp:353
 #, fuzzy
@@ -6219,7 +6219,7 @@ msgstr "Închide această filă"
 
 #: view/tabwidget.cpp:467
 msgid "Move Tab Left"
-msgstr "Mută fila la stînga"
+msgstr "Mută fila la stânga"
 
 #: view/tabwidget.cpp:471
 msgid "Move Tab Right"

@@ -620,7 +620,7 @@ msgstr "Exportă date de contact într-un fişier GMX."
 #: mainwidget.cpp:708
 #, fuzzy
 msgid "Merge Contacts..."
-msgstr "Toate cîmpurile de contact"
+msgstr "Toate câmpurile de contact"
 
 #: mainwidget.cpp:712
 #, fuzzy
@@ -870,7 +870,7 @@ msgstr "Aspect"
 #. i18n: ectx: property (title), widget (QGroupBox, gbFields)
 #: printing/compact/compactstyle.ui:26
 msgid "Fields"
-msgstr "Cîmpuri"
+msgstr "Câmpuri"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithHomeAddress)
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithHomeAddress)
@@ -1221,7 +1221,7 @@ msgstr "Stilul de indosariere cu inele - Aspect"
 
 #: printing/ringbinder/ringbinderstyle.cpp:169
 msgid "Setting up fields"
-msgstr "&Configurări de cîmp"
+msgstr "&Configurări de câmp"
 
 #: printing/ringbinder/ringbinderstyle.cpp:237
 msgid "Printout for Ring Binders"
@@ -1432,7 +1432,7 @@ msgstr "Firmâ"
 #| msgid "Select the field you want to remove:"
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a comma"
-msgstr "Alegeți cîmpul de eliminat:"
+msgstr "Alegeți câmpul de eliminat:"
 
 #: xxport/csv/csvimportdialog.cpp:329
 msgctxt "@info:whatsthis"
@@ -1450,7 +1450,7 @@ msgstr "Punct și virgulă"
 #| msgid "Select the field you want to remove:"
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a semicolon"
-msgstr "Alegeți cîmpul de eliminat:"
+msgstr "Alegeți câmpul de eliminat:"
 
 #: xxport/csv/csvimportdialog.cpp:339
 msgctxt "@info:whatsthis"
@@ -1847,14 +1847,14 @@ msgstr ""
 #| msgid "Business fields"
 msgctxt "@option:check"
 msgid "Business fields"
-msgstr "Cîmpuri de afaceri"
+msgstr "Câmpuri de afaceri"
 
 #: xxport/vcard/vcardexportselectionwidget.cpp:51
 #, fuzzy
 #| msgid "Business fields"
 msgctxt "@info:tooltip"
 msgid "Export business fields"
-msgstr "Cîmpuri de afaceri"
+msgstr "Câmpuri de afaceri"
 
 #: xxport/vcard/vcardexportselectionwidget.cpp:54
 msgctxt "@info:whatsthis"
@@ -1868,14 +1868,14 @@ msgstr ""
 #| msgid "Other fields"
 msgctxt "@option:check"
 msgid "Other fields"
-msgstr "Alte cîmpuri"
+msgstr "Alte câmpuri"
 
 #: xxport/vcard/vcardexportselectionwidget.cpp:60
 #, fuzzy
 #| msgid "Other fields"
 msgctxt "@info:tooltip"
 msgid "Export other fields"
-msgstr "Alte cîmpuri"
+msgstr "Alte câmpuri"
 
 #: xxport/vcard/vcardexportselectionwidget.cpp:63
 msgctxt "@info:whatsthis"
@@ -1991,8 +1991,8 @@ msgstr "Importați contacte"
 msgid "Importing one contact to %2"
 msgid_plural "Importing %1 contacts to %2"
 msgstr[0] "Importarea persoanei de contact %1 la %2"
-msgstr[1] "Importarea tuturor cîmpurilor de contact de la %1 la %2"
-msgstr[2] "Importarea tuturor cîmpurilor de contact de la %1 la %2"
+msgstr[1] "Importarea tuturor câmpurilor de contact de la %1 la %2"
+msgstr[2] "Importarea tuturor câmpurilor de contact de la %1 la %2"
 
 #: xxport/xxportmanager.cpp:192
 msgid "Which contact do you want to export?"
@@ -2012,7 +2012,7 @@ msgstr "Nu ați selectat nici un contact la export."
 
 #, fuzzy
 #~ msgid "Merged Contact"
-#~ msgstr "Toate cîmpurile de contact"
+#~ msgstr "Toate câmpurile de contact"
 
 #, fuzzy
 #~| msgctxt "@label"
@@ -2022,13 +2022,13 @@ msgstr "Nu ați selectat nici un contact la export."
 
 #, fuzzy
 #~ msgid "Merge contact"
-#~ msgstr "Toate cîmpurile de contact"
+#~ msgstr "Toate câmpurile de contact"
 
 #, fuzzy
 #~| msgid "Select vCard Fields"
 #~ msgctxt "@title:window"
 #~ msgid "Select vCard Fields"
-#~ msgstr "Selectați Cîmpurile"
+#~ msgstr "Selectați Câmpurile"
 
 #, fuzzy
 #~| msgid "Select Contacts"
@@ -2311,7 +2311,7 @@ msgstr "Nu ați selectat nici un contact la export."
 
 #, fuzzy
 #~ msgid "Import Contacts from LDAP"
-#~ msgstr "Toate cîmpurile de contact"
+#~ msgstr "Toate câmpurile de contact"
 
 #~ msgid "Search for:"
 #~ msgstr "Caută după:"
@@ -2714,7 +2714,7 @@ msgstr "Nu ați selectat nici un contact la export."
 
 #, fuzzy
 #~ msgid "Family"
-#~ msgstr "Cîmp nume"
+#~ msgstr "Câmp nume"
 
 #, fuzzy
 #~ msgid "Birthdate:"
@@ -2733,7 +2733,7 @@ msgstr "Nu ați selectat nici un contact la export."
 #~ msgstr "Editează contact"
 
 #~ msgid "Custom Fields"
-#~ msgstr "Cîmpuri personalizate"
+#~ msgstr "Câmpuri personalizate"
 
 #~ msgid "Shows contact editor with given email address"
 #~ msgstr "Afișează editorul de contacte cu adresa de email dată"
@@ -2805,7 +2805,7 @@ msgstr "Nu ați selectat nici un contact la export."
 #~ msgstr "Tip vizualizare"
 
 #~ msgid "Add Field"
-#~ msgstr "Adaugă cîmp"
+#~ msgstr "Adaugă câmp"
 
 #~ msgid "Type:"
 #~ msgstr "Tip:"
@@ -2826,13 +2826,13 @@ msgstr "Nu ați selectat nici un contact la export."
 #~ msgstr "Dată și oră"
 
 #~ msgid "Remove Field"
-#~ msgstr "Elimină cîmpul"
+#~ msgstr "Elimină câmpul"
 
 #~ msgid "Add Field..."
-#~ msgstr "Adăugare cîmp..."
+#~ msgstr "Adăugare câmp..."
 
 #~ msgid "Remove Field..."
-#~ msgstr "Eliminare cîmp..."
+#~ msgstr "Eliminare câmp..."
 
 #~ msgid "Edit Distribution List"
 #~ msgstr "Editează lista de distribuție"
@@ -2954,10 +2954,10 @@ msgstr "Nu ați selectat nici un contact la export."
 #~ msgstr "î&n:"
 
 #~ msgid "Visible Fields"
-#~ msgstr "Cîmpuri vizibile"
+#~ msgstr "Câmpuri vizibile"
 
 #~ msgid "All Fields"
-#~ msgstr "Toate cîmpurile"
+#~ msgstr "Toate câmpurile"
 
 #~ msgid "Don Sanders"
 #~ msgstr "Don Sanders"
@@ -3236,11 +3236,11 @@ msgstr "Nu ați selectat nici un contact la export."
 #~ msgstr[2] "&Listă de distribuție..."
 
 #~ msgid "Select Fields to Display"
-#~ msgstr "Selectați cîmpurile de afișat"
+#~ msgstr "Selectați câmpurile de afișat"
 
 #, fuzzy
 #~ msgid "&Selected fields:"
-#~ msgstr "Cîmpurile selectate"
+#~ msgstr "Câmpurile selectate"
 
 #, fuzzy
 #~ msgid "Use filter:"
@@ -3394,7 +3394,7 @@ msgstr "Nu ați selectat nici un contact la export."
 
 #, fuzzy
 #~ msgid "Choose..."
-#~ msgstr "&Selectează cîmpuri..."
+#~ msgstr "&Selectează câmpuri..."
 
 #, fuzzy
 #~ msgid "&Header font:"
@@ -3817,7 +3817,7 @@ msgstr "Nu ați selectat nici un contact la export."
 #~ msgstr "Kuweit"
 
 #~ msgid "Kyrgyzstan"
-#~ msgstr "Kîrgîzstan"
+#~ msgstr "Kârgâzstan"
 
 #~ msgid "Laos"
 #~ msgstr "Laos"
@@ -3997,13 +3997,13 @@ msgstr "Nu ați selectat nici un contact la export."
 #~ msgstr "Ruanda"
 
 #~ msgid "St. Kitts and Nevis"
-#~ msgstr "Sfîntul Kitts și Nevis"
+#~ msgstr "Sfântul Kitts și Nevis"
 
 #~ msgid "St. Lucia"
-#~ msgstr "Sfînta Lucia"
+#~ msgstr "Sfânta Lucia"
 
 #~ msgid "St. Vincent and the Grenadines"
-#~ msgstr "Sfîntul Vincent și Grenadierii"
+#~ msgstr "Sfântul Vincent și Grenadierii"
 
 #~ msgid "San Marino"
 #~ msgstr "San Marino"

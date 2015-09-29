@@ -207,7 +207,7 @@ msgstr "Zile"
 
 #: widgets/unitcombobox.cpp:25
 msgid "Weeks"
-msgstr "Săptămîni"
+msgstr "Săptămâni"
 
 #: widgets/unitcombobox.cpp:26
 msgid "Months"

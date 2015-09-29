@@ -132,7 +132,7 @@ msgstr "Container Kontact"
 
 #: src/aboutdialog.cpp:93
 msgid "No about information available."
-msgstr "Nu sînt informații disponibile."
+msgstr "Nu sunt informații disponibile."
 
 #: src/aboutdialog.cpp:102
 #, kde-format
@@ -797,7 +797,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ msgctxt "@info"
 #~ msgid "To print notes, first select the notes to print from the list."
 #~ msgstr ""
-#~ "Pentru a tipări notițe, alegeți mai întîi notițele de tipărit din listă."
+#~ "Pentru a tipări notițe, alegeți mai întâi notițele de tipărit din listă."
 
 #, fuzzy
 #~| msgid "Print Popup Notes"
@@ -965,7 +965,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ msgstr "Configurare Sumar evenimente"
 
 #~ msgid "Show Upcoming Events Starting"
-#~ msgstr "Arată evenimentele apropiate începînd"
+#~ msgstr "Arată evenimentele apropiate începând"
 
 #~ msgid "Show events for today only"
 #~ msgstr "Arată numai evenimentele pentru azi"
@@ -978,7 +978,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ msgstr "Numai as&tăzi"
 
 #~ msgid "Show events starting within the next month"
-#~ msgstr "Arată evenimentele începînd în luna viitoare"
+#~ msgstr "Arată evenimentele începând în luna viitoare"
 
 #~ msgid "Within the next &month (31 days)"
 #~ msgstr "În cursul lunii &viitoare (31 de zile)"
@@ -1012,14 +1012,14 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ msgstr "Configurări colaborare"
 
 #~ msgid "Show events belonging to my calendars only"
-#~ msgstr "Arată numai evenimente aparținînd calendarelor mele"
+#~ msgstr "Arată numai evenimente aparținând calendarelor mele"
 
 #~ msgid ""
 #~ "Check this box if you want the summary to show events belonging to your "
 #~ "calendars only."
 #~ msgstr ""
 #~ "Bifați această casetă dacă doriți ca sumarul să arate numai evenimentele "
-#~ "aparținînd calendarelor dumneavoastră."
+#~ "aparținând calendarelor dumneavoastră."
 
 #~ msgid "Show &my events only"
 #~ msgstr "Arată numai evenimentele &mele"
@@ -1029,15 +1029,15 @@ msgstr "Pregătește Kontact pentru utilizare"
 
 #~ msgid "No upcoming events starting within the next day"
 #~ msgid_plural "No upcoming events starting within the next %1 days"
-#~ msgstr[0] "Nu sînt evenimente apropiate ce încep în ziua următoare"
-#~ msgstr[1] "Nu sînt evenimente apropiate ce încep în următoarele %1 zile"
-#~ msgstr[2] "Nu sînt evenimente apropiate ce încep în următoarele %1 de zile"
+#~ msgstr[0] "Nu sunt evenimente apropiate ce încep în ziua următoare"
+#~ msgstr[1] "Nu sunt evenimente apropiate ce încep în următoarele %1 zile"
+#~ msgstr[2] "Nu sunt evenimente apropiate ce încep în următoarele %1 de zile"
 
 #~ msgid "&Edit Appointment..."
-#~ msgstr "&Editare întîlnire..."
+#~ msgstr "&Editare întâlnire..."
 
 #~ msgid "&Delete Appointment"
-#~ msgstr "Ș&terge întîlnirea"
+#~ msgstr "Ș&terge întâlnirea"
 
 #~ msgid "Edit Event: \"%1\""
 #~ msgstr "Editare eveniment: „%1”"
@@ -1100,7 +1100,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 
 #~ msgctxt "the appointment is tomorrow"
 #~ msgid "Tomorrow"
-#~ msgstr "Mîine"
+#~ msgstr "Mâine"
 
 #~ msgid "in 1 day"
 #~ msgid_plural "in %1 days"
@@ -1185,7 +1185,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~| msgid "No special dates within the next 1 day"
 #~| msgid_plural "No special dates pending within the next %1 days"
 #~ msgid "Show To-dos due within the next month"
-#~ msgstr "Nu sînt zile speciale în ziua următoare"
+#~ msgstr "Nu sunt zile speciale în ziua următoare"
 
 #~ msgid "Hide Following To-do Types"
 #~ msgstr "Ascunde următoarele tipuri de activități"
@@ -1216,7 +1216,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ msgstr "Î&n curs (începute dar neterminate)"
 
 #~ msgid "Show To-dos belonging to my calendars only"
-#~ msgstr "Arată numai activitățile aparținînd calendarelor mele"
+#~ msgstr "Arată numai activitățile aparținând calendarelor mele"
 
 #~ msgid "Show &my To-dos only"
 #~ msgstr "Arată numai activitățile &mele"
@@ -1230,7 +1230,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 
 #~ msgctxt "the to-do is due tomorrow"
 #~ msgid "Tomorrow"
-#~ msgstr "Mîine"
+#~ msgstr "Mâine"
 
 #~ msgid "1 day ago"
 #~ msgid_plural "%1 days ago"
@@ -1284,7 +1284,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ msgstr "Configurare Sumar zile speciale"
 
 #~ msgid "Show Special Dates Starting"
-#~ msgstr "Arată datele speciale începînd"
+#~ msgstr "Arată datele speciale începând"
 
 #~ msgid "Show special occasions for today only"
 #~ msgstr "Arată ocazii deosebite numai pentru azi"
@@ -1296,7 +1296,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ "Bifați dacă doriți să vedeți numai ocaziile deosebite de pe această dată."
 
 #~ msgid "Show special occasions starting within the next month"
-#~ msgstr "Arată ocaziile deosebite începînd în luna viitoare"
+#~ msgstr "Arată ocaziile deosebite începând în luna viitoare"
 
 #~ msgid "Select the days for showing upcoming special occasions"
 #~ msgstr "Alegeți zilele pentru afișarea ocaziilor deosebite apropiate"
@@ -1317,7 +1317,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ "\"Birthday\" category."
 #~ msgstr ""
 #~ "Activați această opțiune pentru a include zilele de naștere din calendar "
-#~ "în sumarul ocaziilor deosebite apropiate. În mod normal, acestea sînt "
+#~ "în sumarul ocaziilor deosebite apropiate. În mod normal, acestea sunt "
 #~ "evenimente cu categoria „Zi de naștere”."
 
 #~ msgid "Show anniversaries from your calendar"
@@ -1329,7 +1329,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ "\"Anniversary\" category."
 #~ msgstr ""
 #~ "Activați această opțiune pentru a include aniversările din calendar în "
-#~ "sumarul ocaziilor deosebite apropiate. În mod normal, acestea sînt "
+#~ "sumarul ocaziilor deosebite apropiate. În mod normal, acestea sunt "
 #~ "evenimente cu categoria „Aniversare”."
 
 #~ msgid "Show holidays from your calendar"
@@ -1341,7 +1341,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ "region, or events with the \"Holiday\" category."
 #~ msgstr ""
 #~ "Activați această opțiune pentru a include sărbătorile din calendar în "
-#~ "sumarul ocaziilor deosebite apropiate. Acestea sînt evenimente din "
+#~ "sumarul ocaziilor deosebite apropiate. Acestea sunt evenimente din "
 #~ "regiunea de sărbători configurată de dumneavoastră, sau evenimente cu "
 #~ "categoria „Sărbătoare”."
 
@@ -1399,7 +1399,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 
 #~ msgctxt "the special day is tomorrow"
 #~ msgid "Tomorrow"
-#~ msgstr "Mîine"
+#~ msgstr "Mâine"
 
 #~ msgid "Birthday"
 #~ msgstr "Zi de naștere"
@@ -1421,9 +1421,9 @@ msgstr "Pregătește Kontact pentru utilizare"
 
 #~ msgid "No special dates within the next 1 day"
 #~ msgid_plural "No special dates pending within the next %1 days"
-#~ msgstr[0] "Nu sînt zile speciale în ziua următoare"
-#~ msgstr[1] "Nu sînt zile speciale în următoarele %1 zile"
-#~ msgstr[2] "Nu sînt zile speciale în următoarele %1 de zile"
+#~ msgstr[0] "Nu sunt zile speciale în ziua următoare"
+#~ msgstr[1] "Nu sunt zile speciale în următoarele %1 zile"
+#~ msgstr[2] "Nu sunt zile speciale în următoarele %1 de zile"
 
 #~ msgid "Send &Mail"
 #~ msgstr "Tri&mite poșta"
@@ -1585,16 +1585,16 @@ msgstr "Pregătește Kontact pentru utilizare"
 
 #~ msgctxt "tomorrow"
 #~ msgid "Tomorrow"
-#~ msgstr "Mîine"
+#~ msgstr "Mâine"
 
 #~ msgid "No appointments pending within the next day"
 #~ msgid_plural "No appointments pending within the next %1 days"
-#~ msgstr[0] "Nu sînt întîlniri ce încep în ziua următoare"
-#~ msgstr[1] "Nu sînt întîlniri ce încep în următoarele %1 zile"
-#~ msgstr[2] "Nu sînt întîlniri ce încep în următoarele %1 de zile"
+#~ msgstr[0] "Nu sunt întâlniri ce încep în ziua următoare"
+#~ msgstr[1] "Nu sunt întâlniri ce încep în următoarele %1 zile"
+#~ msgstr[2] "Nu sunt întâlniri ce încep în următoarele %1 de zile"
 
 #~ msgid "Edit Appointment: \"%1\""
-#~ msgstr "Editare întîlnire: „%1”"
+#~ msgstr "Editare întâlnire: „%1”"
 
 #~ msgctxt "work on to-do is in progress"
 #~ msgid "in progress"
@@ -1629,13 +1629,13 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ msgstr "Configurare generală"
 
 #~ msgid "Show an icon indicating a recurring item"
-#~ msgstr "Arată o pictogramă indicînd un element recurent"
+#~ msgstr "Arată o pictogramă indicând un element recurent"
 
 #~ msgid "Show recurrence icon"
 #~ msgstr "Arată pictograma de recurență"
 
 #~ msgid "Show an icon indicating the item has a reminder"
-#~ msgstr "Arată o pictogramă indicînd că elementul are memento"
+#~ msgstr "Arată o pictogramă indicând că elementul are memento"
 
 #~ msgid "Show reminder icon"
 #~ msgstr "Arată pictograma de reamintire"
@@ -1739,7 +1739,7 @@ msgstr "Pregătește Kontact pentru utilizare"
 #~ "with the \"Holiday\" category."
 #~ msgstr ""
 #~ "Activați această opțiune pentru a include sărbătorile din calendar în "
-#~ "sumarul planificatorului. Acestea sînt evenimente din regiunea de "
+#~ "sumarul planificatorului. Acestea sunt evenimente din regiunea de "
 #~ "sărbători configurată de dumneavoastră, sau evenimente cu categoria "
 #~ "„Sărbătoare”."
 

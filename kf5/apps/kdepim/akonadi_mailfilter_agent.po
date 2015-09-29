@@ -32,7 +32,7 @@ msgid ""
 "data is collected and shown only when logging is turned on. "
 msgstr ""
 "Aici puteți activa și dezactiva înregistrarea în jurnal a activității "
-"filtrelor. Desigur, datele jurnalului sînt colectate și afișate numai cînd "
+"filtrelor. Desigur, datele jurnalului sunt colectate și afișate numai când "
 "jurnalizarea e activată. "
 
 #: filterlogdialog.cpp:105
@@ -57,7 +57,7 @@ msgid ""
 "given."
 msgstr ""
 "Puteți controla feedback-ul din jurnal referitor la evaluarea regulilor de "
-"filtrare ale filtrelor aplicate: avînd această opțiune bifată va furniza "
+"filtrare ale filtrelor aplicate: având această opțiune bifată va furniza "
 "feedback detaliat pentru fiecare regulă de filtrare în parte; altfel, va fi "
 "furnizat numai feedback-ul despre rezultatul evaluării tuturor regulilor "
 "unui singur filtru."
@@ -94,7 +94,7 @@ msgstr ""
 "Colectarea datelor folosește memorie pentru a stoca temporar datele "
 "jurnalului. Aici puteți limita cantitatea maximă de memorie de folosit: dacă "
 "dimensiunea datelor de jurnal colectate depășește această limită, atunci "
-"cele mai vechi date vor fi aruncate pînă nu se mai depășește limita. "
+"cele mai vechi date vor fi aruncate până nu se mai depășește limita. "
 
 #: filterlogdialog.cpp:357
 #, kde-format

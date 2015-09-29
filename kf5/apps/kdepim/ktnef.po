@@ -50,7 +50,7 @@ msgstr "Atribute TNEF"
 #: attachpropertydialog.cpp:175
 msgctxt "@info"
 msgid "Must select an item first."
-msgstr "Trebuie să alegeți un element mai întîi."
+msgstr "Trebuie să alegeți un element mai întâi."
 
 #: attachpropertydialog.cpp:184
 msgctxt "@info"
