@@ -81,7 +81,7 @@ msgstr "Alimentat de acumulator scăzut"
 #~ "profiles, by tweaking existing ones or creating new ones."
 #~ msgstr ""
 #~ "Din acest modul puteți controla profilurile sistemului KDE de gestiune a "
-#~ "alimentării, ajustînd pe cele existente și creînd altele noi."
+#~ "alimentării, ajustând pe cele existente și creând altele noi."
 
 #~ msgid "Dario Freddi"
 #~ msgstr "Dario Freddi"

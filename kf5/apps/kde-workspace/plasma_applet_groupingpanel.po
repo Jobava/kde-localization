@@ -28,11 +28,11 @@ msgstr "Adaugă coloană nouă"
 
 #: groupingpanel.cpp:118 groupingpanel.cpp:384
 msgid "Add A New Row"
-msgstr "Adaugă rînd nou"
+msgstr "Adaugă rând nou"
 
 #: groupingpanel.cpp:385 groupingpanel.cpp:447
 msgid "Remove This Row"
-msgstr "Elimină acest rînd"
+msgstr "Elimină acest rând"
 
 #: groupingpanel.cpp:395 groupingpanel.cpp:445
 msgid "Remove This Column"

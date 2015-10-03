@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: networkmanagement_openvpnui\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-29 08:00+0000\n"
+"POT-Creation-Date: 2015-10-01 08:44+0000\n"
 "PO-Revision-Date: 2014-03-26 12:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -20,45 +20,45 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
 
-#: contents/ui/ConnectionItem.qml:145
+#: contents/ui/ConnectionItem.qml:146
 msgid "Connect"
 msgstr "Conectează"
 
-#: contents/ui/ConnectionItem.qml:145
+#: contents/ui/ConnectionItem.qml:146
 msgid "Disconnect"
 msgstr "Deconectează"
 
-#: contents/ui/ConnectionItem.qml:196
+#: contents/ui/ConnectionItem.qml:197
 msgid "Speed"
 msgstr "Viteză"
 
-#: contents/ui/ConnectionItem.qml:201
+#: contents/ui/ConnectionItem.qml:202
 msgid "Details"
 msgstr "Detalii"
 
-#: contents/ui/ConnectionItem.qml:323
+#: contents/ui/ConnectionItem.qml:324
 msgid "Download"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:338
+#: contents/ui/ConnectionItem.qml:339
 msgid "Upload"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:396
+#: contents/ui/ConnectionItem.qml:397
 msgid "Password..."
 msgstr "Parolă..."
 
-#: contents/ui/ConnectionItem.qml:423
+#: contents/ui/ConnectionItem.qml:424
 msgid "Show password"
 msgstr "Arată parola"
 
-#: contents/ui/ConnectionItem.qml:508
+#: contents/ui/ConnectionItem.qml:509
 #, kde-format
 msgid ""
 "Connected, <font color='%1'>⬇</font> %2/s, <font color='%3'>⬆</font> %4/s"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:514
+#: contents/ui/ConnectionItem.qml:515
 msgid "Connected"
 msgstr "Conectat"
 
@@ -1176,7 +1176,7 @@ msgstr "Configurează notificările..."
 #~ msgstr "Bandă de frecvență mobilă"
 
 #~ msgid "First select the SSID"
-#~ msgstr "Mai întîi alegeți SSID-ul"
+#~ msgstr "Mai întâi alegeți SSID-ul"
 
 #~ msgctxt "Mobile Connection Wizard"
 #~ msgid "New Mobile Broadband Connection"
@@ -1298,7 +1298,7 @@ msgstr "Configurează notificările..."
 #~ "Atenție: Alegerea unui plan greșit poate provoca dificultăți de taxare "
 #~ "pentru contul dumneavoastră sau poate împiedica conectarea.\n"
 #~ "\n"
-#~ "Dacă nu sînteți sigur, cereți operatorului să vă spună APN-ul "
+#~ "Dacă nu sunteți sigur, cereți operatorului să vă spună APN-ul "
 #~ "abonamentului dumneavoastră."
 
 #~ msgctxt "Mobile Connection Wizard"
@@ -1772,7 +1772,7 @@ msgstr "Configurează notificările..."
 #~ msgstr "Biți de oprire"
 
 #~ msgid "Send delay"
-#~ msgstr "Întîrziere trimitere"
+#~ msgstr "Întârziere trimitere"
 
 #~ msgid "Service Type"
 #~ msgstr "Tip serviciu"
@@ -2375,7 +2375,7 @@ msgstr "Configurează notificările..."
 #~ "driver) or Ad-hoc. Also read https://bugs.kde.org/show_bug.cgi?id=311705."
 #~ msgstr ""
 #~ "Regimul de infrastructură este configurarea cea mai comună. Pentru a "
-#~ "forma o rețea fără fir peer-to-peer cu alt calculator atunci cînd nu "
+#~ "forma o rețea fără fir peer-to-peer cu alt calculator atunci când nu "
 #~ "există infrastructură, alegeți Ad-hoc."
 
 #~ msgid "Infrastructure"
@@ -2393,7 +2393,7 @@ msgstr "Configurează notificările..."
 #~ msgid ""
 #~ "b/g is the most common band around 2.4 GHz. Less common is a at 5 GHz."
 #~ msgstr ""
-#~ "b/g este cea mai utilizată bandă în jur de 2.4 GHz. Mai rar întîlnită "
+#~ "b/g este cea mai utilizată bandă în jur de 2.4 GHz. Mai rar întâlnită "
 #~ "este la 5 GHz."
 
 #~ msgctxt "like in use Automatic configuration"
@@ -3302,13 +3302,13 @@ msgstr "Configurează notificările..."
 #~ msgstr "<b>Afișaj</b>"
 
 #~ msgid "Show network interfaces using:"
-#~ msgstr "Arată interfețele de rețea utilizînd:"
+#~ msgstr "Arată interfețele de rețea utilizând:"
 
 #~ msgid "Type Name"
 #~ msgstr "Denumirea tipului"
 
 #~ msgid "Vendor's Name"
-#~ msgstr "Denumire vînzător"
+#~ msgstr "Denumire vânzător"
 
 #~ msgid "Display settings as:"
 #~ msgstr "Arată opțiunile ca:"
@@ -3946,7 +3946,7 @@ msgstr "Configurează notificările..."
 #~ msgstr "Grup DH 2"
 
 #~ msgid "&Vendor:"
-#~ msgstr "&Vînzător:"
+#~ msgstr "&Vânzător:"
 
 #~ msgid "Cisco (default)"
 #~ msgstr "Cisco (implicit)"
@@ -3977,7 +3977,7 @@ msgstr "Configurează notificările..."
 
 #~ msgctxt "wireless network operation mode"
 #~ msgid "Master"
-#~ msgstr "Stăpîn"
+#~ msgstr "Stăpân"
 
 #~ msgctxt "wireless network operation mode"
 #~ msgid "Repeater"

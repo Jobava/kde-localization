@@ -222,7 +222,7 @@ msgstr "Amsterdam"
 #: plugin/timezonesi18n.cpp:70
 msgctxt "This is a city associated with particular time zone"
 msgid "Anadyr"
-msgstr "Anadîr"
+msgstr "Anadâr"
 
 #: plugin/timezonesi18n.cpp:71
 msgctxt "This is a city associated with particular time zone"
@@ -3144,14 +3144,14 @@ msgctxt ""
 "This is a country name associated with a particular time zone in a zone "
 "selection dialog"
 msgid "Saint Kitts And Nevis"
-msgstr "Sfîntul Kitts și Nevis"
+msgstr "Sfântul Kitts și Nevis"
 
 #: plugin/timezonesi18n.cpp:617
 msgctxt ""
 "This is a country name associated with a particular time zone in a zone "
 "selection dialog"
 msgid "Saint Lucia"
-msgstr "Sfînta Lucia"
+msgstr "Sfânta Lucia"
 
 #: plugin/timezonesi18n.cpp:618
 msgctxt ""
@@ -3166,7 +3166,7 @@ msgctxt ""
 "This is a country name associated with a particular time zone in a zone "
 "selection dialog"
 msgid "Saint Vincent And The Grenadines"
-msgstr "Sfîntul Vincent și Grenadine"
+msgstr "Sfântul Vincent și Grenadine"
 
 #: plugin/timezonesi18n.cpp:620
 msgctxt ""
@@ -3280,7 +3280,7 @@ msgctxt ""
 "This is a country name associated with a particular time zone in a zone "
 "selection dialog"
 msgid "Kyrgyzstan"
-msgstr "Kîrgîzstan"
+msgstr "Kârgâzstan"
 
 #: plugin/timezonesi18n.cpp:636
 msgctxt ""
@@ -3604,7 +3604,7 @@ msgctxt ""
 "This is a country name associated with a particular time zone in a zone "
 "selection dialog"
 msgid "Saint Helena"
-msgstr "Sfînta Elena"
+msgstr "Sfânta Elena"
 
 #: plugin/timezonesi18n.cpp:682
 msgctxt ""

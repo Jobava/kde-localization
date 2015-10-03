@@ -147,7 +147,7 @@ msgstr "Număr procese în repaus"
 
 #: SensorManager.cpp:96
 msgid "Running Processes Count"
-msgstr "Număr procese rulînd"
+msgstr "Număr procese rulând"
 
 #: SensorManager.cpp:97
 msgid "Sleeping Processes Count"
@@ -163,7 +163,7 @@ msgstr "Număr procese zombi"
 
 #: SensorManager.cpp:100
 msgid "Waiting Processes Count"
-msgstr "Număr procese așteptînd"
+msgstr "Număr procese așteptând"
 
 #: SensorManager.cpp:101
 msgid "Locked Processes Count"

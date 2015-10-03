@@ -132,7 +132,7 @@ msgstr "Desfășoară toate categoriile"
 
 #: sidepanel.cpp:109
 msgid "Collapse All Categories"
-msgstr "Restrînge toate categoriile"
+msgstr "Restrânge toate categoriile"
 
 #~ msgid "%1  ( %2 )"
 #~ msgstr "%1  ( %2 )"
@@ -301,7 +301,7 @@ msgstr "Restrînge toate categoriile"
 #~ msgstr "Denumire sunet"
 
 #~ msgid "Vendor"
-#~ msgstr "Vînzător"
+#~ msgstr "Vânzător"
 
 #~ msgid "Alib Version"
 #~ msgstr "Versiune Alib"
@@ -310,7 +310,7 @@ msgstr "Restrînge toate categoriile"
 #~ msgstr "Revizie protocol"
 
 #~ msgid "Vendor Number"
-#~ msgstr "Număr vînzător"
+#~ msgstr "Număr vânzător"
 
 #~ msgid "Release"
 #~ msgstr "Ediție"
@@ -355,13 +355,13 @@ msgstr "Restrînge toate categoriile"
 #~ msgstr "Mono-Auxiliar"
 
 #~ msgid "Left-Microphone"
-#~ msgstr "Stîng-Microfon"
+#~ msgstr "Stâng-Microfon"
 
 #~ msgid "Right-Microphone"
 #~ msgstr "Drept-Microfon"
 
 #~ msgid "Left-Auxiliary"
-#~ msgstr "Stîng-Auxiliar"
+#~ msgstr "Stâng-Auxiliar"
 
 #~ msgid "Right-Auxiliary"
 #~ msgstr "Drept-Auxiliar"
@@ -373,7 +373,7 @@ msgstr "Restrînge toate categoriile"
 #~ msgstr "Mono-Canal"
 
 #~ msgid "Left-Channel"
-#~ msgstr "Stîng-Canal"
+#~ msgstr "Stâng-Canal"
 
 #~ msgid "Right-Channel"
 #~ msgstr "Drept-Canal"
@@ -388,13 +388,13 @@ msgstr "Restrînge toate categoriile"
 #~ msgstr "Mono-Mufă"
 
 #~ msgid "Left-InternalSpeaker"
-#~ msgstr "Stîng-DifuzorIntern"
+#~ msgstr "Stâng-DifuzorIntern"
 
 #~ msgid "Right-InternalSpeaker"
 #~ msgstr "Drept-DifuzorIntern"
 
 #~ msgid "Left-Jack"
-#~ msgstr "Stîng-Mufă"
+#~ msgstr "Stâng-Mufă"
 
 #~ msgid "Right-Jack"
 #~ msgstr "Drept-Mufă"
@@ -592,13 +592,13 @@ msgstr "Restrînge toate categoriile"
 #~ msgstr "Rezoluție"
 
 #~ msgid "Depths (%1)"
-#~ msgstr "Adîncimi (%1)"
+#~ msgstr "Adâncimi (%1)"
 
 #~ msgid "Root Window ID"
 #~ msgstr "Id. ferestrei rădăcină"
 
 #~ msgid "Depth of Root Window"
-#~ msgstr "Adîncimea ferestrei rădăcină"
+#~ msgstr "Adâncimea ferestrei rădăcină"
 
 #~ msgid "%1 plane"
 #~ msgid_plural "%1 planes"
@@ -654,10 +654,10 @@ msgstr "Restrînge toate categoriile"
 #~ msgstr "Denumirea afișajului"
 
 #~ msgid "Vendor String"
-#~ msgstr "Șir vînzător"
+#~ msgstr "Șir vânzător"
 
 #~ msgid "Vendor Release Number"
-#~ msgstr "Număr ediție vînzător"
+#~ msgstr "Număr ediție vânzător"
 
 #~ msgid "Version Number"
 #~ msgstr "Număr versiune"
@@ -713,7 +713,7 @@ msgstr "Restrînge toate categoriile"
 #~ "module. Use the \"Search\" tab if you are unsure where to look for a "
 #~ "particular configuration option."
 #~ msgstr ""
-#~ "Dați clic pe fila „Ajutor” din stînga pentru a vedea textele de ajutor "
+#~ "Dați clic pe fila „Ajutor” din stânga pentru a vedea textele de ajutor "
 #~ "pentru modulul de control activ. Dacă nu știți ce anume să căutați pentru "
 #~ "o anumită opțiune de configurare, utilizați fila „Căutare”."
 

@@ -58,7 +58,7 @@ msgid ""
 "have to file a bug report.</note>"
 msgstr ""
 "<note>Nu este o problemă dacă închideți acest dialog. Dacă nu doriți, nu "
-"sînteți obligat să trimiteți un raport de eroare.</note>"
+"sunteți obligat să trimiteți un raport de eroare.</note>"
 
 #: aboutbugreportingdialog.cpp:57
 msgctxt "@info/rich"
@@ -67,7 +67,7 @@ msgid ""
 "the crash and your system. (You may also need to install some debug "
 "packages.)"
 msgstr ""
-"Pentru a genera un raport de eroare util, avem nevoie de cîteva informații "
+"Pentru a genera un raport de eroare util, avem nevoie de câteva informații "
 "despre prăbușire și sistemul dumneavoastră. (Ar putea fi nevoie să instalați "
 "niște pachete de depanare.)"
 
@@ -87,7 +87,7 @@ msgstr ""
 "Acest asistent vă va ghida prin procesul de raportare a prăbușirilor pentru "
 "sistemul de urmărire a defecțiunilor KDE. Toată informația introdusă în "
 "raportul de eroare <strong>trebuie să fie în engleză</strong>, dacă se "
-"poate, întrucît KDE este dezvoltat internațional."
+"poate, întrucât KDE este dezvoltat internațional."
 
 #: aboutbugreportingdialog.cpp:71 aboutbugreportingdialog.cpp:174
 #: bugzillaintegration/reportassistantdialog.cpp:84
@@ -101,7 +101,7 @@ msgid ""
 "In this page you need to describe how much do you know about the desktop and "
 "the application state before it crashed."
 msgstr ""
-"În această pagină trebuie să descrieți cît de multe cunoașteți despre starea "
+"În această pagină trebuie să descrieți cât de multe cunoașteți despre starea "
 "mediului de birou și a aplicației înainte de prăbușire."
 
 #: aboutbugreportingdialog.cpp:76
@@ -111,9 +111,9 @@ msgid ""
 "and what you were doing when the application crashed (this information is "
 "going to be requested later.) You can mention: "
 msgstr ""
-"Dacă puteți, descrieți cît mai detaliat posibil circumstanțele prăbușirii și "
-"ce făceați cînd aplicația s-a prăbușit (de această informație va fi nevoie "
-"mai tîrziu). Puteți menționa: "
+"Dacă puteți, descrieți cât mai detaliat posibil circumstanțele prăbușirii și "
+"ce făceați când aplicația s-a prăbușit (de această informație va fi nevoie "
+"mai târziu). Puteți menționa: "
 
 #: aboutbugreportingdialog.cpp:79
 msgctxt "@info/rich crash situation example"
@@ -128,7 +128,7 @@ msgid ""
 "to the report)"
 msgstr ""
 "documentele sau imaginile pe care le utilizați și tipul/formatul acestora "
-"(mai tîrziu, dacă veți vedea raportul în sistemul de urmărire a "
+"(mai târziu, dacă veți vedea raportul în sistemul de urmărire a "
 "defecțiunilor, puteți atașa un fișier la raport)"
 
 #: aboutbugreportingdialog.cpp:84
@@ -196,7 +196,7 @@ msgid ""
 "are useful at <link>%1</link>"
 msgstr ""
 "Puteți afla mai multe informații despre backtrace, ce înseamnă aceasta și în "
-"ce mod sînt utile la <link>%1</link>"
+"ce mod sunt utile la <link>%1</link>"
 
 #: aboutbugreportingdialog.cpp:105
 msgctxt "@info/rich"
@@ -219,7 +219,7 @@ msgid ""
 "previous page, the assistant will tell you if the crash is worth reporting "
 "or not."
 msgstr ""
-"Utilizînd calitatea informațiilor adunate despre prăbușire, precum și "
+"Utilizând calitatea informațiilor adunate despre prăbușire, precum și "
 "răspunsurile dumneavoastră de pe pagina precedentă, asistentul vă va spune "
 "dacă prăbușirea merită să fie raportată sau nu."
 
@@ -243,7 +243,7 @@ msgid ""
 "information and download debug packages."
 msgstr ""
 "Dacă prăbușirea este determinată ca 'nu merită raportată' și credeți că "
-"asistentul a greșit puteți totuși să raportați eroarea conectîndu-vă la "
+"asistentul a greșit puteți totuși să raportați eroarea conectându-vă la "
 "sistemul de urmărire a defecțiunilor. Puteți de asemenea să vă întoarceți la "
 "pașii anteriori să schimbați informațiile date și să descărcați pachetele de "
 "depanare."
@@ -263,7 +263,7 @@ msgid ""
 "<link>%1</link>"
 msgstr ""
 "Ar putea fi nevoie să vă contactăm în viitor pentru a vă cere informații "
-"suplimentare. Întrucît trebuie să ducem evidența rapoartelor de eroare, "
+"suplimentare. Întrucât trebuie să ducem evidența rapoartelor de eroare, "
 "trebuie să aveți un cont în sistemul de urmărire a defecțiunilor KDE. Dacă "
 "nu aveți unul, îl puteți crea aici: <link>%1</link>"
 
@@ -275,7 +275,7 @@ msgid ""
 msgstr ""
 "Apoi, introduceți utilizatorul și parola dumneavoastră și apăsați butonul "
 "Autentificare. Puteți folosi această autentificare pentru a accesa direct "
-"sistemul de urmărire a defecțiunilor KDE mai tîrziu."
+"sistemul de urmărire a defecțiunilor KDE mai târziu."
 
 #: aboutbugreportingdialog.cpp:137
 msgctxt "@info/rich"
@@ -287,7 +287,7 @@ msgid ""
 msgstr ""
 "Este posibilă apariția dialogului KWallet la apăsarea butonului "
 "Autentificare pentru a vă salva parola în sistemul KWallet. De asemenea veți "
-"fi întrebat de parola KWallet la încărcarea cîmpurilor de autentificare cu "
+"fi întrebat de parola KWallet la încărcarea câmpurilor de autentificare cu "
 "completare automată în cazul în care veți folosi acest asistent din nou."
 
 #: aboutbugreportingdialog.cpp:144
@@ -304,10 +304,10 @@ msgid ""
 "information so you can check to see if they are similar. "
 msgstr ""
 "Această pagină va căuta în sistemul de urmărire a defecțiunilor după "
-"rapoarte similare, care sînt posibile duplicate ale erorii dumneavoastră. "
+"rapoarte similare, care sunt posibile duplicate ale erorii dumneavoastră. "
 "Dacă se găsesc rapoarte similare, puteți face dublu-clic pe ele pentru a "
 "vedea detalii. Apoi citiți informația actuală a raportului de eroare pentru "
-"a vedea dacă sînt similare."
+"a vedea dacă sunt similare."
 
 #: aboutbugreportingdialog.cpp:152
 msgctxt "@info/rich"
@@ -315,7 +315,7 @@ msgid ""
 "If you are very sure your bug is the same as another that is previously "
 "reported, you can set your information to be attached to the existing report."
 msgstr ""
-"Dacă sînteți foarte sigur că eroarea dumneavoastră este identică alteia deja "
+"Dacă sunteți foarte sigur că eroarea dumneavoastră este identică alteia deja "
 "raportate, puteți opta ca informația dumneavoastră să fie atașată la "
 "raportul existent."
 
@@ -327,7 +327,7 @@ msgid ""
 "usually the safest thing to do. We cannot uncombine bug reports, but we can "
 "easily merge them."
 msgstr ""
-"Dacă nu sînteți sigur dacă rapoartele coincid, urmați opțiunile principale "
+"Dacă nu sunteți sigur dacă rapoartele coincid, urmați opțiunile principale "
 "pentru a marca problema dumneavoastră ca o posibilă repetare a acelui "
 "raport. Aceasta este de obicei cea mai sigură cale. Nu putem de-combina "
 "rapoartele de eroare, dar le putem combina cu ușurință."
@@ -353,7 +353,7 @@ msgid ""
 msgstr ""
 "Dacă nu găsiți niciun raport asemănător, informația dumneavoastră nu este "
 "destul de utilă, și chiar nu puteți oferi informații suplimentare despre "
-"contextul erorii, atunci este mai bine să nu raportați eroarea, închizînd "
+"contextul erorii, atunci este mai bine să nu raportați eroarea, închizând "
 "asistentul."
 
 #: aboutbugreportingdialog.cpp:169
@@ -368,7 +368,7 @@ msgid ""
 "as best you can. "
 msgstr ""
 "În acest caz trebuie să scrieți un titlu și o descriere a prăbușirii. "
-"Explicați cît de bine puteți. "
+"Explicați cât de bine puteți. "
 
 #: aboutbugreportingdialog.cpp:175
 msgctxt "@info/rich"
@@ -422,7 +422,7 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:194
 msgctxt "@info/rich"
 msgid "Thank you for being part of KDE!"
-msgstr "Vă mulțumim că sînteți parte din KDE!"
+msgstr "Vă mulțumim că sunteți parte din KDE!"
 
 #: aboutbugreportingdialog.cpp:195
 msgctxt "@info/rich"
@@ -434,7 +434,7 @@ msgid ""
 msgstr ""
 "Dacă doriți să ne ajutați să păstrăm sistemul de urmărire a defecțiunilor "
 "KDE curat și util, ceea ce permite dezvoltatorilor să se concentreze asupra "
-"rezolvării problemelor reale, sînteți binevenit <link url='http://techbase."
+"rezolvării problemelor reale, sunteți binevenit <link url='http://techbase."
 "kde.org/Contribute/Bugsquad'>să vă alăturați echipei BugSquad</link>."
 
 #: applicationdetailsexamples.cpp:34
@@ -444,8 +444,8 @@ msgid ""
 "desktop settings (wallpaper plugin, themes), activities, and dashboard "
 "configuration."
 msgstr ""
-"Controale pe care le aveți pe biroul dumneavoastră și pe panouri (atît "
-"oficiale cît și neoficiale), setări ale biroului (modul ecran de fundal, "
+"Controale pe care le aveți pe biroul dumneavoastră și pe panouri (atât "
+"oficiale cât și neoficiale), setări ale biroului (modul ecran de fundal, "
 "teme), activități și configurarea tabloului de bord."
 
 #: applicationdetailsexamples.cpp:38
@@ -482,7 +482,7 @@ msgid ""
 "(official and unofficial)."
 msgstr ""
 "Protocoalele de mesagerie instantă pe care le folosiți și modulele pe care "
-"le-ați instalat (atît cele oficiale cît și cele neoficiale)."
+"le-ați instalat (atât cele oficiale cât și cele neoficiale)."
 
 #: applicationdetailsexamples.cpp:53
 msgctxt "@info examples about information the user can provide"
@@ -545,7 +545,7 @@ msgid ""
 msgstr ""
 "Folosiți acest buton pentru a salva informațiile despre prăbușire "
 "(backtrace) într-un fișier. Această acțiune este utilă dacă doriți să "
-"verificați informațiile sau să trimiteți raportul de eroare mai tîrziu."
+"verificați informațiile sau să trimiteți raportul de eroare mai târziu."
 
 #: backtracewidget.cpp:109
 msgid ""
@@ -556,10 +556,10 @@ msgid ""
 "are commonly used during interactive and post-mortem debugging.</p>"
 msgstr ""
 "<h2>Ce este un „backtrace” ?</h2><p>Un backtrace în principiu descrie ce se "
-"întîmplă în interiorul aplicației cînd aceasta s-a prăbușit, astfel ca "
+"întâmplă în interiorul aplicației când aceasta s-a prăbușit, astfel ca "
 "dezvoltatorii să poată depista de unde a început dezastrul. Acesta poate să "
 "vă pară fără niciun sens, dar poate să conțină o cantitate mare de "
-"informații utile.<br />Backtrace-urile sînt folosite de obicei în timpul "
+"informații utile.<br />Backtrace-urile sunt folosite de obicei în timpul "
 "depanării interactive și post-mortem.</p>"
 
 #: backtracewidget.cpp:129
@@ -602,7 +602,7 @@ msgstr ""
 #: backtracewidget.cpp:226
 msgctxt "@info"
 msgid "The generated crash information is useful"
-msgstr "Informațiile generate despre prăbușire sînt utile"
+msgstr "Informațiile generate despre prăbușire sunt utile"
 
 #: backtracewidget.cpp:229
 msgctxt "@info"
@@ -612,12 +612,12 @@ msgstr "Informațiile generate despre prăbușire pot fi utile"
 #: backtracewidget.cpp:232
 msgctxt "@info"
 msgid "The generated crash information is probably not useful"
-msgstr "Informațiile generate despre prăbușire probabil nu sînt utile"
+msgstr "Informațiile generate despre prăbușire probabil nu sunt utile"
 
 #: backtracewidget.cpp:235
 msgctxt "@info"
 msgid "The generated crash information is not useful"
-msgstr "Informațiile generate despre prăbușire nu sînt utile"
+msgstr "Informațiile generate despre prăbușire nu sunt utile"
 
 #: backtracewidget.cpp:239
 msgctxt "@info"
@@ -625,7 +625,7 @@ msgid ""
 "The rating of this crash information is invalid. This is a bug in DrKonqi "
 "itself."
 msgstr ""
-"Informațiile de clasificare a acestei prăbușiri sînt invalide. Aceasta este "
+"Informațiile de clasificare a acestei prăbușiri sunt invalide. Aceasta este "
 "o eroare chiar în DrKonqi."
 
 #: backtracewidget.cpp:250
@@ -677,7 +677,7 @@ msgid ""
 "You could try to regenerate the backtrace by clicking the <interface>Reload</"
 "interface> button."
 msgstr ""
-"Puteți încerca să regenerați backtrace-ul apăsînd pe butonul "
+"Puteți încerca să regenerați backtrace-ul apăsând pe butonul "
 "<interface>Reîncarcă</interface>"
 
 #: backtracewidget.cpp:297
@@ -695,7 +695,7 @@ msgid ""
 "<strong>You need to first install the debugger application (%1) then click "
 "the <interface>Reload</interface> button.</strong>"
 msgstr ""
-"<strong>Trebuie mai întîi să instalați aplicația de depanare (%1) și să "
+"<strong>Trebuie mai întâi să instalați aplicația de depanare (%1) și să "
 "faceți click pe butonul <interface>Reîncarcă</interface>.</strong>"
 
 #: backtracewidget.cpp:358
@@ -808,7 +808,7 @@ msgid ""
 "want.</note>"
 msgstr ""
 "Sigur doriți să închideți asistentul de raportare a erorilor? "
-"<note>Informațiile despre prăbușire sînt în continuare valide deci, dacă "
+"<note>Informațiile despre prăbușire sunt în continuare valide deci, dacă "
 "doriți, puteți salva raportul înainte de a închide.</note>"
 
 #: bugzillaintegration/reportassistantdialog.cpp:355
@@ -828,14 +828,14 @@ msgid ""
 "This crash information is not useful enough, do you want to try to improve "
 "it? You will need to install some debugging packages."
 msgstr ""
-"Aceste informații despre prăbușire nu sînt destul de utile. Doriți să "
+"Aceste informații despre prăbușire nu sunt destul de utile. Doriți să "
 "încercați îmbunătățirea lor? Va trebui să instalați niște pachete de "
 "depanare."
 
 #: bugzillaintegration/reportassistantpages_base.cpp:112
 msgctxt "@title:window"
 msgid "Crash Information is not useful enough"
-msgstr "Informațiile despre prăbușire nu sînt destul de utile"
+msgstr "Informațiile despre prăbușire nu sunt destul de utile"
 
 #: bugzillaintegration/reportassistantpages_base.cpp:135
 #, kde-format
@@ -868,7 +868,7 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_base.cpp:275
 msgctxt "@info"
 msgid "The automatically generated crash information is useful."
-msgstr "Informațiile generate automat despre prăbușire sînt utile."
+msgstr "Informațiile generate automat despre prăbușire sunt utile."
 
 #: bugzillaintegration/reportassistantpages_base.cpp:280
 msgctxt "@info"
@@ -876,7 +876,7 @@ msgid ""
 "The automatically generated crash information lacks some details but may be "
 "still be useful."
 msgstr ""
-"Informațiile generate automat despre prăbușire duc lipsă de cîteva detalii "
+"Informațiile generate automat despre prăbușire duc lipsă de câteva detalii "
 "dar pot fi utile totuși."
 
 #: bugzillaintegration/reportassistantpages_base.cpp:287
@@ -886,7 +886,7 @@ msgid ""
 "is probably not helpful."
 msgstr ""
 "Informațiile generate automat despre prăbușire duc lipsă de detalii "
-"importante și probabil nu sînt de ajutor."
+"importante și probabil nu sunt de ajutor."
 
 #: bugzillaintegration/reportassistantpages_base.cpp:297
 msgctxt "@info"
@@ -910,9 +910,9 @@ msgid ""
 "crash on the Crash Information page. You can get help with the Bug Reporting "
 "Guide by clicking on the <interface>Help</interface> button.</note>"
 msgstr ""
-"<note>Îl puteți îmbunătăți instalînd pachetele de depanare și reîncărcînd "
+"<note>Îl puteți îmbunătăți instalând pachetele de depanare și reîncărcând "
 "prăbușirea pe pagina „Informații despre prăbușire”. Puteți obține ajutor din "
-"Ghidul de raportare a erorilor apăsînd pe butonul <interface>Ajutor</"
+"Ghidul de raportare a erorilor apăsând pe butonul <interface>Ajutor</"
 "interface>.</note>"
 
 #: bugzillaintegration/reportassistantpages_base.cpp:318
@@ -926,7 +926,7 @@ msgid ""
 "The information you can provide is not considered helpful enough in this "
 "case."
 msgstr ""
-"Informațiile pe care le puteți da nu sînt considerate destul de utile în "
+"Informațiile pe care le puteți da nu sunt considerate destul de utile în "
 "acest caz."
 
 #: bugzillaintegration/reportassistantpages_base.cpp:326
@@ -1030,7 +1030,7 @@ msgid ""
 "You can use this option to report the bug later."
 msgstr ""
 "Folosiți acest buton pentru a salva raportul despre prăbușire generat într-"
-"un fișier. Puteți folosi această opțiune pentru a raporta eroarea mai tîrziu."
+"un fișier. Puteți folosi această opțiune pentru a raporta eroarea mai târziu."
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:78
 #, kde-format
@@ -1065,7 +1065,7 @@ msgid ""
 msgstr ""
 "<note>Aveți nevoie de un cont în <link url='%1'>Sistemul de urmărire a "
 "defecțiunilor KDE</link> pentru a putea raporta o eroare, deoarece este "
-"posibil să fie nevoie să vă contactăm mai tîrziu pentru a vă cere informații "
+"posibil să fie nevoie să vă contactăm mai târziu pentru a vă cere informații "
 "suplimentare. Dacă nu aveți un astfel de cont puteți<link url='%2'>crea unul "
 "aici</link> liber. Vă rugăm să nu folosiți conturi de email de unică "
 "folosință.</note>"
@@ -1074,7 +1074,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:status"
 msgid "Error when trying to login: <message>%1.</message>"
-msgstr "S-a întîmpinat o eroare la autentificare: <message>%1.</message>"
+msgstr "S-a întâmpinat o eroare la autentificare: <message>%1.</message>"
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:158
 #, kde-format
@@ -1101,7 +1101,7 @@ msgid ""
 "Cookies are not allowed in your KDE network settings. In order to proceed, "
 "you need to allow %1 to set cookies."
 msgstr ""
-"Cookie-urile nu sînt permise în setările dumneavoastră KDE de rețea. Pentru "
+"Cookie-urile nu sunt permise în setările dumneavoastră KDE de rețea. Pentru "
 "a continua este nevoie să permiteți ca %1 să seteze cookie-uri."
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:274
@@ -1306,15 +1306,15 @@ msgid ""
 msgstr ""
 "<strong>Exemple de titluri bune:</strong><nl />„Plasma s-a prăbușit după "
 "adăugarea controlului Notițe și scrierea în el”<nl />„Konqueror s-a prăbușit "
-"cînd s-a accesat aplicația Facebook 'X'”<nl />„Kopete s-a închis brusc după "
+"când s-a accesat aplicația Facebook 'X'”<nl />„Kopete s-a închis brusc după "
 "reactivarea calculatorului și conversația cu un amic MSN”<nl />„Kate s-a "
 "închis în timpul editării unui fișier jurnal și apăsarea tastei Delete de "
-"cîteva ori”"
+"câteva ori”"
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:634
 msgctxt "@info:tooltip help and examples of good bug descriptions"
 msgid "Describe in as much detail as possible the crash circumstances:"
-msgstr "Descrieți cît mai detaliat posibil circumstanțele prăbușirii:"
+msgstr "Descrieți cât mai detaliat posibil circumstanțele prăbușirii:"
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:638
 msgctxt "@info:tooltip help and examples of good bug descriptions"
@@ -1545,7 +1545,7 @@ msgstr "Nu au fost selectate duplicate posibile"
 #, kde-format
 msgctxt "@info:status"
 msgid "Searching for duplicates (from %1 to %2)..."
-msgstr "Se caută duplicate (din %1 pînă în %2)..."
+msgstr "Se caută duplicate (din %1 până în %2)..."
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:252
 msgctxt "@info:status"
@@ -1679,7 +1679,7 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:437
 msgctxt "@info:status"
 msgid "Error fetching the bug report list"
-msgstr "S-a întîmpinat o eroare la preluarea listei de rapoarte de eroare"
+msgstr "S-a întâmpinat o eroare la preluarea listei de rapoarte de eroare"
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:439
 #, kde-format
@@ -1688,7 +1688,7 @@ msgid ""
 "Error fetching the bug report list<nl/><message>%1.</message><nl/>Please "
 "wait some time and try again."
 msgstr ""
-"S-a întîmpinat o eroare la preluarea listei de rapoarte de eroare<nl/"
+"S-a întâmpinat o eroare la preluarea listei de rapoarte de eroare<nl/"
 "><message>%1.</message><nl/>Vă rugăm să mai așteptați ceva timp și să "
 "încercați iar."
 
@@ -1738,7 +1738,7 @@ msgid ""
 "Use this button to suggest that the crash you experienced is related to this "
 "bug report"
 msgstr ""
-"Utilizați acest buton pentru a sugera faptul că prăbușirea întîmpinată de "
+"Utilizați acest buton pentru a sugera faptul că prăbușirea întâmpinată de "
 "dumneavoastră are legătură cu acest raport de eroare"
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:632
@@ -2006,7 +2006,7 @@ msgstr "Continuă"
 #| msgid "You are going to mark your crash as related to bug <numid>%1</numid>"
 msgid "You are going to mark your crash as related to bug %1"
 msgstr ""
-"Sînteți pe cale de a vă marca eroarea ca avînd legătură cu eroarea <numid>"
+"Sunteți pe cale de a vă marca eroarea ca având legătură cu eroarea <numid>"
 "%1</numid>"
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:920
@@ -2026,7 +2026,7 @@ msgid ""
 "<placeholder>In detail, tell us what you were doing  when the application "
 "crashed.</placeholder>"
 msgstr ""
-"<placeholder>Spuneți-ne în detaliu ce făceați cînd aplicația s-a prăbușit.</"
+"<placeholder>Spuneți-ne în detaliu ce făceați când aplicația s-a prăbușit.</"
 "placeholder>"
 
 #. i18n: ectx: property (text), widget (QLabel, m_rememberLabel)
@@ -2072,7 +2072,7 @@ msgid ""
 "crashes"
 msgstr ""
 "Dacă ați încercat să reproduceți acțiunile ce au dus la prăbușire selectați "
-"cît de des se prăbușește aplicația"
+"cât de des se prăbușește aplicația"
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, m_reproducibleBox)
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:121
@@ -2082,7 +2082,7 @@ msgid ""
 "crashes"
 msgstr ""
 "Dacă ați încercat să reproduceți acțiunile ce au dus la prăbușire selectați "
-"cît de des se prăbușește aplicația"
+"cât de des se prăbușește aplicația"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, m_reproducibleBox)
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:125
@@ -2174,7 +2174,7 @@ msgid ""
 msgstr ""
 "Alegeți această opțiune dacă puteți da detalii specifice aplicației sau "
 "setări care pot avea legătură cu prăbușirea. Puteți să vă uitați peste "
-"exemple (dacă sînt disponibile)."
+"exemple (dacă sunt disponibile)."
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, m_appSpecificDetails)
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:249
@@ -2186,7 +2186,7 @@ msgid ""
 msgstr ""
 "Alegeți această opțiune dacă puteți da detalii specifice aplicației sau "
 "setări care pot avea legătură cu prăbușirea. Puteți să vă uitați peste "
-"exemple (dacă sînt disponibile)."
+"exemple (dacă sunt disponibile)."
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_appSpecificDetails)
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:252
@@ -2287,7 +2287,7 @@ msgstr "Continuă cu raportarea erorii"
 #: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:182
 msgid "<strong>Are you sure this report matches your crash situation?</strong>"
 msgstr ""
-"<strong>Sînteți sigur că acest raport se potrivește cu situația "
+"<strong>Sunteți sigur că acest raport se potrivește cu situația "
 "dumneavoastră de prăbușire?</strong>"
 
 #. i18n: ectx: property (text), widget (QRadioButton, markAsDuplicateCheck)
@@ -2295,14 +2295,14 @@ msgstr ""
 #, fuzzy
 #| msgid "Not really sure: mark as a possible duplicate"
 msgid "Not &really sure: mark as a possible duplicate"
-msgstr "Nu sînt sigur: marchează ca posibil duplicat"
+msgstr "Nu sunt sigur: marchează ca posibil duplicat"
 
 #. i18n: ectx: property (text), widget (QRadioButton, attachToBugReportCheck)
 #: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:219
 #, fuzzy
 #| msgid "Completely sure: attach my information to this report"
 msgid "Completely sure: attach my &information to this report"
-msgstr "Sînt sigur: atașează informațiile mele la acest raport"
+msgstr "Sunt sigur: atașează informațiile mele la acest raport"
 
 #. i18n: ectx: property (text), widget (QLabel, m_explanationLabel)
 #: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:17
@@ -2376,7 +2376,7 @@ msgstr "Parolă:"
 msgctxt "@option:check"
 msgid "Save login information using the KDE Wallet system"
 msgstr ""
-"Salvează informațiile de autentificare utilizînd Sistemul de portofele KDE"
+"Salvează informațiile de autentificare utilizând Sistemul de portofele KDE"
 
 #. i18n: ectx: property (text), widget (QLabel, m_previewDescriptionLabel)
 #: bugzillaintegration/ui/assistantpage_bugzilla_preview.ui:19
@@ -2399,18 +2399,18 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugzilla_send.ui:75
 msgctxt "@option:check"
 msgid "Open the bug report page when clicking the Finish button"
-msgstr "Deschide pagina cu raportul de eroare cînd apăs pe butonul Finalizează"
+msgstr "Deschide pagina cu raportul de eroare când apăs pe butonul Finalizează"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_restartAppOnFinish)
 #: bugzillaintegration/ui/assistantpage_bugzilla_send.ui:98
 msgctxt "@option:check"
 msgid "Restart the application when clicking the Finish button"
-msgstr "Repornește aplicația cînd apăs pe butonul Finalizează"
+msgstr "Repornește aplicația când apăs pe butonul Finalizează"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_restartAppOnFinish)
 #: bugzillaintegration/ui/assistantpage_conclusions.ui:73
 msgid "Restart the application when clicking the Finish button"
-msgstr "Repornește aplicația cînd apăs pe butonul Finalizează"
+msgstr "Repornește aplicația când apăs pe butonul Finalizează"
 
 #. i18n: ectx: property (text), widget (QLabel, m_introLabel)
 #: bugzillaintegration/ui/assistantpage_introduction.ui:17
@@ -2438,7 +2438,7 @@ msgid ""
 "is required for you to agree that developers may contact you.</strong></"
 "p><p>Feel free to close this dialog if you do not accept this.</p>"
 msgstr ""
-"<p><note>Întrucît comunicarea dintre dumneavostră și dezvoltatori este "
+"<p><note>Întrucât comunicarea dintre dumneavostră și dezvoltatori este "
 "necesară pentru o depanare eficientă, pentru a continua raportarea acestei "
 "erori <strong>este necesar să acceptați că dezvoltatorii vă pot contacta.</"
 "strong></note></p><p>Puteți închide acest dialog în orice moment dacă nu "
@@ -2474,7 +2474,7 @@ msgid ""
 "An error was encountered during the installation of the debug symbol "
 "packages."
 msgstr ""
-"S-a întîmpinat o eroare la instalarea pachetelor cu informațiile de depanare."
+"S-a întâmpinat o eroare la instalarea pachetelor cu informațiile de depanare."
 
 #: drkonqi.cpp:161
 #, kde-format
@@ -2545,7 +2545,7 @@ msgid ""
 "is safe to close this dialog if you do not want to report this bug.</note></"
 "para>"
 msgstr ""
-"<para>Ne puteți ajuta să îmbunătățim aplicațiile KDE raportînd această "
+"<para>Ne puteți ajuta să îmbunătățim aplicațiile KDE raportând această "
 "eroare.<nl /><link url='%1'>Învață mai multe despre raportarea erorilor.</"
 "link></para><para><note>Puteți închide acest dialog dacă nu doriți să "
 "raportați această eroare.</note></para>"
@@ -2772,14 +2772,14 @@ msgstr "Arată conținutul backtrace-ului (avansat)"
 #~ "the developers to focus on fixing the real issues, join the BugSquad "
 #~ "(#kde-bugs on FreeNode IRC) "
 #~ msgstr ""
-#~ "Dacă ați dori să ne ajutați să organizăm rapoartele de erori astfel încît "
+#~ "Dacă ați dori să ne ajutați să organizăm rapoartele de erori astfel încât "
 #~ "dezvoltatorii să se poată concentra la rezolvarea problemelor reale "
 #~ "alăturați-vă echipei BugSquad (canalul #kde-bugs pe FreeNode IRC)"
 
 #~ msgctxt "@info/rich"
 #~ msgid "Complete the bug report fields: <note>Use English.</note>"
 #~ msgstr ""
-#~ "Completați cîmpurile raportului de eroare: <note>folosiți limba engleză.</"
+#~ "Completați câmpurile raportului de eroare: <note>folosiți limba engleză.</"
 #~ "note>"
 
 #~ msgctxt "@title"
@@ -2829,7 +2829,7 @@ msgstr "Arată conținutul backtrace-ului (avansat)"
 #~ msgctxt "@info"
 #~ msgid "You are not logged in. Make sure cookies are enabled."
 #~ msgstr ""
-#~ "Nu sînteți autentificat. Asigurați-vă că cookie-urile sînt activate."
+#~ "Nu sunteți autentificat. Asigurați-vă că cookie-urile sunt activate."
 
 #, fuzzy
 #~| msgctxt "@info"
@@ -2892,11 +2892,11 @@ msgstr "Arată conținutul backtrace-ului (avansat)"
 
 #~ msgctxt "@info question"
 #~ msgid "Are you ready to submit this report?"
-#~ msgstr "Sînteți gata să expediați acest raport?"
+#~ msgstr "Sunteți gata să expediați acest raport?"
 
 #~ msgctxt "@title:window"
 #~ msgid "Are you sure?"
-#~ msgstr "Sînteți sigur?"
+#~ msgstr "Sunteți sigur?"
 
 #, fuzzy
 #~| msgctxt "@label:textbox"
@@ -2948,7 +2948,7 @@ msgstr "Arată conținutul backtrace-ului (avansat)"
 #~ "You are not sure what you were doing when the application crashed, but "
 #~ "the developers can contact you for more information if required."
 #~ msgstr ""
-#~ "Nu sînteți sigur ce făceați cînd s-a prăbușit aplicația, dar "
+#~ "Nu sunteți sigur ce făceați când s-a prăbușit aplicația, dar "
 #~ "dezvoltatorii vă pot contacta pentru informații suplimentare dacă este "
 #~ "nevoie."
 
@@ -2957,7 +2957,7 @@ msgstr "Arată conținutul backtrace-ului (avansat)"
 #~ "You are not sure what you were doing when the application crashed, and do "
 #~ "not want the developers to contact you for more information if required."
 #~ msgstr ""
-#~ "Nu sînteți sigur ce făceați cînd s-a prăbușit aplicația, și nu doriți ca "
+#~ "Nu sunteți sigur ce făceați când s-a prăbușit aplicația, și nu doriți ca "
 #~ "dezvoltatorii să vă contacteze pentru informații suplimentare dacă este "
 #~ "nevoie."
 
@@ -2980,12 +2980,12 @@ msgstr "Arată conținutul backtrace-ului (avansat)"
 #~ "packages and reload it. You can find more information about backtraces, "
 #~ "what they mean, and how they are useful at <link>%1</link>"
 #~ msgstr ""
-#~ "Această pagină va genera un backtrace al prăbușirii. Acestea sînt "
+#~ "Această pagină va genera un backtrace al prăbușirii. Acestea sunt "
 #~ "informații ce le spun dezvoltatorilor unde s-a prăbușit aplicația. Dacă "
 #~ "informația despre prăbușire nu este destul de detaliată, ar putea fi "
 #~ "nevoie să instalați niște pachete de depanare și să o reîncărcați. Puteți "
-#~ "găsi informații suplimentare despre backtrace-uri, ce sînt acestea, și în "
-#~ "ce mod sînt utile la <link>%1</link>"
+#~ "găsi informații suplimentare despre backtrace-uri, ce sunt acestea, și în "
+#~ "ce mod sunt utile la <link>%1</link>"
 
 #~ msgctxt "@title"
 #~ msgid "Bug Report Possible Duplicate list"
@@ -3130,14 +3130,14 @@ msgstr "Arată conținutul backtrace-ului (avansat)"
 #~ "Acest backtrace este inutilizabil.\n"
 #~ "Se pare că programele dumneavoastră au fost compilate într-un mod care nu "
 #~ "permite crearea unui backtrace bun sau este posibil ca stiva programului "
-#~ "să fi fost grav coruptă cînd s-a prăbușit aplicația.\n"
+#~ "să fi fost grav coruptă când s-a prăbușit aplicația.\n"
 #~ "\n"
 
 #~ msgid ""
 #~ "The following options are enabled:\n"
 #~ "\n"
 #~ msgstr ""
-#~ "Sînt active următoarele opțiuni:\n"
+#~ "Sunt active următoarele opțiuni:\n"
 #~ "\n"
 
 #~ msgid ""
@@ -3150,7 +3150,7 @@ msgstr "Arată conținutul backtrace-ului (avansat)"
 #~ msgstr ""
 #~ "\n"
 #~ "Backtrace-ul nu va fi generat deoarece utilizarea acestor opțiuni nu este "
-#~ "recomandată. În rare cazuri sînt responsabile pentru probleme de KDE.\n"
+#~ "recomandată. În rare cazuri sunt responsabile pentru probleme de KDE.\n"
 #~ "Pentru a obține un backtrace trebuie să dezactivați aceste opțiuni și să "
 #~ "reproduceți din nou problema.\n"
 

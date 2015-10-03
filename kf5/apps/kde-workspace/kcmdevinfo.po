@@ -31,7 +31,7 @@ msgstr "sergiu@ase.md"
 #: devicelisting.cpp:43
 msgctxt "Device Listing Whats This"
 msgid "Shows all the devices that are currently listed."
-msgstr "Arată toate dispozitivele care sînt listate acum."
+msgstr "Arată toate dispozitivele care sunt listate acum."
 
 #: devicelisting.cpp:46
 msgid "Devices"
@@ -39,7 +39,7 @@ msgstr "Dispozitive"
 
 #: devicelisting.cpp:58
 msgid "Collapse All"
-msgstr "Restrînge toate"
+msgstr "Restrânge toate"
 
 #: devicelisting.cpp:61
 msgid "Expand All"
@@ -107,7 +107,7 @@ msgstr "Produs: "
 
 #: infopanel.cpp:124
 msgid "Vendor: "
-msgstr "Vînzător: "
+msgstr "Vânzător: "
 
 #: infopanel.cpp:141
 msgid "Yes"

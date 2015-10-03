@@ -150,7 +150,7 @@ msgstr "&Presiune:"
 #. i18n: ectx: property (text), widget (QLabel, speedLabel)
 #: weatherconfig.ui:353
 msgid "Wind &speed:"
-msgstr "Vite&za vîntului:"
+msgstr "Vite&za vântului:"
 
 #. i18n: ectx: property (text), widget (QLabel, visibilityLabel)
 #: weatherconfig.ui:402

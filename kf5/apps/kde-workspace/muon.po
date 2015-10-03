@@ -32,7 +32,7 @@ msgstr "Cere confirmare pentru modificările ce afectează alte pachete"
 
 #: muon/config/GeneralSettingsPage.cpp:54
 msgid "Show foreign-architecture packages that are available natively"
-msgstr "Arată pachete pentru arhitecturi străine ce sînt disponibile nativ"
+msgstr "Arată pachete pentru arhitecturi străine ce sunt disponibile nativ"
 
 #: muon/config/GeneralSettingsPage.cpp:55
 msgid "Treat recommended packages as dependencies"
@@ -99,7 +99,7 @@ msgstr "Dacă modificările suplimentare să fie confirmate sau nu."
 #. i18n: ectx: label, entry (ShowMultiArchDupes), group (muon)
 #: muon/config/muon.kcfg:28 muonrc.cpp:18
 msgid "Show foreign architecture packages also available natively."
-msgstr "Arată pachete pentru arhitecturi străine ce sînt disponibile nativ."
+msgstr "Arată pachete pentru arhitecturi străine ce sunt disponibile nativ."
 
 #: muon/DetailsTabs/ChangelogTab.cpp:43
 msgctxt "@title:tab"
@@ -210,7 +210,7 @@ msgstr "Demarchează"
 #, kde-format
 msgctxt "@info Tells how long Canonical, Ltd. will support a package"
 msgid "Canonical provides critical updates for %1 until %2."
-msgstr "Canonical oferă actualizări critice pentru %1 pînă în %2."
+msgstr "Canonical oferă actualizări critice pentru %1 până în %2."
 
 #: muon/DetailsTabs/MainTab.cpp:192
 #, kde-format
@@ -297,7 +297,7 @@ msgid ""
 "can occur."
 msgstr ""
 "Muon alege întotdeauna cea mai potrivită versiune disponibilă. Dacă forțați "
-"o altă versiune decît cea implicită, pot apărea greșeli în gestionarea "
+"o altă versiune decât cea implicită, pot apărea greșeli în gestionarea "
 "dependențelor."
 
 #: muon/DetailsTabs/VersionTab.cpp:69
@@ -420,7 +420,7 @@ msgid ""
 msgstr ""
 "Actualizările nu pot fi marcate. Actualizările disponibile pot să necesite "
 "instalarea sau eliminarea unor pachete. Poate doriți să încercați o "
-"actualizare completă apăsînd pe butonul <interface>Actualizare completă</"
+"actualizare completă apăsând pe butonul <interface>Actualizare completă</"
 "interface>."
 
 #: muon/MainWindow.cpp:228 muon/MainWindow.cpp:243
@@ -743,17 +743,17 @@ msgid_plural ""
 "continue?"
 msgstr[0] ""
 "Următorul program nu poate fi verificat. <warning>Instalarea programelor "
-"neverificate prezintă un risc de securitate, întrucît prezența programelor "
+"neverificate prezintă un risc de securitate, întrucât prezența programelor "
 "ce nu pot fi verificate poate fi un semn de corupere.</warning> Doriți să "
 "continuați?"
 msgstr[1] ""
 "Următoarele programe nu pot fi verificate. <warning>Instalarea programelor "
-"neverificate prezintă un risc de securitate, întrucît prezența programelor "
+"neverificate prezintă un risc de securitate, întrucât prezența programelor "
 "ce nu pot fi verificate poate fi un semn de corupere.</warning> Doriți să "
 "continuați?"
 msgstr[2] ""
 "Următoarele programe nu pot fi verificate. <warning>Instalarea programelor "
-"neverificate prezintă un risc de securitate, întrucît prezența programelor "
+"neverificate prezintă un risc de securitate, întrucât prezența programelor "
 "ce nu pot fi verificate poate fi un semn de corupere.</warning> Doriți să "
 "continuați?"
 

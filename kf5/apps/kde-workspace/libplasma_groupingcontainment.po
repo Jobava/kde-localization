@@ -59,11 +59,11 @@ msgstr "Elimină o coloană"
 
 #: groups/gridmanager.cpp:167 groups/gridmanager.cpp:169
 msgid "Add a new row"
-msgstr "Adaugă rînd nou"
+msgstr "Adaugă rând nou"
 
 #: groups/gridmanager.cpp:168 groups/gridmanager.cpp:170
 msgid "Remove a row"
-msgstr "Elimină un rînd"
+msgstr "Elimină un rând"
 
 #: groups/stackinggroup.cpp:215
 msgid "Stacking Group"

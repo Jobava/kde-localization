@@ -54,7 +54,7 @@ msgstr "Niciun mesaj XChat nou."
 #| msgid "No running messaging apps found. Supported apps are %1, %2, %3, %4."
 msgid "No running messaging apps found. Supported apps are %1, %2, %3, %4, %5."
 msgstr ""
-"Nicio aplicație de mesagerie găsită. Aplicații suportate sînt %1, %2, %3, %4."
+"Nicio aplicație de mesagerie găsită. Aplicații suportate sunt %1, %2, %3, %4."
 
 #: incomingmsg.cpp:450
 msgid "General"

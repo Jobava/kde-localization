@@ -37,7 +37,7 @@ msgstr "Componente"
 #: globalshortcuts.cpp:67
 msgid "You are about to reset all shortcuts to their default values."
 msgstr ""
-"Sînteți pe cale de a reinițializa toate scurtăturile la valorile lor "
+"Sunteți pe cale de a reinițializa toate scurtăturile la valorile lor "
 "implicite."
 
 #: globalshortcuts.cpp:68

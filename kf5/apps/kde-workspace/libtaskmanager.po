@@ -42,7 +42,7 @@ msgid ""
 "allows you to manually set the class+name to launcher/name mapping."
 msgstr ""
 "Pentru a asocia o aplicație cu un lansator gestionarul de sarcini citește "
-"clasa și numele ferestrei aplicației. Acestea sînt apoi folosite pentru a "
+"clasa și numele ferestrei aplicației. Acestea sunt apoi folosite pentru a "
 "asocia detaliile lansatorului al aplicației instalate. Acesta încearcă să "
 "asociere acestea cu numele aplicației. Această operație poate eșua uneori. "
 "Lista de mai sus permite setarea manuală a asocierii de la clasa și nume la "
@@ -211,7 +211,7 @@ msgstr "Elimină acest lansator"
 
 #: taskactions.cpp:446
 msgid "&Show A Launcher When Not Running"
-msgstr "&Arată un lansator cînd nu rulează"
+msgstr "&Arată un lansator când nu rulează"
 
 #: taskactions.cpp:479
 msgid ""

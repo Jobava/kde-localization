@@ -56,7 +56,7 @@ msgstr "Interval de comutare:"
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: config.ui:171
 msgid "Maximum age of items:"
-msgstr "Vîrsta maximă a elementelor:"
+msgstr "Vârsta maximă a elementelor:"
 
 #. i18n: ectx: property (specialValueText), widget (KIntSpinBox, maxAge)
 #: config.ui:184
@@ -155,6 +155,6 @@ msgstr[2] "acum %1 de zile"
 #, kde-format
 msgid "%1 week ago"
 msgid_plural "%1 weeks ago"
-msgstr[0] "acum %1 săptămînă"
-msgstr[1] "acum %1 săptămîni"
-msgstr[2] "acum %1 de săptămîni"
+msgstr[0] "acum %1 săptămână"
+msgstr[1] "acum %1 săptămâni"
+msgstr[2] "acum %1 de săptămâni"

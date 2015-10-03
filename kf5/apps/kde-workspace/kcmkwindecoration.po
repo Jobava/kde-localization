@@ -59,7 +59,7 @@ msgstr ""
 
 #: declarative-plugin/buttonsmodel.cpp:81
 msgid "Shade"
-msgstr "Strînge"
+msgstr "Strânge"
 
 #: declarative-plugin/buttonsmodel.cpp:83
 #, fuzzy
@@ -333,9 +333,9 @@ msgstr ""
 #~ "alegeți decorarea marginilor ferestrelor, precum și pozițiile butoanelor "
 #~ "din bara de titlu și opțiuni de decorare personalizate.</p> Pentru a "
 #~ "alege o tematică de fereastră, dați clic pe numele ei și activați-o "
-#~ "apăsînd butonul „Aplică” de mai jos. Dacă nu doriți să aplicați setările "
+#~ "apăsând butonul „Aplică” de mai jos. Dacă nu doriți să aplicați setările "
 #~ "făcute, apăsați butonul „Revenire” pentru a elimina modificările."
-#~ "<p>Fiecare tematică poate fi configurată. Opțiunile de configurat sînt "
+#~ "<p>Fiecare tematică poate fi configurată. Opțiunile de configurat sunt "
 #~ "diferite de la o tematică la alta.</p><p>În fila „Butoane” bifați "
 #~ "„Utilizează poziții personalizate pentru butoanele barei de titlu” și "
 #~ "aveți posibilitatea să schimbați poziția butoanelor după gusturile "

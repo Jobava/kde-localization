@@ -210,7 +210,7 @@ msgstr "Subiect:"
 
 #: userwidget.cpp:59
 msgid "No information available."
-msgstr "Nu sînt informații disponibile."
+msgstr "Nu sunt informații disponibile."
 
 #: userwidget.cpp:125
 msgid "Add friend"
@@ -291,4 +291,4 @@ msgstr "%1 – nu-i place:"
 #, fuzzy
 #~| msgid "No information available."
 #~ msgid "More information"
-#~ msgstr "Nu sînt informații disponibile."
+#~ msgstr "Nu sunt informații disponibile."

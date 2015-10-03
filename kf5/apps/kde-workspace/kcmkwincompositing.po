@@ -129,7 +129,7 @@ msgstr "Mod OpenGL:"
 #, fuzzy
 #| msgid "Tearing Prevention (VSync)"
 msgid "Tearing prevention (\"vsync\"):"
-msgstr "Prevenirea frînturilor (VSync)"
+msgstr "Prevenirea frânturilor (VSync)"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, tearingPrevention)
 #. i18n: ectx: property (text), item, widget (QComboBox, windowThumbnail)
@@ -152,7 +152,7 @@ msgstr "Automat"
 #, fuzzy
 #| msgid "Only when Cheap"
 msgid "Only when cheap"
-msgstr "Doar cînd e ieftină"
+msgstr "Doar când e ieftină"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, tearingPrevention)
 #: compositing.ui:182
@@ -373,7 +373,7 @@ msgstr "Obține efecte noi..."
 #, fuzzy
 #~| msgid "Tearing Prevention (VSync)"
 #~ msgid "Tearing Prevention (VSync):"
-#~ msgstr "Prevenirea frînturilor (VSync)"
+#~ msgstr "Prevenirea frânturilor (VSync)"
 
 #, fuzzy
 #~| msgid "Keep window thumbnails:"
@@ -470,7 +470,7 @@ msgstr "Obține efecte noi..."
 #~ "Desktop effects are not available on this system due to the following "
 #~ "technical issues:"
 #~ msgstr ""
-#~ "Efectele de birou nu sînt disponibile pe acest sistem din cauza "
+#~ "Efectele de birou nu sunt disponibile pe acest sistem din cauza "
 #~ "următoarelor deficiențe tehnice:"
 
 #~ msgctxt ""
@@ -485,7 +485,7 @@ msgstr "Obține efecte noi..."
 #~ "\n"
 #~ "Please exit failsafe mode to enable desktop effects."
 #~ msgstr ""
-#~ "Configurările au fost salvate, dar, întrucît KDE rulează în regimul de "
+#~ "Configurările au fost salvate, dar, întrucât KDE rulează în regimul de "
 #~ "siguranță, efectele de birou nu pot fi activate momentan.\n"
 #~ "\n"
 #~ "Părăsiți regimul de siguranță pentru a activa efectele de birou."
@@ -551,7 +551,7 @@ msgstr "Obține efecte noi..."
 
 #~ msgid "Desktop effects can be toggled anytime using this shortcut:"
 #~ msgstr ""
-#~ "Efectele de birou pot fi comutate oricînd folosind această scurtătură:"
+#~ "Efectele de birou pot fi comutate oricând folosind această scurtătură:"
 
 #~ msgctxt "@title:group a few general options to set up desktop effects"
 #~ msgid "Simple effect setup"
@@ -790,7 +790,7 @@ msgstr "Obține efecte noi..."
 #~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
 #~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Poate fi încet pe GPU-"
 #~ "urile mai slabe și chiar cauza necazuri variate cu driverele stricate (de "
-#~ "la supraluminozitate pînă la „segfaults”).</p>\n"
+#~ "la supraluminozitate până la „segfaults”).</p>\n"
 #~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
 #~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Reveniți la „Neted” "
 #~ "dacă aveți probleme.</p></body></html>"
@@ -838,7 +838,7 @@ msgstr "Obține efecte noi..."
 #~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
 #~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Se <span style=\" font-"
 #~ "weight:600;\">recomandă insistent</span> să folosiți sistemul <span style="
-#~ "\" font-weight:600;\">nativ</span> cînd folosiți infrastructura <span "
+#~ "\" font-weight:600;\">nativ</span> când folosiți infrastructura <span "
 #~ "style=\" font-weight:600;\">XRender</span>.</p>\n"
 #~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
 #~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
@@ -883,13 +883,13 @@ msgstr "Obține efecte noi..."
 #~ msgstr "Dezactivează verificările de funcționalitate"
 
 #~ msgid "Desktop effects are temporarily disabled"
-#~ msgstr "Efectele de birou sînt dezactivate temporar"
+#~ msgstr "Efectele de birou sunt dezactivate temporar"
 
 #~ msgid "Resume Desktop Effects"
 #~ msgstr "Reia efectele de birou"
 
 #~ msgid "Desktop effects are disabled"
-#~ msgstr "Efectele de birou sînt dezactivate"
+#~ msgstr "Efectele de birou sunt dezactivate"
 
 #~ msgid "Common Settings"
 #~ msgstr "Configurări generale"
@@ -969,7 +969,7 @@ msgstr "Obține efecte noi..."
 #~ "cursor against the edge of the screen. Here you can configure which "
 #~ "effect will get activated on each edge and corner of the screen."
 #~ msgstr ""
-#~ "Muchiile ecranului activ vă permit să activați efecte împingînd cursorul "
+#~ "Muchiile ecranului activ vă permit să activați efecte împingând cursorul "
 #~ "mausului spre marginea ecranului. Aici puteți configura ce efect va fi "
 #~ "activat la fiecare muchie și colț al ecranului."
 

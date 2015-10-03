@@ -76,7 +76,7 @@ msgstr "Nivel scăzut al acumulatorului"
 #: generalPage.ui:48
 msgid "Battery will be considered low when it reaches this level"
 msgstr ""
-"Acumulatorul va fi considerat ca fiind la un nivel scăzut cînd atinge acest "
+"Acumulatorul va fi considerat ca fiind la un nivel scăzut când atinge acest "
 "nivel"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, lowSpin)
@@ -102,7 +102,7 @@ msgstr "Nivel critic al acumulatorului"
 #: generalPage.ui:80
 msgid "Battery will be considered critical when it reaches this level"
 msgstr ""
-"Acumulatorul va fi considerat ca fiind la un nivel critic cînd atinge acest "
+"Acumulatorul va fi considerat ca fiind la un nivel critic când atinge acest "
 "nivel"
 
 #. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
@@ -127,7 +127,7 @@ msgstr "Configurare notificări..."
 #~ "When this option is selected, applications will not be allowed to inhibit "
 #~ "sleep when the lid is closed"
 #~ msgstr ""
-#~ "Cînd această opțiune e aleasă, aplicațiile nu vor avea voie să inhibe "
+#~ "Când această opțiune e aleasă, aplicațiile nu vor avea voie să inhibe "
 #~ "adormirea la închiderea capacului"
 
 #~ msgid "Never prevent an action on lid close"
@@ -148,7 +148,7 @@ msgstr "Configurare notificări..."
 #~ msgstr "Acumulatorul este la nivel scăzut la"
 
 #~ msgid "When battery is at critical level"
-#~ msgstr "Cînd acumulatorul e la nivelul critic"
+#~ msgstr "Când acumulatorul e la nivelul critic"
 
 #~ msgid "Global Power Management Configuration"
 #~ msgstr "Configurație globală pentru gestiunea alimentării"
@@ -204,19 +204,19 @@ msgstr "Configurare notificări..."
 #~ "weight:600;\">Atribuire profil</span></p></body></html>"
 
 #~ msgid "When AC Adaptor is plugged in"
-#~ msgstr "Cînd adaptorul de alimentare este atașat"
+#~ msgstr "Când adaptorul de alimentare este atașat"
 
 #~ msgid "When AC Adaptor is unplugged"
-#~ msgstr "Cînd adaptorul de alimentare este detașat"
+#~ msgstr "Când adaptorul de alimentare este detașat"
 
 #~ msgid "When battery is at warning level"
-#~ msgstr "Cînd acumulatorul a atins nivelul de avertizare"
+#~ msgstr "Când acumulatorul a atins nivelul de avertizare"
 
 #~ msgid "Advanced Battery Settings"
 #~ msgstr "Configurări avansate acumulator"
 
 #~ msgid "When battery remaining is critical"
-#~ msgstr "Cînd acumulatorul rămas este critic"
+#~ msgstr "Când acumulatorul rămas este critic"
 
 #~ msgid "Battery is at warning level at"
 #~ msgstr "Acumulatorul este la nivel de avertizare la"
@@ -227,5 +227,5 @@ msgstr "Configurare notificări..."
 #~ msgid ""
 #~ "Battery will be considered at warning level when it reaches this level"
 #~ msgstr ""
-#~ "Acumulatorul va fi considerat ca fiind la un nivel de avertizare cînd "
+#~ "Acumulatorul va fi considerat ca fiind la un nivel de avertizare când "
 #~ "atinge acest nivel"

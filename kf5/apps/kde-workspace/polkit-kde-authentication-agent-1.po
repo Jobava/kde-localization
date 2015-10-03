@@ -43,7 +43,7 @@ msgstr "Acțiune:"
 #. i18n: ectx: property (text), widget (KUrlLabel, vendorUL)
 #: authdetails.ui:36 authdetails.ui:43
 msgid "Vendor:"
-msgstr "Vînzător:"
+msgstr "Vânzător:"
 
 #: AuthDialog.cpp:74
 msgid "Details"
@@ -155,7 +155,7 @@ msgstr "Responsabil"
 
 #: policykitlistener.cpp:74
 msgid "Another client is already authenticating, please try again later."
-msgstr "Un alt client se autentifică deja, reîncercați mai tîrziu."
+msgstr "Un alt client se autentifică deja, reîncercați mai târziu."
 
 #~ msgid "Switch to dialog"
 #~ msgstr "Comută la dialog"

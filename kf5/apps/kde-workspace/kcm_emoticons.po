@@ -179,7 +179,7 @@ msgid ""
 msgstr ""
 "Trebuie să fiți conectat la Internet pentru a folosi această acțiune. Un "
 "dialog va afișa o listă cu tematici de emoticoni de pe saitul http://www.kde-"
-"look.org. Apăsînd pe butonul „Instalează” asociat cu o tematică, veți "
+"look.org. Apăsând pe butonul „Instalează” asociat cu o tematică, veți "
 "instala această tematică local."
 
 #. i18n: ectx: property (text), widget (QPushButton, btGetNew)

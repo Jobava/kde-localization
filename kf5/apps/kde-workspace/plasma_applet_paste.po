@@ -80,11 +80,11 @@ msgstr "Data curentă"
 
 #: list.cpp:80
 msgid "Text &snippets (Click to paste text):"
-msgstr "Frînturi de te&xt (apăsați pentru a lipi textul):"
+msgstr "Frânturi de te&xt (apăsați pentru a lipi textul):"
 
 #: list.cpp:82
 msgid "Text &snippets (Click to copy text to clipboard):"
-msgstr "Frînturi de te&xt (apăsați pentru a copia textul în clipboard):"
+msgstr "Frânturi de te&xt (apăsați pentru a copia textul în clipboard):"
 
 #: paste.cpp:73
 msgid "Texts"
@@ -146,7 +146,7 @@ msgstr "Fără titlu"
 #. i18n: ectx: property (windowTitle), widget (QWidget, SnippetConfig)
 #: snippetconfig.ui:14
 msgid "Configure Paste Snippets"
-msgstr "Configurează lipirea frînturilor"
+msgstr "Configurează lipirea frânturilor"
 
 #. i18n: ectx: property (text), widget (QLabel, textsLabel)
 #: snippetconfig.ui:22

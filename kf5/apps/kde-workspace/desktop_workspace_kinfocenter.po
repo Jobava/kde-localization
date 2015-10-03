@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-01 10:50+0000\n"
+"POT-Creation-Date: 2015-09-30 08:19+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -60,12 +60,12 @@ msgctxt "X-KDE-Keywords"
 msgid "information,distribution,distro,system,kernel,qt,kde"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:45
+#: Modules/about-distro/src/about-distro.desktop:46
 msgctxt "Name"
 msgid "About System"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:78
+#: Modules/about-distro/src/about-distro.desktop:80
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Information about files and directories."
@@ -97,19 +97,40 @@ msgctxt "Name"
 msgid "Energy Information"
 msgstr "Informații despre memorie"
 
-#: Modules/energy/kcm_energyinfo.desktop:42
+#: Modules/energy/kcm_energyinfo.desktop:43
 msgctxt "Comment"
 msgid "Energy Consumption Statistics"
 msgstr ""
 
-#: Modules/energy/kcm_energyinfo.desktop:76
+#: Modules/energy/kcm_energyinfo.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid "Battery,Energy,Statistics,History,Power"
 msgstr ""
 
-#: Modules/energy/package/metadata.desktop:35
+#: Modules/energy/package/metadata.desktop:36
 msgctxt "Comment"
 msgid "Statistics about energy consumption"
+msgstr ""
+
+#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:9
+#: Modules/fileindexermonitor/package/metadata.desktop:2
+msgctxt "Name"
+msgid "File Indexer Monitor"
+msgstr ""
+
+#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:23
+msgctxt "Comment"
+msgid "Monitor State of File Indexer"
+msgstr ""
+
+#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:37
+msgctxt "X-KDE-Keywords"
+msgid "Baloo,File,Index,Monitor"
+msgstr ""
+
+#: Modules/fileindexermonitor/package/metadata.desktop:15
+msgctxt "Comment"
+msgid "File Index Monitor"
 msgstr ""
 
 #: Modules/info/dma.desktop:14
@@ -182,7 +203,7 @@ msgctxt "Name"
 msgid "Wayland"
 msgstr "Tailanda"
 
-#: Modules/info/wayland.desktop:55
+#: Modules/info/wayland.desktop:56
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Information about files and directories."
@@ -190,7 +211,7 @@ msgctxt "Comment"
 msgid "Information about the Wayland Compositor"
 msgstr "Informații despre fișiere și dosare."
 
-#: Modules/info/wayland.desktop:98
+#: Modules/info/wayland.desktop:100
 #, fuzzy
 #| msgctxt "X-KDE-Keywords"
 #| msgid "SMB,SAMBA,Windows network,LAN,System Information"

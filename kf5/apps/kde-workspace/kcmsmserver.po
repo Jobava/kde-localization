@@ -67,8 +67,8 @@ msgid ""
 "Here you can choose what should happen by default when you log out. This "
 "only has meaning, if you logged in through KDM."
 msgstr ""
-"Aici puteți alege ce anume să se întîmple cînd ieșiți din KDE. Această "
-"setare are sens numai dacă v-ați autentificat utilizînd KDM ca manager de "
+"Aici puteți alege ce anume să se întâmple când ieșiți din KDE. Această "
+"setare are sens numai dacă v-ați autentificat utilizând KDM ca manager de "
 "autentificare."
 
 #. i18n: ectx: property (title), widget (QGroupBox, sdGroup)

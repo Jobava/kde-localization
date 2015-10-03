@@ -35,11 +35,11 @@ msgstr ""
 #, fuzzy
 #| msgid "Maximum rows:"
 msgid "Maximum columns:"
-msgstr "Maxim rînduri:"
+msgstr "Maxim rânduri:"
 
 #: package/contents/ui/ConfigGeneral.qml:58
 msgid "Maximum rows:"
-msgstr "Maxim rînduri:"
+msgstr "Maxim rânduri:"
 
 #: package/contents/ui/ConfigGeneral.qml:70
 msgid "Always arrange tasks in rows of as many columns"
@@ -124,7 +124,7 @@ msgstr "După denumirea programului"
 
 #: package/contents/ui/ConfigGeneral.qml:157
 msgid "Only when the task manager is full"
-msgstr "Numai cînd gestionarul de sarcini e plin"
+msgstr "Numai când gestionarul de sarcini e plin"
 
 #: package/contents/ui/ConfigGeneral.qml:168
 msgid "Filters"
@@ -181,14 +181,14 @@ msgstr ""
 #~ msgstr "Aspect"
 
 #~ msgid "Force row settings"
-#~ msgstr "Forțează configurări rînd"
+#~ msgstr "Forțează configurări rând"
 
 #~ msgctxt "@title:group Name of a group of windows"
 #~ msgid "%1"
 #~ msgstr "%1"
 
 #~ msgid "Collapse Group"
-#~ msgstr "Restrînge grupul"
+#~ msgstr "Restrânge grupul"
 
 #~ msgid "Expand Group"
 #~ msgstr "Desfășoară grupul"
@@ -200,7 +200,7 @@ msgstr ""
 #~ msgstr "Noua denumire a grupului: "
 
 #~ msgid "Collapse Parent Group"
-#~ msgstr "Restrînge grupul părinte"
+#~ msgstr "Restrânge grupul părinte"
 
 #~ msgid "Configure Taskbar"
 #~ msgstr "Configurează panoul"

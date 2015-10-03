@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-26 08:46+0000\n"
+"POT-Creation-Date: 2015-09-24 08:59+0000\n"
 "PO-Revision-Date: 2014-11-04 17:02+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -435,6 +435,21 @@ msgctxt "Header text for IPv6 gateway"
 msgid "Gateway"
 msgstr "Gateway"
 
+#: editor/settings/security802-1x.cpp:398
+msgid "Alternative Subject Matches"
+msgstr ""
+
+#: editor/settings/security802-1x.cpp:399
+msgid ""
+"<qt>This entry must be one of:<ul><li>DNS: &lt;name or ip address&gt;</"
+"li><li>EMAIL: &lt;email&gt;</li><li>URI: &lt;uri, e.g. http://www.kde.org&gt;"
+"</li></ul></qt>"
+msgstr ""
+
+#: editor/settings/security802-1x.cpp:421
+msgid "Connect to these servers only"
+msgstr ""
+
 #: editor/settings/teamwidget.cpp:227
 msgid "Select file to import"
 msgstr ""
@@ -445,47 +460,15 @@ msgstr ""
 msgid "Authentication:"
 msgstr "Autentificare:"
 
-#. i18n: ectx: property (text), item, widget (KComboBox, auth)
-#. i18n: ectx: property (text), item, widget (KComboBox, peapInnerAuth)
-#: editor/settings/ui/802-1x.ui:35 editor/settings/ui/802-1x.ui:569
-msgid "MD5"
-msgstr "MD5"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, auth)
-#: editor/settings/ui/802-1x.ui:40
-msgid "TLS"
-msgstr "TLS"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, auth)
-#. i18n: ectx: property (text), item, widget (KComboBox, securityCombo)
-#: editor/settings/ui/802-1x.ui:45 editor/settings/ui/wifisecurity.ui:43
-msgid "LEAP"
-msgstr "LEAP"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, auth)
-#: editor/settings/ui/802-1x.ui:50
-msgid "FAST"
-msgstr "RAPID"
-
-#. i18n: ectx: property (text), item, widget (KComboBox, auth)
-#: editor/settings/ui/802-1x.ui:55
-msgid "Tunneled TLS (TTLS)"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (KComboBox, auth)
-#: editor/settings/ui/802-1x.ui:60
-msgid "Protected EAP (PEAP)"
-msgstr "EAP protejat (PEAP)"
-
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #. i18n: ectx: property (text), widget (QLabel, label_14)
 #. i18n: ectx: property (text), widget (QLabel, label_17)
 #. i18n: ectx: property (text), widget (QLabel, label_25)
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: editor/settings/ui/802-1x.ui:75 editor/settings/ui/802-1x.ui:201
-#: editor/settings/ui/802-1x.ui:330 editor/settings/ui/802-1x.ui:441
-#: editor/settings/ui/802-1x.ui:582 editor/settings/ui/cdma.ui:37
+#: editor/settings/ui/802-1x.ui:35 editor/settings/ui/802-1x.ui:217
+#: editor/settings/ui/802-1x.ui:346 editor/settings/ui/802-1x.ui:457
+#: editor/settings/ui/802-1x.ui:598 editor/settings/ui/cdma.ui:37
 #: editor/settings/ui/gsm.ui:41 editor/settings/ui/pppoe.ui:33
 #: editor/settings/ui/wifisecurity.ui:184
 msgid "Username:"
@@ -497,9 +480,9 @@ msgstr "Utilizator:"
 #. i18n: ectx: property (text), widget (QLabel, label_18)
 #. i18n: ectx: property (text), widget (QLabel, label_21)
 #. i18n: ectx: property (text), widget (QLabel, label_9)
-#: editor/settings/ui/802-1x.ui:88 editor/settings/ui/802-1x.ui:214
-#: editor/settings/ui/802-1x.ui:343 editor/settings/ui/802-1x.ui:454
-#: editor/settings/ui/802-1x.ui:595 editor/settings/ui/cdma.ui:50
+#: editor/settings/ui/802-1x.ui:48 editor/settings/ui/802-1x.ui:230
+#: editor/settings/ui/802-1x.ui:359 editor/settings/ui/802-1x.ui:470
+#: editor/settings/ui/802-1x.ui:611 editor/settings/ui/cdma.ui:50
 #: editor/settings/ui/gsm.ui:54 editor/settings/ui/pppoe.ui:46
 #: editor/settings/ui/wifisecurity.ui:197
 #: editor/settings/ui/wifisecurity.ui:221
@@ -510,69 +493,92 @@ msgstr "Parolă:"
 #. i18n: ectx: property (text), widget (QCheckBox, cbAskFastPassword)
 #. i18n: ectx: property (text), widget (QCheckBox, cbAskTtlsPassword)
 #. i18n: ectx: property (text), widget (QCheckBox, cbAskPeapPassword)
-#: editor/settings/ui/802-1x.ui:105 editor/settings/ui/802-1x.ui:360
-#: editor/settings/ui/802-1x.ui:471 editor/settings/ui/802-1x.ui:612
+#: editor/settings/ui/802-1x.ui:65 editor/settings/ui/802-1x.ui:376
+#: editor/settings/ui/802-1x.ui:487 editor/settings/ui/802-1x.ui:628
 msgid "Ask for this password every time"
 msgstr "Cere această parolă de fiecare dată"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
-#: editor/settings/ui/802-1x.ui:116
+#: editor/settings/ui/802-1x.ui:76
 msgid "Identity:"
 msgstr "Identitate:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
-#: editor/settings/ui/802-1x.ui:129
+#: editor/settings/ui/802-1x.ui:89
 msgid "User certificate:"
 msgstr "Certificat utilizator:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #. i18n: ectx: property (text), widget (QLabel, label_20)
 #. i18n: ectx: property (text), widget (QLabel, label_23)
-#: editor/settings/ui/802-1x.ui:146 editor/settings/ui/802-1x.ui:384
-#: editor/settings/ui/802-1x.ui:495
+#: editor/settings/ui/802-1x.ui:106 editor/settings/ui/802-1x.ui:400
+#: editor/settings/ui/802-1x.ui:511
 msgid "CA certificate:"
 msgstr "Certificat AC:"
 
+#. i18n: ectx: property (text), widget (QLabel, label_27)
+#: editor/settings/ui/802-1x.ui:123
+msgid "Subject match:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_28)
+#: editor/settings/ui/802-1x.ui:137
+msgid "Alternative subject matches:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, btnTlsAltSubjectMatches)
+#. i18n: ectx: property (text), widget (QPushButton, btnTlsConnectToServers)
+#: editor/settings/ui/802-1x.ui:149 editor/settings/ui/802-1x.ui:170
+#, fuzzy
+#| msgid "Add..."
+msgid "..."
+msgstr "Adaugă..."
+
+#. i18n: ectx: property (text), widget (QLabel, label_29)
+#: editor/settings/ui/802-1x.ui:158
+msgid "Connect to these servers:"
+msgstr ""
+
 #. i18n: ectx: property (text), widget (QLabel, label_7)
-#: editor/settings/ui/802-1x.ui:163
+#: editor/settings/ui/802-1x.ui:179
 msgid "Private key:"
 msgstr "Cheie privată:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: editor/settings/ui/802-1x.ui:180
+#: editor/settings/ui/802-1x.ui:196
 msgid "Private key password:"
 msgstr "Parola cheii private:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #. i18n: ectx: property (text), widget (QLabel, label_19)
 #. i18n: ectx: property (text), widget (QLabel, label_24)
-#: editor/settings/ui/802-1x.ui:235 editor/settings/ui/802-1x.ui:371
-#: editor/settings/ui/802-1x.ui:482
+#: editor/settings/ui/802-1x.ui:251 editor/settings/ui/802-1x.ui:387
+#: editor/settings/ui/802-1x.ui:498
 msgid "Anonymous identity:"
 msgstr "Identitate anonimă:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, fastAllowPacProvisioning)
-#: editor/settings/ui/802-1x.ui:248
+#: editor/settings/ui/802-1x.ui:264
 msgid "Automatic PAC provisioning"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, pacMethod)
-#: editor/settings/ui/802-1x.ui:265
+#: editor/settings/ui/802-1x.ui:281
 msgid "Anonymous"
 msgstr "Anonim"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, pacMethod)
-#: editor/settings/ui/802-1x.ui:270
+#: editor/settings/ui/802-1x.ui:286
 msgid "Authenticated"
 msgstr "Autentificat"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, pacMethod)
-#: editor/settings/ui/802-1x.ui:275
+#: editor/settings/ui/802-1x.ui:291
 msgid "Both"
 msgstr "Ambele"
 
 #. i18n: ectx: property (text), widget (QLabel, label_12)
-#: editor/settings/ui/802-1x.ui:283
+#: editor/settings/ui/802-1x.ui:299
 #, fuzzy
 #| msgid "PAC &file:"
 msgid "PAC file:"
@@ -581,14 +587,14 @@ msgstr "Fișier PAC:"
 #. i18n: ectx: property (text), widget (QLabel, label_13)
 #. i18n: ectx: property (text), widget (QLabel, label_16)
 #. i18n: ectx: property (text), widget (QLabel, label_22)
-#: editor/settings/ui/802-1x.ui:300 editor/settings/ui/802-1x.ui:401
-#: editor/settings/ui/802-1x.ui:547
+#: editor/settings/ui/802-1x.ui:316 editor/settings/ui/802-1x.ui:417
+#: editor/settings/ui/802-1x.ui:563
 msgid "Inner authentication:"
 msgstr "Autentificare interioară:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, fastInnerAuth)
 #. i18n: ectx: property (text), item, widget (KComboBox, peapInnerAuth)
-#: editor/settings/ui/802-1x.ui:317 editor/settings/ui/802-1x.ui:574
+#: editor/settings/ui/802-1x.ui:333 editor/settings/ui/802-1x.ui:590
 msgid "GTC"
 msgstr "GTC"
 
@@ -596,31 +602,31 @@ msgstr "GTC"
 #. i18n: ectx: property (text), item, widget (KComboBox, fastInnerAuth)
 #. i18n: ectx: property (text), item, widget (KComboBox, ttlsInnerAuth)
 #. i18n: ectx: property (text), item, widget (KComboBox, peapInnerAuth)
-#: editor/settings/ui/802-1x.ui:322 editor/settings/ui/802-1x.ui:428
-#: editor/settings/ui/802-1x.ui:564 editor/settings/ui/ppp.ui:68
+#: editor/settings/ui/802-1x.ui:338 editor/settings/ui/802-1x.ui:444
+#: editor/settings/ui/802-1x.ui:580 editor/settings/ui/ppp.ui:68
 msgid "MSCHAPv2"
 msgstr "MSCHAPv2"
 
 #. i18n: ectx: property (text), widget (QCheckBox, pap)
 #. i18n: ectx: property (text), item, widget (KComboBox, ttlsInnerAuth)
-#: editor/settings/ui/802-1x.ui:418 editor/settings/ui/ppp.ui:58
+#: editor/settings/ui/802-1x.ui:434 editor/settings/ui/ppp.ui:58
 msgid "PAP"
 msgstr "PAP"
 
 #. i18n: ectx: property (text), widget (QCheckBox, mschap)
 #. i18n: ectx: property (text), item, widget (KComboBox, ttlsInnerAuth)
-#: editor/settings/ui/802-1x.ui:423 editor/settings/ui/ppp.ui:48
+#: editor/settings/ui/802-1x.ui:439 editor/settings/ui/ppp.ui:48
 msgid "MSCHAP"
 msgstr "MSCHAP"
 
 #. i18n: ectx: property (text), widget (QCheckBox, chap)
 #. i18n: ectx: property (text), item, widget (KComboBox, ttlsInnerAuth)
-#: editor/settings/ui/802-1x.ui:433 editor/settings/ui/ppp.ui:78
+#: editor/settings/ui/802-1x.ui:449 editor/settings/ui/ppp.ui:78
 msgid "CHAP"
 msgstr "CHAP"
 
 #. i18n: ectx: property (text), widget (QLabel, label_26)
-#: editor/settings/ui/802-1x.ui:512
+#: editor/settings/ui/802-1x.ui:528
 msgid "PEAP version:"
 msgstr "Versiune PEAP:"
 
@@ -630,7 +636,7 @@ msgstr "Versiune PEAP:"
 #. i18n: ectx: property (text), item, widget (KComboBox, method)
 #. i18n: ectx: property (text), item, widget (KComboBox, peapVersion)
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, speed)
-#: editor/settings/ui/802-1x.ui:529 editor/settings/ui/infiniband.ui:80
+#: editor/settings/ui/802-1x.ui:545 editor/settings/ui/infiniband.ui:80
 #: editor/settings/ui/ipv4.ui:37 editor/settings/ui/ipv6.ui:69
 #: editor/settings/ui/wificonnectionwidget.ui:177
 #: editor/settings/ui/wificonnectionwidget.ui:233
@@ -640,14 +646,46 @@ msgid "Automatic"
 msgstr "Automat"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, peapVersion)
-#: editor/settings/ui/802-1x.ui:534
+#: editor/settings/ui/802-1x.ui:550
 msgid "Version 0"
 msgstr "Versiune 0"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, peapVersion)
-#: editor/settings/ui/802-1x.ui:539
+#: editor/settings/ui/802-1x.ui:555
 msgid "Version 1"
 msgstr "Versiune 1"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, peapInnerAuth)
+#. i18n: ectx: property (text), item, widget (KComboBox, auth)
+#: editor/settings/ui/802-1x.ui:585 editor/settings/ui/802-1x.ui:646
+msgid "MD5"
+msgstr "MD5"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, auth)
+#: editor/settings/ui/802-1x.ui:651
+msgid "TLS"
+msgstr "TLS"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, auth)
+#. i18n: ectx: property (text), item, widget (KComboBox, securityCombo)
+#: editor/settings/ui/802-1x.ui:656 editor/settings/ui/wifisecurity.ui:43
+msgid "LEAP"
+msgstr "LEAP"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, auth)
+#: editor/settings/ui/802-1x.ui:661
+msgid "FAST"
+msgstr "RAPID"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, auth)
+#: editor/settings/ui/802-1x.ui:666
+msgid "Tunneled TLS (TTLS)"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, auth)
+#: editor/settings/ui/802-1x.ui:671
+msgid "Protected EAP (PEAP)"
+msgstr "EAP protejat (PEAP)"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: editor/settings/ui/bond.ui:21 editor/settings/ui/bridge.ui:18
@@ -808,7 +846,7 @@ msgstr "Nu este necesar"
 #. i18n: ectx: property (text), widget (QCheckBox, autoconnect)
 #: editor/settings/ui/connectionwidget.ui:17
 msgid "Automatically connect to this network when it is available"
-msgstr "Conectează automat la această rețea cînd e disponibilă"
+msgstr "Conectează automat la această rețea când e disponibilă"
 
 #. i18n: ectx: property (text), widget (QCheckBox, allUsers)
 #: editor/settings/ui/connectionwidget.ui:29
@@ -835,7 +873,7 @@ msgstr "Avansat..."
 #. i18n: ectx: property (text), widget (QCheckBox, autoconnectVpn)
 #: editor/settings/ui/connectionwidget.ui:83
 msgid "Automatically connect to VPN when using this connection"
-msgstr "Conectează automat la VPN cînd e folosită această conexiune"
+msgstr "Conectează automat la VPN când e folosită această conexiune"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: editor/settings/ui/connectionwidget.ui:119
@@ -1385,7 +1423,7 @@ msgstr "Indisponibil"
 
 #: editor/widgets/bssidcombobox.cpp:135
 msgid "First select the SSID"
-msgstr "Mai întîi alegeți SSID-ul"
+msgstr "Mai întâi alegeți SSID-ul"
 
 #: editor/widgets/bssidcombobox.cpp:144
 #, fuzzy, kde-format
@@ -1566,7 +1604,7 @@ msgstr ""
 "Atenție: Alegerea unui plan greșit poate provoca dificultăți de taxare "
 "pentru contul dumneavoastră sau poate împiedica conectarea.\n"
 "\n"
-"Dacă nu sînteți sigur, cereți operatorului să vă spună APN-ul abonamentului "
+"Dacă nu sunteți sigur, cereți operatorului să vă spună APN-ul abonamentului "
 "dumneavoastră."
 
 #: editor/widgets/mobileconnectionwizard.cpp:550

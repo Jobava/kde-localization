@@ -57,7 +57,7 @@ msgstr "Ultima actualizare: %1"
 #~ msgstr "UMIDITATE"
 
 #~ msgid "WIND"
-#~ msgstr "VÎNT"
+#~ msgstr "VÂNT"
 
 #~ msgid "Show &tool tip"
 #~ msgstr "Ara&tă indiciul"
@@ -84,7 +84,7 @@ msgstr "Ultima actualizare: %1"
 #~ msgstr "&Presiune:"
 
 #~ msgid "Wind &Speed:"
-#~ msgstr "&Viteza vîntului:"
+#~ msgstr "&Viteza vântului:"
 
 #~ msgid "Search"
 #~ msgstr "Caută"
@@ -173,7 +173,7 @@ msgstr "Ultima actualizare: %1"
 #~ msgstr "Actualizează informațiile despre vreme la fiecare"
 
 #~ msgid "Select wind format:"
-#~ msgstr "Alegeți formatul vîntului:"
+#~ msgstr "Alegeți formatul vântului:"
 
 #~ msgid "Data Source"
 #~ msgstr "Sursă date"
@@ -186,7 +186,7 @@ msgstr "Ultima actualizare: %1"
 
 #~ msgid ""
 #~ "The applet was not able to contact the server, please try again later"
-#~ msgstr "Miniaplicația nu a putut contacta serverul, reîncercați mai tîrziu"
+#~ msgstr "Miniaplicația nu a putut contacta serverul, reîncercați mai târziu"
 
 #~ msgid ""
 #~ "The place '%1' is not valid. The data source is not able to find this "

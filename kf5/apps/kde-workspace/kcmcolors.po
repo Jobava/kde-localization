@@ -60,7 +60,7 @@ msgstr "Alegerea altei scheme va anula orice schimbări efectuate"
 
 #: colorscm.cpp:271
 msgid "Are you sure?"
-msgstr "Sînteți sigur?"
+msgstr "Sunteți sigur?"
 
 #: colorscm.cpp:339
 msgid "You do not have permission to delete that scheme"
@@ -370,7 +370,7 @@ msgstr "Indiciu"
 #: colorsettings.ui:460 colorsettings.ui:465 colorsettings.ui:470
 #: colorsettings.ui:475 colorsettings.ui:480
 msgid "New Row"
-msgstr "Rînd nou"
+msgstr "Rând nou"
 
 #. i18n: ectx: property (text), widget (QTableWidget, commonColorTable)
 #: colorsettings.ui:485

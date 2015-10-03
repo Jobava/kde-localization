@@ -34,12 +34,12 @@ msgstr "Adăugați lansatori prin a-i trage aici sau folosind meniul contextual.
 #. i18n: ectx: property (text), widget (QLabel, autoSectionCountEnabledLabel)
 #: quicklaunch.cpp:148 quicklaunchConfig.ui:20
 msgid "Determine number of rows automatically:"
-msgstr "Determină numărul de rînduri automat:"
+msgstr "Determină numărul de rânduri automat:"
 
 #. i18n: ectx: property (text), widget (QLabel, sectionCountLabel)
 #: quicklaunch.cpp:150 quicklaunchConfig.ui:53
 msgid "Number of rows:"
-msgstr "Număr de rînduri:"
+msgstr "Număr de rânduri:"
 
 #: quicklaunch.cpp:160
 msgid "Determine number of columns automatically:"
@@ -89,10 +89,10 @@ msgid "Enable popup:"
 msgstr "Activează indiciu:"
 
 #~ msgid "Force row settings:"
-#~ msgstr "Forțează configurări rînduri:"
+#~ msgstr "Forțează configurări rânduri:"
 
 #~ msgid "Max row count:"
-#~ msgstr "Număr maxim de rînduri:"
+#~ msgstr "Număr maxim de rânduri:"
 
 #~ msgid "Force column settings:"
 #~ msgstr "Forțează configurări coloane:"
@@ -101,7 +101,7 @@ msgstr "Activează indiciu:"
 #~ msgstr "Număr maxim de coloane:"
 
 #~ msgid "Maximum rows:"
-#~ msgstr "Maxim rînduri:"
+#~ msgstr "Maxim rânduri:"
 
 #~ msgid "unlimited"
 #~ msgstr "nelimitat"
@@ -122,10 +122,10 @@ msgstr "Activează indiciu:"
 #~ "Următoarea este deja în lansare rapidă, se ignoră:\n"
 #~ "%2"
 #~ msgstr[1] ""
-#~ "Următoarele sînt deja în lansare rapidă, se ignoră:\n"
+#~ "Următoarele sunt deja în lansare rapidă, se ignoră:\n"
 #~ "%2"
 #~ msgstr[2] ""
-#~ "Următoarele sînt deja în lansare rapidă, se ignoră:\n"
+#~ "Următoarele sunt deja în lansare rapidă, se ignoră:\n"
 #~ "%2"
 
 #~ msgid "Icon size:"
@@ -144,4 +144,4 @@ msgstr "Activează indiciu:"
 #~ msgstr "Pictogramă nouă:"
 
 #~ msgid "Rows in the dialog:"
-#~ msgstr "Rînduri în dialog:"
+#~ msgstr "Rânduri în dialog:"

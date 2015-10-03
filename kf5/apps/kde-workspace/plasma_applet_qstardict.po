@@ -24,7 +24,7 @@ msgstr ""
 
 #: dict.cpp:107
 msgid "Enter word to define here"
-msgstr "Introduceți cuvîntul de definit aici"
+msgstr "Introduceți cuvântul de definit aici"
 
 #: dict.cpp:308
 msgid "Dictionary"

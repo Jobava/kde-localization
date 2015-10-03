@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-01 10:37+0000\n"
+"POT-Creation-Date: 2015-09-29 10:00+0000\n"
 "PO-Revision-Date: 2015-04-20 14:33+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -36,7 +36,7 @@ msgstr "Temporizarea protecției de ecran"
 #. i18n: ectx: whatsthis, entry, group (Daemon)
 #: kcfg/kscreenlockersettings.kcfg:17
 msgid "Sets the minutes after which the screen is locked."
-msgstr "Stabilește după cîte minute se va bloca ecranul."
+msgstr "Stabilește după câte minute se va bloca ecranul."
 
 #: ksldapp.cpp:159
 msgid "Lock Session"
@@ -46,7 +46,7 @@ msgstr "Blochează sesiunea"
 msgid "Screen locked"
 msgstr "Ecran blocat"
 
-#: ksldapp.cpp:505
+#: ksldapp.cpp:512
 msgid "Screen unlocked"
 msgstr "Ecran deblocat"
 
@@ -78,7 +78,7 @@ msgstr "Se asigură blocarea ecranului înainte de adormire"
 #~ "mouse or pressing a key.</qt>"
 #~ msgstr ""
 #~ "<qt>Pentru a preveni dezautentificarea, reluați folosirea acestei sesiuni "
-#~ "mișcînd mausul sau apăsînd o tastă.</qt>"
+#~ "mișcând mausul sau apăsând o tastă.</qt>"
 
 #~ msgid "Time Remaining:"
 #~ msgstr "Timp rămas:"
@@ -111,7 +111,7 @@ msgstr "Se asigură blocarea ecranului înainte de adormire"
 #~ "       actually perform useful computations, so it is not desirable to "
 #~ "suspend them."
 #~ msgstr ""
-#~ "De obicei, protecția de ecran este suspendată cînd se activează "
+#~ "De obicei, protecția de ecran este suspendată când se activează "
 #~ "economisirea energiei ecranului,\n"
 #~ "       deoarece oricum nu se vede nimic pe ecran, evident. Totuși, unele "
 #~ "protecții de ecran\n"

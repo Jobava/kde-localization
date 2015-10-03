@@ -87,7 +87,7 @@ msgstr "&Aliniere titlu"
 #. i18n: ectx: property (text), widget (QRadioButton, kcfg_titleAlignLeft)
 #: aurorae/themes/plastik/package/contents/ui/config.ui:29
 msgid "Left"
-msgstr "Stînga"
+msgstr "Stânga"
 
 #. i18n: ectx: property (text), widget (QRadioButton, kcfg_titleAlignCenter)
 #: aurorae/themes/plastik/package/contents/ui/config.ui:36
@@ -133,8 +133,8 @@ msgid ""
 "Check this option if you want the buttons to fade in when the mouse pointer "
 "hovers over them and fade out again when it moves away."
 msgstr ""
-"Bifați această opțiune dacă doriți ca butoanele să apară gradual cînd "
-"indicatorul de maus planează peste ele și să se estompeze iar cînd este dat "
+"Bifați această opțiune dacă doriți ca butoanele să apară gradual când "
+"indicatorul de maus planează peste ele și să se estompeze iar când este dat "
 "deoparte."
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_animateButtons)
@@ -155,7 +155,7 @@ msgstr "Butoane animate"
 
 #~ msgid "Configure fading transitions when window title is changed"
 #~ msgstr ""
-#~ "Configurează tranziția atenuată cînd titlul unei ferestre s-a schimbat"
+#~ "Configurează tranziția atenuată când titlul unei ferestre s-a schimbat"
 
 #~ msgid "Window active state change transitions"
 #~ msgstr "Tranziții de schimbare a stării active a ferestrei"
@@ -164,7 +164,7 @@ msgstr "Butoane animate"
 #~ "Configure fading between window shadow and glow when window's active "
 #~ "state is changed"
 #~ msgstr ""
-#~ "Configurează tranziția atenuată între umbra și strălucirea ferestrei cînd "
+#~ "Configurează tranziția atenuată între umbra și strălucirea ferestrei când "
 #~ "se schimbă starea activă a ferestrei"
 
 #~ msgid "Window grouping animations"
@@ -173,7 +173,7 @@ msgstr "Butoane animate"
 #~ msgid ""
 #~ "Configure window titlebar animations when windows are grouped/ungrouped"
 #~ msgstr ""
-#~ "Configurează animația barei de titlu a ferestrei cînd ferestrele sunt "
+#~ "Configurează animația barei de titlu a ferestrei când ferestrele sunt "
 #~ "grupate"
 
 #~ msgid "Hide Advanced Configuration Options"
@@ -265,7 +265,7 @@ msgstr "Butoane animate"
 #~ msgstr "Nu desena separator niciodată "
 
 #~ msgid "Draw Separator When Window is Active"
-#~ msgstr "Desenează separator cînd fereastra este activă"
+#~ msgstr "Desenează separator când fereastra este activă"
 
 #~ msgid "Always Draw Separator"
 #~ msgstr "Desenează separator întotdeauna"
@@ -280,7 +280,7 @@ msgstr "Butoane animate"
 #~ msgstr "Folosește spațiu îngust între butoanele de decorare"
 
 #~ msgid "Add handle to resize windows with no border"
-#~ msgstr "Adaugă mîner pentru redimensionarea ferestrelor fără margine"
+#~ msgstr "Adaugă mâner pentru redimensionarea ferestrelor fără margine"
 
 #~ msgid "Display window borders for maximized windows"
 #~ msgstr "Afișează marginile ferestrelor pentru ferestre maximizate"
@@ -450,25 +450,25 @@ msgstr "Butoane animate"
 #~ msgstr "?"
 
 #~ msgid "Draw window frames using &titlebar colors"
-#~ msgstr "Desenează ramele ferestrelor utilizînd culorile barei de &titlu"
+#~ msgstr "Desenează ramele ferestrelor utilizând culorile barei de &titlu"
 
 #~ msgid ""
 #~ "When selected, the window borders are drawn using the titlebar colors; "
 #~ "otherwise, they are drawn using normal border colors."
 #~ msgstr ""
-#~ "Cînd este selectat, marginile ferestrelor sînt desenate folosind culorile "
-#~ "barei de titlu; altfel, ele sînt desenate folosind culori de margine "
+#~ "Când este selectat, marginile ferestrelor sunt desenate folosind culorile "
+#~ "barei de titlu; altfel, ele sunt desenate folosind culori de margine "
 #~ "normale."
 
 #~ msgid "Draw &resize handle"
-#~ msgstr "Desenează mînerul de &redimensionare"
+#~ msgstr "Desenează mânerul de &redimensionare"
 
 #~ msgid ""
 #~ "When selected, decorations are drawn with a \"grab handle\" in the bottom "
 #~ "right corner of the windows; otherwise, no grab handle is drawn."
 #~ msgstr ""
-#~ "Cînd este selectat, decorările sînt desenate cu un „mîner de tragere” în "
-#~ "colțul din dreapta jos al ferestrelor; altfel, niciun mîner de tragere "
+#~ "Când este selectat, decorările sunt desenate cu un „mâner de tragere” în "
+#~ "colțul din dreapta jos al ferestrelor; altfel, niciun mâner de tragere "
 #~ "este desenat."
 
 #~ msgid "Auto-move titlebar"
@@ -478,8 +478,8 @@ msgstr "Butoane animate"
 #~ "When selected, titlebars are automatically relocated to visible "
 #~ "positions; otherwise, they are only moved manually using shift+drag."
 #~ msgstr ""
-#~ "Cînd este selectat, barele de titlu sînt reașezate automat în pozițiile "
-#~ "vizibile; altfel, ele sînt plasate doar manual folosind shift+tragere."
+#~ "Când este selectat, barele de titlu sunt reașezate automat în pozițiile "
+#~ "vizibile; altfel, ele sunt plasate doar manual folosind shift+tragere."
 
 #~ msgid "Actions Settings"
 #~ msgstr "Configurări acțiuni"
@@ -504,7 +504,7 @@ msgstr "Butoane animate"
 #~ "it to none if in doubt."
 #~ msgstr ""
 #~ "O acțiune poate fi asociată cu dublu-clic butonul de meniu. Lăsați gol "
-#~ "dacă sînteți nesigur."
+#~ "dacă sunteți nesigur."
 
 #~ msgid "Laptop"
 #~ msgstr "Laptop"
@@ -554,10 +554,10 @@ msgstr "Butoane animate"
 #~ msgstr "Mică"
 
 #~ msgid "Extra size grip display: "
-#~ msgstr "Afișaj mînerul extra de dimensionare: "
+#~ msgstr "Afișaj mânerul extra de dimensionare: "
 
 #~ msgid "Extra size grip display:"
-#~ msgstr "Afișaj mînerul extra de dimensionare:"
+#~ msgstr "Afișaj mânerul extra de dimensionare:"
 
 #~ msgid "Inner Color:"
 #~ msgstr "Culoare interior:"
@@ -572,16 +572,16 @@ msgstr "Butoane animate"
 #~ msgstr "Dimensiune: "
 
 #~ msgid "Always Hide Extra Size Grip"
-#~ msgstr "Ascunde întodeauna mînerul extra de dimensionare"
+#~ msgstr "Ascunde întodeauna mânerul extra de dimensionare"
 
 #~ msgid "Show Extra Size Grip When Needed"
-#~ msgstr "Afișează mînerul extra de dimensionare cînd este nevoie"
+#~ msgstr "Afișează mânerul extra de dimensionare când este nevoie"
 
 #~ msgid ""
 #~ "Check this option if you want windows to be closed when you double click "
 #~ "the menu button, similar to Microsoft Windows."
 #~ msgstr ""
-#~ "Bifați această opțiune dacă doriți ca ferestrele să fie închise cînd "
+#~ "Bifați această opțiune dacă doriți ca ferestrele să fie închise când "
 #~ "faceți dublu-clic pe butonul de meniu, la fel ca în Microsoft Windows"
 
 #~ msgid "Plastik"
@@ -603,7 +603,7 @@ msgstr "Butoane animate"
 #~ msgstr "Bandă de file"
 
 #~ msgid "&Left"
-#~ msgstr "&Stînga"
+#~ msgstr "&Stânga"
 
 #~ msgid "&Center"
 #~ msgstr "&Centrat"
@@ -686,10 +686,10 @@ msgstr "Butoane animate"
 #~ msgstr "Redmond"
 
 #~ msgid "&Show window resize handle"
-#~ msgstr "&Arată mînerul de redimensionare a ferestrei"
+#~ msgstr "&Arată mânerul de redimensionare a ferestrei"
 
 #~ msgid "Here you can change the size of the resize handle."
-#~ msgstr "Aici puteți modifica dimensiunea mînerului de redimensionare."
+#~ msgstr "Aici puteți modifica dimensiunea mânerului de redimensionare."
 
 #~ msgid "Medium"
 #~ msgstr "Medie"
@@ -738,4 +738,4 @@ msgstr "Butoane animate"
 #, fuzzy
 #~| msgid "Draw window frames using &titlebar colors"
 #~ msgid "Overwrite default title bar colors:"
-#~ msgstr "Desenează ramele ferestrelor utilizînd culorile barei de &titlu"
+#~ msgstr "Desenează ramele ferestrelor utilizând culorile barei de &titlu"

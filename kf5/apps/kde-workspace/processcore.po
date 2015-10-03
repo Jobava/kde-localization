@@ -75,7 +75,7 @@ msgstr "Necunoscut"
 #: process.cpp:139
 msgctxt "process status"
 msgid "running"
-msgstr "rulînd"
+msgstr "rulând"
 
 #: process.cpp:140
 msgctxt "process status"

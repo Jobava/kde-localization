@@ -509,7 +509,7 @@ msgstr "Eroare: Nu există o metodă de căutare pentru tipul de document '%1'."
 
 #: searchengine.cpp:230
 msgid "Handler"
-msgstr "Mîner"
+msgstr "Mâner"
 
 #: searchengine.cpp:230
 #, kde-format
@@ -659,7 +659,7 @@ msgstr "Copiază adresa legăturii"
 #~ msgstr ""
 #~ "KDE este un mediu grafic puternic pentru stații de lucru UNIX. Un\n"
 #~ "mediu KDE combină ușurința de utilizare, funcționalități contemporane\n"
-#~ "și un aspect grafic de vîrf cu superioritatea tehnologică a sistemul de "
+#~ "și un aspect grafic de vârf cu superioritatea tehnologică a sistemul de "
 #~ "operare UNIX."
 
 #~ msgid "What is the K Desktop Environment?"

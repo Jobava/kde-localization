@@ -40,7 +40,7 @@ msgid ""
 "running."
 msgstr ""
 "Configurarea folosește „ssh-agent” pentru autentificare, dar nu a fost găsit "
-"rulînd niciun „ssh-agent”."
+"rulând niciun „ssh-agent”."
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, StrongswanProp)
 #. i18n: ectx: property (windowTitle), widget (QWidget, StrongswanAuth)

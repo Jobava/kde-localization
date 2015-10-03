@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-14 08:38+0000\n"
+"POT-Creation-Date: 2015-09-20 09:13+0000\n"
 "PO-Revision-Date: 2015-04-20 14:41+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -34,7 +34,7 @@ msgctxt "Name"
 msgid "Breeze Snow"
 msgstr "Briză Zăpadă"
 
-#: icons-dark/index.theme:2 lookandfeel.dark/metadata.desktop:28
+#: icons-dark/index.theme:2 lookandfeel.dark/metadata.desktop:29
 msgctxt "Name"
 msgid "Breeze Dark"
 msgstr "Briză Întunecat"
@@ -62,7 +62,7 @@ msgctxt "Comment"
 msgid "Modify the appearance of window decorations"
 msgstr "Modifică aspectul decorațiilor pentru ferestre"
 
-#: kdecoration/config/breezedecorationconfig.desktop:83
+#: kdecoration/config/breezedecorationconfig.desktop:84
 msgctxt "X-KDE-Keywords"
 msgid "breeze,decoration"
 msgstr "briză,breeze,decorare,decorație"
@@ -77,12 +77,12 @@ msgctxt "Name"
 msgid "Widget Style"
 msgstr "Stilul controalelor"
 
-#: kstyle/config/breezestyleconfig.desktop:47
+#: kstyle/config/breezestyleconfig.desktop:48
 msgctxt "Comment"
 msgid "Modify the appearance of widgets"
 msgstr "Modifică aspectul controalelor"
 
-#: kstyle/config/breezestyleconfig.desktop:83
+#: kstyle/config/breezestyleconfig.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid "breeze,widget,style"
 msgstr "briză,breeze,widget,stil"

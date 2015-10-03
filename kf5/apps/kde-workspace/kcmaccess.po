@@ -73,7 +73,7 @@ msgstr ""
 "<p>Marcați această opțiune dacă doriți să utilizați un sunet  personalizat. "
 "Dacă faceți acest lucru, atunci ar trebui să dezactivați clopoțelul de "
 "sistem.</p><p>Trebuie să rețineți că pe calculatoare mai lente acest lucru "
-"va cauza o întîrziere între evenimentul ce provoacă sunetul și semnalul "
+"va cauza o întârziere între evenimentul ce provoacă sunetul și semnalul "
 "sonor propriu-zis.</p>"
 
 #. i18n: ectx: property (text), widget (QCheckBox, customBell)
@@ -91,7 +91,7 @@ msgid ""
 msgstr ""
 "Dacă este activată opțiunea \"Utilizează sunet personalizat\" puteți alege "
 "aici un fișier de sunet. Dați clic pe \"Răsfoiește...\" pentru a alege un "
-"fișier de sunet utilizînd dialogul de alegere de fișiere."
+"fișier de sunet utilizând dialogul de alegere de fișiere."
 
 #. i18n: ectx: property (text), widget (QLabel, soundLabel)
 #: accessibility.ui:74
@@ -116,7 +116,7 @@ msgid ""
 "useful for deaf people."
 msgstr ""
 "Această opțiune va activa \"sunetul vizibil\", adică o notificare vizibilă "
-"afișată de fiecare dată cînd este generat un clopoțel. Acest lucru este util "
+"afișată de fiecare dată când este generat un clopoțel. Acest lucru este util "
 "în special persoanelor cu probleme de auz."
 
 #. i18n: ectx: property (text), widget (QCheckBox, visibleBell)
@@ -211,13 +211,13 @@ msgstr "&Blochează tastele comutator"
 #. i18n: ectx: property (text), widget (QCheckBox, stickyKeysAutoOff)
 #: accessibility.ui:276
 msgid "Turn sticky keys off when two keys are pressed simultaneously"
-msgstr "Dezactivează tastele lipicioase cînd două taste sînt apăsate simultan"
+msgstr "Dezactivează tastele lipicioase când două taste sunt apăsate simultan"
 
 #. i18n: ectx: property (text), widget (QCheckBox, stickyKeysBeep)
 #: accessibility.ui:283
 msgid "Use system bell whenever a modifier gets latched, locked or unlocked"
 msgstr ""
-"Folosește clopoțelul de sistem oricînd un modificator este angajat, blocat "
+"Folosește clopoțelul de sistem oricând un modificator este angajat, blocat "
 "sau deblocat"
 
 #. i18n: ectx: property (title), widget (QGroupBox, locking)
@@ -229,7 +229,7 @@ msgstr "Taste de blocare"
 #: accessibility.ui:303
 msgid "Use system bell whenever a locking key gets activated or deactivated"
 msgstr ""
-"Folosește clopoțelul de sistem oricînd o tastă de blocare este activată sau "
+"Folosește clopoțelul de sistem oricând o tastă de blocare este activată sau "
 "dezactivată"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kNotifyModifiers)
@@ -241,7 +241,7 @@ msgstr ""
 msgid ""
 "Use Plasma's notification mechanism for modifier or locking key state changes"
 msgstr ""
-"Folosește mecanismul de notificare a sistemului KDE oricînd o tastă de "
+"Folosește mecanismul de notificare a sistemului KDE oricând o tastă de "
 "modificare sau blocare își schimbă starea"
 
 #. i18n: ectx: property (text), widget (QPushButton, kNotifyModifiersButton)
@@ -268,17 +268,17 @@ msgstr "Utilizează taste l&ente"
 #. i18n: ectx: property (text), widget (QCheckBox, slowKeysPressBeep)
 #: accessibility.ui:449
 msgid "&Use system bell whenever a key is pressed"
-msgstr "&Folosește clopoțelul de sistem oricînd este apăsată o tastă"
+msgstr "&Folosește clopoțelul de sistem oricând este apăsată o tastă"
 
 #. i18n: ectx: property (text), widget (QCheckBox, slowKeysAcceptBeep)
 #: accessibility.ui:456
 msgid "&Use system bell whenever a key is accepted"
-msgstr "&Folosește clopoțelul de sistem oricînd este acceptată o tastă"
+msgstr "&Folosește clopoțelul de sistem oricând este acceptată o tastă"
 
 #. i18n: ectx: property (text), widget (QCheckBox, slowKeysRejectBeep)
 #: accessibility.ui:463
 msgid "&Use system bell whenever a key is rejected"
-msgstr "&Folosește clopoțelul de sistem oricînd este respinsă o tastă"
+msgstr "&Folosește clopoțelul de sistem oricând este respinsă o tastă"
 
 #. i18n: ectx: property (title), widget (QGroupBox, bouncekeys)
 #: accessibility.ui:477
@@ -293,7 +293,7 @@ msgstr "Folosește taste salt"
 #. i18n: ectx: property (text), widget (QCheckBox, bounceKeysRejectBeep)
 #: accessibility.ui:544
 msgid "Use the system bell whenever a key is rejected"
-msgstr "Folosește clopoțelul de sistem oricînd este respinsă o tastă"
+msgstr "Folosește clopoțelul de sistem oricând este respinsă o tastă"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabActivationGestures)
 #: accessibility.ui:570
@@ -340,7 +340,7 @@ msgid ""
 "Use the system bell whenever a gesture is used to toggle an accessibility "
 "feature"
 msgstr ""
-"Folosește clopoțelul de sistem oricînd este folosit un gest pentru a activa "
+"Folosește clopoțelul de sistem oricând este folosit un gest pentru a activa "
 "sau dezactiva o capabilitate de accesibilitate"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, gestureConfirmation)
@@ -352,8 +352,8 @@ msgid ""
 "accessibility settings will then always be applied without confirmation."
 msgstr ""
 "Dacă această opțiune este activată, KDE va afișa un dialog de confirmare "
-"oricînd o capabilitate de accesibilitate este activată sau dezactivată.\n"
-"Aveți grijă că dacă dezactivați această opțiune, întrucît setările de "
+"oricând o capabilitate de accesibilitate este activată sau dezactivată.\n"
+"Aveți grijă că dacă dezactivați această opțiune, întrucât setările de "
 "accesibilitate ale tastaturii vor fi aplicate întotdeauna fără confirmare."
 
 #. i18n: ectx: property (text), widget (QCheckBox, gestureConfirmation)
@@ -366,7 +366,7 @@ msgid ""
 "Show a confirmation dialog whenever a keyboard accessibility feature is "
 "toggled"
 msgstr ""
-"Afișează un dialog de confirmare oricînd o capabilitate de accesibilitate "
+"Afișează un dialog de confirmare oricând o capabilitate de accesibilitate "
 "este activată sau dezactivată"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kNotifyAccess)
@@ -379,7 +379,7 @@ msgid ""
 "Use Plasma's notification mechanism whenever a keyboard accessibility "
 "feature is toggled"
 msgstr ""
-"Folosește mecanismul de notificare a sistemului KDE oricînd o capabilitate "
+"Folosește mecanismul de notificare a sistemului KDE oricând o capabilitate "
 "de accesibilitate este activată sau dezactivată."
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabScreenReader)
@@ -414,17 +414,17 @@ msgstr "Super"
 #: kcmaccess.cpp:139
 #, kde-format
 msgid "Press %1 while NumLock, CapsLock and ScrollLock are active"
-msgstr "Apăsați %1 în timp ce NumLock, CapsLock și ScrollLock sînt active"
+msgstr "Apăsați %1 în timp ce NumLock, CapsLock și ScrollLock sunt active"
 
 #: kcmaccess.cpp:141
 #, kde-format
 msgid "Press %1 while CapsLock and ScrollLock are active"
-msgstr "Apăsați %1 în timp ce CapsLock și ScrollLock sînt active"
+msgstr "Apăsați %1 în timp ce CapsLock și ScrollLock sunt active"
 
 #: kcmaccess.cpp:143
 #, kde-format
 msgid "Press %1 while NumLock and ScrollLock are active"
-msgstr "Apăsați %1 în timp ce NumLock și ScrollLock sînt active"
+msgstr "Apăsați %1 în timp ce NumLock și ScrollLock sunt active"
 
 #: kcmaccess.cpp:145
 #, kde-format
@@ -434,7 +434,7 @@ msgstr "Apăsați %1 în timp ce ScrollLock este activ"
 #: kcmaccess.cpp:148
 #, kde-format
 msgid "Press %1 while NumLock and CapsLock are active"
-msgstr "Apăsați %1 în timp ce NumLock și CapsLock sînt active"
+msgstr "Apăsați %1 în timp ce NumLock și CapsLock sunt active"
 
 #: kcmaccess.cpp:150
 #, kde-format
@@ -494,7 +494,7 @@ msgstr ""
 "Taste lente: Tineți apăsată tasta Shift timp de 8 secunde"
 
 #~ msgid "Acceptance dela&y:"
-#~ msgstr "Întîrziere acceptare:"
+#~ msgstr "Întârziere acceptare:"
 
 #~ msgid "D&ebounce time:"
 #~ msgstr "Timp d&e-salt:"

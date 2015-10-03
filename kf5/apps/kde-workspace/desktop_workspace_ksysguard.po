@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-05 08:49+0000\n"
+"POT-Creation-Date: 2015-09-26 09:24+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -27,22 +27,22 @@ msgctxt "Comment"
 msgid "System Monitor"
 msgstr "Monitor de sistem"
 
-#: example/ksysguard.notifyrc:70
+#: example/ksysguard.notifyrc:71
 msgctxt "Name"
 msgid "Pattern Matched"
 msgstr "Șablon potrivit"
 
-#: example/ksysguard.notifyrc:149
+#: example/ksysguard.notifyrc:150
 msgctxt "Comment"
 msgid "Search pattern matched"
 msgstr "Modelul căutat s-a potrivit"
 
-#: example/ksysguard.notifyrc:232
+#: example/ksysguard.notifyrc:233
 msgctxt "Name"
 msgid "Sensor Alarm"
 msgstr "Alarmă senzor"
 
-#: example/ksysguard.notifyrc:312
+#: example/ksysguard.notifyrc:313
 msgctxt "Comment"
 msgid "Sensor exceeded critical limit"
 msgstr "Senzorul a depășit limita critică"

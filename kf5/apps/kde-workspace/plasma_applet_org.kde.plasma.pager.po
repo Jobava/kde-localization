@@ -119,10 +119,10 @@ msgstr[2] "și încă 1"
 #~ msgstr "Număr de coloane:"
 
 #~ msgid "Number of rows:"
-#~ msgstr "Număr de rînduri:"
+#~ msgstr "Număr de rânduri:"
 
 #~ msgid "Change the number of rows"
-#~ msgstr "Schimbă numărul de rînduri"
+#~ msgstr "Schimbă numărul de rânduri"
 
 #~ msgid "&Configure Virtual Desktops..."
 #~ msgstr "&Configurare birouri virtuale..."

@@ -106,7 +106,7 @@ msgstr ""
 
 #: main.cpp:203
 msgid "The following modules are available:"
-msgstr "Sînt disponibile următoarele module:"
+msgstr "Sunt disponibile următoarele module:"
 
 #: main.cpp:220
 msgid "No description available"

@@ -114,7 +114,7 @@ msgstr "Gestiunea ferestrelor"
 #. i18n: ectx: property (text), widget (QCheckBox, quickMaximizeBox)
 #: main.ui:58
 msgid "Maximize windows by dragging them to the top of the screen"
-msgstr "Maximizează ferestrele trăgîndu-le spre vîrful ecranului"
+msgstr "Maximizează ferestrele trăgându-le spre vârful ecranului"
 
 #. i18n: ectx: property (text), widget (QCheckBox, quickTileBox)
 #: main.ui:65
@@ -149,7 +149,7 @@ msgstr "Alte configurări"
 msgid ""
 "Change desktop when the mouse cursor is pushed against the edge of the screen"
 msgstr ""
-"Schimbă biroul cînd cursorul mausului este împins în marginea ecranului"
+"Schimbă biroul când cursorul mausului este împins în marginea ecranului"
 
 #. i18n: ectx: property (text), widget (QLabel, desktopSwitchLabel)
 #: main.ui:165
@@ -184,7 +184,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: main.ui:197
 msgid "Activation &delay:"
-msgstr "Întîr&zierea activării:"
+msgstr "Întâr&zierea activării:"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, activationDelaySpin)
 #. i18n: ectx: property (suffix), widget (QSpinBox, triggerCooldownSpin)
@@ -198,13 +198,13 @@ msgid ""
 "Amount of time required after triggering an action until the next trigger "
 "can occur"
 msgstr ""
-"Intervalul de timp necesar după declanșarea acțiunii pînă la declanșarea "
+"Intervalul de timp necesar după declanșarea acțiunii până la declanșarea "
 "acțiunii următoare."
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: main.ui:229
 msgid "&Reactivation delay:"
-msgstr "Întîrzierea &reactivării:"
+msgstr "Întârzierea &reactivării:"
 
 #~ msgid "Action Groups"
 #~ msgstr "Grupuri de acțiuni"

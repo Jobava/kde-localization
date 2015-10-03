@@ -143,7 +143,7 @@ msgstr ""
 "ascunsă și va fi afișat un nou ecran de autentificare.<br />O tastă "
 "funcțională este atribuită fiecărei sesiuni; F%1 este atribuită de obicei "
 "primei sesiuni, F%2 - celei de a doua și așa mai departe. Puteți comuta "
-"între sesiuni apăsînd simultan Ctrl, Alt și tasta funcțională "
+"între sesiuni apăsând simultan Ctrl, Alt și tasta funcțională "
 "corespunzătoare. Suplimentar, meniurile panoului și biroului KDE au acțiuni "
 "pentru comutarea între sesiuni.</p>"
 

@@ -129,7 +129,7 @@ msgid ""
 "Unable to contact khotkeys. Your changes are saved, but they could not be "
 "activated."
 msgstr ""
-"Imposibil de contactat khotkeys. Modificările sînt salvate, dar nu au putut "
+"Imposibil de contactat khotkeys. Modificările sunt salvate, dar nu au putut "
 "fi activate."
 
 #: kmenuedit.cpp:71

@@ -106,7 +106,7 @@ msgstr "Arată numai liniile ce se potrivesc cu filtrele"
 #~ msgstr "Stilizare"
 
 #~ msgid "Max rows:"
-#~ msgstr "Maximum rînduri:"
+#~ msgstr "Maximum rânduri:"
 
 #~ msgid "&Configure File Watcher"
 #~ msgstr "&Configurare Supraveghetor fișiere"

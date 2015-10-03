@@ -197,7 +197,7 @@ msgstr "Avertisment"
 
 #: kaccess.cpp:699
 msgid "&When a gesture was used:"
-msgstr "&Cînd a fost folosit un gest:"
+msgstr "&Când a fost folosit un gest:"
 
 #: kaccess.cpp:705
 msgid "Change Settings Without Asking"
@@ -352,7 +352,7 @@ msgid ""
 "If you do not need them, you can select \"Deactivate all AccessX features "
 "and gestures\"."
 msgstr ""
-"Aceste setări AccessX sînt necesare pentru unii utilizatori cu handicap "
+"Aceste setări AccessX sunt necesare pentru unii utilizatori cu handicap "
 "motor și pot fi configurate din  Configurări de Sistem KDE. În plus, le "
 "puteți activa sau dezactiva cu gesturi de taste standardizate.\n"
 "\n"

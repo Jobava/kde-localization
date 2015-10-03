@@ -29,7 +29,7 @@ msgstr ""
 "Găsește ferestrele ale căror nume, clasă de fereastră sau rol de fereastră "
 "se potrivește cu :q:. Este posibilă interacțiunea cu ferestrele folosind "
 "următoarele cuvinte cheie: activează, închide, minimizează, maximizează, "
-"ecran complet, strînge, ține deasupra și ține dedesubt."
+"ecran complet, strânge, ține deasupra și ține dedesubt."
 
 #: windowsrunner.cpp:48
 msgid ""
@@ -37,9 +37,9 @@ msgid ""
 "the windows by using one of the following keywords: activate, close, min"
 "(imize), max(imize), fullscreen, shade, keep above and keep below."
 msgstr ""
-"Găsește ferestrele care sînt pe birou numite :q:. Este posibilă "
+"Găsește ferestrele care sunt pe birou numite :q:. Este posibilă "
 "interacțiunea cu ferestrele folosind următoarele cuvinte cheie: activează, "
-"închide, minimizează, maximizează, ecran complet, strînge, ține deasupra și "
+"închide, minimizează, maximizează, ecran complet, strânge, ține deasupra și "
 "ține dedesubt."
 
 #: windowsrunner.cpp:51
@@ -60,10 +60,10 @@ msgid ""
 "above and keep below."
 msgstr ""
 "Arată o listă a tuturor ferestrelor și permite activarea acestora. Cu "
-"denumire=, clasă=, rol= și birou= lista poate fi filtrată obținînduse "
+"denumire=, clasă=, rol= și birou= lista poate fi filtrată obținânduse "
 "ferestrele cărora se potricesc aceste restricții. Este posibilă "
 "interacțiunea cu ferestrele folosind următoarele cuvinte cheie: activează, "
-"închide, minimizează, maximizează, ecran complet, strînge, ține deasupra și "
+"închide, minimizează, maximizează, ecran complet, strânge, ține deasupra și "
 "ține dedesubt."
 
 #: windowsrunner.cpp:58 windowsrunner.cpp:192 windowsrunner.cpp:254
@@ -113,7 +113,7 @@ msgstr "ecran complet"
 #: windowsrunner.cpp:163 windowsrunner.cpp:165
 msgctxt "Note this is a KRunner keyword"
 msgid "shade"
-msgstr "strînge"
+msgstr "strânge"
 
 #: windowsrunner.cpp:166 windowsrunner.cpp:168
 msgctxt "Note this is a KRunner keyword"
@@ -148,39 +148,39 @@ msgstr "Comută la biroul %1"
 #: windowsrunner.cpp:434
 #, kde-format
 msgid "Close running window on %1"
-msgstr "Închide fereastra rulînd pe %1"
+msgstr "Închide fereastra rulând pe %1"
 
 #: windowsrunner.cpp:437
 #, kde-format
 msgid "(Un)minimize running window on %1"
-msgstr "(Dez)minimizează fereastra rulînd pe %1"
+msgstr "(Dez)minimizează fereastra rulând pe %1"
 
 #: windowsrunner.cpp:440
 #, kde-format
 msgid "Maximize/restore running window on %1"
-msgstr "Maximizează/restabilește fereastra rulînd pe %1"
+msgstr "Maximizează/restabilește fereastra rulând pe %1"
 
 #: windowsrunner.cpp:443
 #, kde-format
 msgid "Toggle fullscreen for running window on %1"
-msgstr "Comută ecranul complet pentru fereastra rulînd pe %1"
+msgstr "Comută ecranul complet pentru fereastra rulând pe %1"
 
 #: windowsrunner.cpp:446
 #, kde-format
 msgid "(Un)shade running window on %1"
-msgstr "Strînge/desfășoară fereastra rulînd pe %1"
+msgstr "Strânge/desfășoară fereastra rulând pe %1"
 
 #: windowsrunner.cpp:449
 #, kde-format
 msgid "Toggle keep above for running window on %1"
-msgstr "Comută ținerea deasupra pentru fereastra rulînd pe %1"
+msgstr "Comută ținerea deasupra pentru fereastra rulând pe %1"
 
 #: windowsrunner.cpp:452
 #, kde-format
 msgid "Toggle keep below running window on %1"
-msgstr "Comută ținerea dedesubt pentru fereastra rulînd pe %1"
+msgstr "Comută ținerea dedesubt pentru fereastra rulând pe %1"
 
 #: windowsrunner.cpp:456
 #, kde-format
 msgid "Activate running window on %1"
-msgstr "Activează fereastra rulînd pe %1"
+msgstr "Activează fereastra rulând pe %1"

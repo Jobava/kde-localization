@@ -137,7 +137,7 @@ msgstr "Fișier-script"
 msgid ""
 "Only files with “.sh” extensions are allowed for setting up the environment."
 msgstr ""
-"Sînt permise numai fișierele cu extensie „.sh” pentru a configura mediul."
+"Sunt permise numai fișierele cu extensie „.sh” pentru a configura mediul."
 
 #. i18n: ectx: property (text), widget (QPushButton, btnAddProgram)
 #: autostartconfig.ui:26

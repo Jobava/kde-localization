@@ -60,7 +60,7 @@ msgstr "Scroll Lock"
 
 #: keystate.cpp:40
 msgid "Left Button"
-msgstr "Buton stînga"
+msgstr "Buton stânga"
 
 #: keystate.cpp:41
 msgid "Right Button"
@@ -85,7 +85,7 @@ msgstr "Apăsat"
 
 #: keystate.cpp:60 keystate.cpp:105 keystate.cpp:128
 msgid "Latched"
-msgstr "Zăvorît"
+msgstr "Zăvorât"
 
 #: keystate.cpp:61 keystate.cpp:112 keystate.cpp:129
 msgid "Locked"

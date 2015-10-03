@@ -104,16 +104,16 @@ msgstr "Panou pentru Metode de Intrare KDE"
 #~ msgstr "Desfășoară vertical."
 
 #~ msgid "Use multiple rows/cols."
-#~ msgstr "Utilizează rînduri/coloane multiple."
+#~ msgstr "Utilizează rânduri/coloane multiple."
 
 #~ msgid "Put all words in one row."
-#~ msgstr "Pune toate cuvintele într-un rînd."
+#~ msgstr "Pune toate cuvintele într-un rând."
 
 #~ msgid "Put all words in one col."
 #~ msgstr "Pune toate cuvintele într-o coloană."
 
 #~ msgid "Multiple rows/cols, but fixed rows."
-#~ msgstr "Rînduri/coloane multiple, dar rînduri fixe."
+#~ msgstr "Rânduri/coloane multiple, dar rânduri fixe."
 
 #~ msgid "Multiple rows/cols, but fixed columns."
-#~ msgstr "Rînduri/coloane multiple, dar coloane fixe."
+#~ msgstr "Rânduri/coloane multiple, dar coloane fixe."

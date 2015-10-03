@@ -31,7 +31,7 @@ msgstr "Eroare"
 
 #: libmuon/backends/AkabeiBackend/AkabeiTransaction.cpp:184
 msgid "There are a couple of transaction messages:"
-msgstr "Sînt cîteva mesaje ale tranzacției:"
+msgstr "Sunt câteva mesaje ale tranzacției:"
 
 #: libmuon/backends/AkabeiBackend/AkabeiTransaction.cpp:184
 msgid "Transaction messages"
@@ -543,17 +543,17 @@ msgid_plural ""
 "continue?"
 msgstr[0] ""
 "Următorul program nu poate fi verificat. <warning>Instalarea programelor "
-"neverificate prezintă un risc de securitate, întrucît prezența programelor "
+"neverificate prezintă un risc de securitate, întrucât prezența programelor "
 "ce nu pot fi verificate poate fi un semn de corupere.</warning> Doriți să "
 "continuați?"
 msgstr[1] ""
 "Următoarele programe nu pot fi autentificate. <warning>Instalarea "
-"programelor neverificate prezintă un risc de securitate, întrucît prezența "
+"programelor neverificate prezintă un risc de securitate, întrucât prezența "
 "programelor ce nu pot fi verificate poate fi un semn de corupere.</warning> "
 "Doriți să continuați?"
 msgstr[2] ""
 "Următoarele programe nu pot fi autentificate. <warning>Instalarea "
-"programelor neverificate prezintă un risc de securitate, întrucît prezența "
+"programelor neverificate prezintă un risc de securitate, întrucât prezența "
 "programelor ce nu pot fi verificate poate fi un semn de corupere.</warning> "
 "Doriți să continuați?"
 
@@ -951,7 +951,7 @@ msgstr "A fost găsit un pachet corupt!"
 #, fuzzy
 #| msgid "All packages already installed!"
 msgid "All packages already installed"
-msgstr "Toate pachetele sînt instalate deja!"
+msgstr "Toate pachetele sunt instalate deja!"
 
 #: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:116
 #, fuzzy
@@ -963,13 +963,13 @@ msgstr "Fișierul nu a fost găsit!"
 #, fuzzy
 #| msgid "No more mirrors available!"
 msgid "No more mirrors available"
-msgstr "Nu mai sînt oglinzi disponibile!"
+msgstr "Nu mai sunt oglinzi disponibile!"
 
 #: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:120
 #, fuzzy
 #| msgid "No distro upgrade data!"
 msgid "No distro upgrade data"
-msgstr "Nu sînt date despre înnoirea distribuției!"
+msgstr "Nu sunt date despre înnoirea distribuției!"
 
 #: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:122
 #, fuzzy
@@ -993,7 +993,7 @@ msgstr "Este necesară o schimbare a mediului!"
 #, fuzzy
 #| msgid "You have no authorization to execute this operation!"
 msgid "You have no authorization to execute this operation"
-msgstr "Nu sînteți autorizat să executați această operație!"
+msgstr "Nu sunteți autorizat să executați această operație!"
 
 #: libmuon/backends/PackageKitBackend/PackageKitMessages.cpp:130
 #, fuzzy
@@ -2431,7 +2431,7 @@ msgid ""
 "packages are compatible with your computer and are at the latest version."
 msgstr ""
 "În acest dosar nu au fost găsite pachete valide. Asigurați-vă că pachetele "
-"sînt compatibile cu calculatorul dumneavoastră și sînt la ultima versiune."
+"sunt compatibile cu calculatorul dumneavoastră și sunt la ultima versiune."
 
 #: libmuonapt/QAptActions.cpp:366
 msgctxt "@title:window"
@@ -2497,7 +2497,7 @@ msgstr "Istoric pachet"
 #~ msgstr "Este disponibilă o actualizare pentru sistemul dumneavoastră!"
 
 #~ msgid "There are %1 updated packages!"
-#~ msgstr "Sînt %1 pachete actualizate!"
+#~ msgstr "Sunt %1 pachete actualizate!"
 
 #~ msgid "%1 packages were updated for security reasons"
 #~ msgstr "%1 pachete au fost actualizate din motive de securitate"
@@ -2512,7 +2512,7 @@ msgstr "Istoric pachet"
 #~ msgstr "Sistemul dumneavoastră e actualizat!"
 
 #~ msgid "No system update available"
-#~ msgstr "Nu sînt disponibile actualizări de sistem"
+#~ msgstr "Nu sunt disponibile actualizări de sistem"
 
 #~ msgid "Akabei Backend"
 #~ msgstr "Suport Akabei"
@@ -2696,7 +2696,7 @@ msgstr "Istoric pachet"
 #~| msgid "Canonical provides critical updates for %1 until %2"
 #~ msgctxt "@info Tells how long Canonical, Ltd. will support a package"
 #~ msgid "Canonical provides critical updates for %1 until %2."
-#~ msgstr "Canonical oferă actualizări critice pentru %1 pînă în %2"
+#~ msgstr "Canonical oferă actualizări critice pentru %1 până în %2"
 
 #, fuzzy
 #~| msgctxt "@info Tells how long Canonical, Ltd. will support a package"

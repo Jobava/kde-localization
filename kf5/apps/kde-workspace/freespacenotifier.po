@@ -82,7 +82,7 @@ msgstr "Activează avertizarea insuficienței ed spațiu"
 #. i18n: ectx: property (text), widget (QLabel, label_minimumSpace)
 #: freespacenotifier_prefs_base.ui:27
 msgid "Warn when free space is below:"
-msgstr "Avertizează cînd spațiu liber e mai puțin de:"
+msgstr "Avertizează când spațiu liber e mai puțin de:"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_minimumSpace)
 #: freespacenotifier_prefs_base.ui:37
@@ -98,7 +98,7 @@ msgstr " MiO"
 #~ "MiB free).\n"
 #~ "Would you like to run a file manager to free some disk space?"
 #~ msgstr ""
-#~ "Rămîneți fără spațiu în dosarul Acasă (curent %2%, %1 MiO liberi).\n"
+#~ "Rămâneți fără spațiu în dosarul Acasă (curent %2%, %1 MiO liberi).\n"
 #~ "Doriți să porniți un navigator de fișiere pentru a elibera spațiu?"
 
 #~ msgctxt "Closes the notification"

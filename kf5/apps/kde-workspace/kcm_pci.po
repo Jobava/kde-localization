@@ -96,7 +96,7 @@ msgstr "Regim de operare primar"
 
 #: kpci.cpp:100 kpci.cpp:124
 msgid "Vendor"
-msgstr "Vînzător"
+msgstr "Vânzător"
 
 #: kpci.cpp:107 kpci.cpp:126
 msgid "Device"
@@ -1447,7 +1447,7 @@ msgstr "HyperTransport"
 
 #: kpci_private.h:688
 msgid "Vendor specific"
-msgstr "Specific vînzătorului"
+msgstr "Specific vânzătorului"
 
 #: kpci_private.h:689
 msgid "Debug port"

@@ -30,7 +30,7 @@ msgstr "sergiu@ase.md"
 #, fuzzy
 #| msgid "Configure Splash screen details"
 msgid "Configure Look and Feel details"
-msgstr "Configurează detaliile ecranului de întîmpinare"
+msgstr "Configurează detaliile ecranului de întâmpinare"
 
 #: kcm.cpp:78
 msgid "Marco Martin"

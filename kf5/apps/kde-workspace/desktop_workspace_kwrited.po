@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-05 08:49+0000\n"
+"POT-Creation-Date: 2015-09-24 09:09+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -27,7 +27,7 @@ msgctxt "Name"
 msgid "KDE Write Daemon"
 msgstr "Demon „write” pentru KDE"
 
-#: kwrited-autostart.desktop:92 kwrited.desktop:63
+#: kwrited-autostart.desktop:92 kwrited.desktop:64
 msgctxt "Comment"
 msgid "Watch for messages from local users sent with write(1) or wall(1)"
 msgstr "Așteaptă mesaje de la utilizatori, trimise cu write(1) sau wall(1)"
@@ -42,12 +42,12 @@ msgctxt "Comment"
 msgid "Local system message service"
 msgstr "Serviciu local pentru mesaje de sistem"
 
-#: kwrited.notifyrc:67
+#: kwrited.notifyrc:68
 msgctxt "Name"
 msgid "New message received"
 msgstr "A fost recepționat un mesaj nou"
 
-#: kwrited.notifyrc:139
+#: kwrited.notifyrc:140
 msgctxt "Comment"
 msgid "The daemon received a new message sent with wall(1) or write(1)"
 msgstr "Demonul a recepționat un mesaj nou trimis cu wall(1) sau write(1)"

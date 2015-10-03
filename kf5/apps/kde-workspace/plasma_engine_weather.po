@@ -664,7 +664,7 @@ msgstr "Ceață cu depunere de gheață"
 #: envcan_i18n.dat:14
 msgctxt "weather condition"
 msgid "Fog Patches"
-msgstr "Pîlcuri de ceață"
+msgstr "Pâlcuri de ceață"
 
 #: envcan_i18n.dat:15
 msgctxt "weather condition"
@@ -969,7 +969,7 @@ msgstr "Ceață slabă"
 #: envcan_i18n.dat:75 noaa_i18n.dat:208
 msgctxt "weather condition"
 msgid "Smoke"
-msgstr "Pîclă"
+msgstr "Pâclă"
 
 #: envcan_i18n.dat:76 noaa_i18n.dat:209
 msgctxt "weather condition"
@@ -1024,67 +1024,67 @@ msgstr "Tornadă"
 #: envcan_i18n.dat:88
 msgctxt "weather forecast"
 msgid "A few clouds"
-msgstr "Cîțiva nori"
+msgstr "Câțiva nori"
 
 #: envcan_i18n.dat:89
 msgctxt "weather forecast"
 msgid "A few flurries"
-msgstr "Cîteva fulguieli"
+msgstr "Câteva fulguieli"
 
 #: envcan_i18n.dat:90
 msgctxt "weather forecast"
 msgid "A few flurries mixed with ice pellets"
-msgstr "Cîteva fulguieli combinate cu grindină"
+msgstr "Câteva fulguieli combinate cu grindină"
 
 #: envcan_i18n.dat:91
 msgctxt "weather forecast"
 msgid "A few flurries or rain showers"
-msgstr "Cîteva fulguieli sau averse de ploaie"
+msgstr "Câteva fulguieli sau averse de ploaie"
 
 #: envcan_i18n.dat:92
 msgctxt "weather forecast"
 msgid "A few flurries or thundershowers"
-msgstr "Cîteva fulguieli sau averse cu descărcări electrice"
+msgstr "Câteva fulguieli sau averse cu descărcări electrice"
 
 #: envcan_i18n.dat:93
 msgctxt "weather forecast"
 msgid "A few rain showers or flurries"
-msgstr "Cîteva averse de ploaie sau fulguieli"
+msgstr "Câteva averse de ploaie sau fulguieli"
 
 #: envcan_i18n.dat:94
 msgctxt "weather forecast"
 msgid "A few rain showers or wet flurries"
-msgstr "Cîteva averse de ploaie sau lapoviță"
+msgstr "Câteva averse de ploaie sau lapoviță"
 
 #: envcan_i18n.dat:95
 msgctxt "weather forecast"
 msgid "A few showers"
-msgstr "Cîteva averse"
+msgstr "Câteva averse"
 
 #: envcan_i18n.dat:96
 msgctxt "weather forecast"
 msgid "A few showers or drizzle"
-msgstr "Cîteva averse sau burniță"
+msgstr "Câteva averse sau burniță"
 
 #: envcan_i18n.dat:97
 msgctxt "weather forecast"
 msgid "A few showers or thundershowers"
-msgstr "Cîteva averse sau averse cu descărcări electrice"
+msgstr "Câteva averse sau averse cu descărcări electrice"
 
 #: envcan_i18n.dat:98
 msgctxt "weather forecast"
 msgid "A few showers or thunderstorms"
-msgstr "Cîteva averse sau furtuni cu descărcări electrice"
+msgstr "Câteva averse sau furtuni cu descărcări electrice"
 
 #: envcan_i18n.dat:99
 msgctxt "weather forecast"
 msgid "A few thundershowers"
-msgstr "Cîteva averse cu descărcări electrice"
+msgstr "Câteva averse cu descărcări electrice"
 
 #: envcan_i18n.dat:100
 msgctxt "weather forecast"
 msgid "A few thunderstorms"
-msgstr "Cîteva furtuni cu descărcări electrice"
+msgstr "Câteva furtuni cu descărcări electrice"
 
 #: envcan_i18n.dat:101
 msgctxt "weather forecast"
@@ -1491,7 +1491,7 @@ msgstr "Risipirea ceții"
 #: envcan_i18n.dat:181
 msgctxt "weather forecast"
 msgid "Fog patches"
-msgstr "Pîlcuri de ceață"
+msgstr "Pâlcuri de ceață"
 
 #: envcan_i18n.dat:182
 msgctxt "weather forecast"
@@ -2086,7 +2086,7 @@ msgstr "Averse sau furtuni cu descărcări electrice"
 #: envcan_i18n.dat:300 noaa_i18n.dat:320
 msgctxt "weather forecast"
 msgid "Smoke"
-msgstr "Pîclă"
+msgstr "Pâclă"
 
 #: envcan_i18n.dat:301 noaa_i18n.dat:295
 msgctxt "weather forecast"
@@ -2276,7 +2276,7 @@ msgstr "Lapoviță sau ploaie"
 #: envcan_i18n.dat:338 noaa_i18n.dat:329
 msgctxt "weather forecast"
 msgid "Windy"
-msgstr "Vîntos"
+msgstr "Vântos"
 
 #: envcan_i18n.dat:356 ions/envcan/ion_envcan.cpp:1745
 #: ions/noaa/ion_noaa.cpp:703 noaa_i18n.dat:359
@@ -2359,7 +2359,7 @@ msgstr ""
 #: ions/bbcukmet/ion_bbcukmet.cpp:924 ions/envcan/ion_envcan.cpp:1682
 msgctxt "Short for Saturday"
 msgid "Sat"
-msgstr "Sîm"
+msgstr "Sâm"
 
 #: ions/bbcukmet/ion_bbcukmet.cpp:928 ions/envcan/ion_envcan.cpp:1686
 msgctxt "Short for Sunday"
@@ -2393,7 +2393,7 @@ msgstr "Vin"
 
 #: ions/envcan/ion_envcan.cpp:1473
 msgid "Meteorological data is provided by Environment Canada"
-msgstr "Datele meteorologice sînt furnizate de către Environment Canada"
+msgstr "Datele meteorologice sunt furnizate de către Environment Canada"
 
 #: ions/envcan/ion_envcan.cpp:1670
 msgid "day"
@@ -2490,7 +2490,7 @@ msgstr "Date furnizate de către NOAA National Weather Service"
 #: ions/wetter.com/ion_wettercom.cpp:170 ions/wetter.com/ion_wettercom.cpp:171
 msgctxt "weather condition"
 msgid "few clouds"
-msgstr "cîțiva nori"
+msgstr "câțiva nori"
 
 #: ions/wetter.com/ion_wettercom.cpp:174 ions/wetter.com/ion_wettercom.cpp:175
 msgctxt "weather condition"
@@ -2631,22 +2631,22 @@ msgstr "Noapte"
 #: noaa_i18n.dat:1
 msgctxt "weather condition"
 msgid "A Few Clouds"
-msgstr "Cîțiva nori"
+msgstr "Câțiva nori"
 
 #: noaa_i18n.dat:2
 msgctxt "weather condition"
 msgid "A Few Clouds and Breezy"
-msgstr "Cîțiva nori și cu adieri"
+msgstr "Câțiva nori și cu adieri"
 
 #: noaa_i18n.dat:3
 msgctxt "weather condition"
 msgid "A Few Clouds and Windy"
-msgstr "Cîțiva nori și vîntos"
+msgstr "Câțiva nori și vântos"
 
 #: noaa_i18n.dat:4
 msgctxt "weather condition"
 msgid "A Few Clouds with Haze"
-msgstr "Cîțiva nori și ceață ușoară"
+msgstr "Câțiva nori și ceață ușoară"
 
 #: noaa_i18n.dat:5
 msgctxt "weather condition"
@@ -2701,12 +2701,12 @@ msgstr "Burniță cu zăpadă"
 #: noaa_i18n.dat:19
 msgctxt "weather condition"
 msgid "Dust/Sand Whirls"
-msgstr "Vîrtejuri de praf/nisip"
+msgstr "Vârtejuri de praf/nisip"
 
 #: noaa_i18n.dat:20
 msgctxt "weather condition"
 msgid "Dust/Sand Whirls in Vicinity"
-msgstr "Vîrtejuri de praf/nisip în apropiere"
+msgstr "Vârtejuri de praf/nisip în apropiere"
 
 #: noaa_i18n.dat:21
 msgctxt "weather condition"
@@ -2731,7 +2731,7 @@ msgstr "Clar și cu adieri"
 #: noaa_i18n.dat:25
 msgctxt "weather condition"
 msgid "Fair and Windy"
-msgstr "Clar și vîntos"
+msgstr "Clar și vântos"
 
 #: noaa_i18n.dat:26
 msgctxt "weather condition"
@@ -3026,7 +3026,7 @@ msgstr "Furtună puternică cu descărcări electrice Ploaie Ceață"
 #: noaa_i18n.dat:93
 msgctxt "weather condition"
 msgid "Heavy Thunderstorm Rain Fog and Windy"
-msgstr "Furtună puternică cu descărcări electrice Ploaie Ceață și Vîntos"
+msgstr "Furtună puternică cu descărcări electrice Ploaie Ceață și Vântos"
 
 #: noaa_i18n.dat:94
 msgctxt "weather condition"
@@ -3358,7 +3358,7 @@ msgstr "Mai mult noros și cu adieri"
 #: noaa_i18n.dat:167
 msgctxt "weather condition"
 msgid "Mostly Cloudy and Windy"
-msgstr "Mai mult noros și vîntos"
+msgstr "Mai mult noros și vântos"
 
 #: noaa_i18n.dat:168
 msgctxt "weather condition"
@@ -3378,7 +3378,7 @@ msgstr "Acoperit și cu adieri"
 #: noaa_i18n.dat:171
 msgctxt "weather condition"
 msgid "Overcast and Windy"
-msgstr "Acoperit și vîntos"
+msgstr "Acoperit și vântos"
 
 #: noaa_i18n.dat:172
 msgctxt "weather condition"
@@ -3403,7 +3403,7 @@ msgstr "Parțial noros și cu adieri"
 #: noaa_i18n.dat:177
 msgctxt "weather condition"
 msgid "Partly Cloudy and Windy"
-msgstr "Parțial noros și vîntos"
+msgstr "Parțial noros și vântos"
 
 #: noaa_i18n.dat:178
 msgctxt "weather condition"
@@ -3813,7 +3813,7 @@ msgstr "Tornadă/Trombă de apă"
 #: noaa_i18n.dat:263
 msgctxt "weather condition"
 msgid "Windy"
-msgstr "Vîntos"
+msgstr "Vântos"
 
 #: noaa_i18n.dat:265
 msgctxt "weather forecast"
@@ -4123,7 +4123,7 @@ msgstr "Se înseninează treptat"
 #: noaa_i18n.dat:343
 msgctxt "weather forecast"
 msgid "Clearing Late"
-msgstr "Se înseninează mai tîrziu"
+msgstr "Se înseninează mai târziu"
 
 #: noaa_i18n.dat:344
 msgctxt "weather forecast"

@@ -76,11 +76,11 @@ msgstr ""
 
 #: package/contents/code/logic.js:87
 msgid "Time To Full:"
-msgstr "Timp pînă la umplere:"
+msgstr "Timp până la umplere:"
 
 #: package/contents/code/logic.js:87
 msgid "Time To Empty:"
-msgstr "Timp pînă la epuizare:"
+msgstr "Timp până la epuizare:"
 
 #: package/contents/code/logic.js:92
 msgid "Capacity:"
@@ -94,7 +94,7 @@ msgstr "%1%"
 
 #: package/contents/code/logic.js:99
 msgid "Vendor:"
-msgstr "Vînzător:"
+msgstr "Vânzător:"
 
 #: package/contents/code/logic.js:104
 msgid "Model:"
