@@ -40,7 +40,7 @@ msgstr "Extinde la dreapta"
 #: package/contents/ui/main.qml:101
 msgctxt "Places the newly connected screen left of the existing one"
 msgid "Extend to Left"
-msgstr "Extinde la stînga"
+msgstr "Extinde la stânga"
 
 #: package/contents/ui/main.qml:111
 msgctxt "Makes the newly conencted screen a clone of the primary one"

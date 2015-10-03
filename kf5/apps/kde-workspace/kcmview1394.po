@@ -51,9 +51,9 @@ msgstr ""
 "transferuri izocrone</li><li><b>BM</b>: selectat dacă nodul poate fi manager "
 "de magistrală (BM - bus manager)</li><li><b>PM</b>: selectat dacă nodul are "
 "funcții de economisire a energiei (PM - power management)</li><li><b>Acc</"
-"b>: precizia semnalului de tact al nodului; valorile valide sînt între 0 și "
-"100 </li><li><b>Viteza</b>: viteza nodului</li><li><b>Vînzător</b>: "
-"vînzătorul dispozitivului</li></ul></qt>"
+"b>: precizia semnalului de tact al nodului; valorile valide sunt între 0 și "
+"100 </li><li><b>Viteza</b>: viteza nodului</li><li><b>Vânzător</b>: "
+"vânzătorul dispozitivului</li></ul></qt>"
 
 #: view1394.cpp:197
 #, kde-format
@@ -126,7 +126,7 @@ msgstr "Viteză"
 #. i18n: ectx: property (text), widget (QTreeWidget, m_listview)
 #: view1394widget.ui:130
 msgid "Vendor"
-msgstr "Vînzător"
+msgstr "Vânzător"
 
 #. i18n: ectx: property (text), widget (QPushButton, m_busResetPb)
 #: view1394widget.ui:165

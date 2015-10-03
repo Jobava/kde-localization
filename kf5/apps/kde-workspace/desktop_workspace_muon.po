@@ -188,7 +188,7 @@ msgstr "Muon"
 #: libmuon/resources/muonabstractnotifier.notifyrc:46
 msgctxt "Name"
 msgid "Updates Are Available"
-msgstr "Sînt disponibile actualizări"
+msgstr "Sunt disponibile actualizări"
 
 #: libmuon/resources/muonabstractnotifier.notifyrc:91
 msgctxt "Comment"

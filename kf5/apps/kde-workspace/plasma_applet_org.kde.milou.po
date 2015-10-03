@@ -24,7 +24,7 @@ msgstr "Rezultate căutare"
 
 #: configwidget.cpp:61
 msgid "Only the selected components are shown in the search results"
-msgstr "În rezultatele căutării sînt arătate numai componentele alese"
+msgstr "În rezultatele căutării sunt arătate numai componentele alese"
 
 #: configwidget.cpp:65
 msgid "Drag categories to change the order in which results appear"

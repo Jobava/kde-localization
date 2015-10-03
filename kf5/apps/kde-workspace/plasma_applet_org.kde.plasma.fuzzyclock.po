@@ -103,35 +103,35 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to two"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:51
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to two"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:52
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to two"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:53
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "ten to %1"
 msgid "Ten to two"
-msgstr "zece pînă la %1"
+msgstr "zece până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:54
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to two"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:55
 #, fuzzy
@@ -187,21 +187,21 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to three"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:63
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to three"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:64
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to three"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:65
 msgid "Ten to three"
@@ -212,7 +212,7 @@ msgstr ""
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to three"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:67
 msgid "Three o’clock"
@@ -265,21 +265,21 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to four"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:75
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to four"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:76
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to four"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:77
 msgid "Ten to four"
@@ -290,7 +290,7 @@ msgstr ""
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to four"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:79
 msgid "Four o’clock"
@@ -343,21 +343,21 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to five"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:87
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to five"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:88
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to five"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:89
 msgid "Ten to five"
@@ -368,7 +368,7 @@ msgstr ""
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to five"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:91
 msgid "Five o’clock"
@@ -421,35 +421,35 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to six"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:99
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to six"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:100
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to six"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:101
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "ten to %1"
 msgid "Ten to six"
-msgstr "zece pînă la %1"
+msgstr "zece până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:102
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to six"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:103
 #, fuzzy
@@ -505,21 +505,21 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to seven"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:111
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to seven"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:112
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to seven"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:113
 msgid "Ten to seven"
@@ -530,7 +530,7 @@ msgstr ""
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to seven"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:115
 msgid "Seven o’clock"
@@ -583,21 +583,21 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to eight"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:123
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to eight"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:124
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to eight"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:125
 msgid "Ten to eight"
@@ -608,7 +608,7 @@ msgstr ""
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to eight"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:127
 msgid "Eight o’clock"
@@ -661,21 +661,21 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to nine"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:135
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to nine"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:136
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to nine"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:137
 msgid "Ten to nine"
@@ -686,7 +686,7 @@ msgstr ""
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to nine"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:139
 msgid "Nine o’clock"
@@ -739,35 +739,35 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to ten"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:147
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to ten"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:148
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to ten"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:149
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "ten to %1"
 msgid "Ten to ten"
-msgstr "zece pînă la %1"
+msgstr "zece până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:150
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to ten"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:151
 #, fuzzy
@@ -823,21 +823,21 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to eleven"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:159
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to eleven"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:160
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to eleven"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:161
 #, fuzzy
@@ -901,21 +901,21 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to twelve"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:171
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to twelve"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:172
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to twelve"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:173
 #, fuzzy
@@ -979,35 +979,35 @@ msgstr "jumătate trecut de %1"
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty five to %1"
 msgid "Twenty-five to one"
-msgstr "douăzeci și cinci pînă la %1"
+msgstr "douăzeci și cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:183
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "twenty to %1"
 msgid "Twenty to one"
-msgstr "douăzeci pînă la %1"
+msgstr "douăzeci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:184
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "quarter to %1"
 msgid "Quarter to one"
-msgstr "un sfert pînă la %1"
+msgstr "un sfert până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:185
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "ten to %1"
 msgid "Ten to one"
-msgstr "zece pînă la %1"
+msgstr "zece până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:186
 #, fuzzy
 #| msgctxt "%1 the hour translated above"
 #| msgid "five to %1"
 msgid "Five to one"
-msgstr "cinci pînă la %1"
+msgstr "cinci până la %1"
 
 #: package/contents/ui/FuzzyClock.qml:190
 msgid "Night"
@@ -1039,19 +1039,19 @@ msgstr "Seară"
 
 #: package/contents/ui/FuzzyClock.qml:191
 msgid "Late evening"
-msgstr "Seara tîrziu"
+msgstr "Seara târziu"
 
 #: package/contents/ui/FuzzyClock.qml:195
 msgid "Start of week"
-msgstr "Început de săptămînă"
+msgstr "Început de săptămână"
 
 #: package/contents/ui/FuzzyClock.qml:195
 msgid "Middle of week"
-msgstr "Mijlocul săptpmînii"
+msgstr "Mijlocul săptămânii"
 
 #: package/contents/ui/FuzzyClock.qml:195
 msgid "End of week"
-msgstr "Sfîrșitul săptămînii"
+msgstr "Sfârșitul săptămânii"
 
 #: package/contents/ui/FuzzyClock.qml:195
 msgid "Weekend!"
@@ -1126,7 +1126,7 @@ msgstr "Weekend!"
 #~ msgstr "Bifați dacă doriți font aldin"
 
 #~ msgid "When this is checked, the clock font will be bold."
-#~ msgstr "Cînd este bifată, fontul ceasului va fi aldin."
+#~ msgstr "Când este bifată, fontul ceasului va fi aldin."
 
 #~ msgid "&Bold"
 #~ msgstr "&Aldin"
@@ -1135,7 +1135,7 @@ msgstr "Weekend!"
 #~ msgstr "Bifați dacă doriți font cursiv"
 
 #~ msgid "When this is checked, the clock font will be in italic."
-#~ msgstr "Cînd este bifată, fontul ceasului este fi cursiv."
+#~ msgstr "Când este bifată, fontul ceasului este fi cursiv."
 
 #~ msgid "Font color:"
 #~ msgstr "Culoare font:"
@@ -1160,8 +1160,8 @@ msgstr "Weekend!"
 #~ "When checked you can choose a custom color for the clock font by clicking "
 #~ "on the color widget on the right."
 #~ msgstr ""
-#~ "Cînd este bifată, puteți alege o culoare particularizată pentru fontul "
-#~ "ceasului făcînd clic pe controlul de culori din dreapta."
+#~ "Când este bifată, puteți alege o culoare particularizată pentru fontul "
+#~ "ceasului făcând clic pe controlul de culori din dreapta."
 
 #~ msgid "Use custom color:"
 #~ msgstr "Utilizează culoare personalizată:"
@@ -1192,13 +1192,13 @@ msgstr "Weekend!"
 #~ msgstr "Afișează data zilei"
 
 #~ msgid "Display day of the week"
-#~ msgstr "Afișează ziua săptămînii"
+#~ msgstr "Afișează ziua săptămânii"
 
 #~ msgid "Add the day of the week to the date display."
-#~ msgstr "Adaugă ziua săptămînii la afișajul datei."
+#~ msgstr "Adaugă ziua săptămânii la afișajul datei."
 
 #~ msgid "Show day of the &week"
-#~ msgstr "Afișează ziua săptămînii"
+#~ msgstr "Afișează ziua săptămânii"
 
 #~ msgid "Display the current year"
 #~ msgstr "Afișează anul curent"

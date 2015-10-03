@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-27 09:28+0000\n"
+"POT-Creation-Date: 2015-09-22 10:35+0000\n"
 "PO-Revision-Date: 2015-04-20 14:43+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -20,7 +20,7 @@ msgctxt "Name"
 msgid "Events and Trips"
 msgstr "Evenimente și călătorii"
 
-#: browsingbackends/eventsbackend/eventsbackend.desktop:38
+#: browsingbackends/eventsbackend/eventsbackend.desktop:39
 msgctxt "Comment"
 msgid "Organize your photos for events and trips you have taken"
 msgstr ""
@@ -30,7 +30,7 @@ msgctxt "Name"
 msgid "Music"
 msgstr "Muzică"
 
-#: browsingbackends/metadatamusicbackend/metadatamusicbackend.desktop:38
+#: browsingbackends/metadatamusicbackend/metadatamusicbackend.desktop:39
 msgctxt "Comment"
 msgid "Listen to the music on your device"
 msgstr ""
@@ -40,7 +40,7 @@ msgctxt "Name"
 msgid "Pictures"
 msgstr "Poze"
 
-#: browsingbackends/metadatapicturebackend/metadatapicturebackend.desktop:38
+#: browsingbackends/metadatapicturebackend/metadatapicturebackend.desktop:39
 msgctxt "Comment"
 msgid "See the pictures on your device"
 msgstr ""
@@ -50,7 +50,7 @@ msgctxt "Name"
 msgid "Videos"
 msgstr "Videoclipuri"
 
-#: browsingbackends/metadatavideobackend/metadatavideobackend.desktop:38
+#: browsingbackends/metadatavideobackend/metadatavideobackend.desktop:39
 msgctxt "Comment"
 msgid "Watch the videos on your device"
 msgstr ""
@@ -60,7 +60,7 @@ msgctxt "Name"
 msgid "Baloo Search"
 msgstr "Căutare Baloo"
 
-#: mediasources/baloosearch/baloosearch.desktop:40
+#: mediasources/baloosearch/baloosearch.desktop:41
 msgctxt "Comment"
 msgid "Get media from Baloo Search"
 msgstr ""
@@ -70,7 +70,7 @@ msgctxt "Name"
 msgid "Filesystem Search"
 msgstr ""
 
-#: mediasources/filesystemsearch/filesystemsearch.desktop:39
+#: mediasources/filesystemsearch/filesystemsearch.desktop:40
 msgctxt "Comment"
 msgid "Get media from your local files"
 msgstr ""
@@ -80,7 +80,7 @@ msgctxt "Name"
 msgid "Flickr"
 msgstr "Flickr"
 
-#: onlineservices/flickr/flickrbackend.desktop:48
+#: onlineservices/flickr/flickrbackend.desktop:49
 msgctxt "Comment"
 msgid "Discover pictures from flickr for your chosen tag"
 msgstr ""
@@ -90,7 +90,7 @@ msgctxt "Name"
 msgid "Picasa"
 msgstr "Picasa"
 
-#: onlineservices/picasa/picasabackend.desktop:47
+#: onlineservices/picasa/picasabackend.desktop:48
 msgctxt "Comment"
 msgid "See pictures from your Picasa account"
 msgstr ""
@@ -100,18 +100,18 @@ msgctxt "Name"
 msgid "YouTube Videos"
 msgstr "Video YouTube"
 
-#: onlineservices/youtube/youtubebackend.desktop:42
+#: onlineservices/youtube/youtubebackend.desktop:43
 msgctxt "Comment"
 msgid "Watch videos from Youtube"
 msgstr ""
 
-#: plasma-mediacenter.desktop.cmake:7 shells/next/metadata.desktop:38
+#: plasma-mediacenter.desktop.cmake:7 shells/next/metadata.desktop:39
 #: shells/plasma-mediacenter.desktop:2
 msgctxt "Name"
 msgid "Plasma Media Center"
 msgstr "Centrul Multimedia Plasma"
 
-#: plasma-mediacenter.desktop.cmake:49
+#: plasma-mediacenter.desktop.cmake:50
 msgctxt "Comment"
 msgid "Plasma Media Center by KDE"
 msgstr "Centrul Multimedia Plasma, de KDE"
@@ -121,12 +121,12 @@ msgctxt "Comment"
 msgid "PMC shell package"
 msgstr ""
 
-#: shells/plasma-mediacenter.desktop:44
+#: shells/plasma-mediacenter.desktop:45
 msgctxt "GenericName"
 msgid "Plasma Media Center"
 msgstr "Centrul Multimedia Plasma"
 
-#: shells/plasma-mediacenter.desktop:86
+#: shells/plasma-mediacenter.desktop:88
 msgctxt "Comment"
 msgid "A mediacenter user interface written with the Plasma framework"
 msgstr ""

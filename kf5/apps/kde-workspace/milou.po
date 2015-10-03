@@ -98,7 +98,7 @@ msgstr "Dimensiune:"
 #~ msgstr "Rezultate căutare"
 
 #~ msgid "Only the selected components are shown in the search results"
-#~ msgstr "În rezultatele căutării sînt arătate numai componentele alese"
+#~ msgstr "În rezultatele căutării sunt arătate numai componentele alese"
 
 #~ msgid "Drag categories to change the order in which results appear"
 #~ msgstr "Trageți categoriile pentru a schimba ordinea apariției rezultatelor"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-27 09:28+0000\n"
+"POT-Creation-Date: 2015-09-30 08:19+0000\n"
 "PO-Revision-Date: 2015-04-26 14:58+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -34,3 +34,19 @@ msgstr "autentifică"
 msgctxt "Comment"
 msgid "You are required to authenticate"
 msgstr "Vi se solicită autentificarea"
+
+#: polkit-kde-authentication-agent-1.desktop.cmake:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "PolicyKit authentication dialog"
+msgctxt "Name"
+msgid "PolicyKit Authentication Agent"
+msgstr "Dialog de autentificare PolicyKit"
+
+#: polkit-kde-authentication-agent-1.desktop.cmake:15
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "PolicyKit authentication dialog"
+msgctxt "Comment"
+msgid "PolicyKit Authentication Agent"
+msgstr "Dialog de autentificare PolicyKit"

@@ -53,7 +53,7 @@ msgid ""
 "<h1>Multiple Desktops</h1>In this module, you can configure how many virtual "
 "desktops you want and how these should be labeled."
 msgstr ""
-"<h1>Birouri multiple</h1>În acest modul puteți configura cîte birouri "
+"<h1>Birouri multiple</h1>În acest modul puteți configura câte birouri "
 "virtuale doriți și cum să fie etichetate."
 
 #: main.cpp:99
@@ -70,7 +70,7 @@ msgstr "Comută un birou la dreapta"
 
 #: main.cpp:102
 msgid "Switch One Desktop to the Left"
-msgstr "Comută un birou la stînga"
+msgstr "Comută un birou la stânga"
 
 #: main.cpp:103
 msgid "Switch One Desktop Up"
@@ -146,7 +146,7 @@ msgstr "Aranjament"
 msgid ""
 "Here you can set how many virtual desktops you want on your KDE desktop."
 msgstr ""
-"Aici puteți stabili cîte birouri virtuale doriți pe biroul dumneavoastră KDE."
+"Aici puteți stabili câte birouri virtuale doriți pe biroul dumneavoastră KDE."
 
 #. i18n: ectx: property (text), widget (QLabel, numberLabel)
 #: main.ui:54
@@ -160,7 +160,7 @@ msgstr "Număr de birouri:"
 #, fuzzy
 #| msgid "Number of rows:"
 msgid "N&umber of rows:"
-msgstr "Număr de rînduri:"
+msgstr "Număr de rânduri:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, nameGroup)
 #: main.ui:103

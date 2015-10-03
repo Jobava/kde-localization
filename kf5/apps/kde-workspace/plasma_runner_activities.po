@@ -26,7 +26,7 @@ msgstr "activitate"
 #: activityrunner.cpp:74
 msgid "Lists all activities currently available to be run."
 msgstr ""
-"Afișează toate activitățile care sînt disponibile pentru a fi pornite în "
+"Afișează toate activitățile care sunt disponibile pentru a fi pornite în "
 "acest moment"
 
 #: activityrunner.cpp:75

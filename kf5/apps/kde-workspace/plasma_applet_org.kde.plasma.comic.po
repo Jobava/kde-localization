@@ -108,12 +108,12 @@ msgstr "Toate"
 #. i18n: ectx: property (text), item, widget (KComboBox, archiveType)
 #: comicarchivedialog.ui:72
 msgid "From beginning to ..."
-msgstr "De la început pînă la..."
+msgstr "De la început până la..."
 
 #. i18n: ectx: property (text), item, widget (KComboBox, archiveType)
 #: comicarchivedialog.ui:77
 msgid "From end to ..."
-msgstr "De la sfîrșit pînă la..."
+msgstr "De la sfârșit până la..."
 
 #. i18n: ectx: property (text), item, widget (KComboBox, archiveType)
 #: comicarchivedialog.ui:82
@@ -136,7 +136,7 @@ msgstr "De la:"
 #: comicarchivedialog.ui:183
 msgctxt "in a range: from to"
 msgid "To:"
-msgstr "Pînă la:"
+msgstr "Până la:"
 
 #. i18n: ectx: property (displayFormat), widget (QDateEdit, fromDate)
 #. i18n: ectx: property (displayFormat), widget (QDateEdit, toDate)

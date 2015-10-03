@@ -99,7 +99,7 @@ msgid ""
 "Useful if you want a live cam or weather data to be up to date."
 msgstr ""
 "Actualizează imaginea de la sursă în timpul dat.\n"
-"Util atunci cînd doriți imagini actuale cu vremea sau imagini în direct."
+"Util atunci când doriți imagini actuale cu vremea sau imagini în direct."
 
 #. i18n: ectx: property (specialValueText), widget (QTimeEdit, autoUpdateTime)
 #: imageSettings.ui:148

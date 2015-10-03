@@ -114,7 +114,7 @@ msgstr "Redă toate"
 
 #: browsingbackends/metadatamusicbackend/metadatamusicbackend.cpp:69
 msgid "Songs"
-msgstr "Cîntece"
+msgstr "Cântece"
 
 #: browsingbackends/metadatamusicbackend/metadatamusicbackend.cpp:75
 msgid "Albums"

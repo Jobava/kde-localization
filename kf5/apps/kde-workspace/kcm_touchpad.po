@@ -67,7 +67,7 @@ msgstr "Trage-mă"
 #: src/kcm/testbutton.cpp:40
 msgctxt "Mouse button"
 msgid "Left button"
-msgstr "Buton stîng"
+msgstr "Buton stâng"
 
 #: src/kcm/testbutton.cpp:43
 msgctxt "Mouse button"
@@ -89,7 +89,7 @@ msgstr "Nicio acțiune"
 #: src/kcm/touchpad.kcfg:30
 msgctxt "Emulated mouse button"
 msgid "Left button"
-msgstr "Buton stîng"
+msgstr "Buton stâng"
 
 #. i18n: ectx: label, entry ($(TapAction)Button), group (parameters)
 #: src/kcm/touchpad.kcfg:33
@@ -143,19 +143,19 @@ msgstr "Marginea de jos"
 #: src/kcm/touchpad.kcfg:303
 msgctxt "Touchpad Edge"
 msgid "Bottom left corner"
-msgstr "Colțul din stînga-jos"
+msgstr "Colțul din stânga-jos"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:306
 msgctxt "Touchpad Edge"
 msgid "Left edge"
-msgstr "Marginea stîngă"
+msgstr "Marginea stângă"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:309
 msgctxt "Touchpad Edge"
 msgid "Top left corner"
-msgstr "Colțul din stînga-sus"
+msgstr "Colțul din stânga-sus"
 
 #: src/kcm/touchpadconfig.cpp:108
 msgid "Touchpad KCM"
@@ -319,7 +319,7 @@ msgid ""
 "plugged in."
 msgstr ""
 "Unele dispozitive pot fi tratate greșit ca mausuri.\n"
-"Le puteți adăuga în această listă astfel încît să fie ignorate la conectarea "
+"Le puteți adăuga în această listă astfel încât să fie ignorate la conectarea "
 "acestora."
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, PointerMotionForm)
@@ -796,7 +796,7 @@ msgstr "Colțuri"
 #: src/kcm/ui/tap.ui:131
 msgctxt "Touchpad corner"
 msgid "Top left:"
-msgstr "Stînga-sus:"
+msgstr "Stânga-sus:"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_LTCornerButton)
 #: src/kcm/ui/tap.ui:144
@@ -807,7 +807,7 @@ msgstr ""
 #: src/kcm/ui/tap.ui:151
 msgctxt "Touchpad corner"
 msgid "Bottom left:"
-msgstr "Stînga-jos:"
+msgstr "Stânga-jos:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: src/kcm/ui/tap.ui:164

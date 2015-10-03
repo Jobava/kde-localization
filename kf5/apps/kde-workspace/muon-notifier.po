@@ -38,7 +38,7 @@ msgstr "Sistem la zi"
 #, kde-format
 msgid "%1 packages to update, of which %2 are security updates"
 msgstr ""
-"%1 pachete de actualizat, dintre care %2 sînt actualizări de securitate"
+"%1 pachete de actualizat, dintre care %2 sunt actualizări de securitate"
 
 #: notifier/MuonNotifier.cpp:144
 #, kde-format

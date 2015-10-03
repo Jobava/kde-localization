@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_systemloadviewer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-13 10:33+0000\n"
+"POT-Creation-Date: 2015-10-02 08:15+0000\n"
 "PO-Revision-Date: 2011-05-01 16:31+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
@@ -33,7 +33,7 @@ msgid "Set colors manually"
 msgstr ""
 
 #: package/contents/ui/ColorSettings.qml:53
-#: package/contents/ui/SystemLoadViewer.qml:260
+#: package/contents/ui/SystemLoadViewer.qml:267
 msgid "CPU"
 msgstr "Procesor"
 
@@ -54,7 +54,7 @@ msgid "Nice:"
 msgstr "Nice:"
 
 #: package/contents/ui/ColorSettings.qml:95
-#: package/contents/ui/SystemLoadViewer.qml:276
+#: package/contents/ui/SystemLoadViewer.qml:283
 msgid "Memory"
 msgstr "Memorie"
 
@@ -71,7 +71,7 @@ msgid "Cached:"
 msgstr "În cache:"
 
 #: package/contents/ui/ColorSettings.qml:129
-#: package/contents/ui/SystemLoadViewer.qml:292
+#: package/contents/ui/SystemLoadViewer.qml:299
 msgid "Swap"
 msgstr "Swap"
 
@@ -145,7 +145,7 @@ msgstr ""
 msgid "Swap: %1/%2 MiB"
 msgstr "Utilizare swap: %1% din %2 MiO"
 
-#: package/contents/ui/SystemLoadViewer.qml:230
+#: package/contents/ui/SystemLoadViewer.qml:237
 #, fuzzy
 #| msgid "System Load Viewer"
 msgid "System load"

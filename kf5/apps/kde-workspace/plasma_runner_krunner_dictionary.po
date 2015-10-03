@@ -38,4 +38,4 @@ msgstr "Găsește definiția lui :q:."
 
 #: dictionaryrunner_config.cpp:20
 msgid "Trigger Word"
-msgstr "Cuvînt declanșator"
+msgstr "Cuvânt declanșator"

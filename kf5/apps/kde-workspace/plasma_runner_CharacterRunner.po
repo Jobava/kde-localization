@@ -32,7 +32,7 @@ msgstr "Configurare lansator de caractere"
 #. i18n: ectx: property (text), widget (QLabel, label_trigger)
 #: charrunner_config.ui:26
 msgid "&Trigger word:"
-msgstr "&Cuvînt declanșator:"
+msgstr "&Cuvânt declanșator:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_alias)
 #: charrunner_config.ui:47

@@ -90,9 +90,9 @@ msgid ""
 "seconds field to change the relevant value, either using the up and down "
 "buttons to the right or by entering a new value."
 msgstr ""
-"Aici puteți schimba ora sistemului. Apăsați în cîmpurile de ore, minute sau "
-"secunde pentru a schimba valoarea corespunzătoare, fie utilizînd butoanele "
-"sus și jos din dreapta, fie introducînd o valoare nouă."
+"Aici puteți schimba ora sistemului. Apăsați în câmpurile de ore, minute sau "
+"secunde pentru a schimba valoarea corespunzătoare, fie utilizând butoanele "
+"sus și jos din dreapta, fie introducând o valoare nouă."
 
 #: dtime.cpp:134
 #, kde-format

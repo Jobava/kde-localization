@@ -63,7 +63,7 @@ msgstr ""
 #: chfacedlg.cpp:146
 msgid "&Save copy in custom faces folder for future use"
 msgstr ""
-"&Salvează o copie în dosarul de imagini personalizate pentru mai tîrziu"
+"&Salvează o copie în dosarul de imagini personalizate pentru mai târziu"
 
 #: chfacedlg.cpp:152
 msgctxt "@title:window"

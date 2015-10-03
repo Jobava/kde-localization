@@ -297,7 +297,7 @@ msgstr "Navigator de senzori"
 
 #: SensorBrowser.cpp:470
 msgid "Drag sensors to empty cells of a worksheet "
-msgstr "Trageți senzori în cîmpurile goale ale unei foi de lucru "
+msgstr "Trageți senzori în câmpurile goale ale unei foi de lucru "
 
 #: SensorBrowser.cpp:471
 msgid ""
@@ -357,7 +357,7 @@ msgid ""
 "Enter the minimum value for the display here. If both values are 0, "
 "automatic range detection is enabled."
 msgstr ""
-"Introduceți valoarea minimă pentru afișaj. Dacă ambele valori sînt 0, atunci "
+"Introduceți valoarea minimă pentru afișaj. Dacă ambele valori sunt 0, atunci "
 "este activată detecția automată a domeniului."
 
 #: SensorDisplayLib/DancingBarsSettings.cpp:83
@@ -370,7 +370,7 @@ msgid ""
 "Enter the maximum value for the display here. If both values are 0, "
 "automatic range detection is enabled."
 msgstr ""
-"Introduceți valoarea maximă pentru afișaj. Dacă ambele valori sînt 0, atunci "
+"Introduceți valoarea maximă pentru afișaj. Dacă ambele valori sunt 0, atunci "
 "este activată detecția automată a domeniului."
 
 #: SensorDisplayLib/DancingBarsSettings.cpp:101
@@ -456,7 +456,7 @@ msgid ""
 "advisable to use a small font size here."
 msgstr ""
 "Aceasta determină mărimea fontului utilizat la scrierea etichetei de sub "
-"bare. Barele nu mai sînt afișate dacă textul devine prea mare astfel încît "
+"bare. Barele nu mai sunt afișate dacă textul devine prea mare astfel încât "
 "este preferabil să utilizați mărimi mici pentru font."
 
 #: SensorDisplayLib/DancingBarsSettings.cpp:191
@@ -603,7 +603,7 @@ msgid ""
 "So if one beam has a value of 2 and another beam has a value of 3, the first "
 "beam will be drawn at value 2 and the other beam drawn at 2+3=5."
 msgstr ""
-"Razele sînt stivuite unele peste altele iar suprafața este umplută. Deci "
+"Razele sunt stivuite unele peste altele iar suprafața este umplută. Deci "
 "dacă o rază are valoarea 2 și o altă rază are valoarea 3 atunci prima rază "
 "va fi desenată la valoarea 2 iar raza următoare va fi desenată la valoarea "
 "2+3=5. "
@@ -628,7 +628,7 @@ msgid ""
 msgstr ""
 "Selectați această opțiune dacă doriți ca afișarea domeniului să se adapteze "
 "dinamic la valorile afișate. În caz contrar trebuie să specificați limitele "
-"domeniului în cîmpurile de editare de mai jos."
+"domeniului în câmpurile de editare de mai jos."
 
 #: SensorDisplayLib/FancyPlotterSettings.cpp:103
 msgid "Enter the minimum value for the display here."
@@ -642,7 +642,7 @@ msgid ""
 msgstr ""
 "Introduceți aici valoarea maximă moale pentru afișare. Intervalul superior "
 "nu va fi redus sub această valoare dar va crește peste acest număr pentru "
-"valori mai mari decît aceasta."
+"valori mai mari decât aceasta."
 
 #: SensorDisplayLib/FancyPlotterSettings.cpp:121
 msgid "Horizontal scale"
@@ -1139,7 +1139,7 @@ msgstr "Proprietăți"
 
 #: WorkSheetSettings.cpp:81
 msgid "Rows:"
-msgstr "Rînduri:"
+msgstr "Rânduri:"
 
 #: WorkSheetSettings.cpp:90
 msgid "Columns:"

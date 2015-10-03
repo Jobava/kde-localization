@@ -135,7 +135,7 @@ msgstr ""
 
 #: rememberthemilk-plasmoid.cpp:335
 msgid "No Data Yet. Refreshing..."
-msgstr "Încă nu sînt date. Actualizare..."
+msgstr "Încă nu sunt date. Actualizare..."
 
 #: rememberthemilk-plasmoid.cpp:373
 msgid "Filter Tasks..."
@@ -171,7 +171,7 @@ msgstr "Încheiat:"
 
 #: taskeditor.cpp:63
 msgid "Top Priority"
-msgstr "Prioritate de vîrf"
+msgstr "Prioritate de vârf"
 
 #: taskeditor.cpp:63
 msgid "Medium Priority"
@@ -199,7 +199,7 @@ msgstr "Marcaje: "
 
 #: taskmodel.cpp:80
 msgid "Top Priority:"
-msgstr "Prioritate de vîrf:"
+msgstr "Prioritate de vârf:"
 
 #: taskmodel.cpp:81
 msgid "Medium Priority:"
@@ -223,11 +223,11 @@ msgstr "Astăzi"
 
 #: taskmodel.cpp:88
 msgid "Tomorrow"
-msgstr "Mîine"
+msgstr "Mâine"
 
 #: taskmodel.cpp:89
 msgid "Anytime"
-msgstr "Oricînd"
+msgstr "Oricând"
 
 #~ msgid "Authenticate as:"
 #~ msgstr "Autentificare ca:"

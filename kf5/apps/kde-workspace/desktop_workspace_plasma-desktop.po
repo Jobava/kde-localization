@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-14 08:38+0000\n"
+"POT-Creation-Date: 2015-09-26 09:24+0000\n"
 "PO-Revision-Date: 2014-03-25 01:34+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -369,7 +369,7 @@ msgctxt "Comment"
 msgid "Default Applications"
 msgstr "Aplicații implicite"
 
-#: kcms/componentchooser/componentchooser.desktop:138
+#: kcms/componentchooser/componentchooser.desktop:139
 msgctxt "X-KDE-Keywords"
 msgid ""
 "default applications,components,component chooser,resources,e-mail,email "
@@ -618,7 +618,7 @@ msgctxt "Comment"
 msgid "Fonts"
 msgstr "Fonturi"
 
-#: kcms/fonts/fonts.desktop:147
+#: kcms/fonts/fonts.desktop:148
 msgctxt "X-KDE-Keywords"
 msgid ""
 "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
@@ -646,8 +646,8 @@ msgid ""
 msgstr ""
 "limbă,traducere,format număr,localizare,țară,set de caractere,seturi de "
 "caractere,simbol decimal, separator de mii,simbol,separator,semn,pozitiv,"
-"negativ,monedă,bani,zecimale,calendar,timp,dată,formate, început,săptămînă,"
-"prima,hîrtie,dimensiune,A4,măsură,metric,unități,Imperial"
+"negativ,monedă,bani,zecimale,calendar,timp,dată,formate, început,săptămână,"
+"prima,hârtie,dimensiune,A4,măsură,metric,unități,Imperial"
 
 #: kcms/hardware/joystick/joystick.desktop:17
 #, fuzzy
@@ -657,12 +657,12 @@ msgctxt "Comment"
 msgid "Joystick"
 msgstr "Joystick"
 
-#: kcms/hardware/joystick/joystick.desktop:58
+#: kcms/hardware/joystick/joystick.desktop:59
 msgctxt "Name"
 msgid "Joystick"
 msgstr "Joystick"
 
-#: kcms/hardware/joystick/joystick.desktop:149
+#: kcms/hardware/joystick/joystick.desktop:150
 #, fuzzy
 #| msgctxt "X-KDE-Keywords"
 #| msgid "joystick,gamepad"
@@ -768,7 +768,7 @@ msgctxt "Comment"
 msgid "Global Keyboard Shortcuts"
 msgstr "Acceleratori de tastatură globali"
 
-#: kcms/keys/keys.desktop:136
+#: kcms/keys/keys.desktop:137
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -995,17 +995,17 @@ msgctxt "Name|battery plugged in"
 msgid "Plugged"
 msgstr "Atașat"
 
-#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:196
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:197
 msgctxt "Name"
 msgid "Rechargeable"
 msgstr "Reîncărcabil"
 
-#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:264
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:265
 msgctxt "Name"
 msgid "Type"
 msgstr "Tip"
 
-#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:339
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:340
 #: kcms/solid_actions/device-actions/solid-device-Block.desktop:211
 #: kcms/solid_actions/device-actions/solid-device-Camera.desktop:145
 #: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:863

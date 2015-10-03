@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-13 08:37+0000\n"
+"POT-Creation-Date: 2015-09-26 09:12+0000\n"
 "PO-Revision-Date: 2013-05-25 09:39+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -135,9 +135,9 @@ msgstr "Nicio notificare sau sarcină"
 #: contents/ui/main.qml:97 contents/ui/main.qml:101
 msgid "%1 running job"
 msgid_plural "%1 running jobs"
-msgstr[0] "%1 sarcină rulînd"
-msgstr[1] "%1 sarcini rulînd"
-msgstr[2] "%1 de sarcini rulînd"
+msgstr[0] "%1 sarcină rulând"
+msgstr[1] "%1 sarcini rulând"
+msgstr[2] "%1 de sarcini rulând"
 
 #: contents/ui/main.qml:99 contents/ui/main.qml:101
 msgid "%1 notification"
@@ -157,11 +157,11 @@ msgstr "%1 notificare"
 msgid "&Configure Event Notifications and Actions..."
 msgstr ""
 
-#: contents/ui/NotificationDelegate.qml:127
+#: contents/ui/NotificationDelegate.qml:129
 msgid "Copy"
 msgstr "Copiere"
 
-#: contents/ui/NotificationDelegate.qml:132
+#: contents/ui/NotificationDelegate.qml:134
 msgid "Select All"
 msgstr "Selectează toate"
 
@@ -230,16 +230,16 @@ msgstr[2] ""
 
 #~ msgid "1 running job (%2 remaining)"
 #~ msgid_plural "%1 running jobs (%2 remaining)"
-#~ msgstr[0] "1 sarcină rulînd (%2 rămase)"
-#~ msgstr[1] "%1 sarcini rulînd (%2 rămase)"
-#~ msgstr[2] "%1 de sarcini rulînd (%2 rămase)"
+#~ msgstr[0] "1 sarcină rulând (%2 rămase)"
+#~ msgstr[1] "%1 sarcini rulând (%2 rămase)"
+#~ msgstr[2] "%1 de sarcini rulând (%2 rămase)"
 
 #~ msgctxt "Number of jobs and the speed at which they are downloading"
 #~ msgid "%1 running job (%2/s)"
 #~ msgid_plural "%1 running jobs (%2/s)"
-#~ msgstr[0] "%1 sarcină rulînd (%2/s)"
-#~ msgstr[1] "%1 sarcini rulînd (%2/s)"
-#~ msgstr[2] "%1 de sarcini rulînd (%2/s)"
+#~ msgstr[0] "%1 sarcină rulând (%2/s)"
+#~ msgstr[1] "%1 sarcini rulând (%2/s)"
+#~ msgstr[2] "%1 de sarcini rulând (%2/s)"
 
 #~ msgid "%1 suspended job"
 #~ msgid_plural "%1 suspended jobs"

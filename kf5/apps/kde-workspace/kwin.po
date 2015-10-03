@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-19 09:23+0000\n"
+"POT-Creation-Date: 2015-10-02 08:17+0000\n"
 "PO-Revision-Date: 2013-11-26 23:23+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -39,7 +39,7 @@ msgid ""
 "resume using the '%1' shortcut."
 msgstr ""
 "Efectele de birou au fost suspendate de altă aplicație.<br/> O puteți relua "
-"utilizînd scurtătura „%1”."
+"utilizând scurtătura „%1”."
 
 #: compositingprefs.cpp:99
 msgid ""
@@ -58,15 +58,15 @@ msgstr ""
 
 #: compositingprefs.cpp:106
 msgid "Required X extensions (XComposite and XDamage) are not available."
-msgstr "Extensiile X necesare (XComposite și XDamage) nu sînt disponibile."
+msgstr "Extensiile X necesare (XComposite și XDamage) nu sunt disponibile."
 
 #: compositingprefs.cpp:110
 msgid "GLX/OpenGL are not available and only OpenGL support is compiled."
-msgstr "GLX/OpenGL nu sînt disponibile și numai suportul OpenGL este compilat."
+msgstr "GLX/OpenGL nu sunt disponibile și numai suportul OpenGL este compilat."
 
 #: compositingprefs.cpp:114
 msgid "GLX/OpenGL and XRender/XFixes are not available."
-msgstr "GLX/OpenGL și XRender/XFixes nu sînt disponibile."
+msgstr "GLX/OpenGL și XRender/XFixes nu sunt disponibile."
 
 #: killer/killer.cpp:44
 msgid "Window Manager"
@@ -205,7 +205,7 @@ msgstr "Minimizează fereastra"
 
 #: kwinbindings.cpp:56
 msgid "Shade Window"
-msgstr "Strînge fereastra"
+msgstr "Strânge fereastra"
 
 #: kwinbindings.cpp:58
 msgid "Move Window"
@@ -225,7 +225,7 @@ msgstr "Coboară fereastra"
 
 #: kwinbindings.cpp:66
 msgid "Toggle Window Raise/Lower"
-msgstr "Comută ridicarea/coborîrea ferestrei"
+msgstr "Comută ridicarea/coborârea ferestrei"
 
 #: kwinbindings.cpp:68
 msgid "Make Window Fullscreen"
@@ -257,7 +257,7 @@ msgstr "Așează fereastra la dreapta"
 
 #: kwinbindings.cpp:82
 msgid "Pack Window to the Left"
-msgstr "Așează fereastra la stînga"
+msgstr "Așează fereastra la stânga"
 
 #: kwinbindings.cpp:84
 msgid "Pack Window Up"
@@ -285,7 +285,7 @@ msgstr "Fereastra scade pe verticală"
 
 #: kwinbindings.cpp:96
 msgid "Quick Tile Window to the Left"
-msgstr "Așezare rapidă în mozaic a ferestrei la stînga"
+msgstr "Așezare rapidă în mozaic a ferestrei la stânga"
 
 #: kwinbindings.cpp:98
 msgid "Quick Tile Window to the Right"
@@ -295,21 +295,21 @@ msgstr "Așezare rapidă în mozaic a ferestrei la dreapta"
 #, fuzzy
 #| msgid "Quick Tile Window to the Top Left"
 msgid "Quick Tile Window to the Top"
-msgstr "Așezare rapidă în mozaic a ferestrei în partea din stînga-sus"
+msgstr "Așezare rapidă în mozaic a ferestrei în partea din stânga-sus"
 
 #: kwinbindings.cpp:102
 #, fuzzy
 #| msgid "Quick Tile Window to the Bottom Left"
 msgid "Quick Tile Window to the Bottom"
-msgstr "Așezare rapidă în mozaic a ferestrei în partea din stînga-jos"
+msgstr "Așezare rapidă în mozaic a ferestrei în partea din stânga-jos"
 
 #: kwinbindings.cpp:104
 msgid "Quick Tile Window to the Top Left"
-msgstr "Așezare rapidă în mozaic a ferestrei în partea din stînga-sus"
+msgstr "Așezare rapidă în mozaic a ferestrei în partea din stânga-sus"
 
 #: kwinbindings.cpp:106
 msgid "Quick Tile Window to the Bottom Left"
-msgstr "Așezare rapidă în mozaic a ferestrei în partea din stînga-jos"
+msgstr "Așezare rapidă în mozaic a ferestrei în partea din stânga-jos"
 
 #: kwinbindings.cpp:108
 msgid "Quick Tile Window to the Top Right"
@@ -333,7 +333,7 @@ msgstr "Comută la fereastra din dreapta"
 
 #: kwinbindings.cpp:118
 msgid "Switch to Window to the Left"
-msgstr "Comută la fereastra din stînga"
+msgstr "Comută la fereastra din stânga"
 
 #: kwinbindings.cpp:120
 msgid "Increase Opacity of Active Window by 5 %"
@@ -366,7 +366,7 @@ msgstr "Mută fereastra un birou la dreapta"
 
 #: kwinbindings.cpp:134
 msgid "Window One Desktop to the Left"
-msgstr "Mută fereastra un birou la stînga"
+msgstr "Mută fereastra un birou la stânga"
 
 #: kwinbindings.cpp:135
 msgid "Window One Desktop Up"
@@ -425,7 +425,7 @@ msgid ""
 "You can select another window manager to run:"
 msgstr ""
 "KWin nu este stabil.\n"
-"Se pare că a eșuat de cîteva ori la rînd.\n"
+"Se pare că a eșuat de câteva ori la rând.\n"
 "Puteți alege alt gestionar de ferestre de pornit:"
 
 #: main.cpp:277 main.cpp:304
@@ -731,7 +731,7 @@ msgid ""
 msgstr ""
 "Ați optat pentru afișarea ferestrei pe tot ecranul.\n"
 "Dacă aplicația nu are o opțiune de dezactivare a regimului de afișare pe tot "
-"ecranul, atunci nu veți putea dezactiva acest regim utilizînd mausul. "
+"ecranul, atunci nu veți putea dezactiva acest regim utilizând mausul. "
 "Folosiți în schimb meniul de sistem al ferestrei, pe care îl puteți activa "
 "folosind combinația de taste %1."
 
@@ -740,7 +740,9 @@ msgid "&Move"
 msgstr "&Mută"
 
 #: useractions.cpp:256
-msgid "Re&size"
+#, fuzzy
+#| msgid "Re&size"
+msgid "&Resize"
 msgstr "Redimen&sionează"
 
 #: useractions.cpp:260
@@ -756,19 +758,25 @@ msgid "&Fullscreen"
 msgstr "&Ecran complet"
 
 #: useractions.cpp:278
-msgid "Sh&ade"
-msgstr "&Strînge"
+#, fuzzy
+#| msgid "Shade"
+msgid "&Shade"
+msgstr "Strânge"
 
 #: useractions.cpp:283
 msgid "&No Border"
 msgstr "Fără che&nar"
 
 #: useractions.cpp:290
-msgid "Window &Shortcut..."
+#, fuzzy
+#| msgid "Window &Shortcut..."
+msgid "Window Short&cut..."
 msgstr "Accelerator ferea&stră..."
 
 #: useractions.cpp:295
-msgid "&Special Window Settings..."
+#, fuzzy
+#| msgid "&Special Window Settings..."
+msgid "Special &Window Settings..."
 msgstr "Configurări &speciale fereastră..."
 
 #: useractions.cpp:299
@@ -776,10 +784,15 @@ msgid "S&pecial Application Settings..."
 msgstr "Configurări s&peciale aplicație..."
 
 #: useractions.cpp:306
+#, fuzzy
+#| msgctxt ""
+#| "Entry in context menu of window decoration to open the configuration "
+#| "module of KWin"
+#| msgid "Window &Manager Settings..."
 msgctxt ""
 "Entry in context menu of window decoration to open the configuration module "
 "of KWin"
-msgid "Window &Manager Settings..."
+msgid "Window Manager S&ettings..."
 msgstr "Configurare &gestionar de ferestre..."
 
 #: useractions.cpp:330
@@ -911,7 +924,7 @@ msgstr "Comută un birou la dreapta"
 
 #: virtualdesktops.cpp:430
 msgid "Switch One Desktop to the Left"
-msgstr "Comută un birou la stînga"
+msgstr "Comută un birou la stânga"
 
 #: virtualdesktops.cpp:431
 msgid "Switch One Desktop Up"
@@ -926,7 +939,7 @@ msgstr "Comută un birou în jos"
 msgid "Switch to Desktop %1"
 msgstr "Comută la biroul %1"
 
-#: workspace.cpp:1300
+#: workspace.cpp:1308
 msgctxt "Introductory text shown in the support information."
 msgid ""
 "KWin Support Information:\n"
@@ -939,6 +952,9 @@ msgid ""
 "paste bin service\n"
 "like http://paste.kde.org instead of pasting into support threads.\n"
 msgstr ""
+
+#~ msgid "Sh&ade"
+#~ msgstr "&Strânge"
 
 #~ msgid "KWin: "
 #~ msgstr "KWin: "
@@ -1020,7 +1036,7 @@ msgstr ""
 #~ msgstr "Elimină din g&rup"
 
 #~ msgid "To the Left"
-#~ msgstr "La stînga"
+#~ msgstr "La stânga"
 
 #~ msgid "To the Right"
 #~ msgstr "La dreapta"
@@ -1035,7 +1051,7 @@ msgstr ""
 #~ "XRender/XFixes extensions are not available and only XRender support is "
 #~ "compiled."
 #~ msgstr ""
-#~ "Extensiile XRender/XFixes nu sînt disponibile și numai suportul XRender "
+#~ "Extensiile XRender/XFixes nu sunt disponibile și numai suportul XRender "
 #~ "este compilat."
 
 #~ msgid ""
@@ -1055,7 +1071,7 @@ msgstr ""
 #~ msgstr "Comută în mod flotant"
 
 #~ msgid "Switch Focus Left"
-#~ msgstr "Comută focalizarea la stînga"
+#~ msgstr "Comută focalizarea la stânga"
 
 #~ msgid "Switch Focus Right"
 #~ msgstr "Comută focalizarea la dreapta"
@@ -1067,7 +1083,7 @@ msgstr ""
 #~ msgstr "Comută focalizarea în jos"
 
 #~ msgid "Move Window Left"
-#~ msgstr "Mută fereastra la stînga"
+#~ msgstr "Mută fereastra la stânga"
 
 #~ msgid "Move Window Right"
 #~ msgstr "Mută fereastra la dreapta"
@@ -1321,9 +1337,6 @@ msgstr ""
 #~ msgid "Unshade"
 #~ msgstr "Desfășoară"
 
-#~ msgid "Shade"
-#~ msgstr "Strînge"
-
 #~ msgid "No window decoration plugin library was found."
 #~ msgstr "Nu a fost găsit nici un modul de decorare a ferestrelor."
 
@@ -1354,7 +1367,7 @@ msgstr ""
 #, fuzzy
 #~| msgid "Left"
 #~ msgid "Move Left"
-#~ msgstr "Stînga"
+#~ msgstr "Stânga"
 
 #, fuzzy
 #~| msgid "Right"
@@ -1419,10 +1432,10 @@ msgstr ""
 #~ msgstr "Jos"
 
 #~ msgid "Bottom-Left"
-#~ msgstr "Stînga-jos"
+#~ msgstr "Stânga-jos"
 
 #~ msgid "Top-Left"
-#~ msgstr "Stînga-sus"
+#~ msgstr "Stânga-sus"
 
 #~ msgid "Center"
 #~ msgstr "Centrat"
@@ -1512,7 +1525,7 @@ msgstr ""
 
 #~ msgid "Activate when cursor is at a specific edge or corner of the screen:"
 #~ msgstr ""
-#~ "Activare cînd cursorul se află la un anumit colț sau margine a ecranului:"
+#~ "Activare când cursorul se află la un anumit colț sau margine a ecranului:"
 
 #~ msgid "for windows on all desktops: "
 #~ msgstr "pentru ferestrele tuturor birourilor"

@@ -71,7 +71,7 @@ msgstr "Regimuri disponibile:\n"
 msgid ""
 "Found some errors while setting up the GUI, the application can't proceed."
 msgstr ""
-"S-au întîlnit cîteva erori în timpul configurării interfeței grafice, "
+"S-au întâlnit câteva erori în timpul configurării interfeței grafice, "
 "aplicația nu poate continua."
 
 #: discover/MuonDiscoverMainWindow.cpp:104
@@ -147,7 +147,7 @@ msgstr "Popularitate"
 
 #: discover/qml/ApplicationsListPage.qml:103
 msgid "Buzz"
-msgstr "Bîzîit"
+msgstr "Bâzâit"
 
 #: discover/qml/ApplicationsListPage.qml:111
 msgid "Origin"

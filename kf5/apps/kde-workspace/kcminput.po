@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-11 09:20+0000\n"
+"POT-Creation-Date: 2015-09-30 08:07+0000\n"
 "PO-Revision-Date: 2011-12-04 22:45+0200\n"
 "Last-Translator: Cristian Oneț <onet.cristian@gmail.com>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -99,7 +99,7 @@ msgstr "Pentru &dreptaci"
 #. i18n: ectx: property (text), widget (QRadioButton, leftHanded)
 #: kmousedlg.ui:46
 msgid "Le&ft handed"
-msgstr "Pentru &stîngaci"
+msgstr "Pentru &stângaci"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbScrollPolarity)
 #: kmousedlg.ui:72
@@ -132,28 +132,6 @@ msgstr ""
 msgid "&Single-click to open files and folders"
 msgstr "&Un singur clic pentru deschiderea fișierelor și dosarelor"
 
-#. i18n: ectx: property (text), widget (QCheckBox, cb_pointershape)
-#: kmousedlg.ui:151
-msgid "Cha&nge pointer shape over icons"
-msgstr "Schimbă f&orma cursorului deasupra pictogramelor"
-
-#. i18n: ectx: property (text), widget (QCheckBox, cbAutoSelect)
-#: kmousedlg.ui:161
-msgid "A&utomatically select icons"
-msgstr "&Selectează automat pictogramele"
-
-#. i18n: ectx: property (label), widget (KIntNumInput, slAutoSelect)
-#: kmousedlg.ui:195
-msgctxt "label. delay (on milliseconds) to automatically select icons"
-msgid "Delay"
-msgstr "Întîrziere"
-
-#. i18n: ectx: property (suffix), widget (KIntNumInput, slAutoSelect)
-#: kmousedlg.ui:207
-msgctxt "milliseconds. time to automatically select the items"
-msgid " ms"
-msgstr " ms"
-
 #: mouse.cpp:95
 msgid ""
 "<h1>Mouse</h1> This module allows you to choose various options for the way "
@@ -177,10 +155,10 @@ msgid ""
 "as the left and right buttons are affected. For example, if you have a three-"
 "button mouse, the middle button is unaffected."
 msgstr ""
-"Dacă sînteți stîngaci, puteți prefera să comutați funcțiile pentru butoanele "
-"stînga și dreapta ale dispozitivului dumneavoastră de indicare alegînd "
-"opțiunea „Pentru stîngaci”. Dacă dispozitivul dumneavoastră de indicare are "
-"mai mult de două butoane, numai cele cu funcție de stînga și dreapta vor fi "
+"Dacă sunteți stângaci, puteți prefera să comutați funcțiile pentru butoanele "
+"stânga și dreapta ale dispozitivului dumneavoastră de indicare alegând "
+"opțiunea „Pentru stângaci”. Dacă dispozitivul dumneavoastră de indicare are "
+"mai mult de două butoane, numai cele cu funcție de stânga și dreapta vor fi "
 "afectate. De exemplu, dacă aveți un maus cu trei butoane, butonul din mijloc "
 "nu este afectat."
 
@@ -193,8 +171,8 @@ msgid ""
 "with a double click, check this option."
 msgstr ""
 "Comportamentul implicit al KDE este să selecteze și să activeze pictogramele "
-"cu un singur clic stînga al dispozitivului dumneavoastră de indicare. Acest "
-"lucru este consistent cu ceea ce așteptați să se întîmple cînd dați clic pe "
+"cu un singur clic stânga al dispozitivului dumneavoastră de indicare. Acest "
+"lucru este consistent cu ceea ce așteptați să se întâmple când dați clic pe "
 "hiperlegături în majoritatea navigatoarelor de web. Dacă preferați să "
 "selectați cu un singur clic și să activați cu dublu-clic, marcați această "
 "opțiune."
@@ -203,41 +181,19 @@ msgstr ""
 msgid "Activates and opens a file or folder with a single click."
 msgstr "Activează și deschide un fișier sau un dosar cu un singur clic."
 
-#: mouse.cpp:148
-msgid ""
-"If you check this option, pausing the mouse pointer over an icon on the "
-"screen will automatically select that icon. This may be useful when single "
-"clicks activate icons, and you want only to select the icon without "
-"activating it."
-msgstr ""
-"Dacă activați această opțiune, oprind cursorul mausului deasupra unei "
-"pictograme de pe ecran va determina selectarea automată a acelei pictograme. "
-"Acest lucru poate fi util cînd un singur clic activează pictogramele și "
-"doriți numai să selectați pictograma, fără a o activa."
-
-#: mouse.cpp:154
-msgid ""
-"If you have checked the option to automatically select icons, this slider "
-"allows you to select how long the mouse pointer must be paused over the icon "
-"before it is selected."
-msgstr ""
-"Dacă ați marcat opțiunea pentru selectarea automată a pictogramelor, acest "
-"cursor vă permite să stabiliți cît de mult timp trebuie să stea cursorul "
-"mausului deasupra pictogramei înainte de a fi selectată automat."
-
-#: mouse.cpp:190
+#: mouse.cpp:166
 msgid "Advanced"
 msgstr "Avansat"
 
-#: mouse.cpp:195
+#: mouse.cpp:171
 msgid " x"
 msgstr " x"
 
-#: mouse.cpp:196
+#: mouse.cpp:172
 msgid "Pointer acceleration:"
 msgstr "Accelerație indicator:"
 
-#: mouse.cpp:199
+#: mouse.cpp:175
 msgid ""
 "<p>This option allows you to change the relationship between the distance "
 "that the mouse pointer moves on the screen and the relative movement of the "
@@ -256,11 +212,11 @@ msgstr ""
 "indicare. Selectarea unor valori foarte mari poate face cursorul să zboare "
 "pe ecran și să fie foarte greu de controlat.</p>"
 
-#: mouse.cpp:214
+#: mouse.cpp:190
 msgid "Pointer threshold:"
 msgstr "Prag cursor:"
 
-#: mouse.cpp:219
+#: mouse.cpp:195
 msgid ""
 "<p>The threshold is the smallest distance that the mouse pointer must move "
 "on the screen before acceleration has any effect. If the movement is smaller "
@@ -272,22 +228,22 @@ msgid ""
 msgstr ""
 "<p>Pragul este cea mai mică distanță pe care cursorul mausului trebuie să o "
 "parcurgă pe ecran înainte ca accelerația să aibă efect. Dacă mișcarea este "
-"mai mică decît pragul, atunci cursorul se mișcă ca și cum accelerația ar fi "
-"fost stabilită la \"1x\".</p><p> Astfel, atunci cînd veți face deplasări "
-"mici cu dispozitivul de indicare, nu va exista nici o accelerare, dîndu-vă "
+"mai mică decât pragul, atunci cursorul se mișcă ca și cum accelerația ar fi "
+"fost stabilită la \"1x\".</p><p> Astfel, atunci când veți face deplasări "
+"mici cu dispozitivul de indicare, nu va exista nici o accelerare, dându-vă "
 "un mare grad de control asupra cursorului mausului. Cu deplasări mari ale "
 "dispozitivului de indicare puteți muta rapid cursorul în diferite zone ale "
 "ecranului.</p>"
 
-#: mouse.cpp:234 mouse.cpp:249 mouse.cpp:295 mouse.cpp:300 mouse.cpp:305
+#: mouse.cpp:210 mouse.cpp:225 mouse.cpp:271 mouse.cpp:276 mouse.cpp:281
 msgid " msec"
 msgstr " msec"
 
-#: mouse.cpp:236
+#: mouse.cpp:212
 msgid "Double click interval:"
 msgstr "Interval dublu-clic:"
 
-#: mouse.cpp:239
+#: mouse.cpp:215
 msgid ""
 "The double click interval is the maximal time (in milliseconds) between two "
 "mouse clicks which turns them into a double click. If the second click "
@@ -296,14 +252,14 @@ msgid ""
 msgstr ""
 "Intervalul de dublu-clic este perioada maximă de timp (în milisecunde) între "
 "două clicuri de maus și care este interpretată ca eveniment dublu-clic. Dacă "
-"cel de-al doilea clic are loc mai tîrziu decît acest interval, atunci "
-"acestea sînt recunoscute ca clicuri separate."
+"cel de-al doilea clic are loc mai târziu decât acest interval, atunci "
+"acestea sunt recunoscute ca clicuri separate."
 
-#: mouse.cpp:251
+#: mouse.cpp:227
 msgid "Drag start time:"
 msgstr "Moment de start tragere:"
 
-#: mouse.cpp:254
+#: mouse.cpp:230
 msgid ""
 "If you click with the mouse (e.g. in a multi-line editor) and begin to move "
 "the mouse within the drag start time, a drag operation will be initiated."
@@ -312,11 +268,11 @@ msgstr ""
 "să mutați mausul în intervalul de tragere (<em>drag</em>), atunci va fi "
 "inițiată o operație de tragere."
 
-#: mouse.cpp:262
+#: mouse.cpp:238
 msgid "Drag start distance:"
 msgstr "Distanță de start tragere:"
 
-#: mouse.cpp:267
+#: mouse.cpp:243
 msgid ""
 "If you click with the mouse and begin to move the mouse at least the drag "
 "start distance, a drag operation will be initiated."
@@ -324,11 +280,11 @@ msgstr ""
 "Dacă dați clic cu mausul și începeți să mișcați mausul cel puțin distanța de "
 "începere a tragerii, atunci va fi inițiată o operație de tragere."
 
-#: mouse.cpp:275
+#: mouse.cpp:251
 msgid "Mouse wheel scrolls by:"
 msgstr "Rotița mausului defilează:"
 
-#: mouse.cpp:280
+#: mouse.cpp:256
 msgid ""
 "If you use the wheel of a mouse, this value determines the number of lines "
 "to scroll for each wheel movement. Note that if this number exceeds the "
@@ -340,91 +296,125 @@ msgstr ""
 "număr depășește numărul de linii vizibile acest eveniment va fi ignorat și "
 "mișcarea rotiței va fi tratată ca o deplasare de pagină în sus sau în jos."
 
-#: mouse.cpp:286
+#: mouse.cpp:262
 msgid "Mouse Navigation"
 msgstr "Navigare maus"
 
-#: mouse.cpp:290
+#: mouse.cpp:266
 msgid "&Move pointer with keyboard (using the num pad)"
-msgstr "&Mișcă cursorul cu tastele (utilizînd tastatura numerică)"
+msgstr "&Mișcă cursorul cu tastele (utilizând tastatura numerică)"
 
-#: mouse.cpp:296
+#: mouse.cpp:272
 msgid "&Acceleration delay:"
-msgstr "Întîrziere &accelerare:"
+msgstr "Întârziere &accelerare:"
 
-#: mouse.cpp:301
+#: mouse.cpp:277
 msgid "R&epeat interval:"
 msgstr "Interval de &repetiție:"
 
-#: mouse.cpp:306
+#: mouse.cpp:282
 msgid "Acceleration &time:"
 msgstr "&Timp de accelerare:"
 
-#: mouse.cpp:310
+#: mouse.cpp:286
 msgid " pixel/sec"
 msgstr " pixeli/sec"
 
-#: mouse.cpp:311
+#: mouse.cpp:287
 msgid "Ma&ximum speed:"
 msgstr "Viteză ma&ximă:"
 
-#: mouse.cpp:315
+#: mouse.cpp:291
 msgid "Acceleration &profile:"
 msgstr "&Profil de accelerare:"
 
-#: mouse.cpp:328
+#: mouse.cpp:304
 msgid "Mouse"
 msgstr "Maus"
 
-#: mouse.cpp:329
+#: mouse.cpp:305
 msgid "(c) 1997 - 2005 Mouse developers"
 msgstr "(c) 1997 - 2005 Programatorii de maus"
 
-#: mouse.cpp:330
+#: mouse.cpp:306
 msgid "Patrick Dowler"
 msgstr "Patrick Dowler"
 
-#: mouse.cpp:331
+#: mouse.cpp:307
 msgid "Dirk A. Mueller"
 msgstr "Dirk A. Mueller"
 
-#: mouse.cpp:332
+#: mouse.cpp:308
 msgid "David Faure"
 msgstr "David Faure"
 
-#: mouse.cpp:333
+#: mouse.cpp:309
 msgid "Bernd Gehrmann"
 msgstr "Bernd Gehrmann"
 
-#: mouse.cpp:334
+#: mouse.cpp:310
 msgid "Rik Hemsley"
 msgstr "Rik Hemsley"
 
-#: mouse.cpp:335
+#: mouse.cpp:311
 msgid "Brad Hughes"
 msgstr "Brad Hughes"
 
-#: mouse.cpp:336
+#: mouse.cpp:312
 msgid "Ralf Nolden"
 msgstr "Ralf Nolden"
 
-#: mouse.cpp:337
+#: mouse.cpp:313
 msgid "Brad Hards"
 msgstr "Brad Hards"
 
-#: mouse.cpp:639 mouse.cpp:644
+#: mouse.cpp:589 mouse.cpp:594
 msgid " pixel"
 msgid_plural " pixels"
 msgstr[0] " pixel"
 msgstr[1] " pixeli"
 msgstr[2] " de pixeli"
 
-#: mouse.cpp:649
+#: mouse.cpp:599
 msgid " line"
 msgid_plural " lines"
 msgstr[0] " linie"
 msgstr[1] " linii"
 msgstr[2] " de linii"
+
+#~ msgid "Cha&nge pointer shape over icons"
+#~ msgstr "Schimbă f&orma cursorului deasupra pictogramelor"
+
+#~ msgid "A&utomatically select icons"
+#~ msgstr "&Selectează automat pictogramele"
+
+#~ msgctxt "label. delay (on milliseconds) to automatically select icons"
+#~ msgid "Delay"
+#~ msgstr "Întârziere"
+
+#~ msgctxt "milliseconds. time to automatically select the items"
+#~ msgid " ms"
+#~ msgstr " ms"
+
+#~ msgid ""
+#~ "If you check this option, pausing the mouse pointer over an icon on the "
+#~ "screen will automatically select that icon. This may be useful when "
+#~ "single clicks activate icons, and you want only to select the icon "
+#~ "without activating it."
+#~ msgstr ""
+#~ "Dacă activați această opțiune, oprind cursorul mausului deasupra unei "
+#~ "pictograme de pe ecran va determina selectarea automată a acelei "
+#~ "pictograme. Acest lucru poate fi util când un singur clic activează "
+#~ "pictogramele și doriți numai să selectați pictograma, fără a o activa."
+
+#~ msgid ""
+#~ "If you have checked the option to automatically select icons, this slider "
+#~ "allows you to select how long the mouse pointer must be paused over the "
+#~ "icon before it is selected."
+#~ msgstr ""
+#~ "Dacă ați marcat opțiunea pentru selectarea automată a pictogramelor, "
+#~ "acest cursor vă permite să stabiliți cât de mult timp trebuie să stea "
+#~ "cursorul mausului deasupra pictogramei înainte de a fi selectată automat."
 
 #~ msgid "Mouse type: %1"
 #~ msgstr "Tip maus: %1"
@@ -567,7 +557,7 @@ msgstr[2] " de linii"
 #~ "switch to another theme first.</qt>"
 #~ msgstr ""
 #~ "<qt>Nu puteți șterge tematica pe care o folosiți la moment.<br />Trebuie "
-#~ "mai întîi să treceți la altă tematică.</qt>"
+#~ "mai întâi să treceți la altă tematică.</qt>"
 
 #~ msgid ""
 #~ "<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "

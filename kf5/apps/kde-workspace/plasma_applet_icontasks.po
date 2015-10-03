@@ -102,7 +102,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, maxRows_label)
 #: appearanceconfig.ui:161
 msgid "Maximum rows:"
-msgstr "Maxim rînduri:"
+msgstr "Maxim rânduri:"
 
 #. i18n: ectx: property (toolTip), widget (KIntSpinBox, maxRows)
 #: appearanceconfig.ui:174
@@ -366,7 +366,7 @@ msgstr "Arată imediat"
 
 #: tasks.cpp:568
 msgid "Show After Delay"
-msgstr "Arată după întîrziere"
+msgstr "Arată după întârziere"
 
 #: tasks.cpp:574
 msgid "Minimize/Restore"

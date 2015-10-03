@@ -194,7 +194,7 @@ msgid ""
 "Install button associated with a theme will install this theme locally."
 msgstr ""
 "Trebuie să fiți conectat la Internet pentru a utiliza această acțiune. Un "
-"dialog va afișa o listă cu tematici de pe situl http://www.kde.org. Făcînd "
+"dialog va afișa o listă cu tematici de pe situl http://www.kde.org. Făcând "
 "clic pe butonul Instalează asociat unei tematici, aceasta se va instala "
 "local."
 

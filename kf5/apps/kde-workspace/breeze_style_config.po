@@ -45,7 +45,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, _splitterProxyEnabled)
 #: ui/breezestyleconfig.ui:51
 msgid "Enable extended resize handles"
-msgstr "Activează mînerele de redimensionare extinse"
+msgstr "Activează mânerele de redimensionare extinse"
 
 #. i18n: ectx: property (text), widget (QLabel, _mnemonicsLabel)
 #: ui/breezestyleconfig.ui:58
@@ -60,7 +60,7 @@ msgstr "Ascunde acceleratorii de tastatură întotdeauna"
 #. i18n: ectx: property (text), item, widget (QComboBox, _mnemonicsMode)
 #: ui/breezestyleconfig.ui:77
 msgid "Show Keyboard Accelerators When Needed"
-msgstr "Arată acceleratorii de tastatură cînd trebuie"
+msgstr "Arată acceleratorii de tastatură când trebuie"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, _mnemonicsMode)
 #: ui/breezestyleconfig.ui:82

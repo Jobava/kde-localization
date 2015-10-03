@@ -225,7 +225,7 @@ msgstr "Rafale: %1 %2"
 #, fuzzy
 #~| msgid "&Wind unit"
 #~ msgid "&Wind unit:"
-#~ msgstr "Unitate &vînt"
+#~ msgstr "Unitate &vânt"
 
 #, fuzzy
 #~| msgid "&Pressure unit"
@@ -239,7 +239,7 @@ msgstr "Rafale: %1 %2"
 
 #~ msgid ""
 #~ "The applet was not able to contact the server, please try again later"
-#~ msgstr "Miniaplicația nu a putut contacta serverul, reîncercați mai tîrziu"
+#~ msgstr "Miniaplicația nu a putut contacta serverul, reîncercați mai târziu"
 
 #~ msgid ""
 #~ "The place '%1' is not valid. The data source is not able to find this "
@@ -360,18 +360,18 @@ msgstr "Rafale: %1 %2"
 #~ msgstr "Actualizare informații despre vreme la fiecare"
 
 #~ msgid "Select wind format:"
-#~ msgstr "Alegeți formatul vîntului:"
+#~ msgstr "Alegeți formatul vântului:"
 
 #~ msgid "Plugin"
 #~ msgstr "Modul"
 
 #~ msgid "Wind Direction: %1"
-#~ msgstr "Direcția vîntului: %1"
+#~ msgstr "Direcția vântului: %1"
 
 #, fuzzy
 #~| msgid "Wind Speed: %1"
 #~ msgid "Wind: %1"
-#~ msgstr "Viteza vîntului: %1"
+#~ msgstr "Viteza vântului: %1"
 
 #, fuzzy
 #~| msgid "Windchill: %1"
@@ -382,10 +382,10 @@ msgstr "Rafale: %1 %2"
 #~ msgstr "Așteptați, încarc informația despre vreme..."
 
 #~ msgid "Wind Speed: %1%2"
-#~ msgstr "Viteza vîntului: %1%2"
+#~ msgstr "Viteza vântului: %1%2"
 
 #~ msgid "No weather locations specified yet. Please configure"
-#~ msgstr "Nu sînt locații specificate. Configurați, vă rog."
+#~ msgstr "Nu sunt locații specificate. Configurați, vă rog."
 
 #~ msgid "Weather Conditions for %1"
 #~ msgstr "Condiții meteorologice pentru %1"

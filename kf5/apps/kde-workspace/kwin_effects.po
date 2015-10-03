@@ -73,7 +73,7 @@ msgstr "Scalează"
 #. i18n: ectx: property (toolTip), widget (QSlider, kcfg_zPosition)
 #: coverswitch/coverswitch_config.ui:39
 msgid "Define how far away the windows should appear"
-msgstr "Definește cît de departe să apară ferestrele"
+msgstr "Definește cât de departe să apară ferestrele"
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
 #: coverswitch/coverswitch_config.ui:66 cube/cube_config.ui:350
@@ -291,7 +291,7 @@ msgstr "Afișează imaginea pe capace"
 #. i18n: ectx: property (toolTip), widget (QSlider, kcfg_ZPosition)
 #: cube/cube_config.ui:367
 msgid "Define how far away the object should appear"
-msgstr "Definește cît de departe să apară obiectul"
+msgstr "Definește cât de departe să apară obiectul"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_9)
 #: cube/cube_config.ui:408
@@ -307,7 +307,7 @@ msgid ""
 msgstr ""
 "Dacă este activat, efectul va fi dezactivat după rotirea cubului cu "
 "mouseul, \n"
-"altfel va rămîne activ"
+"altfel va rămâne activ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_CloseOnMouseRelease)
 #: cube/cube_config.ui:418
@@ -368,7 +368,7 @@ msgstr "Folosește aranjamentul de paginator pentru animație"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_UseWindowMoving)
 #: cube/cubeslide_config.ui:92
 msgid "Start animation when moving windows towards screen edges"
-msgstr "Pornește animația cînd se mută ferestrele spre marginile ecranului"
+msgstr "Pornește animația când se mută ferestrele spre marginile ecranului"
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
 #: dashboard/dashboard_config.ui:17
@@ -458,16 +458,16 @@ msgstr "Jos"
 
 #: desktopgrid/desktopgrid_config.cpp:81
 msgid "Bottom-Left"
-msgstr "Stînga-jos"
+msgstr "Stânga-jos"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: desktopgrid/desktopgrid_config.cpp:82 flipswitch/flipswitch_config.ui:105
 msgid "Left"
-msgstr "Stînga"
+msgstr "Stânga"
 
 #: desktopgrid/desktopgrid_config.cpp:83
 msgid "Top-Left"
-msgstr "Stînga-sus"
+msgstr "Stânga-sus"
 
 #: desktopgrid/desktopgrid_config.cpp:84
 msgid "Center"
@@ -517,7 +517,7 @@ msgstr "Personalizat"
 #. i18n: ectx: property (text), widget (QLabel, layoutRowsLabel)
 #: desktopgrid/desktopgrid_config.ui:145
 msgid "Number of &rows:"
-msgstr "Număr de &rînduri:"
+msgstr "Număr de &rânduri:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_PresentWindows)
 #: desktopgrid/desktopgrid_config.ui:190
@@ -1107,7 +1107,7 @@ msgstr "Comută efectul"
 #| msgid "Left"
 msgctxt "Left mouse button"
 msgid "Left"
-msgstr "Stînga"
+msgstr "Stânga"
 
 #: mouseclick/mouseclick.cpp:59
 #, fuzzy
@@ -1131,7 +1131,7 @@ msgstr "Configurări de bază"
 #. i18n: ectx: property (text), widget (QLabel, button1_label)
 #: mouseclick/mouseclick_config.ui:37
 msgid "Left Mouse Button Color:"
-msgstr "Culoarea butonului din stînga al mausului:"
+msgstr "Culoarea butonului din stânga al mausului:"
 
 #. i18n: ectx: property (text), widget (QLabel, button2_label)
 #: mouseclick/mouseclick_config.ui:50
@@ -1219,7 +1219,7 @@ msgstr "&Culoare:"
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: mousemark/mousemark_config.ui:88
 msgid "Draw with the mouse by holding Shift+Meta keys and moving the mouse."
-msgstr "Desenează cu mausul ținînd Shift+Meta și mișcînd cursorul."
+msgstr "Desenează cu mausul ținând Shift+Meta și mișcând cursorul."
 
 #: presentwindows/presentwindows.cpp:70
 #: presentwindows/presentwindows_config.cpp:72
@@ -1275,7 +1275,7 @@ msgstr "Ferestre"
 #: presentwindows/presentwindows_config.ui:128
 #: presentwindows/presentwindows_config.ui:272
 msgid "Left button:"
-msgstr "Buton stînga:"
+msgstr "Buton stânga:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonWindow)
@@ -1450,7 +1450,7 @@ msgstr "Nicăieri"
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TextPosition)
 #: showfps/showfps_config.ui:53
 msgid "Top Left"
-msgstr "Stînga-sus"
+msgstr "Stânga-sus"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TextPosition)
 #: showfps/showfps_config.ui:58
@@ -1460,7 +1460,7 @@ msgstr "Drepta-sus"
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TextPosition)
 #: showfps/showfps_config.ui:63
 msgid "Bottom Left"
-msgstr "Stînga-jos"
+msgstr "Stânga-jos"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TextPosition)
 #: showfps/showfps_config.ui:68
@@ -1673,7 +1673,7 @@ msgstr "Mai mult"
 
 #: zoom/zoom.cpp:84
 msgid "Move Zoomed Area to Left"
-msgstr "Mută zona mărită spre stînga"
+msgstr "Mută zona mărită spre stânga"
 
 #: zoom/zoom.cpp:92
 msgid "Move Zoomed Area to Right"
@@ -1697,7 +1697,7 @@ msgstr "Mută mouseul la centru"
 
 #: zoom/zoom_config.cpp:85
 msgid "Move Left"
-msgstr "Mută la stînga"
+msgstr "Mută la stânga"
 
 #: zoom/zoom_config.cpp:92
 msgid "Move Right"
@@ -1742,7 +1742,7 @@ msgstr "Activează urmărirea focalizării"
 #: zoom/zoom_config.ui:79
 msgid "When the focus changes, move the zoom area to the focused location."
 msgstr ""
-"Cînd focusul se modifică, deplasează zona de panoramare către locația de "
+"Când focusul se modifică, deplasează zona de panoramare către locația de "
 "focus."
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableFollowFocus)
@@ -1823,7 +1823,7 @@ msgstr "Urmărire maus:"
 #~ msgid ""
 #~ "Only show thumbnail bar if there are at least specified number of windows"
 #~ msgstr ""
-#~ "Arată bara cu pictograme numai dacă sînt cel puțin numărul specificat de "
+#~ "Arată bara cu pictograme numai dacă sunt cel puțin numărul specificat de "
 #~ "ferestre"
 
 #~ msgid "Dynamic mode"
@@ -1834,9 +1834,9 @@ msgstr "Urmărire maus:"
 
 #~ msgid " row"
 #~ msgid_plural " rows"
-#~ msgstr[0] " rînd"
-#~ msgstr[1] " rînduri"
-#~ msgstr[2] " de rînduri"
+#~ msgstr[0] " rând"
+#~ msgstr[1] " rânduri"
+#~ msgstr[2] " de rânduri"
 
 #~ msgctxt "Duration of fading"
 #~ msgid "Default"
@@ -1849,10 +1849,10 @@ msgstr "Urmărire maus:"
 #~ msgstr "Calea de salvat video:"
 
 #~ msgid "Slide when grouping"
-#~ msgstr "Alunecă cînd se grupează"
+#~ msgstr "Alunecă când se grupează"
 
 #~ msgid "Slide when switching tabs"
-#~ msgstr "Alunecă cînd se comută filele"
+#~ msgstr "Alunecă când se comută filele"
 
 #~ msgid "Duration"
 #~ msgstr "Durata"
@@ -1970,7 +1970,7 @@ msgstr "Urmărire maus:"
 #~ msgstr "&Opacitate:"
 
 #~ msgid "Activate when cursor is at a specific edge or corner of the screen:"
-#~ msgstr "Activare cînd cursorul e la un anumit colț sau margine a ecranului:"
+#~ msgstr "Activare când cursorul e la un anumit colț sau margine a ecranului:"
 
 #, fuzzy
 #~| msgid "Toggle Expose Effect (incl other desktops)"

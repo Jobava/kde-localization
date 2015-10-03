@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkeyboard\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-17 09:34+0000\n"
+"POT-Creation-Date: 2015-09-27 08:29+0000\n"
 "PO-Revision-Date: 2012-12-21 00:27+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu.bivol@jurnaltv.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -33,15 +33,15 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "sergiu@ase.md"
 
-#: bindings.cpp:33
+#: bindings.cpp:32
 msgid "Switch to Next Keyboard Layout"
 msgstr "Comută la următorul aranjament de tastatură"
 
-#: bindings.cpp:34
+#: bindings.cpp:33
 msgid "KDE Keyboard Layout Switcher"
 msgstr "Comutator de aranjament al tastaturii pentru KDE"
 
-#: bindings.cpp:67
+#: bindings.cpp:66
 #, kde-format
 msgid "Switch keyboard layout to %1"
 msgstr "Schimbă aranjamentul de tastatură la %1"
@@ -62,7 +62,7 @@ msgstr "%1 | %2"
 msgid "Any language"
 msgstr "Orice limbă"
 
-#: kcm_add_layout_dialog.cpp:139 kcm_view_models.cpp:308
+#: kcm_add_layout_dialog.cpp:139 kcm_view_models.cpp:319
 msgctxt "variant"
 msgid "Default"
 msgstr "Implicită"
@@ -109,7 +109,7 @@ msgstr "Modul de control KDE a tastaturii"
 
 #: kcm_keyboard.cpp:51
 msgid "(c) 2010 Andriy Rysin"
-msgstr "(c) 2010 Andrii Rîsin"
+msgstr "(c) 2010 Andriy Rysin"
 
 #: kcm_keyboard.cpp:54
 msgid ""
@@ -142,7 +142,7 @@ msgstr ""
 "Aici puteți alege modelul de tastatură. Această setare este independentă de "
 "aranjamentul de tastatură ales și se referă la modelul echipamentului adică "
 "la modul în care a fost fabricată tastatura. Tastaturile moderne au de "
-"obicei două taste suplimentare și sînt denumite ca modele cu „104 de taste” "
+"obicei două taste suplimentare și sunt denumite ca modele cu „104 de taste” "
 "ceea ce probabil ar trebui să alegeți dacă nu știți ce fel de tastatură "
 "aveți.\n"
 
@@ -277,7 +277,7 @@ msgid ""
 msgstr ""
 "Aceasta este o scurtătură pentru comutarea aranjamentelor care este tratată "
 "de către KDE. Ea nu permite scurtături doar cu modificator și este posibil "
-"să nu funcționeze în anumite situații (de exemplu cînd este activă o "
+"să nu funcționeze în anumite situații (de exemplu când este activă o "
 "fereastră popup sau protectorul de ecran)."
 
 #. i18n: ectx: property (title), widget (QGroupBox, layoutsGroupBox)
@@ -325,18 +325,18 @@ msgstr "Avansat"
 msgid "&Configure keyboard options"
 msgstr "&Configurează opțiunile tastaturii"
 
-#: kcm_keyboard_widget.cpp:219
+#: kcm_keyboard_widget.cpp:214
 msgctxt "unknown keyboard model vendor"
 msgid "Unknown"
 msgstr "Necunoscut"
 
-#: kcm_keyboard_widget.cpp:221
+#: kcm_keyboard_widget.cpp:216
 #, kde-format
 msgctxt "vendor | keyboard model"
 msgid "%1 | %2"
 msgstr "%1 | %2"
 
-#: kcm_keyboard_widget.cpp:231
+#: kcm_keyboard_widget.cpp:226
 #, kde-format
 msgid "Only up to %1 keyboard layout is supported"
 msgid_plural "Only up to %1 keyboard layouts are supported"
@@ -344,7 +344,7 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: kcm_keyboard_widget.cpp:619
+#: kcm_keyboard_widget.cpp:611
 #, fuzzy
 #| msgctxt "no shortcut defined"
 #| msgid "None"
@@ -352,7 +352,7 @@ msgctxt "no shortcuts defined"
 msgid "None"
 msgstr "Niciunul"
 
-#: kcm_keyboard_widget.cpp:635
+#: kcm_keyboard_widget.cpp:627
 #, fuzzy, kde-format
 #| msgid "Shortcut:"
 msgid "%1 shortcut"
@@ -361,30 +361,30 @@ msgstr[0] "Accelerator:"
 msgstr[1] "Accelerator:"
 msgstr[2] "Accelerator:"
 
-#: kcm_view_models.cpp:224
+#: kcm_view_models.cpp:226
 msgctxt "layout map name"
 msgid "Map"
 msgstr "Hartă"
 
-#: kcm_view_models.cpp:224
+#: kcm_view_models.cpp:226
 #, fuzzy
 #| msgid "Layout:"
 msgid "Layout"
 msgstr "Aranjament:"
 
-#: kcm_view_models.cpp:224
+#: kcm_view_models.cpp:226
 #, fuzzy
 #| msgid "Variant:"
 msgid "Variant"
 msgstr "Variantă:"
 
-#: kcm_view_models.cpp:224
+#: kcm_view_models.cpp:226
 #, fuzzy
 #| msgid "Label:"
 msgid "Label"
 msgstr "Etichetă:"
 
-#: kcm_view_models.cpp:224
+#: kcm_view_models.cpp:226
 #, fuzzy
 #| msgid "Shortcut:"
 msgid "Shortcut"
@@ -444,7 +444,7 @@ msgstr "Lasă &neschimbat"
 #. i18n: ectx: property (text), widget (QLabel, lblDelay)
 #: kcmmiscwidget.ui:123
 msgid "&Delay:"
-msgstr "În&tîrziere"
+msgstr "În&târziere"
 
 #. i18n: ectx: property (whatsThis), widget (QSlider, delaySlider)
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, delay)
@@ -454,7 +454,7 @@ msgid ""
 "key will start generating keycodes. The 'Repeat rate' option controls the "
 "frequency of these keycodes."
 msgstr ""
-"Dacă e susținută, această opțiune vă permite să stabiliți întîrzierea cu "
+"Dacă e susținută, această opțiune vă permite să stabiliți întârzierea cu "
 "care o tastă apăsată va începe să genereze simboluri. Opțiunea „Rata de "
 "repetiție”gestionează frecvența acestor simboluri."
 
@@ -476,7 +476,7 @@ msgid ""
 "generated while a key is pressed."
 msgstr ""
 "Dacă e susținută, această opțiune vă permite să stabiliți rata la care "
-"caracterele sînt generate cînd e apăsată o tastă."
+"caracterele sunt generate când e apăsată o tastă."
 
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, rate)
 #: kcmmiscwidget.ui:218
@@ -522,10 +522,10 @@ msgstr "Configurează aranjamente"
 #~ "arrows on the spin box. Setting the volume to 0% turns off the key click."
 #~ msgstr ""
 #~ "Dacă e susținută, această opțiune vă permite să auziți clicuri sonore din "
-#~ "difuzoarele calculatorului cînd apăsați pe taste. Această funcție poate "
+#~ "difuzoarele calculatorului când apăsați pe taste. Această funcție poate "
 #~ "fi utilă dacă tastatura nu are taste mecanice, sau sunetul pe care "
 #~ "acestea îl produc este foarte moale.<p>Puteți schimba intensitatea "
-#~ "clicurilor mișcînd glisorul sau făcînd clic pe săgețile sus/jos ale "
+#~ "clicurilor mișcând glisorul sau făcând clic pe săgețile sus/jos ale "
 #~ "butonului incremental. Stabilirea volumului la 0% deconectează clicul "
 #~ "tastelor."
 
@@ -588,7 +588,7 @@ msgstr "Configurează aranjamente"
 #~ "Dacă bifați această opțiune, apăsarea și menținerea unei taste emite "
 #~ "același caracter iar și iar. De exemplu, apăsarea și menținerea tastei "
 #~ "Tab va avea același efect ca și apăsarea succesivă a ei: vor fi generate "
-#~ "caractere de tabulare pînă eliberați tasta."
+#~ "caractere de tabulare până eliberați tasta."
 
 #~ msgid "&Enable keyboard repeat"
 #~ msgstr "&Activare repetiție tastatură"

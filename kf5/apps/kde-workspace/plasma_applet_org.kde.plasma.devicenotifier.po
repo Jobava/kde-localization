@@ -174,7 +174,7 @@ msgstr "Niciun dispozitiv disponibil"
 #~ "One or more files on this device are open within an application."
 #~ msgstr ""
 #~ "Nu s-a putut demonta dispozitivul.\n"
-#~ "Unul sau mai multe fișiere de pe acest dispozitiv sînt deschise într-o "
+#~ "Unul sau mai multe fișiere de pe acest dispozitiv sunt deschise într-o "
 #~ "aplicație."
 
 #~ msgid ""
@@ -182,7 +182,7 @@ msgstr "Niciun dispozitiv disponibil"
 #~ "One or more files on this disc are open within an application."
 #~ msgstr ""
 #~ "Nu s-a putut scoate discul.\n"
-#~ "Unul sau mai multe fișiere de pe acest disc sînt deschise într-o "
+#~ "Unul sau mai multe fișiere de pe acest disc sunt deschise într-o "
 #~ "aplicație."
 
 #, fuzzy

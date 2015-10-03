@@ -205,23 +205,23 @@ msgstr "V.42bis"
 
 #: classes.i18n:44
 msgid "Vendor Specific"
-msgstr "Specific vînzătorului"
+msgstr "Specific vânzătorului"
 
 #: classes.i18n:45
 msgid "Vendor Specific Class"
-msgstr "Clasă specifică vînzătorului"
+msgstr "Clasă specifică vânzătorului"
 
 #: classes.i18n:46
 msgid "Vendor Specific Protocol"
-msgstr "Protocol specific vînzătorului"
+msgstr "Protocol specific vânzătorului"
 
 #: classes.i18n:47
 msgid "Vendor Specific Subclass"
-msgstr "Subclasă specifică vînzătorului"
+msgstr "Subclasă specifică vânzătorului"
 
 #: classes.i18n:48
 msgid "Vendor specific"
-msgstr "Specific vînzătorului"
+msgstr "Specific vânzătorului"
 
 #: kcmusb.cpp:36
 msgid "This module allows you to see the devices attached to your USB bus(es)."
@@ -292,7 +292,7 @@ msgstr "<tr><td><i>Versiunea USB</i></td><td>%1.%2</td></tr>"
 #: usbdevices.cpp:189
 #, kde-format
 msgid "<tr><td><i>Vendor ID</i></td><td>0x%1</td></tr>"
-msgstr "<tr><td><i>ID vînzător</i></td><td>0x%1</td></tr>"
+msgstr "<tr><td><i>ID vânzător</i></td><td>0x%1</td></tr>"
 
 #: usbdevices.cpp:194
 #, kde-format

@@ -174,7 +174,7 @@ msgstr "Puncte și linii"
 
 #: opengl.cpp:493
 msgid "Stack depth limits"
-msgstr "Limite adîncime stivă"
+msgstr "Limite adâncime stivă"
 
 #: opengl.cpp:567 opengl.cpp:574
 msgid "3D Accelerator"
@@ -182,7 +182,7 @@ msgstr "Accelerator 3D"
 
 #: opengl.cpp:569 opengl.cpp:586
 msgid "Vendor"
-msgstr "Vînzător"
+msgstr "Vânzător"
 
 #: opengl.cpp:570
 msgid "Device"
@@ -246,7 +246,7 @@ msgstr "GLX"
 
 #: opengl.cpp:622
 msgid "server GLX vendor"
-msgstr "vînzător server GLX"
+msgstr "vânzător server GLX"
 
 #: opengl.cpp:623
 msgid "server GLX version"
@@ -258,7 +258,7 @@ msgstr "extensii server GLX"
 
 #: opengl.cpp:627
 msgid "client GLX vendor"
-msgstr "vînzător GLX client"
+msgstr "vânzător GLX client"
 
 #: opengl.cpp:628
 msgid "client GLX version"
@@ -290,7 +290,7 @@ msgstr "EGL"
 
 #: opengl.cpp:648
 msgid "EGL Vendor"
-msgstr "Vînzător EGL"
+msgstr "Vânzător EGL"
 
 #: opengl.cpp:649
 msgid "EGL Version"

@@ -294,7 +294,7 @@ msgid ""
 "to leave that on."
 msgstr ""
 "Acumulatorul a atins nivelul critic. Această notificare declanșează o "
-"numărătoare inversă pînă la executarea acțiunii implicite, deci se recomandă "
+"numărătoare inversă până la executarea acțiunii implicite, deci se recomandă "
 "să îl lăsați activat."
 
 #: powerdevil.notifyrc:525

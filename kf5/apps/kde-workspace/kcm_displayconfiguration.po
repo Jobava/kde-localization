@@ -32,14 +32,14 @@ msgstr "Sfat: Țineți Ctrl la tragerea unui afișaj pentru a dezactiva bruscare
 
 #: qml/main.qml:90
 msgid "Warning: There are no active outputs!"
-msgstr "Avertizare: Nu sînt ieșiri active!"
+msgstr "Avertizare: Nu sunt ieșiri active!"
 
 #: qml/main.qml:100
 msgid "Your system only supports up to %1 active screen"
 msgid_plural "Your system only supports up to %1 active screens"
-msgstr[0] "Sistemul dumneavoastră susține numai pînă la %1 ecran activ"
-msgstr[1] "Sistemul dumneavoastră susține numai pînă la %1 ecrane active"
-msgstr[2] "Sistemul dumneavoastră susține numai pînă la %1 de ecrane active"
+msgstr[0] "Sistemul dumneavoastră susține numai până la %1 ecran activ"
+msgstr[1] "Sistemul dumneavoastră susține numai până la %1 ecrane active"
+msgstr[2] "Sistemul dumneavoastră susține numai până la %1 de ecrane active"
 
 #: qml/main.qml:122
 msgid "Identify outputs"
@@ -105,7 +105,7 @@ msgstr ""
 "Ne pare rău, configurarea nu a putut fi aplicată.\n"
 "\n"
 "Motive posibile pot fi o dimensiune totală prea mare a ecranului, sau ați "
-"activat mai multe afișaje decît suportă placa grafică."
+"activat mai multe afișaje decât suportă placa grafică."
 
 #: src/kcm_kscreen.cpp:136
 msgctxt "@title:window"

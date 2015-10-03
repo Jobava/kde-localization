@@ -171,7 +171,7 @@ msgstr "Vizualizare"
 #: main.ui:519
 msgid "The effect to replace the list window when desktop effects are active."
 msgstr ""
-"Efectul de a înlocui fereastra cu listă cînd efectele de birou sînt active."
+"Efectul de a înlocui fereastra cu listă când efectele de birou sunt active."
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, highlightWindowCheck)
 #: main.ui:549
@@ -203,7 +203,7 @@ msgstr "Obține aranjament nou pentru comutatorul de ferestre"
 #~ "These settings are used by the \"Walk Through Windows Alternative\" "
 #~ "actions."
 #~ msgstr ""
-#~ "Aceste setări sînt folosite de acțiunile „Comută printre ferestre "
+#~ "Aceste setări sunt folosite de acțiunile „Comută printre ferestre "
 #~ "alternativ”."
 
 #~ msgid "Walk Through Windows"
@@ -256,7 +256,7 @@ msgstr "Obține aranjament nou pentru comutatorul de ferestre"
 #~ msgstr "sergiu@ase.md"
 
 #~ msgid "These settings are used by the \"Walk Through Windows\" actions."
-#~ msgstr "Aceste setări sînt folosite de acțiunile „Comută printre ferestre”."
+#~ msgstr "Aceste setări sunt folosite de acțiunile „Comută printre ferestre”."
 
 #, fuzzy
 #~| msgctxt "An example Desktop Name"
@@ -364,7 +364,7 @@ msgstr "Obține aranjament nou pentru comutatorul de ferestre"
 #~ msgstr "Jos"
 
 #~ msgid "Left"
-#~ msgstr "Stînga"
+#~ msgstr "Stânga"
 
 #~ msgid "Right"
 #~ msgstr "Dreapta"

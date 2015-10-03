@@ -87,7 +87,7 @@ msgstr "Tranziții de etichete"
 
 #: oxygenanimationconfigwidget.cpp:73
 msgid "Configure fading transition when a label's text is changed"
-msgstr "Configurează tranziția atenuată cînd textul unei etichete s-a schimbat"
+msgstr "Configurează tranziția atenuată când textul unei etichete s-a schimbat"
 
 #: oxygenanimationconfigwidget.cpp:76
 msgid "Text editor transitions"
@@ -95,7 +95,7 @@ msgstr "Tranziții redactor de text"
 
 #: oxygenanimationconfigwidget.cpp:76
 msgid "Configure fading transition when an editor's text is changed"
-msgstr "Configurează tranziția atenuată cînd textul unui editor s-a schimbat"
+msgstr "Configurează tranziția atenuată când textul unui editor s-a schimbat"
 
 #: oxygenanimationconfigwidget.cpp:79
 msgid "Combo box transitions"
@@ -105,7 +105,7 @@ msgstr "Tranziții listă de selecție"
 msgid ""
 "Configure fading transition when a combo box's selected choice is changed"
 msgstr ""
-"Configurează tranziția atenuată cînd selecția aleasă a unei liste de "
+"Configurează tranziția atenuată când selecția aleasă a unei liste de "
 "selecție s-a schimbat"
 
 #: oxygenanimationconfigwidget.cpp:89
@@ -193,7 +193,7 @@ msgstr "Ascunde acceleratorii de tastatură întotdeauna"
 #. i18n: ectx: property (text), item, widget (KComboBox, _mnemonicsMode)
 #: ui/oxygenstyleconfig.ui:89
 msgid "Show Keyboard Accelerators When Needed"
-msgstr "Arată acceleratorii de tastatură cînd trebuie"
+msgstr "Arată acceleratorii de tastatură când trebuie"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, _mnemonicsMode)
 #: ui/oxygenstyleconfig.ui:94
@@ -426,7 +426,7 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "Activat"
 
 #~ msgid "Right to left layout"
-#~ msgstr "Aranjament de la dreapta la stînga"
+#~ msgstr "Aranjament de la dreapta la stânga"
 
 #~ msgid "Input Widgets"
 #~ msgstr "Controale de intrare"
@@ -599,7 +599,7 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "Săgeată jos"
 
 #~ msgid "Left Arrow"
-#~ msgstr "Săgeată stînga"
+#~ msgstr "Săgeată stânga"
 
 #~ msgid "Right Arrow"
 #~ msgstr "Săgeată dreapta"
@@ -614,7 +614,7 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "Numai text"
 
 #~ msgid "Text Alongside Icons"
-#~ msgstr "Text lîngă pictograme"
+#~ msgstr "Text lângă pictograme"
 
 #~ msgid "Text Under Icons"
 #~ msgstr "Text sub pictograme"
@@ -638,10 +638,10 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "Direcție aranjament:"
 
 #~ msgid "Left to Right"
-#~ msgstr "De la stînga la dreapta"
+#~ msgstr "De la stânga la dreapta"
 
 #~ msgid "Right to Left"
-#~ msgstr "De la dreapta la stînga"
+#~ msgstr "De la dreapta la stânga"
 
 #~ msgid "Top to Bottom"
 #~ msgstr "De sus în jos"
@@ -664,7 +664,7 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "Plat"
 
 #~ msgid "Sunken"
-#~ msgstr "Adîncit"
+#~ msgstr "Adâncit"
 
 #~ msgid "Tab Widget"
 #~ msgstr "Control cu file"
@@ -694,7 +694,7 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "Editor text multi-linie:"
 
 #~ msgid "Wrap words"
-#~ msgstr "Aliniere rînduri"
+#~ msgstr "Aliniere rânduri"
 
 #~ msgid "Use flat widgets"
 #~ msgstr "Folosește controale plate"
@@ -742,13 +742,13 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "Prima descriere"
 
 #~ msgid "New Row"
-#~ msgstr "Rînd nou"
+#~ msgstr "Rând nou"
 
 #~ msgid "First Row"
-#~ msgstr "Primul rînd"
+#~ msgstr "Primul rând"
 
 #~ msgid "Third Row"
-#~ msgstr "Al treilea rînd"
+#~ msgstr "Al treilea rând"
 
 #~ msgid "First Column"
 #~ msgstr "Prima coloană"
@@ -760,7 +760,7 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "A treia coloană"
 
 #~ msgid "Top-left"
-#~ msgstr "Stînga-sus"
+#~ msgstr "Stânga-sus"
 
 #~ msgid "Top"
 #~ msgstr "Sus"
@@ -769,7 +769,7 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "Drepta-sus"
 
 #~ msgid "Left "
-#~ msgstr "Stînga"
+#~ msgstr "Stânga"
 
 #~ msgid "Center"
 #~ msgstr "Centru"
@@ -778,7 +778,7 @@ msgstr "Utilizează culoarea selecției (subtil)"
 #~ msgstr "Dreapta"
 
 #~ msgid "Bottom-left"
-#~ msgstr "Stînga-jos"
+#~ msgstr "Stânga-jos"
 
 #~ msgid "Bottom"
 #~ msgstr "Jos"

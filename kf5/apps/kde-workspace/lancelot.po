@@ -248,7 +248,7 @@ msgid ""
 msgstr ""
 "Alegeți această opțiune dacă doriți ca meniul să se comporte ca lansatorii "
 "de aplicații obișnuiți. Pentru a lansa aplicații, trebuie să faceți clic pe "
-"acestea. Butoanele secțiunilor sînt activate prin planare."
+"acestea. Butoanele secțiunilor sunt activate prin planare."
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioActivationClassic)
 #: application/ui/LancelotConfigBase.ui:49
@@ -263,7 +263,7 @@ msgid ""
 "extenders."
 msgstr ""
 "Alegeți această opțiune dacă doriți să evitați clicurile. Butoanele "
-"secțiunilor sînt activate prin planare. Aplicațiile sînt lansate prin "
+"secțiunilor sunt activate prin planare. Aplicațiile sunt lansate prin "
 "planarea deasupra extinzătoarelor de butoane."
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioActivationNoClick)
@@ -274,7 +274,7 @@ msgstr "Activare &non-clic"
 #. i18n: ectx: property (toolTip), widget (QCheckBox, checkKeepOpen)
 #: application/ui/LancelotConfigBase.ui:76
 msgid "Do not close the menu until it loses focus."
-msgstr "Nu închide meniul pînă pierde focalizarea."
+msgstr "Nu închide meniul până pierde focalizarea."
 
 #. i18n: ectx: property (text), widget (QCheckBox, checkKeepOpen)
 #: application/ui/LancelotConfigBase.ui:79
@@ -300,7 +300,7 @@ msgstr "Navigator aplicații"
 #: application/ui/LancelotConfigBase.ui:155
 msgid "Reset the browser to show Favorites on menu open"
 msgstr ""
-"Reinițializează navigatorul astfel încît acesta să arate Favoritele la "
+"Reinițializează navigatorul astfel încât acesta să arate Favoritele la "
 "deschiderea meniului"
 
 #. i18n: ectx: property (text), widget (QLabel, labelAppBrowserColumnNumber)
@@ -351,7 +351,7 @@ msgid ""
 "Show the application name first, and then the description\n"
 "(requires restart)"
 msgstr ""
-"Arată mai întîi denumirea aplicației, apoi descrierea\n"
+"Arată mai întâi denumirea aplicației, apoi descrierea\n"
 "(necesită repornire)"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabUsageStatistics)
@@ -398,16 +398,16 @@ msgstr ""
 "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
 "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
 "family:'Bitstream Vera Sans'; font-size:10pt;\">Statisticile de utilizare "
-"sînt prevăzute pentru evidența aplicațiilor pornite, astfel încît să ofere o "
+"sunt prevăzute pentru evidența aplicațiilor pornite, astfel încât să ofere o "
 "experiență de utilizare plăcută.</span></p>\n"
 "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
 "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt;\">Datele adunate sînt "
-"considerate private și nu sînt partajate cu lumea de afară.</span></p>\n"
+"family:'Bitstream Vera Sans'; font-size:10pt;\">Datele adunate sunt "
+"considerate private și nu sunt partajate cu lumea de afară.</span></p>\n"
 "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
 "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
 "family:'Bitstream Vera Sans'; font-size:10pt;\">Rețineți: Datele adunate nu "
-"sînt utilizate momentan de către Lancelot, dar vor fi pe viitor. Lăsarea "
+"sunt utilizate momentan de către Lancelot, dar vor fi pe viitor. Lăsarea "
 "activată a acestei opțiuni va avea grijă ca, odată implementate "
 "funcționalitățile ce depind de statistica utilizării, nu va mai trebui să le "
 "antrenați.</span></p>\n"
@@ -553,7 +553,7 @@ msgstr "Poziție extinzător"
 #: parts/LancelotPartConfigBase.ui:55
 msgctxt "Position the extender left"
 msgid "Left"
-msgstr "Stînga"
+msgstr "Stânga"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioContentsExtenderPositionRight)
 #: parts/LancelotPartConfigBase.ui:62
@@ -713,7 +713,7 @@ msgstr "Aplicații favorite"
 #~ "ascunsă și va fi afișat un nou ecran de autentificare.<br />O tastă "
 #~ "funcțională este atribuită fiecărei sesiuni; F%1 este atribuită de obicei "
 #~ "primei sesiuni, F%2 - celei de a doua și așa mai departe. Puteți comuta "
-#~ "între sesiuni apăsînd simultan Ctrl, Alt și tasta funcțională "
+#~ "între sesiuni apăsând simultan Ctrl, Alt și tasta funcțională "
 #~ "corespunzătoare. Suplimentar, meniurile panoului și biroului KDE au "
 #~ "acțiuni pentru comutarea între sesiuni.</p>"
 

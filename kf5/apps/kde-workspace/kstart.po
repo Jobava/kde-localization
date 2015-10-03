@@ -104,7 +104,7 @@ msgid ""
 "when starting the application"
 msgstr ""
 "Forțează fereastra să apară pe biroul care\n"
-"a fost activ cînd a fost pornită aplicația"
+"a fost activ când a fost pornită aplicația"
 
 #: kstart.cpp:325
 msgid "Make the window appear on all desktops"

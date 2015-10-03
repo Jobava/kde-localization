@@ -67,7 +67,7 @@ msgstr ""
 "            #   În acest caz, tipul MIME este determinat automat.\n"
 "            #   Desigur, URL poate fi URL-ul unui document, sau\n"
 "            #   poate fi un fișier *.desktop.\n"
-"            #   'url' poate fi executabil la rîndul său.\n"
+"            #   'url' poate fi executabil la rândul său.\n"
 
 #: kioclient.cpp:88
 msgid ""

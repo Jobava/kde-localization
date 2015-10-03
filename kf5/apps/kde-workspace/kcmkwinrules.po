@@ -85,7 +85,7 @@ msgstr "Fereastră utilitară"
 #. i18n: ectx: property (text), item, widget (QComboBox, type)
 #: detectwidget.cpp:109 ruleswidgetbase.ui:458 ruleswidgetbase.ui:2259
 msgid "Splash Screen"
-msgstr "Imagine de întîmpinare"
+msgstr "Imagine de întâmpinare"
 
 #: detectwidget.cpp:115
 msgid "Unknown - will be treated as Normal Window"
@@ -175,14 +175,14 @@ msgid ""
 "For example \"<b>Shift+Alt+(123) Shift+Ctrl+(ABC)</b>\" will first try "
 "<b>Shift+Alt+1</b>, then others with <b>Shift+Ctrl+C</b> as the last one."
 msgstr ""
-"Un singur accelerator poate fi atribuit sau eliminat ușor utilizînd cele "
+"Un singur accelerator poate fi atribuit sau eliminat ușor utilizând cele "
 "două butoane. Pot fi utilizate numai acceleratori cu taste modificator.<p>\n"
 "Este posibil să aveți mai mulți acceleratori, dar primul din ele va fi "
-"utilizat. Ei sînt specificați utilizînd seturi separate prin spații. Un set "
+"utilizat. Ei sunt specificați utilizând seturi separate prin spații. Un set "
 "este specificat astfel: <i>bază</i>+(<i>listă</i>), unde bază reprezintă "
 "modificatori și listă o listă de taste.<br>\n"
-"Exemplu: \"<b>Shift+Alt+(123) Shift+Ctrl+(ABC)</b>\" va încerca mai întîi "
-"<b>Shift+Alt+1</b> iar apoi pînă la <b>Shift+Ctrl+C</b>."
+"Exemplu: \"<b>Shift+Alt+(123) Shift+Ctrl+(ABC)</b>\" va încerca mai întâi "
+"<b>Shift+Alt+1</b> iar apoi până la <b>Shift+Ctrl+C</b>."
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton1)
 #: editshortcut.ui:62
@@ -346,13 +346,13 @@ msgstr ""
 "inițial:</em> Proprietatea ferestrei va fi stabilită la valoarea dată numai "
 "la momentul creării ei. Alte modificări ulterioare nu vor fi afectate.</"
 "li><li><em>Ține minte:</em> Valoarea proprietății ferestrei va fi ținută "
-"minte și de fiecare dată cînd fereastra este creată, va fi aplicată ultima "
+"minte și de fiecare dată când fereastra este creată, va fi aplicată ultima "
 "valoare memorată.</li><li><em>Forțează:</em> Proprietatea ferestrei va fi "
 "forțată întotdeauna la valoarea dată.</li><li><em>Aplică acum:</em> "
 "Proprietatea ferestrei va fi stabilită la valoarea indicată imediat și nu va "
 "fi afectată ulterior (această acțiune va fi ștearsă).</li><li><em>Forțează "
 "temporar:</em> Proprietatea ferestrei va fi forțată la valoarea indicată "
-"pînă este ascunsă (această acțiune va fi ștearsă după ascunderea ferestrei)."
+"până este ascunsă (această acțiune va fi ștearsă după ascunderea ferestrei)."
 "</li></ul>"
 
 #: ruleswidget.cpp:83
@@ -371,7 +371,7 @@ msgstr ""
 "configurările mult mai generice nu vor avea efect.</li><li><em>Forțează:</"
 "em> Proprietatea ferestrei va fi forțată întotdeauna la valoarea dată.</"
 "li><li><em>Forțează temporar:</em> Proprietatea ferestrei va fi forțată la "
-"valoarea dată numai pînă la ascundere (această acțiune va fi ștearsă cînd "
+"valoarea dată numai până la ascundere (această acțiune va fi ștearsă când "
 "fereastra este ascunsă).</li></ul>"
 
 #: ruleswidget.cpp:149
@@ -526,7 +526,7 @@ msgstr "&Detectează proprietățile ferestrei"
 #. i18n: ectx: property (suffix), widget (QSpinBox, detection_delay)
 #: ruleswidgetbase.ui:325
 msgid "s delay"
-msgstr "s întîrziere"
+msgstr "s întârziere"
 
 #. i18n: ectx: property (text), item, widget (QListWidget, types)
 #: ruleswidgetbase.ui:468
@@ -830,7 +830,7 @@ msgstr "M&inimizat"
 #. i18n: ectx: property (text), widget (QCheckBox, enable_shade)
 #: ruleswidgetbase.ui:972
 msgid "Sh&aded"
-msgstr "&Strîns"
+msgstr "&Strâns"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
 #: ruleswidgetbase.ui:1056
@@ -850,7 +850,7 @@ msgstr "Inteligent"
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
 #: ruleswidgetbase.ui:1071
 msgid "Maximizing"
-msgstr "Maximizînd"
+msgstr "Maximizând"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
 #: ruleswidgetbase.ui:1076
@@ -870,7 +870,7 @@ msgstr "Aleator"
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
 #: ruleswidgetbase.ui:1091
 msgid "Top-Left Corner"
-msgstr "Colțul stînga sus"
+msgstr "Colțul stânga sus"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
 #: ruleswidgetbase.ui:1096
@@ -897,7 +897,7 @@ msgid ""
 msgstr ""
 "Ferestrele pot cere să apară într-o anumită poziție.\n"
 "Implicit aceasta suprascrie strategia de plasare\n"
-"care poate fi urîtă dacă clientul face abuz de această\n"
+"care poate fi urâtă dacă clientul face abuz de această\n"
 "caracteristică pentru a face popup necondiționat în\n"
 "mijlocul ecranului dumneavoastră."
 
@@ -926,7 +926,7 @@ msgid ""
 "like your complete screen area."
 msgstr ""
 "De ex. terminalele sau dispozitivele de redare video pot cere să mențină\n"
-"un anumit raport de aspect sau să crească doar cu valori mai mari decît unu\n"
+"un anumit raport de aspect sau să crească doar cu valori mai mari decât unu\n"
 "(de ex. cu dimensiunile unui caracter).\n"
 "Aceasta poate fi fără sens și restricțiile previn dimensiuni arbitrare\n"
 "cum ar fi întregul ecran."
@@ -1050,7 +1050,7 @@ msgid ""
 "On the other hand you might wish to prevent a window\n"
 "from getting focused on a mouse click."
 msgstr ""
-"Ferestrele pot opri obținerea focusului (activare) cînd se face clic.\n"
+"Ferestrele pot opri obținerea focusului (activare) când se face clic.\n"
 "Pe de altă parte poate doriți să opriți o fereastră să obțină\n"
 "focusul la un clic de maus."
 
@@ -1071,15 +1071,15 @@ msgid ""
 "nor use any other global shortcut (such as Alt+F2 to show KRunner)\n"
 "while it's active!"
 msgstr ""
-"Cînd este folosit, o fereastră va primi\n"
-"toate intrările de la tastatură cît timp este activă, inclusiv Alt+Tab etc.\n"
+"Când este folosit, o fereastră va primi\n"
+"toate intrările de la tastatură cât timp este activă, inclusiv Alt+Tab etc.\n"
 "Aceasta interesează în special emulatoarele sau mașinile virtuale.\n"
 "\n"
 "Avertisment:\n"
 "nu veți putea ieși cu Alt+Tab dintr-o fereastră\n"
 "nici să folosiți orice altă scurtătură globală (precum Alt+F2 pentru a arăta "
 "KRunner)\n"
-"cît timp este activ!"
+"cât timp este activ!"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enable_disableglobalshortcuts)
 #: ruleswidgetbase.ui:2143
@@ -1133,7 +1133,7 @@ msgid ""
 msgstr ""
 "KWin încearcă să oprească ferestrele să obțină focusul\n"
 "(„să se activeze”) în timp ce lucrați în altă fereastră,\n"
-"dar aceasta cîteodată poate eșua sau să aibă efect prea puternic.\n"
+"dar aceasta câteodată poate eșua sau să aibă efect prea puternic.\n"
 "„Niciuna” va permite în mod necondiționat acestei ferestre să obțină focusul "
 "în timp ce\n"
 "„Extrem” va opri complet obținerea lui."
@@ -1215,8 +1215,8 @@ msgstr "Niciuna"
 #~ msgstr ""
 #~ "Cu anumite aplicații (non-KDE) toată clasa ferestrei poate fi suficientă "
 #~ "pentru a selecta o fereastră specifică dintr-o aplicație. Acest lucru "
-#~ "este posibil deoarece ele setează toată clasa ferestrei să conțină atît "
-#~ "rolul aplicației cît și al ferestrei."
+#~ "este posibil deoarece ele setează toată clasa ferestrei să conțină atât "
+#~ "rolul aplicației cât și al ferestrei."
 
 #~ msgid "Use &whole window class (specific window)"
 #~ msgstr "Utilizează &toată clasa ferestrei (fereastră specifică)"

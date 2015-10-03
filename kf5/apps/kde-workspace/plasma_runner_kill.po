@@ -26,7 +26,7 @@ msgstr "omoară"
 #: killrunner.cpp:69
 msgid "Terminate running applications whose names match the query."
 msgstr ""
-"Termină aplicațiile rulînd al căror denumire se potrivește interogării."
+"Termină aplicațiile rulând al căror denumire se potrivește interogării."
 
 #: killrunner.cpp:142
 #, kde-format
@@ -40,7 +40,7 @@ msgid ""
 "Running as user: %2"
 msgstr ""
 "ID proces: %1\n"
-"Rulînd ca utilizatorul: %2"
+"Rulând ca utilizatorul: %2"
 
 #: killrunner.cpp:208
 msgid "Send SIGTERM"
@@ -70,12 +70,12 @@ msgstr "Configurare \"Omoară aplicații\""
 #. i18n: ectx: property (text), widget (QCheckBox, useTriggerWord)
 #: killrunner_config.ui:27
 msgid "&Use trigger word"
-msgstr "&Utilizează cuvînt declanșator"
+msgstr "&Utilizează cuvânt declanșator"
 
 #. i18n: ectx: property (text), widget (QLabel, label_trigger)
 #: killrunner_config.ui:39
 msgid "&Trigger word:"
-msgstr "&Cuvînt declanșator:"
+msgstr "&Cuvânt declanșator:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_sorting)
 #: killrunner_config.ui:60

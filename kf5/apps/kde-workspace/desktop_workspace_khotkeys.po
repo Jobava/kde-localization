@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-13 08:36+0000\n"
+"POT-Creation-Date: 2015-09-30 08:19+0000\n"
 "PO-Revision-Date: 2014-11-04 17:03+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -51,8 +51,8 @@ msgstr "Caută"
 
 #: data/defaults.khotkeys:309 data/kde32b1.khotkeys:521
 #: data/kde32b1.khotkeys:761 data/kde32b1.khotkeys:1018
-#: data/kde32b1.khotkeys:1479 data/kde32b1.khotkeys:1895
-#: data/kde32b1.khotkeys:3303 data/printscreen.khotkeys:346
+#: data/kde32b1.khotkeys:1482 data/kde32b1.khotkeys:1898
+#: data/kde32b1.khotkeys:3306 data/printscreen.khotkeys:346
 msgctxt "Comment"
 msgid "Simple_action"
 msgstr "Simple_action"
@@ -65,7 +65,7 @@ msgid ""
 msgstr ""
 "Acest grup conține diferite exemple ce demonstrează majoritatea "
 "posibilităților KHotkeys. (Luați aminte că acest grup și toate acțiunile "
-"sale sînt implicit dezactivate.)"
+"sale sunt implicit dezactivate.)"
 
 #: data/kde32b1.khotkeys:78
 msgctxt "Name"
@@ -110,12 +110,12 @@ msgid ""
 "Shift+A\\n: (colon)                                  Shift+;\\n' "
 "'  (space)                              Space"
 msgstr ""
-"După apăsarea Alt+Ctrl+H, tastarea cuvîntului „Salut” va fi simulată ca și "
-"cînd ați fi tastat-o dumneavoastră. Acesta este deosebit de utilă dacă vă e "
+"După apăsarea Alt+Ctrl+H, tastarea cuvântului „Salut” va fi simulată ca și "
+"când ați fi tastat-o dumneavoastră. Acesta este deosebit de utilă dacă vă e "
 "lene să tastați cuvinte frecvent tastate (ca „unsigned”). Fiecare tastare în "
 "intrare este despărțită de „:”. Luați aminte că tastările înseamnă chiar "
 "apăsări de taste, deci trebuie să scrieți exact ceea ce ați apăsa pe "
-"tastatură. În tabelul de mai jos, coloana stîngă arată intrarea iar cea "
+"tastatură. În tabelul de mai jos, coloana stângă arată intrarea iar cea "
 "dreptă - ce trebuie să scrieți.\\n\\n\"enter\" (linie nouă)                "
 "Enter sau Retur\\na („a” mic)                          A\\nA (A "
 "majuscul)                       Shift+A\\n: (două "
@@ -154,49 +154,49 @@ msgid ""
 "Trolltech', so the condition will check for the active window having that "
 "title."
 msgstr ""
-"Citiți mai întîi comentariul acțiunii „Tastați 'Salut'\".\\n\\nQt Designer "
+"Citiți mai întâi comentariul acțiunii „Tastați 'Salut'\".\\n\\nQt Designer "
 "folosește Ctrl+F4 pentru a închide ferestrele. Dar, în KDE, combinația Ctrl"
 "+F4 este scurtătura pentru a comuta pe Biroul Virtual 4 deci această "
 "scurtătură nu va funcționa în Qt Designer. Mai mult Qt Designer nu folosește "
 "scurtătura standard KDE, Ctrl+W, pentru închiderea ferestrelor. \\n"
-"\\nAceastă problemă poate fi rezolvată remapînd Ctrl+W la Ctrl+F4 atunci "
-"cînd fereastra activă este Qt Designer. Atunci cînd Qt Designer este activ "
-"de fiecare dată cînd Ctrl+W este tastat, se va trimite la aplicația Qt "
+"\\nAceastă problemă poate fi rezolvată remapând Ctrl+W la Ctrl+F4 atunci "
+"când fereastra activă este Qt Designer. Atunci când Qt Designer este activ "
+"de fiecare dată când Ctrl+W este tastat, se va trimite la aplicația Qt "
 "Designer combinația Ctrl+F4 în locul acesteia. În celelate aplicații efectul "
-"combinației Ctrl+W rămîne neschimbat.\\n\\nAvem nevoie să definim trei "
+"combinației Ctrl+W rămâne neschimbat.\\n\\nAvem nevoie să definim trei "
 "lucruri: Un declanșator de scurtătură nou pentru 'Ctrl+W', o acțiune nouă de "
 "tastatură care trimite Ctrl+F4 și o condiție nouă ca fereastra activă să "
 "file Qt Designer.\\nQt Designer pare să aibă totdeauna în titlu textul 'Qt "
 "Designer by Trolltech' deci condiția va fi ca titlul ferestrei active să fie "
 "acesta."
 
-#: data/kde32b1.khotkeys:1150
+#: data/kde32b1.khotkeys:1152
 msgctxt "Name"
 msgid "Remap Ctrl+W to Ctrl+F4 in Qt Designer"
 msgstr "Realocă Ctrl+W la Ctrl+F4 în Qt Designer"
 
-#: data/kde32b1.khotkeys:1241
+#: data/kde32b1.khotkeys:1243
 msgctxt "Comment"
 msgid "Qt Designer"
 msgstr "Qt Designer"
 
-#: data/kde32b1.khotkeys:1345
+#: data/kde32b1.khotkeys:1347
 msgctxt "Comment"
 msgid ""
 "By pressing Alt+Ctrl+W a D-Bus call will be performed that will show the "
 "minicli. You can use any kind of D-Bus call, just like using the command "
 "line 'qdbus' tool."
 msgstr ""
-"Apăsînd Alt+Ctrl+W se va efectua un apel D-Bus care va afișa mini-linia de "
+"Apăsând Alt+Ctrl+W se va efectua un apel D-Bus care va afișa mini-linia de "
 "comandă. Puteți folosi orice fel de apel D-Bus la fel cum folosiți aplicația "
 "în linie de comandă 'qdbus'."
 
-#: data/kde32b1.khotkeys:1410
+#: data/kde32b1.khotkeys:1412
 msgctxt "Name"
 msgid "Perform D-Bus call 'qdbus org.kde.krunner /App display'"
 msgstr "Efectuează apelul D-Bus 'qdbus org.kde.krunner /App display'"
 
-#: data/kde32b1.khotkeys:1563
+#: data/kde32b1.khotkeys:1566
 msgctxt "Comment"
 msgid ""
 "Read the comment on the \"Type 'Hello'\" action first.\\n\\nJust like the "
@@ -208,32 +208,32 @@ msgid ""
 "instance, it is on a different virtual desktop.\\n\\n(Run 'xprop' and click "
 "on the XMMS window and search for WM_CLASS to see 'XMMS_Player')."
 msgstr ""
-"Citiți mai întîi comentariul acțiunii „Tastați 'Salut'\".\\n\\nCa acțiunea "
+"Citiți mai întâi comentariul acțiunii „Tastați 'Salut'\".\\n\\nCa acțiunea "
 "„Tastați 'Salut'\", aceasta simulează intrarea de la tastatură, mai exact, "
 "după apăsarea Ctrl+Alt+B, trimite B către XMMS (B în XMMS sare la următorul "
-"cîntec). Căsuța de selecție „Trimite la o fereastră specifică” este bifată "
+"cântec). Căsuța de selecție „Trimite la o fereastră specifică” este bifată "
 "și o fereastră a cărei clasă conține „XMMS_Player” este specificată; aceasta "
 "va face ca intrarea să fie trimisă întotdeauna către această fereastră. În "
 "acest fel, puteți controla XMMS chiar dacă, de exemplu, este pe un birou "
 "virtual diferit.\\n\\n(Rulați „xprop” și apăsați pe fereastra XMMS și "
 "căutați după WM_CLASS ca să vedeți „XMMS_Player”)."
 
-#: data/kde32b1.khotkeys:1621
+#: data/kde32b1.khotkeys:1624
 msgctxt "Name"
 msgid "Next in XMMS"
 msgstr "Următor în XMMS"
 
-#: data/kde32b1.khotkeys:1714
+#: data/kde32b1.khotkeys:1717
 msgctxt "Comment"
 msgid "XMMS window"
 msgstr "Fereastra XMMS"
 
-#: data/kde32b1.khotkeys:1803
+#: data/kde32b1.khotkeys:1806
 msgctxt "Comment"
 msgid "XMMS Player window"
 msgstr "Fereastra playerului XMMS"
 
-#: data/kde32b1.khotkeys:1979
+#: data/kde32b1.khotkeys:1982
 msgctxt "Comment"
 msgid ""
 "Konqueror in KDE3.1 has tabs, and now you can also have gestures.\\n\\nJust "
@@ -258,45 +258,45 @@ msgstr ""
 "Konqueror în KDE3.1 are file, iar acum puteți avea și gesturi.\\n\\nApăsați "
 "doar butonul de mijloc al mausului și începeți să trasați unul din gesturi, "
 "iar după ce ați terminat, dați drumul la buton. (Puteți schimba butonul de "
-"maus în configurările globale).\\n\\nGesturile disponibile acum sînt:"
-"\\ndeplaseare dreapta și înapoi stînga - Înainte (Alt+Dreapta)\\ndeplasare "
-"stînga și înapoi dreapta - Înapoi (Alt+Stînga)\\ndeplasare sus și înapoi jos "
+"maus în configurările globale).\\n\\nGesturile disponibile acum sunt:"
+"\\ndeplaseare dreapta și înapoi stânga - Înainte (Alt+Dreapta)\\ndeplasare "
+"stânga și înapoi dreapta - Înapoi (Alt+Stânga)\\ndeplasare sus și înapoi jos "
 "- Sus (Alt+Sus)\\ncircular în sens invers acelor de ceas - Reîncarcă (F5)\\n"
 "\\nFormele gesturilor pot fi introduse prin realizarea lor în dialogul de "
 "configurare. De asemenea puteți să vă uitați la tastatura numerică pentru a "
-"vă ajuta: gesturile sînt recunoscute ca o grilă de cîmpuri de 3x3, "
+"vă ajuta: gesturile sunt recunoscute ca o grilă de câmpuri de 3x3, "
 "numerotate de la 1 la 9.\\n\\nNotați că trebuie făcut exact gestul pentru a "
 "iniția acțiunea. Încercați să evitați gesturile complicate în care schimbați "
 "direcția de deplasare a mausului mai mult de odată. De exemplu, 45654 sau "
-"74123 sînt ușor de realizat, dar 1236987 poate fi deja destul de dificil.\\n"
-"\\nCondițiile pentru toate gesturile sînt definite în acest grup. Toate "
-"aceste gesturi sînt active doar dacă fereastra activă este Konqueror (clasa "
+"74123 sunt ușor de realizat, dar 1236987 poate fi deja destul de dificil.\\n"
+"\\nCondițiile pentru toate gesturile sunt definite în acest grup. Toate "
+"aceste gesturi sunt active doar dacă fereastra activă este Konqueror (clasa "
 "conține „konqueror”)."
 
-#: data/kde32b1.khotkeys:2038
+#: data/kde32b1.khotkeys:2041
 msgctxt "Name"
 msgid "Konqi Gestures"
 msgstr "Gesturi Konqi"
 
-#: data/kde32b1.khotkeys:2119 data/konqueror_gestures_kde321.khotkeys:168
+#: data/kde32b1.khotkeys:2122 data/konqueror_gestures_kde321.khotkeys:168
 msgctxt "Comment"
 msgid "Konqueror window"
 msgstr "Fereastra Konqueror"
 
-#: data/kde32b1.khotkeys:2209 data/kde32b1.khotkeys:2299
+#: data/kde32b1.khotkeys:2212 data/kde32b1.khotkeys:2302
 #: data/konqueror_gestures_kde321.khotkeys:258
 #: data/konqueror_gestures_kde321.khotkeys:348
 msgctxt "Comment"
 msgid "Konqueror"
 msgstr "Konqueror"
 
-#: data/kde32b1.khotkeys:2394 data/konqueror_gestures_kde321.khotkeys:520
+#: data/kde32b1.khotkeys:2397 data/konqueror_gestures_kde321.khotkeys:520
 msgctxt "Name"
 msgid "Back"
 msgstr "Înapoi"
 
-#: data/kde32b1.khotkeys:2495 data/kde32b1.khotkeys:2683
-#: data/kde32b1.khotkeys:2871 data/kde32b1.khotkeys:3059
+#: data/kde32b1.khotkeys:2498 data/kde32b1.khotkeys:2686
+#: data/kde32b1.khotkeys:2874 data/kde32b1.khotkeys:3062
 #: data/konqueror_gestures_kde321.khotkeys:779
 #: data/konqueror_gestures_kde321.khotkeys:1026
 #: data/konqueror_gestures_kde321.khotkeys:1260
@@ -315,22 +315,22 @@ msgctxt "Comment"
 msgid "Gesture_triggers"
 msgstr "Gesture_triggers"
 
-#: data/kde32b1.khotkeys:2582 data/konqueror_gestures_kde321.khotkeys:2515
+#: data/kde32b1.khotkeys:2585 data/konqueror_gestures_kde321.khotkeys:2515
 msgctxt "Name"
 msgid "Forward"
 msgstr "Înainte"
 
-#: data/kde32b1.khotkeys:2770 data/konqueror_gestures_kde321.khotkeys:925
+#: data/kde32b1.khotkeys:2773 data/konqueror_gestures_kde321.khotkeys:925
 msgctxt "Name"
 msgid "Up"
 msgstr "Sus"
 
-#: data/kde32b1.khotkeys:2958 data/konqueror_gestures_kde321.khotkeys:3790
+#: data/kde32b1.khotkeys:2961 data/konqueror_gestures_kde321.khotkeys:3790
 msgctxt "Name"
 msgid "Reload"
 msgstr "Reîncarcă"
 
-#: data/kde32b1.khotkeys:3144
+#: data/kde32b1.khotkeys:3147
 msgctxt "Comment"
 msgid ""
 "After pressing Win+E (Tux+E) a WWW browser will be launched, and it will "
@@ -341,7 +341,7 @@ msgstr ""
 "deschide http://www.kde.org . Puteți executa toate tipurile de comenzi care "
 "pot fi rulate în mini-linia de comandă (Alt+F2)."
 
-#: data/kde32b1.khotkeys:3208
+#: data/kde32b1.khotkeys:3211
 msgctxt "Name"
 msgid "Go to KDE Website"
 msgstr "Mergi la saitul KDE"
@@ -359,7 +359,7 @@ msgstr "Gesturi Konqueror"
 #: data/konqueror_gestures_kde321.khotkeys:441
 msgctxt "Comment"
 msgid "Press, move left, release."
-msgstr "Apasă, mută la stînga, eliberează."
+msgstr "Apasă, mută la stânga, eliberează."
 
 #: data/konqueror_gestures_kde321.khotkeys:609
 msgctxt "Comment"
@@ -382,7 +382,7 @@ msgid ""
 "left, move up, release."
 msgstr ""
 "Deplasare în sus în structura URL/dosare.\\nStil-Mozilla: Apăsați, deplasați "
-"sus, deplasați stînga, deplasați sus, eliberați."
+"sus, deplasați stânga, deplasați sus, eliberați."
 
 #: data/konqueror_gestures_kde321.khotkeys:1103
 msgctxt "Comment"
@@ -392,7 +392,7 @@ msgid ""
 "and as such is disabled by default."
 msgstr ""
 "Deplasare în sus în structura URL/dosare.\\nStil-Opera: Apăsați, deplasați "
-"sus, deplasați stînga, deplasați sus, eliberați.\\nNOTĂ: este în conflict cu "
+"sus, deplasați stânga, deplasați sus, eliberați.\\nNOTĂ: este în conflict cu "
 "„Activează fila anterioară” și de aceea implicit este dezactivat."
 
 #: data/konqueror_gestures_kde321.khotkeys:1169
@@ -413,7 +413,7 @@ msgstr "Activează fila următoare"
 #: data/konqueror_gestures_kde321.khotkeys:1592
 msgctxt "Comment"
 msgid "Press, move up, move left, release."
-msgstr "Apăsați, deplasați sus, deplasați stînga, eliberați."
+msgstr "Apăsați, deplasați sus, deplasați stânga, eliberați."
 
 #: data/konqueror_gestures_kde321.khotkeys:1670
 msgctxt "Name"

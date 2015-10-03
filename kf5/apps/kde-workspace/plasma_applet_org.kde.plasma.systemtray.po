@@ -146,7 +146,7 @@ msgstr "Configurări tavă de sistem"
 
 #~ msgctxt "tooltip subtitle"
 #~ msgid "Some explanation from the beach."
-#~ msgstr "Cîteva explicații de pe plajă."
+#~ msgstr "Câteva explicații de pe plajă."
 
 #, fuzzy
 #~| msgctxt "title"

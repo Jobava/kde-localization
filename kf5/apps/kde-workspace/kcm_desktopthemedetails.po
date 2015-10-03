@@ -249,7 +249,7 @@ msgid ""
 "Clicking this button will remove the selected theme. You will be asked for "
 "confirmation."
 msgstr ""
-"Apăsînd acest buton, veți elimina tema aleasă. Vi se va cere confirmarea."
+"Apăsând acest buton, veți elimina tema aleasă. Vi se va cere confirmarea."
 
 #. i18n: ectx: property (text), widget (QPushButton, m_removeThemeButton)
 #: DesktopThemeDetails.ui:96
@@ -372,8 +372,8 @@ msgid ""
 "Choose a start theme in this list then customize some items below. All less "
 "important items not listed below will use this start theme."
 msgstr ""
-"Alegeți o temă de pornire din această listă, apoi personalizați cîteva "
-"elemente mai jos. Toate elementele mai puțin importante care nu sînt afișate "
+"Alegeți o temă de pornire din această listă, apoi personalizați câteva "
+"elemente mai jos. Toate elementele mai puțin importante care nu sunt afișate "
 "mai jos vor folosi această temă de pornire."
 
 #: kcmdesktoptheme.cpp:52

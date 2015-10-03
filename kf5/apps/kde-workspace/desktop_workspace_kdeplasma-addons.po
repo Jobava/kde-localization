@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_extragear-plasma_desktopthemes\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-18 08:19+0000\n"
+"POT-Creation-Date: 2015-09-30 08:19+0000\n"
 "PO-Revision-Date: 2014-04-04 18:47+0300\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -189,7 +189,7 @@ msgctxt "Name"
 msgid "Application Dashboard"
 msgstr ""
 
-#: applets/kickerdash/metadata.desktop:30
+#: applets/kickerdash/metadata.desktop:31
 msgctxt "Comment"
 msgid "A fullscreen application launcher"
 msgstr ""
@@ -207,7 +207,7 @@ msgctxt "Comment"
 msgid "A generic input method panel"
 msgstr "Panou pentru Metode de Intrare"
 
-#: applets/kimpanel/package/metadata.desktop:87
+#: applets/kimpanel/package/metadata.desktop:88
 msgctxt "Keywords"
 msgid "Input;IM;"
 msgstr ""
@@ -304,7 +304,7 @@ msgstr "Lasă o notiță"
 #: applets/leavenote/plasma-applet-leavenote.desktop:57
 msgctxt "Comment"
 msgid "Leave notes for users while they are away"
-msgstr "Lasă notițe pentru utilizatori cît timp aceștia sînt plecați"
+msgstr "Lasă notițe pentru utilizatori cât timp aceștia sunt plecați"
 
 #: applets/life/plasma-applet-life.desktop:3
 msgctxt "Name"
@@ -423,7 +423,7 @@ msgctxt "Name"
 msgid "Quicklaunch"
 msgstr ""
 
-#: applets/quicklaunch/package/metadata.desktop:12
+#: applets/quicklaunch/package/metadata.desktop:23
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Launcher to start applications"
@@ -436,7 +436,7 @@ msgctxt "Name"
 msgid "Quick Share"
 msgstr ""
 
-#: applets/quickshare/plasmoid/metadata.desktop:37
+#: applets/quickshare/plasmoid/metadata.desktop:38
 msgctxt "Comment"
 msgid "Paste text/images to a remote server"
 msgstr "Lipește text/imagini spre un server distant"
@@ -535,7 +535,7 @@ msgctxt "Name"
 msgid "Web browser"
 msgstr "Istoricul navigatorului web"
 
-#: applets/webbrowser/metadata.desktop:36
+#: applets/webbrowser/metadata.desktop:37
 msgctxt "Comment"
 msgid "Add a webpage on your desktop."
 msgstr ""
@@ -598,7 +598,7 @@ msgctxt "Name"
 msgid "DataEngine for Kimpanel"
 msgstr ""
 
-#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:42
+#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:43
 msgctxt "Comment"
 msgid "DataEngine for Kimpanel"
 msgstr "Motor de date pentru Kimpanel"
@@ -686,7 +686,7 @@ msgctxt "Name"
 msgid "Previews"
 msgstr "Previzualizator"
 
-#: desktopswitchers/previews/metadata.desktop:35
+#: desktopswitchers/previews/metadata.desktop:36
 msgctxt "Comment"
 msgid "A desktop switcher layout with previews of the desktops"
 msgstr ""
@@ -723,7 +723,7 @@ msgctxt "Name"
 msgid "Special Characters"
 msgstr "Caractere speciale"
 
-#: runners/characters/CharacterRunner.desktop:52
+#: runners/characters/CharacterRunner.desktop:53
 msgctxt "Comment"
 msgid "Creates special characters from their hexadecimal codes"
 msgstr "Creează caractere speciale din codurile hexazecimale ale acestora"
@@ -753,7 +753,7 @@ msgctxt "Name"
 msgid "Date and Time"
 msgstr "Data și ora"
 
-#: runners/datetime/plasma-runner-datetime.desktop:53
+#: runners/datetime/plasma-runner-datetime.desktop:54
 msgctxt "Comment"
 msgid "The current date and time, locally or in any timezone"
 msgstr "Data și ora curentă, local sau din orice fus orar"
@@ -770,8 +770,8 @@ msgctxt "Name"
 msgid "Calendar Events"
 msgstr "Evenimentele calendarului"
 
-#: runners/events/plasma-runner-events_config.desktop:48
-#: runners/events/plasma-runner-events.desktop:48
+#: runners/events/plasma-runner-events_config.desktop:49
+#: runners/events/plasma-runner-events.desktop:49
 msgctxt "Comment"
 msgid "Calendar Events runner"
 msgstr "Executor de evenimente ale calendarului"
@@ -811,7 +811,7 @@ msgctxt "Name"
 msgid "Kopete Contacts"
 msgstr "Contacte Kopete"
 
-#: runners/kopete/plasma-runner-kopete.desktop:47
+#: runners/kopete/plasma-runner-kopete.desktop:48
 msgctxt "Comment"
 msgid "Search contacts from Kopete"
 msgstr "Caută contacte din Kopete"
@@ -866,10 +866,10 @@ msgctxt "Name"
 msgid "Spell Checker"
 msgstr "Verificator ortografic"
 
-#: runners/spellchecker/plasma-runner-spellchecker.desktop:49
+#: runners/spellchecker/plasma-runner-spellchecker.desktop:50
 msgctxt "Comment"
 msgid "Check the spelling of a word"
-msgstr "Verifică ortografia unui cuvînt"
+msgstr "Verifică ortografia unui cuvânt"
 
 #: runners/translator/plasma-runner-translator.desktop:2
 msgctxt "Name"
@@ -899,7 +899,7 @@ msgctxt "Name"
 msgid "Ascii Animals"
 msgstr "Animale ASCII"
 
-#: wallpapers/animals/metadata.desktop:45
+#: wallpapers/animals/metadata.desktop:46
 msgctxt "Comment"
 msgid "Unsure if cute or just nerdy"
 msgstr ""
@@ -919,7 +919,7 @@ msgctxt "Name"
 msgid "Large Icons"
 msgstr ""
 
-#: windowswitchers/big_icons/metadata.desktop:35
+#: windowswitchers/big_icons/metadata.desktop:36
 msgctxt "Comment"
 msgid "A window switcher layout using large icons to represent the window"
 msgstr ""
@@ -929,7 +929,7 @@ msgctxt "Name"
 msgid "Compact"
 msgstr ""
 
-#: windowswitchers/compact/metadata.desktop:35
+#: windowswitchers/compact/metadata.desktop:36
 msgctxt "Comment"
 msgid "A compact window switcher layout"
 msgstr ""
@@ -942,7 +942,7 @@ msgctxt "Name"
 msgid "Informative"
 msgstr "Afișează informații meteorologice"
 
-#: windowswitchers/informative/metadata.desktop:35
+#: windowswitchers/informative/metadata.desktop:36
 msgctxt "Comment"
 msgid "An informative window switcher layout including desktop name"
 msgstr ""
@@ -962,7 +962,7 @@ msgctxt "Name"
 msgid "Small Icons"
 msgstr ""
 
-#: windowswitchers/small_icons/metadata.desktop:35
+#: windowswitchers/small_icons/metadata.desktop:36
 msgctxt "Comment"
 msgid "A window switcher layout using small icons to represent the window"
 msgstr ""
@@ -972,7 +972,7 @@ msgctxt "Name"
 msgid "Text Only"
 msgstr ""
 
-#: windowswitchers/text/metadata.desktop:35
+#: windowswitchers/text/metadata.desktop:36
 msgctxt "Comment"
 msgid "A window switcher layout only showing window captions"
 msgstr ""
@@ -982,7 +982,7 @@ msgctxt "Name"
 msgid "Thumbnails"
 msgstr ""
 
-#: windowswitchers/thumbnails/metadata.desktop:35
+#: windowswitchers/thumbnails/metadata.desktop:36
 msgctxt "Comment"
 msgid "A window switcher layout using live thumbnails"
 msgstr ""
@@ -1018,7 +1018,7 @@ msgstr ""
 
 #~ msgctxt "Comment"
 #~ msgid "Communicate using the Social Desktop"
-#~ msgstr "Comunicați utilizînd Biroul Social"
+#~ msgstr "Comunicați utilizând Biroul Social"
 
 #~ msgctxt "Keywords"
 #~ msgid "Utilities;"
@@ -1038,7 +1038,7 @@ msgstr ""
 
 #~ msgctxt "Comment"
 #~ msgid "Displays currently playing audio"
-#~ msgstr "Afișează cîntecul redat la moment"
+#~ msgstr "Afișează cântecul redat la moment"
 
 #~ msgctxt "Name"
 #~ msgid "Pastebin"
@@ -1062,7 +1062,7 @@ msgstr ""
 
 #~ msgctxt "Comment"
 #~ msgid "Paste text snippets"
-#~ msgstr "Lipește frînturi de text"
+#~ msgstr "Lipește frânturi de text"
 
 #~ msgctxt "Name"
 #~ msgid "Remember The Milk"
@@ -1078,7 +1078,7 @@ msgstr ""
 
 #~ msgctxt "Comment"
 #~ msgid "Stay informed with the Social Desktop"
-#~ msgstr "Rămîneți informat cu Biroul Social"
+#~ msgstr "Rămâneți informat cu Biroul Social"
 
 #~ msgctxt "Comment"
 #~ msgid "OpenDesktop Activities Widget"
@@ -1090,7 +1090,7 @@ msgstr ""
 
 #~ msgctxt "Comment"
 #~ msgid "Something interesting has happened in your friends network"
-#~ msgstr "S-a întîmplat ceva interesant în rețeaua prietenilor"
+#~ msgstr "S-a întâmplat ceva interesant în rețeaua prietenilor"
 
 #~ msgctxt "Name"
 #~ msgid "KDE Commits Engine"
@@ -1154,7 +1154,7 @@ msgstr ""
 
 #~ msgctxt "Comment"
 #~ msgid "Night Rock by Tigert"
-#~ msgstr "Stîncă nocturnă de Tigert"
+#~ msgstr "Stâncă nocturnă de Tigert"
 
 #~ msgctxt "Comment"
 #~ msgid "Pavement"
@@ -1206,7 +1206,7 @@ msgstr ""
 
 #~ msgctxt "Comment"
 #~ msgid "A simulated life form eats your wallpaper"
-#~ msgstr "O formă de viață simulată vă mănîncă fundalul biroului"
+#~ msgstr "O formă de viață simulată vă mănâncă fundalul biroului"
 
 #~ msgctxt "Name"
 #~ msgid "Weather"
@@ -1282,7 +1282,7 @@ msgstr ""
 
 #~ msgctxt "Comment"
 #~ msgid "3D model of the Earth"
-#~ msgstr "Modelul 3D al Pămîntului"
+#~ msgstr "Modelul 3D al Pământului"
 
 #, fuzzy
 #~| msgctxt "Name"

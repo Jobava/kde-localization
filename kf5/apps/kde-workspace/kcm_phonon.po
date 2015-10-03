@@ -114,7 +114,7 @@ msgstr "Preferă"
 #. i18n: ectx: property (text), widget (QToolButton, deferButton)
 #: backendselection.ui:70 devicepreference.ui:206
 msgid "Defer"
-msgstr "Amînă"
+msgstr "Amână"
 
 #: devicepreference.cpp:92
 msgid "Audio Playback"
@@ -291,11 +291,11 @@ msgstr "Configurare echipament audio"
 
 #: testspeakerwidget.cpp:148
 msgid "Front Left"
-msgstr "Stînga față"
+msgstr "Stânga față"
 
 #: testspeakerwidget.cpp:150
 msgid "Front Left of Center"
-msgstr "Față, stînga de centru"
+msgstr "Față, stânga de centru"
 
 #: testspeakerwidget.cpp:152
 msgid "Front Center"
@@ -315,7 +315,7 @@ msgstr "Dreapta față"
 
 #: testspeakerwidget.cpp:160
 msgid "Side Left"
-msgstr "Stînga lateral"
+msgstr "Stânga lateral"
 
 #: testspeakerwidget.cpp:162
 msgid "Side Right"
@@ -323,7 +323,7 @@ msgstr "Lateral dreapta"
 
 #: testspeakerwidget.cpp:164
 msgid "Rear Left"
-msgstr "Stînga spate"
+msgstr "Stânga spate"
 
 #: testspeakerwidget.cpp:166
 msgid "Rear Center"

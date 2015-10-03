@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kstyle_config\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-23 08:55+0000\n"
+"POT-Creation-Date: 2015-09-25 08:21+0000\n"
 "PO-Revision-Date: 2013-11-26 23:20+0200\n"
 "Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
@@ -71,7 +71,7 @@ msgstr "Activat"
 
 #: oxygendemodialog.cpp:77
 msgid "Right to left layout"
-msgstr "Aranjament de la dreapta la stînga"
+msgstr "Aranjament de la dreapta la stânga"
 
 #: oxygendemodialog.cpp:90
 msgid "Input Widgets"
@@ -182,27 +182,27 @@ msgid "This is a sample text"
 msgstr "Acesta este un text exemplificativ"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: ui/oxygenbenchmarkwidget.ui:20
+#: ui/oxygenbenchmarkwidget.ui:29
 msgid "Modules"
 msgstr "Module"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: ui/oxygenbenchmarkwidget.ui:26
+#: ui/oxygenbenchmarkwidget.ui:35
 msgid "Select below the modules for which you want to run the simulation:"
 msgstr "Selectați mai jos modulele pentru care vreți să rulați simularea."
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: ui/oxygenbenchmarkwidget.ui:39
+#: ui/oxygenbenchmarkwidget.ui:48
 msgid "Options"
 msgstr "Opțiuni"
 
 #. i18n: ectx: property (text), widget (QCheckBox, grabMouseCheckBox)
-#: ui/oxygenbenchmarkwidget.ui:45
+#: ui/oxygenbenchmarkwidget.ui:54
 msgid "Grab mouse"
 msgstr "Trage șoricelul"
 
 #. i18n: ectx: property (text), widget (QPushButton, runButton)
-#: ui/oxygenbenchmarkwidget.ui:86
+#: ui/oxygenbenchmarkwidget.ui:82
 msgid "Run Simulation"
 msgstr "Rulează simularea"
 
@@ -348,7 +348,7 @@ msgstr "Săgeată jos"
 #. i18n: ectx: property (text), widget (QToolButton, toolButton_11)
 #: ui/oxygenbuttondemowidget.ui:397
 msgid "Left Arrow"
-msgstr "Săgeată stînga"
+msgstr "Săgeată stânga"
 
 #. i18n: ectx: property (text), widget (QToolButton, toolButton_12)
 #: ui/oxygenbuttondemowidget.ui:407
@@ -379,7 +379,7 @@ msgstr "Numai text"
 #. i18n: ectx: property (text), item, widget (KComboBox, textPosition)
 #: ui/oxygenbuttondemowidget.ui:444 ui/oxygentabdemowidget.ui:105
 msgid "Text Alongside Icons"
-msgstr "Text lîngă pictograme"
+msgstr "Text lângă pictograme"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, textPosition)
 #: ui/oxygenbuttondemowidget.ui:449
@@ -428,12 +428,12 @@ msgstr "Direcție aranjament:"
 #. i18n: ectx: property (text), item, widget (KComboBox, directionComboBox)
 #: ui/oxygenframedemowidget.ui:45
 msgid "Left to Right"
-msgstr "De la stînga la dreapta"
+msgstr "De la stânga la dreapta"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, directionComboBox)
 #: ui/oxygenframedemowidget.ui:50
 msgid "Right to Left"
-msgstr "De la dreapta la stînga"
+msgstr "De la dreapta la stânga"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, directionComboBox)
 #: ui/oxygenframedemowidget.ui:55
@@ -466,7 +466,7 @@ msgstr "Plat"
 #, fuzzy
 #| msgid "Sunken"
 msgid "S&unken"
-msgstr "Adîncit"
+msgstr "Adâncit"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: ui/oxygenframedemowidget.ui:147
@@ -527,7 +527,7 @@ msgstr "Editor text multi-linie:"
 #. i18n: ectx: property (text), widget (QCheckBox, wrapCheckBox)
 #: ui/oxygeninputdemowidget.ui:144
 msgid "Wrap words"
-msgstr "Aliniere rînduri"
+msgstr "Aliniere rânduri"
 
 #. i18n: ectx: property (text), widget (QCheckBox, flatCheckBox)
 #: ui/oxygeninputdemowidget.ui:151
@@ -610,17 +610,17 @@ msgstr "Prima descriere"
 #. i18n: ectx: property (text), widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:123
 msgid "New Row"
-msgstr "Rînd nou"
+msgstr "Rând nou"
 
 #. i18n: ectx: property (text), widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:128
 msgid "First Row"
-msgstr "Primul rînd"
+msgstr "Primul rând"
 
 #. i18n: ectx: property (text), widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:133
 msgid "Third Row"
-msgstr "Al treilea rînd"
+msgstr "Al treilea rând"
 
 #. i18n: ectx: property (text), widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:138
@@ -640,7 +640,7 @@ msgstr "A treia coloană"
 #. i18n: ectx: property (text), item, widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:153
 msgid "Top-left"
-msgstr "Stînga-sus"
+msgstr "Stânga-sus"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:158
@@ -655,7 +655,7 @@ msgstr "Drepta-sus"
 #. i18n: ectx: property (text), item, widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:168
 msgid "Left "
-msgstr "Stînga"
+msgstr "Stânga"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:173
@@ -670,7 +670,7 @@ msgstr "Dreapta"
 #. i18n: ectx: property (text), item, widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:183
 msgid "Bottom-left"
-msgstr "Stînga-jos"
+msgstr "Stânga-jos"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, tableWidget)
 #: ui/oxygenlistdemowidget.ui:188
@@ -881,14 +881,14 @@ msgstr "Previzualizare"
 
 #~ msgid "Configure fading transition when a label's text is changed"
 #~ msgstr ""
-#~ "Configurează tranziția atenuată cînd textul unei etichete s-a schimbat"
+#~ "Configurează tranziția atenuată când textul unei etichete s-a schimbat"
 
 #~ msgid "Text editor transitions"
 #~ msgstr "Tranziții redactor de text"
 
 #~ msgid "Configure fading transition when an editor's text is changed"
 #~ msgstr ""
-#~ "Configurează tranziția atenuată cînd textul unui editor s-a schimbat"
+#~ "Configurează tranziția atenuată când textul unui editor s-a schimbat"
 
 #~ msgid "Combo box transitions"
 #~ msgstr "Tranziții listă de selecție"
@@ -896,7 +896,7 @@ msgstr "Previzualizare"
 #~ msgid ""
 #~ "Configure fading transition when a combo box's selected choice is changed"
 #~ msgstr ""
-#~ "Configurează tranziția atenuată cînd selecția aleasă a unei liste de "
+#~ "Configurează tranziția atenuată când selecția aleasă a unei liste de "
 #~ "selecție s-a schimbat"
 
 #~ msgid "Busy indicator steps"
@@ -988,7 +988,7 @@ msgstr "Previzualizare"
 #~ msgstr "Ascunde acceleratorii de tastatură întotdeauna"
 
 #~ msgid "Show Keyboard Accelerators When Needed"
-#~ msgstr "Arată acceleratorii de tastatură cînd trebuie"
+#~ msgstr "Arată acceleratorii de tastatură când trebuie"
 
 #~ msgid "Always Show Keyboard Accelerators"
 #~ msgstr "Arată acceleratorii de tastatură întotdeauna"

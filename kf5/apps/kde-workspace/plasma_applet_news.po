@@ -58,8 +58,8 @@ msgid ""
 "Note that timestamps, titles and descriptions are available only if they are "
 "provided by feed."
 msgstr ""
-"Rețineți că marcajele de timp, titlurile și descrierile sînt disponibile "
-"numai dacă sînt furnizate de flux."
+"Rețineți că marcajele de timp, titlurile și descrierile sunt disponibile "
+"numai dacă sunt furnizate de flux."
 
 #. i18n: ectx: property (text), widget (QLabel, label_1)
 #: feedsConfig.ui:18

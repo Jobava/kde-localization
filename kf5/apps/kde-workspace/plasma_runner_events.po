@@ -68,7 +68,7 @@ msgstr "astăzi"
 #: datetime_parser.cpp:37
 msgctxt "Next day keyword"
 msgid "tomorrow"
-msgstr "mîine"
+msgstr "mâine"
 
 #: datetime_parser.cpp:38
 msgctxt "Previous day keyword"
@@ -83,7 +83,7 @@ msgstr "de la"
 #: datetime_parser.cpp:41
 msgctxt "Keyword for finish datetime"
 msgid "to"
-msgstr "pînă la"
+msgstr "până la"
 
 #: events.cpp:47
 msgctxt "Event creation keyword"

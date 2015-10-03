@@ -177,7 +177,7 @@ msgstr "Fundaluri din &sistem:"
 #~ "Change the color of the frame that it may be visible when the wallpaper "
 #~ "is centered or scaled with the same proportions."
 #~ msgstr ""
-#~ "Schimbați culoarea cadrului astfel încît acesta să fie vizibil cînd "
+#~ "Schimbați culoarea cadrului astfel încât acesta să fie vizibil când "
 #~ "imaginea de fundal este centrată sau scalată cu aceleași proporții."
 
 #~ msgid "Remove from list"

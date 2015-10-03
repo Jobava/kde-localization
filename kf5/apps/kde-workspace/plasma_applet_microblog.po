@@ -93,7 +93,7 @@ msgstr "Este necesară parola."
 
 #: microblog.cpp:552
 msgid "Your account information is incomplete."
-msgstr "Informațiile despre cont sînt încomplete."
+msgstr "Informațiile despre cont sunt încomplete."
 
 #: microblog.cpp:562
 msgid "Failed to access kwallet. Store password in config file instead?"
