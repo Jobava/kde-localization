@@ -2,3 +2,7 @@
 .svn
 .git
 *#
+kdelibs4
+kf5
+stable-kdelibs4
+stable-kf5
