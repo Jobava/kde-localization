@@ -2,13 +2,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Sergiu Bivol <sergiu@ase.md>, 2011, 2012.
+# Jobava <jobaval10n@gmail.com>, 2015
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2015-10-20 02:14+0000\n"
-"PO-Revision-Date: 2012-12-12 20:38+0200\n"
-"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"PO-Revision-Date: 2015-11-08 01:00+0200\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -42,6 +44,10 @@ msgid ""
 "sup> logo</a> are registered trademarks of <a href=\"http://ev.kde.org/\" "
 "title=\"Homepage of the KDE non-profit Organization\">KDE e.V.</a>"
 msgstr ""
+"KDE<sup>&#174;</sup> și <a href=\"/media/images/"
+"trademark_kde_gear_black_logo.png\">K Desktop Environment<sup>&#174;</"
+"sup> logo</a> sunt mărci înregistrate ale <a href=\"http://ev.kde.org/\" "
+"title=\"Pagina principală a organizației nonprofit KDE\">KDE e.V.</a>"
 
 #: includes/chihuahua/template-bottom2.inc:24
 #: includes/derry/template-bottom2.inc:13
@@ -52,12 +58,12 @@ msgstr "Juridic"
 
 #: includes/chihuahua/template-top1.inc:140
 msgid "DONATE"
-msgstr ""
+msgstr "DONEAZĂ"
 
 #: includes/chihuahua/template-top1.inc:140
 #: includes/newlayout/template-bottom2.inc:85
 msgid "(Why?)"
-msgstr ""
+msgstr "(De ce?)"
 
 #: includes/chihuahua/template-top1.inc:142
 #: includes/newlayout/template-bottom2.inc:88
@@ -65,11 +71,13 @@ msgid ""
 "Your donation is smaller than %1€. This means that most of your donation"
 "\\nwill end up in processing fees. Do you want to continue?"
 msgstr ""
+"Donația dumneavoastră este mai mică de %1€. Aceasta înseamnă că cea mai mare parte din donație "
+"vor fi cheltuieli de procesare. Doriți să continuați?"
 
 #: includes/chihuahua/template-top1.inc:153
 #: includes/newlayout/template-bottom2.inc:99
 msgid "Donate"
-msgstr ""
+msgstr "Donează"
 
 #: includes/chihuahua/template-top1.inc:175 includes/derry/toolbox.inc:16
 #: includes/newlayout/template-bottom2.inc:72
@@ -85,54 +93,44 @@ msgid "Thanks To:"
 msgstr "Mulțumiri:"
 
 #: includes/classes/class_appdata.inc:124
-#, fuzzy
-#| msgid ""
-#| "%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
-#| "licenses/gpl.html\">GNU General Public License (GPL), Version 2</a>."
 msgid ""
 "%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
 "licenses/old-licenses/gpl-2.0.html\">GNU General Public License (GPL), "
 "Version 2</a>."
 msgstr ""
-"%1 este distribuit sub termenii <a href=\"http://www.gnu.org/licenses/gpl."
-"html\">Licenței Publice Generale GNU (GPL), versiunea 2</a>."
+"%1 este distribuit sub termenii <a href=\"http://www.gnu.org/"
+"licenses/old-licenses/gpl-2.0.html\">Licenței generale publice GNU(GPL), "
+"versiunea 2</a>."
 
 #: includes/classes/class_appdata.inc:127
-#, fuzzy
-#| msgid ""
-#| "%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
-#| "licenses/gpl.html\">GNU General Public License (GPL), Version 2</a>."
 msgid ""
 "%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
 "licenses/gpl.html\">GNU General Public License (GPL), Version 3</a>."
 msgstr ""
-"%1 este distribuit sub termenii <a href=\"http://www.gnu.org/licenses/gpl."
-"html\">Licenței Publice Generale GNU (GPL), versiunea 2</a>."
+"%1 este distribuit sub termenii <a href=\"http://www.gnu.org/"
+"licenses/gpl.html\">Licenței generale publice GNU(GPL), versiunea 3</a>."
 
 #: includes/classes/class_appdata.inc:130
-#, fuzzy
-#| msgid ""
-#| "%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
-#| "licenses/gpl.html\">GNU General Public License (GPL), Version 2</a>."
 msgid ""
 "%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
 "licenses/old-licenses/lgpl-2.0.html\"> GNU Library General Public License, "
 "version 2</a>."
 msgstr ""
-"%1 este distribuit sub termenii <a href=\"http://www.gnu.org/licenses/gpl."
-"html\">Licenței Publice Generale GNU (GPL), versiunea 2</a>."
+"%1 este distribuit sub termenii <a href=\"http://www.gnu.org/"
+"licenses/old-licenses/lgpl-2.0.html\"> Licenței generale publice GNU, "
+"versiunea 2</a>."
 
 #: includes/classes/class_appdata.inc:203
 msgid "Browse %1 source code on WebSVN"
-msgstr ""
+msgstr "Răsfoiește codul sursă %1 pe WebSVN"
 
 #: includes/classes/class_appdata.inc:206
 msgid "Browse %1 source code on Git"
-msgstr ""
+msgstr "Răsfoiește codul sursă %1 pe Git"
 
 #: includes/classes/class_appdata.inc:214
 msgid "Checkout source code:"
-msgstr ""
+msgstr "Descarcă codul sursă:"
 
 #: includes/classes/class_appdata.inc:216
 msgid "Clone %1 source code:"
@@ -151,12 +149,16 @@ msgid ""
 "%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
 "licenses/lgpl.html\">GNU Lesser General Public License (LGPL), Version 2</a>."
 msgstr ""
+"%1 este distribuit sub termenii <a href=\"http://www.gnu.org/"
+"licenses/lgpl.html\">Licenței generale publice minore GNU (LGPL), versiunea 2</a>."
 
 #: includes/classes/class_appinfo.inc:104
 msgid ""
 "Unknown license, valid licenses for setLicense() are 'gpl', 'lgpl'. Update "
 "www/media/includes/classes/class_appinfo.inc if another is required."
 msgstr ""
+"Licență necunoscută, licențe valide pentru setLicense() sunt 'gpl', 'lgpl'. Actualizați "
+"www/media/includes/classes/class_appinfo.inc dacă este necesară o altă licență."
 
 #: includes/classes/class_appinfo.inc:114
 msgid "<b>Version %1</b>"
@@ -191,7 +193,7 @@ msgstr "Ultimele știri"
 
 #: includes/dotandapps.inc:44
 msgid "This is a list of the latest news headlines shown on KDE Dot News"
-msgstr ""
+msgstr "Aceasta este o listă cu ultimele capete de afiș de pe KDE Dot News"
 
 #: includes/dotandapps.inc:44 includes/dotandapps.inc:97
 #: includes/functions.inc:113 includes/rss2.inc:67
@@ -220,7 +222,7 @@ msgstr "Ultimele aplicații"
 
 #: includes/dotandapps.inc:96
 msgid "List of latest third party application releases for KDE"
-msgstr ""
+msgstr "Listează ultimele aplicații terțe lansate penru KDE"
 
 #: includes/dotandapps.inc:98
 msgid "Application / Release"
@@ -239,14 +241,16 @@ msgid ""
 "Application feed provided by <a href=\"http://kde-apps.org/\">kde-apps.org</"
 "a>, an independent KDE website."
 msgstr ""
+"Fluxul aplicației este oferit de <a href=\"http://kde-apps.org/\">kde-apps.org</"
+"a>, un sait independent KDE."
 
 #: includes/footer.inc:6
 msgid "Edit"
-msgstr ""
+msgstr "Editează"
 
 #: includes/footer.inc:34
 msgid "Global navigation links"
-msgstr ""
+msgstr "Legături globale de navigare"
 
 #: includes/footer.inc:36
 msgid "KDE Home"
@@ -254,7 +258,7 @@ msgstr "Saitul KDE"
 
 #: includes/footer.inc:37
 msgid "KDE Accessibility Home"
-msgstr ""
+msgstr "Prima pagină, accesibilitate KDE"
 
 #: includes/footer.inc:38
 msgid "Description of Access Keys"
@@ -292,7 +296,7 @@ msgstr "Limbă:"
 
 #: includes/newlayout/template-bottom2.inc:85
 msgid "Donate:"
-msgstr ""
+msgstr "Donează:"
 
 #: includes/newlayout/template-bottom2.inc:116
 msgid ""
@@ -334,7 +338,7 @@ msgstr "Documentație"
 
 #: includes/template-bottom2.inc:11
 msgid "Hotspot"
-msgstr ""
+msgstr "Hotspot"
 
 #: includes/template-bottom2.inc:66
 msgid ""
@@ -343,10 +347,14 @@ msgid ""
 "<a href=\"http://ev.kde.org/\" title=\"Homepage of the KDE non-profit "
 "Organization\">KDE e.V.</a>"
 msgstr ""
+"KDE<sup>&#174;</sup> și <a href=\"/media/images/kde_gear_black.png\"> K "
+"Desktop Environment<sup>&#174;</sup> logo</a> sunt mărci înregistrate ale "
+"<a href=\"http://ev.kde.org/\" title=\"Prima pagină a organizației nonprofit KDE"
+"\">KDE e.V.</a>"
 
 #: includes/template-top1.inc:21
 msgid "Choose one of the local KDE sites or mirror"
-msgstr ""
+msgstr "Alege unul din saiturile KDE sau oglinzi"
 
 #: includes/template-top1.inc:22
 msgid "Choose your location"
@@ -354,11 +362,11 @@ msgstr "Alegeți-vă locația"
 
 #: includes/template-top1.inc:24
 msgid "KDE in Your Country"
-msgstr "KDE în țara ta"
+msgstr "KDE în țara dumneavoastră"
 
 #: includes/template-top1.inc:29 includes/template-top1.inc:67
 msgid "Americas"
-msgstr "Americile"
+msgstr "Americi"
 
 #: includes/template-top1.inc:30
 msgid "Brasil"
@@ -530,7 +538,7 @@ msgstr "Mergi"
 
 #: includes/template-top1.inc:111
 msgid "A complete structural overview of the KDE.org web pages"
-msgstr ""
+msgstr "Un rezumat complet structural al paginilor web KDE.org"
 
 #: includes/template-top1.inc:111
 msgid "Sitemap"
