@@ -1,6 +1,9 @@
 # kde-localization
 Romanian localization for KDE projects
 
+## Îndrumare
+* https://ro.kde.org/Indrumar/
+
 ## Main resources
 * [English website](http://i18n.kde.org/team-infos.php?teamcode=ro)
 * [Romanian website](https://ro.kde.org/)
