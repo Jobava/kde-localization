@@ -10,6 +10,7 @@
 # Sergiu Bivol <sergiu.bivol@jurnaltv.md>, 2009, 2010, 2011, 2012.
 # Cristian Oneț <onet.cristian@gmail.com>, 2011, 2012.
 # Tatiana Țurcanu <turcanu DOT tatiana91 AT gmail DOT com>, 2015.
+# Jobava <jobaval10n@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: klipper\n"
@@ -29,21 +30,21 @@ msgstr ""
 
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Claudiu Costin,Sergiu Bivol, Tatiana Țurcanu"
+msgstr "Claudiu Costin, Sergiu Bivol, Tatiana Țurcanu, Jobava"
 
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ",sergiu@ase.md, turcanu DOT tatiana91 AT gmail DOT com"
+msgstr ",sergiu@ase.md, turcanu DOT tatiana91 AT gmail DOT com, jobaval10n@gmail.com"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ReplayActionInHistory)
 #: actionsconfig.ui:17
 msgid "Replay actions on an item selected from history"
-msgstr "Aplică acțiunile pe un element selectat din istoric"
+msgstr "Replică acțiunile pe un element selectat din istoric"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_StripWhiteSpace)
 #: actionsconfig.ui:24
 msgid "Remove whitespace when executing actions"
-msgstr "Elimină spațiile albe când execută acțiunile"
+msgstr "Elimină spațiile albe la executarea acțiunilor"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableMagicMimeActions)
 #. i18n: ectx: label, entry (EnableMagicMimeActions), group (Actions)
@@ -96,9 +97,9 @@ msgid ""
 "wikipedia.org/wiki/Regular_expression\">Wikipedia entry about this topic</a>."
 msgstr ""
 "Apăsați pe coloana unui element evidențiat pentru a-l modifica. „%s” într-o "
-"comandă va fi înlocuit cu conținutul clipboard-ului.<br>Pentru mai multe "
-"informații despre expresiile regulate, puteți arunca o privire la <a href=\""
-"http://en.wikipedia.org/wiki/Regular_expression\">Compartimentul Wikipedia "
+"comandă va fi înlocuit cu conținutul clipboardului.<br>Pentru mai multe "
+"informații despre expresiile regulate, puteți arunca o privire peste <a href=\""
+"http://en.wikipedia.org/wiki/Regular_expression\">Articolul Wikipedia "
 "dedicat acestui subiect</a>."
 
 #: configdialog.cpp:37
@@ -161,8 +162,8 @@ msgstr ""
 "<qt>Acest lucru vă permite să specificați ferestrele pentru care Klipper nu "
 "ar trebui să invoce „acțiunile”. Utilizați <br /> <br /><center><b>xprop | "
 "grep WM_CLASS</b></center> <br />într-o fereastră terminal pentru a "
-"determina WM_CLASS-ul unei ferestre. În continuare dați clic pe fereastra pe "
-"care doriți să o examinați. Primul șir de text care va fi afișat după semnul "
+"determina WM_CLASS-ul unei ferestre. După aceasta, clic pe fereastra pe "
+"care doriți să o examinați. Primul șir de text afișat după semnul "
 "egal este cel pe care trebuie să îl scrieți aici.</qt>"
 
 #: editactiondialog.cpp:39
@@ -171,7 +172,7 @@ msgstr "Ignoră"
 
 #: editactiondialog.cpp:41
 msgid "Replace Clipboard"
-msgstr "Înlocuiește clipboard-ul"
+msgstr "Înlocuiește clipboardul"
 
 #: editactiondialog.cpp:43
 msgid "Add to Clipboard"
@@ -187,7 +188,7 @@ msgstr "Manipularea rezultatului"
 
 #: editactiondialog.cpp:267
 msgid "Action Properties"
-msgstr "Proprietăți acțiune"
+msgstr "Proprietățile acțiunii"
 
 #: editactiondialog.cpp:373
 msgid "new command"
@@ -195,12 +196,12 @@ msgstr "comandă nouă"
 
 #: editactiondialog.cpp:374
 msgid "Command Description"
-msgstr "Descriere comandă"
+msgstr "Descrierea comenzii"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: editactiondialog.ui:20
 msgid "Action properties:"
-msgstr "Proprietăți acțiune:"
+msgstr "Proprietățile acțiunii:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: editactiondialog.ui:42
@@ -240,13 +241,13 @@ msgstr "Dublu-clic pe un element pentru modificare"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_KeepClipboardContents)
 #: generalconfig.ui:17
 msgid "Save clipboard contents on exit"
-msgstr "Salvează conținutul clipboard-ului la ieșire"
+msgstr "Salvează conținutul clipboardului la ieșire"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_PreventEmptyClipboard)
 #. i18n: ectx: label, entry (PreventEmptyClipboard), group (General)
 #: generalconfig.ui:24 klipper.kcfg:16
 msgid "Prevent empty clipboard"
-msgstr "Previne clipboard-ul gol"
+msgstr "Previne clipboardul gol"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_IgnoreImages)
 #. i18n: ectx: label, entry (IgnoreImages), group (General)
@@ -272,7 +273,7 @@ msgstr "Numai selecție textuală"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_SyncClipboards)
 #: generalconfig.ui:58
 msgid "Synchronize contents of the clipboard and the selection"
-msgstr "Sincronizează conținutul clipboard-ului cu cel al selecției"
+msgstr "Sincronizează conținutul clipboardului cu cel al selecției"
 
 #. i18n: ectx: property (text), widget (QLabel, timeout_label)
 #: generalconfig.ui:68
@@ -303,7 +304,7 @@ msgstr "&Ieșire"
 
 #: klipper.cpp:167
 msgid "Manually Invoke Action on Current Clipboard"
-msgstr "Invocă manual acțiunea pentru clipboard-ul curent"
+msgstr "Invocă manual acțiunea pentru clipboardul curent"
 
 #: klipper.cpp:174
 msgid "&Edit Contents..."
@@ -311,7 +312,7 @@ msgstr "&Editează conținutul..."
 
 #: klipper.cpp:186
 msgid "&Show Barcode..."
-msgstr "Arată cod de &bare..."
+msgstr "Arată codul de &bare..."
 
 #: klipper.cpp:197
 msgid "Next History Item"
@@ -323,7 +324,7 @@ msgstr "Elementul precedent din istoric"
 
 #: klipper.cpp:207
 msgid "Open Klipper at Mouse Position"
-msgstr "Deschide Klipper la poziția șoricelului"
+msgstr "Deschide Klipper la poziția mausului"
 
 #: klipper.cpp:492
 msgid ""
@@ -359,11 +360,11 @@ msgstr "Cod de bare pentru mobil"
 
 #: klipper.cpp:974
 msgid "Really delete entire clipboard history?"
-msgstr "Sigur ștergeți întregul istoric al clipboard-ului?"
+msgstr "Sigur ștergeți întregul istoric al clipboardului?"
 
 #: klipper.cpp:975
 msgid "Delete clipboard history?"
-msgstr "Ștergeți istoricul clipboard-ului?"
+msgstr "Ștergeți istoricul clipboardului?"
 
 #: klipper.cpp:993 klipper.cpp:1002
 msgid "Clipboard history"
@@ -375,7 +376,7 @@ msgstr "sus"
 
 #: klipper.cpp:1026
 msgid "current"
-msgstr "curent"
+msgstr "actual"
 
 #: klipper.cpp:1033
 msgid "down"
@@ -389,7 +390,7 @@ msgstr "Versiune Klipper"
 #. i18n: ectx: label, entry (KeepClipboardContents), group (General)
 #: klipper.kcfg:12
 msgid "Keep clipboard contents"
-msgstr "Păstrează conținutul clipboard-ului"
+msgstr "Păstrează conținutul clipboardului"
 
 #. i18n: ectx: whatsthis, entry (PreventEmptyClipboard), group (General)
 #: klipper.kcfg:18
@@ -399,7 +400,7 @@ msgid ""
 "emptied."
 msgstr ""
 "Efectul acestei opțiuni este că clipboard nu va fi golit niciodată. De "
-"exemplu, când o aplicație se termină în mod normal clipboard-ul este golit."
+"exemplu, când o aplicație se termină în mod normal clipboardul este golit."
 
 #. i18n: ectx: label, entry (IgnoreSelection), group (General)
 #: klipper.kcfg:25
@@ -414,15 +415,15 @@ msgid ""
 "entered into the clipboard history, though it is still available for pasting "
 "using the middle mouse button.</qt>"
 msgstr ""
-"<qt>Când marcați o regiune de ecran cu șoricelul sau cu tastatura, aceasta "
+"<qt>Când marcați o regiune de ecran cu mausul sau cu tastatura, aceasta "
 "se numește „selecție”.<br />Dacă alegeți această opțiune, selecția nu va fi "
-"adăugată la istoricul clipboard-ului dar va fi totuși disponibilă pentru "
-"lipire prin folosirea butonului din mijloc al șoricelului.</qt>"
+"adăugată la istoricul clipboardului dar va fi totuși disponibilă pentru "
+"lipire prin folosirea butonului din mijloc al mausului.</qt>"
 
 #. i18n: ectx: label, entry (SyncClipboards), group (General)
 #: klipper.kcfg:34
 msgid "Synchronize clipboard and selection"
-msgstr "Sincronizează clipboard-ul și selecția"
+msgstr "Sincronizează clipboardul și selecția"
 
 #. i18n: ectx: whatsthis, entry (SyncClipboards), group (General)
 #: klipper.kcfg:36
@@ -435,13 +436,13 @@ msgid ""
 "clipboard history, but the selection can only be pasted using the middle "
 "mouse button. Also see the 'Ignore Selection' option.</qt>"
 msgstr ""
-"<qt>Când marcați o regiune de ecran cu șoricelul sau cu tastatura, aceasta "
+"<qt>Când marcați o regiune de ecran cu mausul sau cu tastatura, aceasta "
 "se numește „selecție”.<br />Dacă alegeți această opțiune, selecția și "
-"clipboard-ul vor fi sincronizate astfel încât orice selecție va fi "
+"clipboardul vor fi sincronizate astfel încât orice selecție va fi "
 "disponibilă imediat pentru lipire oriunde folosind orice metodă inclusiv "
-"metoda tradițională a butonului din mijloc de pe șoricel. Altfel, selecția "
-"este adăugată la istoricul clipboard-ului, dar selecția poate fi lipită doar "
-"folosind butonul din mijloc al șoricelului. Vedeți de asemenea opțiunea „"
+"metoda tradițională a butonului din mijloc de pe maus. Altfel, selecția "
+"este adăugată la istoricul clipboardului, dar selecția poate fi lipită doar "
+"folosind butonul din mijloc al mausului. Vedeți de asemenea opțiunea „"
 "Ignoră selecția”.</qt>"
 
 #. i18n: ectx: label, entry (SelectionTextOnly), group (General)
@@ -457,7 +458,7 @@ msgid ""
 "selections are stored in the history, while images and other selections are "
 "not.</qt>"
 msgstr ""
-"<qt>Când marcați o regiune de ecran cu șoricelul sau cu tastatura, aceasta "
+"<qt>Când marcați o regiune de ecran cu mausul sau cu tastatura, aceasta "
 "se numește „selecție”.<br />Dacă alegeți această opțiune, în istoric vor fi "
 "păstrate numai selecțiile textuale, în timp ce imaginile și alte selecții "
 "vor fi ignorate.</qt>"
@@ -465,12 +466,12 @@ msgstr ""
 #. i18n: ectx: label, entry (UseGUIRegExpEditor), group (General)
 #: klipper.kcfg:44
 msgid "Use graphical regexp editor"
-msgstr "Utilizează editor regexp grafic"
+msgstr "Utilizează editorul grafic de expresii regulate"
 
 #. i18n: ectx: label, entry (URLGrabberEnabled), group (General)
 #: klipper.kcfg:48
 msgid "URL grabber enabled"
-msgstr "Acaparator de URL-uri activat"
+msgstr "Detector de URL-uri activat"
 
 #. i18n: ectx: label, entry (NoActionsForWM_CLASS), group (General)
 #: klipper.kcfg:53
@@ -515,7 +516,7 @@ msgstr ""
 "Uneori textul selectat are spații la sfârșit, care, dacă sunt încărcate ca "
 "parte a unui URL, pot determina erori într-un navigator de web. Dacă "
 "activați această opțiune, aceste spații vor fi eliminate de la începutul sau "
-"sfârșitul șirului de text selectat. Conținutul original al clipboard-ului nu "
+"sfârșitul șirului de text selectat. Conținutul anterior al clipboardului nu "
 "va fi modificat."
 
 #. i18n: ectx: label, entry (ReplayActionInHistory), group (Actions)
@@ -571,7 +572,7 @@ msgstr "Andrew Stanley-Jones"
 
 #: main.cpp:53
 msgid "Original Author"
-msgstr "Autor original"
+msgstr "Autor inițial"
 
 #: main.cpp:56
 msgid "Patrick Dubroy"
@@ -612,7 +613,7 @@ msgstr "&Mai mult"
 
 #: tray.cpp:39
 msgid "Clipboard Contents"
-msgstr "Conținutul clipboard-ului"
+msgstr "Conținutul clipboardului"
 
 #: tray.cpp:39 tray.cpp:56
 msgid "Clipboard is empty"
