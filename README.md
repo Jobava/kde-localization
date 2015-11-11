@@ -34,3 +34,4 @@ Romanian localization for KDE projects
 * "undo": desfă -> refă
 * policy: poliță -> politică
 * systray: tavă de system - > zonă de notificare
+* cancel: elimină -> renunță
