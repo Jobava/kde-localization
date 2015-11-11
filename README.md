@@ -24,3 +24,11 @@ Romanian localization for KDE projects
 * Alegeți pachetul din care face parte aplicația, (de ex. „kdegames”) apoi aplicația dorită (de ex. „katomic.po”)
 * Deschideți fișierul cu Lokalize și îl traduceți
 * Trimiteți fișierul tradus prin e-mail ( kde-i18n-ro @ kde.org ) cu subiectul „KDE: traducerea nume_fișier” 
+ 
+## PROBLEME ACTUALE
+
+(format: engleză: problema -> cum ar trebui să fie corect, unde ați întâlnit: program, meniu, cât mai exact)
+
+* "there is a new update": „este o actualizare nouă”, meniu pop-ul global KDE, nu știu ce program
+* player: lector -> „player”, la descrierea programelor ce pot reda muzică sau filme
+* "undo": desfă -> refă
