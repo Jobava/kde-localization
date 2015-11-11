@@ -32,3 +32,5 @@ Romanian localization for KDE projects
 * "there is a new update": „este o actualizare nouă”, meniu pop-ul global KDE, nu știu ce program
 * player: lector -> „player”, la descrierea programelor ce pot reda muzică sau filme
 * "undo": desfă -> refă
+* policy: poliță -> politică
+* systray: tavă de system - > zonă de notificare
